@@ -1,0 +1,340 @@
+{
+  "generatedAt": "2026-07-24T14:01:24.505478Z",
+  "sourceUrl": "https://velo.xyz/news",
+  "apiUrl": "https://velo.xyz/api/n/news",
+  "count": 24,
+  "items": [
+    {
+      "id": 1930,
+      "titleEn": "Odds Opus 4.9 Is Released By The End Of The Week Sit At 62% As Anthropic Continue To Extend Fable’s Inclusion In Subscription Plans",
+      "source": "Polymarket",
+      "priority": 2,
+      "summary": null,
+      "link": null,
+      "time": 1784569099274,
+      "effectivePrice": null,
+      "coins": [],
+      "titleRu": "Коэффициент выхода Opus 4.9 к концу недели составляет 62%, поскольку Anthropic продолжает расширять включение Fable в планы подписки",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1929,
+      "titleEn": "STRATEGY BUYS NO BTC OVER PAST WEEK, ADDS $225M TO USD RESERVE",
+      "source": "FILING",
+      "priority": 1,
+      "summary": null,
+      "link": null,
+      "time": 1784548869694,
+      "effectivePrice": 64928.9,
+      "coins": [
+        "BTC"
+      ],
+      "titleRu": "STRATEGY НЕ ПОКУПАЕТ BTC ЗА ПОСЛЕДУЮЩУЮ НЕДЕЛЮ, ДОБАВЛЯЯ 225 МЛН ДОЛЛАРОВ К ДОЛЛАРОВЫМ РЕЗЕРВАМ",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1928,
+      "titleEn": "Odds Anthropic IPOs This Year At 77%, Whilst The Odds Of It Hitting $2T This Year Slide To 35% Following Release Of Kimi K3",
+      "source": "Polymarket",
+      "priority": 2,
+      "summary": null,
+      "link": null,
+      "time": 1784327278328,
+      "effectivePrice": null,
+      "coins": [],
+      "titleRu": "Вероятность антропного IPO в этом году составляет 77%, тогда как вероятность того, что в этом году он достигнет 2 трлн долларов, упала до 35% после выпуска Kimi K3",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1927,
+      "titleEn": "STRATEGY RAISES $466M FROM COMMON ATM, NO CHANGES TO BTC BALANCE",
+      "source": "FILING",
+      "priority": 1,
+      "summary": null,
+      "link": null,
+      "time": 1783944140108,
+      "effectivePrice": 62907,
+      "coins": [
+        "BTC"
+      ],
+      "titleRu": "СТРАТЕГИЯ ПРИВЛЕКАЕТ 466 МЛН ДОЛЛАРОВ ИЗ ОБЫЧНОГО банкомата, БАЛАНС BTC БЕЗ ИЗМЕНЕНИЙ",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1926,
+      "titleEn": "HYPERLIQUID POLICY CENTRE FILE RESPONSE TO CFTC'S REQUEST TO IDENTIFY FUTURE REGULATION, ASKING TO FORMALLY RECOGNISE THAT ONCHAIN PROTOCOLS DO NOT REQUIRE REGISTRATION, THAT NON-CUSTODIAL WALLETS DO NOT PERFORM THE ROLE OF FINANCIAL INTERMEDIARIES, AND TO GIVE A CLEAR PATH TO RUN REGULATION FUNCTIONS ONCHAIN",
+      "source": "BLOG",
+      "priority": 1,
+      "summary": null,
+      "link": null,
+      "time": 1783609797092,
+      "effectivePrice": 68.348,
+      "coins": [
+        "HYPE"
+      ],
+      "titleRu": "ФАЙЛ ЦЕНТРА ПОЛИТИКИ ГИПЕРЛИКВИДНОСТИ ОТВЕТ НА ЗАПРОС CFTC ОПРЕДЕЛИТЬ БУДУЩЕЕ РЕГУЛИРОВАНИЕ, С ПРОСЬБОЙ ФОРМАЛЬНО ПРИЗНАТЬ, ЧТО ОНЧЕЙН-ПРОКОЛЫ НЕ ТРЕБУЮТ РЕГИСТРАЦИИ, ЧТО НЕКАТОДИАЛЬНЫЕ КОШЕЛЬКИ НЕ ВЫПОЛНЯЮТ РОЛЬ ФИНАНСОВЫХ ПОСРЕДНИКОВ, И ДАТЬ ЯСНЫЙ ПУТЬ ДЛЯ ВЫПОЛНЕНИЯ ФУНКЦИЙ РЕГУЛИРОВАНИЯ В СЕТИ",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1925,
+      "titleEn": "BNB Chain Is Building A New L1, With Sub-50ms Transactions And 100k TPS, Aiming To Launch On Testnet In 2026",
+      "source": "The Block",
+      "priority": 2,
+      "summary": null,
+      "link": null,
+      "time": 1783511681170,
+      "effectivePrice": 566.09,
+      "coins": [
+        "BNB"
+      ],
+      "titleRu": "Сеть BNB строит новый L1 с транзакциями менее 50 мс и 100 тыс. TPS, планируя запустить его в тестовой сети в 2026 году",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1924,
+      "titleEn": "CHINA MULLS RESTRICTING OVERSEAS ACCESS TO TOP AI MODELS",
+      "source": "BBG",
+      "priority": 1,
+      "summary": null,
+      "link": null,
+      "time": 1783420161354,
+      "effectivePrice": null,
+      "coins": [],
+      "titleRu": "КИТАЙ РАССМАТРИВАЕТ ОГРАНИЧЕНИЕ ЗАРУБЕЖНОГО ДОСТУПА К ЛУЧШИМ МОДЕЛЯМ ИИ",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1923,
+      "titleEn": "$20M OF BONK TOKENS DRAINED FROM ITS DAO VIA GOVERNANCE ATTACK, HAS STARTED TO BE SENT TO EXCHANGES",
+      "source": "X",
+      "priority": 1,
+      "summary": null,
+      "link": null,
+      "time": 1783360861983,
+      "effectivePrice": null,
+      "coins": [
+        "BONK"
+      ],
+      "titleRu": "БОНК-ТОКЕНЫ НА 20 МЛН ДОЛЛАРОВ, ИЗВЛЕЧЕННЫЕ ИЗ ДАО ЧЕРЕЗ АТАКУ УПРАВЛЕНИЯ, НАЧАЛИ ОТПРАВЛЯТЬСЯ НА БИРЖИ",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1922,
+      "titleEn": "STRATEGY SELLS 3,588 BTC OVER PAST WEEK",
+      "source": "WEBSITE",
+      "priority": 1,
+      "summary": null,
+      "link": null,
+      "time": 1783339152524,
+      "effectivePrice": 62653.5,
+      "coins": [
+        "BTC"
+      ],
+      "titleRu": "СТРАТЕГИЯ ПРОДАЛА 3588 BTC ЗА ПОСЛЕДНЮЮ НЕДЕЛЮ",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1921,
+      "titleEn": "Many Korean Companies Such As Samsung Raise Confusion On Being Included In The Recent OUSD Consortium Announcement Which Included Over 140 Partners, As They Say There Was \"No Official Consultation\" And They \"Don't Know What Role They Would Play\"",
+      "source": "Chosun",
+      "priority": 2,
+      "summary": null,
+      "link": null,
+      "time": 1783080546500,
+      "effectivePrice": null,
+      "coins": [],
+      "titleRu": "Многие корейские компании, такие как Samsung, выражают недоумение по поводу своего включения в недавнее объявление о консорциуме OUSD, в который вошли более 140 партнеров, поскольку они заявляют, что «официальной консультации не было», и они «не знают, какую роль они будут играть»",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1920,
+      "titleEn": "DefiLlama Severs Connection To Previously Affiliated News Outlet DLNews, Says It Was Sold To External Buyer And To Not Immediately Trust It",
+      "source": "0xngmi",
+      "priority": 2,
+      "summary": null,
+      "link": null,
+      "time": 1783001159384,
+      "effectivePrice": null,
+      "coins": [],
+      "titleRu": "DefiLlama разрывает связь с ранее аффилированным новостным изданием DLNews и заявляет, что оно было продано внешнему покупателю и не сразу ему доверяет",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1919,
+      "titleEn": "Robinhood Launches Its Crypto Earn Product In App Powered By Morpho, First Vault To Be Curated By Steakhouse And Use USDe As Collateral",
+      "source": "Blog",
+      "priority": 2,
+      "summary": null,
+      "link": null,
+      "time": 1782932570837,
+      "effectivePrice": null,
+      "coins": [],
+      "titleRu": "Robinhood запускает свой продукт для заработка криптовалюты в приложении на базе Morpho, первое хранилище, которое будет курироваться стейкхаусом и использовать доллары США в качестве залога",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1918,
+      "titleEn": "Standard Chartered Initiates Coverage Of Morpho, Setting Price Target Of $60",
+      "source": "Velo",
+      "priority": 2,
+      "summary": null,
+      "link": null,
+      "time": 1782908619729,
+      "effectivePrice": 2.0184,
+      "coins": [
+        "MORPHO"
+      ],
+      "titleRu": "Standard Chartered начинает покрытие Morpho, установив целевую цену в 60 долларов США",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1917,
+      "titleEn": "US EXPORT CONTROLS ON ANTHROPIC’S FABLE MODEL EXPECTED TO BE LIFTED TODAY",
+      "source": "POLITICO",
+      "priority": 1,
+      "summary": null,
+      "link": null,
+      "time": 1782858291135,
+      "effectivePrice": null,
+      "coins": [],
+      "titleRu": "ОЖИДАЕТСЯ, что ЭКСПОРТНЫЙ КОНТРОЛЬ США В МОДЕЛИ FABLE ANTHROPIC БУДЕТ ОТМЕНЕН СЕГОДНЯ",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1916,
+      "titleEn": "SpaceX Recovers To $170 A Share As Polymarket Odds It Closes Below IPO Price At The End Of July Sit At 52%",
+      "source": "Market",
+      "priority": 2,
+      "summary": null,
+      "link": null,
+      "time": 1782857572536,
+      "effectivePrice": null,
+      "coins": [],
+      "titleRu": "Цена SpaceX восстановилась до $170 за акцию, поскольку Polymarket прогнозирует, что цена закрытия IPO в конце июля составит 52%",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1915,
+      "titleEn": "Trump Reports Earning Over $600M From Memecoins In Financial Disclosure Report",
+      "source": "RTRS",
+      "priority": 2,
+      "summary": null,
+      "link": null,
+      "time": 1782852685156,
+      "effectivePrice": null,
+      "coins": [],
+      "titleRu": "В отчете о раскрытии финансовой информации Трамп сообщает, что заработал более 600 миллионов долларов на мемкоинах",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1914,
+      "titleEn": "Trump Discloses He Owns Over $100M In BTC And ETH",
+      "source": "Filing",
+      "priority": 2,
+      "summary": null,
+      "link": null,
+      "time": 1782852614316,
+      "effectivePrice": 58704.4,
+      "coins": [
+        "BTC"
+      ],
+      "titleRu": "Трамп сообщил, что владеет BTC и ETH на сумму более 100 миллионов долларов",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1913,
+      "titleEn": "Dozens Of Financial Firms Including; Visa, Stripe, Mastercard, BlackRock, And Coinbase To Launch New Stablecoin Called OUSD - Will Share Revenue Among Partners",
+      "source": "BBG",
+      "priority": 2,
+      "summary": null,
+      "link": null,
+      "time": 1782825735455,
+      "effectivePrice": null,
+      "coins": [],
+      "titleRu": "Десятки финансовых фирм, в том числе; Visa, Stripe, Mastercard, BlackRock и Coinbase запустят новый стейблкоин под названием OUSD — будут делить доходы между партнерами",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1912,
+      "titleEn": "BLACKROCK TO INTEGRATE ETHENA'S USDE IN ITS $25T AUM INVESTMENT PLATFORM",
+      "source": "BLOG",
+      "priority": 1,
+      "summary": null,
+      "link": null,
+      "time": 1782738057364,
+      "effectivePrice": 0.08057,
+      "coins": [
+        "ENA"
+      ],
+      "titleRu": "BLACKROCK ИНТЕГРИРУЕТ USDE ETHENA В СВОЮ ИНВЕСТИЦИОННУЮ ПЛАТФОРМУ AUM НА $25 ТРН.",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1911,
+      "titleEn": "STRATEGY RAISES $1.2B FOR USD RESERVE, AUTHORISES $1B DIGITAL CREDIT BUYBACK PROGRAM",
+      "source": "FILING",
+      "priority": 1,
+      "summary": null,
+      "link": null,
+      "time": 1782734605657,
+      "effectivePrice": 60100.4,
+      "coins": [
+        "BTC"
+      ],
+      "titleRu": "STRATEGY ПРИВЛЕКАЕТ 1,2 МЛРД ДОЛЛАРОВ В ДОЛЛАРОВЫЕ РЕЗЕРВЫ И РАЗРЕШАЕТ ПРОГРАММУ ВЫКУПА ЦИФРОВЫХ КРЕДИТОВ НА 1 МЛРД ДОЛЛАРОВ",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1910,
+      "titleEn": "Framework Ventures Raises $400M For Fourth Fund As Firm Expands Beyond Crypto",
+      "source": "Fortune",
+      "priority": 2,
+      "summary": null,
+      "link": null,
+      "time": 1782472000494,
+      "effectivePrice": null,
+      "coins": [],
+      "titleRu": "Framework Ventures привлекает $400 млн для четвертого фонда, поскольку фирма выходит за рамки криптовалюты",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1909,
+      "titleEn": "OPENAI EXECUTIVES PUSH SAM ALTMAN TO DELAY IPO UNTIL NEXT YEAR AFTER SEEING SPACEX PRICE ACTION - POLYMARKET ODDS OF NO IPO THIS YEAR AT 60%",
+      "source": "NYT",
+      "priority": 1,
+      "summary": null,
+      "link": null,
+      "time": 1782419857241,
+      "effectivePrice": null,
+      "coins": [],
+      "titleRu": "РУКОВОДСТВО OPENAI ТОЛКОВАЕТ СЭМА АЛЬТМАНА ОТЛОЖИТЬ IPO ДО СЛЕДУЮЩЕГО ГОДА ПОСЛЕ УВИДЕНИЯ ЦЕНОВОГО ДЕЙСТВИЯ SPACEX - ШАНСЫ POLYMARKET НЕТ IPO В ЭТОМ ГОДУ СОСТАВЛЯЮТ 60%",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1908,
+      "titleEn": "OpenAI To Stagger Release Of GPT 5.6 At Request Of U.S. Government, The U.S. To Review Who Has Access To Preview",
+      "source": "The Information",
+      "priority": 2,
+      "summary": null,
+      "link": null,
+      "time": 1782418788564,
+      "effectivePrice": null,
+      "coins": [],
+      "titleRu": "OpenAI отложит выпуск GPT 5.6 по запросу правительства США, США проверят, кто имеет доступ к предварительной версии",
+      "translationStatus": "translated"
+    },
+    {
+      "id": 1907,
+      "titleEn": "Polymarket's Native Stablecoin, pUSD, Crosses $500M In Supply In Under 2 Months, Putting It Among The Fastest Growing Stablecoins Of 2026",
+      "source": "Onchain",
+      "priority": 2,
+      "summary": null,
+      "link": null,
+      "time": 1782334334112,
+      "effectivePrice": null,
+      "coins": [],
+      "titleRu": "Собственный стейблкоин Polymarket, pUSD, превысил $500 млн менее чем за 2 месяца, что делает его одним из самых быстрорастущих стейблкоинов 2026 года.",
+      "translationStatus": "translated"
+    }
+  ]
+}
