@@ -82,7 +82,7 @@ function filterItems() {
   const q = STATE.query.trim().toLowerCase();
   if (q) {
     visible = visible.filter((item) => {
-      const haystack = [item.titleRu, item.titleEn, item.source].filter(Boolean).join(" ").toLowerCase();
+      const haystack = [item.titleEn, item.summaryEn, item.source].filter(Boolean).join(" ").toLowerCase();
       return haystack.includes(q);
     });
   }
@@ -104,6 +104,17 @@ function groupByTopic(items) {
     });
   }
   return groups;
+}
+
+function renderSummaryParagraphs(text) {
+  if (!text) return '<p class="summary-missing">Краткое резюме недоступно. Откройте источник, чтобы прочитать полностью.</p>';
+  // Split into paragraphs on blank lines; otherwise split on sentence boundary.
+  const chunks = text
+    .split(/\n{2,}|(?<=\.)\s+(?=[A-ZА-ЯЁ])/)
+    .map((s) => s.trim())
+    .filter(Boolean);
+  if (chunks.length === 0) return `<p>${escapeHtml(text)}</p>`;
+  return chunks.map((c) => `<p>${escapeHtml(c)}</p>`).join("");
 }
 
 function renderFilters() {
@@ -129,28 +140,27 @@ function renderFilters() {
 
 function renderItem(item) {
   const time = relative(item.published);
-  const status = item.translationStatus || "translated";
-  const titleClass = status === "failed" || status === "original" ? " item-title failed" : "";
-  const source = escapeHtml(item.source || "");
   const topic = item.topic || "MACRO";
   const accent = TOPIC_ACCENT[topic] || "#ff8c00";
-  const statusLabel = status === "translated" ? "" :
-    `<span class="translation-${status}">${status === "failed" ? "RU ОШИБКА" : "RU ОРИГИНАЛ"}</span>`;
+  const source = escapeHtml(item.source || "");
   const link = item.link || "https://github.com/andrew-ledovich/velo-news-ru";
+  const summaryHtml = renderSummaryParagraphs(item.summaryEn);
+  const hasSummary = !!item.summaryEn;
   return `
     <div class="item" data-id="${escapeHtml(item.id)}" style="--accent:${accent}">
       <span class="item-time ${time.className}" title="${escapeHtml(formatFull(item.published))}">${escapeHtml(time.label)}</span>
       <span class="item-topic" title="Тема: ${topic}">${escapeHtml(topic)}</span>
       <div class="item-main">
-        <div class="item-title${titleClass}">${escapeHtml(item.titleRu)}</div>
+        <div class="item-title">${escapeHtml(item.titleEn)}</div>
         <div class="item-meta">
           ${source ? `<span class="source">${source}</span>` : ""}
           <span>${escapeHtml(formatFull(item.published))} МСК</span>
-          ${statusLabel}
         </div>
         <div class="item-body" hidden>
-          <p>${escapeHtml(item.titleRu)}</p>
-          <p class="original">EN: ${escapeHtml(item.titleEn)}</p>
+          <div class="summary">
+            <div class="summary-head">—КРАТКОЕ РЕЗЮМЕ—</div>
+            <div class="summary-body ${hasSummary ? "" : "empty"}">${summaryHtml}</div>
+          </div>
           <a class="open" href="${escapeHtml(link)}" target="_blank" rel="noopener">ОТКРЫТЬ ИСТОЧНИК ↗</a>
         </div>
       </div>
@@ -251,7 +261,8 @@ async function loadFeed() {
     STATE.items = Array.isArray(data.items) ? data.items : [];
     STATE.generatedAt = data.generatedAt;
     STATE.sourceCount = data.sourceCount || 0;
-    setStatus("ok", `Обновлено: ${formatFull(STATE.generatedAt)} · источников: ${STATE.sourceCount}`);
+    const withSummary = STATE.items.filter((it) => it.summaryEn).length;
+    setStatus("ok", `Обновлено: ${formatFull(STATE.generatedAt)} · источников: ${STATE.sourceCount} · с резюме: ${withSummary}/${STATE.items.length}`);
     renderMeta();
     renderFilters();
     render();

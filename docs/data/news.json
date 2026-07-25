@@ -1,656 +1,529 @@
 {
-  "generatedAt": "2026-07-25T07:39:26.507752Z",
+  "generatedAt": "2026-07-25T07:56:42.771138Z",
   "sourceCount": 6,
-  "count": 59,
+  "count": 58,
   "items": [
+    {
+      "id": "cointelegraph:https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak",
+      "titleEn": "Ethereum ETFs close week in red, end 5-day inflow streak",
+      "summaryEn": "Ethereum ETFs snapped a five-day inflow streak and Bitcoin ETFs logged a second day of outflows, though both funds extended their weekly inflow streaks to three.",
+      "source": "Cointelegraph",
+      "topic": "CRYPTO",
+      "link": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-25T07:40:35Z"
+    },
     {
       "id": "ft:6e1d4a14-b7ad-4a36-86d9-3990497272a3",
       "titleEn": "France and Spain evacuate 200,000 people as ‘unprecedented’ wildfires spread",
-      "titleRu": "Франция и Испания эвакуируют 200 000 человек из-за распространения «беспрецедентных» лесных пожаров",
       "summaryEn": "Extreme heat and high winds fuel fast-moving blazes as authorities in both countries battle to contain them",
       "source": "Financial Times",
       "topic": "MACRO",
       "link": "https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1",
-      "published": "2026-07-25T06:04:19Z",
-      "translationStatus": "translated"
+      "published": "2026-07-25T06:04:19Z"
     },
     {
       "id": "cnbc:108337782",
       "titleEn": "Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery",
-      "titleRu": "Радикальный ответ Финляндии на самую большую головную боль возобновляемой энергетики: крупнейшая в мире песчаная батарея",
       "summaryEn": "A small Finnish town has turned to the world's largest commercial sand battery to tackle a major hurdle in the energy transition: intermittency.",
       "source": "CNBC",
       "topic": "EV",
       "link": "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
-      "published": "2026-07-25T05:29:38Z",
-      "translationStatus": "translated"
+      "published": "2026-07-25T05:29:38Z"
     },
     {
       "id": "ft:ac19e4f4-cf7b-4a75-b591-0ca79ef62d37",
       "titleEn": "India’s ‘Cockroach’ Gen Z has had enough",
-      "titleRu": "Индийскому «таракану» поколению Z уже достаточно",
       "summaryEn": "The irreverence of the country’s youth brings to light the contrast between government promises and economic reality",
       "source": "Financial Times",
       "topic": "MACRO",
       "link": "https://www.ft.com/content/ac19e4f4-cf7b-4a75-b591-0ca79ef62d37",
-      "published": "2026-07-25T04:00:37Z",
-      "translationStatus": "translated"
+      "published": "2026-07-25T04:00:37Z"
     },
     {
       "id": "ft:bdb3b820-905b-431e-82c0-386535755af1",
       "titleEn": "Why this philosopher turned down Anthropic",
-      "titleRu": "Почему этот философ отверг антропологию",
       "summaryEn": "The AI industry is courting the humanities — but it is asking the wrong questions",
       "source": "Financial Times",
       "topic": "AI",
       "link": "https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1",
-      "published": "2026-07-25T04:00:27Z",
-      "translationStatus": "translated"
+      "published": "2026-07-25T04:00:27Z"
     },
     {
       "id": "ft:4c76fc58-836c-4abe-916e-bfc727f83fca",
       "titleEn": "Andy Burnham’s regional privilege",
-      "titleRu": "Региональная привилегия Энди Бернэма",
       "summaryEn": "Reflections on an under-scrutinised prime minister",
       "source": "Financial Times",
       "topic": "MACRO",
       "link": "https://www.ft.com/content/4c76fc58-836c-4abe-916e-bfc727f83fca?syn-25a6b1a6=1",
-      "published": "2026-07-25T04:00:27Z",
-      "translationStatus": "translated"
+      "published": "2026-07-25T04:00:27Z"
     },
     {
       "id": "ft:42847a3b-f4b6-4a16-88e0-f06fdfabbdc6",
       "titleEn": "India and South Africa lead push to amass emergency fuel stockpiles",
-      "titleRu": "Индия и Южная Африка возглавили усилия по накоплению аварийных запасов топлива",
       "summaryEn": "Developing countries forced into rationing during Middle East conflict plan to build or expand official buffers",
       "source": "Financial Times",
       "topic": "MACRO",
       "link": "https://www.ft.com/content/42847a3b-f4b6-4a16-88e0-f06fdfabbdc6?syn-25a6b1a6=1",
-      "published": "2026-07-25T04:00:27Z",
-      "translationStatus": "translated"
+      "published": "2026-07-25T04:00:27Z"
     },
     {
       "id": "ft:ec1e3131-525e-4577-b981-e9b763928e9b",
       "titleEn": "Trump attacks journalists at awkward White House press dinner",
-      "titleRu": "Трамп напал на журналистов на неловком пресс-ужине в Белом доме",
       "summaryEn": "Many of the president’s jokes met stony silence at rescheduled event",
       "source": "Financial Times",
       "topic": "MACRO",
       "link": "https://www.ft.com/content/ec1e3131-525e-4577-b981-e9b763928e9b?syn-25a6b1a6=1",
-      "published": "2026-07-25T03:54:28Z",
-      "translationStatus": "translated"
+      "published": "2026-07-25T03:54:28Z"
     },
     {
       "id": "cnbc:108340147",
       "titleEn": "SpaceX launches massive Starship rocket in first test flight since IPO",
-      "titleRu": "SpaceX запустила массивную ракету Starship в первый испытательный полет после IPO",
       "summaryEn": "Elon Musk's rocket maker is conducting the first test fight for its massive Starship rocket since the company's IPO last month.",
       "source": "CNBC",
       "topic": "MACRO",
       "link": "https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html",
-      "published": "2026-07-25T02:17:11Z",
-      "translationStatus": "translated"
+      "published": "2026-07-25T02:17:11Z"
     },
     {
       "id": "techcrunch:https://techcrunch.com/?p=3144285",
       "titleEn": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "titleRu": "Я опробовал новую клавиатуру AI от OpenAI, которая будет интересна некоторым программистам и немного озадачивает всех остальных.",
       "summaryEn": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
       "source": "TechCrunch",
       "topic": "AI",
       "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "published": "2026-07-25T00:23:11Z",
-      "translationStatus": "translated"
+      "published": "2026-07-25T00:23:11Z"
     },
     {
       "id": "cnbc:108339872",
       "titleEn": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
-      "titleRu": "Трамп подал в суд через несколько часов после вступления в силу новых тарифов, поскольку эксперты говорят, что они могут не выдержать",
       "summaryEn": "President Donald Trump has renewed a flurry of tariffs, including slapping 25% duties on Brazilian imports and vowing 50% tariffs on goods from Canada.",
       "source": "CNBC",
       "topic": "MACRO",
       "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
-      "published": "2026-07-25T00:18:53Z",
-      "translationStatus": "translated"
+      "published": "2026-07-25T00:18:53Z"
     },
     {
       "id": "techcrunch:https://techcrunch.com/?p=3146675",
       "titleEn": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
-      "titleRu": "SpaceX запускает новые спутники Starlink V3, но терпит очередной сбой в ускорителе",
       "summaryEn": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
       "source": "TechCrunch",
       "topic": "MACRO",
       "link": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
-      "published": "2026-07-24T23:25:47Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T23:25:47Z"
     },
     {
       "id": "cnbc:108339874",
       "titleEn": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-      "titleRu": "Moody's заявляет, что «беспрецедентные» расходы на ИИ угрожают кредитному качеству Amazon, Meta, Alphabet и других",
       "summaryEn": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
       "source": "CNBC",
       "topic": "AI",
       "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
-      "published": "2026-07-24T22:43:56Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T22:43:56Z"
     },
     {
       "id": "techcrunch:https://techcrunch.com/?p=3146619",
       "titleEn": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-      "titleRu": "Прентис, новая лаборатория искусственного интеллекта, сооснователями которой являются Рид Хоффман и Марк Пинкус, ведут переговоры о привлечении 100 миллионов долларов.",
       "summaryEn": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
       "source": "TechCrunch",
       "topic": "AI",
       "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "published": "2026-07-24T22:25:58Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T22:25:58Z"
     },
     {
       "id": "theblock:https://www.theblock.co/post/409652",
       "titleEn": "Bitcoin Policy Institute, Palantir and Anduril join US State Department’s Freedom Tech Excellence Program",
-      "titleRu": "Институт биткойн-политики, Palantir и Anduril присоединяются к программе совершенствования технологий свободы Государственного департамента США.",
       "summaryEn": "The Bitcoin Policy Institute, Palantir and Anduril are partners in the U.S. State Department's Freedom Tech Excellence Program.",
       "source": "The Block",
       "topic": "CRYPTO",
       "link": "https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-24T22:21:01Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T22:21:01Z"
     },
     {
       "id": "techcrunch:https://techcrunch.com/?p=3146498",
       "titleEn": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
-      "titleRu": "Новая сцена Smart Money Stage TechCrunch Disrupt 2026 исследует финансовые технологии, платежи, искусственный интеллект и все, что между ними.",
       "summaryEn": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.",
       "source": "TechCrunch",
       "topic": "AI",
       "link": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
-      "published": "2026-07-24T22:10:00Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T22:10:00Z"
     },
     {
       "id": "cnbc:108339461",
       "titleEn": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
-      "titleRu": "Плохая неделя Маска: Tesla переживает худший спад с 2022 года, SpaceX отказывается от испытательного полета Starship",
       "summaryEn": "Tesla shares plunged almost 18% this week after the company missed on earnings and turned cash flow negative.",
       "source": "CNBC",
       "topic": "EV",
       "link": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
-      "published": "2026-07-24T21:57:01Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T21:57:01Z"
     },
     {
       "id": "cointelegraph:https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions",
       "titleEn": "EU authorities include HTX exchange in Russian sanctions",
-      "titleRu": "Власти ЕС включили биржу HTX в российские санкции",
       "summaryEn": "The exchange, already sanctioned by the UK, is now on a list of 18 entities “providing crypto-assets services or payment services“ in defiance of the EU’s measures against Russia.",
       "source": "Cointelegraph",
       "topic": "CRYPTO",
       "link": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T21:53:05Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T21:53:05Z"
     },
     {
       "id": "cnbc:108340076",
       "titleEn": "Uber and Waymo to end exclusivity arrangement in Atlanta and Austin",
-      "titleRu": "Uber и Waymo прекращают соглашение об эксклюзивности в Атланте и Остине",
       "summaryEn": "In Atlanta and Austin, Texas, Waymo driverless rides will be available on platforms other than Uber starting in 2028.",
       "source": "CNBC",
       "topic": "MACRO",
       "link": "https://www.cnbc.com/2026/07/24/uber-and-waymo-to-end-exclusivity-arrangement-in-atlanta-and-austin.html",
-      "published": "2026-07-24T21:48:45Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T21:48:45Z"
     },
     {
       "id": "cnbc:108340065",
       "titleEn": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
-      "titleRu": "Paramount соглашается отложить приобретение WBD до июня 2027 года из-за юридических проблем",
       "summaryEn": "Paramount previously said it intended to complete its WBD acquisition by the end of September, but said Friday the agreement is a \"significant win.\"",
       "source": "CNBC",
       "topic": "MACRO",
       "link": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
-      "published": "2026-07-24T21:24:09Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T21:24:09Z"
     },
     {
       "id": "techcrunch:https://techcrunch.com/?p=3092894",
       "titleEn": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
-      "titleRu": "Вьетнам стремится ограничить доступ детей к социальным сетям; вот растущее число других стран, делающих то же самое",
       "summaryEn": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
       "source": "TechCrunch",
       "topic": "MACRO",
       "link": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
-      "published": "2026-07-24T21:15:00Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T21:15:00Z"
     },
     {
       "id": "cnbc:108339879",
       "titleEn": "Why bond investors are pushing up some of your interest rates",
-      "titleRu": "Почему инвесторы в облигации повышают некоторые процентные ставки",
       "summaryEn": "Many types of consumer loans such as mortgages peg their interest rate to the yield on 10-year Treasury bonds, which has been moving higher.",
       "source": "CNBC",
       "topic": "CRYPTO",
       "link": "https://www.cnbc.com/2026/07/24/treasury-yields-fed-mortgage-rates.html",
-      "published": "2026-07-24T21:09:24Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T21:09:24Z"
     },
     {
       "id": "cointelegraph:https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par",
       "titleEn": "Strive’s SATA recovers most of June decline, trades within 3% of par",
-      "titleRu": "SATA Strive восстанавливает большую часть июньского падения, торгуется в пределах 3% от номинала.",
       "summaryEn": "Jan3 CEO Samson Mow says the recovery could signal renewed confidence in preferred-share products used by Bitcoin treasury companies.",
       "source": "Cointelegraph",
       "topic": "CRYPTO",
       "link": "https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T21:02:22Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T21:02:22Z"
     },
     {
       "id": "techcrunch:https://techcrunch.com/?p=3146592",
       "titleEn": "Waymo reportedly mulling a breakup with Uber",
-      "titleRu": "Сообщается, что Waymo обдумывает разрыв с Uber",
       "summaryEn": "The contract between the two companies ends in May 2028, Uber told TechCrunch.",
       "source": "TechCrunch",
       "topic": "MACRO",
       "link": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
-      "published": "2026-07-24T20:43:35Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T20:43:35Z"
     },
     {
       "id": "cnbc:108340062",
       "titleEn": "Trump defends DOJ subpoenas of NY Times reporters; Google also was targeted",
-      "titleRu": "Трамп защищает вызовы в суд репортеров «Нью-Йорк Таймс» Министерства юстиции; Google также стал мишенью",
       "summaryEn": "The DOJ is investigating the leak to The New York Times of security concerns about President Donald Trump's new Air Force One plane, donated by Qatar.",
       "source": "CNBC",
       "topic": "MACRO",
       "link": "https://www.cnbc.com/2026/07/24/trump-doj-subpoenas-new-york-times-google.html",
-      "published": "2026-07-24T20:23:12Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T20:23:12Z"
     },
     {
       "id": "cnbc:108339929",
       "titleEn": "Bond market anxiety is growing over AI capex budgets",
-      "titleRu": "Беспокойство на рынке облигаций растет из-за бюджетов капвложений в ИИ",
       "summaryEn": "Google, Amazon and Meta are seeing credit spreads widen as fixed-income investors demand more reward on companies they lend to.",
       "source": "CNBC",
       "topic": "AI",
       "link": "https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
-      "published": "2026-07-24T20:07:36Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T20:07:36Z"
     },
     {
       "id": "cointelegraph:https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading",
       "titleEn": "House passes bill on lawmakers using insider information for stock trading",
-      "titleRu": "Палата представителей одобрила законопроект, запрещающий законодателям использовать инсайдерскую информацию для торговли акциями",
       "summaryEn": "According to Senator Elizabeth Warren, the House bill “won’t solve the problem“ of insider trading in Congress as lawmakers will still be allowed to own and sell stocks.",
       "source": "Cointelegraph",
       "topic": "MACRO",
       "link": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T20:05:50Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T20:05:50Z"
     },
     {
       "id": "cnbc:108339698",
       "titleEn": "Treasury yields slide as oil prices fall amid hopes for new U.S.-Iran peace talks",
-      "titleRu": "Доходность казначейских облигаций падает на фоне падения цен на нефть на фоне надежд на новые мирные переговоры между США и Ираном",
       "summaryEn": "U.S. Treasury yields slid on Friday as oil prices dropped following a report that Pakistan is ​exploring a way to restart peace talks between the U.S. and Iran.",
       "source": "CNBC",
       "topic": "MACRO",
       "link": "https://www.cnbc.com/2026/07/24/treasury-yields-bonds-us-debt.html",
-      "published": "2026-07-24T20:04:44Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T20:04:44Z"
     },
     {
       "id": "ft:96a33881-27fd-42cf-8cff-4cbc87fc835f",
       "titleEn": "US tech groups cut 140,000 jobs despite AI spending boom",
-      "titleRu": "Американские технологические группы сократили 140 000 рабочих мест, несмотря на бум расходов на ИИ",
       "summaryEn": "Investment spree is reshaping Silicon Valley while wider US jobs market holds steady",
       "source": "Financial Times",
       "topic": "AI",
       "link": "https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f?syn-25a6b1a6=1",
-      "published": "2026-07-24T20:00:04Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T20:00:04Z"
     },
     {
       "id": "cnbc:108339907",
       "titleEn": "Strait of Hormuz traffic may not return to normal for 12 months or more, according to prediction markets",
-      "titleRu": "Согласно прогнозам рынков, движение в Ормузском проливе может не вернуться к нормальному состоянию в течение 12 месяцев и более.",
       "summaryEn": "Kalshi traders give less than 50% odds that the key maritime passageway will fully reopen by July 2027.",
       "source": "CNBC",
       "topic": "MACRO",
       "link": "https://www.cnbc.com/2026/07/24/odds-that-the-straits-traffic-returns-to-normal-drop-on-kalshi.html",
-      "published": "2026-07-24T19:58:24Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T19:58:24Z"
     },
     {
       "id": "techcrunch:https://techcrunch.com/?p=3146558",
       "titleEn": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
-      "titleRu": "Инженеров Volkswagen обвиняют в инсайдерской торговле, связанной с совместным предприятием Rivian",
       "summaryEn": "The indictment, which was unsealed Friday, alleges the Volkswagen engineers used confidential insider information to buy stock in Rivian.",
       "source": "TechCrunch",
       "topic": "EV",
       "link": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",
-      "published": "2026-07-24T19:56:23Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "fortune:https://fortune.com/?p=4533356&showAdminBar=true",
-      "titleEn": "AI executives demand OpenAI release more details about how the Hugging Face hack happened",
-      "titleRu": "Руководители AI требуют от OpenAI предоставить более подробную информацию о том, как произошел взлом Hugging Face",
-      "summaryEn": "AI experts want the ChatGPT maker to disclose far more detail about how the incident occurred.",
-      "source": "Fortune AI",
-      "topic": "AI",
-      "link": "https://fortune.com/2026/07/24/ai-executives-demand-openai-release-more-details-about-how-the-hugging-face-hack-happened/",
-      "published": "2026-07-24T19:27:15Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T19:56:23Z"
     },
     {
       "id": "ft:9dcb5d72-13aa-4f9c-ac6d-e022860df5ea",
       "titleEn": "Waymo explores split with Uber as robotaxi tensions deepen",
-      "titleRu": "Waymo исследует раскол с Uber, поскольку напряженность в роботакси усиливается",
       "summaryEn": "Partnership between two groups has soured amid intense lobbying battle over rollout of autonomous vehicles",
       "source": "Financial Times",
       "topic": "MACRO",
       "link": "https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea?syn-25a6b1a6=1",
-      "published": "2026-07-24T19:15:14Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T19:15:14Z"
     },
     {
       "id": "cointelegraph:https://cointelegraph.com/news/what-happened-in-crypto-today",
       "titleEn": "Here’s what happened in crypto today",
-      "titleRu": "Вот что произошло сегодня с криптовалютой",
       "summaryEn": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "source": "Cointelegraph",
       "topic": "CRYPTO",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T19:03:45Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T19:03:45Z"
     },
     {
       "id": "theblock:https://www.theblock.co/post/409627",
       "titleEn": "Cardano co-founder Hoskinson says Bitcoin could lose top spot if governance fails quantum test",
-      "titleRu": "Соучредитель Cardano Хоскинсон говорит, что Биткойн может потерять первое место, если управление не пройдет квантовый тест",
       "summaryEn": "Cardano’s governance and ability to enact upgrades make it better equipped to respond to existential technical threats, said Hoskinson.",
       "source": "The Block",
       "topic": "CRYPTO",
       "link": "https://www.theblock.co/post/409627/cardano-co-founder-hoskinson-bitcoin-lose-top-spot-governance-fails-quantum-test?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-24T19:01:53Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T19:01:53Z"
     },
     {
       "id": "ft:9b819dfc-8248-4aa5-b670-3a14d05f252e",
       "titleEn": "Trump threatens new EU tariffs in retaliation for fines on US tech groups",
-      "titleRu": "Трамп пригрозил новыми тарифами ЕС в ответ на штрафы американским технологическим группам",
       "summaryEn": "President says Washington will launch new probe into the bloc that could sharpen trade tensions",
       "source": "Financial Times",
       "topic": "MACRO",
       "link": "https://www.ft.com/content/9b819dfc-8248-4aa5-b670-3a14d05f252e?syn-25a6b1a6=1",
-      "published": "2026-07-24T18:21:26Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T18:21:26Z"
     },
     {
       "id": "fortune:https://fortune.com/?p=4533392&showAdminBar=true",
       "titleEn": "Anthropic’s head of economics just explained why we haven’t seen a white-collar bloodbath — yet",
-      "titleRu": "Глава экономического отдела Anthropic только что объяснил, почему мы еще не видели кровавой бойни среди белых воротничков.",
       "summaryEn": "We've been hearing about doomsday, but Peter McCrory writes we \"don’t see significant impact of AI on the U.S. labor market.\"",
       "source": "Fortune AI",
       "topic": "AI",
       "link": "https://fortune.com/2026/07/24/anthropic-peter-mccrory-dario-amodei-why-hasnt-it-killed-jobs/",
-      "published": "2026-07-24T18:14:04Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T18:14:04Z"
     },
     {
       "id": "techcrunch:https://techcrunch.com/?p=3146380",
       "titleEn": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "titleRu": "Почему Cognition купила Poke: личность ИИ становится конкурентным преимуществом",
       "summaryEn": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
       "source": "TechCrunch",
       "topic": "AI",
       "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "published": "2026-07-24T18:07:32Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T18:07:32Z"
     },
     {
       "id": "techcrunch:https://techcrunch.com/?p=3146437",
       "titleEn": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search",
-      "titleRu": "США обвиняют американца в том, что он якобы удалил данные из своего телефона, используя пароль «принуждения» во время обыска на границе",
       "summaryEn": "A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.",
       "source": "TechCrunch",
       "topic": "MACRO",
       "link": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/",
-      "published": "2026-07-24T17:53:30Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T17:53:30Z"
     },
     {
       "id": "theblock:https://www.theblock.co/post/409631",
       "titleEn": "Wise plans to resubmit national trust bank application under GENIUS Act framework",
-      "titleRu": "Wise планирует повторно подать заявление в национальный трастовый банк в рамках Закона GENIUS",
       "summaryEn": "The OCC has granted conditional approval to several stablecoin-focused entities since December.",
       "source": "The Block",
       "topic": "CRYPTO",
       "link": "https://www.theblock.co/post/409631/wise-plans-resubmit-national-trust-bank-application-under-genius-act-framework?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-24T17:37:34Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T17:37:34Z"
     },
     {
       "id": "techcrunch:https://techcrunch.com/?p=3146409",
       "titleEn": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
-      "titleRu": "Сообщается, что Андурил ведет переговоры о привлечении финансирования при оценке в $100 млрд, что более чем в три раза превышает прошлогоднюю отметку.",
       "summaryEn": "Anduril is said to be raising a new round of funding that may push its valuation up to about $100 billion, per Reuters.",
       "source": "TechCrunch",
       "topic": "MACRO",
       "link": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
-      "published": "2026-07-24T17:33:19Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T17:33:19Z"
     },
     {
       "id": "techcrunch:https://techcrunch.com/?p=3145635",
       "titleEn": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
-      "titleRu": "Стройте публично, терпите неудачу публично: каково сейчас быть основателем младше 20 лет",
       "summaryEn": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
       "source": "TechCrunch",
       "topic": "AI",
       "link": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "published": "2026-07-24T17:00:00Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T17:00:00Z"
     },
     {
       "id": "techcrunch:https://techcrunch.com/?p=3146446",
       "titleEn": "Anthropic launches Opus 5",
-      "titleRu": "Anthropic запускает Opus 5",
       "summaryEn": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
       "source": "TechCrunch",
       "topic": "AI",
       "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "published": "2026-07-24T17:00:00Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T17:00:00Z"
     },
     {
       "id": "cointelegraph:https://cointelegraph.com/news/crypto-advocacy-groups-support-clarity-act-pushback-ethics-rules",
       "titleEn": "Crypto advocacy groups support CLARITY passage as ethics rules face pushback",
-      "titleRu": "Группы защиты криптовалют поддерживают принятие CLARITY, поскольку правила этики сталкиваются с сопротивлением",
       "summaryEn": "The window for US lawmakers to address a comprehensive crypto market structure bill before the 2026 elections is closing, and industry organizations are calling for action.",
       "source": "Cointelegraph",
       "topic": "CRYPTO",
       "link": "https://cointelegraph.com/news/crypto-advocacy-groups-support-clarity-act-pushback-ethics-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T16:55:14Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T16:55:14Z"
     },
     {
       "id": "cointelegraph:https://cointelegraph.com/news/internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstitutional",
       "titleEn": "Internet Freedom Foundation calls India’s BitChat GitHub takedown order ‘unconstitutional’",
-      "titleRu": "Фонд свободы Интернета назвал индийский приказ об удалении BitChat GitHub «неконституционным»",
       "summaryEn": "The digital rights group says India’s order to remove Jack Dorsey’s BitChat repositories from GitHub exceeds the government’s legal authority and threatens free speech.",
       "source": "Cointelegraph",
       "topic": "MACRO",
       "link": "https://cointelegraph.com/news/internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstitutional?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T16:04:30Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T16:04:30Z"
     },
     {
       "id": "cointelegraph:https://cointelegraph.com/news/crypto-biz-ai-to-crypto-rotation-bitcoin-etf-inflows-clarity-act",
       "titleEn": "Crypto Biz: Is the AI-to-crypto rotation underway?",
-      "titleRu": "Crypto Biz: Происходит ли ротация искусственного интеллекта и криптовалюты?",
       "summaryEn": "Bitcoin ETF inflows, cooling AI momentum and potential regulatory progress under the CLARITY Act are fueling speculation that capital is rotating back into crypto.",
       "source": "Cointelegraph",
       "topic": "AI",
       "link": "https://cointelegraph.com/news/crypto-biz-ai-to-crypto-rotation-bitcoin-etf-inflows-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T15:15:57Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T15:15:57Z"
     },
     {
       "id": "theblock:https://www.theblock.co/post/409608",
       "titleEn": "Galaxy cuts Clarity Act passage odds to 30%, says bill needs ‘last-ditch effort’",
-      "titleRu": "Galaxy снижает вероятность принятия Закона о ясности до 30%, заявляя, что законопроект требует «последнего усилия»",
       "summaryEn": "Seven Democratic negotiators say the latest Clarity Act draft needs stronger ethics and consumer protections.",
       "source": "The Block",
       "topic": "CRYPTO",
       "link": "https://www.theblock.co/post/409608/galaxy-says-clarity-act-now-needs-last-ditch-effort-cuts-passage-odds-30?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-24T15:11:17Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T15:11:17Z"
     },
     {
       "id": "cointelegraph:https://cointelegraph.com/news/world-foundation-funding-led-by-pantera-world-id-infrastructure",
       "titleEn": "World Foundation raises $52.5M in Pantera-led funding to expand World ID infrastructure",
-      "titleRu": "World Foundation привлекает $52,5 млн в виде финансирования под руководством Pantera для расширения инфраструктуры World ID",
       "summaryEn": "The organization sold locked WLD tokens to strategic investors as it seeks to grow its biometric identity network amid rising demand for human verification online.",
       "source": "Cointelegraph",
       "topic": "MACRO",
       "link": "https://cointelegraph.com/news/world-foundation-funding-led-by-pantera-world-id-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T15:09:33Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T15:09:33Z"
     },
     {
       "id": "theblock:https://www.theblock.co/post/409610",
       "titleEn": "World Foundation raises $52.5 million in WLD token sale with one-year lockup",
-      "titleRu": "World Foundation привлекает $52,5 млн на продаже токенов WLD с однолетней блокировкой",
       "summaryEn": "The \"first close\" of the WLD token sale was led by Pantera and included Bain Capital Crypto, Eightco Holdings, Selini, Susquehanna other investors.",
       "source": "The Block",
       "topic": "CRYPTO",
       "link": "https://www.theblock.co/post/409610/world-foundation-wld-token-sale-funding?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-24T14:50:40Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T14:50:40Z"
     },
     {
       "id": "cointelegraph:https://cointelegraph.com/markets/bitcoin-falls-under-64k-us-bond-yields-fed-rate-hike-odds",
       "titleEn": "Bitcoin falls under $64K as surging US bond yields boost Fed rate-hike odds",
-      "titleRu": "Биткоин упал ниже $64 тыс., поскольку растущие доходности облигаций США повышают шансы ФРС на повышение ставок",
       "summaryEn": "Bitcoin saw several dips under the $64,000 mark as a Binance “plunge protection team” reemerged with bid liquidity to avoid a deeper BTC price rout.",
       "source": "Cointelegraph",
       "topic": "CRYPTO",
       "link": "https://cointelegraph.com/markets/bitcoin-falls-under-64k-us-bond-yields-fed-rate-hike-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T14:28:03Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T14:28:03Z"
     },
     {
       "id": "cointelegraph:https://cointelegraph.com/magazine/bitcoins-biggest-bull-catalyst-may-come-from-fixing-its-biggest-risk-edwards",
       "titleEn": "A quantum roadmap would push Bitcoin much higher: Charles Edwards",
-      "titleRu": "Квантовая дорожная карта подтолкнет Биткойн намного выше: Чарльз Эдвардс",
       "summaryEn": "A Bitcoin development roadmap that addresses quantum computing risks could see the price surge by “double digits” very quickly, according to Charles Edwards.",
       "source": "Cointelegraph",
       "topic": "CRYPTO",
       "link": "https://cointelegraph.com/magazine/bitcoins-biggest-bull-catalyst-may-come-from-fixing-its-biggest-risk-edwards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T13:30:00Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T13:30:00Z"
     },
     {
       "id": "cointelegraph:https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec",
       "titleEn": "Thailand SEC files complaint against Bitkub over alleged false disclosures",
-      "titleRu": "Комиссия по ценным бумагам и биржам Таиланда подала жалобу на Bitkub в связи с предполагаемым ложным раскрытием информации",
       "summaryEn": "Thailand’s SEC filed a criminal complaint against Bitkub and two former directors over alleged false disclosures linked to a 2021 cyberattack involving $50 million in assets.",
       "source": "Cointelegraph",
       "topic": "MACRO",
       "link": "https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T12:46:27Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T12:46:27Z"
     },
     {
       "id": "theblock:https://www.theblock.co/post/409595",
       "titleEn": "Arthur Hayes, BitMEX co-founders face fraud claims over alleged ‘Insider Trading Desk’ as exchange winds down",
-      "titleRu": "Артур Хейс, соучредители BitMEX, сталкиваются с обвинениями в мошенничестве в отношении предполагаемого «инсайдерского торгового центра» по мере закрытия биржи",
       "summaryEn": "BitMEX, Arthur Hayes, Samuel Reed and Benjamin Delo face a proposed class action alleging insider trading and deliberate server freezes.",
       "source": "The Block",
       "topic": "MACRO",
       "link": "https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-24T12:38:21Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "cointelegraph:https://cointelegraph.com/news/odos-protocol-shut-down-4-years",
-      "titleEn": "Odos Protocol to shut down, gives users until July 30 to withdraw assets",
-      "titleRu": "Протокол Odos закрывается, дает пользователям возможность вывести активы до 30 июля",
-      "summaryEn": "Odos Protocol will shut down on July 30, giving users one week to withdraw assets. The team did not provide a reason for the decision.",
-      "source": "Cointelegraph",
-      "topic": "MACRO",
-      "link": "https://cointelegraph.com/news/odos-protocol-shut-down-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T11:59:42Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T12:38:21Z"
     },
     {
       "id": "theblock:https://www.theblock.co/post/409587",
       "titleEn": "Former bitcoin miner Poolin files Chapter 11, sets $52 million floor bid for Texas operations",
-      "titleRu": "Бывший майнер биткойнов Пулин подает в суд главу 11 и устанавливает минимальную ставку в 52 миллиона долларов для операций в Техасе",
       "summaryEn": "Poolin Technology filed for Chapter 11 with $173 million in claims, lining up a $52 million stalking-horse bid for its Texas mining assets.",
       "source": "The Block",
       "topic": "CRYPTO",
       "link": "https://www.theblock.co/post/409587/former-bitcoin-miner-poolin-files-chapter-11-sets-52-million-floor-bid-for-texas-operations?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-24T09:52:26Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T09:52:26Z"
     },
     {
       "id": "theblock:https://www.theblock.co/learn/409203",
       "titleEn": "The Largest Stablecoins Ranked",
-      "titleRu": "Рейтинг крупнейших стейблкоинов",
-      "summaryEn": "In recent years, stablecoins have emerged as crypto’s breakout use case. Assets that were created to streamline cryptocurrency trading are now being recognized as a more efficient, flexible, transparent medium of exchange for the world financial system. The total stablecoin market cap has surged on the back of this newfound attention, growing to $300 billion [&hellip;]",
+      "summaryEn": "In recent years, stablecoins have emerged as crypto’s breakout use case. Assets that were created to streamline cryptocurrency trading are now being recognized as a more efficient, flexible, transparent medium of exchange for the world financial system. The total stablecoin market cap has surged on the back of this newfound attention, growing to $300 billion […]",
       "source": "The Block",
       "topic": "CRYPTO",
       "link": "https://www.theblock.co/learn/409203/largest-stablecoins-ranked?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-24T06:18:31Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T06:18:31Z"
     },
     {
       "id": "theblock:https://www.theblock.co/learn/409577",
       "titleEn": "How Do Stablecoins Maintain Their Peg?",
-      "titleRu": "Как стейблкоины поддерживают свою привязку?",
-      "summaryEn": "A stablecoin peg is the target price a stablecoin is designed to hold. For the vast majority of stablecoins, this target is one U.S. dollar. Stablecoins maintain that price through two mechanisms. The first is reserves or collateral that give each token its underlying value; the second is an arbitrage process that returns the market [&hellip;]",
+      "summaryEn": "A stablecoin peg is the target price a stablecoin is designed to hold. For the vast majority of stablecoins, this target is one U.S. dollar. Stablecoins maintain that price through two mechanisms. The first is reserves or collateral that give each token its underlying value; the second is an arbitrage process that returns the market […]",
       "source": "The Block",
       "topic": "CRYPTO",
       "link": "https://www.theblock.co/learn/409577/how-do-stablecoins-maintain-their-peg?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-24T06:01:11Z",
-      "translationStatus": "translated"
+      "published": "2026-07-24T06:01:11Z"
     },
     {
       "id": "theblock:https://www.theblock.co/post/409560",
       "titleEn": "Robinhood CEO’s X account hacked to promote Vladhood memecoin flagged as ‘scam’",
-      "titleRu": "Аккаунт X генерального директора Robinhood был взломан для продвижения мемкойна Vladhood и помечен как «мошенничество»",
       "summaryEn": "Robinhood Chain has seen cumulative DEX volume of about $9 billion, primarily driven by higher-risk memecoins, per Entropy Advisors.",
       "source": "The Block",
       "topic": "CRYPTO",
       "link": "https://www.theblock.co/post/409560/robinhood-ceo-x-account-apparently-hacked-promote-vladhood-memecoin-flagged-scam?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-23T17:55:02Z",
-      "translationStatus": "translated"
+      "published": "2026-07-23T17:55:02Z"
     },
     {
       "id": "theblock:https://www.theblock.co/post/409536",
       "titleEn": "MoonPay now accepts Discover Network cards for crypto purchases and sales in US",
-      "titleRu": "MoonPay теперь принимает карты Discover Network для покупок и продаж криптовалюты в США",
       "summaryEn": "The addition makes Discover the third major U.S. card network supported by MoonPay, alongside Visa and Mastercard.",
       "source": "The Block",
       "topic": "CRYPTO",
       "link": "https://www.theblock.co/post/409536/moonpay-discover-network-card-payments-crypto?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-23T17:05:36Z",
-      "translationStatus": "translated"
+      "published": "2026-07-23T17:05:36Z"
     },
     {
       "id": "theblock:https://www.theblock.co/post/409538",
       "titleEn": "Swan CEO claims Twenty One serves Tether’s US political interests, calls Mallers’ role ‘ceremonial’",
-      "titleRu": "Генеральный директор Swan утверждает, что Twenty One служит политическим интересам Tether в США, и называет роль Маллера «церемониальной»",
       "summaryEn": "Twenty One Capital is Tether's \"U.S. entity for them to ... line pockets where needed for political reasons,\" says Cory Klippsten.",
       "source": "The Block",
       "topic": "CRYPTO",
       "link": "https://www.theblock.co/post/409538/swan-ceo-twenty-one-serves-tethers-us-political-interests-mallers-role-ceremonial?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-23T16:31:59Z",
-      "translationStatus": "translated"
+      "published": "2026-07-23T16:31:59Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch RSS feeds, classify by topic, translate to Russian, write static feed.json."""
+"""Fetch RSS feeds, classify by topic, fetch article summaries, write static feed.json."""
 
 from __future__ import annotations
 
@@ -16,6 +16,7 @@ import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
+from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any, Callable
 
@@ -23,7 +24,7 @@ import feedparser
 import yaml
 
 GOOGLE_TRANSLATE_URL = "https://translate.googleapis.com/translate_a/single"
-DEFAULT_USER_AGENT = "velo-news-ru/2.0 (+https://github.com/andrew-ledovich/velo-news-ru)"
+DEFAULT_USER_AGENT = "velo-news-ru/3.0 (+https://github.com/andrew-ledovich/velo-news-ru)"
 
 
 # ---------- text helpers ----------
@@ -48,6 +49,9 @@ def _strip_html(value: Any) -> str:
         .replace("&#39;", "'")
         .replace("&lt;", "<")
         .replace("&gt;", ">")
+        .replace("&mdash;", "—")
+        .replace("&ndash;", "–")
+        .replace("&hellip;", "…")
     )
     return re.sub(r"\s+", " ", text).strip()
 
@@ -83,11 +87,9 @@ def classify(
     topic_boost: list[str] | None = None,
 ) -> str:
     haystack_parts = [title or "", summary or ""] + (categories or [])
-    haystack = " \n ".join(haystack_parts)
-    haystack = _strip_html(haystack)
+    haystack = _strip_html(" \n ".join(haystack_parts))
 
     for topic, patterns in compiled_rules:
-        # macro is the catch-all (".*") and is checked last
         if topic == "macro":
             continue
         for pattern in patterns:
@@ -99,29 +101,38 @@ def classify(
 # ---------- RSS fetch ----------
 
 
-def _fetch_bytes(url: str, user_agent: str, timeout: int) -> bytes:
-    result = subprocess.run(
-        [
-            "curl",
-            "--compressed",
-            "--fail",
-            "--silent",
-            "--show-error",
-            "--location",
-            "--max-time",
-            str(timeout),
-            "--user-agent",
-            user_agent,
-            url,
-        ],
-        check=True,
-        capture_output=True,
-    )
+def _fetch_bytes(url: str, user_agent: str, timeout: int, extra_headers: list[str] | None = None) -> bytes:
+    cmd = [
+        "curl",
+        "--compressed",
+        "--fail",
+        "--silent",
+        "--show-error",
+        "--location",
+        "--max-time",
+        str(timeout),
+        "--user-agent",
+        user_agent,
+    ]
+    for h in extra_headers or []:
+        cmd += ["-H", h]
+    cmd.append(url)
+    result = subprocess.run(cmd, capture_output=True)
+    if result.returncode != 0:
+        raise RuntimeError(f"curl failed (exit {result.returncode}) for {url}")
     return result.stdout
 
 
 def fetch_feed(url: str, user_agent: str, timeout: int) -> feedparser.FeedParserDict:
-    raw = _fetch_bytes(url, user_agent, timeout)
+    raw = _fetch_bytes(
+        url,
+        user_agent,
+        timeout,
+        extra_headers=[
+            "Accept: application/rss+xml, application/xml;q=0.9, */*;q=0.8",
+            "Accept-Language: en-US,en;q=0.9",
+        ],
+    )
     return feedparser.parse(raw)
 
 
@@ -169,6 +180,89 @@ def _entry_id(entry: Any, source_id: str) -> str:
     return f"{source_id}:h{digest}"
 
 
+def _entry_summary_en(entry: Any) -> str:
+    raw = entry.get("summary") or entry.get("description") or entry.get("subtitle")
+    cleaned = _strip_html(raw)
+    return cleaned
+
+
+class _ArticleHTMLParser(HTMLParser):
+    """Pick the largest <p> block inside the article body. Naive but good enough as fallback."""
+
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self._chunks: list[str] = []
+        self._depth_in_p = 0
+        self._current: list[str] = []
+        self._skip_depth = 0
+        self._skip_tags = {"script", "style", "noscript", "svg", "form", "header", "footer", "nav", "aside", "iframe"}
+
+    def handle_starttag(self, tag, attrs):
+        if tag in self._skip_tags:
+            self._skip_depth += 1
+            return
+        if tag == "p":
+            self._depth_in_p += 1
+            self._current.append("")
+
+    def handle_endtag(self, tag):
+        if tag in self._skip_tags:
+            self._skip_depth = max(0, self._skip_depth - 1)
+            return
+        if tag == "p" and self._depth_in_p > 0:
+            self._depth_in_p -= 1
+            text = " ".join("".join(self._current).split()).strip()
+            if text and len(text) >= 60 and "cookie" not in text.lower() and "subscribe" not in text.lower():
+                self._chunks.append(text)
+            self._current = []
+
+    def handle_data(self, data):
+        if self._skip_depth:
+            return
+        if self._depth_in_p:
+            self._current.append(data)
+
+    @property
+    def paragraphs(self) -> list[str]:
+        return self._chunks
+
+
+def fetch_article_text(
+    url: str, user_agent: str, timeout: int = 15, max_paragraphs: int = 4, max_chars: int = 1200
+) -> str:
+    """Fetch the article HTML and pull the first paragraphs. Conservative."""
+    try:
+        html_bytes = _fetch_bytes(
+            url,
+            user_agent,
+            timeout,
+            extra_headers=[
+                "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Accept-Language: en-US,en;q=0.9",
+            ],
+        )
+    except Exception:
+        return ""
+    html = html_bytes.decode("utf-8", "ignore")
+    # Optional: scope to <article> if present, to skip nav/footer paragraphs.
+    m = re.search(r"<article[^>]*>(.*?)</article>", html, flags=re.DOTALL | re.IGNORECASE)
+    if m:
+        html = m.group(1)
+    parser = _ArticleHTMLParser()
+    try:
+        parser.feed(html)
+    except Exception:
+        return ""
+    chunks: list[str] = []
+    total = 0
+    for p in parser.paragraphs:
+        chunks.append(p)
+        total += len(p)
+        if len(chunks) >= max_paragraphs or total >= max_chars:
+            break
+    return "\n\n".join(chunks)
+
+
 def parse_entries(
     parsed: feedparser.FeedParserDict,
     source_id: str,
@@ -180,7 +274,7 @@ def parse_entries(
     for entry in parsed.entries:
         title = _clean(entry.get("title"))
         link = _clean(entry.get("link"))
-        summary = _strip_html(entry.get("summary") or entry.get("description"))
+        summary = _entry_summary_en(entry)
         published = _entry_datetime(entry)
         if not title or not link:
             continue
@@ -195,7 +289,7 @@ def parse_entries(
             {
                 "id": _entry_id(entry, source_id),
                 "titleEn": title,
-                "summaryEn": summary[:1200] if summary else None,
+                "summaryEn": summary[:1500] if summary else None,
                 "link": link,
                 "published": published,
                 "categories": categories,
@@ -205,7 +299,7 @@ def parse_entries(
     return out[:cap]
 
 
-# ---------- translation ----------
+# ---------- translation (optional) ----------
 
 
 def _parse_google_translation(data: list[Any], fallback: str) -> str:
@@ -241,58 +335,34 @@ def translate_to_russian(text: str, user_agent: str, timeout: int = 20) -> str:
 # ---------- feed building ----------
 
 
-def _translation_cache(feed: dict[str, Any] | None) -> dict[str, tuple[str, str]]:
-    cache: dict[str, tuple[str, str]] = {}
-    if not isinstance(feed, dict):
-        return cache
-    for item in feed.get("items") or []:
-        if not isinstance(item, dict):
-            continue
-        text_en = _clean(item.get("titleEn"))
-        text_ru = _clean(item.get("titleRu"))
-        status = _clean(item.get("translationStatus")) or "translated"
-        if text_en and text_ru and status == "translated":
-            cache[text_en] = (text_ru, status)
-    return cache
+def _safe_summary_text(text: str) -> str:
+    return _strip_html(text)
 
 
 def build_feed(
     items: list[dict[str, Any]],
     existing_feed: dict[str, Any] | None,
-    translate_fn: Callable[[str], str],
+    user_agent: str,
+    fetch_article_fn: Callable[[str], str] | None = None,
     delay_seconds: float = 0.0,
+    max_summary_chars: int = 1200,
     now: datetime | None = None,
 ) -> dict[str, Any]:
-    cache = _translation_cache(existing_feed)
-    out_items: list[dict[str, Any]] = []
     seen: set[str] = set()
+    out_items: list[dict[str, Any]] = []
 
     for item in items:
         item_id = item["id"]
         if item_id in seen:
             continue
         seen.add(item_id)
+
         title_en = _clean(item.get("titleEn"))
-        title_ru: str
-        status: str
-        cached = cache.get(title_en)
-        if cached:
-            title_ru, status = cached
-        else:
-            try:
-                translated = _clean(translate_fn(title_en))
-                if not translated:
-                    raise ValueError("translator returned empty")
-                title_ru = translated
-                status = "translated"
-            except Exception as exc:
-                print(
-                    f"warning: translation failed for {title_en[:60]!r}: {exc}",
-                    file=sys.stderr,
-                    flush=True,
-                )
-                title_ru = title_en
-                status = "failed"
+        summary_en = _safe_summary_text(item.get("summaryEn") or "")
+        if not summary_en and fetch_article_fn and item.get("link"):
+            fetched = _strip_html(fetch_article_fn(item["link"]))
+            if fetched:
+                summary_en = fetched[:max_summary_chars]
             if delay_seconds:
                 time.sleep(delay_seconds)
 
@@ -301,13 +371,11 @@ def build_feed(
             {
                 "id": item_id,
                 "titleEn": title_en,
-                "titleRu": title_ru,
-                "summaryEn": item.get("summaryEn"),
+                "summaryEn": summary_en or None,
                 "source": item.get("source"),
                 "topic": item.get("topic"),
                 "link": item.get("link"),
                 "published": published.isoformat().replace("+00:00", "Z") if published else None,
-                "translationStatus": status,
             }
         )
 
@@ -415,23 +483,23 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--sources", default="scripts/sources.yaml")
     parser.add_argument("--output", default="docs/data/news.json")
-    parser.add_argument("--no-translate", action="store_true")
     parser.add_argument("--max-items", type=int, default=0)
     parser.add_argument("--keep-days", type=int, default=0)
+    parser.add_argument("--workers", type=int, default=6)
+    parser.add_argument("--no-fallback", action="store_true", help="Skip HTML article fetch when RSS summary is empty")
     args = parser.parse_args()
 
     sources = load_sources(Path(args.sources))
     settings = sources.get("settings", {})
     user_agent = settings.get("user_agent", DEFAULT_USER_AGENT)
     request_timeout = int(settings.get("request_timeout", 25))
-    delay = 0.0 if args.no_translate else float(settings.get("per_request_delay_seconds", 0.15))
     max_items = int(args.max_items or settings.get("max_items", 200))
     keep_days = int(args.keep_days or settings.get("keep_days", 7))
 
     now = datetime.now(timezone.utc)
     since = now - timedelta(days=keep_days)
 
-    raw_items = collect(sources, user_agent, request_timeout, since)
+    raw_items = collect(sources, user_agent, request_timeout, since, workers=args.workers)
     if not raw_items:
         raise RuntimeError("no items from any source; refusing to overwrite the feed")
 
@@ -439,20 +507,29 @@ def main() -> int:
     raw_items = raw_items[:max_items]
 
     output = Path(args.output)
-    existing = load_json(output)
+    fetch_article_fn: Callable[[str], str] | None
+    if args.no_fallback:
+        fetch_article_fn = None
+    else:
+        def _fetch(link: str) -> str:
+            return fetch_article_text(link, user_agent=user_agent, timeout=20)
 
-    def _translate(text: str) -> str:
-        if args.no_translate:
-            return text
-        return translate_to_russian(text, user_agent, request_timeout)
+        fetch_article_fn = _fetch
 
-    feed = build_feed(raw_items, existing_feed=existing, translate_fn=_translate, delay_seconds=delay, now=now)
-    if args.no_translate:
-        for item in feed["items"]:
-            item["translationStatus"] = "original"
+    feed = build_feed(
+        raw_items,
+        existing_feed=load_json(output),
+        user_agent=user_agent,
+        fetch_article_fn=fetch_article_fn,
+        delay_seconds=0.0,
+        now=now,
+    )
     save_json_atomic(output, feed)
+
+    have_summary = sum(1 for i in feed["items"] if i.get("summaryEn"))
     print(
-        f"saved {feed['count']} items to {output} from {feed['sourceCount']} sources",
+        f"saved {feed['count']} items to {output} from {feed['sourceCount']} sources, "
+        f"with summary: {have_summary}/{feed['count']}",
         flush=True,
     )
     return 0
