@@ -1,0 +1,74 @@
+sources:
+  - id: techcrunch
+    name: TechCrunch
+    feed: https://techcrunch.com/feed/
+    enabled: true
+    cap: 12
+    topic_boost: [ai, ev]
+  - id: ft
+    name: Financial Times
+    feed: https://www.ft.com/rss/home
+    enabled: true
+    cap: 12
+    topic_boost: [macro]
+  - id: cnbc
+    name: CNBC
+    feed: https://www.cnbc.com/id/100003114/device/rss/rss.html
+    enabled: true
+    cap: 12
+    topic_boost: [ai, ev, macro]
+  - id: theblock
+    name: The Block
+    feed: https://www.theblock.co/rss.xml
+    enabled: true
+    cap: 12
+    topic_boost: [crypto]
+  - id: fortune
+    name: Fortune AI
+    feed: https://fortune.com/feed/
+    enabled: true
+    cap: 12
+    category_filter: [AI]
+    topic_boost: [ai]
+  - id: cointelegraph
+    name: Cointelegraph
+    feed: https://cointelegraph.com/rss
+    enabled: true
+    cap: 12
+    topic_boost: [crypto]
+
+topics:
+  - id: ai
+    label: AI
+  - id: crypto
+    label: CRYPTO
+  - id: ev
+    label: EV
+  - id: macro
+    label: MACRO
+
+# Order matters: first regex that matches wins.
+# Word boundaries (\b) are used to avoid false positives like "ai" inside "available".
+classification:
+  ai:
+    - \b(ai|artificial intelligence)\b
+    - \b(anthropic|openai|claude|chatgpt|gpt[- ]?\d|gemini|kimi|llm|deepseek|qwen|mistral|llama)\b
+    - \b(machine learning|deep learning|inference|neural net|generative ai|transformer)\b
+  ev:
+    - \b(ev|electric vehicle|electric vehicles|evs)\b
+    - \b(tesla|tsla|rivian|byd|nio|lucid|xpeng|li auto|polestar)\b
+    - \b(battery|batteries|gigafactory|charging station)\b
+  crypto:
+    - \b(bitcoin|btc|ethereum|eth|solana|sol|cardano|ada|xrp|ripple|doge|dogecoin|avax|polkadot|dot|tron|trx|bnb|ton|toncoin|aptos|sui|near|sei|inj|injective|hyperliquid|hype|polymarket)\b
+    - \b(crypto|cryptocurrency|blockchain|web3|defi|stablecoin|usdc|usdt|tether|stablecoin|l2|layer 2|rollup|zk[- ]?rollup|op mainnet|arbitrum|optimism|base|zksync|starknet)\b
+    - \b(coinbase|binance|kraken|okx|bybit|bitfinex|gemini|ondo|paxos|sky|sky.maker|makerdao|aave|uniswap|curve|balancer|morpho|ethena|ena|usde|ondo|ondo finance)\b
+    - \b(token|nft|dao|etf|spot etf|exchange[- ]?traded fund|halving|mining|staking|yield|airdrop)\b
+  macro:
+    - .*  # catch-all (default)
+
+settings:
+  user_agent: velo-news-ru/2.0 (+https://github.com/andrew-ledovich/velo-news-ru)
+  request_timeout: 25
+  per_request_delay_seconds: 0.15
+  max_items: 200
+  keep_days: 7
