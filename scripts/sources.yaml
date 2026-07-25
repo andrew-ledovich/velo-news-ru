@@ -36,6 +36,13 @@ sources:
     enabled: true
     cap: 12
     topic_boost: [crypto]
+  - id: stockanalysis
+    name: Stock Analysis
+    feed: https://stockanalysis.com/news/all-stocks/
+    enabled: true
+    cap: 12
+    feed_type: html_aggregate
+    topic_boost: [macro, crypto]
 
 topics:
   - id: ai

@@ -13,10 +13,12 @@ from scripts.update_feed import (
     _entry_datetime,
     _entry_id,
     _entry_summary_en,
+    _parse_stockanalysis,
     _safe_summary_text,
     build_feed,
     classify,
     fetch_article_text,
+    fetch_html_aggregate,
     load_sources,
     parse_entries,
     save_json_atomic,
@@ -373,6 +375,50 @@ class SourcesYamlTests(unittest.TestCase):
             self.assertIn("feed", src)
             self.assertIn("name", src)
             self.assertIn("id", src)
+
+
+class StockAnalysisParserTests(unittest.TestCase):
+    SAMPLE_HTML = """
+    <html><body>
+      <a href="https://www.stockanalysis.com/news/all-stocks/">All Stocks</a>
+      <a href="https://www.kitco.com/news/article/2026-07-24/wall-street-cautious-after-golds">Wall Street cautious after gold's lack of follow-through, Main Street bullish with Fed</a>
+      <a href="https://www.pymnts.com/news/ai/2026/stripe-deal/">Stripe Doubles Down on AI With OpenRouter Deal</a>
+      <a href="https://www.kitco.com/news/article/2026-07-24/wall-street-cautious-after-golds">duplicate should be dropped</a>
+      <a href="https://www.kitco.com/news/short-only-text">tiny</a>
+    </body></html>
+    """
+
+    def test_extracts_unique_external_links(self):
+        out = _parse_stockanalysis(self.SAMPLE_HTML)
+        hrefs = [item["link"] for item in out]
+        self.assertEqual(len(out), 2)
+        self.assertEqual(len(hrefs), len(set(hrefs)))
+        self.assertNotIn(
+            "https://www.stockanalysis.com/news/all-stocks/", hrefs
+        )
+
+    def test_item_id_starts_with_stockanalysis_prefix(self):
+        out = _parse_stockanalysis(self.SAMPLE_HTML)
+        for item in out:
+            self.assertTrue(item["id"].startswith("stockanalysis:"))
+            self.assertGreater(len(item["titleEn"]), 10)
+
+    def test_empty_html_returns_empty_list(self):
+        self.assertEqual(_parse_stockanalysis(""), [])
+        self.assertEqual(_parse_stockanalysis("<html><body>no news links</body></html>"), [])
+
+    def test_fetch_html_aggregate_uses_mocked_curl(self):
+        with mock.patch(
+            "scripts.update_feed._fetch_bytes",
+            return_value=self.SAMPLE_HTML.encode("utf-8"),
+        ) as mocked:
+            out = fetch_html_aggregate(
+                "https://stockanalysis.com/news/all-stocks/",
+                DEFAULT_USER_AGENT,
+                timeout=5,
+            )
+        self.assertEqual(len(out), 2)
+        mocked.assert_called_once()
 
 
 if __name__ == "__main__":

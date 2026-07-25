@@ -180,6 +180,65 @@ def _entry_id(entry: Any, source_id: str) -> str:
     return f"{source_id}:h{digest}"
 
 
+# ---------- HTML aggregate (stockanalysis.com) ----------
+
+
+def _parse_stockanalysis(html: str) -> list[dict[str, Any]]:
+    """Extract (title, link) from stockanalysis.com/news/all-stocks/ HTML."""
+    # Match: <a href="https://.../news/...">...TITLE TEXT...</a>
+    # The link may have many attributes; the visible text may span newlines and
+    # contain inline tags (e.g. <span>). Be permissive: anything between the
+    # opening <a ...> and the FIRST closing </a> belongs to the title.
+    anchor_pattern = re.compile(
+        r'<a\b([^>]*?)href="(https?://[^"]+/news/[^"]+)"([^>]*)>(.*?)</a>',
+        re.IGNORECASE | re.DOTALL,
+    )
+    out: list[dict[str, Any]] = []
+    seen: set[str] = set()
+    for match in anchor_pattern.finditer(html):
+        link = match.group(2).strip()
+        if not link or link in seen:
+            continue
+        # Skip nav links back to the index/press pages.
+        if "stockanalysis.com/news/all-stocks" in link:
+            continue
+        if "stockanalysis.com/news/press-releases" in link:
+            continue
+        inner = match.group(4)
+        # Drop nested anchors' nested text? strip recursively any <…> then condense.
+        title = re.sub(r"<[^>]+>", " ", inner)
+        title = _clean(title)
+        if len(title) < 30:
+            continue
+        seen.add(link)
+        out.append(
+            {
+                "id": f"stockanalysis:{hashlib.sha1(link.encode('utf-8')).hexdigest()[:16]}",
+                "titleEn": title,
+                "link": link,
+            }
+        )
+    return out
+
+
+def fetch_html_aggregate(url: str, user_agent: str, timeout: int) -> list[dict[str, Any]]:
+    raw = _fetch_bytes(
+        url,
+        user_agent,
+        timeout,
+        extra_headers=[
+            "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language: en-US,en;q=0.9",
+        ],
+    )
+    html = raw.decode("utf-8", "ignore")
+    host_match = re.search(r"https?://(?:www\.)?([^/]+)/", url)
+    host = host_match.group(1) if host_match else ""
+    if "stockanalysis.com" in host:
+        return _parse_stockanalysis(html)
+    return []
+
+
 def _entry_summary_en(entry: Any) -> str:
     raw = entry.get("summary") or entry.get("description") or entry.get("subtitle")
     cleaned = _strip_html(raw)
@@ -435,18 +494,36 @@ def collect(
         boosts[src["id"]] = src.get("topic_boost") or []
 
     def _one(src: dict[str, Any]) -> list[dict[str, Any]]:
+        feed_type = src.get("feed_type", "rss")
         try:
-            parsed = fetch_feed(src["feed"], user_agent, request_timeout)
+            if feed_type == "html_aggregate":
+                items = fetch_html_aggregate(
+                    src["feed"], user_agent, request_timeout
+                )
+                entries: list[dict[str, Any]] = []
+                for raw in items[: int(src.get("cap", 12))]:
+                    entries.append(
+                        {
+                            "id": raw["id"],
+                            "titleEn": raw["titleEn"],
+                            "summaryEn": None,
+                            "link": raw["link"],
+                            "published": None,
+                            "categories": [],
+                        }
+                    )
+            else:
+                parsed = fetch_feed(src["feed"], user_agent, request_timeout)
+                entries = parse_entries(
+                    parsed,
+                    source_id=src["id"],
+                    cap=int(src.get("cap", 12)),
+                    category_filter=src.get("category_filter"),
+                    since=since,
+                )
         except Exception as exc:
             print(f"warning: feed {src['id']} failed: {exc}", file=sys.stderr, flush=True)
             return []
-        entries = parse_entries(
-            parsed,
-            source_id=src["id"],
-            cap=int(src.get("cap", 12)),
-            category_filter=src.get("category_filter"),
-            since=since,
-        )
         out: list[dict[str, Any]] = []
         for e in entries:
             topic = classify(

@@ -240,7 +240,7 @@ a:hover { text-decoration: underline; }
 
 .item-body {
   grid-column: 1 / -1;
-  padding: 14px 0 6px 90px;
+  padding: 14px 0 6px 0;
   color: var(--grey-1);
   font-size: 13px;
   line-height: 1.55;
@@ -248,8 +248,8 @@ a:hover { text-decoration: underline; }
 
 .summary {
   border-left: 2px solid var(--accent);
-  padding: 4px 0 4px 12px;
-  margin-bottom: 12px;
+  padding: 4px 0 4px 10px;
+  margin: 4px 0 12px 0;
 }
 
 .summary-head {
