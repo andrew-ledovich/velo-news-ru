@@ -239,6 +239,127 @@ def fetch_html_aggregate(url: str, user_agent: str, timeout: int) -> list[dict[s
     return []
 
 
+# Boilerplate filter: paragraphs matching any of these substrings (case-insensitive)
+# are dropped before the summary is built. Covers the common paywall / nav / byline
+# patterns seen across Kitco, PYMNTS, Invezz, BusinessWire and friends.
+_BOILERPLATE_PATTERNS = [
+    r"subscribe to",
+    r"sign up for",
+    r"create an account",
+    r"already a subscriber",
+    r"log in",
+    r"unlock this article",
+    r"complete the form",
+    r"enjoy unlimited free",
+    r"to read the full story",
+    r"continue reading",
+    r"read more",
+    r"©\s*\d{4}",
+    r"all rights reserved",
+    r"this website is using a security service",
+    r"please enable cookies",
+    r"please enable javascript",
+    r"accept (all )?cookies",
+    r"privacy policy",
+    r"terms of (service|use)",
+    r"manage cookies",
+    r"do not (sell|share) my",
+    r"advertisement",
+    r"newsletter",
+    r"diverse team of journalists",
+    r"accuracy and objectivity",
+    r"related articles",
+    r"related stories",
+    r"you may also like",
+    r"share this",
+    r"follow us on",
+    r"tags?:",
+    r"filed under",
+    r"categories?:",
+    r"trending",
+    r"most read",
+    r"most popular",
+    r"copyright",
+    r"kitco news has",
+    r"our goal is to help people make",
+    r"by entering your email",
+    r"submit",
+    r"contact us",
+    r"about us",
+    r"press releases?",
+    r"all press releases",
+    r"view all",
+    r"show more",
+    r"show less",
+]
+_BOILERPLATE_RE = re.compile("|".join(_BOILERPLATE_PATTERNS), re.IGNORECASE)
+
+
+def _extract_paragraphs_from_html(
+    html: str,
+    min_chars: int = 80,
+    max_chars: int = 1500,
+    max_paragraphs: int = 3,
+) -> list[str]:
+    """Pull article-body <p> blocks from raw HTML, filtering boilerplate."""
+    # Prefer <article> if present, else fall back to full body.
+    m = re.search(r"<article[^>]*>(.*?)</article>", html, flags=re.DOTALL | re.IGNORECASE)
+    scope = m.group(1) if m else html
+    # Match <p>...</p> with non-trivial text. Use DOTALL so we capture
+    # paragraphs that contain inline tags.
+    paragraph_re = re.compile(r"<p\b[^>]*>(.*?)</p>", re.IGNORECASE | re.DOTALL)
+    out: list[str] = []
+    total = 0
+    for match in paragraph_re.finditer(scope):
+        inner = match.group(1)
+        text = re.sub(r"<[^>]+>", " ", inner)
+        text = _strip_html(text)
+        if not text:
+            continue
+        if len(text) < min_chars:
+            continue
+        if _BOILERPLATE_RE.search(text):
+            continue
+        out.append(text)
+        total += len(text)
+        if len(out) >= max_paragraphs or total >= max_chars:
+            break
+    return out
+
+
+def fetch_article_summary(
+    url: str,
+    user_agent: str,
+    timeout: int = 15,
+    min_chars: int = 80,
+    max_chars: int = 1500,
+    max_paragraphs: int = 3,
+) -> str:
+    """Fetch one article page and return a plain-text summary, or '' on failure."""
+    try:
+        html_bytes = _fetch_bytes(
+            url,
+            user_agent,
+            timeout,
+            extra_headers=[
+                "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Accept-Language: en-US,en;q=0.9",
+            ],
+        )
+    except Exception:
+        return ""
+    html = html_bytes.decode("utf-8", "ignore")
+    paragraphs = _extract_paragraphs_from_html(
+        html,
+        min_chars=min_chars,
+        max_chars=max_chars,
+        max_paragraphs=max_paragraphs,
+    )
+    if not paragraphs:
+        return ""
+    return " ".join(paragraphs).strip()
+
+
 def _entry_summary_en(entry: Any) -> str:
     raw = entry.get("summary") or entry.get("description") or entry.get("subtitle")
     cleaned = _strip_html(raw)
@@ -500,13 +621,38 @@ def collect(
                 items = fetch_html_aggregate(
                     src["feed"], user_agent, request_timeout
                 )
+                # Parallel summary fetch.
+                workers = int(src.get("summary_workers", 4))
+                max_paras = int(src.get("summary_max_paragraphs", 3))
+                min_chars = int(src.get("summary_min_chars", 80))
+                max_chars = int(src.get("summary_max_chars", 1500))
+                if items and workers > 0:
+                    with ThreadPoolExecutor(max_workers=workers) as pool:
+                        future_to_raw = {
+                            pool.submit(
+                                fetch_article_summary,
+                                raw["link"],
+                                user_agent,
+                                request_timeout,
+                                min_chars,
+                                max_chars,
+                                max_paras,
+                            ): raw
+                            for raw in items
+                        }
+                        for fut in as_completed(future_to_raw):
+                            raw = future_to_raw[fut]
+                            raw["summaryEn"] = fut.result() or None
+                else:
+                    for raw in items:
+                        raw["summaryEn"] = None
                 entries: list[dict[str, Any]] = []
                 for raw in items[: int(src.get("cap", 12))]:
                     entries.append(
                         {
                             "id": raw["id"],
                             "titleEn": raw["titleEn"],
-                            "summaryEn": None,
+                            "summaryEn": raw.get("summaryEn"),
                             "link": raw["link"],
                             "published": None,
                             "categories": [],

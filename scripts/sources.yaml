@@ -1,48 +1,15 @@
 sources:
-  - id: techcrunch
-    name: TechCrunch
-    feed: https://techcrunch.com/feed/
-    enabled: true
-    cap: 12
-    topic_boost: [ai, ev]
-  - id: ft
-    name: Financial Times
-    feed: https://www.ft.com/rss/home
-    enabled: true
-    cap: 12
-    topic_boost: [macro]
-  - id: cnbc
-    name: CNBC
-    feed: https://www.cnbc.com/id/100003114/device/rss/rss.html
-    enabled: true
-    cap: 12
-    topic_boost: [ai, ev, macro]
-  - id: theblock
-    name: The Block
-    feed: https://www.theblock.co/rss.xml
-    enabled: true
-    cap: 12
-    topic_boost: [crypto]
-  - id: fortune
-    name: Fortune AI
-    feed: https://fortune.com/feed/
-    enabled: true
-    cap: 12
-    category_filter: [AI]
-    topic_boost: [ai]
-  - id: cointelegraph
-    name: Cointelegraph
-    feed: https://cointelegraph.com/rss
-    enabled: true
-    cap: 12
-    topic_boost: [crypto]
   - id: stockanalysis
     name: Stock Analysis
     feed: https://stockanalysis.com/news/all-stocks/
     enabled: true
-    cap: 12
+    cap: 40
     feed_type: html_aggregate
-    topic_boost: [macro, crypto]
+    topic_boost: [macro, crypto, ai, ev]
+    summary_workers: 4
+    summary_max_paragraphs: 3
+    summary_min_chars: 80
+    summary_max_chars: 1500
 
 topics:
   - id: ai

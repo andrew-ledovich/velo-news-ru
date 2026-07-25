@@ -8,15 +8,18 @@ from unittest import mock
 from scripts.update_feed import (
     DEFAULT_USER_AGENT,
     _ArticleHTMLParser,
+    _BOILERPLATE_RE,
     _compile_topic_rules,
     _entry_categories,
     _entry_datetime,
     _entry_id,
     _entry_summary_en,
+    _extract_paragraphs_from_html,
     _parse_stockanalysis,
     _safe_summary_text,
     build_feed,
     classify,
+    fetch_article_summary,
     fetch_article_text,
     fetch_html_aggregate,
     load_sources,
@@ -370,7 +373,7 @@ class AtomicWriteTests(unittest.TestCase):
 class SourcesYamlTests(unittest.TestCase):
     def test_loads_real_config(self):
         data = load_sources(Path("scripts/sources.yaml"))
-        self.assertGreaterEqual(len(data["sources"]), 6)
+        self.assertGreaterEqual(len(data["sources"]), 1)
         for src in data["sources"]:
             self.assertIn("feed", src)
             self.assertIn("name", src)
@@ -419,6 +422,100 @@ class StockAnalysisParserTests(unittest.TestCase):
             )
         self.assertEqual(len(out), 2)
         mocked.assert_called_once()
+
+
+class ArticleSummaryParserTests(unittest.TestCase):
+    SAMPLE_HTML = """
+    <html><body>
+      <p>Subscribe to our newsletter for daily updates.</p>
+      <p>Kitco News has a diverse team of journalists reporting on the economy
+      with accuracy and objectivity. Our goal is to help people make money.</p>
+      <article>
+        <p>The Federal Reserve held interest rates steady on Wednesday, citing
+        persistent inflation pressures and a tight labour market as reasons
+        to delay a widely expected cut. Officials flagged upside risks to
+        inflation from tariffs and energy prices.</p>
+        <p>Markets reacted immediately: the two-year Treasury yield rose to
+        4.32 percent, its highest level since November 2024, and equity
+        futures pared earlier gains as traders priced out a September cut.</p>
+        <p>© 2026 All rights reserved.</p>
+        <p>Continue reading the full story on our premium tier.</p>
+        <p>Gold prices climbed to a four-week high as investors sought a
+        haven amid the policy uncertainty and softer US dollar.</p>
+      </article>
+    </body></html>
+    """
+
+    def test_extracts_only_article_paragraphs_and_skips_boilerplate(self):
+        out = _extract_paragraphs_from_html(
+            self.SAMPLE_HTML, min_chars=80, max_chars=1500, max_paragraphs=3
+        )
+        self.assertEqual(len(out), 3)
+        joined = " ".join(out)
+        self.assertIn("Federal Reserve", joined)
+        self.assertIn("Gold prices", joined)
+        self.assertNotIn("Subscribe", joined)
+        self.assertNotIn("diverse team", joined)
+        self.assertNotIn("All rights reserved", joined)
+        self.assertNotIn("Continue reading", joined)
+
+    def test_respects_max_paragraphs(self):
+        out = _extract_paragraphs_from_html(
+            self.SAMPLE_HTML, min_chars=80, max_chars=1500, max_paragraphs=2
+        )
+        self.assertEqual(len(out), 2)
+
+    def test_returns_empty_for_html_without_article(self):
+        html = "<html><body><p>Subscribe to our newsletter.</p></body></html>"
+        self.assertEqual(_extract_paragraphs_from_html(html), [])
+
+    def test_boilerplate_re_matches_common_patterns(self):
+        for sample in [
+            "Subscribe to our newsletter",
+            "Continue reading the full story",
+            "All rights reserved",
+            "kitco news has a diverse team of journalists",
+            "Privacy Policy",
+            "© 2024 Example Co",
+        ]:
+            self.assertIsNotNone(_BOILERPLATE_RE.search(sample), sample)
+
+    def test_fetch_article_summary_with_mocked_curl(self):
+        with mock.patch(
+            "scripts.update_feed._fetch_bytes",
+            return_value=self.SAMPLE_HTML.encode("utf-8"),
+        ) as mocked:
+            summary = fetch_article_summary(
+                "https://www.kitco.com/news/article/some-article",
+                DEFAULT_USER_AGENT,
+                timeout=5,
+            )
+        mocked.assert_called_once()
+        self.assertIn("Federal Reserve", summary)
+        self.assertNotIn("Subscribe", summary)
+
+    def test_fetch_article_summary_returns_empty_on_curl_failure(self):
+        with mock.patch(
+            "scripts.update_feed._fetch_bytes",
+            side_effect=RuntimeError("boom"),
+        ):
+            self.assertEqual(
+                fetch_article_summary(
+                    "https://www.kitco.com/news/down", DEFAULT_USER_AGENT, timeout=5
+                ),
+                "",
+            )
+
+
+class SourcesYamlOnlyStockAnalysisTests(unittest.TestCase):
+    def test_only_stockanalysis_enabled(self):
+        data = load_sources(Path("scripts/sources.yaml"))
+        ids = [s["id"] for s in data["sources"]]
+        self.assertEqual(ids, ["stockanalysis"])
+        sa = data["sources"][0]
+        self.assertEqual(sa.get("feed_type"), "html_aggregate")
+        self.assertGreaterEqual(int(sa.get("cap", 0)), 20)
+        self.assertIn("summary_workers", sa)
 
 
 if __name__ == "__main__":
