@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-07-25T10:57:45.443316Z",
+  "generatedAt": "2026-07-25T14:49:57.524686Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:f21d1822e49ad1a4",
+      "titleEn": "Here's why flying car stocks like Joby and Archer Aviation falling",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/25/heres-why-flying-car-stocks-like-joby-and-archer-aviation-falling/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:787af8eb08ed8002",
+      "titleEn": "Sci-fi to reality? OpenAI's Hugging Face hack explained",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/07/25/sci-fi-to-reality-openais-hugging-face-hack-explained/",
+      "published": null
+    },
     {
       "id": "stockanalysis:d8563c483546685a",
       "titleEn": "Alphabet, Tesla earnings set a nervous tone: all eyes on Meta, Amazon and Microsoft",
