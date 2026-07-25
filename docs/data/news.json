@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-25T14:49:57.524686Z",
+  "generatedAt": "2026-07-25T18:07:51.410887Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:f21d1822e49ad1a4",
@@ -91,15 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/07/24/is-the-musk-premium-baked-into-spacex-stock-price/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3eb82c94dd1febd4",
-      "titleEn": "Stripe Doubles Down on AI With OpenRouter Deal",
-      "summaryEn": "Stripe is in talks to buy OpenRouter , an artificial intelligence startup. The deal could value the company at roughly $10 billion, The Wall Street Journal reported. An agreement could be announced soon. Still, talks could fall through, or another buyer could step in. The exact price has not been confirmed. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); OpenRouter was valued at $1.3 billion in May. That came after a $113 million funding round led by CapitalG , Google’s venture capital arm. A $10 billion sale, by comparison, would value OpenRouter at nearly eight times that figure. And that jump would come in under three months.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/stripe-doubles-down-ai-with-openrouter-deal/",
       "published": null
     },
     {
