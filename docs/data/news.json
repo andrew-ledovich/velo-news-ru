@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-25T07:39:26.507752Z",
+  "generatedAt": "2026-07-25T07:43:27.857073Z",
   "sourceCount": 6,
-  "count": 59,
+  "count": 58,
   "items": [
     {
       "id": "ft:6e1d4a14-b7ad-4a36-86d9-3990497272a3",
@@ -331,17 +331,6 @@
       "topic": "EV",
       "link": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",
       "published": "2026-07-24T19:56:23Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "fortune:https://fortune.com/?p=4533356&showAdminBar=true",
-      "titleEn": "AI executives demand OpenAI release more details about how the Hugging Face hack happened",
-      "titleRu": "Руководители AI требуют от OpenAI предоставить более подробную информацию о том, как произошел взлом Hugging Face",
-      "summaryEn": "AI experts want the ChatGPT maker to disclose far more detail about how the incident occurred.",
-      "source": "Fortune AI",
-      "topic": "AI",
-      "link": "https://fortune.com/2026/07/24/ai-executives-demand-openai-release-more-details-about-how-the-hugging-face-hack-happened/",
-      "published": "2026-07-24T19:27:15Z",
       "translationStatus": "translated"
     },
     {
