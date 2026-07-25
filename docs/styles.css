@@ -238,12 +238,29 @@ a:hover { text-decoration: underline; }
 
 .item-arrow { align-self: center; color: var(--grey-2); font-size: 11px; user-select: none; }
 
+/* The .item body uses grid-column: 1 / -1 which makes it start at the item's
+   own left padding, not under the topic badge (which lives in the second
+   78px column). To make the summary visually align with the topic badge, we
+   shift the inner content (summary + open button) left by 90px on desktop
+   and 76px on mobile. We do this with a negative margin on .summary, not on
+   the body, so the body itself still takes the full grid width. */
 .item-body {
   grid-column: 1 / -1;
   padding: 14px 0 6px 0;
   color: var(--grey-1);
   font-size: 13px;
   line-height: 1.55;
+}
+
+.item-body .summary {
+  margin-left: -90px;
+  padding-left: 102px;
+  width: calc(100% + 90px);
+}
+
+.item-body a.open {
+  margin-left: -90px;
+  padding-left: 90px;
 }
 
 .summary {
@@ -311,6 +328,15 @@ a:hover { text-decoration: underline; }
     grid-template-columns: 64px 64px 1fr auto;
     padding: 10px 14px;
   }
-  .item-body { padding-left: 0; }
+  /* On mobile, the topic column is 64px wide, gap 12px → shift by 76px. */
+  .item-body .summary {
+    margin-left: -76px;
+    padding-left: 88px;
+    width: calc(100% + 76px);
+  }
+  .item-body a.open {
+    margin-left: -76px;
+    padding-left: 76px;
+  }
   .group-head { padding: 12px 14px 6px; }
 }
