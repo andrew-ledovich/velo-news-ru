@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-07-25T08:31:47.745217Z",
+  "generatedAt": "2026-07-25T10:57:45.443316Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:d8563c483546685a",
+      "titleEn": "Alphabet, Tesla earnings set a nervous tone: all eyes on Meta, Amazon and Microsoft",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/07/25/alphabet-tesla-earnings-set-a-nervous-tone-all-eyes-on-meta-amazon-and-microsoft/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:59e82c0f591be17b",
+      "titleEn": "Why are Nvidia-backed CoreWeave, Nebius, and IREN stocks plunging?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/25/why-are-nvidia-backed-coreweave-nebius-and-iren-stocks-plunging/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f0a1b1eefdc423af",
+      "titleEn": "Three 'popular stocks' Cathie Wood has sold in July",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/25/three-popular-stocks-cathie-wood-has-sold-in-july/",
+      "published": null
+    },
     {
       "id": "stockanalysis:83d6fcf902170558",
       "titleEn": "Wall Street cautious after gold's lack of follow-through, Main Street bullish with Fed decision on deck",
@@ -58,30 +85,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:27ff30844b260fbb",
-      "titleEn": "China's June gold imports hit fresh two-year high of 173 tonnes as lower prices boost demand",
-      "summaryEn": "(Kitco News) – China’s gold imports set a fresh two-year high in June, with the plunge in international gold prices making the yellow metal even more attractive in the world&#x27;s biggest market for bullion. Overseas purchases rose for a third straight month to approximately 173 tonnes, according to the latest customs data. June’s imports were the highest since March 2024 and outdid May’s 163-tonne total. Cheaper prices and a stronger local currency drove investor interest, while banks also took the opportunity to max out import quotas and stock up on bullion to meet retail demand. “Investors buying the dip is an important driver of recent demand,” Jinrui Futures analyst Zijie Wu told Bloomberg. “Commercial banks need to build up their inventories to provide the physical backing for retail bullion sales and gold accumulation plans, as well as preserving some safety reserve for when demand spikes.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-07-24/chinas-june-gold-imports-hit-fresh-two-year-high-173-tonnes-lower-prices",
-      "published": null
-    },
-    {
       "id": "stockanalysis:19140f01b0d9bf4a",
       "titleEn": "Kuwait Oil Company Signs US$ 16.0 Billion Infrastructure Partnership Involving Its Crude Oil Pipeline Network With a Consortium Comprising Blackstone, Brookfield and KKR",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260724974083/en/Kuwait-Oil-Company-Signs-US-16.0-Billion-Infrastructure-Partnership-Involving-Its-Crude-Oil-Pipeline-Network-With-a-Consortium-Comprising-Blackstone-Brookfield-and-KKR/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2cb28c82492cd65d",
-      "titleEn": "Inspire Medical Investigation Continued: Kahn Swick &amp; Foti, LLC Continues to Investigate the Officers and Directors of Inspire Medical Systems, Inc. - INSP",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260724876114/en/Inspire-Medical-Investigation-Continued-Kahn-Swick-Foti-LLC-Continues-to-Investigate-the-Officers-and-Directors-of-Inspire-Medical-Systems-Inc.---INSP/",
       "published": null
     }
   ]
