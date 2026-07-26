@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-07-26T11:47:41.086279Z",
+  "generatedAt": "2026-07-26T15:47:10.052844Z",
   "sourceCount": 1,
   "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:4719822dfbac424a",
+      "titleEn": "Here's why the Uber stock price is in a free fall",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/26/heres-why-the-uber-stock-price-is-in-a-free-fall/",
+      "published": null
+    },
     {
       "id": "stockanalysis:f21d1822e49ad1a4",
       "titleEn": "Here's why flying car stocks like Joby and Archer Aviation falling",
@@ -64,15 +73,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-07-24/gold-holds-near-4050-equities-diverge-oil-falls-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3b19d2b7df1de84c",
-      "titleEn": "Gold continues to hold $4,000, which could signal an inflection point, analysts say",
-      "summaryEn": "(Kitco News) - Gold has managed to hold critical support near $4,000 an ounce for the past five consecutive weeks, and although significant downside risks remain, some analysts see growing potential for a bullish shift in the market. Analysts note that although gold has been unable to hold gains above $4,100 an ounce, it has faced only limited selling pressure despite significant headwinds. The precious metal has held critical support even as oil prices climbed to their highest level in nine weeks. Oil prices moved higher this week as the war in Iran intensified, with the ongoing global energy crisis continuing to fuel inflation fears, forcing central banks around the world to adopt more hawkish policy biases.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-07-24/gold-continues-hold-4000-which-could-signal-inflection-point-analysts-say",
       "published": null
     },
     {
