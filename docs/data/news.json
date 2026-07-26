@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-26T07:18:14.012057Z",
+  "generatedAt": "2026-07-26T11:47:41.086279Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 9,
   "items": [
     {
       "id": "stockanalysis:f21d1822e49ad1a4",
@@ -73,15 +73,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-07-24/gold-continues-hold-4000-which-could-signal-inflection-point-analysts-say",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ff77ae3f5fbf03b7",
-      "titleEn": "Verizon Lands $1 Billion Google Deal as AI Infrastructure Demand Soars",
-      "summaryEn": "Verizon signed an over $1 billion artificial intelligence (AI) infrastructure deal with Google , and the company expects to sign several similar deals by the end of the year, Verizon CEO Dan Schulman said Friday (July 24) during a second quarter earnings call . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); In the recently signed agreement, Verizon dark fiber will be used to connect Google’s data centers. In the other deals that the company expects to announce by year’s end, Verizon will earn “multiple billions of dollars in revenue” over the next several years, Schulman said.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/verizon-lands-1-billion-google-deal-as-ai-infrastructure-demand-soars/",
       "published": null
     },
     {
