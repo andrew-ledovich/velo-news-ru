@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-25T21:12:30.979139Z",
+  "generatedAt": "2026-07-26T07:18:14.012057Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:f21d1822e49ad1a4",
@@ -82,15 +82,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/verizon-lands-1-billion-google-deal-as-ai-infrastructure-demand-soars/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:33012bed7777d1a5",
-      "titleEn": "Is the Musk premium baked into SpaceX stock price?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/24/is-the-musk-premium-baked-into-spacex-stock-price/",
       "published": null
     },
     {
