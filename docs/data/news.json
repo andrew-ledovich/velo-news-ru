@@ -1,8 +1,71 @@
 {
-  "generatedAt": "2026-07-27T18:08:32.001922Z",
+  "generatedAt": "2026-07-27T21:53:13.194844Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:72c1fc54a3344dae",
+      "titleEn": "Gold's next $1,000 move is likely higher as Fed hawkishness peaks, says State Street's Doshi",
+      "summaryEn": "(Kitco News) - Gold prices are expected to consolidate around $4,000 an ounce through the rest of the summer as markets wait for clearer guidance from the Federal Reserve on the direction of its monetary policy for the remainder of the year. However, one market strategist said that, looking beyond the current consolidation phase, gold’s next $1,000 move will likely be higher. In an interview with Kitco News, Aakash Doshi, Head of Gold Strategy at State Street Asset Management, said that market expectations surrounding the Federal Reserve’s tightening bias appear to be overly aggressive.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-07-27/golds-next-1000-move-likely-higher-fed-hawkishness-peaks-says-state-streets",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:69e209984a4609ea",
+      "titleEn": "Options data reveals how MSFT stock may react to earnings on July 29",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/27/options-data-reveals-how-msft-stock-may-react-to-earnings-on-july-29/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:511709eaab240a5d",
+      "titleEn": "Payward Plans Magic Labs Wallet Acquisition to Expand B2B Infrastructure Platform",
+      "summaryEn": "Payward plans to expand its B2B infrastructure platform, Payward Services , with embedded, non-custodial wallet infrastructure by acquiring the wallet-as-a-service business of Magic Labs . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Payward Services offers partners a single integration point for the infrastructure they need to build always-on financial products, such as cryptocurrency trading, custody, tokenized assets, on- and off-ramps, and derivatives, according to the release.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.pymnts.com/news/b2b-payments/2026/payward-plans-magic-labs-wallet-acquisition-expand-b2b-infrastructure-platform/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:50467b91561dfe91",
+      "titleEn": "Tesla stock falls as post-earnings selloff continues",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/07/27/tesla-stock-falls-as-post-earnings-selloff-continues/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9d4c580f8b989b72",
+      "titleEn": "China's gold stockpile could surpass U.S. holdings in the next five years - BMO Capital Markets",
+      "summaryEn": "(Kitco News) - Lackluster Western gold demand has kept a lid on prices over the last few months; however, one bank has pointed out that Asian demand, led by China, remains a key pillar of support for the global market, and the nation&#x27;s stockpile and influence could be much greater than previously believed. Although the gold market has struggled through a months-long correction, prices have managed to hold critical support above $4,000 an ounce. In their latest report, commodity analysts at BMO Capital Markets speculate that renewed Chinese demand is a key reason why gold has maintained that support. At the same time, they argue that China&#x27;s influence on the gold market is much larger than many investors realize. “Our new analysis suggests China has accumulated ~30kt of gold above ground, higher than official data, and is now driving ~1/3 of global demand flows,” the analysts said.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-07-27/chinas-gold-stockpile-could-surpass-us-holdings-next-five-years-bmo-capital",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:41c62159bbcc5a91",
+      "titleEn": "General Motors stock rises 3%: why the stock is a top pick for this analyst",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/27/general-motors-stock-rises-3-why-the-stock-is-a-top-pick-for-this-analyst/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ed0c538926bbcf23",
+      "titleEn": "OpenAI and Nvidia Discuss $250 Billion Data Center Funding Deal",
+      "summaryEn": "Nvidia is reportedly in discussions with OpenAI to guarantee $250 billion in data center funding. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a report Monday (July 27) by the Wall Street Journal (WSJ), which calls the proposed deal one of the most ambitious to date in the American AI boom.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-and-nvidia-discuss-250-billion-data-center-funding-deal/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3bec54b27b5ac874",
       "titleEn": "Why are Micron, Sandisk, and SK Hynix stocks falling today?",
@@ -13,147 +76,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:d748d80c3605dfee",
-      "titleEn": "Strategy stock jumps as Bitcoin buying pause enters fifth straight week",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/07/27/strategy-stock-jumps-as-bitcoin-buying-pause-enters-fifth-straight-week/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:420fcc0652fe0f80",
-      "titleEn": "What Intel earnings tell us to expect from AMD next week",
+      "id": "stockanalysis:b04f0665cfdc0b2e",
+      "titleEn": "FirstSun Capital Bancorp Reports Second Quarter 2026 Results and Board of Directors Authorizes $150 Million Share Repurchase Program",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/27/what-intel-earnings-tell-us-to-expect-from-amd-next-week/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1bfe535de3616848",
-      "titleEn": "D-Wave stock is soaring and it's not entirely about AT&amp;T partnership",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/27/d-wave-stock-is-soaring-and-its-not-entirely-about-att-partnership/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ef8d6b67b3471f57",
-      "titleEn": "ASML stock sinks as China reportedly starts producing homegrown DUV chip machines",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/27/asml-stock-sinks-as-china-reportedly-starts-producing-homegrown-duv-chip-machines/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c3131bb10d6085b7",
-      "titleEn": "PayPal stock in focus as Wall Street eyes response to Stripe bid",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/27/paypal-stock-in-focus-as-wall-street-eyes-response-to-stripe-bid/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0b2cfb0f1a663cf3",
-      "titleEn": "Nvidia's reported $250B OpenAI financing plan boosts AI outlook, analysts say",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/07/27/nvidias-reported-250b-openai-financing-plan-boosts-ai-outlook-analysts-say/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:13fd9715decb912a",
-      "titleEn": "Why Nvidia stock is sinking around 4% on Monday",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/27/why-nvidia-stock-is-sinking-around-4-on-monday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:206b1cdc2adc01cd",
-      "titleEn": "Rivian stock gains after Piper Sandler upgrade ahead of Q2 earnings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/07/27/rivian-stock-gains-after-piper-sandler-upgrade-ahead-of-q2-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:00382690c0d4b174",
-      "titleEn": "GOOG stock rebounds as Wall Street continues to back AI strategy despite PT cuts",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/07/27/goog-stock-rebounds-as-wall-street-continues-to-back-ai-strategy-despite-pt-cuts/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5f14fc866be2f1fa",
-      "titleEn": "Plug Power stock gets oversold as options market bets on rebound after earnings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/27/plug-power-stock-gets-oversold-as-options-market-bets-on-rebound-after-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f1569993419e2ae5",
-      "titleEn": "Gold, silver rise as oil slides on U.S.-Iran pause",
-      "summaryEn": "(Kitco NewWire) - Spot gold and silver prices are higher in early U.S. trading Monday, as a sharp retreat in crude oil reduced immediate inflation pressure while investors positioned for this week’s Federal Reserve decision. At the time of writing, spot gold was trading near $4,083.00 an ounce, up 0.77%, while spot silver was trading at $58.740, up 1.21% on the session. Gold and silver both opened the week with safe-haven and short-covering support after the weekend pause in U.S.-Iran hostilities. The move was uneven. Gold traded through $4,100 overnight but could not hold the level, while silver briefly pushed back toward $60 before easing below that round-number resistance. David Morrison, senior market analyst at Trade Nation, noted that investors reduced their “flight to safety” dollar exposure after the pause in hostilities, helping trigger gains for both metals. US interest rates remain the main macro risk for gold, with the FOMC decision due Wednesday. Fed funds pricing still shows a material risk of another hike this week, but expectations have eased from late Friday, keeping gold supported as Treasury yields retreat from last week’s highs. The broader 2026 path remains the bigger issue for bullion: markets are still pricing a serious chance of additional tightening by year-end, which caps rallies above $4,100 by supporting real yields and the dollar. However, any signal that policymakers are leaning toward a pause after July would weaken interest rate headwind, leaving gold more exposed to safe-haven demand tied to Hormuz, oil and geopolitical risk.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-07-27/gold-silver-rise-oil-slides-us-iran-pause",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2e12600b80121099",
-      "titleEn": "DRAM ETF braces for key Samsung, SK Hynix, Kioxia, Seagate earnings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/07/27/dram-etf-braces-for-key-samsung-sk-hynix-kioxia-seagate-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d78b24e77912ce8e",
-      "titleEn": "Gold remains stuck below $4,100 even as U.S. durable goods shows weak manufacturing activity",
-      "summaryEn": "(Kitco News) - The gold market continues to struggle to attract a consistent safe-haven bid even as the U.S. manufacturing sector rises at a slower pace than expected. The Commerce Department announced Thursday that U.S. durable goods orders rose 0.3% in June, following May’s revised drop of 4.0%. The data was weaker than expected, as the consensus view of economists called for an increase of 1.6%. Core durable goods, which strip out the volatile transportation sector, rose 0.6% last month, also missing consensus forecasts for a 0.9% reading.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-07-27/gold-remains-stuck-below-4100-even-us-durable-goods-shows-weak",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6b46d5338d8c284d",
-      "titleEn": "Could SpaceX stock fall to $100? Morgan Stanley says it means a zero AI valuation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/07/27/could-spacex-stock-fall-to-100-morgan-stanley-says-it-means-a-zero-ai-valuation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:37cd0db8742d0fcc",
-      "titleEn": "Bloom Energy stock rises ahead of earnings: will the gains hold?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/27/bloom-energy-stock-rises-ahead-of-earnings-will-the-gains-hold/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:34d120138d9af431",
-      "titleEn": "JetBlue Introduces a Simple, Intuitive Way to Shop for Flights as It Prepares for First-Class Launch",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260727871085/en/JetBlue-Introduces-a-Simple-Intuitive-Way-to-Shop-for-Flights-as-It-Prepares-for-First-Class-Launch/",
+      "link": "https://www.businesswire.com/news/home/20260725425984/en/FirstSun-Capital-Bancorp-Reports-Second-Quarter-2026-Results-and-Board-of-Directors-Authorizes-150-Million-Share-Repurchase-Program/",
       "published": null
     }
   ]
