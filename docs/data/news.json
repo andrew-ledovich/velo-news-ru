@@ -1,78 +1,159 @@
 {
-  "generatedAt": "2026-07-27T12:01:10.484819Z",
+  "generatedAt": "2026-07-27T18:08:32.001922Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 17,
   "items": [
     {
-      "id": "stockanalysis:d3cb1759ad6fc211",
-      "titleEn": "Top 3 catalysts for the S&amp;P 500 and Nasdaq 100 indices this week",
+      "id": "stockanalysis:3bec54b27b5ac874",
+      "titleEn": "Why are Micron, Sandisk, and SK Hynix stocks falling today?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/27/top-3-catalysts-for-the-sp-500-and-nasdaq-100-indices-this-week/",
+      "link": "https://invezz.com/news/2026/07/27/why-are-micron-sandisk-and-sk-hynix-stocks-falling-today/",
       "published": null
     },
     {
-      "id": "stockanalysis:d838376b9dae4120",
-      "titleEn": "Why is SanDisk stock up 4.5% before Wall Street opens on Monday morning?",
+      "id": "stockanalysis:d748d80c3605dfee",
+      "titleEn": "Strategy stock jumps as Bitcoin buying pause enters fifth straight week",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/27/why-is-sandisk-stock-up-4-5-before-wall-street-opens-on-monday-morning/",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/07/27/strategy-stock-jumps-as-bitcoin-buying-pause-enters-fifth-straight-week/",
       "published": null
     },
     {
-      "id": "stockanalysis:704ff98412b02a8e",
-      "titleEn": "FTSE 100 gains as lower oil prices lift global risk sentiment",
+      "id": "stockanalysis:420fcc0652fe0f80",
+      "titleEn": "What Intel earnings tell us to expect from AMD next week",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/27/ftse-100-gains-as-lower-oil-prices-lift-global-risk-sentiment/",
+      "link": "https://invezz.com/news/2026/07/27/what-intel-earnings-tell-us-to-expect-from-amd-next-week/",
       "published": null
     },
     {
-      "id": "stockanalysis:c55feafb2948f3f3",
-      "titleEn": "Here's why the Vodafone share price is rising after earnings",
+      "id": "stockanalysis:1bfe535de3616848",
+      "titleEn": "D-Wave stock is soaring and it's not entirely about AT&amp;T partnership",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/27/heres-why-the-vodafone-share-price-is-rising-after-earnings/",
+      "link": "https://invezz.com/news/2026/07/27/d-wave-stock-is-soaring-and-its-not-entirely-about-att-partnership/",
       "published": null
     },
     {
-      "id": "stockanalysis:1c0bf5595e413a79",
-      "titleEn": "Micron stock faces a hidden threat after CXMT's blockbuster market debut",
+      "id": "stockanalysis:ef8d6b67b3471f57",
+      "titleEn": "ASML stock sinks as China reportedly starts producing homegrown DUV chip machines",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/27/micron-stock-faces-a-hidden-threat-after-cxmts-blockbuster-market-debut/",
+      "link": "https://invezz.com/news/2026/07/27/asml-stock-sinks-as-china-reportedly-starts-producing-homegrown-duv-chip-machines/",
       "published": null
     },
     {
-      "id": "stockanalysis:218c6bc5269b63e5",
-      "titleEn": "Nvidia stock gets a fresh breakout catalyst from its SK Hynix partnership",
+      "id": "stockanalysis:c3131bb10d6085b7",
+      "titleEn": "PayPal stock in focus as Wall Street eyes response to Stripe bid",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/27/nvidia-stock-gets-a-fresh-breakout-catalyst-from-its-sk-hynix-partnership/",
+      "link": "https://invezz.com/news/2026/07/27/paypal-stock-in-focus-as-wall-street-eyes-response-to-stripe-bid/",
       "published": null
     },
     {
-      "id": "stockanalysis:76ab8ebee9e5b4d5",
-      "titleEn": "Nikkei 225 Index: Kioxia earnings and other catalysts for Japan stocks this week",
+      "id": "stockanalysis:0b2cfb0f1a663cf3",
+      "titleEn": "Nvidia's reported $250B OpenAI financing plan boosts AI outlook, analysts say",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/27/nikkei-225-index-kioxia-earnings-and-other-catalysts-for-japan-stocks-this-week/",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/07/27/nvidias-reported-250b-openai-financing-plan-boosts-ai-outlook-analysts-say/",
       "published": null
     },
     {
-      "id": "stockanalysis:8289a1d89c121331",
-      "titleEn": "Kospi Index recoils ahead of Samsung, SK Hynix earnings: buy the dip?",
+      "id": "stockanalysis:13fd9715decb912a",
+      "titleEn": "Why Nvidia stock is sinking around 4% on Monday",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/27/kospi-index-recoils-ahead-of-samsung-sk-hynix-earnings-buy-the-dip/",
+      "link": "https://invezz.com/news/2026/07/27/why-nvidia-stock-is-sinking-around-4-on-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:206b1cdc2adc01cd",
+      "titleEn": "Rivian stock gains after Piper Sandler upgrade ahead of Q2 earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/07/27/rivian-stock-gains-after-piper-sandler-upgrade-ahead-of-q2-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:00382690c0d4b174",
+      "titleEn": "GOOG stock rebounds as Wall Street continues to back AI strategy despite PT cuts",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/07/27/goog-stock-rebounds-as-wall-street-continues-to-back-ai-strategy-despite-pt-cuts/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5f14fc866be2f1fa",
+      "titleEn": "Plug Power stock gets oversold as options market bets on rebound after earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/27/plug-power-stock-gets-oversold-as-options-market-bets-on-rebound-after-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f1569993419e2ae5",
+      "titleEn": "Gold, silver rise as oil slides on U.S.-Iran pause",
+      "summaryEn": "(Kitco NewWire) - Spot gold and silver prices are higher in early U.S. trading Monday, as a sharp retreat in crude oil reduced immediate inflation pressure while investors positioned for this week’s Federal Reserve decision. At the time of writing, spot gold was trading near $4,083.00 an ounce, up 0.77%, while spot silver was trading at $58.740, up 1.21% on the session. Gold and silver both opened the week with safe-haven and short-covering support after the weekend pause in U.S.-Iran hostilities. The move was uneven. Gold traded through $4,100 overnight but could not hold the level, while silver briefly pushed back toward $60 before easing below that round-number resistance. David Morrison, senior market analyst at Trade Nation, noted that investors reduced their “flight to safety” dollar exposure after the pause in hostilities, helping trigger gains for both metals. US interest rates remain the main macro risk for gold, with the FOMC decision due Wednesday. Fed funds pricing still shows a material risk of another hike this week, but expectations have eased from late Friday, keeping gold supported as Treasury yields retreat from last week’s highs. The broader 2026 path remains the bigger issue for bullion: markets are still pricing a serious chance of additional tightening by year-end, which caps rallies above $4,100 by supporting real yields and the dollar. However, any signal that policymakers are leaning toward a pause after July would weaken interest rate headwind, leaving gold more exposed to safe-haven demand tied to Hormuz, oil and geopolitical risk.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-07-27/gold-silver-rise-oil-slides-us-iran-pause",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2e12600b80121099",
+      "titleEn": "DRAM ETF braces for key Samsung, SK Hynix, Kioxia, Seagate earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/07/27/dram-etf-braces-for-key-samsung-sk-hynix-kioxia-seagate-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d78b24e77912ce8e",
+      "titleEn": "Gold remains stuck below $4,100 even as U.S. durable goods shows weak manufacturing activity",
+      "summaryEn": "(Kitco News) - The gold market continues to struggle to attract a consistent safe-haven bid even as the U.S. manufacturing sector rises at a slower pace than expected. The Commerce Department announced Thursday that U.S. durable goods orders rose 0.3% in June, following May’s revised drop of 4.0%. The data was weaker than expected, as the consensus view of economists called for an increase of 1.6%. Core durable goods, which strip out the volatile transportation sector, rose 0.6% last month, also missing consensus forecasts for a 0.9% reading.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-07-27/gold-remains-stuck-below-4100-even-us-durable-goods-shows-weak",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6b46d5338d8c284d",
+      "titleEn": "Could SpaceX stock fall to $100? Morgan Stanley says it means a zero AI valuation",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/07/27/could-spacex-stock-fall-to-100-morgan-stanley-says-it-means-a-zero-ai-valuation/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:37cd0db8742d0fcc",
+      "titleEn": "Bloom Energy stock rises ahead of earnings: will the gains hold?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/27/bloom-energy-stock-rises-ahead-of-earnings-will-the-gains-hold/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:34d120138d9af431",
+      "titleEn": "JetBlue Introduces a Simple, Intuitive Way to Shop for Flights as It Prepares for First-Class Launch",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260727871085/en/JetBlue-Introduces-a-Simple-Intuitive-Way-to-Shop-for-Flights-as-It-Prepares-for-First-Class-Launch/",
       "published": null
     }
   ]
