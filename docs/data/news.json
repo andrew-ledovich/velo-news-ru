@@ -1,87 +1,78 @@
 {
-  "generatedAt": "2026-07-26T23:33:08.456736Z",
+  "generatedAt": "2026-07-27T12:01:10.484819Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 8,
   "items": [
     {
-      "id": "stockanalysis:4719822dfbac424a",
-      "titleEn": "Here's why the Uber stock price is in a free fall",
+      "id": "stockanalysis:d3cb1759ad6fc211",
+      "titleEn": "Top 3 catalysts for the S&amp;P 500 and Nasdaq 100 indices this week",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/26/heres-why-the-uber-stock-price-is-in-a-free-fall/",
+      "link": "https://invezz.com/news/2026/07/27/top-3-catalysts-for-the-sp-500-and-nasdaq-100-indices-this-week/",
       "published": null
     },
     {
-      "id": "stockanalysis:f21d1822e49ad1a4",
-      "titleEn": "Here's why flying car stocks like Joby and Archer Aviation falling",
+      "id": "stockanalysis:d838376b9dae4120",
+      "titleEn": "Why is SanDisk stock up 4.5% before Wall Street opens on Monday morning?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/25/heres-why-flying-car-stocks-like-joby-and-archer-aviation-falling/",
+      "link": "https://invezz.com/news/2026/07/27/why-is-sandisk-stock-up-4-5-before-wall-street-opens-on-monday-morning/",
       "published": null
     },
     {
-      "id": "stockanalysis:787af8eb08ed8002",
-      "titleEn": "Sci-fi to reality? OpenAI's Hugging Face hack explained",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/07/25/sci-fi-to-reality-openais-hugging-face-hack-explained/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d8563c483546685a",
-      "titleEn": "Alphabet, Tesla earnings set a nervous tone: all eyes on Meta, Amazon and Microsoft",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/07/25/alphabet-tesla-earnings-set-a-nervous-tone-all-eyes-on-meta-amazon-and-microsoft/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:59e82c0f591be17b",
-      "titleEn": "Why are Nvidia-backed CoreWeave, Nebius, and IREN stocks plunging?",
+      "id": "stockanalysis:704ff98412b02a8e",
+      "titleEn": "FTSE 100 gains as lower oil prices lift global risk sentiment",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/25/why-are-nvidia-backed-coreweave-nebius-and-iren-stocks-plunging/",
+      "link": "https://invezz.com/news/2026/07/27/ftse-100-gains-as-lower-oil-prices-lift-global-risk-sentiment/",
       "published": null
     },
     {
-      "id": "stockanalysis:f0a1b1eefdc423af",
-      "titleEn": "Three 'popular stocks' Cathie Wood has sold in July",
+      "id": "stockanalysis:c55feafb2948f3f3",
+      "titleEn": "Here's why the Vodafone share price is rising after earnings",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/25/three-popular-stocks-cathie-wood-has-sold-in-july/",
+      "link": "https://invezz.com/news/2026/07/27/heres-why-the-vodafone-share-price-is-rising-after-earnings/",
       "published": null
     },
     {
-      "id": "stockanalysis:83d6fcf902170558",
-      "titleEn": "Wall Street cautious after gold's lack of follow-through, Main Street bullish with Fed decision on deck",
-      "summaryEn": "(Kitco News) – Gold prices rebounded during another volatile week, as bargain-hunting and softer Treasury yields helped the precious metal recover from an early drop below $4,000 per ounce, even as stronger U.S. labor data, a resilient dollar, and persistent inflation risks capped the subsequent rally. Spot gold kicked off the week trading at $4,015.83 per ounce on Sunday evening, but the yellow metal quickly came under pressure as traders continued to price in higher energy costs, renewed U.S.-Iran tensions, and the risk that the Federal Reserve could keep policy restrictive for longer. The selling carried into Monday, when gold set its weekly low at $3,982.32 per ounce before buyers stepped back in near the lower end of the recent range. Gold recovered steadily through Tuesday and Wednesday as Treasury yields eased from recent highs and the U.S. dollar lost momentum, allowing prices to climb back above $4,100. The rally accelerated after traders looked past the European Central Bank’s decision to hold rates steady and focused instead on easing oil prices, which helped cool some of the week’s inflation concerns. Spot gold ultimately set its weekly high at $4,165.71 per ounce just before noon on Wednesday.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-07-24/wall-street-cautious-after-golds-lack-follow-through-main-street-bullish",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e6ab1e22cab28fa5",
-      "titleEn": "Gold holds near $4,050 as equities diverge, oil falls - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are modestly higher in late-afternoon U.S. trading Friday, as crude oil pulled back from Thursday’s spike, Treasury yields eased and the U.S. dollar held near recent highs. At the time of writing, spot gold was trading near $4,052.70 an ounce, up 0.08%, while spot silver was trading near $58.16, up 0.87% on the session. Gold’s session range was $4,021.20 to $4,083.10, leaving the metal above Thursday’s lows but below the $4,080 to $4,140 resistance region identified in the latest technical setup. Silver’s session range was $56.98 to $59.10, with the metal rebounding from Thursday’s selloff but still below the $59.23 to $60.76 resistance band. North American equities closed mixed as the Dow recovered while technology shares remained under pressure. The S&P 500 rose 3.68 points, or less than 0.1%, to 7,411.98, the Dow Jones Industrial Average gained 235.60 points, or 0.5%, to 51,947.25, the Nasdaq Composite fell 161.87 points, or 0.6%, to 24,975.82 and the Russell 2000 lost 10.16 points, or 0.3%, to 2,930.00. In Canada, the S&P/TSX Composite rose 167.05 points, or 0.47%, to 35,359.71.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-07-24/gold-holds-near-4050-equities-diverge-oil-falls-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ddd969e7e129d10f",
-      "titleEn": "Kogan Increases Approval Rates and Improves Customer Experience with Riskified",
+      "id": "stockanalysis:1c0bf5595e413a79",
+      "titleEn": "Micron stock faces a hidden threat after CXMT's blockbuster market debut",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260726735697/en/Kogan-Increases-Approval-Rates-and-Improves-Customer-Experience-with-Riskified/",
+      "link": "https://invezz.com/news/2026/07/27/micron-stock-faces-a-hidden-threat-after-cxmts-blockbuster-market-debut/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:218c6bc5269b63e5",
+      "titleEn": "Nvidia stock gets a fresh breakout catalyst from its SK Hynix partnership",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/27/nvidia-stock-gets-a-fresh-breakout-catalyst-from-its-sk-hynix-partnership/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:76ab8ebee9e5b4d5",
+      "titleEn": "Nikkei 225 Index: Kioxia earnings and other catalysts for Japan stocks this week",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/27/nikkei-225-index-kioxia-earnings-and-other-catalysts-for-japan-stocks-this-week/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8289a1d89c121331",
+      "titleEn": "Kospi Index recoils ahead of Samsung, SK Hynix earnings: buy the dip?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/27/kospi-index-recoils-ahead-of-samsung-sk-hynix-earnings-buy-the-dip/",
       "published": null
     }
   ]
