@@ -1,8 +1,89 @@
 {
-  "generatedAt": "2026-07-27T21:53:13.194844Z",
+  "generatedAt": "2026-07-28T07:47:42.425807Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:c12e1521753295c5",
+      "titleEn": "Mercedes-Benz lowers 2026 sales forecast as China demand slumps",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/28/mercedes-benz-lowers-2026-sales-forecast-as-china-demand-slumps/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:feb4147aeb275063",
+      "titleEn": "Kioxia stock slips ahead of earnings: what's next for Japan's memory giant?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/28/kioxia-stock-slips-ahead-of-earnings-whats-next-for-japans-memory-giant/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2d241283c763b696",
+      "titleEn": "Here's why analyst sees AMD stock charging towards a massive AI breakout",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/07/28/heres-why-analyst-sees-amd-stock-charging-towards-a-massive-ai-breakout/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2ff307fc45e95876",
+      "titleEn": "Why are SK Hynix and Samsung stocks crashing more than 10% today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/28/why-are-sk-hynix-and-samsung-stocks-crashing-more-than-10-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:aa9809b0125af632",
+      "titleEn": "Top 3 stocks that could rally if oil settles above $100",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/28/top-3-stocks-that-could-rally-if-oil-settles-above-100/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1a5f83fdfa7d353c",
+      "titleEn": "China is buying every dip and the 'reset' is already here, Middelkoop says",
+      "summaryEn": "(Kitco News) - The \"Big Reset\" author says China favors a lower gold price so it can keep accumulating, that gold &#x27;s monetary role is returning quietly through central-bank books, and that silver is headed to $500. Gold is trading near $4,000 an ounce, and the usual story is that China is hoarding metal and driving the price higher. Willem Middelkoop says that reading is backwards. The founder of the Commodity Discovery Fund and author of \"The Big Reset\" told Kitco News that China actually favors a lower gold price right now because it is still buying, and that the monetary \"reset\" he has forecast for over a decade is no longer a prediction but a process already underway, unfolding gradually through the way central banks account for gold rather than in a single dramatic revaluation.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-07-27/china-buying-every-dip-and-reset-already-here-middelkoop-says",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:186cec0dc27ad87c",
+      "titleEn": "Happen's Digital Banking Push Helps Deposits Jump 18%",
+      "summaryEn": "Loan originations rose 29% to $3.15 billion without Happen Bank loosening its credit posture. AI is moving into operations, with the company reporting a greater than 90% automation rate for issued loans. The clearest evidence of LendingClub’s new incarnation into a full-scale digital bank can be measured not merely in another jump in personal loan volume, but what happened (pun intended) after borrowers arrived.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/banking/2026/happens-digital-banking-push-helps-deposits-jump-18/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bd77b4ae9b5b3f5e",
+      "titleEn": "Upstart Pursues Final Banking Approvals After Landing Conditional Nod",
+      "summaryEn": "Lending marketplace Upstart has received conditional approval from the Office of the Comptroller of the Currency (OCC) to establish a bank called Upstart Bank, N.A. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Upstart’s applications to the Federal Deposit Insurance Corporation (FDIC) for deposit insurance and to the Federal Reserve to become a bank holding company are still pending, per the release.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/upstart-pursues-final-banking-approvals-after-landing-conditional-nod/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7ce3970243ec3793",
+      "titleEn": "Gold continues to hold $4,000 as U.S.-Iran pause pressures crude oil",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were firmer in late-afternoon U.S. trading Monday as lower oil prices eased the inflation impulse from the U.S.-Iran conflict, while positioning remained cautious ahead of this week’s Federal Reserve decision. At the time of writing, spot gold was trading near $4,075.60 an ounce, up 0.59%, while spot silver was trading at $58.290, up 0.45% on the session. US interest rates remain the main macro risk for gold, with the FOMC decision due Wednesday. With markets pricing a meaningful, but not dominant, probability of a 25-basis-point hike, gold’s bid is being capped by the risk that the Fed keeps policy restrictive and pushes back against any easing expectations. With no clear path on monetary policy, the metal is caught between energy-led inflation risk and event-risk uncertainty. The Strait of Hormuz remains the central macro risk premium for energy and, by extension, gold. The waterway carried roughly 15 million barrels per day of Persian Gulf oil before the Iran war, and recent traffic disruptions have forced Gulf producers to lean harder on pipeline alternatives that were not built to fully replace Hormuz. Monday’s pause in U.S. and Iranian attacks took immediate pressure out of crude, with Brent settling at $85.87 a barrel, down 6.3%, and U.S. crude settling at $82.61 a barrel, down 7.5%. That relieved some oil-led inflation pressure and helped Treasury yields ease, but the shipping channel is not normalized, leaving gold supported by headline risk while higher real-rate risk limits follow-through buying.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-07-27/gold-continues-hold-4000-us-iran-pause-pressures-crude-oil",
+      "published": null
+    },
     {
       "id": "stockanalysis:72c1fc54a3344dae",
       "titleEn": "Gold's next $1,000 move is likely higher as Fed hawkishness peaks, says State Street's Doshi",
@@ -13,75 +94,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:69e209984a4609ea",
-      "titleEn": "Options data reveals how MSFT stock may react to earnings on July 29",
+      "id": "stockanalysis:684f805db47bfac2",
+      "titleEn": "Cyprus: TotalEnergies Approves the Development of the Cronos Gas Field to Supply Europe with LNG",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/27/options-data-reveals-how-msft-stock-may-react-to-earnings-on-july-29/",
+      "link": "https://www.businesswire.com/news/home/20260728422608/en/Cyprus-TotalEnergies-Approves-the-Development-of-the-Cronos-Gas-Field-to-Supply-Europe-with-LNG/",
       "published": null
     },
     {
-      "id": "stockanalysis:511709eaab240a5d",
-      "titleEn": "Payward Plans Magic Labs Wallet Acquisition to Expand B2B Infrastructure Platform",
-      "summaryEn": "Payward plans to expand its B2B infrastructure platform, Payward Services , with embedded, non-custodial wallet infrastructure by acquiring the wallet-as-a-service business of Magic Labs . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Payward Services offers partners a single integration point for the infrastructure they need to build always-on financial products, such as cryptocurrency trading, custody, tokenized assets, on- and off-ramps, and derivatives, according to the release.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.pymnts.com/news/b2b-payments/2026/payward-plans-magic-labs-wallet-acquisition-expand-b2b-infrastructure-platform/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:50467b91561dfe91",
-      "titleEn": "Tesla stock falls as post-earnings selloff continues",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/07/27/tesla-stock-falls-as-post-earnings-selloff-continues/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9d4c580f8b989b72",
-      "titleEn": "China's gold stockpile could surpass U.S. holdings in the next five years - BMO Capital Markets",
-      "summaryEn": "(Kitco News) - Lackluster Western gold demand has kept a lid on prices over the last few months; however, one bank has pointed out that Asian demand, led by China, remains a key pillar of support for the global market, and the nation&#x27;s stockpile and influence could be much greater than previously believed. Although the gold market has struggled through a months-long correction, prices have managed to hold critical support above $4,000 an ounce. In their latest report, commodity analysts at BMO Capital Markets speculate that renewed Chinese demand is a key reason why gold has maintained that support. At the same time, they argue that China&#x27;s influence on the gold market is much larger than many investors realize. “Our new analysis suggests China has accumulated ~30kt of gold above ground, higher than official data, and is now driving ~1/3 of global demand flows,” the analysts said.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-07-27/chinas-gold-stockpile-could-surpass-us-holdings-next-five-years-bmo-capital",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:41c62159bbcc5a91",
-      "titleEn": "General Motors stock rises 3%: why the stock is a top pick for this analyst",
+      "id": "stockanalysis:106a7bf0074ab423",
+      "titleEn": "USHIO Industry &amp; Entertainment Announces Trademark Licensing Agreement for OSRAM-Branded Professional Technical Lighting Products",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/27/general-motors-stock-rises-3-why-the-stock-is-a-top-pick-for-this-analyst/",
+      "link": "https://www.businesswire.com/news/home/20260727720517/en/USHIO-Industry-Entertainment-Announces-Trademark-Licensing-Agreement-for-OSRAM-Branded-Professional-Technical-Lighting-Products/",
       "published": null
     },
     {
-      "id": "stockanalysis:ed0c538926bbcf23",
-      "titleEn": "OpenAI and Nvidia Discuss $250 Billion Data Center Funding Deal",
-      "summaryEn": "Nvidia is reportedly in discussions with OpenAI to guarantee $250 billion in data center funding. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a report Monday (July 27) by the Wall Street Journal (WSJ), which calls the proposed deal one of the most ambitious to date in the American AI boom.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-and-nvidia-discuss-250-billion-data-center-funding-deal/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3bec54b27b5ac874",
-      "titleEn": "Why are Micron, Sandisk, and SK Hynix stocks falling today?",
+      "id": "stockanalysis:e2181be6181cfd0e",
+      "titleEn": "Medincell Continues to Strengthen and Renew its Board of Directors with the Proposed Appointment of Dr. Elisabeth Svanberg",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/27/why-are-micron-sandisk-and-sk-hynix-stocks-falling-today/",
+      "link": "https://www.businesswire.com/news/home/20260727995451/en/Medincell-Continues-to-Strengthen-and-Renew-its-Board-of-Directors-with-the-Proposed-Appointment-of-Dr.-Elisabeth-Svanberg/",
       "published": null
     },
     {
-      "id": "stockanalysis:b04f0665cfdc0b2e",
-      "titleEn": "FirstSun Capital Bancorp Reports Second Quarter 2026 Results and Board of Directors Authorizes $150 Million Share Repurchase Program",
+      "id": "stockanalysis:8832cf453f9fc112",
+      "titleEn": "Advancing Its Product Launch Programme, Mercedes-Benz Cars Performs in Line With Guidance; Strong Earnings at Financial Services and Vans; Full-year Outlook Confirmed",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260725425984/en/FirstSun-Capital-Bancorp-Reports-Second-Quarter-2026-Results-and-Board-of-Directors-Authorizes-150-Million-Share-Repurchase-Program/",
+      "link": "https://www.businesswire.com/news/home/20260727819510/en/Advancing-Its-Product-Launch-Programme-Mercedes-Benz-Cars-Performs-in-Line-With-Guidance-Strong-Earnings-at-Financial-Services-and-Vans-Full-year-Outlook-Confirmed/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7e1ac8f647298689",
+      "titleEn": "FICO Honors Tech Mahindra for Bold Solution Tackling India's E-Commerce Returns Crisis",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260723802992/en/FICO-Honors-Tech-Mahindra-for-Bold-Solution-Tackling-Indias-E-Commerce-Returns-Crisis/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1b5202f125425e34",
+      "titleEn": "OKI Signs Supply Contract with Mitsubishi Heavy Industries for Towed Passive Sonar for Australia's New General-Purpose Frigates",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260727798306/en/OKI-Signs-Supply-Contract-with-Mitsubishi-Heavy-Industries-for-Towed-Passive-Sonar-for-Australia%E2%80%99s-New-General-Purpose-Frigates/",
       "published": null
     }
   ]
