@@ -1,150 +1,159 @@
 {
-  "generatedAt": "2026-07-28T07:47:42.425807Z",
+  "generatedAt": "2026-07-28T15:54:39.193964Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 17,
   "items": [
     {
-      "id": "stockanalysis:c12e1521753295c5",
-      "titleEn": "Mercedes-Benz lowers 2026 sales forecast as China demand slumps",
+      "id": "stockanalysis:366b59dad5554825",
+      "titleEn": "CrowdStrike stock rises after bullish analyst calls",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/mercedes-benz-lowers-2026-sales-forecast-as-china-demand-slumps/",
+      "link": "https://invezz.com/news/2026/07/28/crowdstrike-stock-rises-after-bullish-analyst-calls/",
       "published": null
     },
     {
-      "id": "stockanalysis:feb4147aeb275063",
-      "titleEn": "Kioxia stock slips ahead of earnings: what's next for Japan's memory giant?",
+      "id": "stockanalysis:948b9e1b00ea2204",
+      "titleEn": "Nvidia stock remains below $200, but analysts see over 40% upside ahead",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/kioxia-stock-slips-ahead-of-earnings-whats-next-for-japans-memory-giant/",
+      "link": "https://invezz.com/news/2026/07/28/nvidia-stock-remains-below-200-but-analysts-see-over-40-upside-ahead/",
       "published": null
     },
     {
-      "id": "stockanalysis:2d241283c763b696",
-      "titleEn": "Here's why analyst sees AMD stock charging towards a massive AI breakout",
+      "id": "stockanalysis:9dc39fefa04511c5",
+      "titleEn": "Why did Palantir stock sink 9% today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/28/why-did-palantir-stock-sink-9-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b01cdaf0b7fcb3d0",
+      "titleEn": "Boeing earnings: when will BA target $10B free cash flow again?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/28/boeing-earnings-when-will-ba-target-10b-free-cash-flow-again/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e0c301396da27563",
+      "titleEn": "Why are Intel, AMD stocks tumbling today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/28/why-are-intel-amd-stocks-tumbling-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:97ae8baa92d6e7ef",
+      "titleEn": "Will earnings be the turning point for Microsoft stock?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/28/will-earnings-be-the-turning-point-for-microsoft-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:217d53e160745df5",
+      "titleEn": "SanDisk stock falls as Wyckoff theory flags a risky phase",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/28/sandisk-stock-falls-as-wyckoff-theory-flags-a-risky-phase/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2e9d12fc140195a2",
+      "titleEn": "Spot gold trades at $4,029/oz after Consumer Confidence drops to 90.8 in July",
+      "summaryEn": "(Kitco News) - Gold prices are trading up from session lows after the latest data showed a worsening picture for U.S. consumer sentiment this month. The Consumer Confidence Index rose to 90.8 in July, below economists’ consensus forecast for a 92.3 reading and below the upwardly revised 92.2 print from June, the Conference Board announced on Tuesday. The Present Situation Index—based on consumers&#x27; assessment of current business and labor market conditions—fell by 3.6 points to 114.9, its third consecutive monthly decline,” the report noted. The Expectations Index—based on consumers&#x27; short-term outlook for income, business, and labor market conditions—was unchanged at 74.7. The survey period was July 1–22, encompassing ongoing conflict in the Middle East.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-07-28/spot-gold-trades-4029oz-after-consumer-confidence-drops-908-july",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ea9ec7e2257fe0db",
+      "titleEn": "Why SpaceX stock is tanking over 5% on Tuesday",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/28/why-spacex-stock-is-tanking-over-5-on-tuesday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f8228016f3a7b107",
+      "titleEn": "Meta, BlackRock team up to develop $14B El Paso data centre",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/28/meta-blackrock-team-up-to-develop-14b-el-paso-data-centre/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:36a26084fa708166",
+      "titleEn": "Gold, silver slide as rate-hike risk caps haven demand - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower ahead of the North American market open Tuesday, as a firmer U.S. dollar, elevated Treasury yields and caution before this week’s Federal Reserve decision pressured precious metals. At the time of writing, spot gold was trading near $4,031.00 an ounce, down 1.09%, while spot silver was trading near $57.19, down 1.89% on the session. Gold’s early range was $4,016.20 to $4,082.90, leaving the metal above the $4,000 support area but below the $4,150 to $4,200 breakout zone identified in the latest short-term technical setup. Silver’s early range was $56.60 to $58.70, with the metal holding above the $55.00 support area but failing to reclaim the $58.53 to $59.44 trader-reaction zone. Positioning after the latest significant U.S. economic data remains less dovish than the earlier CPI and PPI reaction suggested. Softer inflation and weaker durable-goods orders helped pull Treasury yields lower, but stronger retail sales, low jobless claims, firmer business activity and improved consumer sentiment have kept traders from pricing a clean policy pivot. Markets still expect the Fed to hold rates this week, but a rate hike remains priced as a meaningful risk because oil and energy-related inflation pressures have not fully cleared. The 10-year Treasury yield was near 4.62%, the 2-year yield was near 4.31% and the U.S. dollar was near a one-month high, leaving gold supported by the $4,000 floor but capped by rate and currency pressure.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-07-28/gold-silver-slide-rate-hike-risk-caps-haven-demand-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4075a6481d0ca603",
+      "titleEn": "Duolingo stock has crawled back: will these gains hold as growth slows?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/28/duolingo-stock-has-crawled-back-will-these-gains-hold-as-growth-slows/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3f0a2d456bca1382",
+      "titleEn": "Corning stock drops after soft earnings guidance: buy the dip?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/28/corning-stock-drops-after-soft-earnings-guidance-buy-the-dip/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a1689d274125bab0",
+      "titleEn": "Coca-Cola stock surges on strong earnings and FIFA sales boost",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/28/coca-cola-stock-surges-on-strong-earnings-and-fifa-sales-boost/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5035494930cc2785",
+      "titleEn": "U.S. Tech Company Coupang Inc. Named to 2026 Fortune Global 500™ for the First Time, Bolstered by AI-Powered Global Commerce Investments",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/07/28/heres-why-analyst-sees-amd-stock-charging-towards-a-massive-ai-breakout/",
+      "link": "https://www.businesswire.com/news/home/20260728022871/en/U.S.-Tech-Company-Coupang-Inc.-Named-to-2026-Fortune-Global-500%E2%84%A2-for-the-First-Time-Bolstered-by-AI-Powered-Global-Commerce-Investments/",
       "published": null
     },
     {
-      "id": "stockanalysis:2ff307fc45e95876",
-      "titleEn": "Why are SK Hynix and Samsung stocks crashing more than 10% today?",
+      "id": "stockanalysis:24e8ce9599363cb6",
+      "titleEn": "Heritage Global Partners to Conduct Online Auction of Cannabis Processing and Production Equipment from The Cannabist Company",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/why-are-sk-hynix-and-samsung-stocks-crashing-more-than-10-today/",
+      "link": "https://www.businesswire.com/news/home/20260727154658/en/Heritage-Global-Partners-to-Conduct-Online-Auction-of-Cannabis-Processing-and-Production-Equipment-from-The-Cannabist-Company/",
       "published": null
     },
     {
-      "id": "stockanalysis:aa9809b0125af632",
-      "titleEn": "Top 3 stocks that could rally if oil settles above $100",
+      "id": "stockanalysis:d3bf5d68558e3ed5",
+      "titleEn": "Williams Announces Quarterly Cash Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/top-3-stocks-that-could-rally-if-oil-settles-above-100/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1a5f83fdfa7d353c",
-      "titleEn": "China is buying every dip and the 'reset' is already here, Middelkoop says",
-      "summaryEn": "(Kitco News) - The \"Big Reset\" author says China favors a lower gold price so it can keep accumulating, that gold &#x27;s monetary role is returning quietly through central-bank books, and that silver is headed to $500. Gold is trading near $4,000 an ounce, and the usual story is that China is hoarding metal and driving the price higher. Willem Middelkoop says that reading is backwards. The founder of the Commodity Discovery Fund and author of \"The Big Reset\" told Kitco News that China actually favors a lower gold price right now because it is still buying, and that the monetary \"reset\" he has forecast for over a decade is no longer a prediction but a process already underway, unfolding gradually through the way central banks account for gold rather than in a single dramatic revaluation.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-07-27/china-buying-every-dip-and-reset-already-here-middelkoop-says",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:186cec0dc27ad87c",
-      "titleEn": "Happen's Digital Banking Push Helps Deposits Jump 18%",
-      "summaryEn": "Loan originations rose 29% to $3.15 billion without Happen Bank loosening its credit posture. AI is moving into operations, with the company reporting a greater than 90% automation rate for issued loans. The clearest evidence of LendingClub’s new incarnation into a full-scale digital bank can be measured not merely in another jump in personal loan volume, but what happened (pun intended) after borrowers arrived.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/banking/2026/happens-digital-banking-push-helps-deposits-jump-18/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bd77b4ae9b5b3f5e",
-      "titleEn": "Upstart Pursues Final Banking Approvals After Landing Conditional Nod",
-      "summaryEn": "Lending marketplace Upstart has received conditional approval from the Office of the Comptroller of the Currency (OCC) to establish a bank called Upstart Bank, N.A. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Upstart’s applications to the Federal Deposit Insurance Corporation (FDIC) for deposit insurance and to the Federal Reserve to become a bank holding company are still pending, per the release.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/upstart-pursues-final-banking-approvals-after-landing-conditional-nod/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7ce3970243ec3793",
-      "titleEn": "Gold continues to hold $4,000 as U.S.-Iran pause pressures crude oil",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were firmer in late-afternoon U.S. trading Monday as lower oil prices eased the inflation impulse from the U.S.-Iran conflict, while positioning remained cautious ahead of this week’s Federal Reserve decision. At the time of writing, spot gold was trading near $4,075.60 an ounce, up 0.59%, while spot silver was trading at $58.290, up 0.45% on the session. US interest rates remain the main macro risk for gold, with the FOMC decision due Wednesday. With markets pricing a meaningful, but not dominant, probability of a 25-basis-point hike, gold’s bid is being capped by the risk that the Fed keeps policy restrictive and pushes back against any easing expectations. With no clear path on monetary policy, the metal is caught between energy-led inflation risk and event-risk uncertainty. The Strait of Hormuz remains the central macro risk premium for energy and, by extension, gold. The waterway carried roughly 15 million barrels per day of Persian Gulf oil before the Iran war, and recent traffic disruptions have forced Gulf producers to lean harder on pipeline alternatives that were not built to fully replace Hormuz. Monday’s pause in U.S. and Iranian attacks took immediate pressure out of crude, with Brent settling at $85.87 a barrel, down 6.3%, and U.S. crude settling at $82.61 a barrel, down 7.5%. That relieved some oil-led inflation pressure and helped Treasury yields ease, but the shipping channel is not normalized, leaving gold supported by headline risk while higher real-rate risk limits follow-through buying.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-07-27/gold-continues-hold-4000-us-iran-pause-pressures-crude-oil",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:72c1fc54a3344dae",
-      "titleEn": "Gold's next $1,000 move is likely higher as Fed hawkishness peaks, says State Street's Doshi",
-      "summaryEn": "(Kitco News) - Gold prices are expected to consolidate around $4,000 an ounce through the rest of the summer as markets wait for clearer guidance from the Federal Reserve on the direction of its monetary policy for the remainder of the year. However, one market strategist said that, looking beyond the current consolidation phase, gold’s next $1,000 move will likely be higher. In an interview with Kitco News, Aakash Doshi, Head of Gold Strategy at State Street Asset Management, said that market expectations surrounding the Federal Reserve’s tightening bias appear to be overly aggressive.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-07-27/golds-next-1000-move-likely-higher-fed-hawkishness-peaks-says-state-streets",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:684f805db47bfac2",
-      "titleEn": "Cyprus: TotalEnergies Approves the Development of the Cronos Gas Field to Supply Europe with LNG",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260728422608/en/Cyprus-TotalEnergies-Approves-the-Development-of-the-Cronos-Gas-Field-to-Supply-Europe-with-LNG/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:106a7bf0074ab423",
-      "titleEn": "USHIO Industry &amp; Entertainment Announces Trademark Licensing Agreement for OSRAM-Branded Professional Technical Lighting Products",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260727720517/en/USHIO-Industry-Entertainment-Announces-Trademark-Licensing-Agreement-for-OSRAM-Branded-Professional-Technical-Lighting-Products/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e2181be6181cfd0e",
-      "titleEn": "Medincell Continues to Strengthen and Renew its Board of Directors with the Proposed Appointment of Dr. Elisabeth Svanberg",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260727995451/en/Medincell-Continues-to-Strengthen-and-Renew-its-Board-of-Directors-with-the-Proposed-Appointment-of-Dr.-Elisabeth-Svanberg/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8832cf453f9fc112",
-      "titleEn": "Advancing Its Product Launch Programme, Mercedes-Benz Cars Performs in Line With Guidance; Strong Earnings at Financial Services and Vans; Full-year Outlook Confirmed",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260727819510/en/Advancing-Its-Product-Launch-Programme-Mercedes-Benz-Cars-Performs-in-Line-With-Guidance-Strong-Earnings-at-Financial-Services-and-Vans-Full-year-Outlook-Confirmed/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7e1ac8f647298689",
-      "titleEn": "FICO Honors Tech Mahindra for Bold Solution Tackling India's E-Commerce Returns Crisis",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260723802992/en/FICO-Honors-Tech-Mahindra-for-Bold-Solution-Tackling-Indias-E-Commerce-Returns-Crisis/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1b5202f125425e34",
-      "titleEn": "OKI Signs Supply Contract with Mitsubishi Heavy Industries for Towed Passive Sonar for Australia's New General-Purpose Frigates",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260727798306/en/OKI-Signs-Supply-Contract-with-Mitsubishi-Heavy-Industries-for-Towed-Passive-Sonar-for-Australia%E2%80%99s-New-General-Purpose-Frigates/",
+      "link": "https://www.businesswire.com/news/home/20260728400494/en/Williams-Announces-Quarterly-Cash-Dividend/",
       "published": null
     }
   ]
