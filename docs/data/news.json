@@ -1,159 +1,132 @@
 {
-  "generatedAt": "2026-07-28T15:54:39.193964Z",
+  "generatedAt": "2026-07-28T20:36:55.063587Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 14,
   "items": [
     {
-      "id": "stockanalysis:366b59dad5554825",
-      "titleEn": "CrowdStrike stock rises after bullish analyst calls",
+      "id": "stockanalysis:c6874a206febaa88",
+      "titleEn": "$4.5B Food Tech Firm GrubMarket Submits Confidential IPO Filing",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “The number of shares to be offered and the price range for the proposed offering have not yet been determined,” GrubMarket said in the release. “The proposed public offering remains subject to the completion of the SEC review process, as well as market and other conditions.” “GrubMarket has experienced an incredible acceleration in growth over the last 12 months and continues to stand out as the largest private food technology company in the United States,” GrubMarket CEO Mike Xu said in the release.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/4-5b-food-tech-firm-grubmarket-submits-confidential-ipo-filing/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b10413791ddf1af1",
+      "titleEn": "Fed will hold until at least September, gold likely stuck in neutral for 3-6 months – SIA's Cieszynski",
+      "summaryEn": "(Kitco News) – With the Iran war generating enormous volatility in energy markets and inflation expectations, the Fed will do its best not to make waves until September at the earliest, which means gold prices will likely be stuck in neutral until the fall if not early 2027, according to Colin Cieszynski, chief market strategist at SIA Wealth Management. Cieszynski told Kitco News on Friday that uncertainty surrounding price stability and the Middle East are creating a great deal of risk around any potential gold positions. “Gold had a massive run,” he said. “I think a lot of the war was priced in, but I don&#x27;t think the sell-down from $5,500 to $4,000 completely took all of the war out. It took some of the war concerns out, but not all of it. So it&#x27;s already elevated, and there’s concern this is going to have to raise rates.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-07-28/fed-will-hold-until-least-september-gold-likely-stuck-neutral-3-6-months",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9f213b38e9b55dc3",
+      "titleEn": "Commerzbank downgrades gold and silver prices as Middle East conflict takes its toll",
+      "summaryEn": "(Kitco News) - The gold market is struggling to hold support above $4,000 and could face further selling pressure, as one bank says a recovery remains unlikely as long as the war in Iran persists. On Tuesday, commodity analysts at Commerzbank led by Thu Lan Nguyen downgraded their gold price forecast for the second time in as many months. The German bank now expects gold prices to end the year around $4,500 an ounce, down from its revised June forecast of $4,800. At the same time, Commerzbank also lowered its year-end silver price target to $67 an ounce from its previous estimate of $80 an ounce.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-07-28/commerzbank-downgrades-gold-and-silver-prices-middle-east-conflict-takes",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:91ce874b3f8b3664",
+      "titleEn": "$60 million traded during inaugural weekend in the CME's 24/7 gold contract",
+      "summaryEn": "(Kitco News) - Geopolitical uncertainty isn&#x27;t taking weekends off, and neither are investors, as they embrace CME Group&#x27;s 24/7 one-ounce gold contract. The world&#x27;s largest derivatives exchange announced Monday that 15,000 one-ounce futures contracts were traded during the inaugural weekend, representing approximately $60 million in notional value. \"Our launch demonstrates that retail traders were ready and waiting for always-on, regulated and right-sized products to manage their exposure to gold,\" said Jin Hennig, Managing Director and Global Head of Metals at CME Group.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-07-28/60-million-traded-during-inaugural-weekend-cmes-247-gold-contract",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b375d313670f66ed",
+      "titleEn": "Berkshire stock rises as Apple rally, UBS upgrade lift investor sentiment",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/crowdstrike-stock-rises-after-bullish-analyst-calls/",
+      "link": "https://invezz.com/news/2026/07/28/berkshire-stock-rises-as-apple-rally-ubs-upgrade-lift-investor-sentiment/",
       "published": null
     },
     {
-      "id": "stockanalysis:948b9e1b00ea2204",
-      "titleEn": "Nvidia stock remains below $200, but analysts see over 40% upside ahead",
+      "id": "stockanalysis:aca8f58be37f6559",
+      "titleEn": "Mining equities lag metals rally as tech crowding, war risk weigh on juniors | John Feneck",
+      "summaryEn": "(Kitco News) - Mining equities remain under pressure despite gold, silver and copper holding key levels, leaving investors to decide whether the sector’s sharp pullback is a warning sign or a bull-market correction, according to John Feneck, founder and CEO of The Feneck Commodities Report. Speaking with Kitco Mining’s Digging Deep on July 23, Feneck said summer trading volumes, the Iran conflict, Federal Reserve uncertainty, and capital crowding into technology and AI stocks have weighed on mining shares even as the underlying metals remain resilient. “We&#x27;re still in a bull framework here, and the charts aren&#x27;t broken,” Feneck said.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-07-28/mining-equities-lag-metals-rally-tech-crowding-war-risk-weigh-juniors-john",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ef8d0915ce72d691",
+      "titleEn": "Micron, memory stocks sell-off: cyclical bottom or a deeper correction?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/nvidia-stock-remains-below-200-but-analysts-see-over-40-upside-ahead/",
+      "link": "https://invezz.com/news/2026/07/28/micron-memory-stocks-sell-off-cyclical-bottom-or-a-deeper-correction/",
       "published": null
     },
     {
-      "id": "stockanalysis:9dc39fefa04511c5",
-      "titleEn": "Why did Palantir stock sink 9% today?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/why-did-palantir-stock-sink-9-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b01cdaf0b7fcb3d0",
-      "titleEn": "Boeing earnings: when will BA target $10B free cash flow again?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/boeing-earnings-when-will-ba-target-10b-free-cash-flow-again/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e0c301396da27563",
-      "titleEn": "Why are Intel, AMD stocks tumbling today?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/why-are-intel-amd-stocks-tumbling-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:97ae8baa92d6e7ef",
-      "titleEn": "Will earnings be the turning point for Microsoft stock?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/will-earnings-be-the-turning-point-for-microsoft-stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:217d53e160745df5",
-      "titleEn": "SanDisk stock falls as Wyckoff theory flags a risky phase",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/sandisk-stock-falls-as-wyckoff-theory-flags-a-risky-phase/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2e9d12fc140195a2",
-      "titleEn": "Spot gold trades at $4,029/oz after Consumer Confidence drops to 90.8 in July",
-      "summaryEn": "(Kitco News) - Gold prices are trading up from session lows after the latest data showed a worsening picture for U.S. consumer sentiment this month. The Consumer Confidence Index rose to 90.8 in July, below economists’ consensus forecast for a 92.3 reading and below the upwardly revised 92.2 print from June, the Conference Board announced on Tuesday. The Present Situation Index—based on consumers&#x27; assessment of current business and labor market conditions—fell by 3.6 points to 114.9, its third consecutive monthly decline,” the report noted. The Expectations Index—based on consumers&#x27; short-term outlook for income, business, and labor market conditions—was unchanged at 74.7. The survey period was July 1–22, encompassing ongoing conflict in the Middle East.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-07-28/spot-gold-trades-4029oz-after-consumer-confidence-drops-908-july",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ea9ec7e2257fe0db",
-      "titleEn": "Why SpaceX stock is tanking over 5% on Tuesday",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/why-spacex-stock-is-tanking-over-5-on-tuesday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f8228016f3a7b107",
-      "titleEn": "Meta, BlackRock team up to develop $14B El Paso data centre",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/meta-blackrock-team-up-to-develop-14b-el-paso-data-centre/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:36a26084fa708166",
-      "titleEn": "Gold, silver slide as rate-hike risk caps haven demand - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower ahead of the North American market open Tuesday, as a firmer U.S. dollar, elevated Treasury yields and caution before this week’s Federal Reserve decision pressured precious metals. At the time of writing, spot gold was trading near $4,031.00 an ounce, down 1.09%, while spot silver was trading near $57.19, down 1.89% on the session. Gold’s early range was $4,016.20 to $4,082.90, leaving the metal above the $4,000 support area but below the $4,150 to $4,200 breakout zone identified in the latest short-term technical setup. Silver’s early range was $56.60 to $58.70, with the metal holding above the $55.00 support area but failing to reclaim the $58.53 to $59.44 trader-reaction zone. Positioning after the latest significant U.S. economic data remains less dovish than the earlier CPI and PPI reaction suggested. Softer inflation and weaker durable-goods orders helped pull Treasury yields lower, but stronger retail sales, low jobless claims, firmer business activity and improved consumer sentiment have kept traders from pricing a clean policy pivot. Markets still expect the Fed to hold rates this week, but a rate hike remains priced as a meaningful risk because oil and energy-related inflation pressures have not fully cleared. The 10-year Treasury yield was near 4.62%, the 2-year yield was near 4.31% and the U.S. dollar was near a one-month high, leaving gold supported by the $4,000 floor but capped by rate and currency pressure.",
+      "id": "stockanalysis:ffbf5c4a4a640e3a",
+      "titleEn": "The gold market is looking for Fed consensus, but ‘the FOMC is as uncertain as the war' – Phoenix's Grady",
+      "summaryEn": "(Kitco News) – Precious metals and the broader markets are risk-off as they await the Federal Reserve’s interest rate decision on Wednesday, but the uncertainty surrounding the Iran war could mean the Fed fails to deliver that clarity once again, according to Kevin Grady, president of Phoenix Futures and Options. Grady told Kitco News on Friday that with oil prices, yields, rate expectations and equities all unsettled, the smart money is still sitting on the sidelines. “Right now, the short-term trend is in flux because we have this situation with Iran, so energy prices are all over the place,” he said. “But you saw what happened [on Thursday] with Alphabet. Everybody was just afraid of their CapEx, but if you look at just their earnings alone, they made a ton of money.”",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-07-28/gold-silver-slide-rate-hike-risk-caps-haven-demand-kitco-am-report",
+      "link": "https://www.kitco.com/news/article/2026-07-28/gold-market-looking-fed-consensus-fomc-uncertain-war-phoenixs-grady",
       "published": null
     },
     {
-      "id": "stockanalysis:4075a6481d0ca603",
-      "titleEn": "Duolingo stock has crawled back: will these gains hold as growth slows?",
+      "id": "stockanalysis:1032d6146a36f8f5",
+      "titleEn": "PayPal stock jumps after Q2 earnings beat, outlook improves",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/duolingo-stock-has-crawled-back-will-these-gains-hold-as-growth-slows/",
+      "link": "https://invezz.com/news/2026/07/28/paypal-stock-jumps-after-q2-earnings-beat-outlook-improves/",
       "published": null
     },
     {
-      "id": "stockanalysis:3f0a2d456bca1382",
-      "titleEn": "Corning stock drops after soft earnings guidance: buy the dip?",
-      "summaryEn": null,
+      "id": "stockanalysis:560da3d16e6d62e2",
+      "titleEn": "Western Union Pulls Plug on Digital Banking Service",
+      "summaryEn": "Western Union Digital Bank is being discontinued, is ending its services and will close all accounts two months after users have received their closure notice, the service’s operator, Western Union International Bank , said in a legal notice on its German website. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “We regularly review our products and services,” the bank said in the legal notice. “Following one of these reviews, we decided to discontinue Western Union Digital Bank.”",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/corning-stock-drops-after-soft-earnings-guidance-buy-the-dip/",
+      "link": "https://www.pymnts.com/news/banking/2026/western-union-pulls-plug-digital-banking-service/",
       "published": null
     },
     {
-      "id": "stockanalysis:a1689d274125bab0",
-      "titleEn": "Coca-Cola stock surges on strong earnings and FIFA sales boost",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/coca-cola-stock-surges-on-strong-earnings-and-fifa-sales-boost/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5035494930cc2785",
-      "titleEn": "U.S. Tech Company Coupang Inc. Named to 2026 Fortune Global 500™ for the First Time, Bolstered by AI-Powered Global Commerce Investments",
+      "id": "stockanalysis:fa5d9a7cbef4c201",
+      "titleEn": "Apple briefly hits $5T valuation as investors favour its AI-light strategy",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260728022871/en/U.S.-Tech-Company-Coupang-Inc.-Named-to-2026-Fortune-Global-500%E2%84%A2-for-the-First-Time-Bolstered-by-AI-Powered-Global-Commerce-Investments/",
+      "link": "https://invezz.com/news/2026/07/28/apple-briefly-hits-5t-valuation-as-investors-favour-its-ai-light-strategy/",
       "published": null
     },
     {
-      "id": "stockanalysis:24e8ce9599363cb6",
-      "titleEn": "Heritage Global Partners to Conduct Online Auction of Cannabis Processing and Production Equipment from The Cannabist Company",
+      "id": "stockanalysis:3a6345b1a99b972b",
+      "titleEn": "Meta earnings preview: capex is failing to deter options pricing",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260727154658/en/Heritage-Global-Partners-to-Conduct-Online-Auction-of-Cannabis-Processing-and-Production-Equipment-from-The-Cannabist-Company/",
+      "link": "https://invezz.com/news/2026/07/28/meta-earnings-preview-capex-is-failing-to-deter-options-pricing/",
       "published": null
     },
     {
-      "id": "stockanalysis:d3bf5d68558e3ed5",
-      "titleEn": "Williams Announces Quarterly Cash Dividend",
+      "id": "stockanalysis:a90e541a16bffeb3",
+      "titleEn": "AEVEX Secures $88.1 Million Awards to Deliver Long-Range Precision Strike Systems",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260728400494/en/Williams-Announces-Quarterly-Cash-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20260728854622/en/AEVEX-Secures-88.1-Million-Awards-to-Deliver-Long-Range-Precision-Strike-Systems/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:685740dcb370e20e",
+      "titleEn": "FCPT Announces Upsizing and Extension of Unsecured Credit Facility",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260728392654/en/FCPT-Announces-Upsizing-and-Extension-of-Unsecured-Credit-Facility/",
       "published": null
     }
   ]
