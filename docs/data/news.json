@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-07-29T20:16:50.817353Z",
+  "generatedAt": "2026-07-29T23:47:07.642024Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:6183f2f84733579e",
+      "titleEn": "Qualcomm stock slips as memory crunch hits Q2 earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/29/qualcomm-stock-slips-as-memory-crunch-hits-q2-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3a924d5840382a40",
+      "titleEn": "Retail investors buy the dip as Royal Mint reports solid demand for digital gold and silver",
+      "summaryEn": "(Kitco News) - After a months-long correction that pushed precious metals into bear-market territory, investment demand for bullion is starting to recover, with particularly strong growth in digital silver, according to the latest sales figures from the British Royal Mint. In a report published Wednesday, the Royal Mint said it saw steady interest in gold and silver during the second quarter. However, demand for its digital products increased 30% compared with the second quarter of 2025. “Investments in Digital Gold rose by 14% and Digital Silver by 162% compared with the same period in 2025-26,” the mint said.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-07-29/retail-investors-buy-dip-royal-mint-reports-solid-demand-digital-gold-and",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:53868849d00dee92",
+      "titleEn": "Microsoft beats Q4 estimates as Azure cloud growth tops expectations",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/29/microsoft-beats-q4-estimates-as-azure-cloud-growth-tops-expectations/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:855ee870cfab3207",
+      "titleEn": "Meta stock sinks as Q2 earnings disappoint on multiple fronts",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/29/meta-stock-sinks-as-q2-earnings-disappoint-on-multiple-fronts/",
+      "published": null
+    },
     {
       "id": "stockanalysis:d20baf33a77f1247",
       "titleEn": "AMD, Intel stocks continue slide as chip sell-off deepens",
@@ -19,6 +55,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.pymnts.com/news/delivery/2026/doordash-in-house-delivery-drones-cleared-for-takeoff/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a64206de52c1e257",
+      "titleEn": "Stripe's OpenRouter Bid 70 Times Company's Annual Revenue",
+      "summaryEn": "Last week saw reports that Stripe is considering buying artificial intelligence startup OpenRouter for $10 billion. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); If the deal goes through at that amount, Stripe would be paying roughly 70 times OpenRouter’s annualized revenue, The Information reported Wednesday (July 29), citing an unnamed source.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/stripe-openrouter-bid-70-times-annual-revenue/",
       "published": null
     },
     {
@@ -40,120 +85,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:bcc14e0f04baa91f",
-      "titleEn": "Investors are still cashing in unwanted gold jewelry, but panic selling has faded - House of Kahn Estate Jewelers",
-      "summaryEn": "(Kitco News) - Gold is stuck in neutral, holding support at $4,000 an ounce, and the market could remain under pressure as consumers continue to take advantage of elevated prices by selling their unwanted jewelry. In an interview with Kitco News, Tobina Kahn, President of the House of Kahn Estate Jewelers, said that the sharp correction in gold prices has done little to slow the flow of unwanted jewelry into estate dealers, but the motivation behind those sales has changed dramatically from the frenzy seen at the peak of this year&#x27;s rally. She explained that the panic and opportunistic selling that accompanied gold&#x27;s surge to nearly $5,600 an ounce in January has largely disappeared. Instead, today&#x27;s market is being driven by practical financial decisions and shifting consumer tastes, particularly among younger generations who inherit jewelry they have no intention of wearing.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-07-29/investors-are-still-cashing-unwanted-gold-jewelry-panic-selling-has-faded",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e2d145d667c0bdde",
-      "titleEn": "Gold and silver likely stuck in current range, markets overstate chances of Fed rate hikes – StoneX",
-      "summaryEn": "(Kitco News) – While the Federal Reserve is likely to maintain its hawkish tone, the market’s rate hike expectations are too high given the data, while gold and silver prices will probably remain rangebound with a downward bias, according to market strategists at StoneX. “In our view the markets are overstating the significance of the weak CPI number for June,” wrote Rhona O&#x27;Connell, Head of Market Analysis for EMEA & Asia on Wednesday morning. “[A]s we argued last week, over 90% of the fall was due to the tumble in energy prices. Despite the easing over the weekend, WTI is still 10% higher than at the start of July and we are expecting a strong CPI reading for July.” O&#x27;Connell said she sees growing support among market commentators for a July hike, but she still sees this as unlikely.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-07-29/gold-and-silver-likely-stuck-current-range-markets-overstate-chances-fed",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3674a7b77bc1814d",
-      "titleEn": "Apple earnings preview: iPhone sales, pricing in focus as CEO transition nears",
+      "id": "stockanalysis:7f5e220e009afa9e",
+      "titleEn": "NorthWestern Energy Reports Second Quarter 2026 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/apple-earnings-preview-iphone-sales-pricing-in-focus-as-ceo-transition-nears/",
+      "link": "https://www.businesswire.com/news/home/20260729177380/en/NorthWestern-Energy-Reports-Second-Quarter-2026-Financial-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:e2a2608a77de4a23",
-      "titleEn": "Robinhood stock: technicals point to a rebound after earnings",
+      "id": "stockanalysis:e6e210bb4b5f765b",
+      "titleEn": "Afya Announces Appointment of Marcelo Ken Suhara as the Chair Member of the Audit, Risks and Ethics Committee",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/robinhood-stock-technicals-point-to-a-rebound-after-earnings/",
+      "link": "https://www.businesswire.com/news/home/20260729529650/en/Afya-Announces-Appointment-of-Marcelo-Ken-Suhara-as-the-Chair-Member-of-the-Audit-Risks-and-Ethics-Committee/",
       "published": null
     },
     {
-      "id": "stockanalysis:104d4a3d755a15a2",
-      "titleEn": "Procter &amp; Gamble earnings: why CFO downplayed organic sales miss",
+      "id": "stockanalysis:b22f9d7dd8b4cacf",
+      "titleEn": "ImmunityBio Receives United Arab Emirates (UAE) Marketing Authorization for ANKTIVA® Across BCG-Unresponsive Non-Muscle Invasive Bladder Cancer for CIS and Papillary Disease and Metastatic Non-Small Cell Lung Cancer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/procter-gamble-earnings-why-cfo-downplayed-organic-sales-miss/",
+      "link": "https://www.businesswire.com/news/home/20260729329364/en/ImmunityBio-Receives-United-Arab-Emirates-UAE-Marketing-Authorization-for-ANKTIVA%C2%AE-Across-BCG-Unresponsive-Non-Muscle-Invasive-Bladder-Cancer-for-CIS-and-Papillary-Disease-and-Metastatic-Non-Small-Cell-Lung-Cancer/",
       "published": null
     },
     {
-      "id": "stockanalysis:2f13a9fc37f00e29",
-      "titleEn": "Why Nvidia stock is down around 2% today",
+      "id": "stockanalysis:154b7b3a63ed0f84",
+      "titleEn": "Align Technology Hosts 2026 Invisalign® Ortho Summit, Showcasing a “Beyond Possible” Vision for Connected Digital Orthodontics",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/why-nvidia-stock-is-down-around-2-today/",
+      "link": "https://www.businesswire.com/news/home/20260729522874/en/Align-Technology-Hosts-2026-Invisalign%C2%AE-Ortho-Summit-Showcasing-a-%E2%80%9CBeyond-Possible%E2%80%9D-Vision-for-Connected-Digital-Orthodontics/",
       "published": null
     },
     {
-      "id": "stockanalysis:a43c0c0618501792",
-      "titleEn": "CBIZ stock jumps 17% as Grant Thornton agrees $5B takeover",
+      "id": "stockanalysis:33149f775a34240a",
+      "titleEn": "LPT Aperture Holdings Wins Multiple Honors Across 2026 Inman Innovators and Golden I Club Awards",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/cbiz-stock-jumps-17-as-grant-thornton-agrees-5b-takeover/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0b188aacea16535b",
-      "titleEn": "Coursera Reports Second Quarter 2026 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260729966984/en/Coursera-Reports-Second-Quarter-2026-Financial-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:dc3a46a42a99f013",
-      "titleEn": "Ventas Reports 2026 Second Quarter Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260729045745/en/Ventas-Reports-2026-Second-Quarter-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4761687d38819c10",
-      "titleEn": "Boot Barn Holdings, Inc. Announces First Quarter Fiscal Year 2027 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260729995496/en/Boot-Barn-Holdings-Inc.-Announces-First-Quarter-Fiscal-Year-2027-Financial-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3336deb9e1f2609f",
-      "titleEn": "Green Brick Partners, Inc. Reports Second Quarter 2026 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260729023948/en/Green-Brick-Partners-Inc.-Reports-Second-Quarter-2026-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b3a2c5c2a13d1caf",
-      "titleEn": "LSB Industries, Inc. Reports Operating Results for the 2026 Second Quarter",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260729197619/en/LSB-Industries-Inc.-Reports-Operating-Results-for-the-2026-Second-Quarter/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c090a47e69fbc3bd",
-      "titleEn": "Farmland Partners Inc. Reports Second Quarter 2026 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260729649558/en/Farmland-Partners-Inc.-Reports-Second-Quarter-2026-Results/",
+      "link": "https://www.businesswire.com/news/home/20260729165928/en/LPT-Aperture-Holdings-Wins-Multiple-Honors-Across-2026-Inman-Innovators-and-Golden-I-Club-Awards/",
       "published": null
     }
   ]
