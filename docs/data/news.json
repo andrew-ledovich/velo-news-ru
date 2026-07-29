@@ -1,8 +1,71 @@
 {
-  "generatedAt": "2026-07-29T00:07:58.317616Z",
+  "generatedAt": "2026-07-29T10:16:17.186212Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 8,
   "items": [
+    {
+      "id": "stockanalysis:ecd2763b9c0814df",
+      "titleEn": "Why is Ford stock surging despite a $1.3 billion loss?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/29/why-is-ford-stock-surging-despite-a-1-3-billion-loss/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:396b4fdc477ed455",
+      "titleEn": "Micron CEO cashes out $37 million: is this a red flag for MU investors?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/29/micron-ceo-cashes-out-37-million-is-this-a-red-flag-for-mu-investors/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b27a228c913cae3a",
+      "titleEn": "Hang Seng Index is soaring as Kospi and Nikkei 225 implode: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/29/hang-seng-index-is-soaring-as-kospi-and-nikkei-225-implode-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0ea3421cb7d3b0d9",
+      "titleEn": "What next for the falling Softbank stock amid the AI trade unwinding?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/07/29/what-next-for-the-falling-softbank-stock-amid-the-ai-trade-unwinding/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:50b48827a74fd977",
+      "titleEn": "UBS stock gets a profit boost: will investors look past capital cloud?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/29/ubs-stock-gets-a-profit-boost-will-investors-look-past-capital-cloud/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:65f92f0af4c4ae70",
+      "titleEn": "SK Hynix, Samsung stocks extend their crash today: how much further can they fall?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/29/sk-hynix-samsung-stocks-extend-their-crash-today-how-much-further-can-they-fall/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7755ccce4ec270ab",
+      "titleEn": "Wolfe says buy these three quality stocks into post-earnings strength",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/29/wolfe-says-buy-these-three-quality-stocks-into-post-earnings-strength/",
+      "published": null
+    },
     {
       "id": "stockanalysis:bc30d5b92635a228",
       "titleEn": "Banks Bet on Open AI After OpenAI's Own Hack",
@@ -10,114 +73,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-bet-on-open-ai-after-openais-own-hack/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e9abf5f1c6ee3c3a",
-      "titleEn": "Gold, silver slide as buyers stay sidelined ahead of the Fed - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in late-afternoon U.S. trading Tuesday, as sellers kept pressure on precious metals ahead of Wednesday’s Federal Reserve decision even as Treasury yields and crude oil prices moved lower. At the time of writing, spot gold was trading near $4,027.40 an ounce, down 1.18%, while spot silver was trading near $57.02, down 2.19% on the session. Gold’s session range was $4,011.70 to $4,082.90, leaving the metal above the $4,000 support area but below the $4,041.65 to $4,072.40 retracement zone that has turned into resistance. Silver’s session range was $56.55 to $58.70, with the metal failing again below the $60.00 inflection area and trading near the lower end of its daily range. North American equities closed mixed as investors rotated out of chip and AI-linked shares and into less crowded earnings winners. The S&P 500 rose 15.60 points, or 0.2%, to 7,428.78, while the Dow Jones Industrial Average jumped 537.24 points, or 1.0%, to 52,747.32. The Nasdaq Composite fell 55.17 points, or 0.2%, to 24,876.91, and the Russell 2000 rose 5.77 points, or 0.2%, to 2,953.80. In Canada, the S&P/TSX Composite rose 181.56 points, or 0.51%, to 35,749.70.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-07-28/gold-silver-slide-buyers-stay-sidelined-ahead-fed-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1d4e08c6848fc0e3",
-      "titleEn": "Visa stock sinks on Q3 earnings as margin concerns take center stage",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/visa-stock-sinks-on-q3-earnings-as-margin-concerns-take-center-stage/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c6874a206febaa88",
-      "titleEn": "$4.5B Food Tech Firm GrubMarket Submits Confidential IPO Filing",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “The number of shares to be offered and the price range for the proposed offering have not yet been determined,” GrubMarket said in the release. “The proposed public offering remains subject to the completion of the SEC review process, as well as market and other conditions.” “GrubMarket has experienced an incredible acceleration in growth over the last 12 months and continues to stand out as the largest private food technology company in the United States,” GrubMarket CEO Mike Xu said in the release.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/4-5b-food-tech-firm-grubmarket-submits-confidential-ipo-filing/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b10413791ddf1af1",
-      "titleEn": "Fed will hold until at least September, gold likely stuck in neutral for 3-6 months – SIA's Cieszynski",
-      "summaryEn": "(Kitco News) – With the Iran war generating enormous volatility in energy markets and inflation expectations, the Fed will do its best not to make waves until September at the earliest, which means gold prices will likely be stuck in neutral until the fall if not early 2027, according to Colin Cieszynski, chief market strategist at SIA Wealth Management. Cieszynski told Kitco News on Friday that uncertainty surrounding price stability and the Middle East are creating a great deal of risk around any potential gold positions. “Gold had a massive run,” he said. “I think a lot of the war was priced in, but I don&#x27;t think the sell-down from $5,500 to $4,000 completely took all of the war out. It took some of the war concerns out, but not all of it. So it&#x27;s already elevated, and there’s concern this is going to have to raise rates.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-07-28/fed-will-hold-until-least-september-gold-likely-stuck-neutral-3-6-months",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:95351b3554f42dc9",
-      "titleEn": "Citi Teams With Infor to Debut Invoice Processing Tool",
-      "summaryEn": "Citi is collaborating with cloud enterprise software company Infor to introduce an invoice processing solution. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Citi Consolidate, announced Tuesday (July 28), was created for buyers and their suppliers and is designed to streamlines and digitizes invoice approval, purchase orders and payables for customers using Infor Nexus, Infor’s supply chain business network.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/b2b-payments/2026/citi-teams-with-infor-to-debut-invoice-processing-tool/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9f213b38e9b55dc3",
-      "titleEn": "Commerzbank downgrades gold and silver prices as Middle East conflict takes its toll",
-      "summaryEn": "(Kitco News) - The gold market is struggling to hold support above $4,000 and could face further selling pressure, as one bank says a recovery remains unlikely as long as the war in Iran persists. On Tuesday, commodity analysts at Commerzbank led by Thu Lan Nguyen downgraded their gold price forecast for the second time in as many months. The German bank now expects gold prices to end the year around $4,500 an ounce, down from its revised June forecast of $4,800. At the same time, Commerzbank also lowered its year-end silver price target to $67 an ounce from its previous estimate of $80 an ounce.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-07-28/commerzbank-downgrades-gold-and-silver-prices-middle-east-conflict-takes",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:91ce874b3f8b3664",
-      "titleEn": "$60 million traded during inaugural weekend in the CME's 24/7 gold contract",
-      "summaryEn": "(Kitco News) - Geopolitical uncertainty isn&#x27;t taking weekends off, and neither are investors, as they embrace CME Group&#x27;s 24/7 one-ounce gold contract. The world&#x27;s largest derivatives exchange announced Monday that 15,000 one-ounce futures contracts were traded during the inaugural weekend, representing approximately $60 million in notional value. \"Our launch demonstrates that retail traders were ready and waiting for always-on, regulated and right-sized products to manage their exposure to gold,\" said Jin Hennig, Managing Director and Global Head of Metals at CME Group.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-07-28/60-million-traded-during-inaugural-weekend-cmes-247-gold-contract",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b375d313670f66ed",
-      "titleEn": "Berkshire stock rises as Apple rally, UBS upgrade lift investor sentiment",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/berkshire-stock-rises-as-apple-rally-ubs-upgrade-lift-investor-sentiment/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4513370cb0e4c3af",
-      "titleEn": "QumulusAI Set to Ring the Nasdaq Opening Bell",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260728306269/en/QumulusAI-Set-to-Ring-the-Nasdaq-Opening-Bell/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:480e2cb5afe5a93c",
-      "titleEn": "LibertyStream Announces Closing of Non-Brokered Private Placement of Units",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260728984772/en/LibertyStream-Announces-Closing-of-Non-Brokered-Private-Placement-of-Units/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:21d7248d68e9284a",
-      "titleEn": "Rio Tinto: Step-change in performance delivering higher shareholder returns",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260728256050/en/Rio-Tinto-Step-change-in-performance-delivering-higher-shareholder-returns/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b29348b67b0e25fe",
-      "titleEn": "SEER Investors Have Opportunity to Join Seer, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260728628994/en/SEER-Investors-Have-Opportunity-to-Join-Seer-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
