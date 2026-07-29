@@ -1,8 +1,71 @@
 {
-  "generatedAt": "2026-07-29T16:05:01.396576Z",
+  "generatedAt": "2026-07-29T20:16:50.817353Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:d20baf33a77f1247",
+      "titleEn": "AMD, Intel stocks continue slide as chip sell-off deepens",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/29/amd-intel-stocks-continue-slide-as-chip-sell-off-deepens/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b9a3b0e183cb1071",
+      "titleEn": "DoorDash in-House Delivery Drones Cleared for Takeoff",
+      "summaryEn": "DoorDash says it has received permission to launch its in-house drone delivery program. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The launch follows the company’s receipt of its Part 135 air carrier certification from the Federal Aviation Administration (FAA), DoorDash said in a Wednesday (July 29) news release, calling the news a “significant” milestone following a rigorous evaluation process.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/delivery/2026/doordash-in-house-delivery-drones-cleared-for-takeoff/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c3f70333bb0d3d98",
+      "titleEn": "Increase Debuts Bank to Help FinTechs Build Financial Products",
+      "summaryEn": "Six years after its founding, banking infrastructure company Increase is now a bank. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Increase Bank, announced in a news release Wednesday (July 29), is designed to combine a “modern bank core” with regulated banking services to help companies build financial products with more speed, precision, and control.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/increase-debuts-bank-to-help-fintechs-build-financial-products/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ec62ba0cd661d0b3",
+      "titleEn": "Gold price jumps as Federal Reserve leaves interest rates unchanged",
+      "summaryEn": "(Kitco News) - The gold market is enjoying a modest relief rally after the Federal Reserve left interest rates unchanged; however, the central bank continues to maintain a solid tightening bias. As expected, the Federal Reserve left the federal funds rate in its current target range between 3.50% and 3.75%. However, the statement showed that three committee members voted for a 25-basis-point rate hike at this meeting. The gold market jumped $40 in its initial reaction to the central bank&#x27;s latest monetary policy decision. Although prices have come off their session highs, they remain elevated. Spot gold last traded at $4,073.60 an ounce, up more than 1% on the day.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-07-29/gold-price-jumps-federal-reserve-leaves-interest-rates-unchanged",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bcc14e0f04baa91f",
+      "titleEn": "Investors are still cashing in unwanted gold jewelry, but panic selling has faded - House of Kahn Estate Jewelers",
+      "summaryEn": "(Kitco News) - Gold is stuck in neutral, holding support at $4,000 an ounce, and the market could remain under pressure as consumers continue to take advantage of elevated prices by selling their unwanted jewelry. In an interview with Kitco News, Tobina Kahn, President of the House of Kahn Estate Jewelers, said that the sharp correction in gold prices has done little to slow the flow of unwanted jewelry into estate dealers, but the motivation behind those sales has changed dramatically from the frenzy seen at the peak of this year&#x27;s rally. She explained that the panic and opportunistic selling that accompanied gold&#x27;s surge to nearly $5,600 an ounce in January has largely disappeared. Instead, today&#x27;s market is being driven by practical financial decisions and shifting consumer tastes, particularly among younger generations who inherit jewelry they have no intention of wearing.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-07-29/investors-are-still-cashing-unwanted-gold-jewelry-panic-selling-has-faded",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e2d145d667c0bdde",
+      "titleEn": "Gold and silver likely stuck in current range, markets overstate chances of Fed rate hikes – StoneX",
+      "summaryEn": "(Kitco News) – While the Federal Reserve is likely to maintain its hawkish tone, the market’s rate hike expectations are too high given the data, while gold and silver prices will probably remain rangebound with a downward bias, according to market strategists at StoneX. “In our view the markets are overstating the significance of the weak CPI number for June,” wrote Rhona O&#x27;Connell, Head of Market Analysis for EMEA & Asia on Wednesday morning. “[A]s we argued last week, over 90% of the fall was due to the tumble in energy prices. Despite the easing over the weekend, WTI is still 10% higher than at the start of July and we are expecting a strong CPI reading for July.” O&#x27;Connell said she sees growing support among market commentators for a July hike, but she still sees this as unlikely.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-07-29/gold-and-silver-likely-stuck-current-range-markets-overstate-chances-fed",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3674a7b77bc1814d",
+      "titleEn": "Apple earnings preview: iPhone sales, pricing in focus as CEO transition nears",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/29/apple-earnings-preview-iphone-sales-pricing-in-focus-as-ceo-transition-nears/",
+      "published": null
+    },
     {
       "id": "stockanalysis:e2a2608a77de4a23",
       "titleEn": "Robinhood stock: technicals point to a rebound after earnings",
@@ -40,93 +103,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ae753dadbbae84cb",
-      "titleEn": "Seagate stock jumps as AI demand drives earnings beat, bullish outlook",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/07/29/seagate-stock-jumps-as-ai-demand-drives-earnings-beat-bullish-outlook/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2850f6b4f97571d9",
-      "titleEn": "Qualcomm stock: options market, technicals point to volatility after earnings",
+      "id": "stockanalysis:0b188aacea16535b",
+      "titleEn": "Coursera Reports Second Quarter 2026 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/qualcomm-stock-options-market-technicals-point-to-volatility-after-earnings/",
+      "link": "https://www.businesswire.com/news/home/20260729966984/en/Coursera-Reports-Second-Quarter-2026-Financial-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:b0a4b3dd001815d9",
-      "titleEn": "Why did SoFi stock fall despite earnings beat and higher 2026 outlook?",
+      "id": "stockanalysis:dc3a46a42a99f013",
+      "titleEn": "Ventas Reports 2026 Second Quarter Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/why-did-sofi-stock-fall-despite-earnings-beat-and-higher-2026-outlook/",
+      "link": "https://www.businesswire.com/news/home/20260729045745/en/Ventas-Reports-2026-Second-Quarter-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:71c77db8d0db2e86",
-      "titleEn": "DRAM ETF at risk as SK Hynix, Micron, SanDisk stocks plunge despite inflows",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/07/29/dram-etf-at-risk-as-sk-hynix-micron-sandisk-stocks-plunge-despite-inflows/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:032ddc8913158177",
-      "titleEn": "Reddit stock gains as this analyst backs company ahead of results",
+      "id": "stockanalysis:4761687d38819c10",
+      "titleEn": "Boot Barn Holdings, Inc. Announces First Quarter Fiscal Year 2027 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/reddit-stock-gains-as-this-analyst-backs-company-ahead-of-results/",
+      "link": "https://www.businesswire.com/news/home/20260729995496/en/Boot-Barn-Holdings-Inc.-Announces-First-Quarter-Fiscal-Year-2027-Financial-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:9f2d2b56322e34d1",
-      "titleEn": "Gold holds above $4,000 as Fed decision keeps traders defensive - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices are modestly lower and spot silver prices are slightly higher ahead of the North American market open Wednesday, as traders kept positioning tight before the Federal Reserve’s rate announcement and Chair Kevin Warsh’s press conference. At the time of writing, spot gold was trading near $4,017.10 an ounce, down 0.27%, while spot silver was trading near $57.08, up 0.15% on the session. Gold’s early range was $4,009.60 to $4,048.80, leaving the metal above the $4,000 area but below the $4,066 breakout level identified in the latest short-term technical setup. Silver’s early range was $56.75 to $58.36, with the metal holding above $56.88 trendline support but still below the $58.67 resistance area. Market positioning ahead of this afternoon’s Fed rate announcement remains defensive. The FOMC decision is due at 2 p.m. ET, followed by Warsh’s press conference at 2:30 p.m. ET, and markets broadly expect rates to remain unchanged. However, the meeting is not being treated as a clean hold because futures pricing still assigns roughly a one-third probability to a hike today and a September hike is largely priced in. The 10-year Treasury yield was near 4.62%, while DXY reached 101.64 as traders positioned for a statement and press conference that may keep inflation risk in focus. That leaves gold supported by the $4,000 floor, but capped by higher real-rate expectations and a firm dollar.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-07-29/gold-holds-above-4000-fed-decision-keeps-traders-defensive-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c6448bdb41ac446f",
-      "titleEn": "Why is Micron stock rising today despite SK Hynix's earnings-led selloff?",
+      "id": "stockanalysis:3336deb9e1f2609f",
+      "titleEn": "Green Brick Partners, Inc. Reports Second Quarter 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/why-is-micron-stock-rising-today-despite-sk-hynixs-earnings-led-selloff/",
+      "link": "https://www.businesswire.com/news/home/20260729023948/en/Green-Brick-Partners-Inc.-Reports-Second-Quarter-2026-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:bb051843b11108fa",
-      "titleEn": "Love the JEPQ and QQQI ETFs? Here's why Goldman Sachs GPIQ is better",
+      "id": "stockanalysis:b3a2c5c2a13d1caf",
+      "titleEn": "LSB Industries, Inc. Reports Operating Results for the 2026 Second Quarter",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/love-the-jepq-and-qqqi-etfs-heres-why-goldman-sachs-gpiq-is-better/",
+      "link": "https://www.businesswire.com/news/home/20260729197619/en/LSB-Industries-Inc.-Reports-Operating-Results-for-the-2026-Second-Quarter/",
       "published": null
     },
     {
-      "id": "stockanalysis:add99a2c28d0ec75",
-      "titleEn": "SES Launches Multi-Orbit Satellite Connectivity on LATAM Airbus, Embraer Fleet",
+      "id": "stockanalysis:c090a47e69fbc3bd",
+      "titleEn": "Farmland Partners Inc. Reports Second Quarter 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260729603482/en/SES-Launches-Multi-Orbit-Satellite-Connectivity-on-LATAM-Airbus-Embraer-Fleet/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:80c41aa56f7a7238",
-      "titleEn": "Merck Announces Fourth-Quarter 2026 Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260729562164/en/Merck-Announces-Fourth-Quarter-2026-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20260729649558/en/Farmland-Partners-Inc.-Reports-Second-Quarter-2026-Results/",
       "published": null
     }
   ]
