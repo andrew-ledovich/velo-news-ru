@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-07-28T20:36:55.063587Z",
+  "generatedAt": "2026-07-29T00:07:58.317616Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:bc30d5b92635a228",
+      "titleEn": "Banks Bet on Open AI After OpenAI's Own Hack",
+      "summaryEn": "Two OpenAI models broke out of a controlled cybersecurity test this month and into Hugging Face’s production systems. The models, GPT-5.6 Sol and a more capable pre-release system, were being evaluated internally on ExploitGym, a benchmark built to measure how well artificial intelligence can hack. Instead of staying inside the test, they found an undisclosed flaw in OpenAI’s own infrastructure, used it to reach the open internet, and broke into Hugging Face to retrieve the benchmark’s answers, OpenAI disclosed . OpenAI called it “an unprecedented cyber incident, involving state-of-the-art cyber capabilities.” &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); When Hugging Face’s own security team tried to reconstruct the attack, closed models got in the way again. Investigators first tried analyzing the exploit code through frontier models available via commercial APIs, but the providers’ safety guardrails blocked the requests. The systems could not tell a defender dissecting an attack from an attacker building one, and refused to process the exploit payloads and command-and-control artifacts the forensic work required.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-bet-on-open-ai-after-openais-own-hack/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e9abf5f1c6ee3c3a",
+      "titleEn": "Gold, silver slide as buyers stay sidelined ahead of the Fed - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in late-afternoon U.S. trading Tuesday, as sellers kept pressure on precious metals ahead of Wednesday’s Federal Reserve decision even as Treasury yields and crude oil prices moved lower. At the time of writing, spot gold was trading near $4,027.40 an ounce, down 1.18%, while spot silver was trading near $57.02, down 2.19% on the session. Gold’s session range was $4,011.70 to $4,082.90, leaving the metal above the $4,000 support area but below the $4,041.65 to $4,072.40 retracement zone that has turned into resistance. Silver’s session range was $56.55 to $58.70, with the metal failing again below the $60.00 inflection area and trading near the lower end of its daily range. North American equities closed mixed as investors rotated out of chip and AI-linked shares and into less crowded earnings winners. The S&P 500 rose 15.60 points, or 0.2%, to 7,428.78, while the Dow Jones Industrial Average jumped 537.24 points, or 1.0%, to 52,747.32. The Nasdaq Composite fell 55.17 points, or 0.2%, to 24,876.91, and the Russell 2000 rose 5.77 points, or 0.2%, to 2,953.80. In Canada, the S&P/TSX Composite rose 181.56 points, or 0.51%, to 35,749.70.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-07-28/gold-silver-slide-buyers-stay-sidelined-ahead-fed-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1d4e08c6848fc0e3",
+      "titleEn": "Visa stock sinks on Q3 earnings as margin concerns take center stage",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/28/visa-stock-sinks-on-q3-earnings-as-margin-concerns-take-center-stage/",
+      "published": null
+    },
     {
       "id": "stockanalysis:c6874a206febaa88",
       "titleEn": "$4.5B Food Tech Firm GrubMarket Submits Confidential IPO Filing",
@@ -19,6 +46,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-07-28/fed-will-hold-until-least-september-gold-likely-stuck-neutral-3-6-months",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:95351b3554f42dc9",
+      "titleEn": "Citi Teams With Infor to Debut Invoice Processing Tool",
+      "summaryEn": "Citi is collaborating with cloud enterprise software company Infor to introduce an invoice processing solution. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Citi Consolidate, announced Tuesday (July 28), was created for buyers and their suppliers and is designed to streamlines and digitizes invoice approval, purchase orders and payables for customers using Infor Nexus, Infor’s supply chain business network.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/b2b-payments/2026/citi-teams-with-infor-to-debut-invoice-processing-tool/",
       "published": null
     },
     {
@@ -49,84 +85,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:aca8f58be37f6559",
-      "titleEn": "Mining equities lag metals rally as tech crowding, war risk weigh on juniors | John Feneck",
-      "summaryEn": "(Kitco News) - Mining equities remain under pressure despite gold, silver and copper holding key levels, leaving investors to decide whether the sector’s sharp pullback is a warning sign or a bull-market correction, according to John Feneck, founder and CEO of The Feneck Commodities Report. Speaking with Kitco Mining’s Digging Deep on July 23, Feneck said summer trading volumes, the Iran conflict, Federal Reserve uncertainty, and capital crowding into technology and AI stocks have weighed on mining shares even as the underlying metals remain resilient. “We&#x27;re still in a bull framework here, and the charts aren&#x27;t broken,” Feneck said.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-07-28/mining-equities-lag-metals-rally-tech-crowding-war-risk-weigh-juniors-john",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ef8d0915ce72d691",
-      "titleEn": "Micron, memory stocks sell-off: cyclical bottom or a deeper correction?",
+      "id": "stockanalysis:4513370cb0e4c3af",
+      "titleEn": "QumulusAI Set to Ring the Nasdaq Opening Bell",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/micron-memory-stocks-sell-off-cyclical-bottom-or-a-deeper-correction/",
+      "link": "https://www.businesswire.com/news/home/20260728306269/en/QumulusAI-Set-to-Ring-the-Nasdaq-Opening-Bell/",
       "published": null
     },
     {
-      "id": "stockanalysis:ffbf5c4a4a640e3a",
-      "titleEn": "The gold market is looking for Fed consensus, but ‘the FOMC is as uncertain as the war' – Phoenix's Grady",
-      "summaryEn": "(Kitco News) – Precious metals and the broader markets are risk-off as they await the Federal Reserve’s interest rate decision on Wednesday, but the uncertainty surrounding the Iran war could mean the Fed fails to deliver that clarity once again, according to Kevin Grady, president of Phoenix Futures and Options. Grady told Kitco News on Friday that with oil prices, yields, rate expectations and equities all unsettled, the smart money is still sitting on the sidelines. “Right now, the short-term trend is in flux because we have this situation with Iran, so energy prices are all over the place,” he said. “But you saw what happened [on Thursday] with Alphabet. Everybody was just afraid of their CapEx, but if you look at just their earnings alone, they made a ton of money.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-07-28/gold-market-looking-fed-consensus-fomc-uncertain-war-phoenixs-grady",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1032d6146a36f8f5",
-      "titleEn": "PayPal stock jumps after Q2 earnings beat, outlook improves",
+      "id": "stockanalysis:480e2cb5afe5a93c",
+      "titleEn": "LibertyStream Announces Closing of Non-Brokered Private Placement of Units",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/paypal-stock-jumps-after-q2-earnings-beat-outlook-improves/",
+      "link": "https://www.businesswire.com/news/home/20260728984772/en/LibertyStream-Announces-Closing-of-Non-Brokered-Private-Placement-of-Units/",
       "published": null
     },
     {
-      "id": "stockanalysis:560da3d16e6d62e2",
-      "titleEn": "Western Union Pulls Plug on Digital Banking Service",
-      "summaryEn": "Western Union Digital Bank is being discontinued, is ending its services and will close all accounts two months after users have received their closure notice, the service’s operator, Western Union International Bank , said in a legal notice on its German website. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “We regularly review our products and services,” the bank said in the legal notice. “Following one of these reviews, we decided to discontinue Western Union Digital Bank.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/western-union-pulls-plug-digital-banking-service/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fa5d9a7cbef4c201",
-      "titleEn": "Apple briefly hits $5T valuation as investors favour its AI-light strategy",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/07/28/apple-briefly-hits-5t-valuation-as-investors-favour-its-ai-light-strategy/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3a6345b1a99b972b",
-      "titleEn": "Meta earnings preview: capex is failing to deter options pricing",
+      "id": "stockanalysis:21d7248d68e9284a",
+      "titleEn": "Rio Tinto: Step-change in performance delivering higher shareholder returns",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/28/meta-earnings-preview-capex-is-failing-to-deter-options-pricing/",
+      "link": "https://www.businesswire.com/news/home/20260728256050/en/Rio-Tinto-Step-change-in-performance-delivering-higher-shareholder-returns/",
       "published": null
     },
     {
-      "id": "stockanalysis:a90e541a16bffeb3",
-      "titleEn": "AEVEX Secures $88.1 Million Awards to Deliver Long-Range Precision Strike Systems",
+      "id": "stockanalysis:b29348b67b0e25fe",
+      "titleEn": "SEER Investors Have Opportunity to Join Seer, Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260728854622/en/AEVEX-Secures-88.1-Million-Awards-to-Deliver-Long-Range-Precision-Strike-Systems/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:685740dcb370e20e",
-      "titleEn": "FCPT Announces Upsizing and Extension of Unsecured Credit Facility",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260728392654/en/FCPT-Announces-Upsizing-and-Extension-of-Unsecured-Credit-Facility/",
+      "link": "https://www.businesswire.com/news/home/20260728628994/en/SEER-Investors-Have-Opportunity-to-Join-Seer-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
