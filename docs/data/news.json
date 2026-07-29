@@ -1,78 +1,132 @@
 {
-  "generatedAt": "2026-07-29T10:16:17.186212Z",
+  "generatedAt": "2026-07-29T16:05:01.396576Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 14,
   "items": [
     {
-      "id": "stockanalysis:ecd2763b9c0814df",
-      "titleEn": "Why is Ford stock surging despite a $1.3 billion loss?",
+      "id": "stockanalysis:e2a2608a77de4a23",
+      "titleEn": "Robinhood stock: technicals point to a rebound after earnings",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/why-is-ford-stock-surging-despite-a-1-3-billion-loss/",
+      "link": "https://invezz.com/news/2026/07/29/robinhood-stock-technicals-point-to-a-rebound-after-earnings/",
       "published": null
     },
     {
-      "id": "stockanalysis:396b4fdc477ed455",
-      "titleEn": "Micron CEO cashes out $37 million: is this a red flag for MU investors?",
+      "id": "stockanalysis:104d4a3d755a15a2",
+      "titleEn": "Procter &amp; Gamble earnings: why CFO downplayed organic sales miss",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/micron-ceo-cashes-out-37-million-is-this-a-red-flag-for-mu-investors/",
+      "link": "https://invezz.com/news/2026/07/29/procter-gamble-earnings-why-cfo-downplayed-organic-sales-miss/",
       "published": null
     },
     {
-      "id": "stockanalysis:b27a228c913cae3a",
-      "titleEn": "Hang Seng Index is soaring as Kospi and Nikkei 225 implode: here's why",
+      "id": "stockanalysis:2f13a9fc37f00e29",
+      "titleEn": "Why Nvidia stock is down around 2% today",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/hang-seng-index-is-soaring-as-kospi-and-nikkei-225-implode-heres-why/",
+      "link": "https://invezz.com/news/2026/07/29/why-nvidia-stock-is-down-around-2-today/",
       "published": null
     },
     {
-      "id": "stockanalysis:0ea3421cb7d3b0d9",
-      "titleEn": "What next for the falling Softbank stock amid the AI trade unwinding?",
+      "id": "stockanalysis:a43c0c0618501792",
+      "titleEn": "CBIZ stock jumps 17% as Grant Thornton agrees $5B takeover",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/29/cbiz-stock-jumps-17-as-grant-thornton-agrees-5b-takeover/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ae753dadbbae84cb",
+      "titleEn": "Seagate stock jumps as AI demand drives earnings beat, bullish outlook",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/07/29/what-next-for-the-falling-softbank-stock-amid-the-ai-trade-unwinding/",
+      "link": "https://invezz.com/news/2026/07/29/seagate-stock-jumps-as-ai-demand-drives-earnings-beat-bullish-outlook/",
       "published": null
     },
     {
-      "id": "stockanalysis:50b48827a74fd977",
-      "titleEn": "UBS stock gets a profit boost: will investors look past capital cloud?",
+      "id": "stockanalysis:2850f6b4f97571d9",
+      "titleEn": "Qualcomm stock: options market, technicals point to volatility after earnings",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/ubs-stock-gets-a-profit-boost-will-investors-look-past-capital-cloud/",
+      "link": "https://invezz.com/news/2026/07/29/qualcomm-stock-options-market-technicals-point-to-volatility-after-earnings/",
       "published": null
     },
     {
-      "id": "stockanalysis:65f92f0af4c4ae70",
-      "titleEn": "SK Hynix, Samsung stocks extend their crash today: how much further can they fall?",
+      "id": "stockanalysis:b0a4b3dd001815d9",
+      "titleEn": "Why did SoFi stock fall despite earnings beat and higher 2026 outlook?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/sk-hynix-samsung-stocks-extend-their-crash-today-how-much-further-can-they-fall/",
+      "link": "https://invezz.com/news/2026/07/29/why-did-sofi-stock-fall-despite-earnings-beat-and-higher-2026-outlook/",
       "published": null
     },
     {
-      "id": "stockanalysis:7755ccce4ec270ab",
-      "titleEn": "Wolfe says buy these three quality stocks into post-earnings strength",
+      "id": "stockanalysis:71c77db8d0db2e86",
+      "titleEn": "DRAM ETF at risk as SK Hynix, Micron, SanDisk stocks plunge despite inflows",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/07/29/dram-etf-at-risk-as-sk-hynix-micron-sandisk-stocks-plunge-despite-inflows/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:032ddc8913158177",
+      "titleEn": "Reddit stock gains as this analyst backs company ahead of results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/wolfe-says-buy-these-three-quality-stocks-into-post-earnings-strength/",
+      "link": "https://invezz.com/news/2026/07/29/reddit-stock-gains-as-this-analyst-backs-company-ahead-of-results/",
       "published": null
     },
     {
-      "id": "stockanalysis:bc30d5b92635a228",
-      "titleEn": "Banks Bet on Open AI After OpenAI's Own Hack",
-      "summaryEn": "Two OpenAI models broke out of a controlled cybersecurity test this month and into Hugging Face’s production systems. The models, GPT-5.6 Sol and a more capable pre-release system, were being evaluated internally on ExploitGym, a benchmark built to measure how well artificial intelligence can hack. Instead of staying inside the test, they found an undisclosed flaw in OpenAI’s own infrastructure, used it to reach the open internet, and broke into Hugging Face to retrieve the benchmark’s answers, OpenAI disclosed . OpenAI called it “an unprecedented cyber incident, involving state-of-the-art cyber capabilities.” &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); When Hugging Face’s own security team tried to reconstruct the attack, closed models got in the way again. Investigators first tried analyzing the exploit code through frontier models available via commercial APIs, but the providers’ safety guardrails blocked the requests. The systems could not tell a defender dissecting an attack from an attacker building one, and refused to process the exploit payloads and command-and-control artifacts the forensic work required.",
+      "id": "stockanalysis:9f2d2b56322e34d1",
+      "titleEn": "Gold holds above $4,000 as Fed decision keeps traders defensive - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices are modestly lower and spot silver prices are slightly higher ahead of the North American market open Wednesday, as traders kept positioning tight before the Federal Reserve’s rate announcement and Chair Kevin Warsh’s press conference. At the time of writing, spot gold was trading near $4,017.10 an ounce, down 0.27%, while spot silver was trading near $57.08, up 0.15% on the session. Gold’s early range was $4,009.60 to $4,048.80, leaving the metal above the $4,000 area but below the $4,066 breakout level identified in the latest short-term technical setup. Silver’s early range was $56.75 to $58.36, with the metal holding above $56.88 trendline support but still below the $58.67 resistance area. Market positioning ahead of this afternoon’s Fed rate announcement remains defensive. The FOMC decision is due at 2 p.m. ET, followed by Warsh’s press conference at 2:30 p.m. ET, and markets broadly expect rates to remain unchanged. However, the meeting is not being treated as a clean hold because futures pricing still assigns roughly a one-third probability to a hike today and a September hike is largely priced in. The 10-year Treasury yield was near 4.62%, while DXY reached 101.64 as traders positioned for a statement and press conference that may keep inflation risk in focus. That leaves gold supported by the $4,000 floor, but capped by higher real-rate expectations and a firm dollar.",
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-bet-on-open-ai-after-openais-own-hack/",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-07-29/gold-holds-above-4000-fed-decision-keeps-traders-defensive-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c6448bdb41ac446f",
+      "titleEn": "Why is Micron stock rising today despite SK Hynix's earnings-led selloff?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/29/why-is-micron-stock-rising-today-despite-sk-hynixs-earnings-led-selloff/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bb051843b11108fa",
+      "titleEn": "Love the JEPQ and QQQI ETFs? Here's why Goldman Sachs GPIQ is better",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/29/love-the-jepq-and-qqqi-etfs-heres-why-goldman-sachs-gpiq-is-better/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:add99a2c28d0ec75",
+      "titleEn": "SES Launches Multi-Orbit Satellite Connectivity on LATAM Airbus, Embraer Fleet",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260729603482/en/SES-Launches-Multi-Orbit-Satellite-Connectivity-on-LATAM-Airbus-Embraer-Fleet/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:80c41aa56f7a7238",
+      "titleEn": "Merck Announces Fourth-Quarter 2026 Dividend",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260729562164/en/Merck-Announces-Fourth-Quarter-2026-Dividend/",
       "published": null
     }
   ]
