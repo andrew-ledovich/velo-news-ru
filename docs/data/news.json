@@ -1,8 +1,80 @@
 {
-  "generatedAt": "2026-07-30T18:05:04.406976Z",
+  "generatedAt": "2026-07-30T21:53:33.491258Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:1afb7a11a803f89c",
+      "titleEn": "Gold holds above $4,100 as softer PCE offsets hawkish Fed - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in late-afternoon U.S. trading Thursday, as softer June PCE inflation and a weaker U.S. dollar helped metals rebound after Wednesday’s hawkish Fed hold. At the time of writing, spot gold was trading near $4,107.20 an ounce, up 0.55%, while spot silver was trading near $59.27, up 1.84% on the session. Gold’s session range was $4,028.40 to $4,101.10, leaving the metal above the $4,000 area and back above the $4,101 level that capped the early session. Silver’s session range was $57.95 to $59.27, with the metal holding above $57.95 and pushing back toward the $59.00 to $60.03 resistance area identified in the latest short-term setup. North American equities closed sharply higher as Microsoft’s earnings reignited the AI trade and helped Wall Street reverse Wednesday’s Fed-driven selloff. The S&P 500 rose 121.48 points, or 1.7%, to 7,437.63, the Nasdaq Composite jumped 679.24 points, or 2.8%, to 24,122.18, the Dow Jones Industrial Average gained 613.92 points, or 1.2%, to 52,208.06 and the Russell 2000 added 39.79 points, or 1.4%, to 2,946.10. In Canada, the S&P/TSX Composite rose 172.06 points, or 0.49%, to 35,505.84.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-07-30/gold-holds-above-4100-softer-pce-offsets-hawkish-fed-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7c7c60764962757f",
+      "titleEn": "Apple stock falls after China, services performance miss expectations",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/30/apple-stock-falls-after-china-services-performance-miss-expectations/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1ad82be9fea0885e",
+      "titleEn": "Dow jumps 640 points as Microsoft, chip stocks power Wall Street rebound",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/30/dow-jumps-640-points-as-microsoft-chip-stocks-power-wall-street-rebound/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:adc1e13e37758680",
+      "titleEn": "Why is Tesla stock rising 3% today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/07/30/why-is-tesla-stock-rising-3-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:39181f54e5afaa7a",
+      "titleEn": "Fed's ‘hawkish hold' stabilizes gold and silver, but likely leaves markets in limbo until September – Experts",
+      "summaryEn": "(Kitco News) – The Federal Reserve’s ‘hawkish hold’ was good news for gold and silver prices on balance, though it also served to push out the uncertainty surrounding inflation, interest rates and the broader market until after the summer, likely leaving the precious metals consolidating in their recent ranges for a little while longer, according to experts. Jesse Colombo, independent precious metals analyst and founder of the BubbleBubble Report, said precious metals breathed a sigh of relief after the Fed held rates steady. “While higher interest rate expectations typically put downward pressure on precious metals, since they do not earn a yield, they have held up quite well in spite of that,” he wrote. “This resilience suggests that a great deal of pessimism has already been priced in, and I would argue far too excessively.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-07-30/feds-hawkish-hold-stabilizes-gold-and-silver-likely-leaves-markets-limbo",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:581c71705cd1296f",
+      "titleEn": "Fifth Third Begins Comerica Account Migration After Merger",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); These moves follow Fifth Third’s February announcement that its $10.9 million merger with Comerica closed, establishing the ninth-largest U.S. bank by assets. Fifth Third’s welcome packages explain the transition, which in many cases will provide Comerica customers with opportunities to save money, access funds sooner and gain greater flexibility in how they manage their finances, according to the release.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/fifth-third-begins-comerica-account-migration-after-merger/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6cfcd6b4ca2a7ad6",
+      "titleEn": "Mastercard stock rises after Q2 results beat estimates, lifts revenue outlook",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/30/mastercard-stock-rises-after-q2-results-beat-estimates-lifts-revenue-outlook/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:680c4f42a1b5a54a",
+      "titleEn": "Amazon Narrows AI Ambitions as Retail Rivalry Intensifies",
+      "summaryEn": "Amazon ’s decision this week to scale back parts of its homegrown artificial intelligence portfolio has been taken by the marketplace as a retreat from the frontier-model competition. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s only partly true. Amazon appears to be abandoning the most expensive and least defensible layer of the AI stack in order to strengthen the businesses where it already enjoys structural advantages: cloud computing, retail operations, advertising and logistics.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/retail/2026/amazon-narrows-ai-ambitions-as-retail-rivalry-intensifies/",
+      "published": null
+    },
     {
       "id": "stockanalysis:35beb4b19656f22c",
       "titleEn": "Lam Research stock jumps 17% as AI demand fuels earnings beat, outlook",
@@ -13,174 +85,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1dc1631e249a0630",
-      "titleEn": "SpaceX stock gives up early gains on Thursday: will earnings drive a rebound?",
+      "id": "stockanalysis:b4e6ffd8523d11ca",
+      "titleEn": "Creative Solutions in Healthcare Renews Strategic Partnership with QRM Following Seven Years of Clinical &amp; Operational Success.",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/spacex-stock-gives-up-early-gains-on-thursday-will-earnings-drive-a-rebound/",
+      "link": "https://www.businesswire.com/news/home/20260730722788/en/Creative-Solutions-in-Healthcare-Renews-Strategic-Partnership-with-QRM-Following-Seven-Years-of-Clinical-Operational-Success./",
       "published": null
     },
     {
-      "id": "stockanalysis:f97b96a4490f3f83",
-      "titleEn": "Gold demand proves resilient despite Q2 selloff as central banks return and Asian buying remains strong - WGC",
-      "summaryEn": "(Kitco News) - The gold market continues to search for its footing following the sharp drop in the second quarter, its biggest quarterly decline in a decade. But while the gold market may be battered and bruised, the latest report from the World Gold Council shows it hasn&#x27;t been broken. Despite the disappointing broader performance, the WGC&#x27;s Gold Demand Trends report highlighted resilience through the second quarter, with steady investment demand, a sharp rebound in central bank buying, and continued strength across Asia helping offset weakness in jewelry consumption and ETF outflows. The WGC said total gold demand, including over-the-counter (OTC) transactions, was unchanged year over year at 1,269 tonnes in the second quarter. First-half demand reached 2,522 tonnes, up 2% from the same period last year, while the value of that demand surged to a record $380 billion, underscoring gold&#x27;s resilience even after prices retreated from January&#x27;s record highs.",
+      "id": "stockanalysis:1980f399ae46cdc6",
+      "titleEn": "Atkore Inc. Declares Quarterly Dividend",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260730681569/en/Atkore-Inc.-Declares-Quarterly-Dividend/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:29175784118d75ca",
+      "titleEn": "Aris Mining Files WKSI Base Shelf Prospectus",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-07-30/gold-demand-proves-resilient-despite-q2-selloff-central-banks-return-and",
+      "link": "https://www.businesswire.com/news/home/20260730716279/en/Aris-Mining-Files-WKSI-Base-Shelf-Prospectus/",
       "published": null
     },
     {
-      "id": "stockanalysis:a436df673260ed01",
-      "titleEn": "Lloyds Banking Group Mobilizes 800 AI Models to Slash Costs",
-      "summaryEn": "Artificial intelligence (AI) will play a key role in Lloyds Banking Group ’s new strategic plan that runs through 2030. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The U.K.-focused financial services provider aims to achieve a return on tangible equity of greater than 18% in 2028 and about 20% in 2030, according to a frequently asked investor questions file released Thursday (July 30).",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/banking/2026/lloyds-banking-group-mobilizes-800-ai-models-to-slash-costs/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4a6eb3d48553eca0",
-      "titleEn": "AMD Intel stocks soar on Thursday: here's why",
+      "id": "stockanalysis:1aa33a64fc1b7b76",
+      "titleEn": "Deswell Announces Filing and Availability of Annual Report on Form 20-F",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/amd-intel-stocks-soar-on-thursday-heres-why/",
+      "link": "https://www.businesswire.com/news/home/20260730238180/en/Deswell-Announces-Filing-and-Availability-of-Annual-Report-on-Form-20-F/",
       "published": null
     },
     {
-      "id": "stockanalysis:a77e05eb4b218590",
-      "titleEn": "Why Micron, Sandisk, SK Hynix and other memory stocks are roaring back today?",
+      "id": "stockanalysis:985d3d371c060fbe",
+      "titleEn": "Flowco Holdings Inc. Announces Quarterly Cash Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/why-micron-sandisk-sk-hynix-and-other-memory-stocks-are-roaring-back-today/",
+      "link": "https://www.businesswire.com/news/home/20260730152065/en/Flowco-Holdings-Inc.-Announces-Quarterly-Cash-Dividend/",
       "published": null
     },
     {
-      "id": "stockanalysis:c3578879582f7d4b",
-      "titleEn": "Tilray Brands stock continues its downward spiral: buy the dip or sell the rip?",
+      "id": "stockanalysis:6f1153802e8bfb54",
+      "titleEn": "AM Best Comments on Credit Ratings of Universal Shield Insurance Group Subsidiaries Following Announced Transaction with Tiptree Inc.",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/tilray-brands-stock-continues-its-downward-spiral-buy-the-dip-or-sell-the-rip/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4bb3d36b31c69ba4",
-      "titleEn": "Needham says Carvana stock could double as management lowers guidance",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/needham-says-carvana-stock-could-double-as-management-lowers-guidance/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a5bf9dbf20a5e4d5",
-      "titleEn": "Gold and silver options now trading on Binance crypto platform",
-      "summaryEn": "(Kitco News) – Binance, the world’s largest and most liquid digital assets exchange, has added U.S. dollar-denominated precious metals options to its commodity product suite. “Commodity Options are now live: USDT- settled, European-style contracts built on Binance’s proven Options infrastructure,” the exchange announced on Wednesday, adding that new options contracts enable users to “trade gold and silver with the same speed and simplicity as crypto options.” The new commodity options contracts are part of Binance’s growing TradFi (traditional finance) product suite, and the company said they offer traders “a new way to express direction, trade volatility, and hedge” from their Binance account.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-07-30/gold-and-silver-options-now-trading-binance-crypto-platform",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1af4f562dfa58a6f",
-      "titleEn": "Nebius stock soars on achieving an incremental milestone: find out more",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/nebius-stock-soars-on-achieving-an-incremental-milestone-find-out-more/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8a84514029b45f29",
-      "titleEn": "Why Nvidia stock is rebounding around 3% after Big Tech earnings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/why-nvidia-stock-is-rebounding-around-3-after-big-tech-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2ba1bbf7da3a8a1c",
-      "titleEn": "Why did Adidas stock fall 19% despite record sales, FIFA World Cup boost?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/why-did-adidas-stock-fall-19-despite-record-sales-fifa-world-cup-boost/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:aadc6ae9e7f3a821",
-      "titleEn": "Arm stock jumps as Q1 beats estimates, AGI CPU demand tops $2 billion",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/arm-stock-jumps-as-q1-beats-estimates-agi-cpu-demand-tops-2-billion/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0b70638e43ff6b5a",
-      "titleEn": "Eastern Bank Is Recognized As A Top Disability Inclusive Business",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260730204390/en/Eastern-Bank-Is-Recognized-As-A-Top-Disability-Inclusive-Business/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:de189aaccef413a7",
-      "titleEn": "MasTec Announces the Appointment of Alex Spiro to Its Board of Directors",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260730374869/en/MasTec-Announces-the-Appointment-of-Alex-Spiro-to-Its-Board-of-Directors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ae3184c4a40d7388",
-      "titleEn": "Altius Minerals Corporation Closes Transaction Increasing Ownership Interest in Great Bay Renewables and Announces Increased Credit Facility",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260729960633/en/Altius-Minerals-Corporation-Closes-Transaction-Increasing-Ownership-Interest-in-Great-Bay-Renewables-and-Announces-Increased-Credit-Facility/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:570e04d8436e72c3",
-      "titleEn": "Cursor Launches Benchmark Partners Program with AWS, BCG, Databricks, McKinsey, NVIDIA, and Snowflake to Deliver First Referenceable Enterprise AI Adoption Stack",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260730718703/en/Cursor-Launches-Benchmark-Partners-Program-with-AWS-BCG-Databricks-McKinsey-NVIDIA-and-Snowflake-to-Deliver-First-Referenceable-Enterprise-AI-Adoption-Stack/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:78d023bd93334680",
-      "titleEn": "Saint-Gobain Expands Northborough Innovation Hub with Opening of the Company's First North America Fire Testing Lab",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260730927373/en/Saint-Gobain-Expands-Northborough-Innovation-Hub-with-Opening-of-the-Company%E2%80%99s-First-North-America-Fire-Testing-Lab/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9e9c059c5f58a1db",
-      "titleEn": "Corebridge Financial and Equitable Holdings Stockholders Approve Merger",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260730945666/en/Corebridge-Financial-and-Equitable-Holdings-Stockholders-Approve-Merger/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0f06ae05f541c6eb",
-      "titleEn": "Citi and Mastercard Expand The Curated Table Series for Fall 2026 with Premium Dining Experiences",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260730904279/en/Citi-and-Mastercard-Expand-The-Curated-Table-Series-for-Fall-2026-with-Premium-Dining-Experiences/",
+      "link": "https://www.businesswire.com/news/home/20260730607954/en/AM-Best-Comments-on-Credit-Ratings-of-Universal-Shield-Insurance-Group-Subsidiaries-Following-Announced-Transaction-with-Tiptree-Inc./",
       "published": null
     }
   ]
