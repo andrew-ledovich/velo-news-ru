@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-07-29T23:47:07.642024Z",
+  "generatedAt": "2026-07-30T07:59:32.701805Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:7415d70c9bd68eef",
+      "titleEn": "Shell stock rises after Q2 earnings: is oil windfall masking weakness?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/30/shell-stock-rises-after-q2-earnings-is-oil-windfall-masking-weakness/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:12a4397736e8465d",
+      "titleEn": "BMW stock in focus after Q2 earnings: has the premium carmaker bottomed?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/30/bmw-stock-in-focus-after-q2-earnings-has-the-premium-carmaker-bottomed/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8859012f1cc66b40",
+      "titleEn": "Nikkei 225, Kospi jolt Asian markets as AI rout and Fed fears collide",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/07/30/nikkei-225-kospi-jolt-asian-markets-as-ai-rout-and-fed-fears-collide/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1e9e3b6dacee78ec",
+      "titleEn": "Samsung stock rises over 4% after record earnings: how high can it go?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/30/samsung-stock-rises-over-4-after-record-earnings-how-high-can-it-go/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dfb507762cc1a6a9",
+      "titleEn": "These 2 stocks are worth watching amidst ongoing stock market rotation",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/30/eli-lilly-enova-international-stocks-are-worth-watching-amidst-ongoing-stock-market-rotation/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b7b6b9d82a567910",
+      "titleEn": "Top 4 reasons why South Korea's Kospi Index and EWY ETF have plunged",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/07/30/top-4-reasons-why-south-koreas-kospi-index-and-ewy-etf-have-plunged/",
+      "published": null
+    },
     {
       "id": "stockanalysis:6183f2f84733579e",
       "titleEn": "Qualcomm stock slips as memory crunch hits Q2 earnings",
@@ -13,120 +67,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:3a924d5840382a40",
-      "titleEn": "Retail investors buy the dip as Royal Mint reports solid demand for digital gold and silver",
-      "summaryEn": "(Kitco News) - After a months-long correction that pushed precious metals into bear-market territory, investment demand for bullion is starting to recover, with particularly strong growth in digital silver, according to the latest sales figures from the British Royal Mint. In a report published Wednesday, the Royal Mint said it saw steady interest in gold and silver during the second quarter. However, demand for its digital products increased 30% compared with the second quarter of 2025. “Investments in Digital Gold rose by 14% and Digital Silver by 162% compared with the same period in 2025-26,” the mint said.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-07-29/retail-investors-buy-dip-royal-mint-reports-solid-demand-digital-gold-and",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:53868849d00dee92",
-      "titleEn": "Microsoft beats Q4 estimates as Azure cloud growth tops expectations",
+      "id": "stockanalysis:2cb833ffe1be1b30",
+      "titleEn": "Western Europe's Fashion E-commerce Market Matures, Representing 20% of Online Consumer Spending as Gen Z Drives momentum",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/microsoft-beats-q4-estimates-as-azure-cloud-growth-tops-expectations/",
+      "link": "https://www.businesswire.com/news/home/20260730245944/en/Western-Europe%E2%80%99s-Fashion-E-commerce-Market-Matures-Representing-20-of-Online-Consumer-Spending-as-Gen-Z-Drives-momentum/",
       "published": null
     },
     {
-      "id": "stockanalysis:855ee870cfab3207",
-      "titleEn": "Meta stock sinks as Q2 earnings disappoint on multiple fronts",
+      "id": "stockanalysis:d572f2361eac728c",
+      "titleEn": "Quintas Energy Selects Box to Build AI-Ready Content Platform for Renewable Energy Asset Management",
       "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/meta-stock-sinks-as-q2-earnings-disappoint-on-multiple-fronts/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d20baf33a77f1247",
-      "titleEn": "AMD, Intel stocks continue slide as chip sell-off deepens",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/amd-intel-stocks-continue-slide-as-chip-sell-off-deepens/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b9a3b0e183cb1071",
-      "titleEn": "DoorDash in-House Delivery Drones Cleared for Takeoff",
-      "summaryEn": "DoorDash says it has received permission to launch its in-house drone delivery program. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The launch follows the company’s receipt of its Part 135 air carrier certification from the Federal Aviation Administration (FAA), DoorDash said in a Wednesday (July 29) news release, calling the news a “significant” milestone following a rigorous evaluation process.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/delivery/2026/doordash-in-house-delivery-drones-cleared-for-takeoff/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a64206de52c1e257",
-      "titleEn": "Stripe's OpenRouter Bid 70 Times Company's Annual Revenue",
-      "summaryEn": "Last week saw reports that Stripe is considering buying artificial intelligence startup OpenRouter for $10 billion. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); If the deal goes through at that amount, Stripe would be paying roughly 70 times OpenRouter’s annualized revenue, The Information reported Wednesday (July 29), citing an unnamed source.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/stripe-openrouter-bid-70-times-annual-revenue/",
+      "link": "https://www.businesswire.com/news/home/20260730590513/en/Quintas-Energy-Selects-Box-to-Build-AI-Ready-Content-Platform-for-Renewable-Energy-Asset-Management/",
       "published": null
     },
     {
-      "id": "stockanalysis:c3f70333bb0d3d98",
-      "titleEn": "Increase Debuts Bank to Help FinTechs Build Financial Products",
-      "summaryEn": "Six years after its founding, banking infrastructure company Increase is now a bank. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Increase Bank, announced in a news release Wednesday (July 29), is designed to combine a “modern bank core” with regulated banking services to help companies build financial products with more speed, precision, and control.",
+      "id": "stockanalysis:a6982544a6d8aab5",
+      "titleEn": "Takeda Announces FY2026 First Quarter Results, Near-Term Launch Preparations and Pipeline Progress on Track",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/increase-debuts-bank-to-help-fintechs-build-financial-products/",
+      "topic": "CRYPTO",
+      "link": "https://www.businesswire.com/news/home/20260727883646/en/Takeda-Announces-FY2026-First-Quarter-Results-Near-Term-Launch-Preparations-and-Pipeline-Progress-on-Track/",
       "published": null
     },
     {
-      "id": "stockanalysis:ec62ba0cd661d0b3",
-      "titleEn": "Gold price jumps as Federal Reserve leaves interest rates unchanged",
-      "summaryEn": "(Kitco News) - The gold market is enjoying a modest relief rally after the Federal Reserve left interest rates unchanged; however, the central bank continues to maintain a solid tightening bias. As expected, the Federal Reserve left the federal funds rate in its current target range between 3.50% and 3.75%. However, the statement showed that three committee members voted for a 25-basis-point rate hike at this meeting. The gold market jumped $40 in its initial reaction to the central bank&#x27;s latest monetary policy decision. Although prices have come off their session highs, they remain elevated. Spot gold last traded at $4,073.60 an ounce, up more than 1% on the day.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-07-29/gold-price-jumps-federal-reserve-leaves-interest-rates-unchanged",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7f5e220e009afa9e",
-      "titleEn": "NorthWestern Energy Reports Second Quarter 2026 Financial Results",
+      "id": "stockanalysis:83c0b9f8f9d36d63",
+      "titleEn": "Avolon Q2 Net Income up 45% to US$209 Million",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260729177380/en/NorthWestern-Energy-Reports-Second-Quarter-2026-Financial-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e6e210bb4b5f765b",
-      "titleEn": "Afya Announces Appointment of Marcelo Ken Suhara as the Chair Member of the Audit, Risks and Ethics Committee",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260729529650/en/Afya-Announces-Appointment-of-Marcelo-Ken-Suhara-as-the-Chair-Member-of-the-Audit-Risks-and-Ethics-Committee/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b22f9d7dd8b4cacf",
-      "titleEn": "ImmunityBio Receives United Arab Emirates (UAE) Marketing Authorization for ANKTIVA® Across BCG-Unresponsive Non-Muscle Invasive Bladder Cancer for CIS and Papillary Disease and Metastatic Non-Small Cell Lung Cancer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260729329364/en/ImmunityBio-Receives-United-Arab-Emirates-UAE-Marketing-Authorization-for-ANKTIVA%C2%AE-Across-BCG-Unresponsive-Non-Muscle-Invasive-Bladder-Cancer-for-CIS-and-Papillary-Disease-and-Metastatic-Non-Small-Cell-Lung-Cancer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:154b7b3a63ed0f84",
-      "titleEn": "Align Technology Hosts 2026 Invisalign® Ortho Summit, Showcasing a “Beyond Possible” Vision for Connected Digital Orthodontics",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260729522874/en/Align-Technology-Hosts-2026-Invisalign%C2%AE-Ortho-Summit-Showcasing-a-%E2%80%9CBeyond-Possible%E2%80%9D-Vision-for-Connected-Digital-Orthodontics/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:33149f775a34240a",
-      "titleEn": "LPT Aperture Holdings Wins Multiple Honors Across 2026 Inman Innovators and Golden I Club Awards",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260729165928/en/LPT-Aperture-Holdings-Wins-Multiple-Honors-Across-2026-Inman-Innovators-and-Golden-I-Club-Awards/",
+      "link": "https://www.businesswire.com/news/home/20260729276134/en/Avolon-Q2-Net-Income-up-45-to-US209-Million/",
       "published": null
     }
   ]
