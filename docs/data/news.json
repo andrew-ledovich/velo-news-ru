@@ -1,96 +1,186 @@
 {
-  "generatedAt": "2026-07-30T13:18:17.095197Z",
+  "generatedAt": "2026-07-30T18:05:04.406976Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 20,
   "items": [
     {
-      "id": "stockanalysis:15637d7598532d4d",
-      "titleEn": "Gold steadies as GDP, PCE keep Fed-rate risk alive - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices are near unchanged and spot silver prices are slightly softer ahead of the North American market open Thursday, as traders digested Wednesday’s Fed hold, this morning’s U.S. GDP and PCE data, firm Treasury yields and elevated oil prices tied to ongoing U.S.-Iran risk. At the time of writing, spot gold was trading near $4,067 an ounce, while spot silver was trading near $58.19 on the session. Gold’s early range was $4,028.40 to $4,101.10, leaving the metal above the $4,000 area but below the $4,101.10 session high and the $4,114 resistance level identified in the latest short-term technical setup. Silver’s early range was $57.95 to $58.20, with the metal holding above $57.95 but still below the $58.67 to $59.00 resistance area. Positioning after Wednesday’s Fed rate announcement and this morning’s data remains two-sided, but not cleanly dovish for metals. The Fed held rates steady, but three policymakers dissented in favor of a 25-basis-point hike, and Chair Kevin Warsh gave little signal that the Committee is ready to declare the inflation fight finished. This morning’s GDP report showed the U.S. economy expanded at a 1.5% annualized rate in the second quarter, down from 2.1% in the first quarter, while June PCE inflation cooled to 3.7% year over year from 4.1% and core PCE eased to 3.3% from 3.4%. Personal income rose 0.2% and consumer spending rose 0.3%, while jobless claims increased to 197,000 but stayed below expectations. The data support the case for a Fed hold, but inflation remains above target and the 10-year Treasury yield stayed near the 4.7% area, limiting gold’s upside.",
+      "id": "stockanalysis:35beb4b19656f22c",
+      "titleEn": "Lam Research stock jumps 17% as AI demand fuels earnings beat, outlook",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/07/30/lam-research-stock-jumps-17-as-ai-demand-fuels-earnings-beat-outlook/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1dc1631e249a0630",
+      "titleEn": "SpaceX stock gives up early gains on Thursday: will earnings drive a rebound?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/30/spacex-stock-gives-up-early-gains-on-thursday-will-earnings-drive-a-rebound/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f97b96a4490f3f83",
+      "titleEn": "Gold demand proves resilient despite Q2 selloff as central banks return and Asian buying remains strong - WGC",
+      "summaryEn": "(Kitco News) - The gold market continues to search for its footing following the sharp drop in the second quarter, its biggest quarterly decline in a decade. But while the gold market may be battered and bruised, the latest report from the World Gold Council shows it hasn&#x27;t been broken. Despite the disappointing broader performance, the WGC&#x27;s Gold Demand Trends report highlighted resilience through the second quarter, with steady investment demand, a sharp rebound in central bank buying, and continued strength across Asia helping offset weakness in jewelry consumption and ETF outflows. The WGC said total gold demand, including over-the-counter (OTC) transactions, was unchanged year over year at 1,269 tonnes in the second quarter. First-half demand reached 2,522 tonnes, up 2% from the same period last year, while the value of that demand surged to a record $380 billion, underscoring gold&#x27;s resilience even after prices retreated from January&#x27;s record highs.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-07-30/gold-steadies-gdp-pce-keep-fed-rate-risk-alive-kitco-am-report",
+      "link": "https://www.kitco.com/news/article/2026-07-30/gold-demand-proves-resilient-despite-q2-selloff-central-banks-return-and",
       "published": null
     },
     {
-      "id": "stockanalysis:642301cc259a54b2",
-      "titleEn": "Spot gold trades at $4,074/oz as U.S. GDP rises 1.5% in Q2, core PCE rises 0.1% in June",
-      "summaryEn": "(Kitco News) – The U.S. economy ended the first half of 2026 on weaker footing, as economic activity was significantly lower than expected, while inflation remained stubbornly elevated The U.S. Bureau of Economic Analysis (BEA) announced on Thursday that the advance reading of second-quarter Gross Domestic Product (GDP) showed that the economy expanded by 1.5%, following a 2.1% increase in the first quarter. The data was significantly lower than expectations, as economists were projecting another increase of 2.1%.",
+      "id": "stockanalysis:a436df673260ed01",
+      "titleEn": "Lloyds Banking Group Mobilizes 800 AI Models to Slash Costs",
+      "summaryEn": "Artificial intelligence (AI) will play a key role in Lloyds Banking Group ’s new strategic plan that runs through 2030. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The U.K.-focused financial services provider aims to achieve a return on tangible equity of greater than 18% in 2028 and about 20% in 2030, according to a frequently asked investor questions file released Thursday (July 30).",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-07-30/spot-gold-trades-4074oz-us-gdp-rises-15-q2-core-pce-rises-01-june",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/banking/2026/lloyds-banking-group-mobilizes-800-ai-models-to-slash-costs/",
       "published": null
     },
     {
-      "id": "stockanalysis:77d6c8a28bf2c831",
-      "titleEn": "Starbucks stock jumps 6% after earnings beat, higher outlook; Wall Street hikes PT",
+      "id": "stockanalysis:4a6eb3d48553eca0",
+      "titleEn": "AMD Intel stocks soar on Thursday: here's why",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/starbucks-stock-jumps-6-after-earnings-beat-higher-outlook-wall-street-hikes-pt/",
+      "link": "https://invezz.com/news/2026/07/30/amd-intel-stocks-soar-on-thursday-heres-why/",
       "published": null
     },
     {
-      "id": "stockanalysis:912cc32a98344e78",
-      "titleEn": "Gold prices remain stuck as U.S. weekly jobless claims remain below 200k",
-      "summaryEn": "(Kitco News) - The gold market continues to consolidate near the lower end of its recent range, holding support above $4,000 an ounce even as the U.S. labor market remains fairly resilient, with the number of people filing first-time unemployment claims staying below a key threshold. Initial claims for state unemployment benefits rose by 9,000 to a seasonally adjusted 197,000 for the week ending July 25, the Labor Department announced Thursday. The figure came in slightly below expectations, as consensus forecasts called for 201,000 claims. The previous week&#x27;s reading was revised higher by 1,000 claims to 188,000. Spot gold has traded in a narrow range for most of the week and is seeing little reaction to the latest employment data. Spot gold last traded at $4,077.20 an ounce, up 0.30% on the day.",
+      "id": "stockanalysis:a77e05eb4b218590",
+      "titleEn": "Why Micron, Sandisk, SK Hynix and other memory stocks are roaring back today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/30/why-micron-sandisk-sk-hynix-and-other-memory-stocks-are-roaring-back-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c3578879582f7d4b",
+      "titleEn": "Tilray Brands stock continues its downward spiral: buy the dip or sell the rip?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/30/tilray-brands-stock-continues-its-downward-spiral-buy-the-dip-or-sell-the-rip/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4bb3d36b31c69ba4",
+      "titleEn": "Needham says Carvana stock could double as management lowers guidance",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/30/needham-says-carvana-stock-could-double-as-management-lowers-guidance/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a5bf9dbf20a5e4d5",
+      "titleEn": "Gold and silver options now trading on Binance crypto platform",
+      "summaryEn": "(Kitco News) – Binance, the world’s largest and most liquid digital assets exchange, has added U.S. dollar-denominated precious metals options to its commodity product suite. “Commodity Options are now live: USDT- settled, European-style contracts built on Binance’s proven Options infrastructure,” the exchange announced on Wednesday, adding that new options contracts enable users to “trade gold and silver with the same speed and simplicity as crypto options.” The new commodity options contracts are part of Binance’s growing TradFi (traditional finance) product suite, and the company said they offer traders “a new way to express direction, trade volatility, and hedge” from their Binance account.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-07-30/gold-prices-remain-stuck-us-weekly-jobless-claims-remain-below-200k",
+      "link": "https://www.kitco.com/news/article/2026-07-30/gold-and-silver-options-now-trading-binance-crypto-platform",
       "published": null
     },
     {
-      "id": "stockanalysis:45d8dcb93a01ff57",
-      "titleEn": "Gold prices going nowhere in a hurry as BoE leaves rates unchanged",
-      "summaryEn": "(Kitco News) - The gold market continues to trade near critical support levels but is not seeing any significant volatility as global central bank policies remain tilted toward tightening. The Bank of England is the latest central bank to reinforce this trend in the global marketplace, leaving interest rates unchanged on Thursday. As expected, the BoE&#x27;s Bank Rate remains steady at 3.75%. However, three members expressed growing support for a rate hike as the ongoing global energy crisis continues to fuel inflationary pressures. According to consensus estimates, economists had expected only two members to vote in favor of a rate hike.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-07-30/gold-prices-going-nowhere-hurry-boe-leaves-rates-unchanged",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:891089148e3e78fd",
-      "titleEn": "FTSE 100 hits record as Rolls-Royce and miners power London stocks",
+      "id": "stockanalysis:1af4f562dfa58a6f",
+      "titleEn": "Nebius stock soars on achieving an incremental milestone: find out more",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/ftse-100-hits-record-as-rolls-royce-and-miners-power-london-stocks/",
+      "link": "https://invezz.com/news/2026/07/30/nebius-stock-soars-on-achieving-an-incremental-milestone-find-out-more/",
       "published": null
     },
     {
-      "id": "stockanalysis:c66d6d38c3f1c06c",
-      "titleEn": "Lloyds share price forecast as earnings jump, odds of BoE rate hikes jump",
+      "id": "stockanalysis:8a84514029b45f29",
+      "titleEn": "Why Nvidia stock is rebounding around 3% after Big Tech earnings",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/lloyds-share-price-forecast-as-earnings-jump-odds-of-boe-rate-hikes-jump/",
+      "link": "https://invezz.com/news/2026/07/30/why-nvidia-stock-is-rebounding-around-3-after-big-tech-earnings/",
       "published": null
     },
     {
-      "id": "stockanalysis:f52446e8495139f7",
-      "titleEn": "Why MSFT soared but GOOG sank despite strong earnings and cloud growth",
+      "id": "stockanalysis:2ba1bbf7da3a8a1c",
+      "titleEn": "Why did Adidas stock fall 19% despite record sales, FIFA World Cup boost?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/why-msft-soared-but-goog-sank-despite-strong-earnings-and-cloud-growth/",
+      "link": "https://invezz.com/news/2026/07/30/why-did-adidas-stock-fall-19-despite-record-sales-fifa-world-cup-boost/",
       "published": null
     },
     {
-      "id": "stockanalysis:473a1d4ba7601130",
-      "titleEn": "SpaceX stock crashes 50%: why Jim Cramer says a better buying chance lies ahead",
+      "id": "stockanalysis:aadc6ae9e7f3a821",
+      "titleEn": "Arm stock jumps as Q1 beats estimates, AGI CPU demand tops $2 billion",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/spacex-stock-crashes-50-why-jim-cramer-says-a-better-buying-chance-lies-ahead/",
+      "link": "https://invezz.com/news/2026/07/30/arm-stock-jumps-as-q1-beats-estimates-agi-cpu-demand-tops-2-billion/",
       "published": null
     },
     {
-      "id": "stockanalysis:3fc2ae0734dc917e",
-      "titleEn": "Here's why the Rolls-Royce share price is leading the FTSE 100 Index today",
+      "id": "stockanalysis:0b70638e43ff6b5a",
+      "titleEn": "Eastern Bank Is Recognized As A Top Disability Inclusive Business",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/heres-why-the-rolls-royce-share-price-is-leading-the-ftse-100-index-today/",
+      "link": "https://www.businesswire.com/news/home/20260730204390/en/Eastern-Bank-Is-Recognized-As-A-Top-Disability-Inclusive-Business/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:de189aaccef413a7",
+      "titleEn": "MasTec Announces the Appointment of Alex Spiro to Its Board of Directors",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260730374869/en/MasTec-Announces-the-Appointment-of-Alex-Spiro-to-Its-Board-of-Directors/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ae3184c4a40d7388",
+      "titleEn": "Altius Minerals Corporation Closes Transaction Increasing Ownership Interest in Great Bay Renewables and Announces Increased Credit Facility",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260729960633/en/Altius-Minerals-Corporation-Closes-Transaction-Increasing-Ownership-Interest-in-Great-Bay-Renewables-and-Announces-Increased-Credit-Facility/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:570e04d8436e72c3",
+      "titleEn": "Cursor Launches Benchmark Partners Program with AWS, BCG, Databricks, McKinsey, NVIDIA, and Snowflake to Deliver First Referenceable Enterprise AI Adoption Stack",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260730718703/en/Cursor-Launches-Benchmark-Partners-Program-with-AWS-BCG-Databricks-McKinsey-NVIDIA-and-Snowflake-to-Deliver-First-Referenceable-Enterprise-AI-Adoption-Stack/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:78d023bd93334680",
+      "titleEn": "Saint-Gobain Expands Northborough Innovation Hub with Opening of the Company's First North America Fire Testing Lab",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260730927373/en/Saint-Gobain-Expands-Northborough-Innovation-Hub-with-Opening-of-the-Company%E2%80%99s-First-North-America-Fire-Testing-Lab/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9e9c059c5f58a1db",
+      "titleEn": "Corebridge Financial and Equitable Holdings Stockholders Approve Merger",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260730945666/en/Corebridge-Financial-and-Equitable-Holdings-Stockholders-Approve-Merger/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0f06ae05f541c6eb",
+      "titleEn": "Citi and Mastercard Expand The Curated Table Series for Fall 2026 with Premium Dining Experiences",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260730904279/en/Citi-and-Mastercard-Expand-The-Curated-Table-Series-for-Fall-2026-with-Premium-Dining-Experiences/",
       "published": null
     }
   ]
