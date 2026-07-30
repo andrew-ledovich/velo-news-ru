@@ -1,105 +1,96 @@
 {
-  "generatedAt": "2026-07-30T07:59:32.701805Z",
+  "generatedAt": "2026-07-30T13:18:17.095197Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 10,
   "items": [
     {
-      "id": "stockanalysis:7415d70c9bd68eef",
-      "titleEn": "Shell stock rises after Q2 earnings: is oil windfall masking weakness?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/shell-stock-rises-after-q2-earnings-is-oil-windfall-masking-weakness/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:12a4397736e8465d",
-      "titleEn": "BMW stock in focus after Q2 earnings: has the premium carmaker bottomed?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/bmw-stock-in-focus-after-q2-earnings-has-the-premium-carmaker-bottomed/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8859012f1cc66b40",
-      "titleEn": "Nikkei 225, Kospi jolt Asian markets as AI rout and Fed fears collide",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/07/30/nikkei-225-kospi-jolt-asian-markets-as-ai-rout-and-fed-fears-collide/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1e9e3b6dacee78ec",
-      "titleEn": "Samsung stock rises over 4% after record earnings: how high can it go?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/samsung-stock-rises-over-4-after-record-earnings-how-high-can-it-go/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:dfb507762cc1a6a9",
-      "titleEn": "These 2 stocks are worth watching amidst ongoing stock market rotation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/eli-lilly-enova-international-stocks-are-worth-watching-amidst-ongoing-stock-market-rotation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b7b6b9d82a567910",
-      "titleEn": "Top 4 reasons why South Korea's Kospi Index and EWY ETF have plunged",
-      "summaryEn": null,
+      "id": "stockanalysis:15637d7598532d4d",
+      "titleEn": "Gold steadies as GDP, PCE keep Fed-rate risk alive - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices are near unchanged and spot silver prices are slightly softer ahead of the North American market open Thursday, as traders digested Wednesday’s Fed hold, this morning’s U.S. GDP and PCE data, firm Treasury yields and elevated oil prices tied to ongoing U.S.-Iran risk. At the time of writing, spot gold was trading near $4,067 an ounce, while spot silver was trading near $58.19 on the session. Gold’s early range was $4,028.40 to $4,101.10, leaving the metal above the $4,000 area but below the $4,101.10 session high and the $4,114 resistance level identified in the latest short-term technical setup. Silver’s early range was $57.95 to $58.20, with the metal holding above $57.95 but still below the $58.67 to $59.00 resistance area. Positioning after Wednesday’s Fed rate announcement and this morning’s data remains two-sided, but not cleanly dovish for metals. The Fed held rates steady, but three policymakers dissented in favor of a 25-basis-point hike, and Chair Kevin Warsh gave little signal that the Committee is ready to declare the inflation fight finished. This morning’s GDP report showed the U.S. economy expanded at a 1.5% annualized rate in the second quarter, down from 2.1% in the first quarter, while June PCE inflation cooled to 3.7% year over year from 4.1% and core PCE eased to 3.3% from 3.4%. Personal income rose 0.2% and consumer spending rose 0.3%, while jobless claims increased to 197,000 but stayed below expectations. The data support the case for a Fed hold, but inflation remains above target and the 10-year Treasury yield stayed near the 4.7% area, limiting gold’s upside.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/07/30/top-4-reasons-why-south-koreas-kospi-index-and-ewy-etf-have-plunged/",
+      "link": "https://www.kitco.com/news/article/2026-07-30/gold-steadies-gdp-pce-keep-fed-rate-risk-alive-kitco-am-report",
       "published": null
     },
     {
-      "id": "stockanalysis:6183f2f84733579e",
-      "titleEn": "Qualcomm stock slips as memory crunch hits Q2 earnings",
+      "id": "stockanalysis:642301cc259a54b2",
+      "titleEn": "Spot gold trades at $4,074/oz as U.S. GDP rises 1.5% in Q2, core PCE rises 0.1% in June",
+      "summaryEn": "(Kitco News) – The U.S. economy ended the first half of 2026 on weaker footing, as economic activity was significantly lower than expected, while inflation remained stubbornly elevated The U.S. Bureau of Economic Analysis (BEA) announced on Thursday that the advance reading of second-quarter Gross Domestic Product (GDP) showed that the economy expanded by 1.5%, following a 2.1% increase in the first quarter. The data was significantly lower than expectations, as economists were projecting another increase of 2.1%.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-07-30/spot-gold-trades-4074oz-us-gdp-rises-15-q2-core-pce-rises-01-june",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:77d6c8a28bf2c831",
+      "titleEn": "Starbucks stock jumps 6% after earnings beat, higher outlook; Wall Street hikes PT",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/29/qualcomm-stock-slips-as-memory-crunch-hits-q2-earnings/",
+      "link": "https://invezz.com/news/2026/07/30/starbucks-stock-jumps-6-after-earnings-beat-higher-outlook-wall-street-hikes-pt/",
       "published": null
     },
     {
-      "id": "stockanalysis:2cb833ffe1be1b30",
-      "titleEn": "Western Europe's Fashion E-commerce Market Matures, Representing 20% of Online Consumer Spending as Gen Z Drives momentum",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260730245944/en/Western-Europe%E2%80%99s-Fashion-E-commerce-Market-Matures-Representing-20-of-Online-Consumer-Spending-as-Gen-Z-Drives-momentum/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d572f2361eac728c",
-      "titleEn": "Quintas Energy Selects Box to Build AI-Ready Content Platform for Renewable Energy Asset Management",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260730590513/en/Quintas-Energy-Selects-Box-to-Build-AI-Ready-Content-Platform-for-Renewable-Energy-Asset-Management/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a6982544a6d8aab5",
-      "titleEn": "Takeda Announces FY2026 First Quarter Results, Near-Term Launch Preparations and Pipeline Progress on Track",
-      "summaryEn": null,
+      "id": "stockanalysis:912cc32a98344e78",
+      "titleEn": "Gold prices remain stuck as U.S. weekly jobless claims remain below 200k",
+      "summaryEn": "(Kitco News) - The gold market continues to consolidate near the lower end of its recent range, holding support above $4,000 an ounce even as the U.S. labor market remains fairly resilient, with the number of people filing first-time unemployment claims staying below a key threshold. Initial claims for state unemployment benefits rose by 9,000 to a seasonally adjusted 197,000 for the week ending July 25, the Labor Department announced Thursday. The figure came in slightly below expectations, as consensus forecasts called for 201,000 claims. The previous week&#x27;s reading was revised higher by 1,000 claims to 188,000. Spot gold has traded in a narrow range for most of the week and is seeing little reaction to the latest employment data. Spot gold last traded at $4,077.20 an ounce, up 0.30% on the day.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20260727883646/en/Takeda-Announces-FY2026-First-Quarter-Results-Near-Term-Launch-Preparations-and-Pipeline-Progress-on-Track/",
+      "link": "https://www.kitco.com/news/article/2026-07-30/gold-prices-remain-stuck-us-weekly-jobless-claims-remain-below-200k",
       "published": null
     },
     {
-      "id": "stockanalysis:83c0b9f8f9d36d63",
-      "titleEn": "Avolon Q2 Net Income up 45% to US$209 Million",
+      "id": "stockanalysis:45d8dcb93a01ff57",
+      "titleEn": "Gold prices going nowhere in a hurry as BoE leaves rates unchanged",
+      "summaryEn": "(Kitco News) - The gold market continues to trade near critical support levels but is not seeing any significant volatility as global central bank policies remain tilted toward tightening. The Bank of England is the latest central bank to reinforce this trend in the global marketplace, leaving interest rates unchanged on Thursday. As expected, the BoE&#x27;s Bank Rate remains steady at 3.75%. However, three members expressed growing support for a rate hike as the ongoing global energy crisis continues to fuel inflationary pressures. According to consensus estimates, economists had expected only two members to vote in favor of a rate hike.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-07-30/gold-prices-going-nowhere-hurry-boe-leaves-rates-unchanged",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:891089148e3e78fd",
+      "titleEn": "FTSE 100 hits record as Rolls-Royce and miners power London stocks",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260729276134/en/Avolon-Q2-Net-Income-up-45-to-US209-Million/",
+      "link": "https://invezz.com/news/2026/07/30/ftse-100-hits-record-as-rolls-royce-and-miners-power-london-stocks/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c66d6d38c3f1c06c",
+      "titleEn": "Lloyds share price forecast as earnings jump, odds of BoE rate hikes jump",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/30/lloyds-share-price-forecast-as-earnings-jump-odds-of-boe-rate-hikes-jump/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f52446e8495139f7",
+      "titleEn": "Why MSFT soared but GOOG sank despite strong earnings and cloud growth",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/30/why-msft-soared-but-goog-sank-despite-strong-earnings-and-cloud-growth/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:473a1d4ba7601130",
+      "titleEn": "SpaceX stock crashes 50%: why Jim Cramer says a better buying chance lies ahead",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/30/spacex-stock-crashes-50-why-jim-cramer-says-a-better-buying-chance-lies-ahead/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3fc2ae0734dc917e",
+      "titleEn": "Here's why the Rolls-Royce share price is leading the FTSE 100 Index today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/30/heres-why-the-rolls-royce-share-price-is-leading-the-ftse-100-index-today/",
       "published": null
     }
   ]
