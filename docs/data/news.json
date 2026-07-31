@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-07-31T15:52:38.969757Z",
+  "generatedAt": "2026-07-31T20:49:04.091125Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:99da2ebd3ddb78fd",
+      "titleEn": "Gold has value at $4,000 as investors look beyond Fed hawkishness",
+      "summaryEn": "(Kitco News) - Although gold prices remain stuck below $4,100 an ounce, analysts are starting to see a shift in sentiment in the marketplace, and support at $4,000 is increasingly being recognized as an attractive value point, even as the Federal Reserve maintains a tightening bias. Although inflation remains well above the Federal Reserve’s 2% target, some analysts have said that gold is becoming more sensitive to disappointing economic data after the U.S. government reported weaker-than-expected economic activity during the second quarter. Analysts have pointed out that gold remains precariously balanced ahead of a busy week of employment data.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-07-31/gold-has-value-4000-investors-look-beyond-fed-hawkishness",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:252e0243537e0273",
+      "titleEn": "Chime Cuts 10% of Workforce in AI Pivot",
+      "summaryEn": "Chime Financial plans to lay off about 150 people, or 10% of its workforce, Bloomberg reported Friday (July 31), citing a memo to employees from Chime CEO and Co-Founder Chris Britt . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); In an excerpt from the memo obtained by PYMNTS, Britt said that as Chime enters “the next era,” the company needs new skills to harness the benefits of artificial intelligence, smaller teams to move faster and get things done, and the accelerated growth and operating discipline required of public companies.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/banking/2026/chime-cuts-10percent-of-workforce-in-ai-pivot/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:14ebe4e235c3445b",
+      "titleEn": "Why Nvidia stock is rebounding another 2% on Friday",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/07/31/why-nvidia-stock-is-rebounding-another-2-on-friday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9e83e92ae0a5f2a3",
+      "titleEn": "Amazon Completes $50 Billion Investment in OpenAI",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-completes-50-billion-dollar-investment-openai/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ac7c59ce9804014b",
+      "titleEn": "How Apple went from Wall Street's AI haven to its biggest earnings loser in a week",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/07/31/how-apple-went-from-wall-streets-ai-haven-to-its-biggest-earnings-loser-in-a-week/",
+      "published": null
+    },
     {
       "id": "stockanalysis:724e69d5a481f99f",
       "titleEn": "Reddit earnings: why are investors concerned despite solid headline numbers",
@@ -15,7 +60,7 @@
     {
       "id": "stockanalysis:4c221e495788cb0d",
       "titleEn": "Mastercard and Amex Turn B2B Payments Into a Living Control Layer",
-      "summaryEn": "Mastercard and American Express are embedding spending rules, supplier verification and invoice data directly into transactions. Programmable limits, automated matching and audit trails can stop errors and fraud before cash leaves the business. Providers embedded across procurement, accounts payable and treasury will be harder to replace and better positioned to control the payment itself.",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.pymnts.com/news/b2b-payments/2026/mastercard-american-express-turn-b2b-payments-into-living-control-layer/",
@@ -40,66 +85,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:d728b9131729318d",
-      "titleEn": "Spot gold near session lows below $4,030/oz after final Consumer Sentiment rises to 55.2, one-year inflation expectations ease",
-      "summaryEn": "(Kitco News) - The gold market is trading near session lows after the latest data showed consumer sentiment in the U.S. improving, with shorter-term inflation expectations easing. The University of Michigan announced on Friday that the final reading of its Consumer Sentiment survey for July was 55.2. The data was better than expectations, as the consensus forecast of economists called for a reading of 54. It was also better than the preliminary reading of 54.4, and well above June’s final reading of 49.5. “﻿﻿Consumer sentiment confirmed its early-month reading, landing almost 12% above June,” said Surveys of Consumers Director Joanne Hsu. “Broad-based improvements were seen across all groups by income, education, wealth, age, and political party. Five-year expected business conditions reached a 12-month high, though it remains well under its historical average. Despite recent gains, sentiment is 11% below a year ago, reflecting a generally somber view of the economy amid five years of elevated inflation and persistent high prices. Consumers remain focused on pocketbook issues like purchasing power, while political or military developments remain more in the background.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-07-31/spot-gold-near-session-lows-below-4030oz-after-final-consumer-sentiment",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:81f5fe189812270c",
-      "titleEn": "Caterpillar stock has slumped: can earnings spark a rebound?",
+      "id": "stockanalysis:b3a2871631841fc6",
+      "titleEn": "Deluxe Closes Transformative Acquisition of Celero Commerce",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/31/caterpillar-stock-has-slumped-can-earnings-spark-a-rebound/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b3b47c307068132c",
-      "titleEn": "Gold, silver retreat as dollar strength caps post-Fed rebound - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower ahead of the North American market open Friday, as a firmer U.S. dollar, elevated Treasury yields and renewed oil strength pressured precious metals after Thursday’s post-PCE rebound. At the time of writing, spot gold was trading near $4,057.10 an ounce, down 1.11%, while spot silver was trading near $57.77, down 1.90% on the session. Gold’s early range was $4,049.40 to $4,112.80, leaving the metal above the $4,000 area but below Thursday’s $4,101 breakout level and the $4,114 resistance level identified in the latest short-term technical setup. Silver’s early range was $57.53 to $59.30, with the metal holding above $57.53 but failing to sustain a move through the $59.00 to $60.03 resistance band. Positioning after Wednesday’s Fed rate announcement and the latest data remains two-sided, but not cleanly supportive for metals. The Fed held rates steady in the 3.50% to 3.75% range by a 9-3 vote, with three officials favoring a 25-basis-point hike, leaving September hike risk alive. Thursday’s data showed U.S. real GDP rose at a 1.5% annualized rate in the second quarter, down from 2.1% in the first quarter, while June headline PCE fell 0.1% on the month and slowed to 3.7% year over year. Core PCE rose 0.1% on the month and eased to 3.3% year over year. Personal income rose 0.2% and consumer spending rose 0.3%. The data support the case for a hold, but inflation remains above target and the 10-year Treasury yield was near 4.67%, leaving gold capped by real-rate pressure and a firmer dollar.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-07-31/gold-silver-retreat-dollar-strength-caps-post-fed-rebound-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ea1e196eb24ba6b8",
-      "titleEn": "Amazon vs Microsoft vs Google: Who is winning the AI cloud race after earnings?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/07/31/amazon-vs-microsoft-vs-google-who-is-winning-the-ai-cloud-race-after-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c1bcde313b1fd28b",
-      "titleEn": "LP Building Solutions Announces Quarterly Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260730528813/en/LP-Building-Solutions-Announces-Quarterly-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3c8f78862351f6d5",
-      "titleEn": "Mattel Promotes Roberto Stanichi to President, Chief Marketing and Brand Officer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260731825645/en/Mattel-Promotes-Roberto-Stanichi-to-President-Chief-Marketing-and-Brand-Officer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:147a09944d0d84fd",
-      "titleEn": "GATX Corporation Announces Quarterly Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260731367140/en/GATX-Corporation-Announces-Quarterly-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20260731392521/en/Deluxe-Closes-Transformative-Acquisition-of-Celero-Commerce/",
       "published": null
     }
   ]
