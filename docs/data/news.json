@@ -1,141 +1,105 @@
 {
-  "generatedAt": "2026-07-30T21:53:33.491258Z",
+  "generatedAt": "2026-07-31T08:19:07.272060Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 11,
   "items": [
     {
-      "id": "stockanalysis:1afb7a11a803f89c",
-      "titleEn": "Gold holds above $4,100 as softer PCE offsets hawkish Fed - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in late-afternoon U.S. trading Thursday, as softer June PCE inflation and a weaker U.S. dollar helped metals rebound after Wednesday’s hawkish Fed hold. At the time of writing, spot gold was trading near $4,107.20 an ounce, up 0.55%, while spot silver was trading near $59.27, up 1.84% on the session. Gold’s session range was $4,028.40 to $4,101.10, leaving the metal above the $4,000 area and back above the $4,101 level that capped the early session. Silver’s session range was $57.95 to $59.27, with the metal holding above $57.95 and pushing back toward the $59.00 to $60.03 resistance area identified in the latest short-term setup. North American equities closed sharply higher as Microsoft’s earnings reignited the AI trade and helped Wall Street reverse Wednesday’s Fed-driven selloff. The S&P 500 rose 121.48 points, or 1.7%, to 7,437.63, the Nasdaq Composite jumped 679.24 points, or 2.8%, to 24,122.18, the Dow Jones Industrial Average gained 613.92 points, or 1.2%, to 52,208.06 and the Russell 2000 added 39.79 points, or 1.4%, to 2,946.10. In Canada, the S&P/TSX Composite rose 172.06 points, or 0.49%, to 35,505.84.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-07-30/gold-holds-above-4100-softer-pce-offsets-hawkish-fed-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7c7c60764962757f",
-      "titleEn": "Apple stock falls after China, services performance miss expectations",
+      "id": "stockanalysis:325f0eae0ab4c2dd",
+      "titleEn": "Micron stock gets a Tim Cook catalyst as Apple faces a 100-year memory crunch",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/apple-stock-falls-after-china-services-performance-miss-expectations/",
+      "link": "https://invezz.com/news/2026/07/31/micron-stock-gets-a-tim-cook-catalyst-as-apple-faces-a-100-year-memory-crunch/",
       "published": null
     },
     {
-      "id": "stockanalysis:1ad82be9fea0885e",
-      "titleEn": "Dow jumps 640 points as Microsoft, chip stocks power Wall Street rebound",
+      "id": "stockanalysis:c0aba4356473a95d",
+      "titleEn": "Silver falls towards $58.50: what is driving the latest price decline?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/dow-jumps-640-points-as-microsoft-chip-stocks-power-wall-street-rebound/",
+      "link": "https://invezz.com/news/2026/07/31/silver-falls-towards-58-50-what-is-driving-the-latest-price-decline/",
       "published": null
     },
     {
-      "id": "stockanalysis:adc1e13e37758680",
-      "titleEn": "Why is Tesla stock rising 3% today",
+      "id": "stockanalysis:104e9276936c5ae5",
+      "titleEn": "A Tesla and SpaceX merger would create a conglomerate: is it a good deal?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "EV",
-      "link": "https://invezz.com/news/2026/07/30/why-is-tesla-stock-rising-3-today/",
+      "link": "https://invezz.com/news/2026/07/31/a-tesla-and-spacex-merger-would-create-a-conglomerate-is-it-a-good-deal/",
       "published": null
     },
     {
-      "id": "stockanalysis:39181f54e5afaa7a",
-      "titleEn": "Fed's ‘hawkish hold' stabilizes gold and silver, but likely leaves markets in limbo until September – Experts",
-      "summaryEn": "(Kitco News) – The Federal Reserve’s ‘hawkish hold’ was good news for gold and silver prices on balance, though it also served to push out the uncertainty surrounding inflation, interest rates and the broader market until after the summer, likely leaving the precious metals consolidating in their recent ranges for a little while longer, according to experts. Jesse Colombo, independent precious metals analyst and founder of the BubbleBubble Report, said precious metals breathed a sigh of relief after the Fed held rates steady. “While higher interest rate expectations typically put downward pressure on precious metals, since they do not earn a yield, they have held up quite well in spite of that,” he wrote. “This resilience suggests that a great deal of pessimism has already been priced in, and I would argue far too excessively.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-07-30/feds-hawkish-hold-stabilizes-gold-and-silver-likely-leaves-markets-limbo",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:581c71705cd1296f",
-      "titleEn": "Fifth Third Begins Comerica Account Migration After Merger",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); These moves follow Fifth Third’s February announcement that its $10.9 million merger with Comerica closed, establishing the ninth-largest U.S. bank by assets. Fifth Third’s welcome packages explain the transition, which in many cases will provide Comerica customers with opportunities to save money, access funds sooner and gain greater flexibility in how they manage their finances, according to the release.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/fifth-third-begins-comerica-account-migration-after-merger/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6cfcd6b4ca2a7ad6",
-      "titleEn": "Mastercard stock rises after Q2 results beat estimates, lifts revenue outlook",
+      "id": "stockanalysis:fccfbce7461028a8",
+      "titleEn": "Amazon stock rallies over 10% as AWS sales jump 37%, but one warning grows louder",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/30/mastercard-stock-rises-after-q2-results-beat-estimates-lifts-revenue-outlook/",
+      "link": "https://invezz.com/news/2026/07/31/amazon-stock-rallies-over-10-as-aws-sales-jump-37-but-one-warning-grows-louder/",
       "published": null
     },
     {
-      "id": "stockanalysis:680c4f42a1b5a54a",
-      "titleEn": "Amazon Narrows AI Ambitions as Retail Rivalry Intensifies",
-      "summaryEn": "Amazon ’s decision this week to scale back parts of its homegrown artificial intelligence portfolio has been taken by the marketplace as a retreat from the frontier-model competition. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s only partly true. Amazon appears to be abandoning the most expensive and least defensible layer of the AI stack in order to strengthen the businesses where it already enjoys structural advantages: cloud computing, retail operations, advertising and logistics.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/retail/2026/amazon-narrows-ai-ambitions-as-retail-rivalry-intensifies/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:35beb4b19656f22c",
-      "titleEn": "Lam Research stock jumps 17% as AI demand fuels earnings beat, outlook",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/07/30/lam-research-stock-jumps-17-as-ai-demand-fuels-earnings-beat-outlook/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b4e6ffd8523d11ca",
-      "titleEn": "Creative Solutions in Healthcare Renews Strategic Partnership with QRM Following Seven Years of Clinical &amp; Operational Success.",
+      "id": "stockanalysis:d47838a994bf7988",
+      "titleEn": "SK Hynix soars 28%, Samsung 25%, but here's why this rebound may not last",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260730722788/en/Creative-Solutions-in-Healthcare-Renews-Strategic-Partnership-with-QRM-Following-Seven-Years-of-Clinical-Operational-Success./",
+      "link": "https://invezz.com/news/2026/07/31/sk-hynix-soars-28-samsung-25-but-heres-why-this-rebound-may-not-last/",
       "published": null
     },
     {
-      "id": "stockanalysis:1980f399ae46cdc6",
-      "titleEn": "Atkore Inc. Declares Quarterly Dividend",
+      "id": "stockanalysis:470638af6ba57a72",
+      "titleEn": "KKR and Mirastar Complete Acquisition of Portfolio of Four Prime UK Logistics Assets from PLP",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260730681569/en/Atkore-Inc.-Declares-Quarterly-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20260730270210/en/KKR-and-Mirastar-Complete-Acquisition-of-Portfolio-of-Four-Prime-UK-Logistics-Assets-from-PLP/",
       "published": null
     },
     {
-      "id": "stockanalysis:29175784118d75ca",
-      "titleEn": "Aris Mining Files WKSI Base Shelf Prospectus",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20260730716279/en/Aris-Mining-Files-WKSI-Base-Shelf-Prospectus/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1aa33a64fc1b7b76",
-      "titleEn": "Deswell Announces Filing and Availability of Annual Report on Form 20-F",
+      "id": "stockanalysis:4b29a7833069c59f",
+      "titleEn": "CoStar Data Shows London Dominates UK Office Development as Regional Pipeline Hits 20-Year Low",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260730238180/en/Deswell-Announces-Filing-and-Availability-of-Annual-Report-on-Form-20-F/",
+      "link": "https://www.businesswire.com/news/home/20260731928780/en/CoStar-Data-Shows-London-Dominates-UK-Office-Development-as-Regional-Pipeline-Hits-20-Year-Low/",
       "published": null
     },
     {
-      "id": "stockanalysis:985d3d371c060fbe",
-      "titleEn": "Flowco Holdings Inc. Announces Quarterly Cash Dividend",
+      "id": "stockanalysis:0927033acb209c39",
+      "titleEn": "Mitsubishi Electric Announces Consolidated Financial Results for the First Quarter of Fiscal 2027",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260730152065/en/Flowco-Holdings-Inc.-Announces-Quarterly-Cash-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20260730240773/en/Mitsubishi-Electric-Announces-Consolidated-Financial-Results-for-the-First-Quarter-of-Fiscal-2027/",
       "published": null
     },
     {
-      "id": "stockanalysis:6f1153802e8bfb54",
-      "titleEn": "AM Best Comments on Credit Ratings of Universal Shield Insurance Group Subsidiaries Following Announced Transaction with Tiptree Inc.",
+      "id": "stockanalysis:ecbf1c0ec11525af",
+      "titleEn": "Renesas to Phase Out Production at Takasaki Factory; Maintain and Strengthen R&amp;D Functions",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260730607954/en/AM-Best-Comments-on-Credit-Ratings-of-Universal-Shield-Insurance-Group-Subsidiaries-Following-Announced-Transaction-with-Tiptree-Inc./",
+      "link": "https://www.businesswire.com/news/home/20260730948509/en/Renesas-to-Phase-Out-Production-at-Takasaki-Factory-Maintain-and-Strengthen-RD-Functions/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0f0d4065e60dcf25",
+      "titleEn": "Renesas Reports Financial Results for the Second Quarter Ended June 30, 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260730481394/en/Renesas-Reports-Financial-Results-for-the-Second-Quarter-Ended-June-30-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a776207cca780a0c",
+      "titleEn": "Renesas Announces Consolidated Forecasts",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260730207758/en/Renesas-Announces-Consolidated-Forecasts/",
       "published": null
     }
   ]
