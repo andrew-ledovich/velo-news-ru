@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-01T00:10:55.728704Z",
+  "generatedAt": "2026-08-01T07:56:36.213579Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 8,
   "items": [
     {
       "id": "stockanalysis:652be31cefb1b472",
@@ -67,39 +67,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:4417108a4d945e2b",
-      "titleEn": "CareDx Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+      "id": "stockanalysis:b90a65d71880733b",
+      "titleEn": "Nexstar Media Group Declares Quarterly Cash Dividend of $1.86 Per Share",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260731951215/en/CareDx-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:42a35cd7f76886a5",
-      "titleEn": "SABA Announces Notification of Sources of Distributions",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260731080595/en/SABA-Announces-Notification-of-Sources-of-Distributions/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:482803a73315b54a",
-      "titleEn": "BRW Announces Notification of Sources of Distributions",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260731706623/en/BRW-Announces-Notification-of-Sources-of-Distributions/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2cc72f3c9431d0a1",
-      "titleEn": "BrilliA Incorporated Reports Fiscal Year 2026 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260731095989/en/BrilliA-Incorporated-Reports-Fiscal-Year-2026-Financial-Results/",
+      "link": "https://www.businesswire.com/news/home/20260731704575/en/Nexstar-Media-Group-Declares-Quarterly-Cash-Dividend-of-1.86-Per-Share/",
       "published": null
     }
   ]
