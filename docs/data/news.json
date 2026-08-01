@@ -1,15 +1,24 @@
 {
-  "generatedAt": "2026-08-01T15:41:39.725439Z",
+  "generatedAt": "2026-08-01T20:02:15.778173Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:8d517cc0ce6de910",
       "titleEn": "Google rolls back new satellite image AI tool after backlash",
-      "summaryEn": null,
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Google rolled back a new feature Friday allowing Google Earth users to generate AI visualizations on top of the service's satellite imagery, following a furious backlash from researchers and open-source intelligence experts about the potential for disinformation. \"We've seen geospatial professionals using this feature for a range of useful purposes, however we've also seen people sharing screenshots of generated imagery that appear to violate our policies,\" a Google spokesperson said in a statement to AFP. \"So we're rolling back this feature in Google Earth while we work on implementing stronger guardrails.\"",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://techxplore.com/news/2026-08-google-satellite-image-ai-tool.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:34c7e9a1c2c21b39",
+      "titleEn": "OpenAI Reaches 1 Billion Active Users as AI Becomes Daily Habit",
+      "summaryEn": "OpenAI ’s models now reach more than 1 billion active users and more than 2 million businesses, OpenAI Chief Financial Officer Sarah Friar said in a Friday (July 31) blog post . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); OpenAI has found that these users deploy artificial intelligence (AI) more often and more deeply as they gain confidence in it. Among individuals, after six months of using the technology, people send 50% more messages each day and use ChatGPT for twice as many kinds of work. Among businesses, companies often start using AI with one team or workflow and then expand adoption across operations, Friar said.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-reaches-1-billion-active-users-as-ai-becomes-daily-habit/",
       "published": null
     },
     {
@@ -67,12 +76,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ac7c59ce9804014b",
-      "titleEn": "How Apple went from Wall Street's AI haven to its biggest earnings loser in a week",
+      "id": "stockanalysis:79ffea178d69957c",
+      "titleEn": "Kyndryl Holdings Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of Kyndryl Holdings, Inc. - KD",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/07/31/how-apple-went-from-wall-streets-ai-haven-to-its-biggest-earnings-loser-in-a-week/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260801279789/en/Kyndryl-Holdings-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-Kyndryl-Holdings-Inc.---KD/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3c3f724294794c86",
+      "titleEn": "Skyworks Solutions Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of Skyworks Solutions, Inc. - SKW",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260801153153/en/Skyworks-Solutions-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-Skyworks-Solutions-Inc.---SKW/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e1e33602fec5df67",
+      "titleEn": "Microsoft Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of Microsoft Corporation - MSFT",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260801400969/en/Microsoft-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-Microsoft-Corporation---MSFT/",
       "published": null
     },
     {
