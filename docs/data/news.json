@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-01T11:48:50.011959Z",
+  "generatedAt": "2026-08-01T15:41:39.725439Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:8d517cc0ce6de910",
       "titleEn": "Google rolls back new satellite image AI tool after backlash",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Google rolled back a new feature Friday allowing Google Earth users to generate AI visualizations on top of the service's satellite imagery, following a furious backlash from researchers and open-source intelligence experts about the potential for disinformation. \"We've seen geospatial professionals using this feature for a range of useful purposes, however we've also seen people sharing screenshots of generated imagery that appear to violate our policies,\" a Google spokesperson said in a statement to AFP. \"So we're rolling back this feature in Google Earth while we work on implementing stronger guardrails.\"",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://techxplore.com/news/2026-08-google-satellite-image-ai-tool.html",
@@ -73,6 +73,15 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/07/31/how-apple-went-from-wall-streets-ai-haven-to-its-biggest-earnings-loser-in-a-week/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3f462a705a7aed94",
+      "titleEn": "Okta to Announce Second Quarter Fiscal Year 2027 Financial Results on August 26, 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260801555265/en/Okta-to-Announce-Second-Quarter-Fiscal-Year-2027-Financial-Results-on-August-26-2026/",
       "published": null
     },
     {
