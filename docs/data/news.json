@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-07-31T20:49:04.091125Z",
+  "generatedAt": "2026-08-01T00:10:55.728704Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:652be31cefb1b472",
+      "titleEn": "Gold is stuck but miners are generating bags of cash",
+      "summaryEn": "(Kitco News) - Gold&#x27;s months-long correction appears to be nearing its end, but prices continue to consolidate near critical support around $4,000 an ounce. The market remains caught between gold&#x27;s traditional role as a safe-haven asset and the pressure of rising real yields. Persistent inflation has reinforced expectations that interest rates could remain elevated for longer, increasing the opportunity cost of holding gold . This has weighed on investment demand and dampened enthusiasm for the metal itself. Yet investors focused solely on the gold price may be missing a more compelling story unfolding in the mining sector. While gold has struggled to regain momentum, second-quarter earnings have highlighted just how dramatically the industry&#x27;s fundamentals have improved. Despite gold’s 30% drop from its first-quarter highs, miners still benefited from an average gold price of more than $4,400 an ounce during the second quarter. More importantly, investors should be paying attention to what companies are doing with the cash they are generating. Last week, Bank of America maintained a constructive view on gold equities even as it lowered its 2026 gold price forecast. Earnings season suggests that view may be increasingly supported by company fundamentals rather than expectations for higher metal prices. Many of the industry&#x27;s leading producers are generating record free cash flow, strengthening their balance sheets, returning money to shareholders, and continuing to invest in long-life projects that can support future production growth. Agnico Eagle delivered a record quarter, generating $1.335 billion in free cash flow while returning a record $625 million to shareholders. At the same time, the company continues to advance major growth projects, including Odyssey, Hope Bay, and Upper Beaver. Kinross reported more than $725 million in free cash flow, increased its net cash position to $1.9 billion, and returned roughly 40% of its free cash flow to shareholders. The company also highlighted the long-term potential of its Lobo-Marte project, which could become one of the sector&#x27;s lowest-cost operations. Even Alamos Gold, despite reducing guidance following seismic issues at Young-Davidson, generated $143.5 million in free cash flow while continuing to fund its Island Gold District expansion internally. What&#x27;s becoming harder to ignore is that many gold miners are no longer operating as simple leveraged bets on the gold price. After years of focusing on costs, balance sheets, and capital discipline, a growing number are producing the kind of consistent cash flow that investors typically reward in other sectors. Meanwhile, investors remain heavily focused on AI-linked stocks, many of which are trading at elevated valuations. That enthusiasm may be warranted, but it has also drawn attention away from areas of the market where valuations remain comparatively attractive. For investors looking beyond momentum trades, gold miners increasingly stand out as a sector offering both value and improving fundamentals. That&#x27;s a combination that has become surprisingly rare in today&#x27;s market.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-07-31/gold-stuck-miners-are-generating-bags-cash",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:53a89bab8a0f6864",
+      "titleEn": "Wall Street trisected on gold's near-term prospects, Main Street bulls in minority as market looks to July payrolls for direction",
+      "summaryEn": "(Kitco News) – Gold prices saw another choppy week, as dip-buying and softer inflation data helped the precious metal defend the $4,000 level, while the Federal Reserve’s hawkish hold, rising Treasury yields, and renewed oil-driven inflation concerns capped the rebound. Spot gold kicked off the week trading at $4,051.51 per ounce on Sunday evening, and pushed higher through Monday as traders continued to buy weakness near the lower end of gold’s recent range. The move stalled Tuesday as markets turned cautious ahead of the Federal Reserve’s rate decision, with elevated oil prices and persistent inflation concerns keeping yields supported. Gold broke below $4,050 on Wednesday morning and briefly lost the $4,000 support level, with spot prices ultimately setting their weekly low at $3,995.90 per ounce. The yellow metal recovered before the Fed held rates steady at 3.50% to 3.75%, but three dissentions in favor of a hike gave little reassurance that policy easing was coming, with buyers stepping back in as traders digested the Fed’s latest message and positioned for upcoming inflation data.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-07-31/wall-street-trisected-golds-near-term-prospects-main-street-bulls-minority",
+      "published": null
+    },
     {
       "id": "stockanalysis:99da2ebd3ddb78fd",
       "titleEn": "Gold has value at $4,000 as investors look beyond Fed hawkishness",
@@ -33,7 +51,7 @@
     {
       "id": "stockanalysis:9e83e92ae0a5f2a3",
       "titleEn": "Amazon Completes $50 Billion Investment in OpenAI",
-      "summaryEn": null,
+      "summaryEn": "Amazon completed a $50 billion investment in OpenAI that the two companies announced in February. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Amazon said in a Friday (July 31) filing with the Securities and Exchange Commission that after entering into the agreement and investing $15 billion during the first quarter, it invested another $13.7 billion in the second quarter and the remaining $21.3 billion of its commitment sometime after June 30.",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-completes-50-billion-dollar-investment-openai/",
@@ -49,48 +67,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:724e69d5a481f99f",
-      "titleEn": "Reddit earnings: why are investors concerned despite solid headline numbers",
+      "id": "stockanalysis:4417108a4d945e2b",
+      "titleEn": "CareDx Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/31/reddit-earnings-why-are-investors-concerned-despite-solid-headline-numbers/",
+      "link": "https://www.businesswire.com/news/home/20260731951215/en/CareDx-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4/",
       "published": null
     },
     {
-      "id": "stockanalysis:4c221e495788cb0d",
-      "titleEn": "Mastercard and Amex Turn B2B Payments Into a Living Control Layer",
+      "id": "stockanalysis:42a35cd7f76886a5",
+      "titleEn": "SABA Announces Notification of Sources of Distributions",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/b2b-payments/2026/mastercard-american-express-turn-b2b-payments-into-living-control-layer/",
+      "link": "https://www.businesswire.com/news/home/20260731080595/en/SABA-Announces-Notification-of-Sources-of-Distributions/",
       "published": null
     },
     {
-      "id": "stockanalysis:c00939dd628e730e",
-      "titleEn": "Palantir stock holds steady: why Monday could be the turning point",
+      "id": "stockanalysis:482803a73315b54a",
+      "titleEn": "BRW Announces Notification of Sources of Distributions",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/31/palantir-stock-holds-steady-why-monday-could-be-the-turning-point/",
+      "link": "https://www.businesswire.com/news/home/20260731706623/en/BRW-Announces-Notification-of-Sources-of-Distributions/",
       "published": null
     },
     {
-      "id": "stockanalysis:bf654e281a397af3",
-      "titleEn": "Why SpaceX stock is falling another 2% on Friday",
+      "id": "stockanalysis:2cc72f3c9431d0a1",
+      "titleEn": "BrilliA Incorporated Reports Fiscal Year 2026 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/31/why-spacex-stock-is-falling-another-2-on-friday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b3a2871631841fc6",
-      "titleEn": "Deluxe Closes Transformative Acquisition of Celero Commerce",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260731392521/en/Deluxe-Closes-Transformative-Acquisition-of-Celero-Commerce/",
+      "link": "https://www.businesswire.com/news/home/20260731095989/en/BrilliA-Incorporated-Reports-Fiscal-Year-2026-Financial-Results/",
       "published": null
     }
   ]
