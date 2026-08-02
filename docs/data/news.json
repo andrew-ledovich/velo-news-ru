@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-02T15:46:46.708266Z",
+  "generatedAt": "2026-08-02T20:01:10.747790Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:3edd11aabfdb945a",
@@ -91,15 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260801555265/en/Okta-to-Announce-Second-Quarter-Fiscal-Year-2027-Financial-Results-on-August-26-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b90a65d71880733b",
-      "titleEn": "Nexstar Media Group Declares Quarterly Cash Dividend of $1.86 Per Share",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260731704575/en/Nexstar-Media-Group-Declares-Quarterly-Cash-Dividend-of-1.86-Per-Share/",
       "published": null
     }
   ]
