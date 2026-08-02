@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-01T23:42:29.743462Z",
+  "generatedAt": "2026-08-02T07:53:09.778452Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:8d517cc0ce6de910",
@@ -64,15 +64,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/07/31/why-nvidia-stock-is-rebounding-another-2-on-friday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9e83e92ae0a5f2a3",
-      "titleEn": "Amazon Completes $50 Billion Investment in OpenAI",
-      "summaryEn": "Amazon completed a $50 billion investment in OpenAI that the two companies announced in February. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Amazon said in a Friday (July 31) filing with the Securities and Exchange Commission that after entering into the agreement and investing $15 billion during the first quarter, it invested another $13.7 billion in the second quarter and the remaining $21.3 billion of its commitment sometime after June 30.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-completes-50-billion-dollar-investment-openai/",
       "published": null
     },
     {
