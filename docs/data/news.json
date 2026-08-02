@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-02T07:53:09.778452Z",
+  "generatedAt": "2026-08-02T11:45:21.533034Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:3edd11aabfdb945a",
+      "titleEn": "Nvidia, Alphabet among 5 stocks that fit Jim Cramer's favourite dip-buying rule",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/02/nvidia-alphabet-among-5-stocks-that-fit-jim-cramers-favourite-dip-buying-rule/",
+      "published": null
+    },
     {
       "id": "stockanalysis:8d517cc0ce6de910",
       "titleEn": "Google rolls back new satellite image AI tool after backlash",
@@ -46,24 +55,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-07-31/gold-has-value-4000-investors-look-beyond-fed-hawkishness",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:252e0243537e0273",
-      "titleEn": "Chime Cuts 10% of Workforce in AI Pivot",
-      "summaryEn": "Chime Financial plans to lay off about 150 people, or 10% of its workforce, Bloomberg reported Friday (July 31), citing a memo to employees from Chime CEO and Co-Founder Chris Britt . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); In an excerpt from the memo obtained by PYMNTS, Britt said that as Chime enters “the next era,” the company needs new skills to harness the benefits of artificial intelligence, smaller teams to move faster and get things done, and the accelerated growth and operating discipline required of public companies.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/banking/2026/chime-cuts-10percent-of-workforce-in-ai-pivot/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:14ebe4e235c3445b",
-      "titleEn": "Why Nvidia stock is rebounding another 2% on Friday",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/07/31/why-nvidia-stock-is-rebounding-another-2-on-friday/",
       "published": null
     },
     {
