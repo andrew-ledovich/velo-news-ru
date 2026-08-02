@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-02T20:01:10.747790Z",
+  "generatedAt": "2026-08-02T23:42:07.335196Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:606c2225c3b3ca21",
+      "titleEn": "OpenAI Finds More AI Agents Have Broken Confinement",
+      "summaryEn": "OpenAI has unearthed other examples of its autonomous artificial intelligence agents breaking containment. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a report Friday (July 31) by Reuters, which said this discovery came as the startup deepens its examination of a recent hacking incident at tech firm Hugging Face .",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/2026/openai-finds-more-ai-agents-have-broken-confinement/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3edd11aabfdb945a",
       "titleEn": "Nvidia, Alphabet among 5 stocks that fit Jim Cramer's favourite dip-buying rule",
@@ -58,6 +67,42 @@
       "published": null
     },
     {
+      "id": "stockanalysis:32b619d7dc7696d9",
+      "titleEn": "CASH Investors Have Opportunity to Join Pathward Financial, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260802438869/en/CASH-Investors-Have-Opportunity-to-Join-Pathward-Financial-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:407ba27164fdf86e",
+      "titleEn": "COLD Investors Have Opportunity to Join Americold Realty Trust, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260802265389/en/COLD-Investors-Have-Opportunity-to-Join-Americold-Realty-Trust-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:303aae9592721fdf",
+      "titleEn": "CELC Investors Have Opportunity to Join Celcuity Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260802229252/en/CELC-Investors-Have-Opportunity-to-Join-Celcuity-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ec107def360fd600",
+      "titleEn": "RBLX Investors Have Opportunity to Join Roblox Corporation Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260802040109/en/RBLX-Investors-Have-Opportunity-to-Join-Roblox-Corporation-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:79ffea178d69957c",
       "titleEn": "Kyndryl Holdings Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of Kyndryl Holdings, Inc. - KD",
       "summaryEn": null,
@@ -82,15 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260801400969/en/Microsoft-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-Microsoft-Corporation---MSFT/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3f462a705a7aed94",
-      "titleEn": "Okta to Announce Second Quarter Fiscal Year 2027 Financial Results on August 26, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260801555265/en/Okta-to-Announce-Second-Quarter-Fiscal-Year-2027-Financial-Results-on-August-26-2026/",
       "published": null
     }
   ]
