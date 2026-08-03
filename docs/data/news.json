@@ -1,123 +1,159 @@
 {
-  "generatedAt": "2026-08-03T12:38:14.372573Z",
+  "generatedAt": "2026-08-03T18:59:42.765827Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 17,
   "items": [
     {
-      "id": "stockanalysis:f8c8c2208d5eb274",
-      "titleEn": "Top DRAM ETF stocks to watch this week: Western Digital, SanDisk, Micron",
+      "id": "stockanalysis:4f1e5588debc657f",
+      "titleEn": "Nvidia stock climbs 3% as AI infrastructure demand boosts investor sentiment",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/03/nvidia-stock-climbs-3-as-ai-infrastructure-demand-boosts-investor-sentiment/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:65d72e340447376e",
+      "titleEn": "Corning stock jumps 5% after this analyst sees opportunity after recent sell off",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/03/corning-stock-jumps-5-after-this-analyst-sees-opportunity-after-recent-sell-off/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3d4f9cda3cf250c6",
+      "titleEn": "Why Tesla stock is surging over 3% on Monday",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/08/03/why-tesla-stock-is-surging-over-3-on-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7958997780a3b37c",
+      "titleEn": "Why are investors loading up on Serve Robotics stock ahead of Q2 earnings?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/03/why-are-investors-loading-up-on-serve-robotics-stock-ahead-of-q2-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f2332b2725bb653d",
+      "titleEn": "Visa Inks $2.4 Billion Deal to Acquire Fraud Prevention Firm BioCatch",
+      "summaryEn": "Visa is set to acquire Israel-based fraud intelligence company BioCatch for $2.4 billion. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The all-cash deal, announced Monday (Aug. 3) aims to complement Visa’s cyber, fraud, risk and security solutions and help clients protect themselves and customers from a growing range of fraud-related threats.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/acquiring/2026/visa-inks-2-4-billion-deal-to-acquire-fraud-prevention-firm-biocatch/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:647c536ece75ca0a",
+      "titleEn": "AMZN stock jumps, pushing Amazon past $3T valuation as AWS calms AI spending fears",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/03/amzn-stock-jumps-pushing-amazon-past-3t-valuation-as-aws-calms-ai-spending-fears/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:caf794058eb64092",
+      "titleEn": "Mastercard Finalizes Purchase of Crypto Infrastructure Platform BVNK",
+      "summaryEn": "Mastercard says it has completed its acquisition of cryptocurrency infrastructure platform BVNK . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The deal is designed to help Mastercard offer more choice in “how people and businesses exchange value by enabling interoperability across fiat and digital currencies,” the company said in a Monday (Aug. 3) news release .",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.pymnts.com/news/acquiring/2026/mastercard-finalizes-purchase-of-crypto-infrastructure-platform-bvnk/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:addae2378875ca7c",
+      "titleEn": "Bristol-Myers stock: why AstraZeneca merger is unlikely to happen",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/03/bristol-myers-stock-why-astrazeneca-merger-is-unlikely-to-happen/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:615fe9860d3bf7ef",
+      "titleEn": "Strategy (MSTR) stock rises as Saylor sells Bitcoin, boosts $4B USD reserve",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/03/top-dram-etf-stocks-to-watch-this-week-western-digital-sandisk-micron/",
+      "link": "https://invezz.com/news/2026/08/03/strategy-mstr-stock-rises-as-saylor-sells-bitcoin-boosts-4b-usd-reserve/",
       "published": null
     },
     {
-      "id": "stockanalysis:e2cc71bc7a96a518",
-      "titleEn": "Here's why the AMC stock price is pumping today and what to expect",
+      "id": "stockanalysis:9b2726a78473ad44",
+      "titleEn": "Why are Micron, SK Hynix, other memory stocks falling? CXMT might hold the clue",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/03/heres-why-the-amc-stock-price-is-pumping-today-and-what-to-expect/",
+      "link": "https://invezz.com/news/2026/08/03/why-are-micron-sk-hynix-other-memory-stocks-falling-cxmt-might-hold-the-clue/",
       "published": null
     },
     {
-      "id": "stockanalysis:07af4b0dbf1b79aa",
-      "titleEn": "AMD stock enters earnings with one risk that could upend the bullish case",
+      "id": "stockanalysis:e0b91da2d625bae8",
+      "titleEn": "Wix stock has become a bargain amid SaaSpocalypse fears as earnings loom",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/03/amd-stock-enters-earnings-with-one-risk-that-could-upend-the-bullish-case/",
+      "link": "https://invezz.com/news/2026/08/03/wix-stock-has-become-a-bargain-amid-saaspocalypse-fears-as-earnings-loom/",
       "published": null
     },
     {
-      "id": "stockanalysis:4ffcc430dce11b99",
-      "titleEn": "Why did AstraZeneca shares fall 6% after Bristol Myers Squibb merger reports?",
+      "id": "stockanalysis:c8826e7cab9b512f",
+      "titleEn": "Gold prices remain stuck near $4,000 as ISM Manufacturing PMI hit four-year high",
+      "summaryEn": "(Kitco News) - The gold market has been unable to break its gravity with the $4,000 level, and according to some analysts, better-than-expected manufacturing data could put more pressure on the yellow metal as it gives the Federal Reserve room to focus on the persistent inflation threat. The Institute for Supply Management (ISM) announced on Monday that its Manufacturing Purchasing Managers Index fell to 55.6 in July, down from 53.3 in June, its highest reading since June of 2022. The headline number was higher than expected, as consensus forecasts looked for an unchanged reading of around 54. “In July, U.S. manufacturing activity remained in expansion territory, growing at its fastest rate in more than four years. Of the five subindexes that make up the PMI®, four grew faster compared to the previous month; the exception was the Inventories Index, which was down just 0.2 percentage point,” said Susan Spence, of the ISM Manufacturing Business Survey Committee.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-03/gold-prices-remain-stuck-near-4000-ism-manufacturing-pmi-hit-four-year-high",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7fcceface482c68f",
+      "titleEn": "SpaceX stock is jittery ahead of Q2 earnings: what to expect?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/03/why-did-astrazeneca-shares-fall-6-after-bristol-myers-squibb-merger-reports/",
+      "link": "https://invezz.com/news/2026/08/03/spacex-stock-is-jittery-ahead-of-q2-earnings-what-to-expect/",
       "published": null
     },
     {
-      "id": "stockanalysis:700b217e72c2cd52",
-      "titleEn": "Why Apple stock may thrive even if the next iPhone costs much more",
+      "id": "stockanalysis:5d7eb607ade9fafe",
+      "titleEn": "GameStop stock slides after $1.4B debt-for-stock swap raises dilution concerns",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/03/why-apple-stock-may-thrive-even-if-the-next-iphone-costs-much-more/",
+      "link": "https://invezz.com/news/2026/08/03/gamestop-stock-slides-after-1-4b-debt-for-stock-swap-raises-dilution-concerns/",
       "published": null
     },
     {
-      "id": "stockanalysis:3646f0afd2f1a19b",
-      "titleEn": "Alibaba shares jump 6% after launch of Qwen3.8-Max, its biggest AI model yet",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/03/alibaba-shares-jump-6-after-launch-of-qwen3-8-max-its-biggest-ai-model-yet/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d568a0b98ab65674",
-      "titleEn": "Micron, SanDisk, SK Hynix stocks: is Morgan Stanley's Korea call a buy signal?",
+      "id": "stockanalysis:1dee5b31bb74054f",
+      "titleEn": "Circle stock declines 6% in trading: here's why",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/03/micron-sandisk-sk-hynix-stocks-is-morgan-stanleys-korea-call-a-buy-signal/",
+      "link": "https://invezz.com/news/2026/08/03/circle-stock-declines-6-in-trading-heres-why/",
       "published": null
     },
     {
-      "id": "stockanalysis:330ea3a2d529638c",
-      "titleEn": "Kospi Index dives as Samsung, SK Hynix plunge: will it rebound this week?",
+      "id": "stockanalysis:5c1216d5f81a829d",
+      "titleEn": "Backblaze to Present at Ai4 2026 on Keeping GPUs Fed at Multimodal Scale",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/03/kospi-index-dives-as-samsung-sk-hynix-plunge-will-it-rebound-this-week/",
+      "link": "https://www.businesswire.com/news/home/20260803072886/en/Backblaze-to-Present-at-Ai4-2026-on-Keeping-GPUs-Fed-at-Multimodal-Scale/",
       "published": null
     },
     {
-      "id": "stockanalysis:61c9f02ed32aefe2",
-      "titleEn": "Nvidia stock: could a hidden materials catalyst drive the next rally?",
+      "id": "stockanalysis:7865991830cf93b0",
+      "titleEn": "e.l.f. and Bubble Launch Limited-Edition Hybrid Holy Grails in Skincare-Makeup Collaboration",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/03/nvidia-stock-could-a-hidden-materials-catalyst-drive-the-next-rally/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:20f8b201bed5e714",
-      "titleEn": "SK Hynix and Samsung stocks sink again: was Friday's record rally a brutal bull trap?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/03/sk-hynix-and-samsung-stocks-sink-again-was-fridays-record-rally-a-brutal-bull-trap/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a95e18cdcd52dbd5",
-      "titleEn": "Top Nikkei 225 Index catalysts this week: yen rescue, Softbank earnings and more",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/03/top-nikkei-225-index-catalysts-this-week-yen-rescue-softbank-earnings-and-more/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:606c2225c3b3ca21",
-      "titleEn": "OpenAI Finds More AI Agents Have Broken Confinement",
-      "summaryEn": "OpenAI has unearthed other examples of its autonomous artificial intelligence agents breaking containment. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a report Friday (July 31) by Reuters, which said this discovery came as the startup deepens its examination of a recent hacking incident at tech firm Hugging Face .",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/2026/openai-finds-more-ai-agents-have-broken-confinement/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7eac2feb4302beb0",
-      "titleEn": "Niagen Bioscience Selects Global Drug Development Pioneer Evotec to Advance Preclinical Development for NB4168",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260803679197/en/Niagen-Bioscience-Selects-Global-Drug-Development-Pioneer-Evotec-to-Advance-Preclinical-Development-for-NB4168/",
+      "link": "https://www.businesswire.com/news/home/20260803389571/en/e.l.f.-and-Bubble-Launch-Limited-Edition-Hybrid-Holy-Grails-in-Skincare-Makeup-Collaboration/",
       "published": null
     }
   ]
