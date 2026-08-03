@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-08-03T18:59:42.765827Z",
+  "generatedAt": "2026-08-03T22:36:57.700983Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:d52f301518e71191",
+      "titleEn": "Gold revaluation would pay Washington, not private holders, historian says",
+      "summaryEn": "(Kitco News) - America&#x27;s gold is still valued at $42.22 an ounce on the federal books, more than $1 trillion below market. The fund built from the last revaluation was buying yen on Friday. Not close to that. Exactly that. The figure is fixed by statute; it was set in 1973, but nobody has been able to buy an ounce of gold at that price since Richard Nixon was in office. .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-03/gold-revaluation-would-pay-washington-not-private-holders-historian-says",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:83dd7d1a286aed45",
+      "titleEn": "Gold steadies as oil slump cools inflation pressure, equities rally - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in late U.S. trading Monday, as a sharp drop in crude oil and lower Treasury yields offset reduced safe-haven demand tied to tentative U.S.-Iran diplomacy. At the time of writing, spot gold was trading near $4,056.60 an ounce, up 0.37%, while spot silver was trading at $57.940, up 0.87% on the session. The post-Fed setup remains rate-sensitive. The Federal Reserve held the target range for the federal funds rate at 3.50% to 3.75% last Wednesday in a 9-3 vote, with three officials favoring a 25-basis-point hike. Chair Kevin Warsh’s press conference left markets with a hawkish-hold read: no immediate tightening, but little comfort that inflation risks are fading fast enough to rule out another move. June PCE inflation later softened to 3.7% year over year, with core PCE at 3.3%, while initial jobless claims rose to 197,000 and July ISM manufacturing climbed to 55.6, its strongest reading since May 2022. Futures markets were still pricing a roughly two-thirds chance of a September rate hike, but that probability eased from pre-meeting levels as Monday’s oil selloff pulled yields lower. The Strait of Hormuz risk premium has cooled, not cleared. President Donald Trump held off planned strikes on Iran and pushed for talks aimed at reopening the waterway and limiting Tehran’s nuclear program, while Iran denied direct U.S. talks and said discussions with Oman over passage through the Strait were continuing. The market impact was clearest in crude: WTI fell to the high-$78-to-$79 area and Brent dropped to the low-$83 area after July’s war premium had carried Brent above $90. For gold , the read-through is mixed: less immediate haven demand from Gulf escalation, but lower oil-linked inflation risk, softer yields and a weaker dollar reduce some of the macro pressure on bullion.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-03/gold-steadies-oil-slump-cools-inflation-pressure-equities-rally-kitco-pm",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b572673ad0029776",
+      "titleEn": "Gold's $4,000 floor offers compelling value as investors look beyond Fed rhetoric – abrdn's Robert Minter",
+      "summaryEn": "(Kitco News) - The gold market&#x27;s months-long correction has created an attractive entry point for long-term investors, according to one market strategist, who says the metal&#x27;s ability to hold support around $4,000 an ounce reflects confidence that its structural bull market remains firmly intact. In an interview with Kitco News, Robert Minter, Director of Investment Strategy at abrdn, said that he expects investors to become less focused on the Federal Reserve&#x27;s hawkish rhetoric and more focused on the long-term fundamentals supporting gold , including rising government debt and resilient central bank demand. He added that even if the Federal Reserve does tighten its monetary policy, there is growing recognition that higher interest rates have practical limits.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-03/golds-4000-floor-offers-compelling-value-investors-look-beyond-fed-rhetoric",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bf103fb0e564e4d8",
+      "titleEn": "Palantir stock rallies as Q2 earnings reveal a Rule of 40 score of 155",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/03/palantir-stock-rallies-as-q2-earnings-reveal-a-rule-of-40-score-of-155/",
+      "published": null
+    },
     {
       "id": "stockanalysis:4f1e5588debc657f",
       "titleEn": "Nvidia stock climbs 3% as AI infrastructure demand boosts investor sentiment",
@@ -10,6 +46,15 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/08/03/nvidia-stock-climbs-3-as-ai-infrastructure-demand-boosts-investor-sentiment/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:68ba5e01aafc27ff",
+      "titleEn": "Gold remains vulnerable despite months-long correction as macro risk premium lingers; silver faces weaker industrial outlook – Sucden",
+      "summaryEn": "(Kitco News) - The gold market remains stuck in neutral around $4,000 an ounce, and one international brokerage firm expects prices to remain rangebound through the third quarter, even as resilient economic growth and higher real yields continue to pose downside risks. In its latest quarterly metals research report, commodity analysts at Sucden Financial said that despite gold&#x27;s nearly 30% drop from its January highs, valuations remain elevated relative to traditional macro drivers. \"Even after the correction, gold continues to trade above levels that would typically be implied by real yields and the U.S. dollar,\" the analysts said. \"This suggests that much of the geopolitical and macro risk premium accumulated earlier in the year has not yet been fully removed.\"",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-03/gold-remains-vulnerable-despite-months-long-correction-macro-risk-premium",
       "published": null
     },
     {
@@ -22,138 +67,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:3d4f9cda3cf250c6",
-      "titleEn": "Why Tesla stock is surging over 3% on Monday",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/08/03/why-tesla-stock-is-surging-over-3-on-monday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7958997780a3b37c",
-      "titleEn": "Why are investors loading up on Serve Robotics stock ahead of Q2 earnings?",
+      "id": "stockanalysis:ac1002e9161fe73d",
+      "titleEn": "ALNY Investors Have Opportunity to Join Alnylam Pharmaceuticals, Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/03/why-are-investors-loading-up-on-serve-robotics-stock-ahead-of-q2-earnings/",
+      "link": "https://www.businesswire.com/news/home/20260803807969/en/ALNY-Investors-Have-Opportunity-to-Join-Alnylam-Pharmaceuticals-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
-      "id": "stockanalysis:f2332b2725bb653d",
-      "titleEn": "Visa Inks $2.4 Billion Deal to Acquire Fraud Prevention Firm BioCatch",
-      "summaryEn": "Visa is set to acquire Israel-based fraud intelligence company BioCatch for $2.4 billion. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The all-cash deal, announced Monday (Aug. 3) aims to complement Visa’s cyber, fraud, risk and security solutions and help clients protect themselves and customers from a growing range of fraud-related threats.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/acquiring/2026/visa-inks-2-4-billion-deal-to-acquire-fraud-prevention-firm-biocatch/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:647c536ece75ca0a",
-      "titleEn": "AMZN stock jumps, pushing Amazon past $3T valuation as AWS calms AI spending fears",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/03/amzn-stock-jumps-pushing-amazon-past-3t-valuation-as-aws-calms-ai-spending-fears/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:caf794058eb64092",
-      "titleEn": "Mastercard Finalizes Purchase of Crypto Infrastructure Platform BVNK",
-      "summaryEn": "Mastercard says it has completed its acquisition of cryptocurrency infrastructure platform BVNK . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The deal is designed to help Mastercard offer more choice in “how people and businesses exchange value by enabling interoperability across fiat and digital currencies,” the company said in a Monday (Aug. 3) news release .",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.pymnts.com/news/acquiring/2026/mastercard-finalizes-purchase-of-crypto-infrastructure-platform-bvnk/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:addae2378875ca7c",
-      "titleEn": "Bristol-Myers stock: why AstraZeneca merger is unlikely to happen",
+      "id": "stockanalysis:c78f4f6e6cd1e523",
+      "titleEn": "Otter Tail Corporation Announces Second Quarter Results and Updates Annual Earnings Guidance",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/03/bristol-myers-stock-why-astrazeneca-merger-is-unlikely-to-happen/",
+      "link": "https://www.businesswire.com/news/home/20260803962952/en/Otter-Tail-Corporation-Announces-Second-Quarter-Results-and-Updates-Annual-Earnings-Guidance/",
       "published": null
     },
     {
-      "id": "stockanalysis:615fe9860d3bf7ef",
-      "titleEn": "Strategy (MSTR) stock rises as Saylor sells Bitcoin, boosts $4B USD reserve",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/03/strategy-mstr-stock-rises-as-saylor-sells-bitcoin-boosts-4b-usd-reserve/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9b2726a78473ad44",
-      "titleEn": "Why are Micron, SK Hynix, other memory stocks falling? CXMT might hold the clue",
+      "id": "stockanalysis:3421db261f585a4e",
+      "titleEn": "Banner Corporation Announces Stock Repurchase Program",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/03/why-are-micron-sk-hynix-other-memory-stocks-falling-cxmt-might-hold-the-clue/",
+      "link": "https://www.businesswire.com/news/home/20260803244958/en/Banner-Corporation-Announces-Stock-Repurchase-Program/",
       "published": null
     },
     {
-      "id": "stockanalysis:e0b91da2d625bae8",
-      "titleEn": "Wix stock has become a bargain amid SaaSpocalypse fears as earnings loom",
+      "id": "stockanalysis:b9994d4f29e38048",
+      "titleEn": "BOW Investors Have Opportunity to Join Bowhead Specialty Holdings Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/03/wix-stock-has-become-a-bargain-amid-saaspocalypse-fears-as-earnings-loom/",
+      "link": "https://www.businesswire.com/news/home/20260803192701/en/BOW-Investors-Have-Opportunity-to-Join-Bowhead-Specialty-Holdings-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
-      "id": "stockanalysis:c8826e7cab9b512f",
-      "titleEn": "Gold prices remain stuck near $4,000 as ISM Manufacturing PMI hit four-year high",
-      "summaryEn": "(Kitco News) - The gold market has been unable to break its gravity with the $4,000 level, and according to some analysts, better-than-expected manufacturing data could put more pressure on the yellow metal as it gives the Federal Reserve room to focus on the persistent inflation threat. The Institute for Supply Management (ISM) announced on Monday that its Manufacturing Purchasing Managers Index fell to 55.6 in July, down from 53.3 in June, its highest reading since June of 2022. The headline number was higher than expected, as consensus forecasts looked for an unchanged reading of around 54. “In July, U.S. manufacturing activity remained in expansion territory, growing at its fastest rate in more than four years. Of the five subindexes that make up the PMI®, four grew faster compared to the previous month; the exception was the Inventories Index, which was down just 0.2 percentage point,” said Susan Spence, of the ISM Manufacturing Business Survey Committee.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-03/gold-prices-remain-stuck-near-4000-ism-manufacturing-pmi-hit-four-year-high",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7fcceface482c68f",
-      "titleEn": "SpaceX stock is jittery ahead of Q2 earnings: what to expect?",
+      "id": "stockanalysis:9952b79afbbb5086",
+      "titleEn": "Triad Business Bank Welcomes Brent Burgess to Board of Directors",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/03/spacex-stock-is-jittery-ahead-of-q2-earnings-what-to-expect/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5d7eb607ade9fafe",
-      "titleEn": "GameStop stock slides after $1.4B debt-for-stock swap raises dilution concerns",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/03/gamestop-stock-slides-after-1-4b-debt-for-stock-swap-raises-dilution-concerns/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1dee5b31bb74054f",
-      "titleEn": "Circle stock declines 6% in trading: here's why",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/03/circle-stock-declines-6-in-trading-heres-why/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5c1216d5f81a829d",
-      "titleEn": "Backblaze to Present at Ai4 2026 on Keeping GPUs Fed at Multimodal Scale",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260803072886/en/Backblaze-to-Present-at-Ai4-2026-on-Keeping-GPUs-Fed-at-Multimodal-Scale/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7865991830cf93b0",
-      "titleEn": "e.l.f. and Bubble Launch Limited-Edition Hybrid Holy Grails in Skincare-Makeup Collaboration",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260803389571/en/e.l.f.-and-Bubble-Launch-Limited-Edition-Hybrid-Holy-Grails-in-Skincare-Makeup-Collaboration/",
+      "link": "https://www.businesswire.com/news/home/20260803623269/en/Triad-Business-Bank-Welcomes-Brent-Burgess-to-Board-of-Directors/",
       "published": null
     }
   ]
