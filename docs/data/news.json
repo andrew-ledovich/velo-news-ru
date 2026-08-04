@@ -1,132 +1,159 @@
 {
-  "generatedAt": "2026-08-04T08:07:19.861274Z",
+  "generatedAt": "2026-08-04T16:23:07.427766Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 17,
   "items": [
     {
-      "id": "stockanalysis:8c777f528d20d631",
-      "titleEn": "Snap stock jumps as World Cup ads, AI tools drive earnings beat and strong outlook",
+      "id": "stockanalysis:9d221eeff52fdda0",
+      "titleEn": "SK Hynix stock rises 5% as Wall Street sees AI memory upside",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/04/snap-stock-jumps-as-world-cup-ads-ai-tools-drive-earnings-beat-and-strong-outlook/",
+      "link": "https://invezz.com/news/2026/08/04/sk-hynix-stock-rises-5-as-wall-street-sees-ai-memory-upside/",
       "published": null
     },
     {
-      "id": "stockanalysis:fce3381c3ff7b016",
-      "titleEn": "Michael Burry's latest bet puts Nvidia stock and Micron's AI boom on trial",
+      "id": "stockanalysis:efac66096b77ccea",
+      "titleEn": "McDonald's earnings: what it tells us about US consumer strength",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/04/mcdonalds-earnings-what-it-tells-us-about-us-consumer-strength/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e5869acdfac2ef10",
+      "titleEn": "Why AMD stock is surging over 7% ahead of earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/04/why-amd-stock-is-surging-over-7-ahead-of-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ec5b3a30f98c1b9e",
+      "titleEn": "Coherent stock jumps on report of US ban on Chinese AI components",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/04/michael-burrys-latest-bet-puts-nvidia-stock-and-microns-ai-boom-on-trial/",
+      "link": "https://invezz.com/news/2026/08/04/coherent-stock-jumps-on-report-of-us-ban-on-chinese-ai-components/",
       "published": null
     },
     {
-      "id": "stockanalysis:969f185ac0cf6b9a",
-      "titleEn": "Amazon stock dips after $3 trillion: is Jeff Bezos selling at the perfect moment?",
+      "id": "stockanalysis:b6990959c2bc4a3b",
+      "titleEn": "Marvell Technology stock: what analysts expect ahead of earnings",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/04/amazon-stock-dips-after-3-trillion-is-jeff-bezos-selling-at-the-perfect-moment/",
+      "link": "https://invezz.com/news/2026/08/04/marvell-technology-stock-what-analysts-expect-ahead-of-earnings/",
       "published": null
     },
     {
-      "id": "stockanalysis:589bda638593cbf6",
-      "titleEn": "Why Samsung and SK Hynix stocks are failing to follow Wall Street's chip rebound",
+      "id": "stockanalysis:72a1c8616c8f0c2d",
+      "titleEn": "Gold price catching a bid as JOLTS job openings drop to 7.36 million",
+      "summaryEn": "(Kitco News) - The gold market continues to hold on to solid gains and could attract renewed buying as the U.S. labor market continues to show signs of cooling, with the number of available jobs dropping more than expected in June. June job openings—a measure of labor demand—fell to 7.36 million, down from May’s downwardly revised 7.54 million, according to the Labor Department’s monthly Job Openings and Labor Turnover Survey (JOLTS). The figure also came in weaker than expected, as economists had forecast job openings to decline to 7.44 million. The gold market caught a modest bid in its initial reaction to the disappointing labor market data. Spot gold last traded at $4,085.80 an ounce, up 0.75% on the day.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-04/gold-price-catching-bid-jolts-job-openings-drop-736-million",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fbaa4fd9e9d91de2",
+      "titleEn": "Palantir stock surges 120% as Q2 earnings beat spurs analyst upgrades",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/04/why-samsung-and-sk-hynix-stocks-are-failing-to-follow-wall-streets-chip-rebound/",
+      "link": "https://invezz.com/news/2026/08/04/palantir-stock-surges-120-as-q2-earnings-beat-spurs-analyst-upgrades/",
       "published": null
     },
     {
-      "id": "stockanalysis:b23ba4ead345c816",
-      "titleEn": "JPMorgan names 3 stocks worth buying ahead of August earnings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/04/jpmorgan-names-3-stocks-worth-buying-ahead-of-august-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d52f301518e71191",
-      "titleEn": "Gold revaluation would pay Washington, not private holders, historian says",
-      "summaryEn": "(Kitco News) - America&#x27;s gold is still valued at $42.22 an ounce on the federal books, more than $1 trillion below market. The fund built from the last revaluation was buying yen on Friday. Not close to that. Exactly that. The figure is fixed by statute; it was set in 1973, but nobody has been able to buy an ounce of gold at that price since Richard Nixon was in office. .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-03/gold-revaluation-would-pay-washington-not-private-holders-historian-says",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:83dd7d1a286aed45",
-      "titleEn": "Gold steadies as oil slump cools inflation pressure, equities rally - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in late U.S. trading Monday, as a sharp drop in crude oil and lower Treasury yields offset reduced safe-haven demand tied to tentative U.S.-Iran diplomacy. At the time of writing, spot gold was trading near $4,056.60 an ounce, up 0.37%, while spot silver was trading at $57.940, up 0.87% on the session. The post-Fed setup remains rate-sensitive. The Federal Reserve held the target range for the federal funds rate at 3.50% to 3.75% last Wednesday in a 9-3 vote, with three officials favoring a 25-basis-point hike. Chair Kevin Warsh’s press conference left markets with a hawkish-hold read: no immediate tightening, but little comfort that inflation risks are fading fast enough to rule out another move. June PCE inflation later softened to 3.7% year over year, with core PCE at 3.3%, while initial jobless claims rose to 197,000 and July ISM manufacturing climbed to 55.6, its strongest reading since May 2022. Futures markets were still pricing a roughly two-thirds chance of a September rate hike, but that probability eased from pre-meeting levels as Monday’s oil selloff pulled yields lower. The Strait of Hormuz risk premium has cooled, not cleared. President Donald Trump held off planned strikes on Iran and pushed for talks aimed at reopening the waterway and limiting Tehran’s nuclear program, while Iran denied direct U.S. talks and said discussions with Oman over passage through the Strait were continuing. The market impact was clearest in crude: WTI fell to the high-$78-to-$79 area and Brent dropped to the low-$83 area after July’s war premium had carried Brent above $90. For gold , the read-through is mixed: less immediate haven demand from Gulf escalation, but lower oil-linked inflation risk, softer yields and a weaker dollar reduce some of the macro pressure on bullion.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-03/gold-steadies-oil-slump-cools-inflation-pressure-equities-rally-kitco-pm",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b572673ad0029776",
-      "titleEn": "Gold's $4,000 floor offers compelling value as investors look beyond Fed rhetoric – abrdn's Robert Minter",
-      "summaryEn": "(Kitco News) - The gold market&#x27;s months-long correction has created an attractive entry point for long-term investors, according to one market strategist, who says the metal&#x27;s ability to hold support around $4,000 an ounce reflects confidence that its structural bull market remains firmly intact. In an interview with Kitco News, Robert Minter, Director of Investment Strategy at abrdn, said that he expects investors to become less focused on the Federal Reserve&#x27;s hawkish rhetoric and more focused on the long-term fundamentals supporting gold , including rising government debt and resilient central bank demand. He added that even if the Federal Reserve does tighten its monetary policy, there is growing recognition that higher interest rates have practical limits.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-03/golds-4000-floor-offers-compelling-value-investors-look-beyond-fed-rhetoric",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bf103fb0e564e4d8",
-      "titleEn": "Palantir stock rallies as Q2 earnings reveal a Rule of 40 score of 155",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/03/palantir-stock-rallies-as-q2-earnings-reveal-a-rule-of-40-score-of-155/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5a485cf2dbb192f7",
-      "titleEn": "German Firms Reshape Hybrid Clouds for AI Workloads",
+      "id": "stockanalysis:403dfb2adef0bccc",
+      "titleEn": "Dow opens nearly 700 points higher as Palantir, Caterpillar fuel AI rally",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260804743655/en/German-Firms-Reshape-Hybrid-Clouds-for-AI-Workloads/",
+      "link": "https://invezz.com/news/2026/08/04/dow-opens-nearly-700-points-higher-as-palantir-caterpillar-fuel-ai-rally/",
       "published": null
     },
     {
-      "id": "stockanalysis:cab0a8650f8dffd2",
-      "titleEn": "Kioxia Showcases Flash Storage Innovations for the AI Era at FMS 2026",
+      "id": "stockanalysis:35fb57a64fd5f398",
+      "titleEn": "Gold firms as Fed uncertainty, China ETF demand offset yield pressure - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices are modestly firmer and spot silver prices are sharply higher in early U.S. trading Tuesday, as traders balanced a dollar rebound, rising Treasury yields, firm U.S. activity data and reduced Middle East inflation risk. At the time of writing, spot gold was trading near $4,058.90 an ounce, up 0.11%, while spot silver was trading at $59.150, up 1.86% on the session. The post-Fed setup remains rate-sensitive. The Federal Reserve held the target range for the federal funds rate at 3.50% to 3.75% on July 29 in a 9-3 vote . Chair Kevin Warsh’s press conference left traders with less forward guidance rather than a clear easing path, and the market is now treating each data release as a live input for September and December pricing. June PCE later showed headline prices down 0.1% on the month and up 3.7% from a year earlier, while core PCE rose 0.1% on the month and 3.3% year over year. July ISM manufacturing then rose to 55.6, its strongest reading since 2022, reinforcing the view that growth is not soft enough to take another Fed hike off the table. Alex Kuptsikevich, chief market analyst at FxPro, said the U.S. dollar has found a floor after stronger manufacturing activity and a renewed artificial intelligence bid helped pull capital back toward U.S. risk assets. He said the S&P 500 has approached a record high and the three-day increase in the market capitalization of the Magnificent Seven was the largest in history, reviving the “American exceptionalism” trade.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-08-04/gold-firms-fed-uncertainty-china-etf-demand-offset-yield-pressure-kitco-am",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:36ab363a6f78274b",
+      "titleEn": "SpaceX stock rises ahead of earnings: what are options and technicals signaling?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/04/spacex-stock-rises-ahead-of-earnings-what-are-options-and-technicals-signaling/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a5be4f9bb0959a10",
+      "titleEn": "SpaceX earnings: Options market sees $225B valuation swing",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/04/spacex-earnings-options-market-sees-225b-valuation-swing/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1d0c5220e0dfe04f",
+      "titleEn": "Here's why Nvidia-backed Lumentum stock is jumping today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/04/heres-why-nvidia-backed-lumentum-stock-is-jumping-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:19e646693ea3640a",
+      "titleEn": "CAT stock rises 9% on earnings beat, revenue forecast as AI demand boosts power unit",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260803680678/en/Kioxia-Showcases-Flash-Storage-Innovations-for-the-AI-Era-at-FMS-2026/",
+      "link": "https://invezz.com/news/2026/08/04/cat-stock-rises-9-on-earnings-beat-revenue-forecast-as-ai-demand-boosts-power-unit/",
       "published": null
     },
     {
-      "id": "stockanalysis:584bc1a8ef593794",
-      "titleEn": "TOHKnet and Adtran conduct Japan's first 50G PON trial on a live network",
+      "id": "stockanalysis:ee6f73e012fda41c",
+      "titleEn": "VOO and SPY: Top reasons these S&amp;P 500 ETFs could soar even higher",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260803353435/en/TOHKnet-and-Adtran-conduct-Japan%E2%80%99s-first-50G-PON-trial-on-a-live-network/",
+      "link": "https://invezz.com/news/2026/08/04/voo-and-spy-top-reasons-these-sp-500-etfs-could-soar-even-higher/",
       "published": null
     },
     {
-      "id": "stockanalysis:852c743ba91b41f2",
-      "titleEn": "Evexta Bio Announces Clinical Trial Collaboration and Supply Agreement with Roche to Evaluate Rupitasertib in Combination with a Selective Estrogen Receptor Degrader in Advanced / Metastatic Breast Cancer",
+      "id": "stockanalysis:9f5baec3281bb31f",
+      "titleEn": "Versant Diagnostics Acquires American Dermatopathology Laboratory, LLC, and Welcomes Distinguished Dermatopathologist H. Nicholas Shamma, MD",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260804789057/en/Evexta-Bio-Announces-Clinical-Trial-Collaboration-and-Supply-Agreement-with-Roche-to-Evaluate-Rupitasertib-in-Combination-with-a-Selective-Estrogen-Receptor-Degrader-in-Advanced-Metastatic-Breast-Cancer/",
+      "link": "https://www.businesswire.com/news/home/20260804330100/en/Versant-Diagnostics-Acquires-American-Dermatopathology-Laboratory-LLC-and-Welcomes-Distinguished-Dermatopathologist-H.-Nicholas-Shamma-MD/",
       "published": null
     },
     {
-      "id": "stockanalysis:969f143b8db513f1",
-      "titleEn": "Bending Spoons has entered into a definitive agreement to acquire Airtable for $1.285 billion",
+      "id": "stockanalysis:3f9c6169b1f5a66d",
+      "titleEn": "Cloud Security Alliance Expands Frontier AI Leadership with New Research and Community Partnerships",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260804270629/en/Cloud-Security-Alliance-Expands-Frontier-AI-Leadership-with-New-Research-and-Community-Partnerships/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7da28df409df4a6e",
+      "titleEn": "Exelon Secures More Than $1 Billion in Customer Protections Through Pioneering Transmission Security Agreements",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260730994716/en/Bending-Spoons-has-entered-into-a-definitive-agreement-to-acquire-Airtable-for-1.285-billion/",
+      "link": "https://www.businesswire.com/news/home/20260804419797/en/Exelon-Secures-More-Than-1-Billion-in-Customer-Protections-Through-Pioneering-Transmission-Security-Agreements/",
       "published": null
     }
   ]
