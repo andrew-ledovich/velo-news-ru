@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-08-03T22:36:57.700983Z",
+  "generatedAt": "2026-08-04T08:07:19.861274Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:8c777f528d20d631",
+      "titleEn": "Snap stock jumps as World Cup ads, AI tools drive earnings beat and strong outlook",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/04/snap-stock-jumps-as-world-cup-ads-ai-tools-drive-earnings-beat-and-strong-outlook/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fce3381c3ff7b016",
+      "titleEn": "Michael Burry's latest bet puts Nvidia stock and Micron's AI boom on trial",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/04/michael-burrys-latest-bet-puts-nvidia-stock-and-microns-ai-boom-on-trial/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:969f185ac0cf6b9a",
+      "titleEn": "Amazon stock dips after $3 trillion: is Jeff Bezos selling at the perfect moment?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/04/amazon-stock-dips-after-3-trillion-is-jeff-bezos-selling-at-the-perfect-moment/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:589bda638593cbf6",
+      "titleEn": "Why Samsung and SK Hynix stocks are failing to follow Wall Street's chip rebound",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/04/why-samsung-and-sk-hynix-stocks-are-failing-to-follow-wall-streets-chip-rebound/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b23ba4ead345c816",
+      "titleEn": "JPMorgan names 3 stocks worth buying ahead of August earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/04/jpmorgan-names-3-stocks-worth-buying-ahead-of-august-earnings/",
+      "published": null
+    },
     {
       "id": "stockanalysis:d52f301518e71191",
       "titleEn": "Gold revaluation would pay Washington, not private holders, historian says",
@@ -40,75 +85,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:4f1e5588debc657f",
-      "titleEn": "Nvidia stock climbs 3% as AI infrastructure demand boosts investor sentiment",
+      "id": "stockanalysis:5a485cf2dbb192f7",
+      "titleEn": "German Firms Reshape Hybrid Clouds for AI Workloads",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/03/nvidia-stock-climbs-3-as-ai-infrastructure-demand-boosts-investor-sentiment/",
+      "link": "https://www.businesswire.com/news/home/20260804743655/en/German-Firms-Reshape-Hybrid-Clouds-for-AI-Workloads/",
       "published": null
     },
     {
-      "id": "stockanalysis:68ba5e01aafc27ff",
-      "titleEn": "Gold remains vulnerable despite months-long correction as macro risk premium lingers; silver faces weaker industrial outlook – Sucden",
-      "summaryEn": "(Kitco News) - The gold market remains stuck in neutral around $4,000 an ounce, and one international brokerage firm expects prices to remain rangebound through the third quarter, even as resilient economic growth and higher real yields continue to pose downside risks. In its latest quarterly metals research report, commodity analysts at Sucden Financial said that despite gold&#x27;s nearly 30% drop from its January highs, valuations remain elevated relative to traditional macro drivers. \"Even after the correction, gold continues to trade above levels that would typically be implied by real yields and the U.S. dollar,\" the analysts said. \"This suggests that much of the geopolitical and macro risk premium accumulated earlier in the year has not yet been fully removed.\"",
+      "id": "stockanalysis:cab0a8650f8dffd2",
+      "titleEn": "Kioxia Showcases Flash Storage Innovations for the AI Era at FMS 2026",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-03/gold-remains-vulnerable-despite-months-long-correction-macro-risk-premium",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260803680678/en/Kioxia-Showcases-Flash-Storage-Innovations-for-the-AI-Era-at-FMS-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:65d72e340447376e",
-      "titleEn": "Corning stock jumps 5% after this analyst sees opportunity after recent sell off",
+      "id": "stockanalysis:584bc1a8ef593794",
+      "titleEn": "TOHKnet and Adtran conduct Japan's first 50G PON trial on a live network",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/03/corning-stock-jumps-5-after-this-analyst-sees-opportunity-after-recent-sell-off/",
+      "link": "https://www.businesswire.com/news/home/20260803353435/en/TOHKnet-and-Adtran-conduct-Japan%E2%80%99s-first-50G-PON-trial-on-a-live-network/",
       "published": null
     },
     {
-      "id": "stockanalysis:ac1002e9161fe73d",
-      "titleEn": "ALNY Investors Have Opportunity to Join Alnylam Pharmaceuticals, Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:852c743ba91b41f2",
+      "titleEn": "Evexta Bio Announces Clinical Trial Collaboration and Supply Agreement with Roche to Evaluate Rupitasertib in Combination with a Selective Estrogen Receptor Degrader in Advanced / Metastatic Breast Cancer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260803807969/en/ALNY-Investors-Have-Opportunity-to-Join-Alnylam-Pharmaceuticals-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20260804789057/en/Evexta-Bio-Announces-Clinical-Trial-Collaboration-and-Supply-Agreement-with-Roche-to-Evaluate-Rupitasertib-in-Combination-with-a-Selective-Estrogen-Receptor-Degrader-in-Advanced-Metastatic-Breast-Cancer/",
       "published": null
     },
     {
-      "id": "stockanalysis:c78f4f6e6cd1e523",
-      "titleEn": "Otter Tail Corporation Announces Second Quarter Results and Updates Annual Earnings Guidance",
+      "id": "stockanalysis:969f143b8db513f1",
+      "titleEn": "Bending Spoons has entered into a definitive agreement to acquire Airtable for $1.285 billion",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260803962952/en/Otter-Tail-Corporation-Announces-Second-Quarter-Results-and-Updates-Annual-Earnings-Guidance/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3421db261f585a4e",
-      "titleEn": "Banner Corporation Announces Stock Repurchase Program",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260803244958/en/Banner-Corporation-Announces-Stock-Repurchase-Program/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b9994d4f29e38048",
-      "titleEn": "BOW Investors Have Opportunity to Join Bowhead Specialty Holdings Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260803192701/en/BOW-Investors-Have-Opportunity-to-Join-Bowhead-Specialty-Holdings-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9952b79afbbb5086",
-      "titleEn": "Triad Business Bank Welcomes Brent Burgess to Board of Directors",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260803623269/en/Triad-Business-Bank-Welcomes-Brent-Burgess-to-Board-of-Directors/",
+      "link": "https://www.businesswire.com/news/home/20260730994716/en/Bending-Spoons-has-entered-into-a-definitive-agreement-to-acquire-Airtable-for-1.285-billion/",
       "published": null
     }
   ]
