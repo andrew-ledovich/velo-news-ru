@@ -1,159 +1,78 @@
 {
-  "generatedAt": "2026-08-04T16:23:07.427766Z",
+  "generatedAt": "2026-08-04T20:55:43.392731Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 8,
   "items": [
     {
-      "id": "stockanalysis:9d221eeff52fdda0",
-      "titleEn": "SK Hynix stock rises 5% as Wall Street sees AI memory upside",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/04/sk-hynix-stock-rises-5-as-wall-street-sees-ai-memory-upside/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:efac66096b77ccea",
-      "titleEn": "McDonald's earnings: what it tells us about US consumer strength",
+      "id": "stockanalysis:f8f3885dfd494ba1",
+      "titleEn": "SpaceX stock sinks despite headline Q2 beat",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/04/mcdonalds-earnings-what-it-tells-us-about-us-consumer-strength/",
+      "link": "https://invezz.com/news/2026/08/04/spacex-stock-sinks-despite-headline-q2-beat/",
       "published": null
     },
     {
-      "id": "stockanalysis:e5869acdfac2ef10",
-      "titleEn": "Why AMD stock is surging over 7% ahead of earnings",
+      "id": "stockanalysis:bb3eecafa82a5894",
+      "titleEn": "Gold can recover despite higher real yields as rate pressures ease, says Jefferies",
+      "summaryEn": "(Kitco News) - Gold prices have been chained to $4,000 an ounce as persistent inflation forces markets to price in rate hikes, raising the opportunity cost of holding a non-yielding asset. However, according to one investment firm, even in this difficult environment, gold prices could still move higher next year. The gold market has struggled since the U.S. and Israel started a war with Iran, which shut down the Strait of Hormuz, disrupting the supply of roughly 30% of the world&#x27;s oil. The ongoing conflict and ensuing global energy crisis have kept oil prices elevated, fueling new inflation fears. As a result, markets are pricing in the potential for two rate hikes this year, with the first increase expected in September. The Federal Reserve has reinforced these market expectations after three committee members voted to raise interest rates following the July monetary policy meeting.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-04/gold-can-recover-despite-higher-real-yields-rate-pressures-ease-says",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d295cb6d2431b420",
+      "titleEn": "Novo Nordisk stock falls despite outlook hike as Wegovy sales miss hopes",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/04/why-amd-stock-is-surging-over-7-ahead-of-earnings/",
+      "link": "https://invezz.com/news/2026/08/04/novo-nordisk-stock-falls-despite-outlook-hike-as-wegovy-sales-miss-hopes/",
       "published": null
     },
     {
-      "id": "stockanalysis:ec5b3a30f98c1b9e",
-      "titleEn": "Coherent stock jumps on report of US ban on Chinese AI components",
-      "summaryEn": null,
+      "id": "stockanalysis:d1809689caf34a27",
+      "titleEn": "Polymarket Aims to Double Valuation With $1 Billion Funding Round",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The prediction markets company is in early discussions with prospective investors to raise about $1 billion, Bloomberg News reported Tuesday (Aug. 4), citing sources familiar with the matter. Assuming the round closes, Polymarket will be worth more than double the amount it was when it raised capital at a valuation of $9 billion last October, the report said. The company completed a round at a $15 billion valuation in April. Bloomberg added that Polymarket’s main competitor Kalshi had said in May it had landed an investment, placing its value at $22 billion . Kalshi has outpaced Polymarket’s growth since the start of the year as the latter company suffered operational and legal issues, the report said.",
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/04/coherent-stock-jumps-on-report-of-us-ban-on-chinese-ai-components/",
+      "topic": "CRYPTO",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/polymarket-aims-to-double-valuation-with-1-billion-funding-round/",
       "published": null
     },
     {
-      "id": "stockanalysis:b6990959c2bc4a3b",
-      "titleEn": "Marvell Technology stock: what analysts expect ahead of earnings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/04/marvell-technology-stock-what-analysts-expect-ahead-of-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:72a1c8616c8f0c2d",
-      "titleEn": "Gold price catching a bid as JOLTS job openings drop to 7.36 million",
-      "summaryEn": "(Kitco News) - The gold market continues to hold on to solid gains and could attract renewed buying as the U.S. labor market continues to show signs of cooling, with the number of available jobs dropping more than expected in June. June job openings—a measure of labor demand—fell to 7.36 million, down from May’s downwardly revised 7.54 million, according to the Labor Department’s monthly Job Openings and Labor Turnover Survey (JOLTS). The figure also came in weaker than expected, as economists had forecast job openings to decline to 7.44 million. The gold market caught a modest bid in its initial reaction to the disappointing labor market data. Spot gold last traded at $4,085.80 an ounce, up 0.75% on the day.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-04/gold-price-catching-bid-jolts-job-openings-drop-736-million",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fbaa4fd9e9d91de2",
-      "titleEn": "Palantir stock surges 120% as Q2 earnings beat spurs analyst upgrades",
+      "id": "stockanalysis:f2d1a9393ada4b23",
+      "titleEn": "Why is CoreWeave stock rising 8% today",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/04/palantir-stock-surges-120-as-q2-earnings-beat-spurs-analyst-upgrades/",
+      "link": "https://invezz.com/news/2026/08/04/why-is-coreweave-stock-rising-8-today/",
       "published": null
     },
     {
-      "id": "stockanalysis:403dfb2adef0bccc",
-      "titleEn": "Dow opens nearly 700 points higher as Palantir, Caterpillar fuel AI rally",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/04/dow-opens-nearly-700-points-higher-as-palantir-caterpillar-fuel-ai-rally/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:35fb57a64fd5f398",
-      "titleEn": "Gold firms as Fed uncertainty, China ETF demand offset yield pressure - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices are modestly firmer and spot silver prices are sharply higher in early U.S. trading Tuesday, as traders balanced a dollar rebound, rising Treasury yields, firm U.S. activity data and reduced Middle East inflation risk. At the time of writing, spot gold was trading near $4,058.90 an ounce, up 0.11%, while spot silver was trading at $59.150, up 1.86% on the session. The post-Fed setup remains rate-sensitive. The Federal Reserve held the target range for the federal funds rate at 3.50% to 3.75% on July 29 in a 9-3 vote . Chair Kevin Warsh’s press conference left traders with less forward guidance rather than a clear easing path, and the market is now treating each data release as a live input for September and December pricing. June PCE later showed headline prices down 0.1% on the month and up 3.7% from a year earlier, while core PCE rose 0.1% on the month and 3.3% year over year. July ISM manufacturing then rose to 55.6, its strongest reading since 2022, reinforcing the view that growth is not soft enough to take another Fed hike off the table. Alex Kuptsikevich, chief market analyst at FxPro, said the U.S. dollar has found a floor after stronger manufacturing activity and a renewed artificial intelligence bid helped pull capital back toward U.S. risk assets. He said the S&P 500 has approached a record high and the three-day increase in the market capitalization of the Magnificent Seven was the largest in history, reviving the “American exceptionalism” trade.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-08-04/gold-firms-fed-uncertainty-china-etf-demand-offset-yield-pressure-kitco-am",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:36ab363a6f78274b",
-      "titleEn": "SpaceX stock rises ahead of earnings: what are options and technicals signaling?",
+      "id": "stockanalysis:6e36471fdc524d45",
+      "titleEn": "Why Nvidia stock is up around 2% on Tuesday",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/04/spacex-stock-rises-ahead-of-earnings-what-are-options-and-technicals-signaling/",
+      "link": "https://invezz.com/news/2026/08/04/why-nvidia-stock-is-up-around-2-on-tuesday/",
       "published": null
     },
     {
-      "id": "stockanalysis:a5be4f9bb0959a10",
-      "titleEn": "SpaceX earnings: Options market sees $225B valuation swing",
+      "id": "stockanalysis:3bf89e98879a602b",
+      "titleEn": "Mattel Reports Second Quarter 2026 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/04/spacex-earnings-options-market-sees-225b-valuation-swing/",
+      "link": "https://www.businesswire.com/news/home/20260804279545/en/Mattel-Reports-Second-Quarter-2026-Financial-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:1d0c5220e0dfe04f",
-      "titleEn": "Here's why Nvidia-backed Lumentum stock is jumping today",
+      "id": "stockanalysis:e243bde460eb15d6",
+      "titleEn": "NGL Energy Partners LP Announces First Quarter Fiscal 2027 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/04/heres-why-nvidia-backed-lumentum-stock-is-jumping-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:19e646693ea3640a",
-      "titleEn": "CAT stock rises 9% on earnings beat, revenue forecast as AI demand boosts power unit",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/04/cat-stock-rises-9-on-earnings-beat-revenue-forecast-as-ai-demand-boosts-power-unit/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ee6f73e012fda41c",
-      "titleEn": "VOO and SPY: Top reasons these S&amp;P 500 ETFs could soar even higher",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/04/voo-and-spy-top-reasons-these-sp-500-etfs-could-soar-even-higher/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9f5baec3281bb31f",
-      "titleEn": "Versant Diagnostics Acquires American Dermatopathology Laboratory, LLC, and Welcomes Distinguished Dermatopathologist H. Nicholas Shamma, MD",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260804330100/en/Versant-Diagnostics-Acquires-American-Dermatopathology-Laboratory-LLC-and-Welcomes-Distinguished-Dermatopathologist-H.-Nicholas-Shamma-MD/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3f9c6169b1f5a66d",
-      "titleEn": "Cloud Security Alliance Expands Frontier AI Leadership with New Research and Community Partnerships",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260804270629/en/Cloud-Security-Alliance-Expands-Frontier-AI-Leadership-with-New-Research-and-Community-Partnerships/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7da28df409df4a6e",
-      "titleEn": "Exelon Secures More Than $1 Billion in Customer Protections Through Pioneering Transmission Security Agreements",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260804419797/en/Exelon-Secures-More-Than-1-Billion-in-Customer-Protections-Through-Pioneering-Transmission-Security-Agreements/",
+      "link": "https://www.businesswire.com/news/home/20260804997042/en/NGL-Energy-Partners-LP-Announces-First-Quarter-Fiscal-2027-Financial-Results/",
       "published": null
     }
   ]
