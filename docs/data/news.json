@@ -1,60 +1,114 @@
 {
-  "generatedAt": "2026-08-05T12:27:49.625527Z",
+  "generatedAt": "2026-08-05T18:08:45.139558Z",
   "sourceCount": 1,
-  "count": 6,
+  "count": 12,
   "items": [
     {
-      "id": "stockanalysis:4140ca164adda2d4",
-      "titleEn": "NVDA gains, AMD resumes fall as Musk says SpaceX to build 'exclusively' with Nvidia",
+      "id": "stockanalysis:b05313fcc32b8b7c",
+      "titleEn": "Lucid stock sinks after Q2 miss as losses, cash burn overshadow revenue",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/05/nvda-gains-amd-resumes-fall-as-musk-says-spacex-to-build-exclusively-with-nvidia/",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/08/05/lucid-stock-sinks-after-q2-miss-as-losses-cash-burn-overshadow-revenue/",
       "published": null
     },
     {
-      "id": "stockanalysis:f3db4b300e5e8c8a",
-      "titleEn": "ANET stock jumps after strong Arista Networks earnings, but risks remain",
+      "id": "stockanalysis:9361206fc08feecf",
+      "titleEn": "UBER stock is slipping and it's not entirely about Q2 earnings",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/05/anet-stock-jumps-after-strong-arista-networks-earnings-but-risks-remain/",
+      "link": "https://invezz.com/news/2026/08/05/uber-stock-is-slipping-and-its-not-entirely-about-q2-earnings/",
       "published": null
     },
     {
-      "id": "stockanalysis:049b02ab93587e17",
-      "titleEn": "Santander's $12 Billion Webster Bank Deal Wins Fed Approval",
-      "summaryEn": "Santander says the Federal Reserve has approved its acquisition of Webster Bank . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The $12 billion deal for the Connecticut-based Webster is now expected to close Aug. 20, Santander said in a news release late Tuesday (Aug. 4).",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/acquiring/2026/santanders-12-billion-webster-bank-deal-wins-fed-approval/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:592b9b5bfae9a274",
-      "titleEn": "SanDisk stock could move $212 after earnings as NAND bulls face tougher test",
+      "id": "stockanalysis:061cdb3f5a595b7b",
+      "titleEn": "Shopify Q2 earnings: three broader signals that matter more than headline numbers",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/05/sandisk-stock-could-move-212-after-earnings-as-nand-bulls-face-tougher-test/",
+      "link": "https://invezz.com/news/2026/08/05/shopify-q2-earnings-three-broader-signals-that-matter-more-than-headline-numbers/",
       "published": null
     },
     {
-      "id": "stockanalysis:e3d317fe2c89791b",
-      "titleEn": "How SpaceX's earnings call turned bullish for Micron, SK Hynix, other memory stocks",
-      "summaryEn": null,
+      "id": "stockanalysis:59fc31b412ca92ab",
+      "titleEn": "'It's our time': Sunshine Silver CEO says silver miners are poised to shine as AI fuels demand",
+      "summaryEn": "(Kitco Commentary) - Artificial intelligence may be dominating investor conversations, but one mining executive said that investors are increasingly recognizing a simple reality: AI cannot exist without the metals that power it. In an interview with Kitco News, Heather White, CEO and Director of Sunshine Silver Mining & Refining, said that she was pleased with the results of her company’s IPO last month. She said investor reception reinforced a growing appreciation that silver producers are becoming strategically important as demand for critical minerals continues to accelerate. The company completed its IPO in June, raising gross proceeds of approximately $310.5 million after underwriters exercised their full over-allotment option. Sunshine sold 23 million shares at $13.50 each and began trading on the New York Stock Exchange under the ticker SSMR.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/05/how-spacexs-earnings-call-turned-bullish-for-micron-sk-hynix-other-memory-stocks/",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-08-05/its-our-time-sunshine-silver-ceo-says-silver-miners-are-poised-shine-ai",
       "published": null
     },
     {
-      "id": "stockanalysis:3f6c65e079e1f578",
-      "titleEn": "SpaceX stock's first earnings expose a liability hiding behind Starlink growth",
+      "id": "stockanalysis:0faba06224c0f6db",
+      "titleEn": "Why analysts are bullish on AMD despite earnings miss",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/05/spacex-stocks-first-earnings-expose-a-liability-hiding-behind-starlink-growth/",
+      "link": "https://invezz.com/news/2026/08/05/why-analysts-are-bullish-on-amd-despite-earnings-miss/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6bd5720d1f4809f1",
+      "titleEn": "SpaceX stock is sinking 7% after earnings: can it make a comeback?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/05/spacex-stock-is-sinking-7-after-earnings-can-it-make-a-comeback/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:11eefc3ec9134ad5",
+      "titleEn": "Realty Income, Energy Transfer, JEPQ, and SCHD: A good portfolio for income?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/05/realty-income-energy-transfer-jepq-and-schd-a-good-portfolio-for-income/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cc103f7c511ec4fe",
+      "titleEn": "Broadcom stock is on the cusp of a breakout despite lingering valuation concerns",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/05/broadcom-stock-is-on-the-cusp-of-a-breakout-despite-lingering-valuation-concerns/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:011eca19569debb9",
+      "titleEn": "Eli Lilly stock surges 6% after Q2 earnings beat driven by Mounjaro, Zepbound",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/05/eli-lilly-stock-surges-6-after-q2-earnings-beat-driven-by-mounjaro-zepbound/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4ecafb0142006745",
+      "titleEn": "Why Nvidia stock is soaring over 4% today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/05/why-nvidia-stock-is-soaring-over-4-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:11c4dc2264b41b39",
+      "titleEn": "AXS Named Exclusive Primary and Secondary Ticketing Partner for the Wrangler National Finals Rodeo",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260805660037/en/AXS-Named-Exclusive-Primary-and-Secondary-Ticketing-Partner-for-the-Wrangler-National-Finals-Rodeo/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:210fe8684eefccb9",
+      "titleEn": "TA Portfolio Company Gong cha to Be Acquired by Bain Capital",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260805769603/en/TA-Portfolio-Company-Gong-cha-to-Be-Acquired-by-Bain-Capital/",
       "published": null
     }
   ]
