@@ -1,96 +1,60 @@
 {
-  "generatedAt": "2026-08-05T06:13:56.718589Z",
+  "generatedAt": "2026-08-05T12:27:49.625527Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 6,
   "items": [
     {
-      "id": "stockanalysis:936ca560eaed8284",
-      "titleEn": "Hang Seng Index nears golden cross as Meituan, Lenovo, Alibaba stocks jump",
+      "id": "stockanalysis:4140ca164adda2d4",
+      "titleEn": "NVDA gains, AMD resumes fall as Musk says SpaceX to build 'exclusively' with Nvidia",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/05/hang-seng-index-nears-golden-cross-as-meituan-lenovo-alibaba-stocks-jump/",
+      "link": "https://invezz.com/news/2026/08/05/nvda-gains-amd-resumes-fall-as-musk-says-spacex-to-build-exclusively-with-nvidia/",
       "published": null
     },
     {
-      "id": "stockanalysis:656af638ccff7923",
-      "titleEn": "SK Hynix stock jumps 8%, Samsung 4%: what is driving Korea's chip rebound?",
+      "id": "stockanalysis:f3db4b300e5e8c8a",
+      "titleEn": "ANET stock jumps after strong Arista Networks earnings, but risks remain",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/05/sk-hynix-stock-jumps-8-samsung-4-what-is-driving-koreas-chip-rebound/",
+      "link": "https://invezz.com/news/2026/08/05/anet-stock-jumps-after-strong-arista-networks-earnings-but-risks-remain/",
       "published": null
     },
     {
-      "id": "stockanalysis:f23680aeb7e9c54e",
-      "titleEn": "AMD stock sinks 9% after record quarter as Wall Street spots a hidden margin trap",
+      "id": "stockanalysis:049b02ab93587e17",
+      "titleEn": "Santander's $12 Billion Webster Bank Deal Wins Fed Approval",
+      "summaryEn": "Santander says the Federal Reserve has approved its acquisition of Webster Bank . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The $12 billion deal for the Connecticut-based Webster is now expected to close Aug. 20, Santander said in a news release late Tuesday (Aug. 4).",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/acquiring/2026/santanders-12-billion-webster-bank-deal-wins-fed-approval/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:592b9b5bfae9a274",
+      "titleEn": "SanDisk stock could move $212 after earnings as NAND bulls face tougher test",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/05/amd-stock-sinks-9-after-record-quarter-as-wall-street-spots-a-hidden-margin-trap/",
+      "link": "https://invezz.com/news/2026/08/05/sandisk-stock-could-move-212-after-earnings-as-nand-bulls-face-tougher-test/",
       "published": null
     },
     {
-      "id": "stockanalysis:1620fec1fdff22e4",
-      "titleEn": "A key technical resistance level to watch as S&amp;P 500 hits an all-time high",
+      "id": "stockanalysis:e3d317fe2c89791b",
+      "titleEn": "How SpaceX's earnings call turned bullish for Micron, SK Hynix, other memory stocks",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/05/a-key-technical-resistance-level-to-watch-as-sp-500-hits-an-all-time-high/",
+      "link": "https://invezz.com/news/2026/08/05/how-spacexs-earnings-call-turned-bullish-for-micron-sk-hynix-other-memory-stocks/",
       "published": null
     },
     {
-      "id": "stockanalysis:e9fa4a0c3d1fddf1",
-      "titleEn": "Silver leads metals higher as Hormuz optimism cuts oil risk premium - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were firmer, as spot silver prices rallied late Tuesday, as lower oil prices and softer bond yields helped offset still-hawkish Federal Reserve expectations after last week’s divided policy hold. At the time of writing, spot gold was trading near $4,077.70 an ounce, up 0.57% on the session, while spot silver was trading at $59.450, up 2.39%. The U.S. equity session closed with fresh records as lower crude prices, firm earnings and renewed AI-linked demand supported risk appetite. The S&P 500 rose 136.02 points, or 1.8%, to 7,736.52, the Dow Jones Industrial Average gained 907.47 points, or 1.7%, to 54,085.88 and the Nasdaq Composite advanced 671.10 points, or 2.6%, to 26,584.99. The Russell 2000 added 55.07 points, or 1.8%, to 3,036.98. European equities also finished stronger, with the FTSE 100 up 0.20% at 10,879.38, Germany’s DAX up 0.77% at 26,202.35, France’s CAC 40 up 0.61% at 8,666.63 and the Euro Stoxx 50 up 0.94% at 6,486.70. The earlier European session was led by technology, defense and mining shares, while energy names lagged as crude sold off.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-08-04/silver-leads-metals-higher-hormuz-optimism-cuts-oil-risk-premium-kitco-pm",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ecf0a171e049b63b",
-      "titleEn": "Twist Bioscience Announces Pricing of Upsized $300.0 Million Public Offering of Common Stock",
+      "id": "stockanalysis:3f6c65e079e1f578",
+      "titleEn": "SpaceX stock's first earnings expose a liability hiding behind Starlink growth",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260804240316/en/Twist-Bioscience-Announces-Pricing-of-Upsized-300.0-Million-Public-Offering-of-Common-Stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bb56dff766553be3",
-      "titleEn": "Mitsubishi Electric's New S-EIV-X Uses Remote Data to Optimize Energy Saving for Railway Operators",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260804824289/en/Mitsubishi-Electric%E2%80%99s-New-S-EIV-X-Uses-Remote-Data-to-Optimize-Energy-Saving-for-Railway-Operators/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e27e215ef5c271d1",
-      "titleEn": "Mitsubishi Electric to Launch “Global Career Passport,” A Groupwide Internal Career Recruitment Program",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260804949814/en/Mitsubishi-Electric-to-Launch-%E2%80%9CGlobal-Career-Passport%E2%80%9D-A-Groupwide-Internal-Career-Recruitment-Program/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a1afc3d2d6fe407b",
-      "titleEn": "KIOXIA GP Series Super High IOPS PCIe SSD Named 'Best of Show' at FMS: the Future of Memory and Storage 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260804320006/en/KIOXIA-GP-Series-Super-High-IOPS-PCIe-SSD-Named-Best-of-Show-at-FMS-the-Future-of-Memory-and-Storage-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c140bf17d892a051",
-      "titleEn": "BREAKING: CAL FIRE Concludes That Edison (SCE) Caused Eaton Fire; Corey Gibbs Fire Lawyers Are Filing Legal Claims on Behalf of Survivors, for Compensation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260804438821/en/BREAKING-CAL-FIRE-Concludes-That-Edison-SCE-Caused-Eaton-Fire-Corey-Gibbs-Fire-Lawyers-Are-Filing-Legal-Claims-on-Behalf-of-Survivors-for-Compensation/",
+      "link": "https://invezz.com/news/2026/08/05/spacex-stocks-first-earnings-expose-a-liability-hiding-behind-starlink-growth/",
       "published": null
     }
   ]
