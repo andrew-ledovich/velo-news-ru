@@ -1,78 +1,96 @@
 {
-  "generatedAt": "2026-08-04T20:55:43.392731Z",
+  "generatedAt": "2026-08-05T06:13:56.718589Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 10,
   "items": [
     {
-      "id": "stockanalysis:f8f3885dfd494ba1",
-      "titleEn": "SpaceX stock sinks despite headline Q2 beat",
+      "id": "stockanalysis:936ca560eaed8284",
+      "titleEn": "Hang Seng Index nears golden cross as Meituan, Lenovo, Alibaba stocks jump",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/04/spacex-stock-sinks-despite-headline-q2-beat/",
+      "link": "https://invezz.com/news/2026/08/05/hang-seng-index-nears-golden-cross-as-meituan-lenovo-alibaba-stocks-jump/",
       "published": null
     },
     {
-      "id": "stockanalysis:bb3eecafa82a5894",
-      "titleEn": "Gold can recover despite higher real yields as rate pressures ease, says Jefferies",
-      "summaryEn": "(Kitco News) - Gold prices have been chained to $4,000 an ounce as persistent inflation forces markets to price in rate hikes, raising the opportunity cost of holding a non-yielding asset. However, according to one investment firm, even in this difficult environment, gold prices could still move higher next year. The gold market has struggled since the U.S. and Israel started a war with Iran, which shut down the Strait of Hormuz, disrupting the supply of roughly 30% of the world&#x27;s oil. The ongoing conflict and ensuing global energy crisis have kept oil prices elevated, fueling new inflation fears. As a result, markets are pricing in the potential for two rate hikes this year, with the first increase expected in September. The Federal Reserve has reinforced these market expectations after three committee members voted to raise interest rates following the July monetary policy meeting.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-04/gold-can-recover-despite-higher-real-yields-rate-pressures-ease-says",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d295cb6d2431b420",
-      "titleEn": "Novo Nordisk stock falls despite outlook hike as Wegovy sales miss hopes",
+      "id": "stockanalysis:656af638ccff7923",
+      "titleEn": "SK Hynix stock jumps 8%, Samsung 4%: what is driving Korea's chip rebound?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/04/novo-nordisk-stock-falls-despite-outlook-hike-as-wegovy-sales-miss-hopes/",
+      "link": "https://invezz.com/news/2026/08/05/sk-hynix-stock-jumps-8-samsung-4-what-is-driving-koreas-chip-rebound/",
       "published": null
     },
     {
-      "id": "stockanalysis:d1809689caf34a27",
-      "titleEn": "Polymarket Aims to Double Valuation With $1 Billion Funding Round",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The prediction markets company is in early discussions with prospective investors to raise about $1 billion, Bloomberg News reported Tuesday (Aug. 4), citing sources familiar with the matter. Assuming the round closes, Polymarket will be worth more than double the amount it was when it raised capital at a valuation of $9 billion last October, the report said. The company completed a round at a $15 billion valuation in April. Bloomberg added that Polymarket’s main competitor Kalshi had said in May it had landed an investment, placing its value at $22 billion . Kalshi has outpaced Polymarket’s growth since the start of the year as the latter company suffered operational and legal issues, the report said.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/polymarket-aims-to-double-valuation-with-1-billion-funding-round/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f2d1a9393ada4b23",
-      "titleEn": "Why is CoreWeave stock rising 8% today",
+      "id": "stockanalysis:f23680aeb7e9c54e",
+      "titleEn": "AMD stock sinks 9% after record quarter as Wall Street spots a hidden margin trap",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/04/why-is-coreweave-stock-rising-8-today/",
+      "link": "https://invezz.com/news/2026/08/05/amd-stock-sinks-9-after-record-quarter-as-wall-street-spots-a-hidden-margin-trap/",
       "published": null
     },
     {
-      "id": "stockanalysis:6e36471fdc524d45",
-      "titleEn": "Why Nvidia stock is up around 2% on Tuesday",
+      "id": "stockanalysis:1620fec1fdff22e4",
+      "titleEn": "A key technical resistance level to watch as S&amp;P 500 hits an all-time high",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/04/why-nvidia-stock-is-up-around-2-on-tuesday/",
+      "link": "https://invezz.com/news/2026/08/05/a-key-technical-resistance-level-to-watch-as-sp-500-hits-an-all-time-high/",
       "published": null
     },
     {
-      "id": "stockanalysis:3bf89e98879a602b",
-      "titleEn": "Mattel Reports Second Quarter 2026 Financial Results",
-      "summaryEn": null,
+      "id": "stockanalysis:e9fa4a0c3d1fddf1",
+      "titleEn": "Silver leads metals higher as Hormuz optimism cuts oil risk premium - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices were firmer, as spot silver prices rallied late Tuesday, as lower oil prices and softer bond yields helped offset still-hawkish Federal Reserve expectations after last week’s divided policy hold. At the time of writing, spot gold was trading near $4,077.70 an ounce, up 0.57% on the session, while spot silver was trading at $59.450, up 2.39%. The U.S. equity session closed with fresh records as lower crude prices, firm earnings and renewed AI-linked demand supported risk appetite. The S&P 500 rose 136.02 points, or 1.8%, to 7,736.52, the Dow Jones Industrial Average gained 907.47 points, or 1.7%, to 54,085.88 and the Nasdaq Composite advanced 671.10 points, or 2.6%, to 26,584.99. The Russell 2000 added 55.07 points, or 1.8%, to 3,036.98. European equities also finished stronger, with the FTSE 100 up 0.20% at 10,879.38, Germany’s DAX up 0.77% at 26,202.35, France’s CAC 40 up 0.61% at 8,666.63 and the Euro Stoxx 50 up 0.94% at 6,486.70. The earlier European session was led by technology, defense and mining shares, while energy names lagged as crude sold off.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260804279545/en/Mattel-Reports-Second-Quarter-2026-Financial-Results/",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-08-04/silver-leads-metals-higher-hormuz-optimism-cuts-oil-risk-premium-kitco-pm",
       "published": null
     },
     {
-      "id": "stockanalysis:e243bde460eb15d6",
-      "titleEn": "NGL Energy Partners LP Announces First Quarter Fiscal 2027 Financial Results",
+      "id": "stockanalysis:ecf0a171e049b63b",
+      "titleEn": "Twist Bioscience Announces Pricing of Upsized $300.0 Million Public Offering of Common Stock",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260804997042/en/NGL-Energy-Partners-LP-Announces-First-Quarter-Fiscal-2027-Financial-Results/",
+      "link": "https://www.businesswire.com/news/home/20260804240316/en/Twist-Bioscience-Announces-Pricing-of-Upsized-300.0-Million-Public-Offering-of-Common-Stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bb56dff766553be3",
+      "titleEn": "Mitsubishi Electric's New S-EIV-X Uses Remote Data to Optimize Energy Saving for Railway Operators",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260804824289/en/Mitsubishi-Electric%E2%80%99s-New-S-EIV-X-Uses-Remote-Data-to-Optimize-Energy-Saving-for-Railway-Operators/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e27e215ef5c271d1",
+      "titleEn": "Mitsubishi Electric to Launch “Global Career Passport,” A Groupwide Internal Career Recruitment Program",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260804949814/en/Mitsubishi-Electric-to-Launch-%E2%80%9CGlobal-Career-Passport%E2%80%9D-A-Groupwide-Internal-Career-Recruitment-Program/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a1afc3d2d6fe407b",
+      "titleEn": "KIOXIA GP Series Super High IOPS PCIe SSD Named 'Best of Show' at FMS: the Future of Memory and Storage 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260804320006/en/KIOXIA-GP-Series-Super-High-IOPS-PCIe-SSD-Named-Best-of-Show-at-FMS-the-Future-of-Memory-and-Storage-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c140bf17d892a051",
+      "titleEn": "BREAKING: CAL FIRE Concludes That Edison (SCE) Caused Eaton Fire; Corey Gibbs Fire Lawyers Are Filing Legal Claims on Behalf of Survivors, for Compensation",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260804438821/en/BREAKING-CAL-FIRE-Concludes-That-Edison-SCE-Caused-Eaton-Fire-Corey-Gibbs-Fire-Lawyers-Are-Filing-Legal-Claims-on-Behalf-of-Survivors-for-Compensation/",
       "published": null
     }
   ]
