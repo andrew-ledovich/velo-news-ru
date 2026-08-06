@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-08-05T22:19:44.686486Z",
+  "generatedAt": "2026-08-06T08:02:47.604067Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:4614057429f0dd93",
+      "titleEn": "Here's why the Rolls-Royce share price just hit a record high",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/06/heres-why-the-rolls-royce-share-price-just-hit-a-record-high/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dbe240e1a190f7c7",
+      "titleEn": "SanDisk stock tanked after earnings, but here's why this sell-off may not last",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/06/sandisk-stock-tanked-after-earnings-but-heres-why-this-sell-off-may-not-last/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:61d9e1addfc08b22",
+      "titleEn": "Here's why Western Digital stock plunged 11% despite strong earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/06/heres-why-western-digital-stock-plunged-11-despite-strong-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0f26cd3fc511e311",
+      "titleEn": "SK Hynix, Samsung stocks crash again: is Korea's AI boom becoming volatility machine?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/06/sk-hynix-samsung-stocks-crash-again-is-koreas-ai-boom-becoming-volatility-machine/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cc30567aa27dfca9",
+      "titleEn": "Three SaaS stocks that are poised to be AI winners",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/06/palantir-microsoft-servicenow-saas-stocks-that-are-poised-to-be-ai-winners/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:646467e3bdfe2214",
+      "titleEn": "DoorDash Says Agentic Traffic Is Low, but AI Gains Are Not",
+      "summaryEn": "Artificial intelligence is showing up for DoorDash . It’s just not agentic … yet. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); While the fight for agentic commerce gears up, DoorDash CEO Tony Xu said on the company’s second quarter earnings call that agentic order volume from AI partners remains low. He said the gap traces back to most AI platforms prioritizing enterprise customers and coding tools over physical fulfillment. DoorDash’s own AI tools, meanwhile, are already producing results, from an ordering agent that builds a grocery cart in under two minutes to automated catalog building for new merchants.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/delivery/2026/doordash-says-agentic-traffic-is-low-but-ai-gains-are-not/",
+      "published": null
+    },
     {
       "id": "stockanalysis:95c1b93125928b46",
       "titleEn": "Why is SanDisk stock slipping despite massive Q2 beat?",
@@ -13,75 +67,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:631f388bc33486da",
-      "titleEn": "Gold's rally has further to run as debt, de-dollarization fuel secular bull market: Gabelli's Mancini",
-      "summaryEn": "(Kitco News) - Gold is attracting renewed investor interest as prices climbed above $4,250 an ounce on Wednesday, marking a seven-week high. While the precious metal still faces short-term headwinds from monetary policy uncertainty, one fund manager argues that the powerful forces underpinning gold&#x27;s secular bull market remain firmly in place. In an interview with Kitco News, Chris Mancini, co-portfolio manager of the Gabelli Gold Fund (GOLDX), said investors continue to view gold as a cyclical asset, treating its record highs earlier this year as the peak of the current cycle. However, he argued that gold &#x27;s long-term advance is being driven by structural factors, including persistent geopolitical uncertainty, rising government debt, central bank diversification away from the U.S. dollar and eroding confidence in fiat currencies. \"The market&#x27;s trading it like a cyclical commodity even though it&#x27;s not,\" Mancini said, noting that unlike industrial metals such as copper or iron ore, gold&#x27;s value is not tied to economic consumption but to its role as a monetary asset.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-05/golds-rally-has-further-run-debt-de-dollarization-fuel-secular-bull-market",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3b24ffecc047d6f3",
-      "titleEn": "Gold's breakout was the buy signal, but no new record this year, analyst says",
-      "summaryEn": "(Kitco News) - Florian Grummes has raised his invested position from 50% to 80%. He is buying juniors, not producers. And he does not think gold sees a new high in 2026. Florian Grummes went to bed with gold near $4,075. He woke to find it roughly $65 higher. .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-05/golds-breakout-was-buy-signal-no-new-record-year-analyst-says",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:861d36c510a4eeac",
-      "titleEn": "Robinhood Offers Retail Investors Chance to Back Y Combinator Firms",
-      "summaryEn": "Y Combinator is a startup accelerator whose alumni include DoorDash , Instacart and Airbnb . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Now, trading platform Robinhood says it wants to give retail investors a chance to back that organization’s future graduates as it announced Robinhood Ventures Fund II (RVII), the second fund from Robinhood Ventures , on Wednesday (Aug. 5).",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/robinhood-offers-retail-investors-chance-to-back-y-combinator-firms/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9de4a503e32f5052",
-      "titleEn": "Silicon Motion Unveils MonTitan™ SSD Reference Design Kit for AI Infrastructure at FMS 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260805804878/en/Silicon-Motion-Unveils-MonTitan%E2%84%A2-SSD-Reference-Design-Kit-for-AI-Infrastructure-at-FMS-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bb6f3932b1a6c71c",
-      "titleEn": "State Street Corporation (NYSE: STT) Announces Remaining 2026 Quarterly Financial Results Release Dates and Conference Call Webcasts",
+      "id": "stockanalysis:59f142a4738a77a1",
+      "titleEn": "CoStar Data Shows Strong Prelet Activity Driving UK Lab Space Demand to a Record High",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260805934584/en/State-Street-Corporation-NYSE-STT-Announces-Remaining-2026-Quarterly-Financial-Results-Release-Dates-and-Conference-Call-Webcasts/",
+      "link": "https://www.businesswire.com/news/home/20260806333297/en/CoStar-Data-Shows-Strong-Prelet-Activity-Driving-UK-Lab-Space-Demand-to-a-Record-High/",
       "published": null
     },
     {
-      "id": "stockanalysis:37f353c65b0ae051",
-      "titleEn": "Ingram Micro Accelerates AI Adoption Across the Global Channel with New Xvantage Integration Hub and MCP Server",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260805946112/en/Ingram-Micro-Accelerates-AI-Adoption-Across-the-Global-Channel-with-New-Xvantage-Integration-Hub-and-MCP-Server/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fdb182fb1bfe4851",
-      "titleEn": "Spectrum Brands Holdings Declares Quarterly Common Stock Dividend of $0.47 Per Share",
+      "id": "stockanalysis:506e76272b731a83",
+      "titleEn": "Great Britain Leads Europe's FMCG Inflation as NIQ Launches New Inflation Barometer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260804711003/en/Spectrum-Brands-Holdings-Declares-Quarterly-Common-Stock-Dividend-of-0.47-Per-Share/",
+      "link": "https://www.businesswire.com/news/home/20260806579111/en/Great-Britain-Leads-Europe%E2%80%99s-FMCG-Inflation-as-NIQ-Launches-New-Inflation-Barometer/",
       "published": null
     },
     {
-      "id": "stockanalysis:fdd537551bf4406b",
-      "titleEn": "Franklin Resources, Inc. Announces Pricing of Notes Offering",
+      "id": "stockanalysis:6776973558aee227",
+      "titleEn": "UMC Reports Sales for July 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260805860162/en/Franklin-Resources-Inc.-Announces-Pricing-of-Notes-Offering/",
+      "link": "https://www.businesswire.com/news/home/20260806517820/en/UMC-Reports-Sales-for-July-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7f6df7d3462c7081",
+      "titleEn": "KKR to Acquire Leading Multi-Specialty Healthcare Provider Medicover India",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260805710068/en/KKR-to-Acquire-Leading-Multi-Specialty-Healthcare-Provider-Medicover-India/",
       "published": null
     }
   ]
