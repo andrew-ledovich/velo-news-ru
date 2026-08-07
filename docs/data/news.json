@@ -1,8 +1,89 @@
 {
-  "generatedAt": "2026-08-07T12:01:56.604914Z",
+  "generatedAt": "2026-08-07T15:13:34.766536Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:c0abc9f3b871b7f0",
+      "titleEn": "Why is Micron stock falling today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/07/why-is-micron-stock-falling-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9f65b71b2611222e",
+      "titleEn": "Why SpaceX stock is rocketing around 11% on Friday",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/07/why-spacex-stock-is-rocketing-around-11-on-friday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0bf35923554d2af6",
+      "titleEn": "Nebius stock tumbles before earnings: What the options market predicts",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/07/nebius-stock-tumbles-before-earnings-what-the-options-market-predicts/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f4e8b0641d91cd4b",
+      "titleEn": "Gold, silver rally as yields fall after surprise jobs loss - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply higher in early U.S. trading Friday, as a surprise decline in July payrolls pulled Treasury yields lower and reduced near-term Fed hike expectations. At the time of writing, spot gold was trading near $4,352.60 an ounce, up 2.67%, while spot silver was trading at $63.970, up 4.20% on the session. The latest positioning shift is now centered on whether the Fed can keep a hawkish bias after softer labor data. The FOMC held the target range at 3.50% to 3.75% on July 29 in a 9-3 vote. The chair’s press conference leaned against renewed forward guidance and emphasized that nominal and real yields had already moved materially higher between meetings. Friday’s payrolls print reversed part of that rate pressure: nonfarm payrolls fell by 23,000 in July , the unemployment rate was 4.1%, the 10-year Treasury yield dropped to about 4.60% from 4.67% just before the release and Fed funds futures cut the implied probability of a September hike to 44.0% from 54.7%. The Strait of Hormuz remains a two-sided macro input for gold . A deal between Iran and Oman is being discussed, but the unresolved issue is control over traffic and fees, with Washington rejecting Iranian charges on ships while Tehran insists the waterway will not revert to a fully international operating model. The strait previously handled roughly one-fifth of traded oil and natural gas, and Brent crude has traded as high as $113 during the conflict. The immediate market effect Friday was mixed: crude eased after Thursday’s rally as traders weighed deal headlines, but the unresolved U.S.-Iran framework is still supporting a geopolitical premium in gold and keeping energy-led inflation risk in the Fed discussion.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-07/gold-silver-rally-yields-fall-after-surprise-jobs-loss-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7fa484807bf34a5b",
+      "titleEn": "Live Commerce Platform Whatnot Raises $545 Million to Speed AI Expansion",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The round increased Whatnot’s valuation to $20 billion, up from the $11.5 billion valuation the company achieved in an October 2025 Series F round in which it raised $225 million. “This investment helps us to build better tools, bring AI to more parts of the selling experience, help sellers reach more buyers, expand into new markets, and continue building the world’s biggest and most trusted marketplace,” Whatnot Co-Founder and CEO Grant LaFontaine said in the release.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/live-commerce-platform-whatnot-raises-545-million-to-speed-ai-expansion/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:42a62a502e8781b8",
+      "titleEn": "Cloudflare stock jumps 16% as AI demand drives higher 2026 revenue forecast",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/07/cloudflare-stock-jumps-16-as-ai-demand-drives-higher-2026-revenue-forecast/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9841ca0de0ea8b38",
+      "titleEn": "Gold prices surging higher as U.S. economy loses 23k jobs in July",
+      "summaryEn": "Neils Christensen has a diploma in journalism from Lethbridge College and has more than a decade of reporting experience working for news organizations throughout Canada. His experiences include covering territorial and federal politics in Nunavut, Canada. He has worked exclusively within the financial sector since 2007, when he started with the Canadian Economic Press. Neils can be contacted at: 1 866 925 4826 ext. 1526 nchristensen at kitco.com @KitcoNewsNOW",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-07/gold-prices-surging-higher-us-economy-loses-23k-jobs-july",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:27dd44c43356814b",
+      "titleEn": "Atlassian stock jumps as CEO buys the dip after earnings: What's next?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/07/atlassian-stock-jumps-as-ceo-buys-the-dip-after-earnings-whats-next/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:13bbc99cb6e46925",
+      "titleEn": "The Trade Desk stock is in a freefall after earnings: classic value trap?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/07/the-trade-desk-stock-is-in-a-freefall-after-earnings-classic-value-trap/",
+      "published": null
+    },
     {
       "id": "stockanalysis:d501e5a927955f03",
       "titleEn": "Google's AI business is booming, so why are DeepMind's biggest names quitting?",
@@ -40,75 +121,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:a5d0f6408667384c",
-      "titleEn": "Tesla stock's Terafab shock: is Elon Musk building future or a $17 billion trap?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/08/07/tesla-stocks-terafab-shock-is-elon-musk-building-future-or-a-17-billion-trap/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c391ee0561ed2858",
-      "titleEn": "Samsung climbs while SK Hynix drops 5%: why Korea's AI giants are moving apart",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/07/samsung-climbs-while-sk-hynix-drops-5-why-koreas-ai-giants-are-moving-apart/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:08a8da6d8d445a9c",
-      "titleEn": "Tom Lee reveals his S&amp;P 500 target for the end of August",
+      "id": "stockanalysis:b14cf9c5b4790118",
+      "titleEn": "KBRA Releases Monthly CMBS Trend Watch",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/07/tom-lee-reveals-his-sp-500-target-for-the-end-of-august/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e11b83e7b30e6d67",
-      "titleEn": "Xiaomi stock forms shooting star ahead of earnings: what next?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/07/xiaomi-stock-forms-shooting-star-ahead-of-earnings-what-next/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0e59a5107b10fa38",
-      "titleEn": "FIS Expands Commercial Banking Platform to APAC Region",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The platform is already available across the United States and the Europe, Middle East and Africa (EMEA) region, according to the release. Digital One Commercial is a core-agnostic, composable commercial banking platform that enables banks to serve all their business customers on a single system without replacing their existing core systems. Its application programming interface-first architecture also integrates with accounting systems and enterprise resource planning (ERP) systems, the release said.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/fis-expands-commercial-banking-platform-to-apac-region/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:358b39b51a933ab3",
-      "titleEn": "iA Financial Group Announces the Issuance of a Redemption Notice to Holders of 3.072% Subordinated Debentures due September 24, 2031",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260806222127/en/iA-Financial-Group-Announces-the-Issuance-of-a-Redemption-Notice-to-Holders-of-3.072-Subordinated-Debentures-due-September-24-2031/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f580af75a01a459f",
-      "titleEn": "Lomiko Metals Provides Update on Arrangement With Global Battery Materials, Loan Facility and Funding of the Yellow Fox Project",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://www.businesswire.com/news/home/20260806947374/en/Lomiko-Metals-Provides-Update-on-Arrangement-With-Global-Battery-Materials-Loan-Facility-and-Funding-of-the-Yellow-Fox-Project/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:57310288bfc76a94",
-      "titleEn": "Take-Two Interactive Software, Inc. Reports Results for Fiscal First Quarter 2027",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260806868549/en/Take-Two-Interactive-Software-Inc.-Reports-Results-for-Fiscal-First-Quarter-2027/",
+      "link": "https://www.businesswire.com/news/home/20260807933862/en/KBRA-Releases-Monthly-CMBS-Trend-Watch/",
       "published": null
     }
   ]
