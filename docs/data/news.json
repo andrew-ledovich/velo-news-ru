@@ -1,105 +1,78 @@
 {
-  "generatedAt": "2026-08-06T08:02:47.604067Z",
+  "generatedAt": "2026-08-07T01:44:05.446933Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 8,
   "items": [
     {
-      "id": "stockanalysis:4614057429f0dd93",
-      "titleEn": "Here's why the Rolls-Royce share price just hit a record high",
+      "id": "stockanalysis:0e59a5107b10fa38",
+      "titleEn": "FIS Expands Commercial Banking Platform to APAC Region",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The platform is already available across the United States and the Europe, Middle East and Africa (EMEA) region, according to the release. Digital One Commercial is a core-agnostic, composable commercial banking platform that enables banks to serve all their business customers on a single system without replacing their existing core systems. Its application programming interface-first architecture also integrates with accounting systems and enterprise resource planning (ERP) systems, the release said.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/fis-expands-commercial-banking-platform-to-apac-region/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3611a8f5ceaea605",
+      "titleEn": "Investors take profits in gold and silver as oil, yields rise after Hormuz deal doubts - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were weaker in late U.S. trading Thursday, as rising oil prices, firmer Treasury yields and a stronger U.S. dollar prompted investors to take some profits after Wednesday’s breakout rally. At the time of writing, spot gold was trading near $4,243.40 an ounce, down 0.07% on the session, while spot silver was trading near $61.520, down 0.64%. U.S. equities closed lower as oil rebounded and traders moved back into pre-payroll defensive positioning. The S&P 500 fell 13.59 points, or 0.2%, to 7,709.96, the Dow Jones Industrial Average fell 464.02 points, or 0.9%, to 53,885.10 and the Nasdaq Composite slipped 15.09 points, or 0.1%, to 26,348.35. The Russell 2000 lost 17.64 points, or 0.6%, to 3,001.55. In Europe, the STOXX Europe 600 closed up 0.2% at 658.19, Germany’s DAX gained 0.15%, France’s CAC 40 rose 0.35% and Britain’s FTSE 100 closed down 0.19%, leaving the session mixed after early strength faded. The latest U.S. data kept the market’s post-Fed positioning centered on resilience rather than recession. Initial jobless claims rose by 1,000 to 199,000 in the week ended Aug. 1 , still below consensus, while continuing claims increased to 1.8 million. Second-quarter nonfarm productivity rose at a 1.4% annualized pace, above expectations, after a revised 0.8% rise in the first quarter. The July ISM Services PMI printed at 54.1, below the 54.5 consensus but still in expansion territory , while ADP private payrolls earlier in the week showed only 44,000 jobs added in July , down from 95,000 in June. Taken together, the data left traders leaning toward a still-firm labor market with slower hiring, rather than a clean dovish pivot.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-06/investors-take-profits-gold-and-silver-oil-yields-rise-after-hormuz-deal",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:17f53f5f381fae90",
+      "titleEn": "Now is the time to buy gold; BCA sees bullish opportunity as real yields peak",
+      "summaryEn": "(Kitco News) - Gold&#x27;s recent correction has likely run its course as the key macro headwinds that pressured the precious metal are beginning to fade, according to one Canadian research firm, which argues that real interest rates have likely peaked and the U.S. dollar will eventually turn from a headwind into a tailwind for bullion. After establishing a neutral position in Spring, Commodity analysts at BCA Research now see attractive value and are recommending investors start accumulating gold with a stop-loss at $3,900 an ounce. \"The worst of real rates&#x27; headwind to gold is likely behind us,\" the firm said in its latest report, adding that while geopolitical risks tied to the Middle East could still create short-term volatility, its base case is for U.S. real rates to remain broadly stable over the coming months, helping gold establish a bottom.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-06/now-time-buy-gold-bca-sees-bullish-opportunity-real-yields-peak",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bbdc11d599a079ca",
+      "titleEn": "Gold's rally is about a growing lack of investor confidence; silver could offer bigger gains says MarketGauge's Schneider",
+      "summaryEn": "(Kitco News) - Gold&#x27;s rally above $4,200 signals more than a shift in inflation expectations or global monetary policy; it reflects growing investor doubts that policymakers can keep the global economy on stable footing, according to one market strategist. In an interview with Kitco News, Michele Schneider, Chief Market Strategist at MarketGauge, reiterated her long-term bullish outlook for gold as prices have moved solidly back above their 50-day moving average. However, she added that investors should keep an eye on silver , as the metal has lagged but could ultimately deliver stronger gains if persistent inflation pressures begin to re-emerge and confidence in governments and central banks continues to erode. Schneider added that while the force behind gold&#x27;s 4% rally Wednesday was surprising, the move was not unexpected, as the price has been consolidating around $4,000 an ounce for the last two months.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-06/golds-rally-about-growing-lack-investor-confidence-silver-could-offer",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:78587b8545220928",
+      "titleEn": "China's Commerce Innovation Is Reshaping Global Retail",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/06/heres-why-the-rolls-royce-share-price-just-hit-a-record-high/",
+      "link": "https://www.businesswire.com/news/home/20260806783537/en/China%E2%80%99s-Commerce-Innovation-Is-Reshaping-Global-Retail/",
       "published": null
     },
     {
-      "id": "stockanalysis:dbe240e1a190f7c7",
-      "titleEn": "SanDisk stock tanked after earnings, but here's why this sell-off may not last",
+      "id": "stockanalysis:4f82a4629b23b7f3",
+      "titleEn": "Republic Technologies Files Amended Interim Financial Statements and MD&amp;A",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/06/sandisk-stock-tanked-after-earnings-but-heres-why-this-sell-off-may-not-last/",
+      "link": "https://www.businesswire.com/news/home/20260806121389/en/Republic-Technologies-Files-Amended-Interim-Financial-Statements-and-MDA/",
       "published": null
     },
     {
-      "id": "stockanalysis:61d9e1addfc08b22",
-      "titleEn": "Here's why Western Digital stock plunged 11% despite strong earnings",
+      "id": "stockanalysis:40ff4e26668bb97b",
+      "titleEn": "IMMX Investors Have Opportunity to Join Immix Biopharma, Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/06/heres-why-western-digital-stock-plunged-11-despite-strong-earnings/",
+      "link": "https://www.businesswire.com/news/home/20260806535685/en/IMMX-Investors-Have-Opportunity-to-Join-Immix-Biopharma-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
-      "id": "stockanalysis:0f26cd3fc511e311",
-      "titleEn": "SK Hynix, Samsung stocks crash again: is Korea's AI boom becoming volatility machine?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/06/sk-hynix-samsung-stocks-crash-again-is-koreas-ai-boom-becoming-volatility-machine/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cc30567aa27dfca9",
-      "titleEn": "Three SaaS stocks that are poised to be AI winners",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/06/palantir-microsoft-servicenow-saas-stocks-that-are-poised-to-be-ai-winners/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:646467e3bdfe2214",
-      "titleEn": "DoorDash Says Agentic Traffic Is Low, but AI Gains Are Not",
-      "summaryEn": "Artificial intelligence is showing up for DoorDash . It’s just not agentic … yet. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); While the fight for agentic commerce gears up, DoorDash CEO Tony Xu said on the company’s second quarter earnings call that agentic order volume from AI partners remains low. He said the gap traces back to most AI platforms prioritizing enterprise customers and coding tools over physical fulfillment. DoorDash’s own AI tools, meanwhile, are already producing results, from an ordering agent that builds a grocery cart in under two minutes to automated catalog building for new merchants.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/delivery/2026/doordash-says-agentic-traffic-is-low-but-ai-gains-are-not/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:95c1b93125928b46",
-      "titleEn": "Why is SanDisk stock slipping despite massive Q2 beat?",
+      "id": "stockanalysis:da8e6281ec92960b",
+      "titleEn": "Faraday Future Announces Second Quarter 2026 Earnings Release Date and Conference Call Details to Be Held on August 13, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/05/why-is-sandisk-stock-slipping-despite-massive-q2-beat/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:59f142a4738a77a1",
-      "titleEn": "CoStar Data Shows Strong Prelet Activity Driving UK Lab Space Demand to a Record High",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260806333297/en/CoStar-Data-Shows-Strong-Prelet-Activity-Driving-UK-Lab-Space-Demand-to-a-Record-High/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:506e76272b731a83",
-      "titleEn": "Great Britain Leads Europe's FMCG Inflation as NIQ Launches New Inflation Barometer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260806579111/en/Great-Britain-Leads-Europe%E2%80%99s-FMCG-Inflation-as-NIQ-Launches-New-Inflation-Barometer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6776973558aee227",
-      "titleEn": "UMC Reports Sales for July 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260806517820/en/UMC-Reports-Sales-for-July-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7f6df7d3462c7081",
-      "titleEn": "KKR to Acquire Leading Multi-Specialty Healthcare Provider Medicover India",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260805710068/en/KKR-to-Acquire-Leading-Multi-Specialty-Healthcare-Provider-Medicover-India/",
+      "link": "https://www.businesswire.com/news/home/20260806990899/en/Faraday-Future-Announces-Second-Quarter-2026-Earnings-Release-Date-and-Conference-Call-Details-to-Be-Held-on-August-13-2026/",
       "published": null
     }
   ]
