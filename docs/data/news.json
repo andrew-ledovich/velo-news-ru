@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-07T09:40:29.062412Z",
+  "generatedAt": "2026-08-07T12:01:56.604914Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:d501e5a927955f03",
+      "titleEn": "Google's AI business is booming, so why are DeepMind's biggest names quitting?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/07/googles-ai-business-is-booming-so-why-are-deepminds-biggest-names-quitting/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ec2d58e1bf48970c",
+      "titleEn": "SpaceX stock keeps falling, but Jim Cramer says buy it for your kids: why now?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/07/spacex-stock-keeps-falling-but-jim-cramer-says-buy-it-for-your-kids-why-now/",
+      "published": null
+    },
     {
       "id": "stockanalysis:d6755928a16674bb",
       "titleEn": "Airbnb stock jumps 11% as World Cup travel sparks a surprise growth burst",
@@ -67,93 +85,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:3611a8f5ceaea605",
-      "titleEn": "Investors take profits in gold and silver as oil, yields rise after Hormuz deal doubts - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were weaker in late U.S. trading Thursday, as rising oil prices, firmer Treasury yields and a stronger U.S. dollar prompted investors to take some profits after Wednesday’s breakout rally. At the time of writing, spot gold was trading near $4,243.40 an ounce, down 0.07% on the session, while spot silver was trading near $61.520, down 0.64%. U.S. equities closed lower as oil rebounded and traders moved back into pre-payroll defensive positioning. The S&P 500 fell 13.59 points, or 0.2%, to 7,709.96, the Dow Jones Industrial Average fell 464.02 points, or 0.9%, to 53,885.10 and the Nasdaq Composite slipped 15.09 points, or 0.1%, to 26,348.35. The Russell 2000 lost 17.64 points, or 0.6%, to 3,001.55. In Europe, the STOXX Europe 600 closed up 0.2% at 658.19, Germany’s DAX gained 0.15%, France’s CAC 40 rose 0.35% and Britain’s FTSE 100 closed down 0.19%, leaving the session mixed after early strength faded. The latest U.S. data kept the market’s post-Fed positioning centered on resilience rather than recession. Initial jobless claims rose by 1,000 to 199,000 in the week ended Aug. 1 , still below consensus, while continuing claims increased to 1.8 million. Second-quarter nonfarm productivity rose at a 1.4% annualized pace, above expectations, after a revised 0.8% rise in the first quarter. The July ISM Services PMI printed at 54.1, below the 54.5 consensus but still in expansion territory , while ADP private payrolls earlier in the week showed only 44,000 jobs added in July , down from 95,000 in June. Taken together, the data left traders leaning toward a still-firm labor market with slower hiring, rather than a clean dovish pivot.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-06/investors-take-profits-gold-and-silver-oil-yields-rise-after-hormuz-deal",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:17f53f5f381fae90",
-      "titleEn": "Now is the time to buy gold; BCA sees bullish opportunity as real yields peak",
-      "summaryEn": "(Kitco News) - Gold&#x27;s recent correction has likely run its course as the key macro headwinds that pressured the precious metal are beginning to fade, according to one Canadian research firm, which argues that real interest rates have likely peaked and the U.S. dollar will eventually turn from a headwind into a tailwind for bullion. After establishing a neutral position in Spring, Commodity analysts at BCA Research now see attractive value and are recommending investors start accumulating gold with a stop-loss at $3,900 an ounce. \"The worst of real rates&#x27; headwind to gold is likely behind us,\" the firm said in its latest report, adding that while geopolitical risks tied to the Middle East could still create short-term volatility, its base case is for U.S. real rates to remain broadly stable over the coming months, helping gold establish a bottom.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-06/now-time-buy-gold-bca-sees-bullish-opportunity-real-yields-peak",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6f3d98687af7acc6",
-      "titleEn": "Yum! Brands Completes Sale of Pizza Hut China to Yum China Holdings",
+      "id": "stockanalysis:358b39b51a933ab3",
+      "titleEn": "iA Financial Group Announces the Issuance of a Redemption Notice to Holders of 3.072% Subordinated Debentures due September 24, 2031",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260807360947/en/Yum%21-Brands-Completes-Sale-of-Pizza-Hut-China-to-Yum-China-Holdings/",
+      "link": "https://www.businesswire.com/news/home/20260806222127/en/iA-Financial-Group-Announces-the-Issuance-of-a-Redemption-Notice-to-Holders-of-3.072-Subordinated-Debentures-due-September-24-2031/",
       "published": null
     },
     {
-      "id": "stockanalysis:7846cc66b72cf247",
-      "titleEn": "Alibaba Group Will Announce June Quarter 2026 Results on August 20, 2026",
+      "id": "stockanalysis:f580af75a01a459f",
+      "titleEn": "Lomiko Metals Provides Update on Arrangement With Global Battery Materials, Loan Facility and Funding of the Yellow Fox Project",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260807747217/en/Alibaba-Group-Will-Announce-June-Quarter-2026-Results-on-August-20-2026/",
+      "topic": "EV",
+      "link": "https://www.businesswire.com/news/home/20260806947374/en/Lomiko-Metals-Provides-Update-on-Arrangement-With-Global-Battery-Materials-Loan-Facility-and-Funding-of-the-Yellow-Fox-Project/",
       "published": null
     },
     {
-      "id": "stockanalysis:5460bebbf046a555",
-      "titleEn": "Claritev Corporation Reports Second Quarter 2026 Results",
+      "id": "stockanalysis:57310288bfc76a94",
+      "titleEn": "Take-Two Interactive Software, Inc. Reports Results for Fiscal First Quarter 2027",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260807851894/en/Claritev-Corporation-Reports-Second-Quarter-2026-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:10524bd3c076a378",
-      "titleEn": "SES Advances Next-generation MEO Strategy Following Successful Completion of IRIS² Rendez-vous 1",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260807188135/en/SES-Advances-Next-generation-MEO-Strategy-Following-Successful-Completion-of-IRIS%C2%B2-Rendez-vous-1/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:71dd89186119980c",
-      "titleEn": "Mitsubishi Electric to Wholly Acquire Polish-based MEDCOM, Manufacturer of Electrical Equipment for Railcars",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260807139477/en/Mitsubishi-Electric-to-Wholly-Acquire-Polish-based-MEDCOM-Manufacturer-of-Electrical-Equipment-for-Railcars/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:505c12b05a77dc68",
-      "titleEn": "Eutelsat Communications: Full Year 2025-26 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260806033539/en/Eutelsat-Communications-Full-Year-2025-26-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:87896e35ff924352",
-      "titleEn": "Allianz Delivers Record Result and Is Well on Track to Achieve Its Targets",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260806509750/en/Allianz-Delivers-Record-Result-and-Is-Well-on-Track-to-Achieve-Its-Targets/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cb04e23afdc13880",
-      "titleEn": "Innovex International, Inc. Announces Pricing of Underwritten Offering of 5,000,000 Shares of Common Stock by Selling Stockholders",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260806645782/en/Innovex-International-Inc.-Announces-Pricing-of-Underwritten-Offering-of-5000000-Shares-of-Common-Stock-by-Selling-Stockholders/",
+      "link": "https://www.businesswire.com/news/home/20260806868549/en/Take-Two-Interactive-Software-Inc.-Reports-Results-for-Fiscal-First-Quarter-2027/",
       "published": null
     }
   ]
