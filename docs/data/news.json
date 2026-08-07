@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-07T22:08:10.960396Z",
+  "generatedAt": "2026-08-07T23:51:36.671714Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:f66c5fb50dd6b6b5",
+      "titleEn": "Gold's biggest headwind may finally be peaking",
+      "summaryEn": "(Kitco News) - Gold investors have spent much of 2026 confronting a frustrating paradox: the geopolitical and fiscal backdrop has arguably never looked more supportive for a safe-haven asset, yet gold has struggled in recent months as rising real interest rate expectations have dramatically increased the opportunity cost of holding a non-yielding metal. However, the important question for gold investors is no longer whether real yields are high; they unquestionably are. The question is whether they can move materially higher from here. For a growing number of analysts, the answer is: no. This week BCA Research argued that “the worst of real rates’ headwind to gold is likely behind us,” with Chief Commodities Strategist Roukaya Ibrahim noting that investors do not need Federal Reserve rate cuts to ignite another rally. They simply need real yields and the U.S. dollar to stop rising. That distinction is critical. Gold has already absorbed an extraordinary monetary-policy repricing. At the beginning of the year, markets anticipated one or two rate cuts. Today, investors are contemplating one or two hikes. Jefferies estimates that 10-year TIPS yields have risen to around 2.41% from 1.94% at the start of 2026. That abrupt reversal helped drive gold roughly 25% below its peak. Yet gold continues to defend the psychologically important $4,000-an-ounce level. The World Gold Council noted that gold finished July virtually unchanged at $4,027, even as rising yields remained a headwind. More importantly, European gold ETFs attracted inflows despite real Bund yields sitting at 15-year highs. In other words, gold has survived nearly everything the opportunity-cost argument could throw at it. Jefferies reaches a similar conclusion from history. Gold&#x27;s performance following previous real-rate shocks depended less on the absolute level of yields than on whether the upward pressure subsequently subsided. The firm argues that much of today&#x27;s repricing has already occurred and that easing real-rate pressure could allow gold and mining equities to recover. Meanwhile, the structural bullish forces haven&#x27;t disappeared. Central banks continue accumulating gold, de-dollarization remains an important theme, fiscal concerns haven&#x27;t gone away, and geopolitical uncertainty remains elevated. BCA expects official-sector demand to provide a floor even if central-bank purchases no longer generate the explosive upside they once did. Even inflation could ultimately become supportive, although not for the simplistic reason that gold is an inflation hedge. The World Gold Council argues that inflation becomes much more meaningful when it pushes above 4%, particularly if accompanied by falling real rates, dollar weakness or increasing recession risks. The bullish argument, therefore, doesn&#x27;t require a collapsing economy, emergency Fed easing or another inflation crisis. It merely requires the forces that pushed gold down to stop getting worse. After one of the most aggressive opportunity-cost shocks gold has faced in years, that threshold may finally have been reached. And if real yields have indeed peaked, gold&#x27;s biggest headwind could soon become its most important tailwind.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-07/golds-biggest-headwind-may-finally-be-peaking",
+      "published": null
+    },
     {
       "id": "stockanalysis:a7bb382cfb8723d9",
       "titleEn": "Gold, silver rally as weak payrolls cut Fed hike pressure - Kitco PM Report",
@@ -85,30 +94,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c6519deba8acc7a9",
-      "titleEn": "Oklo stock rises 13% as first-ever revenue tops estimates despite wider Q2 loss",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/07/oklo-stock-rises-13-as-first-ever-revenue-tops-estimates-despite-wider-q2-loss/",
-      "published": null
-    },
-    {
       "id": "stockanalysis:b1616ab5a61bc02a",
       "titleEn": "Boost Run Announces Date of Second Quarter 2026 Financial Results Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260807127572/en/Boost-Run-Announces-Date-of-Second-Quarter-2026-Financial-Results-Conference-Call/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:791884f72f8ce2b4",
-      "titleEn": "GreenFirst to Host Second Quarter 2026 Earnings Call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260807287771/en/GreenFirst-to-Host-Second-Quarter-2026-Earnings-Call/",
       "published": null
     }
   ]
