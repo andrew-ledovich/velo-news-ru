@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-07T18:01:56.336874Z",
+  "generatedAt": "2026-08-07T20:09:43.863975Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:29213871b08506e7",
+      "titleEn": "Twilio stock jumps as analysts boosts their forecasts after stellar earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/07/twilio-stock-jumps-as-analysts-boosts-their-forecasts-after-stellar-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cface84d00d8dae0",
+      "titleEn": "AMD stock slips even as it makes an acquisition to compete with Nvidia",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/07/amd-stock-slips-even-as-it-makes-an-acquisition-to-compete-with-nvidia/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:33d21ed42ecac133",
+      "titleEn": "What Samsung, SK Hynix, and Micron's capex mean for the future of the memory trade?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/07/what-samsung-sk-hynix-and-microns-capex-mean-for-the-future-of-the-memory-trade/",
+      "published": null
+    },
     {
       "id": "stockanalysis:6f9d2d2f3a891854",
       "titleEn": "PBOC boosts gold buying with largest monthly purchase since 2023",
@@ -76,93 +103,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:7fa484807bf34a5b",
-      "titleEn": "Live Commerce Platform Whatnot Raises $545 Million to Speed AI Expansion",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The round increased Whatnot’s valuation to $20 billion, up from the $11.5 billion valuation the company achieved in an October 2025 Series F round in which it raised $225 million. “This investment helps us to build better tools, bring AI to more parts of the selling experience, help sellers reach more buyers, expand into new markets, and continue building the world’s biggest and most trusted marketplace,” Whatnot Co-Founder and CEO Grant LaFontaine said in the release.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/live-commerce-platform-whatnot-raises-545-million-to-speed-ai-expansion/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:42a62a502e8781b8",
-      "titleEn": "Cloudflare stock jumps 16% as AI demand drives higher 2026 revenue forecast",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/07/cloudflare-stock-jumps-16-as-ai-demand-drives-higher-2026-revenue-forecast/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9841ca0de0ea8b38",
-      "titleEn": "Gold prices surging higher as U.S. economy loses 23k jobs in July",
-      "summaryEn": "(Kitco News) - The gold market is surging higher as the U.S. economy lost jobs in July, significantly missing expectations. The Bureau of Labor Statistics said the economy lost 23,000 jobs in July, versus expectations for a gain of 85,000. The spot gold price last traded at $4,367.80 an ounce, up 3% on the day. Gold prices are once again surging higher, climbing to $4,350 an ounce as the U.S. economy lost jobs last month, significantly missing expectations. The Bureau of Labor Statistics reported on Friday that U.S. nonfarm payrolls fell by 23,000 in July. The jobs number missed consensus forecasts, as economists had anticipated job gains of around 85,000. This is the second contraction in the labor market this year.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-07/gold-prices-surging-higher-us-economy-loses-23k-jobs-july",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:27dd44c43356814b",
-      "titleEn": "Atlassian stock jumps as CEO buys the dip after earnings: What's next?",
+      "id": "stockanalysis:d02fc0f8790a0309",
+      "titleEn": "CareDx Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/07/atlassian-stock-jumps-as-ceo-buys-the-dip-after-earnings-whats-next/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:13bbc99cb6e46925",
-      "titleEn": "The Trade Desk stock is in a freefall after earnings: classic value trap?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/07/the-trade-desk-stock-is-in-a-freefall-after-earnings-classic-value-trap/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:36dd911bb5a019c2",
-      "titleEn": "PubMatic to Participate in Upcoming Financial Conferences",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260807658506/en/PubMatic-to-Participate-in-Upcoming-Financial-Conferences/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6307dd385f81673e",
-      "titleEn": "Intel Announces Leadership Appointment to Strengthen Customer Engagement and Accelerate Growth",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260807148950/en/Intel-Announces-Leadership-Appointment-to-Strengthen-Customer-Engagement-and-Accelerate-Growth/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c75a932340456975",
-      "titleEn": "UNITE HERE Local 8: Are Hilton Hotels nICE Hotels? Seattle Embassy Suites Workers Call Out Company's Insufficient Protections for Immigrants as Strike Passes 50 Days",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260807480874/en/UNITE-HERE-Local-8-Are-Hilton-Hotels-nICE-Hotels-Seattle-Embassy-Suites-Workers-Call-Out-Company%E2%80%99s-Insufficient-Protections-for-Immigrants-as-Strike-Passes-50-Days/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:79b375c385c3f039",
-      "titleEn": "Merchants &amp; Marine Bancorp, Inc. Announces Second Quarter Financial Results and Share Repurchase Program",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260807147252/en/Merchants-Marine-Bancorp-Inc.-Announces-Second-Quarter-Financial-Results-and-Share-Repurchase-Program/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:647e7f17fec474b9",
-      "titleEn": "Energy Vault Announces Strategic Agreement to Deploy 1.25 GW of Integrated Power Infrastructure for Hyperscaler AI Data Center with Leading Power Generation EPC Deploying Caterpillar Gensets",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260807600552/en/Energy-Vault-Announces-Strategic-Agreement-to-Deploy-1.25-GW-of-Integrated-Power-Infrastructure-for-Hyperscaler-AI-Data-Center-with-Leading-Power-Generation-EPC-Deploying-Caterpillar-Gensets/",
+      "link": "https://www.businesswire.com/news/home/20260807173604/en/CareDx-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4/",
       "published": null
     }
   ]
