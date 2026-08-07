@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-08-07T01:44:05.446933Z",
+  "generatedAt": "2026-08-07T06:00:39.453219Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:a5d0f6408667384c",
+      "titleEn": "Tesla stock's Terafab shock: is Elon Musk building future or a $17 billion trap?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/08/07/tesla-stocks-terafab-shock-is-elon-musk-building-future-or-a-17-billion-trap/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c391ee0561ed2858",
+      "titleEn": "Samsung climbs while SK Hynix drops 5%: why Korea's AI giants are moving apart",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/07/samsung-climbs-while-sk-hynix-drops-5-why-koreas-ai-giants-are-moving-apart/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:08a8da6d8d445a9c",
+      "titleEn": "Tom Lee reveals his S&amp;P 500 target for the end of August",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/07/tom-lee-reveals-his-sp-500-target-for-the-end-of-august/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e11b83e7b30e6d67",
+      "titleEn": "Xiaomi stock forms shooting star ahead of earnings: what next?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/07/xiaomi-stock-forms-shooting-star-ahead-of-earnings-what-next/",
+      "published": null
+    },
     {
       "id": "stockanalysis:0e59a5107b10fa38",
       "titleEn": "FIS Expands Commercial Banking Platform to APAC Region",
@@ -31,12 +67,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:bbdc11d599a079ca",
-      "titleEn": "Gold's rally is about a growing lack of investor confidence; silver could offer bigger gains says MarketGauge's Schneider",
-      "summaryEn": "(Kitco News) - Gold&#x27;s rally above $4,200 signals more than a shift in inflation expectations or global monetary policy; it reflects growing investor doubts that policymakers can keep the global economy on stable footing, according to one market strategist. In an interview with Kitco News, Michele Schneider, Chief Market Strategist at MarketGauge, reiterated her long-term bullish outlook for gold as prices have moved solidly back above their 50-day moving average. However, she added that investors should keep an eye on silver , as the metal has lagged but could ultimately deliver stronger gains if persistent inflation pressures begin to re-emerge and confidence in governments and central banks continues to erode. Schneider added that while the force behind gold&#x27;s 4% rally Wednesday was surprising, the move was not unexpected, as the price has been consolidating around $4,000 an ounce for the last two months.",
+      "id": "stockanalysis:505c12b05a77dc68",
+      "titleEn": "Eutelsat Communications: Full Year 2025-26 Results",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-06/golds-rally-about-growing-lack-investor-confidence-silver-could-offer",
+      "link": "https://www.businesswire.com/news/home/20260806033539/en/Eutelsat-Communications-Full-Year-2025-26-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:87896e35ff924352",
+      "titleEn": "Allianz Delivers Record Result and Is Well on Track to Achieve Its Targets",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260806509750/en/Allianz-Delivers-Record-Result-and-Is-Well-on-Track-to-Achieve-Its-Targets/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cb04e23afdc13880",
+      "titleEn": "Innovex International, Inc. Announces Pricing of Underwritten Offering of 5,000,000 Shares of Common Stock by Selling Stockholders",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260806645782/en/Innovex-International-Inc.-Announces-Pricing-of-Underwritten-Offering-of-5000000-Shares-of-Common-Stock-by-Selling-Stockholders/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:21e447f297cb0a70",
+      "titleEn": "UPDATED: DARPA Selects IonQ to Produce Next-Generation Atomic Clocks",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260806095651/en/UPDATED-DARPA-Selects-IonQ-to-Produce-Next-Generation-Atomic-Clocks/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9a8d6887570a27df",
+      "titleEn": "Broadstone Net Lease, Inc. Announces Pricing of Public Offering of Common Stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260806710223/en/Broadstone-Net-Lease-Inc.-Announces-Pricing-of-Public-Offering-of-Common-Stock/",
       "published": null
     },
     {
@@ -55,24 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260806121389/en/Republic-Technologies-Files-Amended-Interim-Financial-Statements-and-MDA/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:40ff4e26668bb97b",
-      "titleEn": "IMMX Investors Have Opportunity to Join Immix Biopharma, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260806535685/en/IMMX-Investors-Have-Opportunity-to-Join-Immix-Biopharma-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:da8e6281ec92960b",
-      "titleEn": "Faraday Future Announces Second Quarter 2026 Earnings Release Date and Conference Call Details to Be Held on August 13, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260806990899/en/Faraday-Future-Announces-Second-Quarter-2026-Earnings-Release-Date-and-Conference-Call-Details-to-Be-Held-on-August-13-2026/",
       "published": null
     }
   ]
