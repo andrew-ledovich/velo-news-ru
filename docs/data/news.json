@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-07T06:00:39.453219Z",
+  "generatedAt": "2026-08-07T09:40:29.062412Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:d6755928a16674bb",
+      "titleEn": "Airbnb stock jumps 11% as World Cup travel sparks a surprise growth burst",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/07/airbnb-stock-jumps-11-as-world-cup-travel-sparks-a-surprise-growth-burst/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5ca8bac537c0340d",
+      "titleEn": "Michael Burry exits Microsoft, Oracle stocks: why is he still shorting Palantir?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/07/michael-burry-exits-microsoft-oracle-stocks-why-is-he-still-shorting-palantir/",
+      "published": null
+    },
     {
       "id": "stockanalysis:a5d0f6408667384c",
       "titleEn": "Tesla stock's Terafab shock: is Elon Musk building future or a $17 billion trap?",
@@ -67,6 +85,51 @@
       "published": null
     },
     {
+      "id": "stockanalysis:6f3d98687af7acc6",
+      "titleEn": "Yum! Brands Completes Sale of Pizza Hut China to Yum China Holdings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260807360947/en/Yum%21-Brands-Completes-Sale-of-Pizza-Hut-China-to-Yum-China-Holdings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7846cc66b72cf247",
+      "titleEn": "Alibaba Group Will Announce June Quarter 2026 Results on August 20, 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260807747217/en/Alibaba-Group-Will-Announce-June-Quarter-2026-Results-on-August-20-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5460bebbf046a555",
+      "titleEn": "Claritev Corporation Reports Second Quarter 2026 Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260807851894/en/Claritev-Corporation-Reports-Second-Quarter-2026-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:10524bd3c076a378",
+      "titleEn": "SES Advances Next-generation MEO Strategy Following Successful Completion of IRIS² Rendez-vous 1",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260807188135/en/SES-Advances-Next-generation-MEO-Strategy-Following-Successful-Completion-of-IRIS%C2%B2-Rendez-vous-1/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:71dd89186119980c",
+      "titleEn": "Mitsubishi Electric to Wholly Acquire Polish-based MEDCOM, Manufacturer of Electrical Equipment for Railcars",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260807139477/en/Mitsubishi-Electric-to-Wholly-Acquire-Polish-based-MEDCOM-Manufacturer-of-Electrical-Equipment-for-Railcars/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:505c12b05a77dc68",
       "titleEn": "Eutelsat Communications: Full Year 2025-26 Results",
       "summaryEn": null,
@@ -91,42 +154,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260806645782/en/Innovex-International-Inc.-Announces-Pricing-of-Underwritten-Offering-of-5000000-Shares-of-Common-Stock-by-Selling-Stockholders/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:21e447f297cb0a70",
-      "titleEn": "UPDATED: DARPA Selects IonQ to Produce Next-Generation Atomic Clocks",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260806095651/en/UPDATED-DARPA-Selects-IonQ-to-Produce-Next-Generation-Atomic-Clocks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9a8d6887570a27df",
-      "titleEn": "Broadstone Net Lease, Inc. Announces Pricing of Public Offering of Common Stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260806710223/en/Broadstone-Net-Lease-Inc.-Announces-Pricing-of-Public-Offering-of-Common-Stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:78587b8545220928",
-      "titleEn": "China's Commerce Innovation Is Reshaping Global Retail",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260806783537/en/China%E2%80%99s-Commerce-Innovation-Is-Reshaping-Global-Retail/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4f82a4629b23b7f3",
-      "titleEn": "Republic Technologies Files Amended Interim Financial Statements and MD&amp;A",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260806121389/en/Republic-Technologies-Files-Amended-Interim-Financial-Statements-and-MDA/",
       "published": null
     }
   ]
