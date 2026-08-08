@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-08T18:04:30.794988Z",
+  "generatedAt": "2026-08-08T19:45:23.632422Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 16,
   "items": [
     {
       "id": "stockanalysis:c77f887bda2c6bcb",
@@ -109,6 +109,33 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/07/amd-stock-slips-even-as-it-makes-an-acquisition-to-compete-with-nvidia/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:68e20a797d154c9e",
+      "titleEn": "AHCO Investors Have Opportunity to Join AdaptHealth Corp. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260808319639/en/AHCO-Investors-Have-Opportunity-to-Join-AdaptHealth-Corp.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9f3808d2aba480bb",
+      "titleEn": "AGCO Investors Have Opportunity to Join AGCO Corporation Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260808995906/en/AGCO-Investors-Have-Opportunity-to-Join-AGCO-Corporation-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c143ea2f9bf42321",
+      "titleEn": "MYGN Investors Have Opportunity to Join Myriad Genetics, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260808374266/en/MYGN-Investors-Have-Opportunity-to-Join-Myriad-Genetics-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
