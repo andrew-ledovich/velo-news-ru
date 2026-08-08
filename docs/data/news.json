@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-08T21:04:17.209963Z",
+  "generatedAt": "2026-08-08T22:02:29.927363Z",
   "sourceCount": 1,
-  "count": 22,
+  "count": 23,
   "items": [
     {
       "id": "stockanalysis:c77f887bda2c6bcb",
@@ -109,6 +109,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/07/amd-stock-slips-even-as-it-makes-an-acquisition-to-compete-with-nvidia/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fe5e75de15dfb10d",
+      "titleEn": "VRT Investors Have Opportunity to Join Vertiv Holdings Co Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260808162585/en/VRT-Investors-Have-Opportunity-to-Join-Vertiv-Holdings-Co-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
