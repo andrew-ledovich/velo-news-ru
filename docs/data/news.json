@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-08T19:45:23.632422Z",
+  "generatedAt": "2026-08-08T21:04:17.209963Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 22,
   "items": [
     {
       "id": "stockanalysis:c77f887bda2c6bcb",
@@ -109,6 +109,60 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/07/amd-stock-slips-even-as-it-makes-an-acquisition-to-compete-with-nvidia/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5a3c53a3ab865457",
+      "titleEn": "LII Investors Have Opportunity to Join Lennox International, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260808039749/en/LII-Investors-Have-Opportunity-to-Join-Lennox-International-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0bf5578b7c81a86f",
+      "titleEn": "MCB Investors Have Opportunity to Join Metropolitan Bank Holding Corp. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260808196176/en/MCB-Investors-Have-Opportunity-to-Join-Metropolitan-Bank-Holding-Corp.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bdaa97527fbc6fb1",
+      "titleEn": "YUM Investors Have Opportunity to Join Yum! Brands, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260808171698/en/YUM-Investors-Have-Opportunity-to-Join-Yum%21-Brands-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1dcf77b7f2c7ac74",
+      "titleEn": "IONS Investors Have Opportunity to Join Ionis Pharmaceuticals, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260808352745/en/IONS-Investors-Have-Opportunity-to-Join-Ionis-Pharmaceuticals-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0446006d5c2b7a13",
+      "titleEn": "GOOG Investors Have Opportunity to Join Alphabet Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260808302457/en/GOOG-Investors-Have-Opportunity-to-Join-Alphabet-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:aedc76e12389fb90",
+      "titleEn": "MO Investors Have Opportunity to Join Altria Group, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260808678046/en/MO-Investors-Have-Opportunity-to-Join-Altria-Group-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
