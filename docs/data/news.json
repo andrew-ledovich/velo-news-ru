@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-07T23:51:36.671714Z",
+  "generatedAt": "2026-08-08T03:59:39.565205Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:f66c5fb50dd6b6b5",
@@ -82,15 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/07/ceo-says-hertz-stock-is-undervalued-but-is-it-really/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:77043ed287c60215",
-      "titleEn": "Doximity stock is reversing post-earnings rally: why that shouldn't surprise you",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/07/doximity-stock-is-reversing-post-earnings-rally-why-that-shouldnt-surprise-you/",
       "published": null
     },
     {
