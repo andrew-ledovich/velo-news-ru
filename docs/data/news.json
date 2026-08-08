@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-08T10:03:16.366519Z",
+  "generatedAt": "2026-08-08T11:44:38.014614Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:a6e645ef4ce2fc44",
+      "titleEn": "These three AI stocks are must-own after SpaceX earnings call",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/08/these-three-ai-stocks-are-must-own-after-spacex-earnings-call/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a2992479f65e0ef3",
+      "titleEn": "Apple and OpenAI escalate legal battle over devices",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: A legal battle between Apple and OpenAI over the ChatGPT maker's secretive device project escalated this week when the artificial intelligence (AI) developer called the iPhone maker's allegations \"baseless\" and asked for the lawsuit to be dismissed. Apple sued OpenAI last month in San Jose, California, accusing the AI company of orchestrating a campaign to steal the iPhone maker's trade secrets through former employees as it tries to develop its own consumer hardware device.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-08-apple-openai-escalate-legal-devices.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d9d417e331cc5265",
+      "titleEn": "These 2 AI stocks are getting crushed: Goldman Sachs says buy the dip",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/08/sk-hynix-samsung-ai-stocks-are-getting-crushed-goldman-sachs-says-buy-the-dip/",
+      "published": null
+    },
     {
       "id": "stockanalysis:0e2a38b177d97e18",
       "titleEn": "EU tells Meta, TikTok to boost monitoring, fact-checking",
