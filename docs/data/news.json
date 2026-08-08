@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-08T14:01:43.216419Z",
+  "generatedAt": "2026-08-08T15:15:14.387837Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:c77f887bda2c6bcb",
@@ -109,15 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/07/amd-stock-slips-even-as-it-makes-an-acquisition-to-compete-with-nvidia/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:33d21ed42ecac133",
-      "titleEn": "What Samsung, SK Hynix, and Micron's capex mean for the future of the memory trade?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/07/what-samsung-sk-hynix-and-microns-capex-mean-for-the-future-of-the-memory-trade/",
       "published": null
     },
     {
