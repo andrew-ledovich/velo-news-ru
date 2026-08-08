@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-08T11:44:38.014614Z",
+  "generatedAt": "2026-08-08T14:01:43.216419Z",
   "sourceCount": 1,
   "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:c77f887bda2c6bcb",
+      "titleEn": "Has Atlassian, ServiceNow performance this quarter reduced SaaSocalypse fears",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/08/has-atlassian-servicenow-performance-this-quarter-reduced-saasocalypse-fears/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3d22f859c660a882",
+      "titleEn": "From Meta to OpenAI: AI security enters a new era as autonomous cyberattacks emerge",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/08/from-meta-to-openai-ai-security-enters-a-new-era-as-autonomous-cyberattacks-emerge/",
+      "published": null
+    },
     {
       "id": "stockanalysis:a6e645ef4ce2fc44",
       "titleEn": "These three AI stocks are must-own after SpaceX earnings call",
@@ -103,30 +121,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:6f9d2d2f3a891854",
-      "titleEn": "PBOC boosts gold buying with largest monthly purchase since 2023",
-      "summaryEn": "(Kitco News) - Not only has the People’s Bank of China bought gold for 21 straight months, but the central bank has also continued to make solid tactical moves as prices have dropped nearly 30% from their all-time highs at the start of the year. According to the central bank’s latest reserve data, the PBOC bought 20 tonnes of gold in July—the largest monthly increase since October 2023. Since March, the central bank has increased the pace of its monthly purchases. “This lifts YTD net additions to 60 tonnes, and total gold holdings to 2,366 tonnes,” said Krishan Gopaul, Senior Analyst, EMEA at the World Gold Council (WGC), in a social media post on Friday.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-07/pboc-boosts-gold-buying-largest-monthly-purchase-2023",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:59a996d03779194b",
-      "titleEn": "CEO says Hertz stock is undervalued - but is it really?",
+      "id": "stockanalysis:cf1709a386272da5",
+      "titleEn": "Berkshire Hathaway Inc. News Release",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/07/ceo-says-hertz-stock-is-undervalued-but-is-it-really/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b1616ab5a61bc02a",
-      "titleEn": "Boost Run Announces Date of Second Quarter 2026 Financial Results Conference Call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260807127572/en/Boost-Run-Announces-Date-of-Second-Quarter-2026-Financial-Results-Conference-Call/",
+      "link": "https://www.businesswire.com/news/home/20260808394021/en/Berkshire-Hathaway-Inc.-News-Release/",
       "published": null
     }
   ]
