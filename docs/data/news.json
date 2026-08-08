@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-08T08:08:38.074771Z",
+  "generatedAt": "2026-08-08T10:03:16.366519Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:0e2a38b177d97e18",
+      "titleEn": "EU tells Meta, TikTok to boost monitoring, fact-checking",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: The EU's tech chief called on Meta and TikTok to \"act decisively\" to stem disinformation at times of crisis, saying the European Commission held talks with both platforms Friday following last week's Ceuta migrant surge. A wave of social media disinformation is believed to have played a large part in the deadly rush of tens of thousands of men, women and children into Spain's North African territory after a rumor that the Ceuta border was open spread on social media.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-08-eu-meta-tiktok-boost-fact.html",
+      "published": null
+    },
     {
       "id": "stockanalysis:f66c5fb50dd6b6b5",
       "titleEn": "Gold's biggest headwind may finally be peaking",
