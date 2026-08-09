@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-09T19:21:04.762394Z",
+  "generatedAt": "2026-08-09T21:04:21.302476Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:b9a5f8eaf946753d",
@@ -103,39 +103,30 @@
       "published": null
     },
     {
+      "id": "stockanalysis:fbe659810dc1ca0f",
+      "titleEn": "NE Investors Have Opportunity to Join Noble Corporation plc Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260809514887/en/NE-Investors-Have-Opportunity-to-Join-Noble-Corporation-plc-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:366f4cc4aaca4a88",
+      "titleEn": "LMB Investors Have Opportunity to Join Limbach Holdings, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260809474905/en/LMB-Investors-Have-Opportunity-to-Join-Limbach-Holdings-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:fe5e75de15dfb10d",
       "titleEn": "VRT Investors Have Opportunity to Join Vertiv Holdings Co Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260808162585/en/VRT-Investors-Have-Opportunity-to-Join-Vertiv-Holdings-Co-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5a3c53a3ab865457",
-      "titleEn": "LII Investors Have Opportunity to Join Lennox International, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260808039749/en/LII-Investors-Have-Opportunity-to-Join-Lennox-International-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0bf5578b7c81a86f",
-      "titleEn": "MCB Investors Have Opportunity to Join Metropolitan Bank Holding Corp. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260808196176/en/MCB-Investors-Have-Opportunity-to-Join-Metropolitan-Bank-Holding-Corp.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bdaa97527fbc6fb1",
-      "titleEn": "YUM Investors Have Opportunity to Join Yum! Brands, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260808171698/en/YUM-Investors-Have-Opportunity-to-Join-Yum%21-Brands-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
