@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-09T17:18:08.585252Z",
+  "generatedAt": "2026-08-09T19:21:04.762394Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 15,
   "items": [
     {
       "id": "stockanalysis:b9a5f8eaf946753d",
@@ -136,42 +136,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260808171698/en/YUM-Investors-Have-Opportunity-to-Join-Yum%21-Brands-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1dcf77b7f2c7ac74",
-      "titleEn": "IONS Investors Have Opportunity to Join Ionis Pharmaceuticals, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260808352745/en/IONS-Investors-Have-Opportunity-to-Join-Ionis-Pharmaceuticals-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0446006d5c2b7a13",
-      "titleEn": "GOOG Investors Have Opportunity to Join Alphabet Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260808302457/en/GOOG-Investors-Have-Opportunity-to-Join-Alphabet-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:aedc76e12389fb90",
-      "titleEn": "MO Investors Have Opportunity to Join Altria Group, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260808678046/en/MO-Investors-Have-Opportunity-to-Join-Altria-Group-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:68e20a797d154c9e",
-      "titleEn": "AHCO Investors Have Opportunity to Join AdaptHealth Corp. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260808319639/en/AHCO-Investors-Have-Opportunity-to-Join-AdaptHealth-Corp.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
