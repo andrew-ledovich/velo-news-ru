@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-09T09:10:22.579906Z",
+  "generatedAt": "2026-08-09T11:02:10.643980Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 19,
   "items": [
     {
       "id": "stockanalysis:c77f887bda2c6bcb",
@@ -91,15 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.pymnts.com/news/retail/2026/qvc-group-emerges-from-bankruptcy-with-600-million-dollar-asset-backed-facility/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:29213871b08506e7",
-      "titleEn": "Twilio stock jumps as analysts boosts their forecasts after stellar earnings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/07/twilio-stock-jumps-as-analysts-boosts-their-forecasts-after-stellar-earnings/",
       "published": null
     },
     {
