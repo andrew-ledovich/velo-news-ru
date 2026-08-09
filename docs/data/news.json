@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-09T06:31:25.481317Z",
+  "generatedAt": "2026-08-09T09:10:22.579906Z",
   "sourceCount": 1,
-  "count": 22,
+  "count": 20,
   "items": [
     {
       "id": "stockanalysis:c77f887bda2c6bcb",
@@ -103,15 +103,6 @@
       "published": null
     },
     {
-      "id": "stockanalysis:cface84d00d8dae0",
-      "titleEn": "AMD stock slips even as it makes an acquisition to compete with Nvidia",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/07/amd-stock-slips-even-as-it-makes-an-acquisition-to-compete-with-nvidia/",
-      "published": null
-    },
-    {
       "id": "stockanalysis:fe5e75de15dfb10d",
       "titleEn": "VRT Investors Have Opportunity to Join Vertiv Holdings Co Fraud Investigation with SBS Law",
       "summaryEn": null,
@@ -190,15 +181,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260808995906/en/AGCO-Investors-Have-Opportunity-to-Join-AGCO-Corporation-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c143ea2f9bf42321",
-      "titleEn": "MYGN Investors Have Opportunity to Join Myriad Genetics, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260808374266/en/MYGN-Investors-Have-Opportunity-to-Join-Myriad-Genetics-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
