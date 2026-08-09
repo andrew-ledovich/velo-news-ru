@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-08T23:14:00.832588Z",
+  "generatedAt": "2026-08-09T04:04:35.209420Z",
   "sourceCount": 1,
-  "count": 23,
+  "count": 22,
   "items": [
     {
       "id": "stockanalysis:c77f887bda2c6bcb",
@@ -199,15 +199,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260808374266/en/MYGN-Investors-Have-Opportunity-to-Join-Myriad-Genetics-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cf1709a386272da5",
-      "titleEn": "Berkshire Hathaway Inc. News Release",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260808394021/en/Berkshire-Hathaway-Inc.-News-Release/",
       "published": null
     }
   ]
