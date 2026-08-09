@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-09T22:14:47.487085Z",
+  "generatedAt": "2026-08-09T23:53:16.494324Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 16,
   "items": [
     {
       "id": "stockanalysis:b9a5f8eaf946753d",
@@ -100,6 +100,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.pymnts.com/news/retail/2026/qvc-group-emerges-from-bankruptcy-with-600-million-dollar-asset-backed-facility/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c43d3e057aad502a",
+      "titleEn": "Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Renewed Nasdaq Compliance, “Built in USA” Upgrades Including the Launch of Universal Beyond-Line-of-Sight Teleoperation and Multi-Robot Control Platform",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260809948167/en/Faraday-Future-Founder-and-Global-CEO-YT-Jia-Shares-Weekly-Investor-Update-Renewed-Nasdaq-Compliance-%E2%80%9CBuilt-in-USA%E2%80%9D-Upgrades-Including-the-Launch-of-Universal-Beyond-Line-of-Sight-Teleoperation-and-Multi-Robot-Control-Platform/",
       "published": null
     },
     {
