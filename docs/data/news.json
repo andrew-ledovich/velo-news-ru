@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-09T15:57:01.428313Z",
+  "generatedAt": "2026-08-09T17:18:08.585252Z",
   "sourceCount": 1,
   "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:b9a5f8eaf946753d",
+      "titleEn": "TLT ETF slumps as US debt nears $40 trillion, 30-year yield jumps",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/09/tlt-etf-slumps-as-us-debt-nears-40-trillion-30-year-yield-jumps/",
+      "published": null
+    },
     {
       "id": "stockanalysis:c77f887bda2c6bcb",
       "titleEn": "Has Atlassian, ServiceNow performance this quarter reduced SaaSocalypse fears",
@@ -163,15 +172,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260808319639/en/AHCO-Investors-Have-Opportunity-to-Join-AdaptHealth-Corp.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9f3808d2aba480bb",
-      "titleEn": "AGCO Investors Have Opportunity to Join AGCO Corporation Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260808995906/en/AGCO-Investors-Have-Opportunity-to-Join-AGCO-Corporation-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
