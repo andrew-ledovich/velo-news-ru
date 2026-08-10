@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-10T22:09:48.688324Z",
+  "generatedAt": "2026-08-10T23:57:09.648754Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:92731e1c2ee3af42",
+      "titleEn": "Gold and silver rise as oil jump revives inflation-risk trade - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Gold and silver prices are higher in late-afternoon U.S. trading Monday, as the market balanced last week’s weak labor data against a rebound in oil prices, Treasury yields and Fed rate-hike expectations. At the time of writing, spot gold was trading near $4,358.71 an ounce, up 0.4%, while front-month silver futures settled at $65.106 an ounce, up 2.80% on the session. North American equity markets slipped from record territory. The S&P 500 fell 4.53 points, or 0.1%, to 7,753.11, the Dow Jones Industrial Average fell 60.95 points, or 0.1%, to 53,975.98, the Nasdaq Composite lost 85.26 points, or 0.3%, to 26,605.36, and the Russell 2000 fell 17.10 points, or 0.6%, to 3,017.40. European markets were mixed to weaker, with London’s FTSE 100 down 0.5%, or 55 points, at 10,845, France’s CAC 40 down 0.1% and Germany’s DAX up 0.35%. The latest market positioning remains defined by the collision between Friday’s payroll shock and Monday’s oil-driven inflation risk. July payrolls fell by 23,000, prior months were revised lower and last week’s data pushed the implied probability of a September Fed rate hike down to 44.4% from 54.7% before the release. That relief trade faded Monday as the rate-hike probability climbed back to 51.7%, while the 30-year Treasury yield rose 5 basis points to 5.244%, just below its July 31 closing high of 5.253%. The next test is July CPI Wednesday at 8:30 a.m. ET, followed by PPI Thursday at 8:30 a.m. ET and retail sales Friday at 8:30 a.m. ET.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-10/gold-and-silver-rise-oil-jump-revives-inflation-risk-trade-kitco-pm-report",
+      "published": null
+    },
     {
       "id": "stockanalysis:ae672b2faaf27b3b",
       "titleEn": "Price correction ‘improved the long-term risk-reward profile' for both gold and silver – Sprott's Smirnova",
@@ -67,75 +76,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:b7145b6d7ba7bb61",
-      "titleEn": "Paysafe Extends Digital Wallet to Poland After Adding 600,000 European Users",
-      "summaryEn": "Global payments platform Paysafe has extended the availability of its digital wallet to Poland as the company continues the expansion of this offering across Europe. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Paysafe already offered PaysafeCard in Poland, and PaysafeWallet builds on that by adding a digital wallet, according to the release.",
+      "id": "stockanalysis:11d6b5f7627d8363",
+      "titleEn": "CORRECTING and REPLACING MVB Bank Selects Bretton AI to Run Its Back-Office Operations as It Scales Its Fintech Business",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/payment-methods/2026/paysafe-extends-digital-wallet-to-poland-after-adding-600000-european-users/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260806161632/en/CORRECTING-and-REPLACING-MVB-Bank-Selects-Bretton-AI-to-Run-Its-Back-Office-Operations-as-It-Scales-Its-Fintech-Business/",
       "published": null
     },
     {
-      "id": "stockanalysis:8f860ae4c9830d64",
-      "titleEn": "eBay stock slides 4% after report says GameStop may abandon takeover bid",
+      "id": "stockanalysis:cd7706509da09c9e",
+      "titleEn": "Modiv Industrial Stockholders Approve Merger with Global Net Lease",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/10/ebay-shares-slide-4-after-report-says-gamestop-may-abandon-takeover-bid/",
+      "link": "https://www.businesswire.com/news/home/20260810745525/en/Modiv-Industrial-Stockholders-Approve-Merger-with-Global-Net-Lease/",
       "published": null
     },
     {
-      "id": "stockanalysis:821b64e3d89336c2",
-      "titleEn": "Anaergia Reports 98% Revenue Growth, Fourth Consecutive Quarter of Positive Adjusted EBITDA, and Revenue Backlog Expansion to $274.9 Million in Q2 2026",
+      "id": "stockanalysis:e79060296717d18c",
+      "titleEn": "Griffon Corporation Announces Pricing of $800 Million Senior Notes Offering",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810975388/en/Anaergia-Reports-98-Revenue-Growth-Fourth-Consecutive-Quarter-of-Positive-Adjusted-EBITDA-and-Revenue-Backlog-Expansion-to-274.9-Million-in-Q2-2026/",
+      "link": "https://www.businesswire.com/news/home/20260810493153/en/Griffon-Corporation-Announces-Pricing-of-800-Million-Senior-Notes-Offering/",
       "published": null
     },
     {
-      "id": "stockanalysis:a96aa59a7c04fb33",
-      "titleEn": "Save the Date: Onto Innovation to Host Analyst Event and Participate in Upcoming Investor Conferences",
+      "id": "stockanalysis:158b1f183414f28b",
+      "titleEn": "Walker &amp; Dunlop Investment Partners Delivers $242 Million in Multifamily Bridge Lending as Private Credit Opportunity Grows",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810968128/en/Save-the-Date-Onto-Innovation-to-Host-Analyst-Event-and-Participate-in-Upcoming-Investor-Conferences/",
+      "link": "https://www.businesswire.com/news/home/20260810618301/en/Walker-Dunlop-Investment-Partners-Delivers-242-Million-in-Multifamily-Bridge-Lending-as-Private-Credit-Opportunity-Grows/",
       "published": null
     },
     {
-      "id": "stockanalysis:dbeac52b5e8a11d6",
-      "titleEn": "Verde Clean Fuels, Inc. Reports Q2 2026 Results",
+      "id": "stockanalysis:936ccb0635d8ac67",
+      "titleEn": "Sherritt Comments on Press Release Regarding Recapitalization Proposal",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810872506/en/Verde-Clean-Fuels-Inc.-Reports-Q2-2026-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:21d6e61484c8b49a",
-      "titleEn": "L3Harris Conducts Successful Hot-Fire Test in Major Milestone for Next Generation Interceptor Program",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810952227/en/L3Harris-Conducts-Successful-Hot-Fire-Test-in-Major-Milestone-for-Next-Generation-Interceptor-Program/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6a2426e931ebd3ac",
-      "titleEn": "Sable Offshore Corp. Announces Timing of Second Quarter 2026 Earnings Conference Call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260809733800/en/Sable-Offshore-Corp.-Announces-Timing-of-Second-Quarter-2026-Earnings-Conference-Call/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:857ff14740c8a5fa",
-      "titleEn": "Sable Offshore Corp. Reports Second Quarter 2026 Financial and Operational Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260809336520/en/Sable-Offshore-Corp.-Reports-Second-Quarter-2026-Financial-and-Operational-Results/",
+      "link": "https://www.businesswire.com/news/home/20260810615687/en/Sherritt-Comments-on-Press-Release-Regarding-Recapitalization-Proposal/",
       "published": null
     }
   ]
