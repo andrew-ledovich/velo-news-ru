@@ -1,8 +1,80 @@
 {
-  "generatedAt": "2026-08-10T14:33:15.470171Z",
+  "generatedAt": "2026-08-10T17:39:15.049159Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 26,
   "items": [
+    {
+      "id": "stockanalysis:a7da886eb35e1629",
+      "titleEn": "HPE stock jumps as Morgan Stanley upgrades AI infrastructure outlook",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/10/hpe-stock-jumps-as-morgan-stanley-upgrades-ai-infrastructure-outlook/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:388655e335f2967c",
+      "titleEn": "Why Nvidia stock is slipping over 3% on Monday",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/10/why-nvidia-stock-is-slipping-over-3-on-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b7145b6d7ba7bb61",
+      "titleEn": "Paysafe Extends Digital Wallet to Poland After Adding 600,000 European Users",
+      "summaryEn": "Global payments platform Paysafe has extended the availability of its digital wallet to Poland as the company continues the expansion of this offering across Europe. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Paysafe already offered PaysafeCard in Poland, and PaysafeWallet builds on that by adding a digital wallet, according to the release.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/payment-methods/2026/paysafe-extends-digital-wallet-to-poland-after-adding-600000-european-users/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8f860ae4c9830d64",
+      "titleEn": "eBay stock slides 4% after report says GameStop may abandon takeover bid",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/10/ebay-shares-slide-4-after-report-says-gamestop-may-abandon-takeover-bid/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5815e81005ebb253",
+      "titleEn": "Supermicro earnings preview: why SMCI needs more than a top-line beat",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/10/supermicro-earnings-preview-why-smci-needs-more-than-a-top-line-beat/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:97370cd798bcad4c",
+      "titleEn": "Intel stock: why $15B share sale may not be your cue to sell it",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/10/intel-stock-why-15b-share-sale-may-not-be-your-cue-to-sell-it/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4a28230f2b0d5bd5",
+      "titleEn": "TSX Composite Index outlook ahead of Barrick Gold, Franco-Nevada earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/10/tsx-composite-index-outlook-ahead-of-barrick-gold-franco-nevada-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:20a5de6e320ad408",
+      "titleEn": "Apple stock falls after Jefferies downgrade on all-glass iPhone concerns",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/10/apple-stock-falls-after-jefferies-downgrade-on-all-glass-iphone-concerns/",
+      "published": null
+    },
     {
       "id": "stockanalysis:f07374cb6930d6c9",
       "titleEn": "Gold could reclaim $5,000/oz in two years, prices could gain 9% in 2026 - Catalyst Funds' Miller",
@@ -49,6 +121,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:f3616efb2e35721a",
+      "titleEn": "Gold softens, silver firms as CPI week tests Fed repricing - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices are modestly lower and spot silver prices are firmer in early U.S. trading Monday, as the market consolidates Friday’s payroll-led precious-metals rally ahead of this week’s U.S. inflation data. At the time of writing, spot gold was trading near $4,329.20 an ounce, down 0.28%, while spot silver was trading at $63.800, up 0.55% on the session. The latest positioning remains centered on last week’s U.S. labor-market shock. July nonfarm payrolls fell by 23,000, the unemployment rate was 4.1% and prior months were revised lower by a combined 103,000 jobs. The print cut the market-implied probability of a September Fed rate hike to about 44%, down from roughly two-thirds a week earlier, while Treasury yields fell Friday and the U.S. dollar gave back ground. Monday’s trade is more guarded: the dollar is firmer, Treasury yields are edging back toward the 4.6% area and traders are waiting for CPI Wednesday at 8:30 a.m. ET, PPI Thursday at 8:30 a.m. ET and retail sales Friday at 8:30 a.m. ET. The Strait of Hormuz remains the main geopolitical input for oil, inflation expectations and safe-haven demand. Iran is insisting the U.S. meet conditions before the waterway fully reopens, including lifting the blockade, paying compensation, easing sanctions and releasing frozen assets. Oman-Iran talks over transit through the strait are continuing, but Tehran has said any full reopening depends on U.S. talks. The result is a two-way market impact for gold: higher oil and renewed shipping risk support defensive demand, but a sustained crude rebound also risks rebuilding the inflation case that would keep the Fed hawkish.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-10/gold-softens-silver-firms-cpi-week-tests-fed-repricing-kitco-am-report",
+      "published": null
+    },
+    {
       "id": "stockanalysis:03c38d498738ec1d",
       "titleEn": "Rocket Lab stock is soaring: Will the rally continue or reverse after earnings?",
       "summaryEn": null,
@@ -76,48 +157,84 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ef268742ed62c7a1",
-      "titleEn": "Why are Nvidia, AMD and Tesla climbing together in Monday pre-market?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/08/10/why-are-nvidia-amd-and-tesla-climbing-together-in-monday-pre-market/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e317f65175a905b9",
-      "titleEn": "Is Micron stock a buy after falling 30%? Here's what Wall Street thinks",
+      "id": "stockanalysis:aab65a522b83d565",
+      "titleEn": "Marsh McLennan Agency to Acquire Accel Holdings, Inc.",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/10/is-micron-stock-a-buy-after-falling-30-heres-what-wall-street-thinks/",
+      "link": "https://www.businesswire.com/news/home/20260810851443/en/Marsh-McLennan-Agency-to-Acquire-Accel-Holdings-Inc./",
       "published": null
     },
     {
-      "id": "stockanalysis:6532313d6447f9d9",
-      "titleEn": "STOXX 600 holds near record as oil rise tests Europe's earnings rally",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/10/stoxx-600-holds-near-record-as-oil-rise-tests-europes-earnings-rally/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:09e752d337d6748a",
-      "titleEn": "Xfinity and Comcast Business High-Speed Internet Now Available to More Than 2,400 Homes and Businesses in Putnam County, Florida",
+      "id": "stockanalysis:cd3a857f07ec35f2",
+      "titleEn": "American Express Unveils New Tennis Experiences for All Fans and Access to Premium Spaces for Card Members at the 2026 US Open Tennis Championships",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810287077/en/Xfinity-and-Comcast-Business-High-Speed-Internet-Now-Available-to-More-Than-2400-Homes-and-Businesses-in-Putnam-County-Florida/",
+      "link": "https://www.businesswire.com/news/home/20260810569266/en/American-Express-Unveils-New-Tennis-Experiences-for-All-Fans-and-Access-to-Premium-Spaces-for-Card-Members-at-the-2026-US-Open-Tennis-Championships/",
       "published": null
     },
     {
-      "id": "stockanalysis:c469703c157b0269",
-      "titleEn": "Dominion Energy Charitable Foundation Fall Grant Cycle Now Open",
+      "id": "stockanalysis:30dd31c9f82ee6d9",
+      "titleEn": "Acadia Healthcare Investigation Continued: Kahn Swick &amp; Foti, LLC Continues to Investigate the Officers and Directors of Acadia Healthcare Company, Inc. - ACHC",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810131599/en/Dominion-Energy-Charitable-Foundation-Fall-Grant-Cycle-Now-Open/",
+      "link": "https://www.businesswire.com/news/home/20260810115484/en/Acadia-Healthcare-Investigation-Continued-Kahn-Swick-Foti-LLC-Continues-to-Investigate-the-Officers-and-Directors-of-Acadia-Healthcare-Company-Inc.---ACHC/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0a5b27dca138cfc5",
+      "titleEn": "Scotts Miracle-Gro Investigation Continued: Kahn Swick &amp; Foti, LLC Continues to Investigate the Officers and Directors of The Scotts Miracle-Gro Company - SMG",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260810186518/en/Scotts-Miracle-Gro-Investigation-Continued-Kahn-Swick-Foti-LLC-Continues-to-Investigate-the-Officers-and-Directors-of-The-Scotts-Miracle-Gro-Company---SMG/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fa8d096770ca6d57",
+      "titleEn": "Schwab Trading Activity Index™: STAX Score Increases Modestly in July",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260809846395/en/Schwab-Trading-Activity-Index%E2%84%A2-STAX-Score-Increases-Modestly-in-July/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5f53c839578968f2",
+      "titleEn": "6sense Brings Intelligence Directly Into AI Agents and Entire GTM Stack with Latest Product Releases",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260810228336/en/6sense-Brings-Intelligence-Directly-Into-AI-Agents-and-Entire-GTM-Stack-with-Latest-Product-Releases/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e18f6c3ba4cd5c3f",
+      "titleEn": "Humacyte Investigation Continued: Kahn Swick &amp; Foti, LLC Continues to Investigate the Officers and Directors of Humacyte, Inc. - HUMA",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260810090331/en/Humacyte-Investigation-Continued-Kahn-Swick-Foti-LLC-Continues-to-Investigate-the-Officers-and-Directors-of-Humacyte-Inc.---HUMA/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fcab61a6363c3133",
+      "titleEn": "Pivotal Manufacturing Partners and Meadow Partners Acquire Advanced Manufacturing Facility in Greater Phoenix",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260810978027/en/Pivotal-Manufacturing-Partners-and-Meadow-Partners-Acquire-Advanced-Manufacturing-Facility-in-Greater-Phoenix/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a100b716e7aa495e",
+      "titleEn": "ZoomInfo Sponsors the Cotuit Kettleers, the Cape Cod Baseball League's Most Decorated Club",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260810403243/en/ZoomInfo-Sponsors-the-Cotuit-Kettleers-the-Cape-Cod-Baseball-League%E2%80%99s-Most-Decorated-Club/",
       "published": null
     }
   ]
