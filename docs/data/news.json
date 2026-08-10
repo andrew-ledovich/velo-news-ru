@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-09T23:53:16.494324Z",
+  "generatedAt": "2026-08-10T05:09:52.729401Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:d2cc720997acf295",
+      "titleEn": "KOSPI surges as Asian markets rally after US jobs shock rattles Fed bets",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/10/kospi-surges-as-asian-markets-rally-after-us-jobs-shock-rattles-fed-bets/",
+      "published": null
+    },
     {
       "id": "stockanalysis:b9a5f8eaf946753d",
       "titleEn": "TLT ETF slumps as US debt nears $40 trillion, 30-year yield jumps",
@@ -85,21 +94,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:288b217b8993a596",
-      "titleEn": "Gold breaks out following soft jobs data but could still struggle to get to $4,500",
-      "summaryEn": "(Kitco News) - After two months of consolidation and testing support at $4,000 an ounce, the gold market has broken convincingly to the upside as the precious metal sees its best weekly performance since the start of the year. The precious metal is looking to end the week nearly $300 higher. Spot gold last traded at $4,344 an ounce, up more than 7% from last Friday. The yellow metal has benefited from a week of disappointing labor market data, which was capped on Friday when the Bureau of Labor Statistics said the economy lost 23,000 jobs in July . The jobs number was significantly worse than expected, as economists were looking for gains of 85,000 jobs.",
+      "id": "stockanalysis:89af9ae9c41c0273",
+      "titleEn": "Seadrill Announces Second Quarter 2026 Results",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-07/gold-breaks-out-following-soft-jobs-data-could-still-struggle-get-4500",
+      "link": "https://www.businesswire.com/news/home/20260809984669/en/Seadrill-Announces-Second-Quarter-2026-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:bec474fe1d1a004b",
-      "titleEn": "QVC Group Emerges From Bankruptcy With $600 Million Asset-Backed Facility",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The news followed QVC Group’s April 16 announcement that it had begun voluntary Chapter 11 proceedings to implement a comprehensive prepackaged financial restructuring plan. QVC Group said in its Thursday release that it completed its financial restructuring and that the $600 million asset-based lending facility to which it has access is led by funds managed by Strategic Value Partners and its affiliates and Oaktree Capital .",
+      "id": "stockanalysis:0926d94bf2e456ba",
+      "titleEn": "I Squared Capital to Acquire oOh!media, a Leading Out-of-Home Media Infrastructure Platform in Australia and New Zealand",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/retail/2026/qvc-group-emerges-from-bankruptcy-with-600-million-dollar-asset-backed-facility/",
+      "link": "https://www.businesswire.com/news/home/20260809564542/en/I-Squared-Capital-to-Acquire-oOh%21media-a-Leading-Out-of-Home-Media-Infrastructure-Platform-in-Australia-and-New-Zealand/",
       "published": null
     },
     {
