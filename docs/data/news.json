@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-08-10T05:09:52.729401Z",
+  "generatedAt": "2026-08-10T10:01:22.946038Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:6532313d6447f9d9",
+      "titleEn": "STOXX 600 holds near record as oil rise tests Europe's earnings rally",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/10/stoxx-600-holds-near-record-as-oil-rise-tests-europes-earnings-rally/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ba7eac428f963490",
+      "titleEn": "Why Greg Abel is finally putting Berkshire's massive Buffett cash pile to work",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/10/why-greg-abel-is-finally-putting-berkshires-massive-buffett-cash-pile-to-work/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6d102d8d173d3ef2",
+      "titleEn": "Why this top investor is fleeing AMD but buying SanDisk after both stocks crashed",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/10/why-this-top-investor-is-fleeing-amd-but-buying-sandisk-after-both-stocks-crashed/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:908bd5f1485a296a",
+      "titleEn": "Why Cathie Wood is piling into SpaceX stock after its brutal post-earnings drop",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/10/why-cathie-wood-is-piling-into-spacex-stock-after-its-brutal-post-earnings-drop/",
+      "published": null
+    },
     {
       "id": "stockanalysis:d2cc720997acf295",
       "titleEn": "KOSPI surges as Asian markets rally after US jobs shock rattles Fed bets",
@@ -67,93 +103,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:0e2a38b177d97e18",
-      "titleEn": "EU tells Meta, TikTok to boost monitoring, fact-checking",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: The EU's tech chief called on Meta and TikTok to \"act decisively\" to stem disinformation at times of crisis, saying the European Commission held talks with both platforms Friday following last week's Ceuta migrant surge. A wave of social media disinformation is believed to have played a large part in the deadly rush of tens of thousands of men, women and children into Spain's North African territory after a rumor that the Ceuta border was open spread on social media.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-08-eu-meta-tiktok-boost-fact.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f66c5fb50dd6b6b5",
-      "titleEn": "Gold's biggest headwind may finally be peaking",
-      "summaryEn": "(Kitco News) - Gold investors have spent much of 2026 confronting a frustrating paradox: the geopolitical and fiscal backdrop has arguably never looked more supportive for a safe-haven asset, yet gold has struggled in recent months as rising real interest rate expectations have dramatically increased the opportunity cost of holding a non-yielding metal. However, the important question for gold investors is no longer whether real yields are high; they unquestionably are. The question is whether they can move materially higher from here. For a growing number of analysts, the answer is: no. This week BCA Research argued that “the worst of real rates’ headwind to gold is likely behind us,” with Chief Commodities Strategist Roukaya Ibrahim noting that investors do not need Federal Reserve rate cuts to ignite another rally. They simply need real yields and the U.S. dollar to stop rising. That distinction is critical. Gold has already absorbed an extraordinary monetary-policy repricing. At the beginning of the year, markets anticipated one or two rate cuts. Today, investors are contemplating one or two hikes. Jefferies estimates that 10-year TIPS yields have risen to around 2.41% from 1.94% at the start of 2026. That abrupt reversal helped drive gold roughly 25% below its peak. Yet gold continues to defend the psychologically important $4,000-an-ounce level. The World Gold Council noted that gold finished July virtually unchanged at $4,027, even as rising yields remained a headwind. More importantly, European gold ETFs attracted inflows despite real Bund yields sitting at 15-year highs. In other words, gold has survived nearly everything the opportunity-cost argument could throw at it. Jefferies reaches a similar conclusion from history. Gold&#x27;s performance following previous real-rate shocks depended less on the absolute level of yields than on whether the upward pressure subsequently subsided. The firm argues that much of today&#x27;s repricing has already occurred and that easing real-rate pressure could allow gold and mining equities to recover. Meanwhile, the structural bullish forces haven&#x27;t disappeared. Central banks continue accumulating gold, de-dollarization remains an important theme, fiscal concerns haven&#x27;t gone away, and geopolitical uncertainty remains elevated. BCA expects official-sector demand to provide a floor even if central-bank purchases no longer generate the explosive upside they once did. Even inflation could ultimately become supportive, although not for the simplistic reason that gold is an inflation hedge. The World Gold Council argues that inflation becomes much more meaningful when it pushes above 4%, particularly if accompanied by falling real rates, dollar weakness or increasing recession risks. The bullish argument, therefore, doesn&#x27;t require a collapsing economy, emergency Fed easing or another inflation crisis. It merely requires the forces that pushed gold down to stop getting worse. After one of the most aggressive opportunity-cost shocks gold has faced in years, that threshold may finally have been reached. And if real yields have indeed peaked, gold&#x27;s biggest headwind could soon become its most important tailwind.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-07/golds-biggest-headwind-may-finally-be-peaking",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a7bb382cfb8723d9",
-      "titleEn": "Gold, silver rally as weak payrolls cut Fed hike pressure - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices rallied after the North American equities close Friday, as a negative July payrolls print pulled Treasury yields lower, softened the U.S. dollar ( Kitco Global Index shows how much of today&#x27;s gold move is the dollar versus the gold market itself.) and eased pressure on the Federal Reserve to raise rates again in September. At the time of writing, spot gold was trading near $4,340.60 an ounce, up 2.39%, while spot silver was trading at $63.350, up 3.19% on the session. The July jobs report moved the rate trade back in favor of metals. Nonfarm payrolls fell by 23,000, while the unemployment rate held near 4.1% , forcing markets to reprice the July 29 Fed message against weaker labor data. The FOMC held the target range at 3.50% to 3.75% by a 9-3 vote. Chair Kevin Warsh used the post-meeting press conference to reinforce the inflation mandate, saying, “There is only a target.” After the payrolls miss, the 10-year Treasury yield fell to 4.64% from 4.67% just before the release, after touching 4.60% intraday. Equities closed stronger on both sides of the Atlantic as investors treated the weak labor print as a constraint on near-term Fed tightening. In North America, the S&P 500 rose 0.6% to 7,757.64, the Dow Jones Industrial Average gained 0.3% to 54,036.93 and the Nasdaq Composite advanced 1.3% to 26,690.62. The Russell 2000 ETF rose 1.08%, while the S&P 500 ETF gained 0.59%, the Dow ETF added 0.25% and the Nasdaq 100 ETF rose 1.17%. In Europe, the STOXX Europe 600 closed up 0.31% at 660.25, the FTSE 100 rose 0.31% to 10,901.09, Germany’s DAX gained 0.69% to 26,319.45, France’s CAC 40 rose 0.17% to 8,714.93, Italy’s FTSE MIB gained 0.06% to 53,717.19 and Spain’s IBEX 35 slipped 0.02% to 20,176.00.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-07/gold-silver-rally-weak-payrolls-cut-fed-hike-pressure-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:89af9ae9c41c0273",
-      "titleEn": "Seadrill Announces Second Quarter 2026 Results",
+      "id": "stockanalysis:3f15f42c6ce5ac90",
+      "titleEn": "Cadeler Strengthens Future Installation Capacity With Firm Orders for Two New T-class Vessels",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260809984669/en/Seadrill-Announces-Second-Quarter-2026-Results/",
+      "link": "https://www.businesswire.com/news/home/20260810907136/en/Cadeler-Strengthens-Future-Installation-Capacity-With-Firm-Orders-for-Two-New-T-class-Vessels/",
       "published": null
     },
     {
-      "id": "stockanalysis:0926d94bf2e456ba",
-      "titleEn": "I Squared Capital to Acquire oOh!media, a Leading Out-of-Home Media Infrastructure Platform in Australia and New Zealand",
+      "id": "stockanalysis:53d36d9fd5c1cc21",
+      "titleEn": "PaysafeWallet Is Now Live in Poland: Your Money, Your Way",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260809564542/en/I-Squared-Capital-to-Acquire-oOh%21media-a-Leading-Out-of-Home-Media-Infrastructure-Platform-in-Australia-and-New-Zealand/",
+      "link": "https://www.businesswire.com/news/home/20260810874560/en/PaysafeWallet-Is-Now-Live-in-Poland-Your-Money-Your-Way/",
       "published": null
     },
     {
-      "id": "stockanalysis:c43d3e057aad502a",
-      "titleEn": "Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Renewed Nasdaq Compliance, “Built in USA” Upgrades Including the Launch of Universal Beyond-Line-of-Sight Teleoperation and Multi-Robot Control Platform",
+      "id": "stockanalysis:c419638194081fd2",
+      "titleEn": "OpenGate Capital to Acquire Maersk Training, the Global Safety Training and Gas-Safety Services Business of Maersk",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260809948167/en/Faraday-Future-Founder-and-Global-CEO-YT-Jia-Shares-Weekly-Investor-Update-Renewed-Nasdaq-Compliance-%E2%80%9CBuilt-in-USA%E2%80%9D-Upgrades-Including-the-Launch-of-Universal-Beyond-Line-of-Sight-Teleoperation-and-Multi-Robot-Control-Platform/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8728eb9fdd729e01",
-      "titleEn": "PSN Investors Have Opportunity to Join Parsons Corporation Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260809127859/en/PSN-Investors-Have-Opportunity-to-Join-Parsons-Corporation-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5202c043f07c4171",
-      "titleEn": "Silence Therapeutics to Host Conference Call and Webcast to Discuss Topline Results from Phase 2 SANRECO Trial of Divesiran in Polycythemia Vera",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260809993728/en/Silence-Therapeutics-to-Host-Conference-Call-and-Webcast-to-Discuss-Topline-Results-from-Phase-2-SANRECO-Trial-of-Divesiran-in-Polycythemia-Vera/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fbe659810dc1ca0f",
-      "titleEn": "NE Investors Have Opportunity to Join Noble Corporation plc Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260809514887/en/NE-Investors-Have-Opportunity-to-Join-Noble-Corporation-plc-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:366f4cc4aaca4a88",
-      "titleEn": "LMB Investors Have Opportunity to Join Limbach Holdings, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260809474905/en/LMB-Investors-Have-Opportunity-to-Join-Limbach-Holdings-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20260809555671/en/OpenGate-Capital-to-Acquire-Maersk-Training-the-Global-Safety-Training-and-Gas-Safety-Services-Business-of-Maersk/",
       "published": null
     }
   ]
