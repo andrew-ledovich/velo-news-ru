@@ -1,8 +1,98 @@
 {
-  "generatedAt": "2026-08-10T10:01:22.946038Z",
+  "generatedAt": "2026-08-10T14:33:15.470171Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:f07374cb6930d6c9",
+      "titleEn": "Gold could reclaim $5,000/oz in two years, prices could gain 9% in 2026 - Catalyst Funds' Miller",
+      "summaryEn": "(Kitco News) – Gold’s nearly $300 breakout rally last week is generating renewed momentum in the market, and even if prices need more time to digest this latest move, one fund manager said the precious metal has a clear path back to $5,000 an ounce. In an interview with Kitco News, David Miller, CIO and Co-Founder of Catalyst Funds and portfolio manager of the Strategy Shares Gold Enhanced Yield ETF (GOLY) said that gold may still need time to reclaim its previous highs, but the long-term forces supporting the precious metal remain firmly in place as persistent government deficits, inflation and central bank diversification continue to undermine the appeal of traditional fixed-income assets. Miller said he believes gold could eventually return to $5,000 an ounce, although investors should not necessarily expect an immediate move back to those levels.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-10/gold-could-reclaim-5000oz-two-years-prices-could-gain-9-2026-catalyst-funds",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f1a8eb4bb57bd8fc",
+      "titleEn": "SpaceX briefly reclaims IPO price: is the stock about to rocket?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/10/spacex-briefly-reclaims-ipo-price-is-the-stock-about-to-rocket/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2f1c1c2983249ec9",
+      "titleEn": "Lumentum stock: Is the valuation too rich heading into Q4 results?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/10/lumentum-stock-is-the-valuation-too-rich-heading-into-q4-results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:303241722faa6c27",
+      "titleEn": "Archer Aviation stock jumps 15% on acquisition of Boeing's 3 subsidiaries",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/10/archer-aviation-stock-jumps-15-on-acquisition-of-boeings-3-subsidiaries/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e927d4cf65653f88",
+      "titleEn": "Michael Burry shorts Nebius stock: Is it a buy or sell before earnings?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/10/michael-burry-shorts-nebius-stock-is-it-a-buy-or-sell-before-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:03c38d498738ec1d",
+      "titleEn": "Rocket Lab stock is soaring: Will the rally continue or reverse after earnings?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/10/rocket-lab-stock-is-soaring-will-the-rally-continue-or-reverse-after-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:52d43e6c34e838c5",
+      "titleEn": "Plug Power stock climbs before earnings as options traders brace for volatility",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/10/plug-power-stock-climbs-before-earnings-as-options-traders-brace-for-volatility/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1f9ab03dac1ee0b6",
+      "titleEn": "CoreWeave stock is rising ahead of earnings: will it hit $100 or reverse to $75?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/10/coreweave-stock-is-rising-ahead-of-earnings-will-it-hit-100-or-reverse-to-75/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ef268742ed62c7a1",
+      "titleEn": "Why are Nvidia, AMD and Tesla climbing together in Monday pre-market?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/08/10/why-are-nvidia-amd-and-tesla-climbing-together-in-monday-pre-market/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e317f65175a905b9",
+      "titleEn": "Is Micron stock a buy after falling 30%? Here's what Wall Street thinks",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/10/is-micron-stock-a-buy-after-falling-30-heres-what-wall-street-thinks/",
+      "published": null
+    },
     {
       "id": "stockanalysis:6532313d6447f9d9",
       "titleEn": "STOXX 600 holds near record as oil rise tests Europe's earnings rally",
@@ -13,120 +103,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ba7eac428f963490",
-      "titleEn": "Why Greg Abel is finally putting Berkshire's massive Buffett cash pile to work",
+      "id": "stockanalysis:09e752d337d6748a",
+      "titleEn": "Xfinity and Comcast Business High-Speed Internet Now Available to More Than 2,400 Homes and Businesses in Putnam County, Florida",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/10/why-greg-abel-is-finally-putting-berkshires-massive-buffett-cash-pile-to-work/",
+      "link": "https://www.businesswire.com/news/home/20260810287077/en/Xfinity-and-Comcast-Business-High-Speed-Internet-Now-Available-to-More-Than-2400-Homes-and-Businesses-in-Putnam-County-Florida/",
       "published": null
     },
     {
-      "id": "stockanalysis:6d102d8d173d3ef2",
-      "titleEn": "Why this top investor is fleeing AMD but buying SanDisk after both stocks crashed",
+      "id": "stockanalysis:c469703c157b0269",
+      "titleEn": "Dominion Energy Charitable Foundation Fall Grant Cycle Now Open",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/10/why-this-top-investor-is-fleeing-amd-but-buying-sandisk-after-both-stocks-crashed/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:908bd5f1485a296a",
-      "titleEn": "Why Cathie Wood is piling into SpaceX stock after its brutal post-earnings drop",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/10/why-cathie-wood-is-piling-into-spacex-stock-after-its-brutal-post-earnings-drop/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d2cc720997acf295",
-      "titleEn": "KOSPI surges as Asian markets rally after US jobs shock rattles Fed bets",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/10/kospi-surges-as-asian-markets-rally-after-us-jobs-shock-rattles-fed-bets/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b9a5f8eaf946753d",
-      "titleEn": "TLT ETF slumps as US debt nears $40 trillion, 30-year yield jumps",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/09/tlt-etf-slumps-as-us-debt-nears-40-trillion-30-year-yield-jumps/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c77f887bda2c6bcb",
-      "titleEn": "Has Atlassian, ServiceNow performance this quarter reduced SaaSocalypse fears",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/08/has-atlassian-servicenow-performance-this-quarter-reduced-saasocalypse-fears/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3d22f859c660a882",
-      "titleEn": "From Meta to OpenAI: AI security enters a new era as autonomous cyberattacks emerge",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/08/from-meta-to-openai-ai-security-enters-a-new-era-as-autonomous-cyberattacks-emerge/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a6e645ef4ce2fc44",
-      "titleEn": "These three AI stocks are must-own after SpaceX earnings call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/08/these-three-ai-stocks-are-must-own-after-spacex-earnings-call/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a2992479f65e0ef3",
-      "titleEn": "Apple and OpenAI escalate legal battle over devices",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: A legal battle between Apple and OpenAI over the ChatGPT maker's secretive device project escalated this week when the artificial intelligence (AI) developer called the iPhone maker's allegations \"baseless\" and asked for the lawsuit to be dismissed. Apple sued OpenAI last month in San Jose, California, accusing the AI company of orchestrating a campaign to steal the iPhone maker's trade secrets through former employees as it tries to develop its own consumer hardware device.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-08-apple-openai-escalate-legal-devices.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d9d417e331cc5265",
-      "titleEn": "These 2 AI stocks are getting crushed: Goldman Sachs says buy the dip",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/08/sk-hynix-samsung-ai-stocks-are-getting-crushed-goldman-sachs-says-buy-the-dip/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3f15f42c6ce5ac90",
-      "titleEn": "Cadeler Strengthens Future Installation Capacity With Firm Orders for Two New T-class Vessels",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810907136/en/Cadeler-Strengthens-Future-Installation-Capacity-With-Firm-Orders-for-Two-New-T-class-Vessels/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:53d36d9fd5c1cc21",
-      "titleEn": "PaysafeWallet Is Now Live in Poland: Your Money, Your Way",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810874560/en/PaysafeWallet-Is-Now-Live-in-Poland-Your-Money-Your-Way/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c419638194081fd2",
-      "titleEn": "OpenGate Capital to Acquire Maersk Training, the Global Safety Training and Gas-Safety Services Business of Maersk",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260809555671/en/OpenGate-Capital-to-Acquire-Maersk-Training-the-Global-Safety-Training-and-Gas-Safety-Services-Business-of-Maersk/",
+      "link": "https://www.businesswire.com/news/home/20260810131599/en/Dominion-Energy-Charitable-Foundation-Fall-Grant-Cycle-Now-Open/",
       "published": null
     }
   ]
