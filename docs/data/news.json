@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-10T23:57:09.648754Z",
+  "generatedAt": "2026-08-11T04:50:27.101102Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:be0b27ab9ead2f3b",
+      "titleEn": "Rocket Lab has more customers than it can handle, so why is the stock falling?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/rocket-lab-has-more-customers-than-it-can-handle-so-why-is-the-stock-falling/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e068dddbc0826586",
+      "titleEn": "Samsung stock rebounds, SK Hynix sinks: here's why Korea's AI trade is diverging",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/11/samsung-stock-rebounds-sk-hynix-sinks-heres-why-koreas-ai-trade-is-diverging/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:392c8179d2a6f755",
+      "titleEn": "Three dividend stocks to lock in $1,500 per year in passive income",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/three-dividend-stocks-to-lock-in-1500-per-year-in-passive-income/",
+      "published": null
+    },
     {
       "id": "stockanalysis:92731e1c2ee3af42",
       "titleEn": "Gold and silver rise as oil jump revives inflation-risk trade - Kitco PM Report",
@@ -40,84 +67,66 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5c111e5517221cee",
-      "titleEn": "Five catalysts combine to create ‘one of the more compelling upside setups we have seen in precious metals' – Citadel Securities' Rubner",
-      "summaryEn": "(Kitco News) – The current market environment offers precious metals investors “one of the more compelling upside setups we have seen in precious metals in months,” according to Scott Rubner, Head of Equity and Equity Derivatives Strategy at Citadel Securities. Citadel Securities, the largest retail market maker in the United States, is now calling for structural exposure to gold for the first time in 2026, even as it sees enormous potential on the retain side for silver . The investment giant sees five powerful catalysts converging to create asymmetric upside for both gold and silver: dovish Fed rate repricing, accelerating central bank purchases, net-short CTA positioning, bullish options dynamics in the biggest gold and silver ETFs, and a potential resurgence of retail participation.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-10/five-catalysts-combine-create-one-more-compelling-upside-setups-we-have",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:215cf603b61a78c4",
-      "titleEn": "Why is Microsoft stock climbing today?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/10/why-is-microsoft-stock-climbing-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a7da886eb35e1629",
-      "titleEn": "HPE stock jumps as Morgan Stanley upgrades AI infrastructure outlook",
+      "id": "stockanalysis:ecafaac912ae7478",
+      "titleEn": "MaxLinear Introduces RackCommander™ Control-Plane Portfolio for Next-Generation AI Infrastructure",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/10/hpe-stock-jumps-as-morgan-stanley-upgrades-ai-infrastructure-outlook/",
+      "link": "https://www.businesswire.com/news/home/20260810436995/en/MaxLinear-Introduces-RackCommander%E2%84%A2-Control-Plane-Portfolio-for-Next-Generation-AI-Infrastructure/",
       "published": null
     },
     {
-      "id": "stockanalysis:388655e335f2967c",
-      "titleEn": "Why Nvidia stock is slipping over 3% on Monday",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/10/why-nvidia-stock-is-slipping-over-3-on-monday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:11d6b5f7627d8363",
-      "titleEn": "CORRECTING and REPLACING MVB Bank Selects Bretton AI to Run Its Back-Office Operations as It Scales Its Fintech Business",
+      "id": "stockanalysis:854cc284bc55f585",
+      "titleEn": "MaxLinear Expands AI Infrastructure Control-Plane Portfolio with Intelligent eFuse Solutions for Rack-Scale Power Protection and Telemetry",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260806161632/en/CORRECTING-and-REPLACING-MVB-Bank-Selects-Bretton-AI-to-Run-Its-Back-Office-Operations-as-It-Scales-Its-Fintech-Business/",
+      "link": "https://www.businesswire.com/news/home/20260810522477/en/MaxLinear-Expands-AI-Infrastructure-Control-Plane-Portfolio-with-Intelligent-eFuse-Solutions-for-Rack-Scale-Power-Protection-and-Telemetry/",
       "published": null
     },
     {
-      "id": "stockanalysis:cd7706509da09c9e",
-      "titleEn": "Modiv Industrial Stockholders Approve Merger with Global Net Lease",
+      "id": "stockanalysis:cf7371ffb6d0ec3f",
+      "titleEn": "Republic Technologies Announces Revocation of FFCTO and Resumption of Trading",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810745525/en/Modiv-Industrial-Stockholders-Approve-Merger-with-Global-Net-Lease/",
+      "link": "https://www.businesswire.com/news/home/20260810814943/en/Republic-Technologies-Announces-Revocation-of-FFCTO-and-Resumption-of-Trading/",
       "published": null
     },
     {
-      "id": "stockanalysis:e79060296717d18c",
-      "titleEn": "Griffon Corporation Announces Pricing of $800 Million Senior Notes Offering",
+      "id": "stockanalysis:79138de919a1fe63",
+      "titleEn": "MaxLinear Introduces Carmel™ High-Speed USB-to-UART Product for Next-Generation AI Data Center Console Access",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810493153/en/Griffon-Corporation-Announces-Pricing-of-800-Million-Senior-Notes-Offering/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260810065267/en/MaxLinear-Introduces-Carmel%E2%84%A2-High-Speed-USB-to-UART-Product-for-Next-Generation-AI-Data-Center-Console-Access/",
       "published": null
     },
     {
-      "id": "stockanalysis:158b1f183414f28b",
-      "titleEn": "Walker &amp; Dunlop Investment Partners Delivers $242 Million in Multifamily Bridge Lending as Private Credit Opportunity Grows",
+      "id": "stockanalysis:a91e2f03055efa55",
+      "titleEn": "American Healthcare REIT Announces Pricing of Public Offering of Common Stock",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810618301/en/Walker-Dunlop-Investment-Partners-Delivers-242-Million-in-Multifamily-Bridge-Lending-as-Private-Credit-Opportunity-Grows/",
+      "link": "https://www.businesswire.com/news/home/20260810470066/en/American-Healthcare-REIT-Announces-Pricing-of-Public-Offering-of-Common-Stock/",
       "published": null
     },
     {
-      "id": "stockanalysis:936ccb0635d8ac67",
-      "titleEn": "Sherritt Comments on Press Release Regarding Recapitalization Proposal",
+      "id": "stockanalysis:045b89293b3bb629",
+      "titleEn": "Janus Living Announces Pricing of Public Offering of Class A-1 Common Stock",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810615687/en/Sherritt-Comments-on-Press-Release-Regarding-Recapitalization-Proposal/",
+      "link": "https://www.businesswire.com/news/home/20260810892600/en/Janus-Living-Announces-Pricing-of-Public-Offering-of-Class-A-1-Common-Stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:01250892012a1c58",
+      "titleEn": "GreenFirst Reports Financial Results for the Second Quarter of 2026 and CEO Transition Plan",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260810558637/en/GreenFirst-Reports-Financial-Results-for-the-Second-Quarter-of-2026-and-CEO-Transition-Plan/",
       "published": null
     }
   ]
