@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-11T18:03:53.849426Z",
+  "generatedAt": "2026-08-11T20:25:57.976588Z",
   "sourceCount": 1,
-  "count": 28,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:7c5330ce24e0216e",
+      "titleEn": "Upwork stock tumbles as weak guidance overshadows Q2 earnings beat",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/upwork-stock-tumbles-as-weak-guidance-overshadows-q2-earnings-beat/",
+      "published": null
+    },
     {
       "id": "stockanalysis:625950c83bb9eb10",
       "titleEn": "Tilray Brands stock rises as Curaleaf plots hostile takeover for Aurora",
@@ -121,138 +130,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:960e47e701970470",
-      "titleEn": "Tesla stock is up around 1% today: can the recovery sustain?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/08/11/tesla-stock-is-up-around-1-today-can-the-recovery-sustain/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:058db984b705fcfe",
-      "titleEn": "Anthropic Plans Healthcare Push to Improve AI Image Before IPO",
-      "summaryEn": "Anthropic believes its growing use of artificial intelligence for healthcare and biology will improve public sentiment about the technology, the Wall Street Journal reported Tuesday (Aug. 11), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That is one of the strategies Anthropic is sharing with potential investors in meetings ahead of its upcoming initial public offering (IPO), according to the report.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-plans-healthcare-push-to-improve-ai-image-before-ipo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d2d13aa751f72b7f",
-      "titleEn": "Intel stock continues to fall as it expands stock sale to $20B",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/intel-stock-continues-to-fall-as-it-expands-stock-sale-to-20b/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3b99dd597022475d",
-      "titleEn": "Spot gold at $4,385/oz after U.S. existing-home sales fall -1.7% to 4.06 million in July",
-      "summaryEn": "(Kitco News) - Spot gold is dropping back into the red on the session this morning after the latest data showed the U.S. housing market pulling back but still beating expectations last month. Total existing-home sales, including single-family homes, townhomes, condominiums, and co-ops, fell -1.7% to a seasonally adjusted annual rate of 4.06 million in July, the National Association of Realtors (NAR) announced on Tuesday. The data was still better than expected, as the forecast of economists called for a decrease to 4.04 million. June’s total was also revised up to 4.13 million from 4.09 million units.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-11/spot-gold-4385oz-after-us-existing-home-sales-fall-17-406-million-july",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:030a264b24939041",
-      "titleEn": "SpaceX stock is soaring: is this a golden opportunity to buy?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/spacex-stock-is-soaring-is-this-a-golden-opportunity-to-buy/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1309ae17965569a6",
-      "titleEn": "Riot Platforms stock jumps after $9.1B Anthropic AI deal revealed",
+      "id": "stockanalysis:27f1298d37630b89",
+      "titleEn": "SES AI Reports Second Quarter 2026 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/11/riot-platforms-stock-jumps-after-9-1b-anthropic-ai-deal-revealed/",
+      "link": "https://www.businesswire.com/news/home/20260811476492/en/SES-AI-Reports-Second-Quarter-2026-Financial-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:c3ca3ad3df94614d",
-      "titleEn": "CHG Healthcare Acquires KREWE Anesthesia To Expand CRNA Staffing Capabilities, Meeting Rising Client Needs",
+      "id": "stockanalysis:9f5d34b7bb229930",
+      "titleEn": "Astronics Corporation Reports Record Operating Income on 27% Sales Growth for Second Quarter 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810981985/en/CHG-Healthcare-Acquires-KREWE-Anesthesia-To-Expand-CRNA-Staffing-Capabilities-Meeting-Rising-Client-Needs/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c44eb3d429aa4b22",
-      "titleEn": "Kelly Office Solutions Books Six-Figure First-Year New Business with ZoomInfo",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811962265/en/Kelly-Office-Solutions-Books-Six-Figure-First-Year-New-Business-with-ZoomInfo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:40e1a950ef4683b3",
-      "titleEn": "Edelman Financial Engines Names Christian Mango as Retirement Advisory Practice Leader",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811814172/en/Edelman-Financial-Engines-Names-Christian-Mango-as-Retirement-Advisory-Practice-Leader/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6dcfc1cc90a506ad",
-      "titleEn": "Momentum Events Cleaned Up a Duplicate-Filled CRM with ZoomInfo",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811848690/en/Momentum-Events-Cleaned-Up-a-Duplicate-Filled-CRM-with-ZoomInfo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a3444efcbbd81283",
-      "titleEn": "Medincell's Dr Grace Kim to Participate in Piper Sandler CNS Symposium",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811400758/en/Medincell%E2%80%99s-Dr-Grace-Kim-to-Participate-in-Piper-Sandler-CNS-Symposium/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bfa1c56487460460",
-      "titleEn": "ZoomInfo Data Now Integrated With Microsoft Copilot Studio and Available in Microsoft 365 Copilot, Dynamics 365, Excel, and Word",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811134017/en/ZoomInfo-Data-Now-Integrated-With-Microsoft-Copilot-Studio-and-Available-in-Microsoft-365-Copilot-Dynamics-365-Excel-and-Word/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cef6af265697d34a",
-      "titleEn": "ResellerRatings Cuts Time Spent on Non-Selling Work by 90% with ZoomInfo",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811604790/en/ResellerRatings-Cuts-Time-Spent-on-Non-Selling-Work-by-90-with-ZoomInfo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0ce09c83e4d7c480",
-      "titleEn": "Chase Auto Captive Finance Partners Earn #1 Rankings in the JD Power 2026 U.S. Dealer Financing Satisfaction Study�",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811709692/en/Chase-Auto-Captive-Finance-Partners-Earn-1-Rankings-in-the-JD-Power-2026-U.S.-Dealer-Financing-Satisfaction-Study%E2%84%A0/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9b9d5278dd9cfbf6",
-      "titleEn": "Muncy Columbia Financial Corporation Declares Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811786064/en/Muncy-Columbia-Financial-Corporation-Declares-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20260811327734/en/Astronics-Corporation-Reports-Record-Operating-Income-on-27-Sales-Growth-for-Second-Quarter-2026/",
       "published": null
     }
   ]
