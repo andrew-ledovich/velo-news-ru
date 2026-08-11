@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-08-11T04:50:27.101102Z",
+  "generatedAt": "2026-08-11T08:16:44.945792Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:1e3ec0fbc8cbf1fb",
+      "titleEn": "Taiwan and Korea lose $29 billion in July: is money rotating away from AI?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/11/taiwan-and-korea-lose-29-billion-in-july-is-money-rotating-away-from-ai/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9f6c2c2413b9ee9c",
+      "titleEn": "Stripe's First Employee Built a Bank to Fix Payments' Messy Last Mile",
+      "summaryEn": "Darragh Buckley went from Stripe’s first employee to bank owner with a contrarian bet: The biggest opportunity in payments sits inside regulated banking, not outside it. Increase Bank isn’t trying to rip out America’s payment rails. It’s built to fix the stubborn last mile between modern software companies and the bank infrastructure moving trillions of dollars. Buckley said richer data, continuous visibility and compliance designed into the software can reshape payroll, embedded finance and the meaning of community banking.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/stripe-first-employee-built-bank-fix-payments-messy-last-mile/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ee949b445ba9c18b",
+      "titleEn": "DJT stock falls 8% as Trump Media loses $238 million: what happens next?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/djt-stock-falls-8-as-trump-media-loses-238-million-what-happens-next/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8db489b47d6e61a1",
+      "titleEn": "Nvidia stock has a $500 billion trick to keep AI spending alive: will it work?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/11/nvidia-stock-has-a-500-billion-trick-to-keep-ai-spending-alive-will-it-work/",
+      "published": null
+    },
     {
       "id": "stockanalysis:be0b27ab9ead2f3b",
       "titleEn": "Rocket Lab has more customers than it can handle, so why is the stock falling?",
@@ -49,21 +85,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:cb61331cc1769ff1",
-      "titleEn": "Monday.com stock drops as weak Q3 outlook overshadows AI progress",
+      "id": "stockanalysis:97a0df8598fe1d0e",
+      "titleEn": "PsiQuantum Appoints Niklas Zennström to Board of Directors",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/10/monday-com-stock-drops-as-weak-q3-outlook-overshadows-ai-progress/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260811044797/en/PsiQuantum-Appoints-Niklas-Zennstr%C3%B6m-to-Board-of-Directors/",
       "published": null
     },
     {
-      "id": "stockanalysis:8e0c5a252d656d5e",
-      "titleEn": "Monday.com and Airbnb Are Putting Numbers Behind AI's ROI",
-      "summaryEn": "For years, the corporate artificial intelligence (AI) story ran on soft metrics: employees trained, chatbots launched, pilots underway. This earnings season, companies gave investors something more concrete. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); monday.com told investors this week that annual recurring revenue from its AI products doubled between Q1 and Q2 2026 and now accounts for 17% of net new ARR, Co-CEO Eran Zinman said on the company’s earnings call . Zinman called it evidence that customers are “actively choosing AI features and are willing to pay more when they see value.” That is a materially different signal than employees simply using an AI tool. Customers are paying a separate, measurable price for it.",
+      "id": "stockanalysis:5b2d0186657e17d3",
+      "titleEn": "Intel Announces Upsize and Pricing of $20 Billion Common Stock Offering",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/monday-com-and-airbnb-are-putting-numbers-behind-ais-roi/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260810533034/en/Intel-Announces-Upsize-and-Pricing-of-20-Billion-Common-Stock-Offering/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:647bb91a1de98c0d",
+      "titleEn": "Galderma Receives European Union Approval for Restylane® Shaype™: the First-and-Only Bone-Mimicking Hyaluronic Acid Injectable for Facial Shaping",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260810880899/en/Galderma-Receives-European-Union-Approval-for-Restylane%C2%AE-Shaype%E2%84%A2-the-First-and-Only-Bone-Mimicking-Hyaluronic-Acid-Injectable-for-Facial-Shaping/",
       "published": null
     },
     {
@@ -91,42 +136,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260810814943/en/Republic-Technologies-Announces-Revocation-of-FFCTO-and-Resumption-of-Trading/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:79138de919a1fe63",
-      "titleEn": "MaxLinear Introduces Carmel™ High-Speed USB-to-UART Product for Next-Generation AI Data Center Console Access",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260810065267/en/MaxLinear-Introduces-Carmel%E2%84%A2-High-Speed-USB-to-UART-Product-for-Next-Generation-AI-Data-Center-Console-Access/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a91e2f03055efa55",
-      "titleEn": "American Healthcare REIT Announces Pricing of Public Offering of Common Stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810470066/en/American-Healthcare-REIT-Announces-Pricing-of-Public-Offering-of-Common-Stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:045b89293b3bb629",
-      "titleEn": "Janus Living Announces Pricing of Public Offering of Class A-1 Common Stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810892600/en/Janus-Living-Announces-Pricing-of-Public-Offering-of-Class-A-1-Common-Stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:01250892012a1c58",
-      "titleEn": "GreenFirst Reports Financial Results for the Second Quarter of 2026 and CEO Transition Plan",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810558637/en/GreenFirst-Reports-Financial-Results-for-the-Second-Quarter-of-2026-and-CEO-Transition-Plan/",
       "published": null
     }
   ]
