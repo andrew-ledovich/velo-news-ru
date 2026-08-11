@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-11T20:25:57.976588Z",
+  "generatedAt": "2026-08-11T22:26:49.011625Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:076059764c31ede4",
+      "titleEn": "Gold holds near two-month high as equities slip, oil rallies - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Gold and silver prices are modestly higher in late-afternoon U.S. trading Tuesday, as safe-haven demand tied to the Strait of Hormuz standoff offset a firmer U.S. dollar and a still-elevated rate backdrop. At the time of writing, spot gold was trading near $4,412.50 an ounce, up 0.56% on the session, while spot silver was trading at $65.680, up 0.13%. The latest market positioning remains a two-sided trade into Wednesday’s CPI report and Thursday’s producer price data. Last week’s weaker jobs data kept rate-sensitive gold underpinned, but the rebound in crude oil and a still-elevated inflation path have pulled September Fed expectations back toward a coin toss. The 10-year Treasury yield was near the 4.7% area, while the U.S. dollar was firmer, leaving gold supported by defensive flows but limiting follow-through above the session high. North American equities closed softer after last week’s record levels. The S&P 500 fell 0.3% to 7,728.20, the Dow Jones Industrial Average lost 0.3% to 53,791.85 and the Nasdaq Composite dropped 0.6% to 26,445.45, while the Russell 2000 rose 0.3% to 3,027.12. In Europe, the Stoxx 600 finished up 0.05% at 661, Germany’s DAX gained 0.17%, Italy’s FTSE MIB rose 0.13%, the FTSE 100 slipped 0.16% and France’s CAC 40 fell 0.13%.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-11/gold-holds-near-two-month-high-equities-slip-oil-rallies-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:766fe5c494de9476",
+      "titleEn": "CoreWeave stock soars as Q2 earnings alleviate key concerns",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/coreweave-stock-soars-as-q2-earnings-alleviate-key-concerns/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f99085b0c2fe11d8",
+      "titleEn": "Amex Ventures Funds Fazeshift's Agentic AI Expansion Beyond Accounts Receivable",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The investment from Amex Ventures, which is the corporate venture capital arm of American Express , builds on Fazeshift’s Series A that was announced earlier this year, according to the release. Fazeshift’s AI agent platform currently automates accounts receivable workflows such as invoicing, payment reconciliation and collections across the tools finance teams already use, per the release.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/amex-ventures-funds-fazeshifts-agentic-ai-expansion-beyond-accounts-receivable/",
+      "published": null
+    },
     {
       "id": "stockanalysis:7c5330ce24e0216e",
       "titleEn": "Upwork stock tumbles as weak guidance overshadows Q2 earnings beat",
@@ -58,93 +85,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:7825da5d1b6f1f8c",
-      "titleEn": "Nvidia stock stablizes after Monday's fall: are circular financing fears fading?",
+      "id": "stockanalysis:ce122fa4dc23df4f",
+      "titleEn": "KBRA Assigns Preliminary Ratings to Aspire Mortgage Trust 2026-5 (SPIRE 2026-5)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/nvidia-stock-stablizes-after-mondays-fall-are-circular-financing-fears-fading/",
+      "link": "https://www.businesswire.com/news/home/20260811485690/en/KBRA-Assigns-Preliminary-Ratings-to-Aspire-Mortgage-Trust-2026-5-SPIRE-2026-5/",
       "published": null
     },
     {
-      "id": "stockanalysis:35b2af4043b7fcda",
-      "titleEn": "Bumble stock rises after ending women-first texting rule: will the move boost growth?",
+      "id": "stockanalysis:626b687be58cf7fe",
+      "titleEn": "Dream Unlimited Corp. Reports Second Quarter Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/bumble-stock-rises-after-ending-women-first-texting-rule-will-the-move-boost-growth/",
+      "link": "https://www.businesswire.com/news/home/20260811989791/en/Dream-Unlimited-Corp.-Reports-Second-Quarter-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:3183dfcdac0f904c",
-      "titleEn": "Why Sea Limited stock's post-earnings rally is an opportunity to sell",
+      "id": "stockanalysis:9063ae3482ad1875",
+      "titleEn": "Oceaneering Announces Participation at Third Quarter 2026 Investor Conferences",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/why-sea-limited-stocks-post-earnings-rally-is-an-opportunity-to-sell/",
+      "link": "https://www.businesswire.com/news/home/20260811894469/en/Oceaneering-Announces-Participation-at-Third-Quarter-2026-Investor-Conferences/",
       "published": null
     },
     {
-      "id": "stockanalysis:310e305e8827df5c",
-      "titleEn": "China's gold consumption rises 1.23% in H1, jewelry sales slump while investment demand soars - China Gold Association",
-      "summaryEn": "(Kitco News) – China’s total gold consumption rose 1.23% in the first half of 2026, according to the latest data from the China Gold Association (CGA). Gold consumption in China came in at 511.41 tonnes in the first six months of the year, the CGA said, compared to 505.21 tonnes in H1 2025, with strong investment demand offsetting the still-sluggish jewelry sector. The association noted that the country&#x27;s gold consumption patterns were in flux, as the combination of sharp price fluctuations above historically high levels and newly-implemented domestic gold tax policies impacted consumer purchasing habits.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-11/chinas-gold-consumption-rises-123-h1-jewelry-sales-slump-while-investment",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f93238df039edc0a",
-      "titleEn": "On shares tumble 19% after sportswear brand misses quarterly net sales estimates",
+      "id": "stockanalysis:a790790e53c2af96",
+      "titleEn": "Walmart and the Walmart Foundation Commit $500,000 to Spokane Wildfire Relief",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/on-shares-tumble-19-after-sportswear-brand-misses-quarterly-net-sales-estimates/",
+      "link": "https://www.businesswire.com/news/home/20260811461741/en/Walmart-and-the-Walmart-Foundation-Commit-500000-to-Spokane-Wildfire-Relief/",
       "published": null
     },
     {
-      "id": "stockanalysis:24869514a455d11a",
-      "titleEn": "Coherent stock: what next for this Lumentum rival ahead of earnings?",
+      "id": "stockanalysis:2eacf601b4c5a54d",
+      "titleEn": "Boxlight Corporation Announces Initial Closing of Private Placement",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/coherent-stock-what-next-for-this-lumentum-rival-ahead-of-earnings/",
+      "link": "https://www.businesswire.com/news/home/20260811968029/en/Boxlight-Corporation-Announces-Initial-Closing-of-Private-Placement/",
       "published": null
     },
     {
-      "id": "stockanalysis:a9b10647161c2237",
-      "titleEn": "Fermi stock jumps 23% on $6.5B TensorWave AI data center lease deal",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/11/fermi-stock-jumps-23-on-6-5b-tensorwave-ai-data-center-lease-deal/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:681504f6502f5fcc",
-      "titleEn": "French newspapers target Google over AI summaries",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: A federation of nearly 300 French newspapers said Tuesday that it filed a complaint with the country's competition authority over Google's new AI-generated search-result summaries, fearing the feature will erode traffic to their websites. It is the latest salvo by media companies against the U.S. tech giant's use of their articles and other content as they grapple with declining ad revenue.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-08-french-newspapers-google-ai-summaries.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:27f1298d37630b89",
-      "titleEn": "SES AI Reports Second Quarter 2026 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260811476492/en/SES-AI-Reports-Second-Quarter-2026-Financial-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9f5d34b7bb229930",
-      "titleEn": "Astronics Corporation Reports Record Operating Income on 27% Sales Growth for Second Quarter 2026",
+      "id": "stockanalysis:cc260d0a12a3daba",
+      "titleEn": "TWO Responds to Baseless Claims by UWMC",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811327734/en/Astronics-Corporation-Reports-Record-Operating-Income-on-27-Sales-Growth-for-Second-Quarter-2026/",
+      "link": "https://www.businesswire.com/news/home/20260811963682/en/TWO-Responds-to-Baseless-Claims-by-UWMC/",
       "published": null
     }
   ]
