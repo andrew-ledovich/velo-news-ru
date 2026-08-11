@@ -1,8 +1,89 @@
 {
-  "generatedAt": "2026-08-11T11:10:10.824016Z",
+  "generatedAt": "2026-08-11T14:44:21.365343Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:d2d13aa751f72b7f",
+      "titleEn": "Intel stock continues to fall as it expands stock sale to $20B",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/intel-stock-continues-to-fall-as-it-expands-stock-sale-to-20b/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3b99dd597022475d",
+      "titleEn": "Spot gold at $4,385/oz after U.S. existing-home sales fall -1.7% to 4.06 million in July",
+      "summaryEn": "(Kitco News) - Spot gold is dropping back into the red on the session this morning after the latest data showed the U.S. housing market pulling back but still beating expectations last month. Total existing-home sales, including single-family homes, townhomes, condominiums, and co-ops, fell -1.7% to a seasonally adjusted annual rate of 4.06 million in July, the National Association of Realtors (NAR) announced on Tuesday. The data was still better than expected, as the forecast of economists called for a decrease to 4.04 million. June’s total was also revised up to 4.13 million from 4.09 million units.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-11/spot-gold-4385oz-after-us-existing-home-sales-fall-17-406-million-july",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:030a264b24939041",
+      "titleEn": "SpaceX stock is soaring: is this a golden opportunity to buy?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/spacex-stock-is-soaring-is-this-a-golden-opportunity-to-buy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1309ae17965569a6",
+      "titleEn": "Riot Platforms stock jumps after $9.1B Anthropic AI deal revealed",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/11/riot-platforms-stock-jumps-after-9-1b-anthropic-ai-deal-revealed/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:46f870a95cbe18a7",
+      "titleEn": "Gold and silver ease as CPI risk steadies yields and the dollar - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are weaker in early U.S. trading Tuesday, as traders took profits after gold hit a two-month high overnight and markets moved back into inflation-watch mode ahead of Wednesday’s U.S. CPI report. At the time of writing, spot gold was trading near $4,386.30 an ounce, down 0.04%, while spot silver was trading at $65.090, down 0.78% on the session. The latest positioning remains a tug of war between weak labor data and renewed inflation risk. July payrolls fell by 23,000 , and last week’s report pushed September Fed rate-hike odds into the low-40% area before oil’s latest rebound lifted that probability back to 51.9%. The 10-year Treasury yield is trading near 4.74%, close to its highest level since January 2025, while the dollar index is flat near 99.834. CPI is due Wednesday at 8:30 a.m. ET, with the market looking for annual inflation to ease to 3.4% from 3.5%. The Strait of Hormuz remains the key geopolitical input for metals and energy markets. Oil prices rose Monday after Iran tied any full reopening of the strait to U.S. concessions, while Washington added new compensation demands that complicated the path to a deal. Brent crude briefly traded above $90 a barrel Tuesday before easing, and U.S. crude held near the $82 area. The impact on gold is two-sided: Hormuz risk supports haven demand, but higher crude keeps inflation pressure alive and makes it harder for traders to fully price out another Fed hike.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-11/gold-and-silver-ease-cpi-risk-steadies-yields-and-dollar-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:811acc807b36892b",
+      "titleEn": "Fastly stock has gone parabolic after earnings: how high can it go?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/fastly-stock-has-gone-parabolic-after-earnings-how-high-can-it-go/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:10ae7fb7837bcd3c",
+      "titleEn": "Plug Power stock jumps after earnings: is this the start of a bull run?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/plug-power-stock-jumps-after-earnings-is-this-the-start-of-a-bull-run/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7df85b84e1e30336",
+      "titleEn": "Why Micron, SK Hynix could gain from Nvidia's de-spec of Rubin Ultra?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/why-micron-sk-hynix-could-gain-from-nvidias-de-spec-of-rubin-ultra/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6cb4cfcf3d52c551",
+      "titleEn": "Meta, Google face thousands of youth addiction lawsuits after major US court ruling",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/meta-google-face-thousands-of-youth-addiction-lawsuits-after-major-us-court-ruling/",
+      "published": null
+    },
     {
       "id": "stockanalysis:db17470fe4ea88b1",
       "titleEn": "BP and Shell shares lead the FTSE 100 Index as crude oil prices jump: what next?",
@@ -22,66 +103,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1e3ec0fbc8cbf1fb",
-      "titleEn": "Taiwan and Korea lose $29 billion in July: is money rotating away from AI?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/11/taiwan-and-korea-lose-29-billion-in-july-is-money-rotating-away-from-ai/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9f6c2c2413b9ee9c",
-      "titleEn": "Stripe's First Employee Built a Bank to Fix Payments' Messy Last Mile",
-      "summaryEn": "Darragh Buckley went from Stripe’s first employee to bank owner with a contrarian bet: The biggest opportunity in payments sits inside regulated banking, not outside it. Increase Bank isn’t trying to rip out America’s payment rails. It’s built to fix the stubborn last mile between modern software companies and the bank infrastructure moving trillions of dollars. Buckley said richer data, continuous visibility and compliance designed into the software can reshape payroll, embedded finance and the meaning of community banking.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/stripe-first-employee-built-bank-fix-payments-messy-last-mile/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ee949b445ba9c18b",
-      "titleEn": "DJT stock falls 8% as Trump Media loses $238 million: what happens next?",
+      "id": "stockanalysis:446f6704d1e66b53",
+      "titleEn": "Trusted Advisor Search Expands RIA Practice With Appointment of Industry Veteran Katie Brennan",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/djt-stock-falls-8-as-trump-media-loses-238-million-what-happens-next/",
+      "link": "https://www.businesswire.com/news/home/20260811360802/en/Trusted-Advisor-Search-Expands-RIA-Practice-With-Appointment-of-Industry-Veteran-Katie-Brennan/",
       "published": null
     },
     {
-      "id": "stockanalysis:8db489b47d6e61a1",
-      "titleEn": "Nvidia stock has a $500 billion trick to keep AI spending alive: will it work?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/11/nvidia-stock-has-a-500-billion-trick-to-keep-ai-spending-alive-will-it-work/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:be0b27ab9ead2f3b",
-      "titleEn": "Rocket Lab has more customers than it can handle, so why is the stock falling?",
+      "id": "stockanalysis:b114ad2a3b4dfd82",
+      "titleEn": "Evertec Establishes $250,000 Emergency Relief Fund to Support Earthquake Recovery in Colombia",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/rocket-lab-has-more-customers-than-it-can-handle-so-why-is-the-stock-falling/",
+      "link": "https://www.businesswire.com/news/home/20260811398384/en/Evertec-Establishes-250000-Emergency-Relief-Fund-to-Support-Earthquake-Recovery-in-Colombia/",
       "published": null
     },
     {
-      "id": "stockanalysis:e068dddbc0826586",
-      "titleEn": "Samsung stock rebounds, SK Hynix sinks: here's why Korea's AI trade is diverging",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/11/samsung-stock-rebounds-sk-hynix-sinks-heres-why-koreas-ai-trade-is-diverging/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:392c8179d2a6f755",
-      "titleEn": "Three dividend stocks to lock in $1,500 per year in passive income",
+      "id": "stockanalysis:d8f01818ebe8f650",
+      "titleEn": "Sterne Kessler Client Netlist Negotiates Five-Year Patent Alliance with Samsung",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/three-dividend-stocks-to-lock-in-1500-per-year-in-passive-income/",
+      "link": "https://www.businesswire.com/news/home/20260811647498/en/Sterne-Kessler-Client-Netlist-Negotiates-Five-Year-Patent-Alliance-with-Samsung/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bb53e1eca6ad5371",
+      "titleEn": "Middle-Income Americans Value In-Person Support for Major Financial Decisions, Santander US Survey Finds",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260811664337/en/Middle-Income-Americans-Value-In-Person-Support-for-Major-Financial-Decisions-Santander-US-Survey-Finds/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0fc9c9a794a473f4",
+      "titleEn": "Icertis Named to the 2026 Inc. 5000 List of Fastest Growing Private Companies in America",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260811440901/en/Icertis-Named-to-the-2026-Inc.-5000-List-of-Fastest-Growing-Private-Companies-in-America/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:33baa76873580058",
+      "titleEn": "Comcast Business and Colt Technology Services Launch Innovation Lab Program to Automate Global Enterprise Connectivity",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260811676131/en/Comcast-Business-and-Colt-Technology-Services-Launch-Innovation-Lab-Program-to-Automate-Global-Enterprise-Connectivity/",
       "published": null
     }
   ]
