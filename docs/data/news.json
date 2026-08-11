@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-11T08:16:44.945792Z",
+  "generatedAt": "2026-08-11T11:10:10.824016Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:db17470fe4ea88b1",
+      "titleEn": "BP and Shell shares lead the FTSE 100 Index as crude oil prices jump: what next?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/bp-and-shell-shares-lead-the-ftse-100-index-as-crude-oil-prices-jump-what-next/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b5b2f29a4086934b",
+      "titleEn": "Hims &amp; Hers stock drops 7% despite higher guidance: what went wrong?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/hims-hers-stock-drops-7-despite-higher-guidance-what-went-wrong/",
+      "published": null
+    },
     {
       "id": "stockanalysis:1e3ec0fbc8cbf1fb",
       "titleEn": "Taiwan and Korea lose $29 billion in July: is money rotating away from AI?",
@@ -64,78 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/11/three-dividend-stocks-to-lock-in-1500-per-year-in-passive-income/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:92731e1c2ee3af42",
-      "titleEn": "Gold and silver rise as oil jump revives inflation-risk trade - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Gold and silver prices are higher in late-afternoon U.S. trading Monday, as the market balanced last week’s weak labor data against a rebound in oil prices, Treasury yields and Fed rate-hike expectations. At the time of writing, spot gold was trading near $4,358.71 an ounce, up 0.4%, while front-month silver futures settled at $65.106 an ounce, up 2.80% on the session. North American equity markets slipped from record territory. The S&P 500 fell 4.53 points, or 0.1%, to 7,753.11, the Dow Jones Industrial Average fell 60.95 points, or 0.1%, to 53,975.98, the Nasdaq Composite lost 85.26 points, or 0.3%, to 26,605.36, and the Russell 2000 fell 17.10 points, or 0.6%, to 3,017.40. European markets were mixed to weaker, with London’s FTSE 100 down 0.5%, or 55 points, at 10,845, France’s CAC 40 down 0.1% and Germany’s DAX up 0.35%. The latest market positioning remains defined by the collision between Friday’s payroll shock and Monday’s oil-driven inflation risk. July payrolls fell by 23,000, prior months were revised lower and last week’s data pushed the implied probability of a September Fed rate hike down to 44.4% from 54.7% before the release. That relief trade faded Monday as the rate-hike probability climbed back to 51.7%, while the 30-year Treasury yield rose 5 basis points to 5.244%, just below its July 31 closing high of 5.253%. The next test is July CPI Wednesday at 8:30 a.m. ET, followed by PPI Thursday at 8:30 a.m. ET and retail sales Friday at 8:30 a.m. ET.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-10/gold-and-silver-rise-oil-jump-revives-inflation-risk-trade-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ae672b2faaf27b3b",
-      "titleEn": "Price correction ‘improved the long-term risk-reward profile' for both gold and silver – Sprott's Smirnova",
-      "summaryEn": "(Kitco News) – Gold’s months-long price decline was a not a trend reversal but only a correction, with rising debt, high deficits, central bank buying and geopolitical fragmentation reinforcing gold&#x27;s strategic role, while silver&#x27;s outlook remains compelling due to constrained supply and growing demand, according to Maria Smirnova, Managing Partner at Sprott Inc. and Senior Portfolio Manager and Chief Investment Officer at Sprott Asset Management. In Sprott’s latest precious metals report, Smirnova said the first seven months of the year served to remind investors that cyclical corrections are a normal feature of secular bull markets. “While gold and silver retreated from January&#x27;s record highs, the macroeconomic and structural forces underpinning both metals remain firmly intact,” she noted. “Gold bullion gained more than 64.58% in 2025, while silver bullion advanced 147.95%, driven by record central bank buying, persistent inflation concerns, rising sovereign debt and growing geopolitical uncertainty. By late January 2026, both metals had extended those gains, reaching new all-time highs as investors continued to seek hard assets amid an increasingly uncertain macroeconomic environment.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-10/price-correction-improved-long-term-risk-reward-profile-both-gold-and",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:97a0df8598fe1d0e",
-      "titleEn": "PsiQuantum Appoints Niklas Zennström to Board of Directors",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811044797/en/PsiQuantum-Appoints-Niklas-Zennstr%C3%B6m-to-Board-of-Directors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5b2d0186657e17d3",
-      "titleEn": "Intel Announces Upsize and Pricing of $20 Billion Common Stock Offering",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810533034/en/Intel-Announces-Upsize-and-Pricing-of-20-Billion-Common-Stock-Offering/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:647bb91a1de98c0d",
-      "titleEn": "Galderma Receives European Union Approval for Restylane® Shaype™: the First-and-Only Bone-Mimicking Hyaluronic Acid Injectable for Facial Shaping",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810880899/en/Galderma-Receives-European-Union-Approval-for-Restylane%C2%AE-Shaype%E2%84%A2-the-First-and-Only-Bone-Mimicking-Hyaluronic-Acid-Injectable-for-Facial-Shaping/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ecafaac912ae7478",
-      "titleEn": "MaxLinear Introduces RackCommander™ Control-Plane Portfolio for Next-Generation AI Infrastructure",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260810436995/en/MaxLinear-Introduces-RackCommander%E2%84%A2-Control-Plane-Portfolio-for-Next-Generation-AI-Infrastructure/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:854cc284bc55f585",
-      "titleEn": "MaxLinear Expands AI Infrastructure Control-Plane Portfolio with Intelligent eFuse Solutions for Rack-Scale Power Protection and Telemetry",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260810522477/en/MaxLinear-Expands-AI-Infrastructure-Control-Plane-Portfolio-with-Intelligent-eFuse-Solutions-for-Rack-Scale-Power-Protection-and-Telemetry/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cf7371ffb6d0ec3f",
-      "titleEn": "Republic Technologies Announces Revocation of FFCTO and Resumption of Trading",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260810814943/en/Republic-Technologies-Announces-Revocation-of-FFCTO-and-Resumption-of-Trading/",
       "published": null
     }
   ]
