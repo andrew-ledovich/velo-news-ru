@@ -1,8 +1,143 @@
 {
-  "generatedAt": "2026-08-11T14:44:21.365343Z",
+  "generatedAt": "2026-08-11T18:03:53.849426Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 28,
   "items": [
+    {
+      "id": "stockanalysis:625950c83bb9eb10",
+      "titleEn": "Tilray Brands stock rises as Curaleaf plots hostile takeover for Aurora",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/tilray-brands-stock-rises-as-curaleaf-plots-hostile-takeover-for-aurora/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e1779040ae18f071",
+      "titleEn": "Alkami Puts Digital Banking Business up for Sale",
+      "summaryEn": "Digital banking software firm Alkami Technology has reportedly put itself up for sale. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The move came after the company saw interest from potential buyers and increased pressure to sell from activist investor Jana Partners , Reuters reported , citing sources familiar with the matter. Those sources said Alkami’s advisors have begun connecting with private equity groups about a sale.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/alkami-puts-digital-banking-business-up-for-sale/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:12c22c03cd11c0ca",
+      "titleEn": "Cisco earnings preview: where options data suggests CSCO is headed",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/cisco-earnings-preview-where-options-data-suggests-csco-is-headed/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8d2c24cd0c4f7e13",
+      "titleEn": "Applied Materials earnings preview: will the stock hit $625 or $500?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/applied-materials-earnings-preview-will-the-stock-hit-625-or-500/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8dd5f41943caec8f",
+      "titleEn": "Why SpaceX stock is crashing around 5% after a 3-day rally",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/why-spacex-stock-is-crashing-around-5-after-a-3-day-rally/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7825da5d1b6f1f8c",
+      "titleEn": "Nvidia stock stablizes after Monday's fall: are circular financing fears fading?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/nvidia-stock-stablizes-after-mondays-fall-are-circular-financing-fears-fading/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:35b2af4043b7fcda",
+      "titleEn": "Bumble stock rises after ending women-first texting rule: will the move boost growth?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/bumble-stock-rises-after-ending-women-first-texting-rule-will-the-move-boost-growth/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3183dfcdac0f904c",
+      "titleEn": "Why Sea Limited stock's post-earnings rally is an opportunity to sell",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/why-sea-limited-stocks-post-earnings-rally-is-an-opportunity-to-sell/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:310e305e8827df5c",
+      "titleEn": "China's gold consumption rises 1.23% in H1, jewelry sales slump while investment demand soars - China Gold Association",
+      "summaryEn": "(Kitco News) – China’s total gold consumption rose 1.23% in the first half of 2026, according to the latest data from the China Gold Association (CGA). Gold consumption in China came in at 511.41 tonnes in the first six months of the year, the CGA said, compared to 505.21 tonnes in H1 2025, with strong investment demand offsetting the still-sluggish jewelry sector. The association noted that the country&#x27;s gold consumption patterns were in flux, as the combination of sharp price fluctuations above historically high levels and newly-implemented domestic gold tax policies impacted consumer purchasing habits.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-11/chinas-gold-consumption-rises-123-h1-jewelry-sales-slump-while-investment",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f93238df039edc0a",
+      "titleEn": "On shares tumble 19% after sportswear brand misses quarterly net sales estimates",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/on-shares-tumble-19-after-sportswear-brand-misses-quarterly-net-sales-estimates/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:24869514a455d11a",
+      "titleEn": "Coherent stock: what next for this Lumentum rival ahead of earnings?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/11/coherent-stock-what-next-for-this-lumentum-rival-ahead-of-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a9b10647161c2237",
+      "titleEn": "Fermi stock jumps 23% on $6.5B TensorWave AI data center lease deal",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/11/fermi-stock-jumps-23-on-6-5b-tensorwave-ai-data-center-lease-deal/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:681504f6502f5fcc",
+      "titleEn": "French newspapers target Google over AI summaries",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: A federation of nearly 300 French newspapers said Tuesday that it filed a complaint with the country's competition authority over Google's new AI-generated search-result summaries, fearing the feature will erode traffic to their websites. It is the latest salvo by media companies against the U.S. tech giant's use of their articles and other content as they grapple with declining ad revenue.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-08-french-newspapers-google-ai-summaries.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:960e47e701970470",
+      "titleEn": "Tesla stock is up around 1% today: can the recovery sustain?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/08/11/tesla-stock-is-up-around-1-today-can-the-recovery-sustain/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:058db984b705fcfe",
+      "titleEn": "Anthropic Plans Healthcare Push to Improve AI Image Before IPO",
+      "summaryEn": "Anthropic believes its growing use of artificial intelligence for healthcare and biology will improve public sentiment about the technology, the Wall Street Journal reported Tuesday (Aug. 11), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That is one of the strategies Anthropic is sharing with potential investors in meetings ahead of its upcoming initial public offering (IPO), according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-plans-healthcare-push-to-improve-ai-image-before-ipo/",
+      "published": null
+    },
     {
       "id": "stockanalysis:d2d13aa751f72b7f",
       "titleEn": "Intel stock continues to fall as it expands stock sale to $20B",
@@ -40,120 +175,84 @@
       "published": null
     },
     {
-      "id": "stockanalysis:46f870a95cbe18a7",
-      "titleEn": "Gold and silver ease as CPI risk steadies yields and the dollar - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are weaker in early U.S. trading Tuesday, as traders took profits after gold hit a two-month high overnight and markets moved back into inflation-watch mode ahead of Wednesday’s U.S. CPI report. At the time of writing, spot gold was trading near $4,386.30 an ounce, down 0.04%, while spot silver was trading at $65.090, down 0.78% on the session. The latest positioning remains a tug of war between weak labor data and renewed inflation risk. July payrolls fell by 23,000 , and last week’s report pushed September Fed rate-hike odds into the low-40% area before oil’s latest rebound lifted that probability back to 51.9%. The 10-year Treasury yield is trading near 4.74%, close to its highest level since January 2025, while the dollar index is flat near 99.834. CPI is due Wednesday at 8:30 a.m. ET, with the market looking for annual inflation to ease to 3.4% from 3.5%. The Strait of Hormuz remains the key geopolitical input for metals and energy markets. Oil prices rose Monday after Iran tied any full reopening of the strait to U.S. concessions, while Washington added new compensation demands that complicated the path to a deal. Brent crude briefly traded above $90 a barrel Tuesday before easing, and U.S. crude held near the $82 area. The impact on gold is two-sided: Hormuz risk supports haven demand, but higher crude keeps inflation pressure alive and makes it harder for traders to fully price out another Fed hike.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-11/gold-and-silver-ease-cpi-risk-steadies-yields-and-dollar-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:811acc807b36892b",
-      "titleEn": "Fastly stock has gone parabolic after earnings: how high can it go?",
+      "id": "stockanalysis:c3ca3ad3df94614d",
+      "titleEn": "CHG Healthcare Acquires KREWE Anesthesia To Expand CRNA Staffing Capabilities, Meeting Rising Client Needs",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/fastly-stock-has-gone-parabolic-after-earnings-how-high-can-it-go/",
+      "link": "https://www.businesswire.com/news/home/20260810981985/en/CHG-Healthcare-Acquires-KREWE-Anesthesia-To-Expand-CRNA-Staffing-Capabilities-Meeting-Rising-Client-Needs/",
       "published": null
     },
     {
-      "id": "stockanalysis:10ae7fb7837bcd3c",
-      "titleEn": "Plug Power stock jumps after earnings: is this the start of a bull run?",
+      "id": "stockanalysis:c44eb3d429aa4b22",
+      "titleEn": "Kelly Office Solutions Books Six-Figure First-Year New Business with ZoomInfo",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/plug-power-stock-jumps-after-earnings-is-this-the-start-of-a-bull-run/",
+      "link": "https://www.businesswire.com/news/home/20260811962265/en/Kelly-Office-Solutions-Books-Six-Figure-First-Year-New-Business-with-ZoomInfo/",
       "published": null
     },
     {
-      "id": "stockanalysis:7df85b84e1e30336",
-      "titleEn": "Why Micron, SK Hynix could gain from Nvidia's de-spec of Rubin Ultra?",
+      "id": "stockanalysis:40e1a950ef4683b3",
+      "titleEn": "Edelman Financial Engines Names Christian Mango as Retirement Advisory Practice Leader",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/why-micron-sk-hynix-could-gain-from-nvidias-de-spec-of-rubin-ultra/",
+      "link": "https://www.businesswire.com/news/home/20260811814172/en/Edelman-Financial-Engines-Names-Christian-Mango-as-Retirement-Advisory-Practice-Leader/",
       "published": null
     },
     {
-      "id": "stockanalysis:6cb4cfcf3d52c551",
-      "titleEn": "Meta, Google face thousands of youth addiction lawsuits after major US court ruling",
+      "id": "stockanalysis:6dcfc1cc90a506ad",
+      "titleEn": "Momentum Events Cleaned Up a Duplicate-Filled CRM with ZoomInfo",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/meta-google-face-thousands-of-youth-addiction-lawsuits-after-major-us-court-ruling/",
+      "link": "https://www.businesswire.com/news/home/20260811848690/en/Momentum-Events-Cleaned-Up-a-Duplicate-Filled-CRM-with-ZoomInfo/",
       "published": null
     },
     {
-      "id": "stockanalysis:db17470fe4ea88b1",
-      "titleEn": "BP and Shell shares lead the FTSE 100 Index as crude oil prices jump: what next?",
+      "id": "stockanalysis:a3444efcbbd81283",
+      "titleEn": "Medincell's Dr Grace Kim to Participate in Piper Sandler CNS Symposium",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/bp-and-shell-shares-lead-the-ftse-100-index-as-crude-oil-prices-jump-what-next/",
+      "link": "https://www.businesswire.com/news/home/20260811400758/en/Medincell%E2%80%99s-Dr-Grace-Kim-to-Participate-in-Piper-Sandler-CNS-Symposium/",
       "published": null
     },
     {
-      "id": "stockanalysis:b5b2f29a4086934b",
-      "titleEn": "Hims &amp; Hers stock drops 7% despite higher guidance: what went wrong?",
+      "id": "stockanalysis:bfa1c56487460460",
+      "titleEn": "ZoomInfo Data Now Integrated With Microsoft Copilot Studio and Available in Microsoft 365 Copilot, Dynamics 365, Excel, and Word",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/hims-hers-stock-drops-7-despite-higher-guidance-what-went-wrong/",
+      "link": "https://www.businesswire.com/news/home/20260811134017/en/ZoomInfo-Data-Now-Integrated-With-Microsoft-Copilot-Studio-and-Available-in-Microsoft-365-Copilot-Dynamics-365-Excel-and-Word/",
       "published": null
     },
     {
-      "id": "stockanalysis:446f6704d1e66b53",
-      "titleEn": "Trusted Advisor Search Expands RIA Practice With Appointment of Industry Veteran Katie Brennan",
+      "id": "stockanalysis:cef6af265697d34a",
+      "titleEn": "ResellerRatings Cuts Time Spent on Non-Selling Work by 90% with ZoomInfo",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811360802/en/Trusted-Advisor-Search-Expands-RIA-Practice-With-Appointment-of-Industry-Veteran-Katie-Brennan/",
+      "link": "https://www.businesswire.com/news/home/20260811604790/en/ResellerRatings-Cuts-Time-Spent-on-Non-Selling-Work-by-90-with-ZoomInfo/",
       "published": null
     },
     {
-      "id": "stockanalysis:b114ad2a3b4dfd82",
-      "titleEn": "Evertec Establishes $250,000 Emergency Relief Fund to Support Earthquake Recovery in Colombia",
+      "id": "stockanalysis:0ce09c83e4d7c480",
+      "titleEn": "Chase Auto Captive Finance Partners Earn #1 Rankings in the JD Power 2026 U.S. Dealer Financing Satisfaction Study�",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811398384/en/Evertec-Establishes-250000-Emergency-Relief-Fund-to-Support-Earthquake-Recovery-in-Colombia/",
+      "link": "https://www.businesswire.com/news/home/20260811709692/en/Chase-Auto-Captive-Finance-Partners-Earn-1-Rankings-in-the-JD-Power-2026-U.S.-Dealer-Financing-Satisfaction-Study%E2%84%A0/",
       "published": null
     },
     {
-      "id": "stockanalysis:d8f01818ebe8f650",
-      "titleEn": "Sterne Kessler Client Netlist Negotiates Five-Year Patent Alliance with Samsung",
+      "id": "stockanalysis:9b9d5278dd9cfbf6",
+      "titleEn": "Muncy Columbia Financial Corporation Declares Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811647498/en/Sterne-Kessler-Client-Netlist-Negotiates-Five-Year-Patent-Alliance-with-Samsung/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bb53e1eca6ad5371",
-      "titleEn": "Middle-Income Americans Value In-Person Support for Major Financial Decisions, Santander US Survey Finds",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811664337/en/Middle-Income-Americans-Value-In-Person-Support-for-Major-Financial-Decisions-Santander-US-Survey-Finds/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0fc9c9a794a473f4",
-      "titleEn": "Icertis Named to the 2026 Inc. 5000 List of Fastest Growing Private Companies in America",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811440901/en/Icertis-Named-to-the-2026-Inc.-5000-List-of-Fastest-Growing-Private-Companies-in-America/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:33baa76873580058",
-      "titleEn": "Comcast Business and Colt Technology Services Launch Innovation Lab Program to Automate Global Enterprise Connectivity",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811676131/en/Comcast-Business-and-Colt-Technology-Services-Launch-Innovation-Lab-Program-to-Automate-Global-Enterprise-Connectivity/",
+      "link": "https://www.businesswire.com/news/home/20260811786064/en/Muncy-Columbia-Financial-Corporation-Declares-Dividend/",
       "published": null
     }
   ]
