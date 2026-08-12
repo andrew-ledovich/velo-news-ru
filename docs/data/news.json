@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-12T19:19:17.018462Z",
+  "generatedAt": "2026-08-12T20:07:33.708992Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:5d045544bbd2433d",
@@ -94,84 +94,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:61cbfdbfb3c55ed3",
-      "titleEn": "SPCE stock rally faces a test as short interest nears 30% ahead of earnings",
+      "id": "stockanalysis:7a824417598752d1",
+      "titleEn": "AEVEX to Acquire BlackSea Technologies, Strengthening Its Multi‑Domain Autonomous Systems Capabilities",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/12/spce-stock-rally-faces-a-test-as-short-interest-nears-30-ahead-of-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:697d87d9103b91eb",
-      "titleEn": "Marvell Technology stock: What's next for this Nvidia-backed giant?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/12/marvell-technology-stock-whats-next-for-this-nvidia-backed-giant/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9c8f77b0f636a328",
-      "titleEn": "Why Nvidia stock is climbing around 3% today",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/12/why-nvidia-stock-is-climbing-around-3-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5f8812917819c91c",
-      "titleEn": "Intel stock jumps 4% as BofA backs foundry strategy despite dilution",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/12/intel-stock-jumps-4-as-bofa-backs-foundry-strategy-despite-dilution/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:94673d929621395b",
-      "titleEn": "Chevron Announces Leadership Changes",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811010338/en/Chevron-Announces-Leadership-Changes/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:767f48ee0dab8a6c",
-      "titleEn": "Calix Expands SmartHome With ScamWatchIQ and ScamPRO, Helping Service Providers Grow Loyalty and ARPU by Protecting Subscribers From Fraud and Identity Theft",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812205942/en/Calix-Expands-SmartHome-With-ScamWatchIQ-and-ScamPRO-Helping-Service-Providers-Grow-Loyalty-and-ARPU-by-Protecting-Subscribers-From-Fraud-and-Identity-Theft/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:80a892d17a6be7f4",
-      "titleEn": "FTK Completes $17MM Dallas LIHTC Project",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812386555/en/FTK-Completes-17MM-Dallas-LIHTC-Project/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0fe305c8b8be8256",
-      "titleEn": "Atlassian Announces Code Context, Bringing Codebase Understanding Into the Teamwork Graph",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812249676/en/Atlassian-Announces-Code-Context-Bringing-Codebase-Understanding-Into-the-Teamwork-Graph/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b255f54ecd683a73",
-      "titleEn": "L3Harris Opens Rhode Island Production Facility to Support US and Allied Naval Readiness",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812600437/en/L3Harris-Opens-Rhode-Island-Production-Facility-to-Support-US-and-Allied-Naval-Readiness/",
+      "link": "https://www.businesswire.com/news/home/20260812142366/en/AEVEX-to-Acquire-BlackSea-Technologies-Strengthening-Its-Multi%E2%80%91Domain-Autonomous-Systems-Capabilities/",
       "published": null
     }
   ]
