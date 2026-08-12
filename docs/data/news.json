@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-12T08:49:49.406335Z",
+  "generatedAt": "2026-08-12T11:34:38.162456Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:5188d7c26db5d4db",
+      "titleEn": "Lumentum stock surges 8% after earnings as Nvidia bet starts paying off",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/12/lumentum-stock-surges-8-after-earnings-as-nvidia-bet-starts-paying-off/",
+      "published": null
+    },
     {
       "id": "stockanalysis:c6dc346c506bf1ff",
       "titleEn": "FTSE 100 near record highs, but $90 oil could change the picture fast",
@@ -73,69 +82,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/retail/2026/target-appoints-lowes-veteran-chandhu-nair-as-first-chief-ai-officer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:076059764c31ede4",
-      "titleEn": "Gold holds near two-month high as equities slip, oil rallies - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Gold and silver prices are modestly higher in late-afternoon U.S. trading Tuesday, as safe-haven demand tied to the Strait of Hormuz standoff offset a firmer U.S. dollar and a still-elevated rate backdrop. At the time of writing, spot gold was trading near $4,412.50 an ounce, up 0.56% on the session, while spot silver was trading at $65.680, up 0.13%. The latest market positioning remains a two-sided trade into Wednesday’s CPI report and Thursday’s producer price data. Last week’s weaker jobs data kept rate-sensitive gold underpinned, but the rebound in crude oil and a still-elevated inflation path have pulled September Fed expectations back toward a coin toss. The 10-year Treasury yield was near the 4.7% area, while the U.S. dollar was firmer, leaving gold supported by defensive flows but limiting follow-through above the session high. North American equities closed softer after last week’s record levels. The S&P 500 fell 0.3% to 7,728.20, the Dow Jones Industrial Average lost 0.3% to 53,791.85 and the Nasdaq Composite dropped 0.6% to 26,445.45, while the Russell 2000 rose 0.3% to 3,027.12. In Europe, the Stoxx 600 finished up 0.05% at 661, Germany’s DAX gained 0.17%, Italy’s FTSE MIB rose 0.13%, the FTSE 100 slipped 0.16% and France’s CAC 40 fell 0.13%.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-11/gold-holds-near-two-month-high-equities-slip-oil-rallies-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:766fe5c494de9476",
-      "titleEn": "CoreWeave stock soars as Q2 earnings alleviate key concerns",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/coreweave-stock-soars-as-q2-earnings-alleviate-key-concerns/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f99085b0c2fe11d8",
-      "titleEn": "Amex Ventures Funds Fazeshift's Agentic AI Expansion Beyond Accounts Receivable",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The investment from Amex Ventures, which is the corporate venture capital arm of American Express , builds on Fazeshift’s Series A that was announced earlier this year, according to the release. Fazeshift’s AI agent platform currently automates accounts receivable workflows such as invoicing, payment reconciliation and collections across the tools finance teams already use, per the release.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/amex-ventures-funds-fazeshifts-agentic-ai-expansion-beyond-accounts-receivable/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:723ce9ec7ece83df",
-      "titleEn": "Nano One Reports Q2 2026 Results and Highlights Non-Dilutive Funding and Policy Tailwinds",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812793987/en/Nano-One-Reports-Q2-2026-Results-and-Highlights-Non-Dilutive-Funding-and-Policy-Tailwinds/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:243596f27667ca3b",
-      "titleEn": "Silence Therapeutics Announces Pricing of Upsized $175 Million Underwritten Public Offering",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811003332/en/Silence-Therapeutics-Announces-Pricing-of-Upsized-175-Million-Underwritten-Public-Offering/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1980ccb0d9b5def3",
-      "titleEn": "Savers Value Village, Inc. Announces Pricing of Upsized Secondary Public Offering of Common Stock and Concurrent Share Repurchase",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811637842/en/Savers-Value-Village-Inc.-Announces-Pricing-of-Upsized-Secondary-Public-Offering-of-Common-Stock-and-Concurrent-Share-Repurchase/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:97b0ceefdde66859",
-      "titleEn": "AEG Presents Enters Into Strategic Partnership With Creativeman Productions",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811635365/en/AEG-Presents-Enters-Into-Strategic-Partnership-With-Creativeman-Productions/",
       "published": null
     }
   ]
