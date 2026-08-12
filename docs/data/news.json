@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-12T17:25:03.836236Z",
+  "generatedAt": "2026-08-12T18:12:56.460522Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:4d30a555ab4034fb",
+      "titleEn": "Meta stock plunges 3% today: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/12/meta-stock-plunges-3-today-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bd8ba444b9af1f99",
+      "titleEn": "LBMA snapshot survey predicts gold price average near $4,500/oz by year-end",
+      "summaryEn": "(Kitco News) – Spot gold will trade on either side of $4,500 per ounce at the end of 2026, according to a new survey published by the London Bullion Market Association (LBMA). The LBMA surveyed 16 professional analysts in July, and even as gold was trading at its 2026 lows, frequently dipping below $4,000 per ounce during the month, the average of the experts’ year-end price predictions was over 12% higher. The highest year-end prediction from the survey’s respondents was $5,100 per ounce, representing a gain of an additional 15% from current prices, while the lowest forecast was $3,879, $100 below the 2026 low set in early July.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-12/lbma-snapshot-survey-predicts-gold-price-average-near-4500oz-year-end",
+      "published": null
+    },
     {
       "id": "stockanalysis:130a7fa287e3bd28",
       "titleEn": "Why SpaceX stock is soaring around 7% today",
@@ -112,39 +130,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:86f18dd89c5ebc12",
-      "titleEn": "Analysts raise Rocket Lab stock targets after earnings: Why it could still hit $50",
+      "id": "stockanalysis:b255f54ecd683a73",
+      "titleEn": "L3Harris Opens Rhode Island Production Facility to Support US and Allied Naval Readiness",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/12/analysts-raise-rocket-lab-stock-targets-after-earnings-why-it-could-still-hit-50/",
+      "link": "https://www.businesswire.com/news/home/20260812600437/en/L3Harris-Opens-Rhode-Island-Production-Facility-to-Support-US-and-Allied-Naval-Readiness/",
       "published": null
     },
     {
-      "id": "stockanalysis:da361e367f9e496e",
-      "titleEn": "Cognition AI Eyes $40 Billion Valuation From New Funding",
-      "summaryEn": "Cognition AI is reportedly planning a funding round that could more than double its valuation. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The artificial intelligence (AI) coding startup is in discussion with investors about the round, which may lift its valuation to at least $40 billion, Bloomberg News reported late Tuesday (Aug. 11), citing sources familiar with the matter.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/cognition-ai-eyes-40-billion-valuation-from-new-funding/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0435fa4dafd0c71a",
-      "titleEn": "Spot gold spikes above $4,438/oz as annual core CPI rises 2.5% in July",
-      "summaryEn": "(Kitco News) - The gold market is setting fresh session highs after the latest data showed U.S. inflation pressures cooling in line with expectations last month. The headline Consumer Price Index (CPI) rose by 0.1% last month after June’s -0.4% decrease, the U.S. Bureau of Labor Statistics announced on Wednesday. The inflation data matched expectations, as economists were looking for a 0.1% increase. The report noted that annual headline inflation rose by 3.4% over the last 12 months, also in line with the consensus forecast of economists, and below the 3.5% reported in June.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-12/spot-gold-spikes-above-4438oz-annual-core-cpi-rises-25-july",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2de5870cee639673",
-      "titleEn": "Amkor Technology Declares Quarterly Dividend",
+      "id": "stockanalysis:b1895e31ca93e3b6",
+      "titleEn": "KBRA Assigns Preliminary Ratings to Sequoia Mortgage Trust 2026-INV4 (SEMT 2026-INV4)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812257497/en/Amkor-Technology-Declares-Quarterly-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20260812410067/en/KBRA-Assigns-Preliminary-Ratings-to-Sequoia-Mortgage-Trust-2026-INV4-SEMT-2026-INV4/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3bb9014b7b5024d9",
+      "titleEn": "Emera Completes Sale of New Mexico Gas Company",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812685941/en/Emera-Completes-Sale-of-New-Mexico-Gas-Company/",
       "published": null
     }
   ]
