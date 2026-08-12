@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-11T22:26:49.011625Z",
+  "generatedAt": "2026-08-12T04:29:26.456976Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:15b746efad32d0dd",
+      "titleEn": "Supermicro stock is surging, but one number should still worry investors",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/12/supermicro-stock-is-surging-but-one-number-should-still-worry-investors/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:59ec7d315ba8bbe4",
+      "titleEn": "Why Samsung and SK Hynix are ripping higher despite a weaker Nasdaq",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/12/why-samsung-and-sk-hynix-are-ripping-higher-despite-a-weaker-nasdaq/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:459e0cf43976c24c",
+      "titleEn": "Target Appoints Lowe's Veteran Chandhu Nair as First Chief AI Officer",
+      "summaryEn": "Target has appointed its first chief artificial intelligence officer, the company said in a Tuesday (Aug. 11) article . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Chandhu Nair will join the company on Aug. 24 and will bring greater focus and coordination to AI across the company, according to the article.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/retail/2026/target-appoints-lowes-veteran-chandhu-nair-as-first-chief-ai-officer/",
+      "published": null
+    },
     {
       "id": "stockanalysis:076059764c31ede4",
       "titleEn": "Gold holds near two-month high as equities slip, oil rallies - Kitco PM Report",
@@ -40,102 +67,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:625950c83bb9eb10",
-      "titleEn": "Tilray Brands stock rises as Curaleaf plots hostile takeover for Aurora",
+      "id": "stockanalysis:243596f27667ca3b",
+      "titleEn": "Silence Therapeutics Announces Pricing of Upsized $175 Million Underwritten Public Offering",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/tilray-brands-stock-rises-as-curaleaf-plots-hostile-takeover-for-aurora/",
+      "link": "https://www.businesswire.com/news/home/20260811003332/en/Silence-Therapeutics-Announces-Pricing-of-Upsized-175-Million-Underwritten-Public-Offering/",
       "published": null
     },
     {
-      "id": "stockanalysis:e1779040ae18f071",
-      "titleEn": "Alkami Puts Digital Banking Business up for Sale",
-      "summaryEn": "Digital banking software firm Alkami Technology has reportedly put itself up for sale. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The move came after the company saw interest from potential buyers and increased pressure to sell from activist investor Jana Partners , Reuters reported , citing sources familiar with the matter. Those sources said Alkami’s advisors have begun connecting with private equity groups about a sale.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/alkami-puts-digital-banking-business-up-for-sale/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:12c22c03cd11c0ca",
-      "titleEn": "Cisco earnings preview: where options data suggests CSCO is headed",
+      "id": "stockanalysis:1980ccb0d9b5def3",
+      "titleEn": "Savers Value Village, Inc. Announces Pricing of Upsized Secondary Public Offering of Common Stock and Concurrent Share Repurchase",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/cisco-earnings-preview-where-options-data-suggests-csco-is-headed/",
+      "link": "https://www.businesswire.com/news/home/20260811637842/en/Savers-Value-Village-Inc.-Announces-Pricing-of-Upsized-Secondary-Public-Offering-of-Common-Stock-and-Concurrent-Share-Repurchase/",
       "published": null
     },
     {
-      "id": "stockanalysis:8d2c24cd0c4f7e13",
-      "titleEn": "Applied Materials earnings preview: will the stock hit $625 or $500?",
+      "id": "stockanalysis:97b0ceefdde66859",
+      "titleEn": "AEG Presents Enters Into Strategic Partnership With Creativeman Productions",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/applied-materials-earnings-preview-will-the-stock-hit-625-or-500/",
+      "link": "https://www.businesswire.com/news/home/20260811635365/en/AEG-Presents-Enters-Into-Strategic-Partnership-With-Creativeman-Productions/",
       "published": null
     },
     {
-      "id": "stockanalysis:8dd5f41943caec8f",
-      "titleEn": "Why SpaceX stock is crashing around 5% after a 3-day rally",
+      "id": "stockanalysis:0f54ae7eedea778a",
+      "titleEn": "Align Technology Prevails in China Patent Infringement Action Against Angelalign",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/why-spacex-stock-is-crashing-around-5-after-a-3-day-rally/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ce122fa4dc23df4f",
-      "titleEn": "KBRA Assigns Preliminary Ratings to Aspire Mortgage Trust 2026-5 (SPIRE 2026-5)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811485690/en/KBRA-Assigns-Preliminary-Ratings-to-Aspire-Mortgage-Trust-2026-5-SPIRE-2026-5/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:626b687be58cf7fe",
-      "titleEn": "Dream Unlimited Corp. Reports Second Quarter Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811989791/en/Dream-Unlimited-Corp.-Reports-Second-Quarter-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9063ae3482ad1875",
-      "titleEn": "Oceaneering Announces Participation at Third Quarter 2026 Investor Conferences",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811894469/en/Oceaneering-Announces-Participation-at-Third-Quarter-2026-Investor-Conferences/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a790790e53c2af96",
-      "titleEn": "Walmart and the Walmart Foundation Commit $500,000 to Spokane Wildfire Relief",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811461741/en/Walmart-and-the-Walmart-Foundation-Commit-500000-to-Spokane-Wildfire-Relief/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2eacf601b4c5a54d",
-      "titleEn": "Boxlight Corporation Announces Initial Closing of Private Placement",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811968029/en/Boxlight-Corporation-Announces-Initial-Closing-of-Private-Placement/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cc260d0a12a3daba",
-      "titleEn": "TWO Responds to Baseless Claims by UWMC",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811963682/en/TWO-Responds-to-Baseless-Claims-by-UWMC/",
+      "link": "https://www.businesswire.com/news/home/20260811741339/en/Align-Technology-Prevails-in-China-Patent-Infringement-Action-Against-Angelalign/",
       "published": null
     }
   ]
