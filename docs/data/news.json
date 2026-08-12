@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-12T18:12:56.460522Z",
+  "generatedAt": "2026-08-12T19:19:17.018462Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:5d045544bbd2433d",
+      "titleEn": "Why is Microsoft stock falling 2% today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/12/why-is-microsoft-stock-falling-2-today/",
+      "published": null
+    },
     {
       "id": "stockanalysis:4d30a555ab4034fb",
       "titleEn": "Meta stock plunges 3% today: here's why",
@@ -121,12 +130,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:18f9bcf83cf7a609",
-      "titleEn": "Gold, silver rally as CPI cools but oil keeps Fed risk alive - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Wednesday, after July CPI matched expectations and left the market split on whether the Federal Reserve will raise rates at its September meeting . At the time of writing, spot gold was trading near $4,427.72 an ounce, up 1.36%, while spot silver was trading at $66.20, up 2.51% on the session. This morning’s CPI report gave precious metals a rate-relief bid without removing the Fed risk. Headline CPI rose 0.1% in July and 3.4% from a year earlier, while core CPI rose 0.2% on the month and 2.5% year-over-year. The numbers matched consensus and were not hot enough to force an immediate repricing toward a September hike, but inflation remains above target, energy is still feeding through the rates debate and the market-implied probability of a 25-basis-point September hike remains near 48%. The 10-year Treasury yield is trading near the 4.7% area, off its recent highs, while the U.S. dollar is softer. The Strait of Hormuz remains the main geopolitical channel into oil, inflation expectations and safe-haven demand. The waterway is still effectively shut, with Iran demanding U.S. concessions before any full reopening and Washington seeking compensation tied to the conflict. Brent crude is holding near $89 a barrel and U.S. crude is near $84, keeping fuel costs elevated even as CPI came in line with expectations. For gold, the setup is two-sided: restricted Gulf shipping supports defensive demand, but higher crude keeps the inflation argument alive and limits how far markets can price out additional Fed tightening.",
+      "id": "stockanalysis:94673d929621395b",
+      "titleEn": "Chevron Announces Leadership Changes",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-12/gold-silver-rally-cpi-cools-oil-keeps-fed-risk-alive-kitco-am-report",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260811010338/en/Chevron-Announces-Leadership-Changes/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:767f48ee0dab8a6c",
+      "titleEn": "Calix Expands SmartHome With ScamWatchIQ and ScamPRO, Helping Service Providers Grow Loyalty and ARPU by Protecting Subscribers From Fraud and Identity Theft",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812205942/en/Calix-Expands-SmartHome-With-ScamWatchIQ-and-ScamPRO-Helping-Service-Providers-Grow-Loyalty-and-ARPU-by-Protecting-Subscribers-From-Fraud-and-Identity-Theft/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:80a892d17a6be7f4",
+      "titleEn": "FTK Completes $17MM Dallas LIHTC Project",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812386555/en/FTK-Completes-17MM-Dallas-LIHTC-Project/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0fe305c8b8be8256",
+      "titleEn": "Atlassian Announces Code Context, Bringing Codebase Understanding Into the Teamwork Graph",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812249676/en/Atlassian-Announces-Code-Context-Bringing-Codebase-Understanding-Into-the-Teamwork-Graph/",
       "published": null
     },
     {
@@ -136,24 +172,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260812600437/en/L3Harris-Opens-Rhode-Island-Production-Facility-to-Support-US-and-Allied-Naval-Readiness/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b1895e31ca93e3b6",
-      "titleEn": "KBRA Assigns Preliminary Ratings to Sequoia Mortgage Trust 2026-INV4 (SEMT 2026-INV4)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812410067/en/KBRA-Assigns-Preliminary-Ratings-to-Sequoia-Mortgage-Trust-2026-INV4-SEMT-2026-INV4/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3bb9014b7b5024d9",
-      "titleEn": "Emera Completes Sale of New Mexico Gas Company",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812685941/en/Emera-Completes-Sale-of-New-Mexico-Gas-Company/",
       "published": null
     }
   ]
