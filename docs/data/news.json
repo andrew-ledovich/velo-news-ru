@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-12T23:10:24.917937Z",
+  "generatedAt": "2026-08-12T23:56:21.335778Z",
   "sourceCount": 1,
-  "count": 6,
+  "count": 9,
   "items": [
     {
       "id": "stockanalysis:ab8acad9accc74e1",
@@ -46,6 +46,33 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-08-12/lbma-snapshot-survey-predicts-gold-price-average-near-4500oz-year-end",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cce51fee8631a44c",
+      "titleEn": "Faraday Future Holds Special Meeting of Stockholders, Securing Approvals on a Number of Proposals to Support Continued EAI Robotics Development and Deliveries in 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812299733/en/Faraday-Future-Holds-Special-Meeting-of-Stockholders-Securing-Approvals-on-a-Number-of-Proposals-to-Support-Continued-EAI-Robotics-Development-and-Deliveries-in-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1bf079fb0b15d9be",
+      "titleEn": "Rio Tinto welcomes agreement to secure long-term future of Tomago Aluminium",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812081780/en/Rio-Tinto-welcomes-agreement-to-secure-long-term-future-of-Tomago-Aluminium/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:34df0a00646475bf",
+      "titleEn": "Suzano Reports Adjusted EBITDA of R$4.7 Billion in the Second Quarter of 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812548805/en/Suzano-Reports-Adjusted-EBITDA-of-R4.7-Billion-in-the-Second-Quarter-of-2026/",
       "published": null
     },
     {
