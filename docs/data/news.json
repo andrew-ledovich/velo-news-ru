@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-08-12T04:29:26.456976Z",
+  "generatedAt": "2026-08-12T08:49:49.406335Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:c6dc346c506bf1ff",
+      "titleEn": "FTSE 100 near record highs, but $90 oil could change the picture fast",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/12/ftse-100-near-record-highs-but-90-oil-could-change-the-picture-fast/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1c29d94bdd2bac76",
+      "titleEn": "Tesla, Palantir and 3 stocks that could swing wildly after July CPI",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/08/12/tesla-palantir-stocks-july-cpi/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8d1313c513c8da4d",
+      "titleEn": "Meta meets its own 'tobacco' moment in court",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: With billions of users around the world, Meta will defend itself against allegations of harming children in a new trial in the United States this week, which experts describe as social media's Big Tobacco moment. After a coalition of states sued Meta in 2023 for allegedly designing addictive features for kids in its apps, four states were selected to represent their claims: California, Colorado, Kentucky and New Jersey.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-08-meta-tobacco-moment-court.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b83524c668cc4449",
+      "titleEn": "Foxconn stock jumped before earnings, now comes the real test",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/12/foxconn-stock-earnings-beat-ai-demand/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:85e937b38c85709e",
+      "titleEn": "Micron stock: why 85% margins aren't enough to stop the sell-off",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/12/micron-stock-sell-off-85-margin/",
+      "published": null
+    },
     {
       "id": "stockanalysis:15b746efad32d0dd",
       "titleEn": "Supermicro stock is surging, but one number should still worry investors",
@@ -58,12 +103,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:7c5330ce24e0216e",
-      "titleEn": "Upwork stock tumbles as weak guidance overshadows Q2 earnings beat",
+      "id": "stockanalysis:723ce9ec7ece83df",
+      "titleEn": "Nano One Reports Q2 2026 Results and Highlights Non-Dilutive Funding and Policy Tailwinds",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/11/upwork-stock-tumbles-as-weak-guidance-overshadows-q2-earnings-beat/",
+      "link": "https://www.businesswire.com/news/home/20260812793987/en/Nano-One-Reports-Q2-2026-Results-and-Highlights-Non-Dilutive-Funding-and-Policy-Tailwinds/",
       "published": null
     },
     {
@@ -91,15 +136,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260811635365/en/AEG-Presents-Enters-Into-Strategic-Partnership-With-Creativeman-Productions/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0f54ae7eedea778a",
-      "titleEn": "Align Technology Prevails in China Patent Infringement Action Against Angelalign",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260811741339/en/Align-Technology-Prevails-in-China-Patent-Infringement-Action-Against-Angelalign/",
       "published": null
     }
   ]
