@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-12T16:15:19.831321Z",
+  "generatedAt": "2026-08-12T17:25:03.836236Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:130a7fa287e3bd28",
+      "titleEn": "Why SpaceX stock is soaring around 7% today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/12/why-spacex-stock-is-soaring-around-7-today/",
+      "published": null
+    },
     {
       "id": "stockanalysis:7a222cfb419de84e",
       "titleEn": "Why Nvidia's $500B investment plan is bad news for Oracle stock",
@@ -130,39 +139,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:fb851fe6b03628c9",
-      "titleEn": "Two mega-cap stocks and one more to rally on cooler CPI",
+      "id": "stockanalysis:2de5870cee639673",
+      "titleEn": "Amkor Technology Declares Quarterly Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/12/two-mega-cap-stocks-and-one-more-to-rally-on-cooler-cpi/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fcf7aac4c6fa8af7",
-      "titleEn": "IREN stock analysis after CoreWeave earnings and Anthropic deal",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/12/iren-stock-analysis-after-coreweave-earnings-and-anthropic-deal/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9f3f83a8c3bd2737",
-      "titleEn": "Eurofins Scientific: Director/PDMR Shareholding",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812033597/en/Eurofins-Scientific-DirectorPDMR-Shareholding/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4b76d00ae2d54022",
-      "titleEn": "AM Best Revises Outlooks to Stable for Berkshire Hathaway GUARD Insurance Companies' Members",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812894360/en/AM-Best-Revises-Outlooks-to-Stable-for-Berkshire-Hathaway-GUARD-Insurance-Companies%E2%80%99-Members/",
+      "link": "https://www.businesswire.com/news/home/20260812257497/en/Amkor-Technology-Declares-Quarterly-Dividend/",
       "published": null
     }
   ]
