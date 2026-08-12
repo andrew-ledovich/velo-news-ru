@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-12T20:07:33.708992Z",
+  "generatedAt": "2026-08-12T20:59:42.956376Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:a163ef16e77a3259",
+      "titleEn": "Flywire and Trustly Bring Open Banking Partnership to US",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The expansion, done in partnership with Trustly , is designed to let payers authorize secure, large domestic and cross-border payments from their bank accounts and in their local currency, the payments enablement company said in a Wednesday (Aug. 12) news release . “Our clients tell us their payers want modern, digital payment experiences that eliminate friction,” said Kate Moran , vice president of global payments at Flywire.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/payment-methods/2026/flywire-and-trustly-bring-open-banking-partnership-to-us/",
+      "published": null
+    },
     {
       "id": "stockanalysis:5d045544bbd2433d",
       "titleEn": "Why is Microsoft stock falling 2% today?",
@@ -58,48 +67,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:6c149fe8678e2983",
-      "titleEn": "Palantir stock falls as AI chip rally overshadows strong Q2 results",
+      "id": "stockanalysis:590b5e84dd985189",
+      "titleEn": "The St. Joe Company Releases the Latest Issue of the Watersound Club® Member “Watersound Lifestyle®” Magazine",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812061756/en/The-St.-Joe-Company-Releases-the-Latest-Issue-of-the-Watersound-Club%C2%AE-Member-%E2%80%9CWatersound-Lifestyle%C2%AE%E2%80%9D-Magazine/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5e6d2cf3ef780341",
+      "titleEn": "Pershing Square Inc. Reports Second Quarter 2026 Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812686276/en/Pershing-Square-Inc.-Reports-Second-Quarter-2026-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:29348b349b5a7f4e",
+      "titleEn": "Cushman &amp; Wakefield: AI Infrastructure Boom Fuels Growing Wave of Industrial Demand Beyond the Data Center",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/12/palantir-stock-falls-as-ai-chip-rally-overshadows-strong-q2-results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a043cffe5e6fee8e",
-      "titleEn": "Why are Micron, SK Hynix stocks rallying today after CoreWeave, Super Micro earnings?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/12/why-are-micron-sk-hynix-stocks-rallying-today-after-coreweave-super-micro-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3dac1f7b8293463c",
-      "titleEn": "SanDisk stock has crashed: top reasons it may rebound to $2,000 soon",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/12/sandisk-stock-has-crashed-top-reasons-it-may-rebound-to-2000-soon/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:28f8af6c91df08ee",
-      "titleEn": "Nebius stock: 3 red flag hidden in its Q2 earnings release",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/12/nebius-stock-3-red-flag-hidden-in-its-q2-earnings-release/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7a824417598752d1",
-      "titleEn": "AEVEX to Acquire BlackSea Technologies, Strengthening Its Multi‑Domain Autonomous Systems Capabilities",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812142366/en/AEVEX-to-Acquire-BlackSea-Technologies-Strengthening-Its-Multi%E2%80%91Domain-Autonomous-Systems-Capabilities/",
+      "link": "https://www.businesswire.com/news/home/20260812358100/en/Cushman-Wakefield-AI-Infrastructure-Boom-Fuels-Growing-Wave-of-Industrial-Demand-Beyond-the-Data-Center/",
       "published": null
     }
   ]
