@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-12T20:59:42.956376Z",
+  "generatedAt": "2026-08-12T21:46:26.977726Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:ab8acad9accc74e1",
+      "titleEn": "Gold prices test two-month highs as CPI trims yields, Fed hike odds - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in late-afternoon U.S. trading Wednesday, after a cooler July CPI report cut September Federal Reserve rate-hike expectations and helped Treasury yields ease. At the time of writing, spot gold was trading near $4,406.20 an ounce, up 0.90%, while spot silver was trading at $65.140, up 0.89% on the session. North American equity markets finished mostly higher. The S&P 500 rose 20.30 points, or 0.3%, to 7,748.50, while the Nasdaq Composite gained 143.04 points, or 0.5%, to 26,588.49. The Dow Jones Industrial Average slipped 21.58 points, or less than 0.1%, to 53,770.27, and the Russell 2000 rose 18.37 points, or 0.6%, to 3,045.48. In Europe, the CAC 40 lost 0.46% to 8,674.94, the DAX fell 0.17% to 26,346, the FTSE 100 eased 0.10% to 10,833 and the Euro Stoxx 50 fell 0.24% to 6,535. The latest positioning shifted in favor of a Fed hold after the CPI release, but the move was not a clean dovish reset. Headline CPI rose 0.1% in July and 3.4% from a year earlier, while core CPI rose 0.2% on the month and 2.5% year-over-year. September hike odds fell to around 40% from roughly 48% on Tuesday, while the 10-year Treasury yield settled near 4.68% and the two-year yield slipped toward 4.20%. The data supported equities and gold, but energy-linked inflation risk remains the market’s main objection to fully pricing out another hike this year.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-12/gold-prices-test-two-month-highs-cpi-trims-yields-fed-hike-odds-kitco-pm",
+      "published": null
+    },
     {
       "id": "stockanalysis:a163ef16e77a3259",
       "titleEn": "Flywire and Trustly Bring Open Banking Partnership to US",
@@ -49,48 +58,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:7a222cfb419de84e",
-      "titleEn": "Why Nvidia's $500B investment plan is bad news for Oracle stock",
+      "id": "stockanalysis:66cc43685feacc0c",
+      "titleEn": "H.B. Fuller Confirms Receipt of Unsolicited Proposal for Building Adhesive Solutions Segment",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/12/why-nvidias-500b-investment-plan-is-bad-news-for-oracle-stock/",
+      "link": "https://www.businesswire.com/news/home/20260812325424/en/H.B.-Fuller-Confirms-Receipt-of-Unsolicited-Proposal-for-Building-Adhesive-Solutions-Segment/",
       "published": null
     },
     {
-      "id": "stockanalysis:9c47852158d4b7b4",
-      "titleEn": "DRAM: Here's why this Micron, SanDisk, SK Hynix ETF is about to surge",
+      "id": "stockanalysis:ea903aa34af06672",
+      "titleEn": "Pan American Silver Reports Second Quarter 2026 Financial Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260811285271/en/Pan-American-Silver-Reports-Second-Quarter-2026-Financial-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:88ee213f381556b1",
+      "titleEn": "Southland Announces Second Quarter 2026 Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812765830/en/Southland-Announces-Second-Quarter-2026-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:49d4f3d8c136247e",
+      "titleEn": "KBRA Assigns Preliminary Ratings to Hildene TruPS Securitization 5, Ltd.",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812179606/en/KBRA-Assigns-Preliminary-Ratings-to-Hildene-TruPS-Securitization-5-Ltd./",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1ee5923ccfc15bee",
+      "titleEn": "Sky Harbour Announces Q2 Results and Updates on Leasing, Construction, Funding and Other Activities",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/12/dram-heres-why-this-micron-sandisk-sk-hynix-etf-is-about-to-surge/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:590b5e84dd985189",
-      "titleEn": "The St. Joe Company Releases the Latest Issue of the Watersound Club® Member “Watersound Lifestyle®” Magazine",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812061756/en/The-St.-Joe-Company-Releases-the-Latest-Issue-of-the-Watersound-Club%C2%AE-Member-%E2%80%9CWatersound-Lifestyle%C2%AE%E2%80%9D-Magazine/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5e6d2cf3ef780341",
-      "titleEn": "Pershing Square Inc. Reports Second Quarter 2026 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812686276/en/Pershing-Square-Inc.-Reports-Second-Quarter-2026-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:29348b349b5a7f4e",
-      "titleEn": "Cushman &amp; Wakefield: AI Infrastructure Boom Fuels Growing Wave of Industrial Demand Beyond the Data Center",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260812358100/en/Cushman-Wakefield-AI-Infrastructure-Boom-Fuels-Growing-Wave-of-Industrial-Demand-Beyond-the-Data-Center/",
+      "link": "https://www.businesswire.com/news/home/20260812049479/en/Sky-Harbour-Announces-Q2-Results-and-Updates-on-Leasing-Construction-Funding-and-Other-Activities/",
       "published": null
     }
   ]
