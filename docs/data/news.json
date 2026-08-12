@@ -1,87 +1,141 @@
 {
-  "generatedAt": "2026-08-12T11:34:38.162456Z",
+  "generatedAt": "2026-08-12T15:16:39.061249Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 15,
   "items": [
     {
-      "id": "stockanalysis:5188d7c26db5d4db",
-      "titleEn": "Lumentum stock surges 8% after earnings as Nvidia bet starts paying off",
+      "id": "stockanalysis:a043cffe5e6fee8e",
+      "titleEn": "Why are Micron, SK Hynix stocks rallying today after CoreWeave, Super Micro earnings?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/12/lumentum-stock-surges-8-after-earnings-as-nvidia-bet-starts-paying-off/",
+      "link": "https://invezz.com/news/2026/08/12/why-are-micron-sk-hynix-stocks-rallying-today-after-coreweave-super-micro-earnings/",
       "published": null
     },
     {
-      "id": "stockanalysis:c6dc346c506bf1ff",
-      "titleEn": "FTSE 100 near record highs, but $90 oil could change the picture fast",
+      "id": "stockanalysis:3dac1f7b8293463c",
+      "titleEn": "SanDisk stock has crashed: top reasons it may rebound to $2,000 soon",
       "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/12/sandisk-stock-has-crashed-top-reasons-it-may-rebound-to-2000-soon/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:28f8af6c91df08ee",
+      "titleEn": "Nebius stock: 3 red flag hidden in its Q2 earnings release",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/12/nebius-stock-3-red-flag-hidden-in-its-q2-earnings-release/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:61cbfdbfb3c55ed3",
+      "titleEn": "SPCE stock rally faces a test as short interest nears 30% ahead of earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/12/spce-stock-rally-faces-a-test-as-short-interest-nears-30-ahead-of-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:697d87d9103b91eb",
+      "titleEn": "Marvell Technology stock: What's next for this Nvidia-backed giant?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/12/marvell-technology-stock-whats-next-for-this-nvidia-backed-giant/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9c8f77b0f636a328",
+      "titleEn": "Why Nvidia stock is climbing around 3% today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/12/why-nvidia-stock-is-climbing-around-3-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5f8812917819c91c",
+      "titleEn": "Intel stock jumps 4% as BofA backs foundry strategy despite dilution",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/12/intel-stock-jumps-4-as-bofa-backs-foundry-strategy-despite-dilution/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:18f9bcf83cf7a609",
+      "titleEn": "Gold, silver rally as CPI cools but oil keeps Fed risk alive - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Wednesday, after July CPI matched expectations and left the market split on whether the Federal Reserve will raise rates at its September meeting . At the time of writing, spot gold was trading near $4,427.72 an ounce, up 1.36%, while spot silver was trading at $66.20, up 2.51% on the session. This morning’s CPI report gave precious metals a rate-relief bid without removing the Fed risk. Headline CPI rose 0.1% in July and 3.4% from a year earlier, while core CPI rose 0.2% on the month and 2.5% year-over-year. The numbers matched consensus and were not hot enough to force an immediate repricing toward a September hike, but inflation remains above target, energy is still feeding through the rates debate and the market-implied probability of a 25-basis-point September hike remains near 48%. The 10-year Treasury yield is trading near the 4.7% area, off its recent highs, while the U.S. dollar is softer. The Strait of Hormuz remains the main geopolitical channel into oil, inflation expectations and safe-haven demand. The waterway is still effectively shut, with Iran demanding U.S. concessions before any full reopening and Washington seeking compensation tied to the conflict. Brent crude is holding near $89 a barrel and U.S. crude is near $84, keeping fuel costs elevated even as CPI came in line with expectations. For gold, the setup is two-sided: restricted Gulf shipping supports defensive demand, but higher crude keeps the inflation argument alive and limits how far markets can price out additional Fed tightening.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/12/ftse-100-near-record-highs-but-90-oil-could-change-the-picture-fast/",
+      "link": "https://www.kitco.com/news/article/2026-08-12/gold-silver-rally-cpi-cools-oil-keeps-fed-risk-alive-kitco-am-report",
       "published": null
     },
     {
-      "id": "stockanalysis:1c29d94bdd2bac76",
-      "titleEn": "Tesla, Palantir and 3 stocks that could swing wildly after July CPI",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/08/12/tesla-palantir-stocks-july-cpi/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8d1313c513c8da4d",
-      "titleEn": "Meta meets its own 'tobacco' moment in court",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: With billions of users around the world, Meta will defend itself against allegations of harming children in a new trial in the United States this week, which experts describe as social media's Big Tobacco moment. After a coalition of states sued Meta in 2023 for allegedly designing addictive features for kids in its apps, four states were selected to represent their claims: California, Colorado, Kentucky and New Jersey.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-08-meta-tobacco-moment-court.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b83524c668cc4449",
-      "titleEn": "Foxconn stock jumped before earnings, now comes the real test",
+      "id": "stockanalysis:86f18dd89c5ebc12",
+      "titleEn": "Analysts raise Rocket Lab stock targets after earnings: Why it could still hit $50",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/12/foxconn-stock-earnings-beat-ai-demand/",
+      "link": "https://invezz.com/news/2026/08/12/analysts-raise-rocket-lab-stock-targets-after-earnings-why-it-could-still-hit-50/",
       "published": null
     },
     {
-      "id": "stockanalysis:85e937b38c85709e",
-      "titleEn": "Micron stock: why 85% margins aren't enough to stop the sell-off",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/12/micron-stock-sell-off-85-margin/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:15b746efad32d0dd",
-      "titleEn": "Supermicro stock is surging, but one number should still worry investors",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/12/supermicro-stock-is-surging-but-one-number-should-still-worry-investors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:59ec7d315ba8bbe4",
-      "titleEn": "Why Samsung and SK Hynix are ripping higher despite a weaker Nasdaq",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/12/why-samsung-and-sk-hynix-are-ripping-higher-despite-a-weaker-nasdaq/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:459e0cf43976c24c",
-      "titleEn": "Target Appoints Lowe's Veteran Chandhu Nair as First Chief AI Officer",
-      "summaryEn": "Target has appointed its first chief artificial intelligence officer, the company said in a Tuesday (Aug. 11) article . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Chandhu Nair will join the company on Aug. 24 and will bring greater focus and coordination to AI across the company, according to the article.",
+      "id": "stockanalysis:da361e367f9e496e",
+      "titleEn": "Cognition AI Eyes $40 Billion Valuation From New Funding",
+      "summaryEn": "Cognition AI is reportedly planning a funding round that could more than double its valuation. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The artificial intelligence (AI) coding startup is in discussion with investors about the round, which may lift its valuation to at least $40 billion, Bloomberg News reported late Tuesday (Aug. 11), citing sources familiar with the matter.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.pymnts.com/news/retail/2026/target-appoints-lowes-veteran-chandhu-nair-as-first-chief-ai-officer/",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/cognition-ai-eyes-40-billion-valuation-from-new-funding/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0435fa4dafd0c71a",
+      "titleEn": "Spot gold spikes above $4,438/oz as annual core CPI rises 2.5% in July",
+      "summaryEn": "(Kitco News) - The gold market is setting fresh session highs after the latest data showed U.S. inflation pressures cooling in line with expectations last month. The headline Consumer Price Index (CPI) rose by 0.1% last month after June’s -0.4% decrease, the U.S. Bureau of Labor Statistics announced on Wednesday. The inflation data matched expectations, as economists were looking for a 0.1% increase. The report noted that annual headline inflation rose by 3.4% over the last 12 months, also in line with the consensus forecast of economists, and below the 3.5% reported in June.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-12/spot-gold-spikes-above-4438oz-annual-core-cpi-rises-25-july",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fb851fe6b03628c9",
+      "titleEn": "Two mega-cap stocks and one more to rally on cooler CPI",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/12/two-mega-cap-stocks-and-one-more-to-rally-on-cooler-cpi/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fcf7aac4c6fa8af7",
+      "titleEn": "IREN stock analysis after CoreWeave earnings and Anthropic deal",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/12/iren-stock-analysis-after-coreweave-earnings-and-anthropic-deal/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d044cfda7b0cb248",
+      "titleEn": "Morgan Stanley makes the case for SpaceX stock: Here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/12/morgan-stanley-makes-the-case-for-spacex-stock-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:097bf9116cde75e3",
+      "titleEn": "Tri Pointe Homes Makes a Return to Poulsbo With Latest Community, Plateau at Liberty Bay",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812699157/en/Tri-Pointe-Homes-Makes-a-Return-to-Poulsbo-With-Latest-Community-Plateau-at-Liberty-Bay/",
       "published": null
     }
   ]
