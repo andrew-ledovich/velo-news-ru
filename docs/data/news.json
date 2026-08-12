@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-12T15:16:39.061249Z",
+  "generatedAt": "2026-08-12T16:15:19.831321Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:7a222cfb419de84e",
+      "titleEn": "Why Nvidia's $500B investment plan is bad news for Oracle stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/12/why-nvidias-500b-investment-plan-is-bad-news-for-oracle-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9c47852158d4b7b4",
+      "titleEn": "DRAM: Here's why this Micron, SanDisk, SK Hynix ETF is about to surge",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/12/dram-heres-why-this-micron-sandisk-sk-hynix-etf-is-about-to-surge/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6c149fe8678e2983",
+      "titleEn": "Palantir stock falls as AI chip rally overshadows strong Q2 results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/12/palantir-stock-falls-as-ai-chip-rally-overshadows-strong-q2-results/",
+      "published": null
+    },
     {
       "id": "stockanalysis:a043cffe5e6fee8e",
       "titleEn": "Why are Micron, SK Hynix stocks rallying today after CoreWeave, Super Micro earnings?",
@@ -121,21 +148,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:d044cfda7b0cb248",
-      "titleEn": "Morgan Stanley makes the case for SpaceX stock: Here's why",
+      "id": "stockanalysis:9f3f83a8c3bd2737",
+      "titleEn": "Eurofins Scientific: Director/PDMR Shareholding",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/12/morgan-stanley-makes-the-case-for-spacex-stock-heres-why/",
+      "link": "https://www.businesswire.com/news/home/20260812033597/en/Eurofins-Scientific-DirectorPDMR-Shareholding/",
       "published": null
     },
     {
-      "id": "stockanalysis:097bf9116cde75e3",
-      "titleEn": "Tri Pointe Homes Makes a Return to Poulsbo With Latest Community, Plateau at Liberty Bay",
+      "id": "stockanalysis:4b76d00ae2d54022",
+      "titleEn": "AM Best Revises Outlooks to Stable for Berkshire Hathaway GUARD Insurance Companies' Members",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812699157/en/Tri-Pointe-Homes-Makes-a-Return-to-Poulsbo-With-Latest-Community-Plateau-at-Liberty-Bay/",
+      "link": "https://www.businesswire.com/news/home/20260812894360/en/AM-Best-Revises-Outlooks-to-Stable-for-Berkshire-Hathaway-GUARD-Insurance-Companies%E2%80%99-Members/",
       "published": null
     }
   ]
