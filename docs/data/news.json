@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-13T22:42:22.766650Z",
+  "generatedAt": "2026-08-13T23:23:46.509611Z",
   "sourceCount": 1,
   "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:4e197f72d583830d",
+      "titleEn": "Databricks Raises $5 Billion to Expand Enterprise AI Agent Platform",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The new valuation is up from the $134 billion at which it was valued in a February funding round and the $62 billion at which it was valued in a January 2025 funding round . Together, these solutions deliver the foundation, context, smart routing and cost controls companies need to deploy AI agents, the release said.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/databricks-raises-5-billion-to-expand-enterprise-ai-agent-platform/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3bbdb016de566c3c",
       "titleEn": "Gold snaps four-day advance as yields ease, oil drops - Kitco PM Report",
@@ -55,15 +64,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/13/sandisk-stock-soars-15-today-heres-why/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:129c832b295cfed5",
-      "titleEn": "Netflix stock jumps 4% as Bill Ackman returns with a new stake",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/netflix-stock-jumps-4-as-bill-ackman-returns-with-a-new-stake/",
       "published": null
     },
     {
