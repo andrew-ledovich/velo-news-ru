@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-13T09:23:32.626602Z",
+  "generatedAt": "2026-08-13T10:33:28.933705Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 7,
   "items": [
+    {
+      "id": "stockanalysis:2b0112ec5c0d3b2e",
+      "titleEn": "Ondas stock in focus as its short interest hits 40% ahead of earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/13/ondas-stock-in-focus-as-its-short-interest-hits-40-ahead-of-earnings/",
+      "published": null
+    },
     {
       "id": "stockanalysis:7d73208b6771a7cb",
       "titleEn": "Nvidia rival Cerebras jumped 12%, then crashed 18%: what went wrong?",
@@ -55,33 +64,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-08-12/gold-prices-test-two-month-highs-cpi-trims-yields-fed-hike-odds-kitco-pm",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a7a8ef01eeb33d98",
-      "titleEn": "German Firms Shift Microsoft Strategies from Cloud to AI",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260813223856/en/German-Firms-Shift-Microsoft-Strategies-from-Cloud-to-AI/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8cd0ad4dc3026885",
-      "titleEn": "Interactive Brokers Adds Access to the Bucharest Stock Exchange, Offering Access to One of Europe's Strongest-Performing Markets of 2025",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813124100/en/Interactive-Brokers-Adds-Access-to-the-Bucharest-Stock-Exchange-Offering-Access-to-One-of-Europes-Strongest-Performing-Markets-of-2025/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:95c9a78f8b857b0d",
-      "titleEn": "Uber Partners with Hinomaru Kotsu for Robotaxi Pilot Deployment in Tokyo",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812375834/en/Uber-Partners-with-Hinomaru-Kotsu-for-Robotaxi-Pilot-Deployment-in-Tokyo/",
       "published": null
     }
   ]
