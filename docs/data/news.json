@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-13T21:59:40.605542Z",
+  "generatedAt": "2026-08-13T22:42:22.766650Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 9,
   "items": [
     {
       "id": "stockanalysis:3bbdb016de566c3c",
@@ -67,39 +67,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ea9c218803d64606",
-      "titleEn": "Do SMCI earnings make it a better pick than DELL?",
+      "id": "stockanalysis:5f618f4630ca7ddb",
+      "titleEn": "Valvoline Announces Pricing and Upsizing of Senior Notes Offering",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/do-smci-earnings-make-it-a-better-pick-than-dell/",
+      "link": "https://www.businesswire.com/news/home/20260813250392/en/Valvoline-Announces-Pricing-and-Upsizing-of-Senior-Notes-Offering/",
       "published": null
     },
     {
-      "id": "stockanalysis:30df77a682c9a0ae",
-      "titleEn": "Nu Holdings Ltd. Reports Second Quarter 2026 Financial Results",
+      "id": "stockanalysis:dd8a57e03f3dc1b3",
+      "titleEn": "Afya Limited Announces Second-Quarter and First-Half 2026 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813187996/en/Nu-Holdings-Ltd.-Reports-Second-Quarter-2026-Financial-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:194d9e2908942f68",
-      "titleEn": "flyExclusive Reports Record Second Quarter Revenue and Third Consecutive Quarter of Positive Adjusted EBITDA",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813152280/en/flyExclusive-Reports-Record-Second-Quarter-Revenue-and-Third-Consecutive-Quarter-of-Positive-Adjusted-EBITDA/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:16cc0d6446ff5318",
-      "titleEn": "Gold Reserve Announces Intention to Make Further CVR/Bonus Settlement Offers, to Make Offers to Optionholders, and to Amend Equity Incentive Plan",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813466577/en/Gold-Reserve-Announces-Intention-to-Make-Further-CVRBonus-Settlement-Offers-to-Make-Offers-to-Optionholders-and-to-Amend-Equity-Incentive-Plan/",
+      "link": "https://www.businesswire.com/news/home/20260813136104/en/Afya-Limited-Announces-Second-Quarter-and-First-Half-2026-Financial-Results/",
       "published": null
     }
   ]
