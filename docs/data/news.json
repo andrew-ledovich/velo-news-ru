@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-13T05:21:38.736741Z",
+  "generatedAt": "2026-08-13T06:53:15.825239Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 9,
   "items": [
     {
       "id": "stockanalysis:9de29c77ab2a6fd9",
@@ -58,12 +58,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5d045544bbd2433d",
-      "titleEn": "Why is Microsoft stock falling 2% today?",
+      "id": "stockanalysis:95c9a78f8b857b0d",
+      "titleEn": "Uber Partners with Hinomaru Kotsu for Robotaxi Pilot Deployment in Tokyo",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/12/why-is-microsoft-stock-falling-2-today/",
+      "link": "https://www.businesswire.com/news/home/20260812375834/en/Uber-Partners-with-Hinomaru-Kotsu-for-Robotaxi-Pilot-Deployment-in-Tokyo/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:da6097e1177c813d",
+      "titleEn": "TVS Motor Accelerates Global EV Expansion With TVS iQube Launch in Kenya, the First Indian OEM to Introduce a Premium Electric Scooter in Africa",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://www.businesswire.com/news/home/20260812361211/en/TVS-Motor-Accelerates-Global-EV-Expansion-With-TVS-iQube-Launch-in-Kenya-the-First-Indian-OEM-to-Introduce-a-Premium-Electric-Scooter-in-Africa/",
       "published": null
     },
     {
@@ -73,33 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260812525822/en/Delek-Logistics-Partners-LP-Announces-Pricing-of-Public-Offering-of-Common-Units/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:688245d43d0fa965",
-      "titleEn": "Lenovo Group: Q1 Financial Results 2026/27",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812816414/en/Lenovo-Group-Q1-Financial-Results-202627/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0442da9eeece51bc",
-      "titleEn": "AbCellera Announces Pricing of Oversubscribed $200 Million Public Offering of Common Shares and Pre-Funded Warrants",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812767959/en/AbCellera-Announces-Pricing-of-Oversubscribed-200-Million-Public-Offering-of-Common-Shares-and-Pre-Funded-Warrants/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f43684ea96f64975",
-      "titleEn": "Northern Trust Expands Relationship with First Sentier Group to Support Singapore Unit Trust Offering",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812643610/en/Northern-Trust-Expands-Relationship-with-First-Sentier-Group-to-Support-Singapore-Unit-Trust-Offering/",
       "published": null
     }
   ]
