@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-13T18:34:04.157338Z",
+  "generatedAt": "2026-08-13T19:41:50.092745Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:a5cd5e1848416516",
+      "titleEn": "Cooler CPI and PPI boost gold and ease rate hike bets, but the Fed needs more from core ahead of September – Experts",
+      "summaryEn": "(Kitco News) – Gold prices got a boost from a reassuringly in-line CPI report on Wednesday, and while Thursday morning’s equally benign PPI print didn’t push prices higher, the yellow metal has successfully broken out of its recent range and is holding above $4,350 on Thursday afternoon, exactly $100 below its post-CPI peak. But while many commentators are quick to declare victory over inflation after two months of positive data, industry experts believe the Federal Reserve’s view will be more nuanced and more cautious – and rate cuts may still be on the horizon. Scott Anderson, Chief U.S. Economist at BMO, said the CPI report painted a tamer picture of consumer price pressures for a second month in a row, but believes the Fed will want to remain in wait-and-see mode.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-13/cooler-cpi-and-ppi-boost-gold-and-ease-rate-hike-bets-fed-needs-more-core",
+      "published": null
+    },
     {
       "id": "stockanalysis:fa4002719001580b",
       "titleEn": "SanDisk stock soars 15% today: here's why",
@@ -94,12 +103,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:b69a388e1cae43b6",
-      "titleEn": "IREN stock jumps 12% after Microsoft Horizon 1 delivery, Nvidia Exemplar Cloud status",
+      "id": "stockanalysis:a2dc0859643acf3f",
+      "titleEn": "Barings Participation Investors Reports Preliminary Second Quarter 2026 Results and Announces Quarterly Cash Dividend Of $0.37 Per Share",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/iren-stock-jumps-12-after-microsoft-horizon-1-delivery-nvidia-exemplar-cloud-status/",
+      "link": "https://www.businesswire.com/news/home/20260813753834/en/Barings-Participation-Investors-Reports-Preliminary-Second-Quarter-2026-Results-and-Announces-Quarterly-Cash-Dividend-Of-0.37-Per-Share/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7c8715fb660458bb",
+      "titleEn": "Barings Corporate Investors Reports Preliminary Second Quarter 2026 Results and Announces Quarterly Cash Dividend Of $0.40 Per Share",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260813314218/en/Barings-Corporate-Investors-Reports-Preliminary-Second-Quarter-2026-Results-and-Announces-Quarterly-Cash-Dividend-Of-0.40-Per-Share/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ba1fcb42eb1b2aca",
+      "titleEn": "Drew Morris Joins Cushman &amp; Wakefield as Executive Managing Director in Houston",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260813750326/en/Drew-Morris-Joins-Cushman-Wakefield-as-Executive-Managing-Director-in-Houston/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ccd0d95213ebfc2b",
+      "titleEn": "STOC Advisory Expands National Footprint with New Dallas Office",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260813160340/en/STOC-Advisory-Expands-National-Footprint-with-New-Dallas-Office/",
       "published": null
     },
     {
@@ -109,51 +145,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260813919127/en/Prodoscore-Grew-Email-Open-Rates-15-in-a-Year-with-ZoomInfo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e326287296fc8db5",
-      "titleEn": "JetBlue Aligns Flight Operations, Inflight and Technical Operations Under Jeffrey Winter",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813650708/en/JetBlue-Aligns-Flight-Operations-Inflight-and-Technical-Operations-Under-Jeffrey-Winter/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:64baaa495f3d3dc1",
-      "titleEn": "Kronologic Targets the Exact Right Buyer and Shortens Its Sales Cycle with ZoomInfo",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813203406/en/Kronologic-Targets-the-Exact-Right-Buyer-and-Shortens-Its-Sales-Cycle-with-ZoomInfo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8554edefaabcd654",
-      "titleEn": "Hyatt Adds First Affiliated Hotel in Guyana with Atlantic Suites Hotel",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813469040/en/Hyatt-Adds-First-Affiliated-Hotel-in-Guyana-with-Atlantic-Suites-Hotel/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f799142d2b15d979",
-      "titleEn": "Alchemy Cloud Grew Its Average Clickthrough Rate 5X with ZoomInfo",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813457109/en/Alchemy-Cloud-Grew-Its-Average-Clickthrough-Rate-5X-with-ZoomInfo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:314ecaa0ba2e7ea2",
-      "titleEn": "Calix Extends Platform Leadership Beyond Broadband, Enabling Secure Grid Monitoring for Critical Utility Infrastructure",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813103996/en/Calix-Extends-Platform-Leadership-Beyond-Broadband-Enabling-Secure-Grid-Monitoring-for-Critical-Utility-Infrastructure/",
       "published": null
     }
   ]
