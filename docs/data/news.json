@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-13T13:42:15.368774Z",
+  "generatedAt": "2026-08-13T14:42:53.320247Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:b69a388e1cae43b6",
+      "titleEn": "IREN stock jumps 12% after Microsoft Horizon 1 delivery, Nvidia Exemplar Cloud status",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/13/iren-stock-jumps-12-after-microsoft-horizon-1-delivery-nvidia-exemplar-cloud-status/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3c463529fa4a7d23",
       "titleEn": "Gold, silver slip as flat PPI masks firm core pressure - Kitco AM Report",
@@ -94,12 +103,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:7d73208b6771a7cb",
-      "titleEn": "Nvidia rival Cerebras jumped 12%, then crashed 18%: what went wrong?",
+      "id": "stockanalysis:f21962fb2a589785",
+      "titleEn": "Ode with Anthropic and PointClickCare Announce Strategic Partnership to Advance AI-Enabled Workflows",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260813459176/en/Ode-with-Anthropic-and-PointClickCare-Announce-Strategic-Partnership-to-Advance-AI-Enabled-Workflows/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0e7efe2cd0ec221b",
+      "titleEn": "Donald Trump Jr. &amp; Pilot Family Lead $1.3 Million Private Placement for PSQ Holdings",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/nvidia-rival-cerebras-jumped-12-then-crashed-18-what-went-wrong/",
+      "link": "https://www.businesswire.com/news/home/20260813449997/en/Donald-Trump-Jr.-Pilot-Family-Lead-1.3-Million-Private-Placement-for-PSQ-Holdings/",
       "published": null
     }
   ]
