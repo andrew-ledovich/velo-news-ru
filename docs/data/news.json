@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-13T06:53:15.825239Z",
+  "generatedAt": "2026-08-13T08:10:25.443109Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:7d73208b6771a7cb",
+      "titleEn": "Nvidia rival Cerebras jumped 12%, then crashed 18%: what went wrong?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/13/nvidia-rival-cerebras-jumped-12-then-crashed-18-what-went-wrong/",
+      "published": null
+    },
     {
       "id": "stockanalysis:9de29c77ab2a6fd9",
       "titleEn": "China's YMTC just passed Micron and Kioxia in NAND shipments: here's why it matters",
@@ -58,6 +67,24 @@
       "published": null
     },
     {
+      "id": "stockanalysis:a7a8ef01eeb33d98",
+      "titleEn": "German Firms Shift Microsoft Strategies from Cloud to AI",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260813223856/en/German-Firms-Shift-Microsoft-Strategies-from-Cloud-to-AI/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8cd0ad4dc3026885",
+      "titleEn": "Interactive Brokers Adds Access to the Bucharest Stock Exchange, Offering Access to One of Europe's Strongest-Performing Markets of 2025",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260813124100/en/Interactive-Brokers-Adds-Access-to-the-Bucharest-Stock-Exchange-Offering-Access-to-One-of-Europes-Strongest-Performing-Markets-of-2025/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:95c9a78f8b857b0d",
       "titleEn": "Uber Partners with Hinomaru Kotsu for Robotaxi Pilot Deployment in Tokyo",
       "summaryEn": null,
@@ -73,15 +100,6 @@
       "source": "Stock Analysis",
       "topic": "EV",
       "link": "https://www.businesswire.com/news/home/20260812361211/en/TVS-Motor-Accelerates-Global-EV-Expansion-With-TVS-iQube-Launch-in-Kenya-the-First-Indian-OEM-to-Introduce-a-Premium-Electric-Scooter-in-Africa/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8ec5db7608c7f5a8",
-      "titleEn": "Delek Logistics Partners, LP Announces Pricing of Public Offering of Common Units",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812525822/en/Delek-Logistics-Partners-LP-Announces-Pricing-of-Public-Offering-of-Common-Units/",
       "published": null
     }
   ]
