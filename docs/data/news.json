@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-13T08:10:25.443109Z",
+  "generatedAt": "2026-08-13T09:23:32.626602Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 9,
   "items": [
     {
       "id": "stockanalysis:7d73208b6771a7cb",
@@ -58,15 +58,6 @@
       "published": null
     },
     {
-      "id": "stockanalysis:a163ef16e77a3259",
-      "titleEn": "Flywire and Trustly Bring Open Banking Partnership to US",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The expansion, done in partnership with Trustly , is designed to let payers authorize secure, large domestic and cross-border payments from their bank accounts and in their local currency, the payments enablement company said in a Wednesday (Aug. 12) news release . “Our clients tell us their payers want modern, digital payment experiences that eliminate friction,” said Kate Moran , vice president of global payments at Flywire.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/payment-methods/2026/flywire-and-trustly-bring-open-banking-partnership-to-us/",
-      "published": null
-    },
-    {
       "id": "stockanalysis:a7a8ef01eeb33d98",
       "titleEn": "German Firms Shift Microsoft Strategies from Cloud to AI",
       "summaryEn": null,
@@ -91,15 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260812375834/en/Uber-Partners-with-Hinomaru-Kotsu-for-Robotaxi-Pilot-Deployment-in-Tokyo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:da6097e1177c813d",
-      "titleEn": "TVS Motor Accelerates Global EV Expansion With TVS iQube Launch in Kenya, the First Indian OEM to Introduce a Premium Electric Scooter in Africa",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://www.businesswire.com/news/home/20260812361211/en/TVS-Motor-Accelerates-Global-EV-Expansion-With-TVS-iQube-Launch-in-Kenya-the-First-Indian-OEM-to-Introduce-a-Premium-Electric-Scooter-in-Africa/",
       "published": null
     }
   ]
