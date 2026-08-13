@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-13T21:10:21.614209Z",
+  "generatedAt": "2026-08-13T21:59:40.605542Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:3bbdb016de566c3c",
@@ -76,39 +76,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:9ae6fa6a60618223",
-      "titleEn": "Why Micron stock is surging another 6% on Thursday",
+      "id": "stockanalysis:30df77a682c9a0ae",
+      "titleEn": "Nu Holdings Ltd. Reports Second Quarter 2026 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/why-micron-stock-is-surging-another-6-on-thursday/",
+      "link": "https://www.businesswire.com/news/home/20260813187996/en/Nu-Holdings-Ltd.-Reports-Second-Quarter-2026-Financial-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:0381002e375e708f",
-      "titleEn": "Bally's Corporation to Report 2026 Second Quarter Results After Market Close on August 14",
+      "id": "stockanalysis:194d9e2908942f68",
+      "titleEn": "flyExclusive Reports Record Second Quarter Revenue and Third Consecutive Quarter of Positive Adjusted EBITDA",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813310035/en/Bally%E2%80%99s-Corporation-to-Report-2026-Second-Quarter-Results-After-Market-Close-on-August-14/",
+      "link": "https://www.businesswire.com/news/home/20260813152280/en/flyExclusive-Reports-Record-Second-Quarter-Revenue-and-Third-Consecutive-Quarter-of-Positive-Adjusted-EBITDA/",
       "published": null
     },
     {
-      "id": "stockanalysis:7565c3898bfd5aee",
-      "titleEn": "Westaim Reports Q2 2026 Results for the Quarter Ended June 30, 2026 and Leadership Update for Ceres Life Insurance Company",
+      "id": "stockanalysis:16cc0d6446ff5318",
+      "titleEn": "Gold Reserve Announces Intention to Make Further CVR/Bonus Settlement Offers, to Make Offers to Optionholders, and to Amend Equity Incentive Plan",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813058518/en/Westaim-Reports-Q2-2026-Results-for-the-Quarter-Ended-June-30-2026-and-Leadership-Update-for-Ceres-Life-Insurance-Company/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8f727db0631214da",
-      "titleEn": "Simulations Plus Announces Expiration of Hart-Scott-Rodino Waiting Period for Pending Acquisition by Altaris",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813655754/en/Simulations-Plus-Announces-Expiration-of-Hart-Scott-Rodino-Waiting-Period-for-Pending-Acquisition-by-Altaris/",
+      "link": "https://www.businesswire.com/news/home/20260813466577/en/Gold-Reserve-Announces-Intention-to-Make-Further-CVRBonus-Settlement-Offers-to-Make-Offers-to-Optionholders-and-to-Amend-Equity-Incentive-Plan/",
       "published": null
     }
   ]
