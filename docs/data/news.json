@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-13T03:32:54.124019Z",
+  "generatedAt": "2026-08-13T05:21:38.736741Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:9de29c77ab2a6fd9",
+      "titleEn": "China's YMTC just passed Micron and Kioxia in NAND shipments: here's why it matters",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/13/ymtc-passes-micron-kioxia-nand-shipments/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d9e1795c8aa362ff",
+      "titleEn": "KOSPI jumps 4% as Samsung, SK Hynix rebound, but one risk still looms",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/13/kospi-jumps-samsung-sk-hynix-rebound-risk/",
+      "published": null
+    },
     {
       "id": "stockanalysis:6fd33fd9eb227f85",
       "titleEn": "Cisco beats earnings as AI orders surge: can CSCO extend its massive 2026 rally?",
@@ -49,48 +67,39 @@
       "published": null
     },
     {
+      "id": "stockanalysis:8ec5db7608c7f5a8",
+      "titleEn": "Delek Logistics Partners, LP Announces Pricing of Public Offering of Common Units",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812525822/en/Delek-Logistics-Partners-LP-Announces-Pricing-of-Public-Offering-of-Common-Units/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:688245d43d0fa965",
+      "titleEn": "Lenovo Group: Q1 Financial Results 2026/27",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812816414/en/Lenovo-Group-Q1-Financial-Results-202627/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0442da9eeece51bc",
+      "titleEn": "AbCellera Announces Pricing of Oversubscribed $200 Million Public Offering of Common Shares and Pre-Funded Warrants",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812767959/en/AbCellera-Announces-Pricing-of-Oversubscribed-200-Million-Public-Offering-of-Common-Shares-and-Pre-Funded-Warrants/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:f43684ea96f64975",
       "titleEn": "Northern Trust Expands Relationship with First Sentier Group to Support Singapore Unit Trust Offering",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260812643610/en/Northern-Trust-Expands-Relationship-with-First-Sentier-Group-to-Support-Singapore-Unit-Trust-Offering/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:78467ad69d41945c",
-      "titleEn": "Pershing Square Holdings Ltd. Releases 2026 Semiannual Financial Statements",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812157248/en/Pershing-Square-Holdings-Ltd.-Releases-2026-Semiannual-Financial-Statements/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4a51eae5dbc1224d",
-      "titleEn": "Pershing Square USA, Ltd. Releases 2026 Semi-Annual Report",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812606433/en/Pershing-Square-USA-Ltd.-Releases-2026-Semi-Annual-Report/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6d78add0796d0308",
-      "titleEn": "HUBG Investors With Significant Losses Must Act By August 28, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812027353/en/HUBG-Investors-With-Significant-Losses-Must-Act-By-August-28-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:aa03e38ef6795113",
-      "titleEn": "PLNT INVESTOR REMINDER: Planet Fitness, Inc. Investors Have Until September 14, 2026 To Seek Lead Plaintiff Role",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812697421/en/PLNT-INVESTOR-REMINDER%C2%A0Planet-Fitness-Inc.-Investors-Have-Until-September-14-2026-To-Seek-Lead-Plaintiff-Role/",
       "published": null
     }
   ]
