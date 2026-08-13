@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-13T14:42:53.320247Z",
+  "generatedAt": "2026-08-13T15:37:38.233557Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:09ddd0789aa02916",
+      "titleEn": "UBS sees gold price challenging $5,000/oz in H1 2027 on lower real rates, softer USD and strong sovereign demand",
+      "summaryEn": "(Kitco News) – Gold prices have faced the strong headwind of a high opportunity cost for much of 2026, but falling real rates will drive investors back to the precious metal, with a weaker dollar and strong central bank demand helping to propel prices back toward $5,000 per ounce in the first half of 2027, according to strategists at UBS. In a recent client note, the Swiss banking giant pointed out that prices have successfully broken out of their recent $100 trading channel to rise above the $4,250 resistance area for the first time in two months. “Reported Chinese institutional buying and inflows into exchange-trade funds (ETFs) have supported the latest price movement, while recent joint government efforts by the US and Japan to stabilize the yen may also have helped reduce the risk of a sell-off in US Treasuries,” they wrote. “Near-term risks remain, especially if US data stay firm, oil prices keep inflation concerns alive, or markets continue to price in a more hawkish Federal Reserve rate path,” the strategists warned. “But while the immediate backdrop may remain volatile, the medium- to long-term case for gold still looks supported by several durable drivers. We expect gold prices to rise toward USD 5,000/oz in the first half of 2027.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-13/ubs-sees-gold-price-challenging-5000oz-h1-2027-lower-real-rates-softer-usd",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5c83ed91e328965a",
+      "titleEn": "Bullish stock surges 11% after topping Q2 revenue estimates",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/13/bullish-stock-surged-on-thursday-after-topping-q2-revenue-estimates/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a68f3fa6015b5dee",
+      "titleEn": "Why is AMD stock gaining 2% today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/13/why-is-amd-stock-gaining-2-today/",
+      "published": null
+    },
     {
       "id": "stockanalysis:b69a388e1cae43b6",
       "titleEn": "IREN stock jumps 12% after Microsoft Horizon 1 delivery, Nvidia Exemplar Cloud status",
@@ -103,21 +130,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:f21962fb2a589785",
-      "titleEn": "Ode with Anthropic and PointClickCare Announce Strategic Partnership to Advance AI-Enabled Workflows",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260813459176/en/Ode-with-Anthropic-and-PointClickCare-Announce-Strategic-Partnership-to-Advance-AI-Enabled-Workflows/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0e7efe2cd0ec221b",
-      "titleEn": "Donald Trump Jr. &amp; Pilot Family Lead $1.3 Million Private Placement for PSQ Holdings",
+      "id": "stockanalysis:a3d80f6f0167e80f",
+      "titleEn": "It's Your League: EA SPORTS™ Madden NFL 27 Launches Worldwide, Giving Players More Control Than Ever Before",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813449997/en/Donald-Trump-Jr.-Pilot-Family-Lead-1.3-Million-Private-Placement-for-PSQ-Holdings/",
+      "link": "https://www.businesswire.com/news/home/20260813551779/en/It%E2%80%99s-Your-League-EA-SPORTS%E2%84%A2-Madden-NFL-27-Launches-Worldwide-Giving-Players-More-Control-Than-Ever-Before/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d55402c40ca42459",
+      "titleEn": "Blend And Prove Cut Application Drop-Off By 16% For Banks And Credit Unions",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260813631469/en/Blend-And-Prove-Cut-Application-Drop-Off-By-16-For-Banks-And-Credit-Unions/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4f9cf7e749ea4c54",
+      "titleEn": "BZI® Ranked One of the Nation's Fastest Growing Companies in the 2026 Inc. 5000 List",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260813557783/en/BZI%C2%AE-Ranked-One-of-the-Nation%E2%80%99s-Fastest-Growing-Companies-in-the-2026-Inc.-5000-List/",
       "published": null
     }
   ]
