@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-13T10:33:28.933705Z",
+  "generatedAt": "2026-08-13T11:26:07.911768Z",
   "sourceCount": 1,
-  "count": 7,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:2b0112ec5c0d3b2e",
@@ -58,12 +58,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ab8acad9accc74e1",
-      "titleEn": "Gold prices test two-month highs as CPI trims yields, Fed hike odds - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in late-afternoon U.S. trading Wednesday, after a cooler July CPI report cut September Federal Reserve rate-hike expectations and helped Treasury yields ease. At the time of writing, spot gold was trading near $4,406.20 an ounce, up 0.90%, while spot silver was trading at $65.140, up 0.89% on the session. North American equity markets finished mostly higher. The S&P 500 rose 20.30 points, or 0.3%, to 7,748.50, while the Nasdaq Composite gained 143.04 points, or 0.5%, to 26,588.49. The Dow Jones Industrial Average slipped 21.58 points, or less than 0.1%, to 53,770.27, and the Russell 2000 rose 18.37 points, or 0.6%, to 3,045.48. In Europe, the CAC 40 lost 0.46% to 8,674.94, the DAX fell 0.17% to 26,346, the FTSE 100 eased 0.10% to 10,833 and the Euro Stoxx 50 fell 0.24% to 6,535. The latest positioning shifted in favor of a Fed hold after the CPI release, but the move was not a clean dovish reset. Headline CPI rose 0.1% in July and 3.4% from a year earlier, while core CPI rose 0.2% on the month and 2.5% year-over-year. September hike odds fell to around 40% from roughly 48% on Tuesday, while the 10-year Treasury yield settled near 4.68% and the two-year yield slipped toward 4.20%. The data supported equities and gold, but energy-linked inflation risk remains the market’s main objection to fully pricing out another hike this year.",
+      "id": "stockanalysis:053923a2af4520e7",
+      "titleEn": "Mobix Labs Signs Definitive Rare Earth Elements Deal, Expanding National Security Platform; Hosts Investor Call Today at 4:15pm ET",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-12/gold-prices-test-two-month-highs-cpi-trims-yields-fed-hike-odds-kitco-pm",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812226364/en/Mobix-Labs-Signs-Definitive-Rare-Earth-Elements-Deal-Expanding-National-Security-Platform-Hosts-Investor-Call-Today-at-415pm-ET/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5ef4aeb18e6502db",
+      "titleEn": "Arcos Dorados Reports Second Quarter 2026 Financial Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260813235066/en/Arcos-Dorados-Reports-Second-Quarter-2026-Financial-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:420ad5f0bb97dd47",
+      "titleEn": "Herbalife to Present and Host 1x1 Investor Meetings at Midwest IDEAS Investor Conference on August 26",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260813235471/en/Herbalife-to-Present-and-Host-1x1-Investor-Meetings-at-Midwest-IDEAS-Investor-Conference-on-August-26/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3695354ce557a743",
+      "titleEn": "Southland Executes Financing Agreement &amp; Credit Amendment with Surety Partners",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812406490/en/Southland-Executes-Financing-Agreement-Credit-Amendment-with-Surety-Partners/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3969032ca79aba62",
+      "titleEn": "FiscalNote Launches PolicyNote MCP in Anthropic's Claude Connectors Directory, Expanding Access to Its Policy Intelligence Amid Accelerating Enterprise Adoption",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260813382550/en/FiscalNote-Launches-PolicyNote-MCP-in-Anthropics-Claude-Connectors-Directory-Expanding-Access-to-Its-Policy-Intelligence-Amid-Accelerating-Enterprise-Adoption/",
       "published": null
     }
   ]
