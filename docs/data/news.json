@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-13T15:37:38.233557Z",
+  "generatedAt": "2026-08-13T16:32:07.601894Z",
   "sourceCount": 1,
   "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:a4a4e4e4d4dedb01",
+      "titleEn": "A $14.7M reason why Intuitive Machines stock is sinking today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/13/a-14-7m-reason-why-intuitive-machines-stock-is-sinking-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:efad3fe21c3629bb",
+      "titleEn": "American Express Expands Virtual Cards for Corporate and Business Travel Spending",
+      "summaryEn": "American Express is expanding the availability of virtual cards for businesses, as more companies use digital payments to manage expenses and reduce fraud. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “Businesses want to simplify how they pay for things while maintaining control and visibility into spending across employee expenses, supplier payments and business travel,” said Eva Reda , executive vice president of global commercial services products at American Express. “Virtual cards can help solve many of these challenges.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/b2b-payments/2026/american-express-expands-virtual-cards-for-corporate-and-business-travel-spending/",
+      "published": null
+    },
     {
       "id": "stockanalysis:09ddd0789aa02916",
       "titleEn": "UBS sees gold price challenging $5,000/oz in H1 2027 on lower real rates, softer USD and strong sovereign demand",
@@ -121,39 +139,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:2b0112ec5c0d3b2e",
-      "titleEn": "Ondas stock in focus as its short interest hits 40% ahead of earnings",
+      "id": "stockanalysis:619391902383d8fb",
+      "titleEn": "BTG Pactual TIG and Conservation International Reach 20,000 Hectares of Cerrado Under Restoration, Accelerating Latin American Reforestation Strategy, Increasing Biodiversity and Social Impacts",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/ondas-stock-in-focus-as-its-short-interest-hits-40-ahead-of-earnings/",
+      "link": "https://www.businesswire.com/news/home/20260813056250/en/BTG-Pactual-TIG-and-Conservation-International-Reach-20000-Hectares-of-Cerrado-Under-Restoration-Accelerating-Latin-American-Reforestation-Strategy-Increasing-Biodiversity-and-Social-Impacts/",
       "published": null
     },
     {
-      "id": "stockanalysis:a3d80f6f0167e80f",
-      "titleEn": "It's Your League: EA SPORTS™ Madden NFL 27 Launches Worldwide, Giving Players More Control Than Ever Before",
+      "id": "stockanalysis:937001ac46980b73",
+      "titleEn": "ReNew Reports 25.6% Reduction in Scope 1 &amp; 2 Emissions and 24.7 Billion Units of Clean Power Generated in FY 2025-26",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813551779/en/It%E2%80%99s-Your-League-EA-SPORTS%E2%84%A2-Madden-NFL-27-Launches-Worldwide-Giving-Players-More-Control-Than-Ever-Before/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d55402c40ca42459",
-      "titleEn": "Blend And Prove Cut Application Drop-Off By 16% For Banks And Credit Unions",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813631469/en/Blend-And-Prove-Cut-Application-Drop-Off-By-16-For-Banks-And-Credit-Unions/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4f9cf7e749ea4c54",
-      "titleEn": "BZI® Ranked One of the Nation's Fastest Growing Companies in the 2026 Inc. 5000 List",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813557783/en/BZI%C2%AE-Ranked-One-of-the-Nation%E2%80%99s-Fastest-Growing-Companies-in-the-2026-Inc.-5000-List/",
+      "link": "https://www.businesswire.com/news/home/20260813907182/en/ReNew-Reports-25.6-Reduction-in-Scope-1-2-Emissions-and-24.7-Billion-Units-of-Clean-Power-Generated-in-FY-2025-26/",
       "published": null
     }
   ]
