@@ -1,8 +1,89 @@
 {
-  "generatedAt": "2026-08-13T12:06:02.838481Z",
+  "generatedAt": "2026-08-13T13:42:15.368774Z",
   "sourceCount": 1,
-  "count": 6,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:3c463529fa4a7d23",
+      "titleEn": "Gold, silver slip as flat PPI masks firm core pressure - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in early U.S. trading Thursday, as a flat headline PPI print was offset by firmer core producer-price pressure, a steady dollar and caution ahead of Friday’s retail sales report. At the time of writing, spot gold was trading near $4,393.90 an ounce, down 0.31%, while spot silver was trading at $65.070, down 0.22% on the session. The latest positioning remains split between softer headline inflation and sticky underlying price pressure. Wednesday’s CPI report showed consumer prices rising 0.1% in July and 3.4% from a year earlier , while core CPI rose 0.2% on the month and 2.5% year-over-year. This morning’s PPI report showed final-demand prices were unchanged in July and up 4.7% from a year earlier , but the measure excluding food, energy and trade services rose 0.4% on the month and 4.7% year-over-year. Meanwhile, initial jobless claims rose 9,000 to 209,000 , while the four-week average was unchanged at 199,000. The combined read leaves the Fed trade short of a clean dovish signal: September hike pricing was near 40% before the PPI release, the 10-year Treasury yield is still trading near the 4.7% area and the market still has July retail sales Friday at 8:30 a.m. ET before the week’s data slate clears.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-13/gold-silver-slip-flat-ppi-masks-firm-core-pressure-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f899fe4c8b46466c",
+      "titleEn": "Why SpaceX stock has rebounded after its lockup expiry, adding $500B in value",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/13/why-spacex-stock-has-rebounded-after-its-lockup-expiry-adding-500b-in-value/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:20867cf166599854",
+      "titleEn": "Spot gold approaches $4,400/oz after U.S. weekly jobless claims rise to 209k",
+      "summaryEn": "(Kitco News) - Gold prices are getting closer to the $4,400 per ounce level on Thursday morning following the release of worse than expected labor market data after the number of Americans filing new claims for unemployment benefits came in above economists’ forecasts. Initial claims for state unemployment benefits came in at seasonally adjusted 209,000 for the week ending August 8, the Labor Department announced on Thursday. The number was above expectations, as consensus estimates forecasted a reading of 202,000 claims. The previous week’s figure was revised to 200,000 from 199,000. Spot gold was attempting to reclaim $4,400 per ounce shortly after the 8:30 am ET data release, which came out at the same time as July PPI, and last traded at $4,395.10 per ounce for a loss of 0.31% on the daily chart.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-13/spot-gold-approaches-4400oz-after-us-weekly-jobless-claims-rise-209k",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:22347b7f699f648e",
+      "titleEn": "Spot gold at $4,387/oz after July PPI posts flat 0.0%, core PPI up 0.2%",
+      "summaryEn": "(Kitco News) - The gold market is holding steady after the latest data shows U.S. producers saw easing price pressures on balance last month. The headline Producer Price Index (PPI) posted a flat 0.0% in July, following June’s unrevised -0.3% drop, the U.S. Labor Department announced on Thursday. The latest headline data was lower than expectations, as economists looked for a 0.2% increase. In the last 12 months, headline wholesale inflation increased 4.7%, the report said, below the consensus for 4.9% and June’s unrevised 5.5% reading.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-13/spot-gold-4387oz-after-july-ppi-posts-flat-00-core-ppi-02",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:32e4b941ed854875",
+      "titleEn": "Three Warren Buffett stocks to buy and hold forever",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/13/three-warren-buffett-stocks-to-buy-and-hold-forever/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2c1b08e31062536f",
+      "titleEn": "Bloom Energy stock just formed a rare pattern: will it jump to $300 soon?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/13/bloom-energy-stock-just-formed-a-rare-pattern-will-it-jump-to-300-soon/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6df5503cbe82897e",
+      "titleEn": "Here's why Dell stock is soaring after the Lenovo Group earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/13/heres-why-dell-stock-is-soaring-after-the-lenovo-group-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:70e333c20001e37c",
+      "titleEn": "Elon Musk eyes trillionaire status as SpaceX stock surges",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/13/elon-musk-eyes-trillionaire-status-as-spacex-stock-surges/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8c8c88515435499d",
+      "titleEn": "Anthropic's reported $2T IPO would eclipse SpaceX's — but why is it the riskier bet?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/13/anthropics-reported-2t-ipo-would-eclipse-spacexs-but-why-is-it-the-riskiest-trade/",
+      "published": null
+    },
     {
       "id": "stockanalysis:2b0112ec5c0d3b2e",
       "titleEn": "Ondas stock in focus as its short interest hits 40% ahead of earnings",
@@ -19,42 +100,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/13/nvidia-rival-cerebras-jumped-12-then-crashed-18-what-went-wrong/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9de29c77ab2a6fd9",
-      "titleEn": "China's YMTC just passed Micron and Kioxia in NAND shipments: here's why it matters",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/ymtc-passes-micron-kioxia-nand-shipments/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d9e1795c8aa362ff",
-      "titleEn": "KOSPI jumps 4% as Samsung, SK Hynix rebound, but one risk still looms",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/kospi-jumps-samsung-sk-hynix-rebound-risk/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6fd33fd9eb227f85",
-      "titleEn": "Cisco beats earnings as AI orders surge: can CSCO extend its massive 2026 rally?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/13/cisco-beats-earnings-as-ai-orders-surge-can-csco-extend-its-massive-2026-rally/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a9a3b6983ca316e9",
-      "titleEn": "Lenovo Group stock hits all-time high: what next for this Dell, HP rival?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/lenovo-group-stock-hits-all-time-high-what-next-for-this-dell-hp-rival/",
       "published": null
     }
   ]
