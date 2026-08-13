@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-13T16:32:07.601894Z",
+  "generatedAt": "2026-08-13T17:39:08.085685Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 21,
   "items": [
+    {
+      "id": "stockanalysis:129c832b295cfed5",
+      "titleEn": "Netflix stock jumps 4% as Bill Ackman returns with a new stake",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/13/netflix-stock-jumps-4-as-bill-ackman-returns-with-a-new-stake/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ea9c218803d64606",
+      "titleEn": "Do SMCI earnings make it a better pick than DELL?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/13/do-smci-earnings-make-it-a-better-pick-than-dell/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9ae6fa6a60618223",
+      "titleEn": "Why Micron stock is surging another 6% on Thursday",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/13/why-micron-stock-is-surging-another-6-on-thursday/",
+      "published": null
+    },
     {
       "id": "stockanalysis:a4a4e4e4d4dedb01",
       "titleEn": "A $14.7M reason why Intuitive Machines stock is sinking today",
@@ -10,6 +37,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/13/a-14-7m-reason-why-intuitive-machines-stock-is-sinking-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b4566e3833c74ae2",
+      "titleEn": "Anthropic Pursues $6 Billion Decart Deal to Cut AI Costs",
+      "summaryEn": "Anthropic is in talks to acquire Decart AI , a startup that makes chips work more efficiently to reduce the cost of training and operating artificial intelligence, for $6 billion, Bloomberg reported Thursday (Aug. 13), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The deal would be Anthropic’s largest known acquisition and would help the company’s computing infrastructure keep up with the surging adoption of the firm&#8217;s software, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-pursues-6-billion-decart-deal-to-cut-ai-costs/",
       "published": null
     },
     {
@@ -103,57 +139,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:2c1b08e31062536f",
-      "titleEn": "Bloom Energy stock just formed a rare pattern: will it jump to $300 soon?",
+      "id": "stockanalysis:314ecaa0ba2e7ea2",
+      "titleEn": "Calix Extends Platform Leadership Beyond Broadband, Enabling Secure Grid Monitoring for Critical Utility Infrastructure",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/bloom-energy-stock-just-formed-a-rare-pattern-will-it-jump-to-300-soon/",
+      "link": "https://www.businesswire.com/news/home/20260813103996/en/Calix-Extends-Platform-Leadership-Beyond-Broadband-Enabling-Secure-Grid-Monitoring-for-Critical-Utility-Infrastructure/",
       "published": null
     },
     {
-      "id": "stockanalysis:6df5503cbe82897e",
-      "titleEn": "Here's why Dell stock is soaring after the Lenovo Group earnings",
+      "id": "stockanalysis:fed0aa1c90c3618c",
+      "titleEn": "Nexon Releases Earnings for Second Quarter 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/heres-why-dell-stock-is-soaring-after-the-lenovo-group-earnings/",
+      "link": "https://www.businesswire.com/news/home/20260813331960/en/Nexon-Releases-Earnings-for-Second-Quarter-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:70e333c20001e37c",
-      "titleEn": "Elon Musk eyes trillionaire status as SpaceX stock surges",
+      "id": "stockanalysis:f5a736f14d31bfdd",
+      "titleEn": "Radoff-JEC Group Calls on Seer, Inc.'s Board of Directors to Publicly Acknowledge That the Company Needs to Be Taken Private and Disclose Timeline for Evaluating Latest Acquisition Offers",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/elon-musk-eyes-trillionaire-status-as-spacex-stock-surges/",
+      "link": "https://www.businesswire.com/news/home/20260813567935/en/Radoff-JEC-Group-Calls-on-Seer-Inc.%E2%80%99s-Board-of-Directors-to-Publicly-Acknowledge-That-the-Company-Needs-to-Be-Taken-Private-and-Disclose-Timeline-for-Evaluating-Latest-Acquisition-Offers/",
       "published": null
     },
     {
-      "id": "stockanalysis:8c8c88515435499d",
-      "titleEn": "Anthropic's reported $2T IPO would eclipse SpaceX's — but why is it the riskier bet?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/13/anthropics-reported-2t-ipo-would-eclipse-spacexs-but-why-is-it-the-riskiest-trade/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:619391902383d8fb",
-      "titleEn": "BTG Pactual TIG and Conservation International Reach 20,000 Hectares of Cerrado Under Restoration, Accelerating Latin American Reforestation Strategy, Increasing Biodiversity and Social Impacts",
+      "id": "stockanalysis:93f1c5574d9ea69f",
+      "titleEn": "H.B. Fuller Announces AMS Shareholders Approve Proposed Acquisition",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813056250/en/BTG-Pactual-TIG-and-Conservation-International-Reach-20000-Hectares-of-Cerrado-Under-Restoration-Accelerating-Latin-American-Reforestation-Strategy-Increasing-Biodiversity-and-Social-Impacts/",
+      "link": "https://www.businesswire.com/news/home/20260812610667/en/H.B.-Fuller-Announces-AMS-Shareholders-Approve-Proposed-Acquisition/",
       "published": null
     },
     {
-      "id": "stockanalysis:937001ac46980b73",
-      "titleEn": "ReNew Reports 25.6% Reduction in Scope 1 &amp; 2 Emissions and 24.7 Billion Units of Clean Power Generated in FY 2025-26",
+      "id": "stockanalysis:04e223f71f80ee89",
+      "titleEn": "The Marzetti Company to Webcast Fourth Quarter and Fiscal Year 2026 Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813907182/en/ReNew-Reports-25.6-Reduction-in-Scope-1-2-Emissions-and-24.7-Billion-Units-of-Clean-Power-Generated-in-FY-2025-26/",
+      "link": "https://www.businesswire.com/news/home/20260812184299/en/The-Marzetti-Company-to-Webcast-Fourth-Quarter-and-Fiscal-Year-2026-Conference-Call/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6090adeb21f85a5b",
+      "titleEn": "Turkcell Iletisim Hizmetleri: Second Quarter 2026 Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260813959790/en/Turkcell%C2%A0Iletisim-Hizmetleri%C2%A0Second-Quarter-2026-Results/",
       "published": null
     }
   ]
