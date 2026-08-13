@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-08-13T20:19:18.821371Z",
+  "generatedAt": "2026-08-13T21:10:21.614209Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:3bbdb016de566c3c",
+      "titleEn": "Gold snaps four-day advance as yields ease, oil drops - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in late-afternoon U.S. trading Thursday, as a cooler wholesale inflation report cut Treasury yields and rate-hike expectations but also reduced demand for metals as near-term inflation hedges. At the time of writing, spot gold was trading near $4,349.80 an ounce, down 1.31%, while spot silver was trading at $64.290, down 1.40% on the session. North American equity markets closed higher. The S&P 500 rose 0.7% to a record 7,798.99, the Nasdaq Composite gained 0.8% to 26,803.03 and the Dow Jones Industrial Average added 0.1% to 53,839.99. The Russell 2000 rose 0.2% to 3,052.85. European markets were mixed to slightly firmer during the session, with the pan-European STOXX 600 up 0.2% in morning trade, Germany’s DAX up 0.35%, France’s CAC 40 up 0.2% and London’s FTSE 100 down 0.3% as weaker mining shares weighed on the U.K. benchmark. The latest positioning shifted further toward a September Fed hold after this morning’s PPI and jobless-claims data. Final-demand PPI was unchanged in July, below expectations for a 0.2% rise , while producer prices rose 4.7% from a year earlier. The measure excluding food, energy and trade services rose 0.4% on the month and 4.7% year-over-year, leaving some caution around core PCE pass-through. Initial jobless claims rose 9,000 to 209,000 , while continuing claims fell to 1.777 million. September hike odds fell to 34.6% from 40.6% after the PPI release, and the 10-year Treasury yield fell to 4.648% from 4.686% Wednesday. The next macro tests are July retail sales Friday at 8:30 a.m. ET and the University of Michigan preliminary August sentiment index at 10 a.m. ET.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-13/gold-snaps-four-day-advance-yields-ease-oil-drops-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b8ab343280428023",
+      "titleEn": "Amazon Wants Alexa to Own the Shopping List Before Walmart Ever Sees It",
+      "summaryEn": "Amazon ’s latest Alexa demonstration looked almost trivial: photograph a refrigerator, ask what groceries are missing, and let artificial intelligence assemble the shopping list. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); But for Walmart , it represents a considerably bigger strategic problem. Amazon is trying to move competition in grocery away from the place where Walmart is strongest such as stores, inventory and local fulfillment and toward a new layer of retail that barely existed a few years ago. This new layer is, of course, the AI agent or machine-generated decision about what a household should buy in the first place.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/retail/2026/amazon-wants-alexa-to-own-the-shopping-list-before-walmart-ever-sees-it/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:37fe8d2f2bba71a8",
+      "titleEn": "Twitch sparks gamers' wrath with Amazon AI sharing deal",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Livestream gaming giant Twitch has raised hackles among its millions of users after declaring it will share their data with its parent company, Amazon, to better train the online retailer's AI models. In a post on X, Twitch said people would have the option to opt out of the data-sharing, but otherwise live audio, text, images and other content on its channels would be used by Amazon for AI training across all its platforms.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-08-twitch-gamers-wrath-amazon-ai.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6bee4d6ffdbbcace",
+      "titleEn": "What drove Workday stock higher on Thursday and what comes next?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/13/what-drove-workday-stock-higher-on-thursday-and-what-comes-next/",
+      "published": null
+    },
     {
       "id": "stockanalysis:a5cd5e1848416516",
       "titleEn": "Cooler CPI and PPI boost gold and ease rate hike bets, but the Fed needs more from core ahead of September – Experts",
@@ -49,48 +85,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:a4a4e4e4d4dedb01",
-      "titleEn": "A $14.7M reason why Intuitive Machines stock is sinking today",
+      "id": "stockanalysis:0381002e375e708f",
+      "titleEn": "Bally's Corporation to Report 2026 Second Quarter Results After Market Close on August 14",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/a-14-7m-reason-why-intuitive-machines-stock-is-sinking-today/",
+      "link": "https://www.businesswire.com/news/home/20260813310035/en/Bally%E2%80%99s-Corporation-to-Report-2026-Second-Quarter-Results-After-Market-Close-on-August-14/",
       "published": null
     },
     {
-      "id": "stockanalysis:b4566e3833c74ae2",
-      "titleEn": "Anthropic Pursues $6 Billion Decart Deal to Cut AI Costs",
-      "summaryEn": "Anthropic is in talks to acquire Decart AI , a startup that makes chips work more efficiently to reduce the cost of training and operating artificial intelligence, for $6 billion, Bloomberg reported Thursday (Aug. 13), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The deal would be Anthropic’s largest known acquisition and would help the company’s computing infrastructure keep up with the surging adoption of the firm&#8217;s software, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-pursues-6-billion-decart-deal-to-cut-ai-costs/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:efad3fe21c3629bb",
-      "titleEn": "American Express Expands Virtual Cards for Corporate and Business Travel Spending",
-      "summaryEn": "American Express is expanding the availability of virtual cards for businesses, as more companies use digital payments to manage expenses and reduce fraud. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “Businesses want to simplify how they pay for things while maintaining control and visibility into spending across employee expenses, supplier payments and business travel,” said Eva Reda , executive vice president of global commercial services products at American Express. “Virtual cards can help solve many of these challenges.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/b2b-payments/2026/american-express-expands-virtual-cards-for-corporate-and-business-travel-spending/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:09ddd0789aa02916",
-      "titleEn": "UBS sees gold price challenging $5,000/oz in H1 2027 on lower real rates, softer USD and strong sovereign demand",
-      "summaryEn": "(Kitco News) – Gold prices have faced the strong headwind of a high opportunity cost for much of 2026, but falling real rates will drive investors back to the precious metal, with a weaker dollar and strong central bank demand helping to propel prices back toward $5,000 per ounce in the first half of 2027, according to strategists at UBS. In a recent client note, the Swiss banking giant pointed out that prices have successfully broken out of their recent $100 trading channel to rise above the $4,250 resistance area for the first time in two months. “Reported Chinese institutional buying and inflows into exchange-trade funds (ETFs) have supported the latest price movement, while recent joint government efforts by the US and Japan to stabilize the yen may also have helped reduce the risk of a sell-off in US Treasuries,” they wrote. “Near-term risks remain, especially if US data stay firm, oil prices keep inflation concerns alive, or markets continue to price in a more hawkish Federal Reserve rate path,” the strategists warned. “But while the immediate backdrop may remain volatile, the medium- to long-term case for gold still looks supported by several durable drivers. We expect gold prices to rise toward USD 5,000/oz in the first half of 2027.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-13/ubs-sees-gold-price-challenging-5000oz-h1-2027-lower-real-rates-softer-usd",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5c83ed91e328965a",
-      "titleEn": "Bullish stock surges 11% after topping Q2 revenue estimates",
+      "id": "stockanalysis:7565c3898bfd5aee",
+      "titleEn": "Westaim Reports Q2 2026 Results for the Quarter Ended June 30, 2026 and Leadership Update for Ceres Life Insurance Company",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/bullish-stock-surged-on-thursday-after-topping-q2-revenue-estimates/",
+      "link": "https://www.businesswire.com/news/home/20260813058518/en/Westaim-Reports-Q2-2026-Results-for-the-Quarter-Ended-June-30-2026-and-Leadership-Update-for-Ceres-Life-Insurance-Company/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8f727db0631214da",
+      "titleEn": "Simulations Plus Announces Expiration of Hart-Scott-Rodino Waiting Period for Pending Acquisition by Altaris",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260813655754/en/Simulations-Plus-Announces-Expiration-of-Hart-Scott-Rodino-Waiting-Period-for-Pending-Acquisition-by-Altaris/",
       "published": null
     }
   ]
