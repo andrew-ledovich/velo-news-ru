@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-12T23:56:21.335778Z",
+  "generatedAt": "2026-08-13T01:14:03.723191Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:ab8acad9accc74e1",
@@ -40,12 +40,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:bd8ba444b9af1f99",
-      "titleEn": "LBMA snapshot survey predicts gold price average near $4,500/oz by year-end",
-      "summaryEn": "(Kitco News) – Spot gold will trade on either side of $4,500 per ounce at the end of 2026, according to a new survey published by the London Bullion Market Association (LBMA). The LBMA surveyed 16 professional analysts in July, and even as gold was trading at its 2026 lows, frequently dipping below $4,000 per ounce during the month, the average of the experts’ year-end price predictions was over 12% higher. The highest year-end prediction from the survey’s respondents was $5,100 per ounce, representing a gain of an additional 15% from current prices, while the lowest forecast was $3,879, $100 below the 2026 low set in early July.",
+      "id": "stockanalysis:78467ad69d41945c",
+      "titleEn": "Pershing Square Holdings Ltd. Releases 2026 Semiannual Financial Statements",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-12/lbma-snapshot-survey-predicts-gold-price-average-near-4500oz-year-end",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812157248/en/Pershing-Square-Holdings-Ltd.-Releases-2026-Semiannual-Financial-Statements/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4a51eae5dbc1224d",
+      "titleEn": "Pershing Square USA, Ltd. Releases 2026 Semi-Annual Report",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812606433/en/Pershing-Square-USA-Ltd.-Releases-2026-Semi-Annual-Report/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6d78add0796d0308",
+      "titleEn": "HUBG Investors With Significant Losses Must Act By August 28, 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812027353/en/HUBG-Investors-With-Significant-Losses-Must-Act-By-August-28-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:aa03e38ef6795113",
+      "titleEn": "PLNT INVESTOR REMINDER: Planet Fitness, Inc. Investors Have Until September 14, 2026 To Seek Lead Plaintiff Role",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260812697421/en/PLNT-INVESTOR-REMINDER%C2%A0Planet-Fitness-Inc.-Investors-Have-Until-September-14-2026-To-Seek-Lead-Plaintiff-Role/",
       "published": null
     },
     {
@@ -73,15 +100,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260812548805/en/Suzano-Reports-Adjusted-EBITDA-of-R4.7-Billion-in-the-Second-Quarter-of-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1c62e52ea3fd26b7",
-      "titleEn": "MSCI Equity Indexes August 2026 Index Review",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812321802/en/MSCI-Equity-Indexes-August-2026-Index-Review/",
       "published": null
     }
   ]
