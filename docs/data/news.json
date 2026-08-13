@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-13T11:26:07.911768Z",
+  "generatedAt": "2026-08-13T12:06:02.838481Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 6,
   "items": [
     {
       "id": "stockanalysis:2b0112ec5c0d3b2e",
@@ -55,51 +55,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/13/lenovo-group-stock-hits-all-time-high-what-next-for-this-dell-hp-rival/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:053923a2af4520e7",
-      "titleEn": "Mobix Labs Signs Definitive Rare Earth Elements Deal, Expanding National Security Platform; Hosts Investor Call Today at 4:15pm ET",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812226364/en/Mobix-Labs-Signs-Definitive-Rare-Earth-Elements-Deal-Expanding-National-Security-Platform-Hosts-Investor-Call-Today-at-415pm-ET/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5ef4aeb18e6502db",
-      "titleEn": "Arcos Dorados Reports Second Quarter 2026 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813235066/en/Arcos-Dorados-Reports-Second-Quarter-2026-Financial-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:420ad5f0bb97dd47",
-      "titleEn": "Herbalife to Present and Host 1x1 Investor Meetings at Midwest IDEAS Investor Conference on August 26",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813235471/en/Herbalife-to-Present-and-Host-1x1-Investor-Meetings-at-Midwest-IDEAS-Investor-Conference-on-August-26/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3695354ce557a743",
-      "titleEn": "Southland Executes Financing Agreement &amp; Credit Amendment with Surety Partners",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812406490/en/Southland-Executes-Financing-Agreement-Credit-Amendment-with-Surety-Partners/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3969032ca79aba62",
-      "titleEn": "FiscalNote Launches PolicyNote MCP in Anthropic's Claude Connectors Directory, Expanding Access to Its Policy Intelligence Amid Accelerating Enterprise Adoption",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260813382550/en/FiscalNote-Launches-PolicyNote-MCP-in-Anthropics-Claude-Connectors-Directory-Expanding-Access-to-Its-Policy-Intelligence-Amid-Accelerating-Enterprise-Adoption/",
       "published": null
     }
   ]
