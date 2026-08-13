@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-13T19:41:50.092745Z",
+  "generatedAt": "2026-08-13T20:19:18.821371Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:a5cd5e1848416516",
@@ -91,60 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/13/bullish-stock-surged-on-thursday-after-topping-q2-revenue-estimates/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a68f3fa6015b5dee",
-      "titleEn": "Why is AMD stock gaining 2% today?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/why-is-amd-stock-gaining-2-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a2dc0859643acf3f",
-      "titleEn": "Barings Participation Investors Reports Preliminary Second Quarter 2026 Results and Announces Quarterly Cash Dividend Of $0.37 Per Share",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813753834/en/Barings-Participation-Investors-Reports-Preliminary-Second-Quarter-2026-Results-and-Announces-Quarterly-Cash-Dividend-Of-0.37-Per-Share/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7c8715fb660458bb",
-      "titleEn": "Barings Corporate Investors Reports Preliminary Second Quarter 2026 Results and Announces Quarterly Cash Dividend Of $0.40 Per Share",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813314218/en/Barings-Corporate-Investors-Reports-Preliminary-Second-Quarter-2026-Results-and-Announces-Quarterly-Cash-Dividend-Of-0.40-Per-Share/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ba1fcb42eb1b2aca",
-      "titleEn": "Drew Morris Joins Cushman &amp; Wakefield as Executive Managing Director in Houston",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813750326/en/Drew-Morris-Joins-Cushman-Wakefield-as-Executive-Managing-Director-in-Houston/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ccd0d95213ebfc2b",
-      "titleEn": "STOC Advisory Expands National Footprint with New Dallas Office",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813160340/en/STOC-Advisory-Expands-National-Footprint-with-New-Dallas-Office/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1046385ef4e1a1b6",
-      "titleEn": "Prodoscore Grew Email Open Rates 15% in a Year with ZoomInfo",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813919127/en/Prodoscore-Grew-Email-Open-Rates-15-in-a-Year-with-ZoomInfo/",
       "published": null
     }
   ]
