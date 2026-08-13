@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-13T17:39:08.085685Z",
+  "generatedAt": "2026-08-13T18:34:04.157338Z",
   "sourceCount": 1,
-  "count": 21,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:fa4002719001580b",
+      "titleEn": "SanDisk stock soars 15% today: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/13/sandisk-stock-soars-15-today-heres-why/",
+      "published": null
+    },
     {
       "id": "stockanalysis:129c832b295cfed5",
       "titleEn": "Netflix stock jumps 4% as Bill Ackman returns with a new stake",
@@ -94,48 +103,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:3c463529fa4a7d23",
-      "titleEn": "Gold, silver slip as flat PPI masks firm core pressure - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in early U.S. trading Thursday, as a flat headline PPI print was offset by firmer core producer-price pressure, a steady dollar and caution ahead of Friday’s retail sales report. At the time of writing, spot gold was trading near $4,393.90 an ounce, down 0.31%, while spot silver was trading at $65.070, down 0.22% on the session. The latest positioning remains split between softer headline inflation and sticky underlying price pressure. Wednesday’s CPI report showed consumer prices rising 0.1% in July and 3.4% from a year earlier , while core CPI rose 0.2% on the month and 2.5% year-over-year. This morning’s PPI report showed final-demand prices were unchanged in July and up 4.7% from a year earlier , but the measure excluding food, energy and trade services rose 0.4% on the month and 4.7% year-over-year. Meanwhile, initial jobless claims rose 9,000 to 209,000 , while the four-week average was unchanged at 199,000. The combined read leaves the Fed trade short of a clean dovish signal: September hike pricing was near 40% before the PPI release, the 10-year Treasury yield is still trading near the 4.7% area and the market still has July retail sales Friday at 8:30 a.m. ET before the week’s data slate clears.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-13/gold-silver-slip-flat-ppi-masks-firm-core-pressure-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f899fe4c8b46466c",
-      "titleEn": "Why SpaceX stock has rebounded after its lockup expiry, adding $500B in value",
+      "id": "stockanalysis:1046385ef4e1a1b6",
+      "titleEn": "Prodoscore Grew Email Open Rates 15% in a Year with ZoomInfo",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/why-spacex-stock-has-rebounded-after-its-lockup-expiry-adding-500b-in-value/",
+      "link": "https://www.businesswire.com/news/home/20260813919127/en/Prodoscore-Grew-Email-Open-Rates-15-in-a-Year-with-ZoomInfo/",
       "published": null
     },
     {
-      "id": "stockanalysis:20867cf166599854",
-      "titleEn": "Spot gold approaches $4,400/oz after U.S. weekly jobless claims rise to 209k",
-      "summaryEn": "(Kitco News) - Gold prices are getting closer to the $4,400 per ounce level on Thursday morning following the release of worse than expected labor market data after the number of Americans filing new claims for unemployment benefits came in above economists’ forecasts. Initial claims for state unemployment benefits came in at seasonally adjusted 209,000 for the week ending August 8, the Labor Department announced on Thursday. The number was above expectations, as consensus estimates forecasted a reading of 202,000 claims. The previous week’s figure was revised to 200,000 from 199,000. Spot gold was attempting to reclaim $4,400 per ounce shortly after the 8:30 am ET data release, which came out at the same time as July PPI, and last traded at $4,395.10 per ounce for a loss of 0.31% on the daily chart.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-13/spot-gold-approaches-4400oz-after-us-weekly-jobless-claims-rise-209k",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:22347b7f699f648e",
-      "titleEn": "Spot gold at $4,387/oz after July PPI posts flat 0.0%, core PPI up 0.2%",
-      "summaryEn": "(Kitco News) - The gold market is holding steady after the latest data shows U.S. producers saw easing price pressures on balance last month. The headline Producer Price Index (PPI) posted a flat 0.0% in July, following June’s unrevised -0.3% drop, the U.S. Labor Department announced on Thursday. The latest headline data was lower than expectations, as economists looked for a 0.2% increase. In the last 12 months, headline wholesale inflation increased 4.7%, the report said, below the consensus for 4.9% and June’s unrevised 5.5% reading.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-13/spot-gold-4387oz-after-july-ppi-posts-flat-00-core-ppi-02",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:32e4b941ed854875",
-      "titleEn": "Three Warren Buffett stocks to buy and hold forever",
+      "id": "stockanalysis:e326287296fc8db5",
+      "titleEn": "JetBlue Aligns Flight Operations, Inflight and Technical Operations Under Jeffrey Winter",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/three-warren-buffett-stocks-to-buy-and-hold-forever/",
+      "link": "https://www.businesswire.com/news/home/20260813650708/en/JetBlue-Aligns-Flight-Operations-Inflight-and-Technical-Operations-Under-Jeffrey-Winter/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:64baaa495f3d3dc1",
+      "titleEn": "Kronologic Targets the Exact Right Buyer and Shortens Its Sales Cycle with ZoomInfo",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260813203406/en/Kronologic-Targets-the-Exact-Right-Buyer-and-Shortens-Its-Sales-Cycle-with-ZoomInfo/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8554edefaabcd654",
+      "titleEn": "Hyatt Adds First Affiliated Hotel in Guyana with Atlantic Suites Hotel",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260813469040/en/Hyatt-Adds-First-Affiliated-Hotel-in-Guyana-with-Atlantic-Suites-Hotel/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f799142d2b15d979",
+      "titleEn": "Alchemy Cloud Grew Its Average Clickthrough Rate 5X with ZoomInfo",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260813457109/en/Alchemy-Cloud-Grew-Its-Average-Clickthrough-Rate-5X-with-ZoomInfo/",
       "published": null
     },
     {
@@ -145,51 +154,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260813103996/en/Calix-Extends-Platform-Leadership-Beyond-Broadband-Enabling-Secure-Grid-Monitoring-for-Critical-Utility-Infrastructure/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fed0aa1c90c3618c",
-      "titleEn": "Nexon Releases Earnings for Second Quarter 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813331960/en/Nexon-Releases-Earnings-for-Second-Quarter-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f5a736f14d31bfdd",
-      "titleEn": "Radoff-JEC Group Calls on Seer, Inc.'s Board of Directors to Publicly Acknowledge That the Company Needs to Be Taken Private and Disclose Timeline for Evaluating Latest Acquisition Offers",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813567935/en/Radoff-JEC-Group-Calls-on-Seer-Inc.%E2%80%99s-Board-of-Directors-to-Publicly-Acknowledge-That-the-Company-Needs-to-Be-Taken-Private-and-Disclose-Timeline-for-Evaluating-Latest-Acquisition-Offers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:93f1c5574d9ea69f",
-      "titleEn": "H.B. Fuller Announces AMS Shareholders Approve Proposed Acquisition",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812610667/en/H.B.-Fuller-Announces-AMS-Shareholders-Approve-Proposed-Acquisition/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:04e223f71f80ee89",
-      "titleEn": "The Marzetti Company to Webcast Fourth Quarter and Fiscal Year 2026 Conference Call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812184299/en/The-Marzetti-Company-to-Webcast-Fourth-Quarter-and-Fiscal-Year-2026-Conference-Call/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6090adeb21f85a5b",
-      "titleEn": "Turkcell Iletisim Hizmetleri: Second Quarter 2026 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813959790/en/Turkcell%C2%A0Iletisim-Hizmetleri%C2%A0Second-Quarter-2026-Results/",
       "published": null
     }
   ]
