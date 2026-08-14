@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-14T04:27:42.694087Z",
+  "generatedAt": "2026-08-14T05:53:17.187105Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:00132f4814b996a5",
+      "titleEn": "KOSPI's 22% rebound has stunned markets: is Korea's brutal chip rout finally over?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/14/kospis-22-rebound-has-stunned-markets-is-koreas-brutal-chip-rout-finally-over/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ee2bf630f6a08d08",
+      "titleEn": "Nikkei 225 Index bullish flag forms as SoftBank, Kioxia, Nintendo stocks jump",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/14/nikkei-225-index-bullish-flag-forms-as-softbank-kioxia-nintendo-stocks-jump/",
+      "published": null
+    },
     {
       "id": "stockanalysis:313bfc2e3fab0665",
       "titleEn": "Applied Materials beat Wall Street and raised guidance, so why did the stock fall 6%?",
