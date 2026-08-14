@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-14T11:25:07.693685Z",
+  "generatedAt": "2026-08-14T12:03:53.746819Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:75908c1f371f68e2",
+      "titleEn": "TLT ETF at risk despite soaring inflows as bond vigilantes fight back",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/14/tlt-etf-at-risk-despite-soaring-inflows-as-bond-vigilantes-fight-back/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:aa188f9731ee632c",
+      "titleEn": "Elon Musk-inspired pay packages push S&amp;P 500 CEO compensation to record high",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/14/elon-musk-inspired-pay-packages-push-sp-500-ceo-compensation-to-record-high/",
+      "published": null
+    },
     {
       "id": "stockanalysis:99d4aff6cb9f439f",
       "titleEn": "Reddit stock surges on S&amp;P 500 inclusion, but Google search referral woes remain",
@@ -94,21 +112,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:b8ab343280428023",
-      "titleEn": "Amazon Wants Alexa to Own the Shopping List Before Walmart Ever Sees It",
-      "summaryEn": "Amazon ’s latest Alexa demonstration looked almost trivial: photograph a refrigerator, ask what groceries are missing, and let artificial intelligence assemble the shopping list. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); But for Walmart , it represents a considerably bigger strategic problem. Amazon is trying to move competition in grocery away from the place where Walmart is strongest such as stores, inventory and local fulfillment and toward a new layer of retail that barely existed a few years ago. This new layer is, of course, the AI agent or machine-generated decision about what a household should buy in the first place.",
+      "id": "stockanalysis:87ef07f059d957c7",
+      "titleEn": "Lantern Pharma Reports Second Quarter 2026 Financial Results and Provides Business Update",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/retail/2026/amazon-wants-alexa-to-own-the-shopping-list-before-walmart-ever-sees-it/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260814100282/en/Lantern-Pharma-Reports-Second-Quarter-2026-Financial-Results-and-Provides-Business-Update/",
       "published": null
     },
     {
-      "id": "stockanalysis:37fe8d2f2bba71a8",
-      "titleEn": "Twitch sparks gamers' wrath with Amazon AI sharing deal",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Livestream gaming giant Twitch has raised hackles among its millions of users after declaring it will share their data with its parent company, Amazon, to better train the online retailer's AI models. In a post on X, Twitch said people would have the option to opt out of the data-sharing, but otherwise live audio, text, images and other content on its channels would be used by Amazon for AI training across all its platforms.",
+      "id": "stockanalysis:bfe7032bc3e59c92",
+      "titleEn": "Faeth Therapeutics Strengthens Executive Team with Senior Leadership Appointments",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-08-twitch-gamers-wrath-amazon-ai.html",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260814791639/en/Faeth-Therapeutics-Strengthens-Executive-Team-with-Senior-Leadership-Appointments/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8445df656a2c28ee",
+      "titleEn": "Boost Run Inc. Reports First Earnings as a Public Company, Reporting Second Quarter 2026 Results, Supported by $1.9 Billion Total Contract Value",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260814082680/en/Boost-Run-Inc.-Reports-First-Earnings-as-a-Public-Company-Reporting-Second-Quarter-2026-Results-Supported-by-1.9-Billion-Total-Contract-Value/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:26562be5c05dee20",
+      "titleEn": "U.S. Physical Therapy Announces CFO",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260814902997/en/U.S.-Physical-Therapy-Announces-CFO/",
       "published": null
     }
   ]
