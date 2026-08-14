@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-14T19:11:37.516357Z",
+  "generatedAt": "2026-08-14T19:54:30.173972Z",
   "sourceCount": 1,
-  "count": 22,
+  "count": 19,
   "items": [
     {
       "id": "stockanalysis:1b129e7832d8dc69",
@@ -157,48 +157,21 @@
       "published": null
     },
     {
+      "id": "stockanalysis:fa00eea4a05cbae0",
+      "titleEn": "The Law Offices of Frank R. Cruz Announces Investigation of Ecopetrol S.A.",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260814763380/en/The-Law-Offices-of-Frank-R.-Cruz-Announces-Investigation-of-Ecopetrol-S.A.-EC-on-Behalf-of-Investors/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:60d7b6f96e6fa86d",
       "titleEn": "Dot Ai Announces Delisting Notice and Intention of Appeal",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.businesswire.com/news/home/20260813935044/en/Dot-Ai-Announces-Delisting-Notice-and-Intention-of-Appeal/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a7b7be4a7a5f1485",
-      "titleEn": "Moog Celebrates 75 Years of Innovation with New Advanced Integrated Manufacturing Facility, Workforce Investment and STEM Scholarship Initiative",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814958345/en/Moog-Celebrates-75-Years-of-Innovation-with-New-Advanced-Integrated-Manufacturing-Facility-Workforce-Investment-and-STEM-Scholarship-Initiative/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:025a5ba3967937b2",
-      "titleEn": "CBL Properties Closes $50.65 Million Sale of York Town Center in York, PA",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814364525/en/CBL-Properties-Closes-50.65-Million-Sale-of-York-Town-Center-in-York-PA/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8499d732a4cd37c8",
-      "titleEn": "Robbins LLP is Investigating the Recent Stock Drop of Blaize Holdings, Inc.; Contact the Firm for Information",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814722466/en/Robbins-LLP-is-Investigating-the-Recent-Stock-Drop-of-Blaize-Holdings-Inc.-Contact-the-Firm-for-Information/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ce033233bd06fe3f",
-      "titleEn": "Liberty All-Star® Equity Fund July 2026 Monthly Update",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814167463/en/Liberty-All-Star%C2%AE-Equity-Fund-July-2026-Monthly-Update/",
       "published": null
     }
   ]
