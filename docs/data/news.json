@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-14T21:14:53.190325Z",
+  "generatedAt": "2026-08-14T21:41:30.740856Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 15,
   "items": [
     {
       "id": "stockanalysis:586bc8372e57c444",
@@ -112,21 +112,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1b21fcb5cbfb7fa5",
-      "titleEn": "S&amp;P 500 edges higher as earnings offset Middle East tensions",
+      "id": "stockanalysis:5b8fc3bf659d7faa",
+      "titleEn": "Element Solutions Inc Declares Q3 Dividend of $0.08 Per Share",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/14/sp-500-edges-higher-as-earnings-offset-middle-east-tensions/",
+      "link": "https://www.businesswire.com/news/home/20260814755108/en/Element-Solutions-Inc-Declares-Q3-Dividend-of-0.08-Per-Share/",
       "published": null
     },
     {
-      "id": "stockanalysis:5cd91871a1750845",
-      "titleEn": "Adobe stock is taking off: Could a rumored Workday buyout push it higher?",
+      "id": "stockanalysis:c8bcb42ff5d75845",
+      "titleEn": "MSG Sports Publicly Files Form 10 Registration Statement for Proposed Spin-Off of Rangers Business from Knicks Business",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/14/adobe-stock-is-taking-off-could-a-rumored-workday-buyout-push-it-higher/",
+      "link": "https://www.businesswire.com/news/home/20260814826019/en/MSG-Sports-Publicly-Files-Form-10-Registration-Statement-for-Proposed-Spin-Off-of-Rangers-Business-from-Knicks-Business/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:df561d9e5137c938",
+      "titleEn": "Retractable Technologies, Inc. Results for the Periods Ended June 30, 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260814553809/en/Retractable-Technologies-Inc.-Results-for-the-Periods-Ended-June-30-2026/",
       "published": null
     }
   ]
