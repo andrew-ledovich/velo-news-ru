@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-14T08:35:35.402166Z",
+  "generatedAt": "2026-08-14T09:41:08.299205Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:99d4aff6cb9f439f",
+      "titleEn": "Reddit stock surges on S&amp;P 500 inclusion, but Google search referral woes remain",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/14/reddit-stock-surges-on-sp-500-inclusion-but-google-search-referral-woes-remain/",
+      "published": null
+    },
     {
       "id": "stockanalysis:46660e548fdf7e98",
       "titleEn": "Michael Burry is shorting Nvidia and Micron, but won't touch this AI stock",
@@ -109,6 +118,42 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/13/what-drove-workday-stock-higher-on-thursday-and-what-comes-next/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cf553644cc476290",
+      "titleEn": "MUFG Bank, Ltd. announces Risk-Adjusted Capital Ratio Based on the Basel 3 Standards for the First Quarter Ended June 30, 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260814013334/en/MUFG-Bank-Ltd.-announces-Risk-Adjusted-Capital-Ratio-Based-on-the-Basel-3-Standards-for-the-First-Quarter-Ended-June-30-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a51ca95b11080a1f",
+      "titleEn": "Innate Pharma Announces Conference Call and Webcast",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260814949608/en/Innate-Pharma-Announces-Conference-Call-and-Webcast/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:62b0b15e04a8086e",
+      "titleEn": "Avolon Agrees Sale and Leaseback of Seven Boeing 737-8200 Aircraft With Akasa Air",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260814272399/en/Avolon-Agrees-Sale-and-Leaseback-of-Seven-Boeing-737-8200-Aircraft-With-Akasa-Air/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a3ead446e76bd73a",
+      "titleEn": "ZPG Reaches Agreement to Sell Hometrack to Providence Equity Partners",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260814560399/en/ZPG-Reaches-Agreement-to-Sell-Hometrack-to-Providence-Equity-Partners/",
       "published": null
     },
     {
