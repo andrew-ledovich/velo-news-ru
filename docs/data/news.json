@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-14T18:11:43.006852Z",
+  "generatedAt": "2026-08-14T19:11:37.516357Z",
   "sourceCount": 1,
-  "count": 21,
+  "count": 22,
   "items": [
+    {
+      "id": "stockanalysis:1b129e7832d8dc69",
+      "titleEn": "Gold looks to Fed minutes, housing, PMI data for direction next week",
+      "summaryEn": "(Kitco News) – Gold and silver head into the coming week with investors focused on the health of the U.S. economy and the Federal Reserve&#x27;s interest-rate outlook, as manufacturing, housing and central bank signals could drive volatility across precious metals markets. Bullion prices gained ground this week as softer U.S. inflation and consumer spending data reduced expectations for another Federal Reserve rate hike, with gold reaching its highest level since June 5, while silver was trading above $64 an ounce on Friday. Markets were pricing roughly a 31% chance of a September rate hike, down from around 55% a week earlier. The coming week&#x27;s data will offer another look at U.S. manufacturing and housing activity, while Wednesday&#x27;s FOMC minutes could provide the clearest indication of how policymakers are weighing persistent inflation against signs of slowing economic growth.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-14/gold-looks-fed-minutes-housing-pmi-data-direction-next-week",
+      "published": null
+    },
     {
       "id": "stockanalysis:c230b9e56e0f958a",
       "titleEn": "Why SanDisk stock is surging 6% today, making 30%+ gains in this week",
@@ -148,12 +157,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:75908c1f371f68e2",
-      "titleEn": "TLT ETF at risk despite soaring inflows as bond vigilantes fight back",
+      "id": "stockanalysis:60d7b6f96e6fa86d",
+      "titleEn": "Dot Ai Announces Delisting Notice and Intention of Appeal",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/14/tlt-etf-at-risk-despite-soaring-inflows-as-bond-vigilantes-fight-back/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260813935044/en/Dot-Ai-Announces-Delisting-Notice-and-Intention-of-Appeal/",
       "published": null
     },
     {
