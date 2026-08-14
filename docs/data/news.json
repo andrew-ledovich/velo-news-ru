@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T21:57:20.382383Z",
+  "generatedAt": "2026-08-14T22:16:53.464302Z",
   "sourceCount": 1,
   "count": 14,
   "items": [
@@ -112,21 +112,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5b8fc3bf659d7faa",
-      "titleEn": "Element Solutions Inc Declares Q3 Dividend of $0.08 Per Share",
+      "id": "stockanalysis:27c35e1d26baf702",
+      "titleEn": "MediaCo Reports Second Quarter Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814755108/en/Element-Solutions-Inc-Declares-Q3-Dividend-of-0.08-Per-Share/",
+      "link": "https://www.businesswire.com/news/home/20260814517755/en/MediaCo-Reports-Second-Quarter-Financial-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:c8bcb42ff5d75845",
-      "titleEn": "MSG Sports Publicly Files Form 10 Registration Statement for Proposed Spin-Off of Rangers Business from Knicks Business",
+      "id": "stockanalysis:4761934d7ac53828",
+      "titleEn": "Accord Announces Second Quarter Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814826019/en/MSG-Sports-Publicly-Files-Form-10-Registration-Statement-for-Proposed-Spin-Off-of-Rangers-Business-from-Knicks-Business/",
+      "link": "https://www.businesswire.com/news/home/20260814957798/en/Accord-Announces-Second-Quarter-Financial-Results/",
       "published": null
     }
   ]
