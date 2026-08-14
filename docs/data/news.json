@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-14T13:37:27.012166Z",
+  "generatedAt": "2026-08-14T14:36:46.332442Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:92f76431cb0806f2",
+      "titleEn": "Berkshire 13F: What to expect from Buffett successor's latest moves",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/14/berkshire-13f-what-to-expect-from-buffett-successors-latest-moves/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:363a1548ac45d73f",
+      "titleEn": "Spot gold nears $4,400/oz after preliminary Consumer Sentiment falls to 51, one-year inflation expectations rise",
+      "summaryEn": "(Kitco News) - The gold market is trading near session highs after the latest data showed consumer sentiment in the U.S. declining, with shorter-term inflation expectations ticking higher. The University of Michigan announced on Friday that the preliminary reading of its Consumer Sentiment survey for August was 51. The data was worse than expectations, as the consensus forecast of economists called for a reading of 54.5. It was also significantly lower than July’s final reading of 55.2. “﻿Consumer sentiment fell about 8% this August, ending two consecutive months of improvement,” said Surveys of Consumers Director Joanne Hsu. “While views of personal finances saw only minor declines, expected business conditions sank 11% for the short run and 17% for the long run. Decreases in sentiment were seen across the political spectrum, with Republicans exhibiting the strongest month-to-month decline in August. Sentiment among Republicans is now 19% below readings just prior to the Iran conflict and the lowest since the 2024 election.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-14/spot-gold-nears-4400oz-after-preliminary-consumer-sentiment-falls-51-one",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1b21fcb5cbfb7fa5",
+      "titleEn": "S&amp;P 500 edges higher as earnings offset Middle East tensions",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/14/sp-500-edges-higher-as-earnings-offset-middle-east-tensions/",
+      "published": null
+    },
     {
       "id": "stockanalysis:5cd91871a1750845",
       "titleEn": "Adobe stock is taking off: Could a rumored Workday buyout push it higher?",
@@ -103,57 +130,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ee2bf630f6a08d08",
-      "titleEn": "Nikkei 225 Index bullish flag forms as SoftBank, Kioxia, Nintendo stocks jump",
+      "id": "stockanalysis:9c07aca03d7ea817",
+      "titleEn": "Pinnacle Financial Partners Continues Partnership with 23XI Racing in Multi-Year Renewal",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/14/nikkei-225-index-bullish-flag-forms-as-softbank-kioxia-nintendo-stocks-jump/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:313bfc2e3fab0665",
-      "titleEn": "Applied Materials beat Wall Street and raised guidance, so why did the stock fall 6%?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/14/applied-materials-beat-wall-street-and-raised-guidance-so-why-did-the-stock-fall-6/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1ce2ef1dae5addb5",
-      "titleEn": "SoftBank jumps 5% as Nikkei rallies, but BOJ could spoil the party",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/14/softbank-jumps-5-as-nikkei-rallies-but-boj-could-spoil-the-party/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8fcf79a5e983dd6a",
-      "titleEn": "Sinda Ltd. Reports Second Quarter 2026 Financial Results and Provides Operational Update",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813472414/en/Sinda-Ltd.-Reports-Second-Quarter-2026-Financial-Results-and-Provides-Operational-Update/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7fcbb14a52c8ca1c",
-      "titleEn": "Eurofins Scientific: Director/PDMR Shareholding",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814852229/en/Eurofins-Scientific-DirectorPDMR-Shareholding/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:016b0dccbb6e2eed",
-      "titleEn": "Upland Software Reports Second Quarter 2026 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814614721/en/Upland-Software-Reports-Second-Quarter-2026-Financial-Results/",
+      "link": "https://www.businesswire.com/news/home/20260814463345/en/Pinnacle-Financial-Partners-Continues-Partnership-with-23XI-Racing-in-Multi-Year-Renewal/",
       "published": null
     }
   ]
