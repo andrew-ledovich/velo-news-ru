@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-14T09:41:08.299205Z",
+  "generatedAt": "2026-08-14T10:38:39.775465Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:99d4aff6cb9f439f",
@@ -121,48 +121,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:cf553644cc476290",
-      "titleEn": "MUFG Bank, Ltd. announces Risk-Adjusted Capital Ratio Based on the Basel 3 Standards for the First Quarter Ended June 30, 2026",
+      "id": "stockanalysis:d82820455bfedd88",
+      "titleEn": "Kontrol Technologies Announces Second Quarter 2026 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814013334/en/MUFG-Bank-Ltd.-announces-Risk-Adjusted-Capital-Ratio-Based-on-the-Basel-3-Standards-for-the-First-Quarter-Ended-June-30-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a51ca95b11080a1f",
-      "titleEn": "Innate Pharma Announces Conference Call and Webcast",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814949608/en/Innate-Pharma-Announces-Conference-Call-and-Webcast/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:62b0b15e04a8086e",
-      "titleEn": "Avolon Agrees Sale and Leaseback of Seven Boeing 737-8200 Aircraft With Akasa Air",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814272399/en/Avolon-Agrees-Sale-and-Leaseback-of-Seven-Boeing-737-8200-Aircraft-With-Akasa-Air/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a3ead446e76bd73a",
-      "titleEn": "ZPG Reaches Agreement to Sell Hometrack to Providence Equity Partners",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814560399/en/ZPG-Reaches-Agreement-to-Sell-Hometrack-to-Providence-Equity-Partners/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d5e4688193f94733",
-      "titleEn": "Paysafe Becomes Envision Racing Title Partner to Build the Future of Fan Engagement; Where Motorsport, Gaming and Payments Become One",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814738341/en/Paysafe-Becomes-Envision-Racing-Title-Partner-to-Build-the-Future-of-Fan-Engagement-Where-Motorsport-Gaming-and-Payments-Become-One/",
+      "link": "https://www.businesswire.com/news/home/20260814537169/en/Kontrol-Technologies-Announces-Second-Quarter-2026-Financial-Results/",
       "published": null
     }
   ]
