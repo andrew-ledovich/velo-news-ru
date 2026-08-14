@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-08-14T12:03:53.746819Z",
+  "generatedAt": "2026-08-14T13:37:27.012166Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:5cd91871a1750845",
+      "titleEn": "Adobe stock is taking off: Could a rumored Workday buyout push it higher?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/14/adobe-stock-is-taking-off-could-a-rumored-workday-buyout-push-it-higher/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:caa961aaff64597c",
+      "titleEn": "Gold rebounds as retail sales miss offsets oil-driven inflation risk - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Friday, after July retail sales unexpectedly fell and reinforced the market’s view that the Federal Reserve is closer to holding rates steady in September. At the time of writing, spot gold was trading near $4,376.40 an ounce, up 0.60%, while spot silver was trading at $64.740, up 0.66% on the session. The latest positioning shifted further toward a Fed hold after this morning’s retail sales report. July retail sales fell 0.6%, against expectations for a 0.1% increase , while sales excluding autos declined 0.3%. The miss followed Wednesday’s cooler CPI report and Thursday’s flat headline PPI print , leaving the market-implied probability of a 25-basis-point September rate hike near 32% to 33%, down from nearly 50% a week ago. The 10-year Treasury yield is trading near the 4.6% area, while the U.S. dollar index remains below 100.00. The softer consumer data are supportive for gold through the rates channel, but the move is capped by higher oil prices and the market’s focus on the University of Michigan sentiment report at 10 a.m. ET. The Strait of Hormuz remains the main geopolitical channel into oil, inflation expectations and defensive demand. Two UAE tankers were attacked while trying to cross the strait, and Washington has signaled new economic-isolation measures against Iran while saying the U.S. blockade can be sustained indefinitely. Brent crude is trading near $88.50 a barrel and U.S. crude is near $82.80, keeping energy risk in the Fed debate even as the week’s inflation and spending data weaken the case for another hike. For gold, the impact remains two-sided: shipping risk supports safe-haven demand, while higher crude keeps inflation risk alive and limits the downside in Treasury yields.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-14/gold-rebounds-retail-sales-miss-offsets-oil-driven-inflation-risk-kitco-am",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a65a667921814c74",
+      "titleEn": "Figma stock is rising: a golden opportunity to buy at a bargain price?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/14/figma-stock-is-rising-a-golden-opportunity-to-buy-at-a-bargain-price/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c65c8db017edab5f",
+      "titleEn": "Gold rallies to session high $4,387/oz after retail sales drop -0.6% in July",
+      "summaryEn": "(Kitco News) - The gold market is rallying after the latest data showed American consumers’ spending declining more than expected last month. U.S. retail sales fell -0.6% in July following an unrevised reading of 0.2% in June, the U.S. Commerce Department announced on Friday. The data was far worse than expectations, as the consensus of economists projected a 0.1% increase in July’s headline number.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-14/gold-rallies-session-high-4387oz-after-retail-sales-drop-06-july",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:47e2e13deb398660",
+      "titleEn": "Soft PPI data makes these three chip stocks worth buying",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/14/soft-ppi-data-makes-these-three-chip-stocks-worth-buying/",
+      "published": null
+    },
     {
       "id": "stockanalysis:75908c1f371f68e2",
       "titleEn": "TLT ETF at risk despite soaring inflows as bond vigilantes fight back",
@@ -85,66 +130,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:a2b3c957ead0833d",
-      "titleEn": "Citi Plans to Acquire Kard to Deliver More Personalized Rewards",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The transaction is subject to customary closing conditions, and the companies will continue to operate as independent organizations until the transaction closes, according to the release. The proposed transaction will combine Citi’s scale and payments expertise with Kard’s technology, talent and merchant relationships, enabling the bank to offer more personalized rewards and create new opportunities to connect customers, merchants and brands, the release said.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/acquiring/2026/citi-plans-to-acquire-kard-to-deliver-more-personalized-rewards/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4e197f72d583830d",
-      "titleEn": "Databricks Raises $5 Billion to Expand Enterprise AI Agent Platform",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The new valuation is up from the $134 billion at which it was valued in a February funding round and the $62 billion at which it was valued in a January 2025 funding round . Together, these solutions deliver the foundation, context, smart routing and cost controls companies need to deploy AI agents, the release said.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/databricks-raises-5-billion-to-expand-enterprise-ai-agent-platform/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3bbdb016de566c3c",
-      "titleEn": "Gold snaps four-day advance as yields ease, oil drops - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in late-afternoon U.S. trading Thursday, as a cooler wholesale inflation report cut Treasury yields and rate-hike expectations but also reduced demand for metals as near-term inflation hedges. At the time of writing, spot gold was trading near $4,349.80 an ounce, down 1.31%, while spot silver was trading at $64.290, down 1.40% on the session. North American equity markets closed higher. The S&P 500 rose 0.7% to a record 7,798.99, the Nasdaq Composite gained 0.8% to 26,803.03 and the Dow Jones Industrial Average added 0.1% to 53,839.99. The Russell 2000 rose 0.2% to 3,052.85. European markets were mixed to slightly firmer during the session, with the pan-European STOXX 600 up 0.2% in morning trade, Germany’s DAX up 0.35%, France’s CAC 40 up 0.2% and London’s FTSE 100 down 0.3% as weaker mining shares weighed on the U.K. benchmark. The latest positioning shifted further toward a September Fed hold after this morning’s PPI and jobless-claims data. Final-demand PPI was unchanged in July, below expectations for a 0.2% rise , while producer prices rose 4.7% from a year earlier. The measure excluding food, energy and trade services rose 0.4% on the month and 4.7% year-over-year, leaving some caution around core PCE pass-through. Initial jobless claims rose 9,000 to 209,000 , while continuing claims fell to 1.777 million. September hike odds fell to 34.6% from 40.6% after the PPI release, and the 10-year Treasury yield fell to 4.648% from 4.686% Wednesday. The next macro tests are July retail sales Friday at 8:30 a.m. ET and the University of Michigan preliminary August sentiment index at 10 a.m. ET.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-13/gold-snaps-four-day-advance-yields-ease-oil-drops-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:87ef07f059d957c7",
-      "titleEn": "Lantern Pharma Reports Second Quarter 2026 Financial Results and Provides Business Update",
+      "id": "stockanalysis:8fcf79a5e983dd6a",
+      "titleEn": "Sinda Ltd. Reports Second Quarter 2026 Financial Results and Provides Operational Update",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814100282/en/Lantern-Pharma-Reports-Second-Quarter-2026-Financial-Results-and-Provides-Business-Update/",
+      "link": "https://www.businesswire.com/news/home/20260813472414/en/Sinda-Ltd.-Reports-Second-Quarter-2026-Financial-Results-and-Provides-Operational-Update/",
       "published": null
     },
     {
-      "id": "stockanalysis:bfe7032bc3e59c92",
-      "titleEn": "Faeth Therapeutics Strengthens Executive Team with Senior Leadership Appointments",
+      "id": "stockanalysis:7fcbb14a52c8ca1c",
+      "titleEn": "Eurofins Scientific: Director/PDMR Shareholding",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814791639/en/Faeth-Therapeutics-Strengthens-Executive-Team-with-Senior-Leadership-Appointments/",
+      "link": "https://www.businesswire.com/news/home/20260814852229/en/Eurofins-Scientific-DirectorPDMR-Shareholding/",
       "published": null
     },
     {
-      "id": "stockanalysis:8445df656a2c28ee",
-      "titleEn": "Boost Run Inc. Reports First Earnings as a Public Company, Reporting Second Quarter 2026 Results, Supported by $1.9 Billion Total Contract Value",
+      "id": "stockanalysis:016b0dccbb6e2eed",
+      "titleEn": "Upland Software Reports Second Quarter 2026 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814082680/en/Boost-Run-Inc.-Reports-First-Earnings-as-a-Public-Company-Reporting-Second-Quarter-2026-Results-Supported-by-1.9-Billion-Total-Contract-Value/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:26562be5c05dee20",
-      "titleEn": "U.S. Physical Therapy Announces CFO",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814902997/en/U.S.-Physical-Therapy-Announces-CFO/",
+      "link": "https://www.businesswire.com/news/home/20260814614721/en/Upland-Software-Reports-Second-Quarter-2026-Financial-Results/",
       "published": null
     }
   ]
