@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-14T23:11:18.793241Z",
+  "generatedAt": "2026-08-14T23:34:06.223963Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:fde83824e4c835dc",
@@ -112,30 +112,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:18be7cb730fa3b99",
-      "titleEn": "Golf Entertainment Group Reports Second Quarter 2026 Results",
+      "id": "stockanalysis:2f183853125234ce",
+      "titleEn": "WEBs Investments Inc. Announces Intention to Close 11 Defined Volatility Sector ETFs",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814300981/en/Golf-Entertainment-Group-Reports-Second-Quarter-2026-Results/",
+      "link": "https://www.businesswire.com/news/home/20260814891957/en/WEBs-Investments-Inc.-Announces-Intention-to-Close-11-Defined-Volatility-Sector-ETFs/",
       "published": null
     },
     {
-      "id": "stockanalysis:27c35e1d26baf702",
-      "titleEn": "MediaCo Reports Second Quarter Financial Results",
+      "id": "stockanalysis:4af3b093876af5d4",
+      "titleEn": "Gold Reserve Provides Update on Its Litigation and Arbitration Proceedings",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814517755/en/MediaCo-Reports-Second-Quarter-Financial-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4761934d7ac53828",
-      "titleEn": "Accord Announces Second Quarter Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814957798/en/Accord-Announces-Second-Quarter-Financial-Results/",
+      "link": "https://www.businesswire.com/news/home/20260814490010/en/Gold-Reserve-Provides-Update-on-Its-Litigation-and-Arbitration-Proceedings/",
       "published": null
     }
   ]
