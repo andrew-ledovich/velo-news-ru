@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-14T07:06:09.000530Z",
+  "generatedAt": "2026-08-14T08:35:35.402166Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:46660e548fdf7e98",
+      "titleEn": "Michael Burry is shorting Nvidia and Micron, but won't touch this AI stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/14/michael-burry-is-shorting-nvidia-and-micron-but-wont-touch-this-ai-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:61378232eb0af7a0",
+      "titleEn": "SanDisk stock is up 541% this year, but analysts still aren't ready to call the top",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/14/sandisk-stock-is-up-541-this-year-but-analysts-still-arent-ready-to-call-the-top/",
+      "published": null
+    },
     {
       "id": "stockanalysis:00132f4814b996a5",
       "titleEn": "KOSPI's 22% rebound has stunned markets: is Korea's brutal chip rout finally over?",
@@ -94,12 +112,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:a5cd5e1848416516",
-      "titleEn": "Cooler CPI and PPI boost gold and ease rate hike bets, but the Fed needs more from core ahead of September – Experts",
-      "summaryEn": "(Kitco News) – Gold prices got a boost from a reassuringly in-line CPI report on Wednesday, and while Thursday morning’s equally benign PPI print didn’t push prices higher, the yellow metal has successfully broken out of its recent range and is holding above $4,350 on Thursday afternoon, exactly $100 below its post-CPI peak. But while many commentators are quick to declare victory over inflation after two months of positive data, industry experts believe the Federal Reserve’s view will be more nuanced and more cautious – and rate cuts may still be on the horizon. Scott Anderson, Chief U.S. Economist at BMO, said the CPI report painted a tamer picture of consumer price pressures for a second month in a row, but believes the Fed will want to remain in wait-and-see mode.",
+      "id": "stockanalysis:d5e4688193f94733",
+      "titleEn": "Paysafe Becomes Envision Racing Title Partner to Build the Future of Fan Engagement; Where Motorsport, Gaming and Payments Become One",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-13/cooler-cpi-and-ppi-boost-gold-and-ease-rate-hike-bets-fed-needs-more-core",
+      "link": "https://www.businesswire.com/news/home/20260814738341/en/Paysafe-Becomes-Envision-Racing-Title-Partner-to-Build-the-Future-of-Fan-Engagement-Where-Motorsport-Gaming-and-Payments-Become-One/",
       "published": null
     }
   ]
