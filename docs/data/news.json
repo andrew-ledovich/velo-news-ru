@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-14T10:38:39.775465Z",
+  "generatedAt": "2026-08-14T11:25:07.693685Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:99d4aff6cb9f439f",
@@ -109,24 +109,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://techxplore.com/news/2026-08-twitch-gamers-wrath-amazon-ai.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6bee4d6ffdbbcace",
-      "titleEn": "What drove Workday stock higher on Thursday and what comes next?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/what-drove-workday-stock-higher-on-thursday-and-what-comes-next/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d82820455bfedd88",
-      "titleEn": "Kontrol Technologies Announces Second Quarter 2026 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814537169/en/Kontrol-Technologies-Announces-Second-Quarter-2026-Financial-Results/",
       "published": null
     }
   ]
