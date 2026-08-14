@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-14T22:16:53.464302Z",
+  "generatedAt": "2026-08-14T22:45:43.415761Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:fde83824e4c835dc",
+      "titleEn": "Wall Street goes full-bull on gold as rate-hike bets recede, Main Street maintains bullish majority with Fed minutes on the menu",
+      "summaryEn": "(Kitco News) – Gold prices pushed higher this week, as fading expectations for a September Fed rate hike helped the precious metal extend its August rebound despite intermittent pressure from a firmer dollar, rising oil prices, and profit-taking. Spot gold kicked off the week trading at $4,342.50 per ounce on Sunday evening, and the yellow metal moved steadily higher through Monday and Tuesday as traders positioned for the week’s U.S. inflation data. The rally accelerated Wednesday after July CPI came in largely in line with expectations, easing concerns that the Federal Reserve would need to tighten policy in September and helping gold prices push to a 10-week high. Spot prices ultimately set their weekly high at $4,450.23 per ounce on Thursday before sellers took over. Gold prices pulled back sharply Thursday after softer wholesale inflation data reduced its appeal as an inflation hedge and prompted traders to take profits following the four-day rally. The metal remained under pressure into Friday as oil prices climbed on continued uncertainty around the war with Iran and Treasury yields also edged higher, with spot gold setting its weekly low at $4,311.22 per ounce early on Friday.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-14/wall-street-goes-full-bull-gold-rate-hike-bets-recede-main-street-maintains",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7516cb608d0f8d94",
+      "titleEn": "PayPal Discussing Sale to Stripe After Rejecting First Offer",
+      "summaryEn": "PayPal Holdings is in talks with a group that includes Stripe and Advent International , negotiating to sell itself at a price potentially higher than the one the companies offered in July, The Wall Street Journal (WSJ) reported Friday (Aug. 14), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The two sides have been negotiating since July, when Stripe and Advent proposed buying PayPal at a price that the company later said was insufficient, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/acquiring/2026/paypal-discussing-sale-stripe-after-rejecting-first-offer/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3d5d7b41f7463256",
       "titleEn": "Gold, silver rise as weak retail sales cut Fed-hike odds - Kitco PM Report",
@@ -91,15 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/14/why-spacex-stock-is-sliding-another-3-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c4ce0d4badeede50",
-      "titleEn": "Michael Burry shorts Nebius stock as a risky doji emerges after strong earnings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/14/michael-burry-shorts-nebius-stock-as-a-risky-doji-emerges-after-strong-earnings/",
       "published": null
     },
     {
