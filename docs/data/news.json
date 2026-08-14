@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-14T00:04:26.620794Z",
+  "generatedAt": "2026-08-14T02:42:05.870544Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 8,
   "items": [
+    {
+      "id": "stockanalysis:a2b3c957ead0833d",
+      "titleEn": "Citi Plans to Acquire Kard to Deliver More Personalized Rewards",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The transaction is subject to customary closing conditions, and the companies will continue to operate as independent organizations until the transaction closes, according to the release. The proposed transaction will combine Citi’s scale and payments expertise with Kard’s technology, talent and merchant relationships, enabling the bank to offer more personalized rewards and create new opportunities to connect customers, merchants and brands, the release said.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/acquiring/2026/citi-plans-to-acquire-kard-to-deliver-more-personalized-rewards/",
+      "published": null
+    },
     {
       "id": "stockanalysis:4e197f72d583830d",
       "titleEn": "Databricks Raises $5 Billion to Expand Enterprise AI Agent Platform",
@@ -58,30 +67,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:fa4002719001580b",
-      "titleEn": "SanDisk stock soars 15% today: here's why",
+      "id": "stockanalysis:c7394d7eeab87ea4",
+      "titleEn": "Global Sales of Pokémon Pokopia for Nintendo Switch 2 Surpass 5 Million Units",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/13/sandisk-stock-soars-15-today-heres-why/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5f618f4630ca7ddb",
-      "titleEn": "Valvoline Announces Pricing and Upsizing of Senior Notes Offering",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813250392/en/Valvoline-Announces-Pricing-and-Upsizing-of-Senior-Notes-Offering/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:dd8a57e03f3dc1b3",
-      "titleEn": "Afya Limited Announces Second-Quarter and First-Half 2026 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813136104/en/Afya-Limited-Announces-Second-Quarter-and-First-Half-2026-Financial-Results/",
+      "link": "https://www.businesswire.com/news/home/20260813580796/en/Global-Sales-of-Pok%C3%A9mon-Pokopia-for-Nintendo-Switch-2-Surpass-5-Million-Units/",
       "published": null
     }
   ]
