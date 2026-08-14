@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-14T16:22:09.725673Z",
+  "generatedAt": "2026-08-14T17:23:16.380089Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 16,
   "items": [
     {
       "id": "stockanalysis:3119ef1db0304ca2",
@@ -139,39 +139,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:9ba089c2c440044c",
-      "titleEn": "OpenAI's Revenue Run Rate Tops $40 Billion as IPO Nears",
-      "summaryEn": "OpenAI is now on pace to bring in annualized revenue of more than $40 billion, roughly double its run rate from the end of 2025. The jump gives the ChatGPT maker fresh momentum as it prepares to go public. For the banking, payments and fintech firms watching how AI vendors turn usage into money, the number signals that enterprise demand for AI tools keeps climbing even as the cost of building them stays high. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The OpenAI $40 billion revenue run-rate figure comes from a Bloomberg report published Aug. 13 , which cited people familiar with the company&#8217;s performance who spoke on condition of anonymity. According to Bloomberg, the acceleration was driven in part by growth in OpenAI&#8217;s AI coding software, along with gains from subscription sales and a new advertising business. The company&#8217;s core consumer business is still growing too. OpenAI declined to comment to Bloomberg.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openais-revenue-run-rate-tops-40-billion-as-ipo-nears/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:aa188f9731ee632c",
-      "titleEn": "Elon Musk-inspired pay packages push S&amp;P 500 CEO compensation to record high",
+      "id": "stockanalysis:a1ea92f813cc3fb5",
+      "titleEn": "BTS and Clients Win 72 Brandon Hall Group Excellence Awards",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/14/elon-musk-inspired-pay-packages-push-sp-500-ceo-compensation-to-record-high/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:650346f4d5813e32",
-      "titleEn": "SCE Wildfire Recovery Compensation Program Enters Final Months; Participation and Payments Continue",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813500670/en/SCE-Wildfire-Recovery-Compensation-Program-Enters-Final-Months-Participation-and-Payments-Continue/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8deaa691cbaa5501",
-      "titleEn": "bioAffinity Technologies Announces Closing of $4M Private Placement Offering Priced At-the-Market Under Nasdaq Rules",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814633801/en/bioAffinity-Technologies-Announces-Closing-of-4M-Private-Placement-Offering-Priced-At-the-Market-Under-Nasdaq-Rules/",
+      "link": "https://www.businesswire.com/news/home/20260814257908/en/BTS-and-Clients-Win-72-Brandon-Hall-Group-Excellence-Awards/",
       "published": null
     }
   ]
