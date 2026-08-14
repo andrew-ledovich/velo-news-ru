@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-14T20:20:27.893907Z",
+  "generatedAt": "2026-08-14T20:52:27.133702Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 17,
   "items": [
     {
       "id": "stockanalysis:586bc8372e57c444",
@@ -139,12 +139,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:06892782f1a07192",
-      "titleEn": "Zevia Statement Regarding Kanen Wealth Management LLC",
+      "id": "stockanalysis:db4c99e85fba6232",
+      "titleEn": "Nerdy Inc. Announces 1-For-15 Reverse Stock Split",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814156429/en/Zevia-Statement-Regarding-Kanen-Wealth-Management-LLC/",
+      "link": "https://www.businesswire.com/news/home/20260814502748/en/Nerdy-Inc.-Announces-1-For-15-Reverse-Stock-Split/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:41154535f51cfd9b",
+      "titleEn": "Optimum Receives Notice From NYSE Regarding Continued Listing Standard",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260814263358/en/Optimum-Receives-Notice-From-NYSE-Regarding-Continued-Listing-Standard/",
       "published": null
     }
   ]
