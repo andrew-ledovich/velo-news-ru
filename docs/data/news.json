@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-14T14:36:46.332442Z",
+  "generatedAt": "2026-08-14T15:28:18.790253Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:c4ce0d4badeede50",
+      "titleEn": "Michael Burry shorts Nebius stock as a risky doji emerges after strong earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/14/michael-burry-shorts-nebius-stock-as-a-risky-doji-emerges-after-strong-earnings/",
+      "published": null
+    },
     {
       "id": "stockanalysis:92f76431cb0806f2",
       "titleEn": "Berkshire 13F: What to expect from Buffett successor's latest moves",
@@ -85,6 +94,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:9ba089c2c440044c",
+      "titleEn": "OpenAI's Revenue Run Rate Tops $40 Billion as IPO Nears",
+      "summaryEn": "OpenAI is now on pace to bring in annualized revenue of more than $40 billion, roughly double its run rate from the end of 2025. The jump gives the ChatGPT maker fresh momentum as it prepares to go public. For the banking, payments and fintech firms watching how AI vendors turn usage into money, the number signals that enterprise demand for AI tools keeps climbing even as the cost of building them stays high. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The OpenAI $40 billion revenue run-rate figure comes from a Bloomberg report published Aug. 13 , which cited people familiar with the company&#8217;s performance who spoke on condition of anonymity. According to Bloomberg, the acceleration was driven in part by growth in OpenAI&#8217;s AI coding software, along with gains from subscription sales and a new advertising business. The company&#8217;s core consumer business is still growing too. OpenAI declined to comment to Bloomberg.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openais-revenue-run-rate-tops-40-billion-as-ipo-nears/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:aa188f9731ee632c",
       "titleEn": "Elon Musk-inspired pay packages push S&amp;P 500 CEO compensation to record high",
       "summaryEn": null,
@@ -121,21 +139,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:00132f4814b996a5",
-      "titleEn": "KOSPI's 22% rebound has stunned markets: is Korea's brutal chip rout finally over?",
+      "id": "stockanalysis:8deaa691cbaa5501",
+      "titleEn": "bioAffinity Technologies Announces Closing of $4M Private Placement Offering Priced At-the-Market Under Nasdaq Rules",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/14/kospis-22-rebound-has-stunned-markets-is-koreas-brutal-chip-rout-finally-over/",
+      "link": "https://www.businesswire.com/news/home/20260814633801/en/bioAffinity-Technologies-Announces-Closing-of-4M-Private-Placement-Offering-Priced-At-the-Market-Under-Nasdaq-Rules/",
       "published": null
     },
     {
-      "id": "stockanalysis:9c07aca03d7ea817",
-      "titleEn": "Pinnacle Financial Partners Continues Partnership with 23XI Racing in Multi-Year Renewal",
+      "id": "stockanalysis:04a8a3e75998965a",
+      "titleEn": "Nexstar's Local TV Stations Receive Two National Edward R. Murrow Awards for Outstanding Journalism and Exceptionally Produced Content",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814463345/en/Pinnacle-Financial-Partners-Continues-Partnership-with-23XI-Racing-in-Multi-Year-Renewal/",
+      "link": "https://www.businesswire.com/news/home/20260814643837/en/Nexstar%E2%80%99s-Local-TV-Stations-Receive-Two-National-Edward-R.-Murrow-Awards-for-Outstanding-Journalism-and-Exceptionally-Produced-Content/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2e787610505509c6",
+      "titleEn": "Gibraltar to Attend Seaport Research Partners 2026 Annual Summer Investor Conference",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260814765816/en/Gibraltar-to-Attend-Seaport-Research-Partners-2026-Annual-Summer-Investor-Conference/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7ea24d1a23eb454c",
+      "titleEn": "Datavault AI Will Acquire CyberCatch in an All-Cash Transaction",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260814352898/en/Datavault-AI-Will-Acquire-CyberCatch-in-an-All-Cash-Transaction/",
       "published": null
     }
   ]
