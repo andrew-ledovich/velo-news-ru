@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-14T19:54:30.173972Z",
+  "generatedAt": "2026-08-14T20:20:27.893907Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:586bc8372e57c444",
+      "titleEn": "Intuitive Machines stock jumps 8% as Wall Street backs $1.8B backlog",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/14/intuitive-machines-stock-jumps-8-as-wall-street-backs-1-8b-backlog/",
+      "published": null
+    },
     {
       "id": "stockanalysis:1b129e7832d8dc69",
       "titleEn": "Gold looks to Fed minutes, housing, PMI data for direction next week",
@@ -130,48 +139,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:a65a667921814c74",
-      "titleEn": "Figma stock is rising: a golden opportunity to buy at a bargain price?",
+      "id": "stockanalysis:06892782f1a07192",
+      "titleEn": "Zevia Statement Regarding Kanen Wealth Management LLC",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/14/figma-stock-is-rising-a-golden-opportunity-to-buy-at-a-bargain-price/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c65c8db017edab5f",
-      "titleEn": "Gold rallies to session high $4,387/oz after retail sales drop -0.6% in July",
-      "summaryEn": "(Kitco News) - The gold market is rallying after the latest data showed American consumers’ spending declining more than expected last month. U.S. retail sales fell -0.6% in July following an unrevised reading of 0.2% in June, the U.S. Commerce Department announced on Friday. The data was far worse than expectations, as the consensus of economists projected a 0.1% increase in July’s headline number.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-14/gold-rallies-session-high-4387oz-after-retail-sales-drop-06-july",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:47e2e13deb398660",
-      "titleEn": "Soft PPI data makes these three chip stocks worth buying",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/14/soft-ppi-data-makes-these-three-chip-stocks-worth-buying/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fa00eea4a05cbae0",
-      "titleEn": "The Law Offices of Frank R. Cruz Announces Investigation of Ecopetrol S.A.",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814763380/en/The-Law-Offices-of-Frank-R.-Cruz-Announces-Investigation-of-Ecopetrol-S.A.-EC-on-Behalf-of-Investors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:60d7b6f96e6fa86d",
-      "titleEn": "Dot Ai Announces Delisting Notice and Intention of Appeal",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260813935044/en/Dot-Ai-Announces-Delisting-Notice-and-Intention-of-Appeal/",
+      "link": "https://www.businesswire.com/news/home/20260814156429/en/Zevia-Statement-Regarding-Kanen-Wealth-Management-LLC/",
       "published": null
     }
   ]
