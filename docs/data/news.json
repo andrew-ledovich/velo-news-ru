@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-08-14T15:28:18.790253Z",
+  "generatedAt": "2026-08-14T16:22:09.725673Z",
   "sourceCount": 1,
   "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:3119ef1db0304ca2",
+      "titleEn": "Klarna stock has crawled back ahead of earnings: buy, sell, or hold?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/14/klarna-stock-has-crawled-back-ahead-of-earnings-buy-sell-or-hold/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c14d8240475eeeb8",
+      "titleEn": "NU stock: why Q2 earnings may have unlocked further upside",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/14/nu-stock-why-q2-earnings-may-have-unlocked-further-upside/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0bc21e434df1f164",
+      "titleEn": "SCHD ETF just hit a record high: Here's why DIVB is a better buy",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/14/schd-etf-just-hit-a-record-high-heres-why-divb-is-a-better-buy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d5a2772573ff2bce",
+      "titleEn": "Micron stock jumps as this analyst sees $3T valuation on AI memory boom",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/14/micron-stock-jumps-as-this-analyst-sees-3t-valuation-on-ai-memory-boom/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:23cba4da36fee830",
+      "titleEn": "Why SpaceX stock is sliding another 3% today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/14/why-spacex-stock-is-sliding-another-3-today/",
+      "published": null
+    },
     {
       "id": "stockanalysis:c4ce0d4badeede50",
       "titleEn": "Michael Burry shorts Nebius stock as a risky doji emerges after strong earnings",
@@ -112,30 +157,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:99d4aff6cb9f439f",
-      "titleEn": "Reddit stock surges on S&amp;P 500 inclusion, but Google search referral woes remain",
+      "id": "stockanalysis:650346f4d5813e32",
+      "titleEn": "SCE Wildfire Recovery Compensation Program Enters Final Months; Participation and Payments Continue",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/14/reddit-stock-surges-on-sp-500-inclusion-but-google-search-referral-woes-remain/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:46660e548fdf7e98",
-      "titleEn": "Michael Burry is shorting Nvidia and Micron, but won't touch this AI stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/14/michael-burry-is-shorting-nvidia-and-micron-but-wont-touch-this-ai-stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:61378232eb0af7a0",
-      "titleEn": "SanDisk stock is up 541% this year, but analysts still aren't ready to call the top",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/14/sandisk-stock-is-up-541-this-year-but-analysts-still-arent-ready-to-call-the-top/",
+      "link": "https://www.businesswire.com/news/home/20260813500670/en/SCE-Wildfire-Recovery-Compensation-Program-Enters-Final-Months-Participation-and-Payments-Continue/",
       "published": null
     },
     {
@@ -145,33 +172,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260814633801/en/bioAffinity-Technologies-Announces-Closing-of-4M-Private-Placement-Offering-Priced-At-the-Market-Under-Nasdaq-Rules/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:04a8a3e75998965a",
-      "titleEn": "Nexstar's Local TV Stations Receive Two National Edward R. Murrow Awards for Outstanding Journalism and Exceptionally Produced Content",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814643837/en/Nexstar%E2%80%99s-Local-TV-Stations-Receive-Two-National-Edward-R.-Murrow-Awards-for-Outstanding-Journalism-and-Exceptionally-Produced-Content/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2e787610505509c6",
-      "titleEn": "Gibraltar to Attend Seaport Research Partners 2026 Annual Summer Investor Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814765816/en/Gibraltar-to-Attend-Seaport-Research-Partners-2026-Annual-Summer-Investor-Conference/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7ea24d1a23eb454c",
-      "titleEn": "Datavault AI Will Acquire CyberCatch in an All-Cash Transaction",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260814352898/en/Datavault-AI-Will-Acquire-CyberCatch-in-an-All-Cash-Transaction/",
       "published": null
     }
   ]
