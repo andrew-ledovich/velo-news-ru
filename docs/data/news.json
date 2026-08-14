@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-14T21:41:30.740856Z",
+  "generatedAt": "2026-08-14T21:57:20.382383Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:3d5d7b41f7463256",
+      "titleEn": "Gold, silver rise as weak retail sales cut Fed-hike odds - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in late-afternoon U.S. trading Friday, as a weaker U.S. dollar and reduced Federal Reserve rate-hike expectations outweighed firmer Treasury yields tied to renewed oil-market risk. At the time of writing, spot gold was trading near $4,373.50 an ounce, up 0.53%, while spot silver was trading at $64.530, up 0.32% on the session. North American equity markets closed slightly lower after touching record territory earlier in the week. The S&P 500 fell 0.2% to 7,785.76, the Dow Jones Industrial Average lost 0.2% to 53,732.41, the Nasdaq Composite slipped 0.3% to 26,729.16 and the Russell 2000 rose 0.5% to 3,068.42. European markets finished mixed. The CAC 40 fell 0.16% to 8,636.80, the FTSE 100 lost 0.21% to 10,750.11, Germany’s DAX gained 0.51% and the Stoxx 600 declined 0.21%. The latest positioning remains split between weaker U.S. growth data and oil-driven inflation risk. July retail sales fell 0.6%, against expectations for a 0.1% increase , while the University of Michigan’s preliminary August consumer-sentiment index fell to 51.0 from 55.2. The retail-sales miss, Wednesday’s cooler CPI and Thursday’s flat headline PPI pushed the market-implied probability of a September Fed rate hike down near 29%, from about 34% Thursday night. The rate relief supported gold through the dollar channel, but the 10-year Treasury yield still finished near the 4.7% area as crude oil rose and traders looked ahead to the August employment and inflation reports that will arrive before the September Fed meeting.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-14/gold-silver-rise-weak-retail-sales-cut-fed-hike-odds-kitco-pm-report",
+      "published": null
+    },
     {
       "id": "stockanalysis:586bc8372e57c444",
       "titleEn": "Intuitive Machines stock jumps 8% as Wall Street backs $1.8B backlog",
@@ -94,21 +103,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:92f76431cb0806f2",
-      "titleEn": "Berkshire 13F: What to expect from Buffett successor's latest moves",
+      "id": "stockanalysis:18be7cb730fa3b99",
+      "titleEn": "Golf Entertainment Group Reports Second Quarter 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/14/berkshire-13f-what-to-expect-from-buffett-successors-latest-moves/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:363a1548ac45d73f",
-      "titleEn": "Spot gold nears $4,400/oz after preliminary Consumer Sentiment falls to 51, one-year inflation expectations rise",
-      "summaryEn": "(Kitco News) - The gold market is trading near session highs after the latest data showed consumer sentiment in the U.S. declining, with shorter-term inflation expectations ticking higher. The University of Michigan announced on Friday that the preliminary reading of its Consumer Sentiment survey for August was 51. The data was worse than expectations, as the consensus forecast of economists called for a reading of 54.5. It was also significantly lower than July’s final reading of 55.2. “﻿Consumer sentiment fell about 8% this August, ending two consecutive months of improvement,” said Surveys of Consumers Director Joanne Hsu. “While views of personal finances saw only minor declines, expected business conditions sank 11% for the short run and 17% for the long run. Decreases in sentiment were seen across the political spectrum, with Republicans exhibiting the strongest month-to-month decline in August. Sentiment among Republicans is now 19% below readings just prior to the Iran conflict and the lowest since the 2024 election.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-14/spot-gold-nears-4400oz-after-preliminary-consumer-sentiment-falls-51-one",
+      "link": "https://www.businesswire.com/news/home/20260814300981/en/Golf-Entertainment-Group-Reports-Second-Quarter-2026-Results/",
       "published": null
     },
     {
@@ -127,15 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260814826019/en/MSG-Sports-Publicly-Files-Form-10-Registration-Statement-for-Proposed-Spin-Off-of-Rangers-Business-from-Knicks-Business/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:df561d9e5137c938",
-      "titleEn": "Retractable Technologies, Inc. Results for the Periods Ended June 30, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814553809/en/Retractable-Technologies-Inc.-Results-for-the-Periods-Ended-June-30-2026/",
       "published": null
     }
   ]
