@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-14T20:52:27.133702Z",
+  "generatedAt": "2026-08-14T21:14:53.190325Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:586bc8372e57c444",
@@ -127,33 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/14/adobe-stock-is-taking-off-could-a-rumored-workday-buyout-push-it-higher/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:caa961aaff64597c",
-      "titleEn": "Gold rebounds as retail sales miss offsets oil-driven inflation risk - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Friday, after July retail sales unexpectedly fell and reinforced the market’s view that the Federal Reserve is closer to holding rates steady in September. At the time of writing, spot gold was trading near $4,376.40 an ounce, up 0.60%, while spot silver was trading at $64.740, up 0.66% on the session. The latest positioning shifted further toward a Fed hold after this morning’s retail sales report. July retail sales fell 0.6%, against expectations for a 0.1% increase , while sales excluding autos declined 0.3%. The miss followed Wednesday’s cooler CPI report and Thursday’s flat headline PPI print , leaving the market-implied probability of a 25-basis-point September rate hike near 32% to 33%, down from nearly 50% a week ago. The 10-year Treasury yield is trading near the 4.6% area, while the U.S. dollar index remains below 100.00. The softer consumer data are supportive for gold through the rates channel, but the move is capped by higher oil prices and the market’s focus on the University of Michigan sentiment report at 10 a.m. ET. The Strait of Hormuz remains the main geopolitical channel into oil, inflation expectations and defensive demand. Two UAE tankers were attacked while trying to cross the strait, and Washington has signaled new economic-isolation measures against Iran while saying the U.S. blockade can be sustained indefinitely. Brent crude is trading near $88.50 a barrel and U.S. crude is near $82.80, keeping energy risk in the Fed debate even as the week’s inflation and spending data weaken the case for another hike. For gold, the impact remains two-sided: shipping risk supports safe-haven demand, while higher crude keeps inflation risk alive and limits the downside in Treasury yields.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-14/gold-rebounds-retail-sales-miss-offsets-oil-driven-inflation-risk-kitco-am",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:db4c99e85fba6232",
-      "titleEn": "Nerdy Inc. Announces 1-For-15 Reverse Stock Split",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814502748/en/Nerdy-Inc.-Announces-1-For-15-Reverse-Stock-Split/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:41154535f51cfd9b",
-      "titleEn": "Optimum Receives Notice From NYSE Regarding Continued Listing Standard",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814263358/en/Optimum-Receives-Notice-From-NYSE-Regarding-Continued-Listing-Standard/",
       "published": null
     }
   ]
