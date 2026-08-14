@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-14T02:42:05.870544Z",
+  "generatedAt": "2026-08-14T04:27:42.694087Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:313bfc2e3fab0665",
+      "titleEn": "Applied Materials beat Wall Street and raised guidance, so why did the stock fall 6%?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/14/applied-materials-beat-wall-street-and-raised-guidance-so-why-did-the-stock-fall-6/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1ce2ef1dae5addb5",
+      "titleEn": "SoftBank jumps 5% as Nikkei rallies, but BOJ could spoil the party",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/14/softbank-jumps-5-as-nikkei-rallies-but-boj-could-spoil-the-party/",
+      "published": null
+    },
     {
       "id": "stockanalysis:a2b3c957ead0833d",
       "titleEn": "Citi Plans to Acquire Kard to Deliver More Personalized Rewards",
@@ -64,15 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-13/cooler-cpi-and-ppi-boost-gold-and-ease-rate-hike-bets-fed-needs-more-core",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c7394d7eeab87ea4",
-      "titleEn": "Global Sales of Pokémon Pokopia for Nintendo Switch 2 Surpass 5 Million Units",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260813580796/en/Global-Sales-of-Pok%C3%A9mon-Pokopia-for-Nintendo-Switch-2-Surpass-5-Million-Units/",
       "published": null
     }
   ]
