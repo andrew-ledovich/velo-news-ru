@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-15T12:15:22.465733Z",
+  "generatedAt": "2026-08-15T13:04:34.253766Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:bd082715e4f42627",
@@ -82,15 +82,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.pymnts.com/news/banking/2026/jpmorgan-cut-polymarket-banking-ties-over-regulatory-concerns/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3119ef1db0304ca2",
-      "titleEn": "Klarna stock has crawled back ahead of earnings: buy, sell, or hold?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/14/klarna-stock-has-crawled-back-ahead-of-earnings-buy-sell-or-hold/",
       "published": null
     },
     {
