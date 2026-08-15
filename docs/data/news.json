@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T03:02:19.908599Z",
+  "generatedAt": "2026-08-15T03:51:17.543053Z",
   "sourceCount": 1,
   "count": 14,
   "items": [
@@ -85,6 +85,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:4737792e330038fe",
+      "titleEn": "Investcorp Credit Management BDC, Inc. Announces Financial Results for the Quarter Ended June 30, 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260814254036/en/Investcorp-Credit-Management-BDC-Inc.-Announces-Financial-Results-for-the-Quarter-Ended-June-30-2026/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:032a01f290cdb6e5",
       "titleEn": "T-Mobile Activates T-Satellite and Mobilizes Network Teams as Tropical Storm Lala Approaches Hawaiʻi",
       "summaryEn": null,
@@ -118,15 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260814891957/en/WEBs-Investments-Inc.-Announces-Intention-to-Close-11-Defined-Volatility-Sector-ETFs/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4af3b093876af5d4",
-      "titleEn": "Gold Reserve Provides Update on Its Litigation and Arbitration Proceedings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814490010/en/Gold-Reserve-Provides-Update-on-Its-Litigation-and-Arbitration-Proceedings/",
       "published": null
     }
   ]
