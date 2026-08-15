@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-15T23:10:35.471994Z",
+  "generatedAt": "2026-08-15T23:32:30.004799Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:bd082715e4f42627",
@@ -73,6 +73,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/14/why-sandisk-stock-is-surging-6-today-making-30-gains-in-this-week/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c21162092d25fab6",
+      "titleEn": "JPMorgan Cut Polymarket Banking Ties Over Regulatory Concerns",
+      "summaryEn": "Regulatory concerns drove JPMorgan Chase to end its banking relationship with prediction market Polymarket last year, the Financial Times reported Friday (Aug. 14), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Polymarket is now working with a new lender after JPMorgan Chase told the company in October 2025 that it needed to find a new bank, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.pymnts.com/news/banking/2026/jpmorgan-cut-polymarket-banking-ties-over-regulatory-concerns/",
       "published": null
     },
     {
