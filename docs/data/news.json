@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-15T11:54:22.956256Z",
+  "generatedAt": "2026-08-15T12:15:22.465733Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 15,
   "items": [
     {
       "id": "stockanalysis:bd082715e4f42627",
@@ -91,15 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/14/klarna-stock-has-crawled-back-ahead-of-earnings-buy-sell-or-hold/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c14d8240475eeeb8",
-      "titleEn": "NU stock: why Q2 earnings may have unlocked further upside",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/14/nu-stock-why-q2-earnings-may-have-unlocked-further-upside/",
       "published": null
     },
     {
