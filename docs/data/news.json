@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-15T11:32:46.274897Z",
+  "generatedAt": "2026-08-15T11:54:22.956256Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:bd082715e4f42627",
+      "titleEn": "Behind OpenAI's exits and hires as it ramps up enterprise growth ahead of IPO",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/15/behind-openais-exits-and-hires-as-it-ramps-up-enterprise-growth-ahead-of-ipo/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d77fbdaf87f825bf",
+      "titleEn": "Nvidia's AI financing push raises new questions over market leverage",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/15/nvidias-500b-ai-funding-plan-puts-leverage-in-the-spotlight/",
+      "published": null
+    },
     {
       "id": "stockanalysis:fde83824e4c835dc",
       "titleEn": "Wall Street goes full-bull on gold as rate-hike bets recede, Main Street maintains bullish majority with Fed minutes on the menu",
