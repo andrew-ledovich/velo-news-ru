@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-15T13:04:34.253766Z",
+  "generatedAt": "2026-08-15T13:40:49.086199Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:bd082715e4f42627",
@@ -118,15 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260814426618/en/HTZ-Stockholders-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-Hertz-Global-Holdings-Inc.-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2f183853125234ce",
-      "titleEn": "WEBs Investments Inc. Announces Intention to Close 11 Defined Volatility Sector ETFs",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814891957/en/WEBs-Investments-Inc.-Announces-Intention-to-Close-11-Defined-Volatility-Sector-ETFs/",
       "published": null
     }
   ]
