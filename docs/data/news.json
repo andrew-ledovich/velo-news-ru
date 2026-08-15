@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-14T23:57:30.480665Z",
+  "generatedAt": "2026-08-15T00:57:12.631003Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:fde83824e4c835dc",
@@ -85,21 +85,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:0bc21e434df1f164",
-      "titleEn": "SCHD ETF just hit a record high: Here's why DIVB is a better buy",
+      "id": "stockanalysis:032a01f290cdb6e5",
+      "titleEn": "T-Mobile Activates T-Satellite and Mobilizes Network Teams as Tropical Storm Lala Approaches Hawaiʻi",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/14/schd-etf-just-hit-a-record-high-heres-why-divb-is-a-better-buy/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d5a2772573ff2bce",
-      "titleEn": "Micron stock jumps as this analyst sees $3T valuation on AI memory boom",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/14/micron-stock-jumps-as-this-analyst-sees-3t-valuation-on-ai-memory-boom/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260814752392/en/T-Mobile-Activates-T-Satellite-and-Mobilizes-Network-Teams-as-Tropical-Storm-Lala-Approaches-Hawai%CA%BBi/",
       "published": null
     },
     {
