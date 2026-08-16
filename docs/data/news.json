@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T23:54:29.499257Z",
+  "generatedAt": "2026-08-16T00:36:34.696236Z",
   "sourceCount": 1,
   "count": 13,
   "items": [
@@ -33,7 +33,7 @@
     {
       "id": "stockanalysis:7516cb608d0f8d94",
       "titleEn": "PayPal Discussing Sale to Stripe After Rejecting First Offer",
-      "summaryEn": "PayPal Holdings is in talks with a group that includes Stripe and Advent International , negotiating to sell itself at a price potentially higher than the one the companies offered in July, The Wall Street Journal (WSJ) reported Friday (Aug. 14), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The two sides have been negotiating since July, when Stripe and Advent proposed buying PayPal at a price that the company later said was insufficient, according to the report.",
+      "summaryEn": "PayPal Holdings is in talks with a group that includes Stripe and Advent International, negotiating to sell itself at a price potentially higher than the one the companies offered in July, The Wall Street Journal (WSJ) reported Friday (Aug. 14), citing unnamed sources. The two sides have been negotiating since July, when Stripe and Advent proposed buying PayPal at a price that the company later said was insufficient, according to the report. A deal could come together within weeks, although there is no guarantee the parties will reach an agreement, the report said. Reached by PYMNTS, a PayPal spokesperson declined to comment on the report, and a Stripe spokesperson said Stripe does not comment on rumors or speculation.",
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.pymnts.com/news/acquiring/2026/paypal-discussing-sale-stripe-after-rejecting-first-offer/",
@@ -78,7 +78,7 @@
     {
       "id": "stockanalysis:c21162092d25fab6",
       "titleEn": "JPMorgan Cut Polymarket Banking Ties Over Regulatory Concerns",
-      "summaryEn": "Regulatory concerns drove JPMorgan Chase to end its banking relationship with prediction market Polymarket last year, the Financial Times reported Friday (Aug. 14), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Polymarket is now working with a new lender after JPMorgan Chase told the company in October 2025 that it needed to find a new bank, according to the report.",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.pymnts.com/news/banking/2026/jpmorgan-cut-polymarket-banking-ties-over-regulatory-concerns/",
