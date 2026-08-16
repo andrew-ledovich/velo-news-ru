@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-16T05:58:50.169539Z",
+  "generatedAt": "2026-08-16T06:36:55.973289Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:bd082715e4f42627",
@@ -64,15 +64,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-14/gold-looks-fed-minutes-housing-pmi-data-direction-next-week",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c230b9e56e0f958a",
-      "titleEn": "Why SanDisk stock is surging 6% today, making 30%+ gains in this week",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/14/why-sandisk-stock-is-surging-6-today-making-30-gains-in-this-week/",
       "published": null
     },
     {
