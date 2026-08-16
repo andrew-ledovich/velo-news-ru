@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-16T14:59:32.848507Z",
+  "generatedAt": "2026-08-16T15:22:09.766712Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 9,
   "items": [
     {
       "id": "stockanalysis:bd082715e4f42627",
@@ -55,15 +55,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/14/intuitive-machines-stock-jumps-8-as-wall-street-backs-1-8b-backlog/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1b129e7832d8dc69",
-      "titleEn": "Gold looks to Fed minutes, housing, PMI data for direction next week",
-      "summaryEn": "(Kitco News) – Gold and silver head into the coming week with investors focused on the health of the U.S. economy and the Federal Reserve&#x27;s interest-rate outlook, as manufacturing, housing and central bank signals could drive volatility across precious metals markets. Bullion prices gained ground this week as softer U.S. inflation and consumer spending data reduced expectations for another Federal Reserve rate hike, with gold reaching its highest level since June 5, while silver was trading above $64 an ounce on Friday. Markets were pricing roughly a 31% chance of a September rate hike, down from around 55% a week earlier. The coming week&#x27;s data will offer another look at U.S. manufacturing and housing activity, while Wednesday&#x27;s FOMC minutes could provide the clearest indication of how policymakers are weighing persistent inflation against signs of slowing economic growth.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-14/gold-looks-fed-minutes-housing-pmi-data-direction-next-week",
       "published": null
     },
     {
