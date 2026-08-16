@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-16T13:06:39.579113Z",
+  "generatedAt": "2026-08-16T13:41:41.590175Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:bd082715e4f42627",
@@ -91,15 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260814325066/en/RXT-Stockholders-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-Rackspace-Technology-Inc.-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cac5f8da7ae9949a",
-      "titleEn": "HTZ Stockholders Have Rights – If You Lost Money Investing in Hertz Global Holdings, Inc. Contact Robbins LLP for Information About Recovering Your Losses",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814426618/en/HTZ-Stockholders-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-Hertz-Global-Holdings-Inc.-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
       "published": null
     }
   ]
