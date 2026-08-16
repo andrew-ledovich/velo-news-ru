@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T20:35:11.321932Z",
+  "generatedAt": "2026-08-16T20:55:52.317887Z",
   "sourceCount": 1,
   "count": 9,
   "items": [
@@ -58,6 +58,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:b7c32f7fe383d7c6",
+      "titleEn": "WDAY Investors Have Opportunity to Join Workday, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260816168737/en/WDAY-Investors-Have-Opportunity-to-Join-Workday-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:f5a16c8418a3e251",
       "titleEn": "ComEd Restores Power to 99% of Customers Impacted by Aug. 11-12 Storms",
       "summaryEn": null,
@@ -73,15 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260814254036/en/Investcorp-Credit-Management-BDC-Inc.-Announces-Financial-Results-for-the-Quarter-Ended-June-30-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:032a01f290cdb6e5",
-      "titleEn": "T-Mobile Activates T-Satellite and Mobilizes Network Teams as Tropical Storm Lala Approaches Hawaiʻi",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814752392/en/T-Mobile-Activates-T-Satellite-and-Mobilizes-Network-Teams-as-Tropical-Storm-Lala-Approaches-Hawai%CA%BBi/",
       "published": null
     }
   ]
