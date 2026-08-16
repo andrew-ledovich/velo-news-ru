@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T13:41:41.590175Z",
+  "generatedAt": "2026-08-16T13:58:20.932729Z",
   "sourceCount": 1,
   "count": 10,
   "items": [
@@ -67,6 +67,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:f5a16c8418a3e251",
+      "titleEn": "ComEd Restores Power to 99% of Customers Impacted by Aug. 11-12 Storms",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260815249632/en/ComEd-Restores-Power-to-99-of-Customers-Impacted-by-Aug.-11-12-Storms/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:4737792e330038fe",
       "titleEn": "Investcorp Credit Management BDC, Inc. Announces Financial Results for the Quarter Ended June 30, 2026",
       "summaryEn": null,
@@ -82,15 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260814752392/en/T-Mobile-Activates-T-Satellite-and-Mobilizes-Network-Teams-as-Tropical-Storm-Lala-Approaches-Hawai%CA%BBi/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:64d1403e92ec572d",
-      "titleEn": "RXT Stockholders Have Rights – If You Lost Money Investing in Rackspace Technology, Inc. Contact Robbins LLP for Information About Recovering Your Losses",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814325066/en/RXT-Stockholders-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-Rackspace-Technology-Inc.-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
       "published": null
     }
   ]
