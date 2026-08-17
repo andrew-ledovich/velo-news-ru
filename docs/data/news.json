@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-17T06:39:35.007076Z",
+  "generatedAt": "2026-08-17T07:37:22.693217Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:fbe1fe5ae9f18271",
+      "titleEn": "Nvidia, Alphabet, Harvard disclose SpaceX stakes: here's what they're worth",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/nvidia-alphabet-harvard-disclose-spacex-stakes-heres-what-theyre-worth/",
+      "published": null
+    },
     {
       "id": "stockanalysis:9b423eb282cc0f0e",
       "titleEn": "Peter Thiel makes Amazon his top stock: what he bought next is more revealing",
@@ -103,12 +112,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:8548e21d9318164f",
-      "titleEn": "T-Mobile Expands Network Recovery and Customer Support Across Hawaiʻi Following Hurricane Lala",
+      "id": "stockanalysis:ba930c924025084b",
+      "titleEn": "Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Record Q2 Revenue, EAI Robotics Entering a Phase of Positive-Gross-Margin Volume Growth, and Accelerated Debt Reduction",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260816228633/en/T-Mobile-Expands-Network-Recovery-and-Customer-Support-Across-Hawai%CA%BBi-Following-Hurricane-Lala/",
+      "link": "https://www.businesswire.com/news/home/20260817945555/en/Faraday-Future-Founder-and-Global-CEO-YT-Jia-Shares-Weekly-Investor-Update-Record-Q2-Revenue-EAI-Robotics-Entering-a-Phase-of-Positive-Gross-Margin-Volume-Growth-and-Accelerated-Debt-Reduction/",
       "published": null
     }
   ]
