@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-17T20:19:13.482859Z",
+  "generatedAt": "2026-08-17T20:49:53.860156Z",
   "sourceCount": 1,
-  "count": 22,
+  "count": 20,
   "items": [
+    {
+      "id": "stockanalysis:5eb512390b80f08a",
+      "titleEn": "‘Gold has been in a bull market for 25 Years' – Morgan Stanley CIO Wilson",
+      "summaryEn": "(Kitco News) – Gold and other commodities are ideally suited to environments where the 6040 portfolio is not delivering the performance and security it once did, and the yellow metal has actually been in a quarter-century bull market, according to Mike Wilson, chief US equity strategist and CIO at Morgan Stanley. In an interview with Bloomberg TV on Friday, Wilson was asked about the challenges to classic portfolio construction in the wake of the 2022 downturn. “The really challenging thing of 2022 for retirees is that stocks and bonds went down for the first time really in our lifetimes, so there was no hedge,” he said. “Even though the decline in equities wasn&#x27;t as severe as it was in 2008, or 2001-2002, your 60/40 portfolio was down the same. That was a change, and that was one of the things that made investors apprehensive to step in. It was like, ‘holy smokes, I&#x27;m getting hit both on my defensive stuff and on the offensive part of my portfolio!’ I think people froze up.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-17/gold-has-been-bull-market-25-years-morgan-stanley-cio-wilson",
+      "published": null
+    },
     {
       "id": "stockanalysis:d7453a3c3afcb661",
       "titleEn": "S&amp;P 500 year-end prediction: Evercore ISI now sees 9,000 as realistic",
@@ -148,57 +157,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:0ecec422d80eb4aa",
-      "titleEn": "AMD stock forms a rare bullish pattern as valuation concerns persist",
+      "id": "stockanalysis:d08366518e508262",
+      "titleEn": "MaxLinear, Inc. Announces Upcoming Financial Conference Participation",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/amd-stock-forms-a-rare-bullish-pattern-as-valuation-concerns-persist/",
+      "link": "https://www.businesswire.com/news/home/20260817742646/en/MaxLinear-Inc.-Announces-Upcoming-Financial-Conference-Participation/",
       "published": null
     },
     {
-      "id": "stockanalysis:83221b399534eb0d",
-      "titleEn": "Alibaba stock rises on report Lingxi Games to be sold for $2B",
+      "id": "stockanalysis:419324744d9a5cd3",
+      "titleEn": "Kevin Jones named President of Deluxe Merchant Services",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/alibaba-stock-rises-on-report-lingxi-games-to-be-sold-for-2b/",
+      "link": "https://www.businesswire.com/news/home/20260817475126/en/Kevin-Jones-named-President-of-Deluxe-Merchant-Services/",
       "published": null
     },
     {
-      "id": "stockanalysis:8290b321c67782e9",
-      "titleEn": "Flexsteel Industries, Inc. Reports Fourth Quarter and Fiscal Year 2026 Results; Continued Net Sales Growth and Record Diluted Earnings Per Share",
+      "id": "stockanalysis:6915aeb95e548bfd",
+      "titleEn": "OFS Credit Company Declares September and October Monthly Common Stock Cash Distributions",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817174816/en/Flexsteel-Industries-Inc.-Reports-Fourth-Quarter-and-Fiscal-Year-2026-Results-Continued-Net-Sales-Growth-and-Record-Diluted-Earnings-Per-Share/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fc6e5bd97fecab4b",
-      "titleEn": "Round Hill Music Files Copyright Infringement Lawsuits Against Suno and Anthropic",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260817457724/en/Round-Hill-Music-Files-Copyright-Infringement-Lawsuits-Against-Suno-and-Anthropic/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7fcd404043300ae5",
-      "titleEn": "Banner Corporation and Pacific Financial Corporation Set Closing Date for Merger",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817324749/en/Banner-Corporation-and-Pacific-Financial-Corporation-Set-Closing-Date-for-Merger/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:83a74796f908b2bc",
-      "titleEn": "XP Inc. Reports Second Quarter 2026 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817593369/en/XP-Inc.-Reports-Second-Quarter-2026-Results/",
+      "link": "https://www.businesswire.com/news/home/20260817898784/en/OFS-Credit-Company-Declares-September-and-October-Monthly-Common-Stock-Cash-Distributions/",
       "published": null
     }
   ]
