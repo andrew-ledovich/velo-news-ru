@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-17T13:52:07.347123Z",
+  "generatedAt": "2026-08-17T14:16:37.199764Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 20,
   "items": [
+    {
+      "id": "stockanalysis:0ecec422d80eb4aa",
+      "titleEn": "AMD stock forms a rare bullish pattern as valuation concerns persist",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/amd-stock-forms-a-rare-bullish-pattern-as-valuation-concerns-persist/",
+      "published": null
+    },
     {
       "id": "stockanalysis:83221b399534eb0d",
       "titleEn": "Alibaba stock rises on report Lingxi Games to be sold for $2B",
@@ -121,21 +130,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:548d6d0fd16f181c",
-      "titleEn": "Samsung, SK Hynix face fresh repricing after SanDisk's stunning 80% forecast",
+      "id": "stockanalysis:b29866f7bac5e8fc",
+      "titleEn": "PENN Entertainment Announces Plans to Relocate Boomtown Casino New Orleans Riverboat and Construct New $195 Million Landside Hollywood Casino New Orleans",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/samsung-sk-hynix-face-fresh-repricing-after-sandisks-stunning-80-forecast/",
+      "link": "https://www.businesswire.com/news/home/20260817147848/en/PENN-Entertainment-Announces-Plans-to-Relocate-Boomtown-Casino-New-Orleans-Riverboat-and-Construct-New-195-Million-Landside-Hollywood-Casino-New-Orleans/",
       "published": null
     },
     {
-      "id": "stockanalysis:c1d3499d5103e28d",
-      "titleEn": "Kospi Index rebound gains momentum: What's driving it and what happens next",
+      "id": "stockanalysis:f606efa1ae5bd814",
+      "titleEn": "Arrow Electronics adds seven countries to distribution coverage with IBM",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/kospi-index-rebound-gains-momentum-whats-driving-it-and-what-happens-next/",
+      "link": "https://www.businesswire.com/news/home/20260817909280/en/Arrow-Electronics-adds-seven-countries-to-distribution-coverage-with-IBM/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:17e490eaef75241e",
+      "titleEn": "Gold Reserve Joyously Announces the Release of José Ignacio Moreno Suárez After Three Years of Imprisonment",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817727349/en/Gold-Reserve-Joyously-Announces-the-Release-of-Jos%C3%A9-Ignacio-Moreno-Su%C3%A1rez-After-Three-Years-of-Imprisonment/",
       "published": null
     },
     {
@@ -148,21 +166,21 @@
       "published": null
     },
     {
+      "id": "stockanalysis:46c50e2909e46c57",
+      "titleEn": "Perfect Moment Reports Fiscal Q1 2027 Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817081150/en/Perfect-Moment-Reports-Fiscal-Q1-2027-Results/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:915d18651af585a8",
       "titleEn": "People Living with Familial Chylomicronaemia Syndrome (FCS) in Germany Have Access to REDEMPLO® (plozasiran) as a New Treatment Option to Reduce Triglycerides",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260817112075/en/People-Living-with-Familial-Chylomicronaemia-Syndrome-FCS-in-Germany-Have-Access-to-REDEMPLO%C2%AE-plozasiran-as-a-New-Treatment-Option-to-Reduce-Triglycerides/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f42f79fd6d7eb24f",
-      "titleEn": "Northern Trust Asset Management Brings Its FlexShares ETFs Under the Northern Trust Brand",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814976460/en/Northern-Trust-Asset-Management-Brings-Its-FlexShares-ETFs-Under-the-Northern-Trust-Brand/",
       "published": null
     }
   ]
