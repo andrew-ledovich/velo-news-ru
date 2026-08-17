@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-17T14:16:37.199764Z",
+  "generatedAt": "2026-08-17T14:50:29.898372Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:d1fedf4a5ba6e152",
+      "titleEn": "Stripe Finalizes $7 Billion Deal for AI Firm OpenRouter",
+      "summaryEn": "Stripe has reportedly finalized its bid to acquire OpenRouter , an artificial intelligence (AI) startup. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The payments processor will pay more than $7 billion for the purchase, Bloomberg News reported Sunday (Aug. 16), citing sources familiar with the matter.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/stripe-finalizes-7-billion-deal-for-ai-firm-openrouter/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ad4132d1d8b2a2e4",
+      "titleEn": "Strategy (MSTR) stock rises 3% as company raises $333M through share sale",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/strategy-mstr-stock-rises-3-as-company-raises-333m-through-share-sale/",
+      "published": null
+    },
     {
       "id": "stockanalysis:0ecec422d80eb4aa",
       "titleEn": "AMD stock forms a rare bullish pattern as valuation concerns persist",
@@ -112,21 +130,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:3779329e21f96ac5",
-      "titleEn": "Intel eyes a memory comeback: why the timing matters for Micron stock",
+      "id": "stockanalysis:d077ca36f3b8dd40",
+      "titleEn": "CDB Aviation Delivers Three Airbus A321neos to Jet2",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/intel-eyes-a-memory-comeback-why-the-timing-matters-for-micron-stock/",
+      "link": "https://www.businesswire.com/news/home/20260812570327/en/CDB-Aviation-Delivers-Three-Airbus-A321neos-to-Jet2/",
       "published": null
     },
     {
-      "id": "stockanalysis:299d67b4b269a952",
-      "titleEn": "Hang Seng: Bullish flag emerges ahead of Shein IPO, Baidu and Alibaba earnings",
+      "id": "stockanalysis:d29782c50f71027f",
+      "titleEn": "TransMedics Group Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of TransMedics Group, Inc. - TMDX",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/hang-seng-bullish-flag-emerges-ahead-of-shein-ipo-baidu-and-alibaba-earnings/",
+      "link": "https://www.businesswire.com/news/home/20260817649788/en/TransMedics-Group-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-TransMedics-Group-Inc.---TMDX/",
       "published": null
     },
     {
@@ -154,33 +172,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260817727349/en/Gold-Reserve-Joyously-Announces-the-Release-of-Jos%C3%A9-Ignacio-Moreno-Su%C3%A1rez-After-Three-Years-of-Imprisonment/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:49a1849eb302f804",
-      "titleEn": "Mobix Labs Guides Q4 Revenue Up Approximately 100% Sequentially at Midpoint",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817633687/en/Mobix-Labs-Guides-Q4-Revenue-Up-Approximately-100-Sequentially-at-Midpoint/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:46c50e2909e46c57",
-      "titleEn": "Perfect Moment Reports Fiscal Q1 2027 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817081150/en/Perfect-Moment-Reports-Fiscal-Q1-2027-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:915d18651af585a8",
-      "titleEn": "People Living with Familial Chylomicronaemia Syndrome (FCS) in Germany Have Access to REDEMPLO® (plozasiran) as a New Treatment Option to Reduce Triglycerides",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817112075/en/People-Living-with-Familial-Chylomicronaemia-Syndrome-FCS-in-Germany-Have-Access-to-REDEMPLO%C2%AE-plozasiran-as-a-New-Treatment-Option-to-Reduce-Triglycerides/",
       "published": null
     }
   ]
