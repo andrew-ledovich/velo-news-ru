@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-17T12:19:24.750493Z",
+  "generatedAt": "2026-08-17T13:13:00.656670Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:96fd93f29c9cf20e",
+      "titleEn": "Spot gold trades below $4,380/oz after New York manufacturing index surprises with rise to 20.6",
+      "summaryEn": "(Kitco News) - Gold prices were coming off their earlier session highs after manufacturing activity in the New York region rose further into expansionary territory this month, according to the latest data published by the New York Federal Reserve. The regional central bank announced on Monday that its Empire State manufacturing survey improved to 20.6 in August, its highest reading in over four years, after posting a 15.6 print in July. The data was better than expectations, as consensus forecasts called for a decline to 10.2. “New orders and shipments posted solid gains,” the report said. “Unfilled orders increased notably, delivery times lengthened substantially, and inventories declined. Supply availability continued to worsen. Employment levels and the average workweek rose modestly. The pace of input price increases picked up, and selling price increases remained elevated but eased for a second consecutive month. Looking ahead, firms maintained an optimistic outlook for business activity.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-17/spot-gold-trades-below-4380oz-after-new-york-manufacturing-index-surprises",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5c9f4c137165b18c",
+      "titleEn": "Apple stock upgraded to Buy with $400 PT as foldable iPhone fuels bullish outlook",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/apple-stock-upgraded-to-buy-with-400-pt-as-foldable-iphone-fuels-bullish-outlook/",
+      "published": null
+    },
     {
       "id": "stockanalysis:66ec4929bcce61a8",
       "titleEn": "AVAV stock double bottoms as AeroVironment earnings loom",
@@ -100,15 +118,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-touts-14-fold-jump-in-revenue-for-would-be-investors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3dfbdd1a32a145c5",
-      "titleEn": "Veradigm to Participate in Two Upcoming Investor Conferences",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817422473/en/Veradigm-to-Participate-in-Two-Upcoming-Investor-Conferences/",
       "published": null
     }
   ]
