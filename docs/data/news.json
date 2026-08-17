@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-17T03:59:16.772609Z",
+  "generatedAt": "2026-08-17T04:41:25.776139Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:3779329e21f96ac5",
+      "titleEn": "Intel eyes a memory comeback: why the timing matters for Micron stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/intel-eyes-a-memory-comeback-why-the-timing-matters-for-micron-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:299d67b4b269a952",
+      "titleEn": "Hang Seng: Bullish flag emerges ahead of Shein IPO, Baidu and Alibaba earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/hang-seng-bullish-flag-emerges-ahead-of-shein-ipo-baidu-and-alibaba-earnings/",
+      "published": null
+    },
     {
       "id": "stockanalysis:548d6d0fd16f181c",
       "titleEn": "Samsung, SK Hynix face fresh repricing after SanDisk's stunning 80% forecast",
@@ -76,12 +94,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:3d5d7b41f7463256",
-      "titleEn": "Gold, silver rise as weak retail sales cut Fed-hike odds - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in late-afternoon U.S. trading Friday, as a weaker U.S. dollar and reduced Federal Reserve rate-hike expectations outweighed firmer Treasury yields tied to renewed oil-market risk. At the time of writing, spot gold was trading near $4,373.50 an ounce, up 0.53%, while spot silver was trading at $64.530, up 0.32% on the session. North American equity markets closed slightly lower after touching record territory earlier in the week. The S&P 500 fell 0.2% to 7,785.76, the Dow Jones Industrial Average lost 0.2% to 53,732.41, the Nasdaq Composite slipped 0.3% to 26,729.16 and the Russell 2000 rose 0.5% to 3,068.42. European markets finished mixed. The CAC 40 fell 0.16% to 8,636.80, the FTSE 100 lost 0.21% to 10,750.11, Germany’s DAX gained 0.51% and the Stoxx 600 declined 0.21%. The latest positioning remains split between weaker U.S. growth data and oil-driven inflation risk. July retail sales fell 0.6%, against expectations for a 0.1% increase , while the University of Michigan’s preliminary August consumer-sentiment index fell to 51.0 from 55.2. The retail-sales miss, Wednesday’s cooler CPI and Thursday’s flat headline PPI pushed the market-implied probability of a September Fed rate hike down near 29%, from about 34% Thursday night. The rate relief supported gold through the dollar channel, but the 10-year Treasury yield still finished near the 4.7% area as crude oil rose and traders looked ahead to the August employment and inflation reports that will arrive before the September Fed meeting.",
+      "id": "stockanalysis:8548e21d9318164f",
+      "titleEn": "T-Mobile Expands Network Recovery and Customer Support Across Hawaiʻi Following Hurricane Lala",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-14/gold-silver-rise-weak-retail-sales-cut-fed-hike-odds-kitco-pm-report",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260816228633/en/T-Mobile-Expands-Network-Recovery-and-Customer-Support-Across-Hawai%CA%BBi-Following-Hurricane-Lala/",
       "published": null
     },
     {
@@ -127,15 +145,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260816615097/en/NABL-Investors-Have-Opportunity-to-Join-N-able-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b7c32f7fe383d7c6",
-      "titleEn": "WDAY Investors Have Opportunity to Join Workday, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260816168737/en/WDAY-Investors-Have-Opportunity-to-Join-Workday-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
