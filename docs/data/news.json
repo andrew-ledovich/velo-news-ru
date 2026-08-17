@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T22:12:32.726473Z",
+  "generatedAt": "2026-08-17T22:39:12.541446Z",
   "sourceCount": 1,
-  "count": 23,
+  "count": 22,
   "items": [
     {
       "id": "stockanalysis:448798ac86bfe3fd",
@@ -148,12 +148,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:bb80a10f875a8aed",
-      "titleEn": "Why is SpaceX stock rallying today?",
+      "id": "stockanalysis:59c8933ad55da202",
+      "titleEn": "Statement From Kerlan Jobe Orthopaedic (KJOC) President Daniel Kharazzi Regarding the Passing of Pitching Great Tommy John",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/why-is-spacex-stock-rallying-today/",
+      "link": "https://www.businesswire.com/news/home/20260817701052/en/Statement-From-Kerlan-Jobe-Orthopaedic-KJOC-President-Daniel-Kharazzi-Regarding-the-Passing-of-Pitching-Great-Tommy-John/",
       "published": null
     },
     {
@@ -199,15 +199,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.businesswire.com/news/home/20260817683935/en/Gold-Reserve-Successfully-Overcomes-Rusoro-Mining-Ltd.%E2%80%99s-Motion-to-Dismiss-in-Court-of-Chancery-Proceedings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:842405e9daf407bc",
-      "titleEn": "RioCan Real Estate Investment Trust Announces August 2026 Distribution",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817486414/en/RioCan-Real-Estate-Investment-Trust-Announces-August-2026-Distribution/",
       "published": null
     }
   ]
