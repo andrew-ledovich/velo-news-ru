@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-17T14:50:29.898372Z",
+  "generatedAt": "2026-08-17T15:14:53.531759Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:3a82e89411ccc4c4",
+      "titleEn": "Albertsons AI Assistants Drive Immediate 26% Basket Growth Among Early Adopters",
+      "summaryEn": "Grocery retailer Albertsons Companies found that the customers who begin using its artificial intelligence-powered online shopping experience make larger purchases almost immediately, Jill Pavlovich , senior vice president of digital shopping experiences at Albertsons, told The Wall Street Journal in a report published Monday (Aug. 17). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Albertsons has seen the average order value of these customers increase 10% when they use the company’s conversational search and 26% when they use its more comprehensive assistants that find recipes and ingredients that match their dietary preferences, Pavlovich said in the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/albertsons-ai-assistants-drive-immediate-26percent-basket-growth-among-early-adopters/",
+      "published": null
+    },
     {
       "id": "stockanalysis:d1fedf4a5ba6e152",
       "titleEn": "Stripe Finalizes $7 Billion Deal for AI Firm OpenRouter",
@@ -112,24 +121,6 @@
       "published": null
     },
     {
-      "id": "stockanalysis:fbe1fe5ae9f18271",
-      "titleEn": "Nvidia, Alphabet, Harvard disclose SpaceX stakes: here's what they're worth",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/nvidia-alphabet-harvard-disclose-spacex-stakes-heres-what-theyre-worth/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9b423eb282cc0f0e",
-      "titleEn": "Peter Thiel makes Amazon his top stock: what he bought next is more revealing",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/peter-thiel-makes-amazon-his-top-stock-what-he-bought-next-is-more-revealing/",
-      "published": null
-    },
-    {
       "id": "stockanalysis:d077ca36f3b8dd40",
       "titleEn": "CDB Aviation Delivers Three Airbus A321neos to Jet2",
       "summaryEn": null,
@@ -145,33 +136,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260817649788/en/TransMedics-Group-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-TransMedics-Group-Inc.---TMDX/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b29866f7bac5e8fc",
-      "titleEn": "PENN Entertainment Announces Plans to Relocate Boomtown Casino New Orleans Riverboat and Construct New $195 Million Landside Hollywood Casino New Orleans",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817147848/en/PENN-Entertainment-Announces-Plans-to-Relocate-Boomtown-Casino-New-Orleans-Riverboat-and-Construct-New-195-Million-Landside-Hollywood-Casino-New-Orleans/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f606efa1ae5bd814",
-      "titleEn": "Arrow Electronics adds seven countries to distribution coverage with IBM",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817909280/en/Arrow-Electronics-adds-seven-countries-to-distribution-coverage-with-IBM/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:17e490eaef75241e",
-      "titleEn": "Gold Reserve Joyously Announces the Release of José Ignacio Moreno Suárez After Three Years of Imprisonment",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817727349/en/Gold-Reserve-Joyously-Announces-the-Release-of-Jos%C3%A9-Ignacio-Moreno-Su%C3%A1rez-After-Three-Years-of-Imprisonment/",
       "published": null
     }
   ]
