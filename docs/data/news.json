@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T10:20:39.715783Z",
+  "generatedAt": "2026-08-17T10:53:28.547813Z",
   "sourceCount": 1,
   "count": 14,
   "items": [
@@ -112,21 +112,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:fb52a21683d6ee74",
-      "titleEn": "OmniAb Raises 2026 Financial Guidance",
+      "id": "stockanalysis:e920ce3c6ef217e2",
+      "titleEn": "Babcock &amp; Wilcox Enterprises Completes Full Redemption of 2026 Notes",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812634847/en/OmniAb-Raises-2026-Financial-Guidance/",
+      "link": "https://www.businesswire.com/news/home/20260817603594/en/Babcock-Wilcox-Enterprises-Completes-Full-Redemption-of-2026-Notes/",
       "published": null
     },
     {
-      "id": "stockanalysis:33987aa262fca19a",
-      "titleEn": "OmniAb Announces Global Collaboration and License Agreement for Ion Channel Program with Eli Lilly &amp; Company",
+      "id": "stockanalysis:ff612628943bd588",
+      "titleEn": "Trane Technologies and Eaton Collaborate on Industry-First Reference Design to Help Boost AI Data Center Efficiency and Cut Installation Costs",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812350809/en/OmniAb-Announces-Global-Collaboration-and-License-Agreement-for-Ion-Channel-Program-with-Eli-Lilly-Company/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260817861657/en/Trane-Technologies-and-Eaton-Collaborate-on-Industry-First-Reference-Design-to-Help-Boost-AI-Data-Center-Efficiency-and-Cut-Installation-Costs/",
       "published": null
     }
   ]
