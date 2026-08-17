@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T22:39:12.541446Z",
+  "generatedAt": "2026-08-17T22:57:44.216959Z",
   "sourceCount": 1,
-  "count": 22,
+  "count": 20,
   "items": [
     {
       "id": "stockanalysis:448798ac86bfe3fd",
@@ -139,12 +139,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:cebcbaf955b9b5fa",
-      "titleEn": "Nvidia stock is near its record high: what's going on with the AI darling today?",
+      "id": "stockanalysis:3c6249d13b9aa075",
+      "titleEn": "KBRA Assigns Rating to Blue Owl Technology Finance Corp.'s $400 Million Senior Unsecured Notes due 2029",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/17/nvidia-stock-is-near-its-record-high-whats-going-on-with-the-ai-darling-today/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817197990/en/KBRA-Assigns-Rating-to-Blue-Owl-Technology-Finance-Corp.s-400-Million-Senior-Unsecured-Notes-due-2029/",
       "published": null
     },
     {
@@ -166,39 +166,21 @@
       "published": null
     },
     {
+      "id": "stockanalysis:41c1da5a0917de28",
+      "titleEn": "ComEd, Metropolitan Mayors Caucus Award More Than $170,000 for Clean Energy Projects and Public Safety",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817497232/en/ComEd-Metropolitan-Mayors-Caucus-Award-More-Than-170000-for-Clean-Energy-Projects-and-Public-Safety/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:1a32e2b0dcbe4932",
       "titleEn": "Mitek Appoints Aaron Seyler as Chief Revenue Officer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260817725275/en/Mitek-Appoints-Aaron-Seyler-as-Chief-Revenue-Officer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ed06a005d1b69b40",
-      "titleEn": "Bunge Global SA Announces Pricing of $600 Million Senior Notes Offering",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817658073/en/Bunge-Global-SA-Announces-Pricing-of-600-Million-Senior-Notes-Offering/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:68b0bb8abfd8ad29",
-      "titleEn": "BXP Prices $700 Million Offering of Senior Unsecured Notes",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817190625/en/BXP-Prices-700-Million-Offering-of-Senior-Unsecured-Notes/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:22307b0668e784ed",
-      "titleEn": "Gold Reserve Successfully Overcomes Rusoro Mining Ltd.'s Motion to Dismiss in Court of Chancery Proceedings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20260817683935/en/Gold-Reserve-Successfully-Overcomes-Rusoro-Mining-Ltd.%E2%80%99s-Motion-to-Dismiss-in-Court-of-Chancery-Proceedings/",
       "published": null
     }
   ]
