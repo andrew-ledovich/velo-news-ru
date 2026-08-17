@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-17T19:57:13.159470Z",
+  "generatedAt": "2026-08-17T20:19:13.482859Z",
   "sourceCount": 1,
-  "count": 26,
+  "count": 22,
   "items": [
+    {
+      "id": "stockanalysis:d7453a3c3afcb661",
+      "titleEn": "S&amp;P 500 year-end prediction: Evercore ISI now sees 9,000 as realistic",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/sp-500-year-end-prediction-evercore-isi-now-sees-9000-as-realistic/",
+      "published": null
+    },
     {
       "id": "stockanalysis:c36cb83b80766bb7",
       "titleEn": "Datavault AI Plans $94.5 Million CyberCatch Buy to Shield Organizations Against AI Attacks",
@@ -157,84 +166,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c2124370dc31d322",
-      "titleEn": "Gold, silver rise as softer data cuts Fed-hike odds - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Monday, with a softer U.S. dollar and reduced Federal Reserve rate-hike expectations keeping a bid under precious metals despite stronger regional manufacturing data. At the time of writing, spot gold was trading near $4,394.70 an ounce, up 0.44%, while spot silver was trading at $65.430, up 1.32% on the session. The latest positioning still favors a September Fed hold, but this morning’s Empire State survey added a firmer activity and price-pressure signal to an otherwise softer data run . The New York Fed’s general business conditions index rose 5 points to 20.6 in August, its highest reading in more than 4 years, while new orders printed at 17.3, shipments at 11.7 and prices paid rose 6 points to 58.6. That strength follows last week’s weaker July retail sales , softer CPI, flat headline PPI and weaker consumer sentiment, leaving markets with roughly a 30% to 31% probability of a September rate hike. The next rates catalysts are the Fed’s July meeting minutes Wednesday at 2 p.m. ET, housing data and Friday’s flash PMI readings. The Strait of Hormuz remains the main geopolitical channel into oil, inflation expectations and defensive demand. Iran said it is close to finalizing an understanding with Oman on a transit route through the strait, but the U.S. is not part of those talks and continues to demand unrestricted passage. At the same time, the 60-day deadline for a broader U.S.-Iran peace deal is expiring with no compromise in place, while tanker traffic through Hormuz slowed sharply over the weekend. Oil is firmer as the market prices a renewed supply-risk premium, with Brent trading near $89 a barrel and WTI near $83. For gold, the setup remains two-sided: weaker Fed-hike pricing and a softer dollar support the metal, while any further oil spike would keep inflation risk alive and limit the rally through the yields channel.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-17/gold-silver-rise-softer-data-cuts-fed-hike-odds-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f8223cb3b92181ad",
-      "titleEn": "DRAM: Here's why this Micron, SanDisk, Western Digital ETF is soaring",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/17/dram-heres-why-this-micron-sandisk-western-digital-etf-is-soaring/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b174e133fd0a43e1",
-      "titleEn": "CRTO Investors Have Opportunity to Join Criteo S.A. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:8290b321c67782e9",
+      "titleEn": "Flexsteel Industries, Inc. Reports Fourth Quarter and Fiscal Year 2026 Results; Continued Net Sales Growth and Record Diluted Earnings Per Share",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817591706/en/CRTO-Investors-Have-Opportunity-to-Join-Criteo-S.A.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20260817174816/en/Flexsteel-Industries-Inc.-Reports-Fourth-Quarter-and-Fiscal-Year-2026-Results-Continued-Net-Sales-Growth-and-Record-Diluted-Earnings-Per-Share/",
       "published": null
     },
     {
-      "id": "stockanalysis:e66a6474127c8e9f",
-      "titleEn": "Balfour Beatty Communities and U.S. Army Fort Jackson Celebrate Completion of 19 New Homes at Fort Jackson Family Homes",
+      "id": "stockanalysis:fc6e5bd97fecab4b",
+      "titleEn": "Round Hill Music Files Copyright Infringement Lawsuits Against Suno and Anthropic",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817863181/en/Balfour-Beatty-Communities-and-U.S.-Army-Fort-Jackson-Celebrate-Completion-of-19-New-Homes-at-Fort-Jackson-Family-Homes/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260817457724/en/Round-Hill-Music-Files-Copyright-Infringement-Lawsuits-Against-Suno-and-Anthropic/",
       "published": null
     },
     {
-      "id": "stockanalysis:ac2391d9efd0f4c0",
-      "titleEn": "HONA Investors Have Opportunity to Join Honeywell Aerospace Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:7fcd404043300ae5",
+      "titleEn": "Banner Corporation and Pacific Financial Corporation Set Closing Date for Merger",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817285289/en/HONA-Investors-Have-Opportunity-to-Join-Honeywell-Aerospace-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20260817324749/en/Banner-Corporation-and-Pacific-Financial-Corporation-Set-Closing-Date-for-Merger/",
       "published": null
     },
     {
-      "id": "stockanalysis:1f33d795b3928ef4",
-      "titleEn": "TDUP Investors Have Opportunity to Join ThredUp Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:83a74796f908b2bc",
+      "titleEn": "XP Inc. Reports Second Quarter 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817583782/en/TDUP-Investors-Have-Opportunity-to-Join-ThredUp-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5abadfbf1be59073",
-      "titleEn": "Blue Ridge Bankshares, Inc. (BRBS) Investigation: Halper Sadeh LLC Investigates Whether the Proposed Sale of Blue Ridge Bankshares, Inc. Is Fair to Shareholders",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817303602/en/Blue-Ridge-Bankshares-Inc.-BRBS-Investigation-Halper-Sadeh-LLC-Investigates-Whether-the-Proposed-Sale-of-Blue-Ridge-Bankshares-Inc.-Is-Fair-to-Shareholders/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f81e973475410953",
-      "titleEn": "The MolinaCares Accord and Molina Healthcare of Michigan Donate $100,000 to Support Construction of a New Food Kitchen in Saginaw County",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817860216/en/The-MolinaCares-Accord-and-Molina-Healthcare-of-Michigan-Donate-100000-to-Support-Construction-of-a-New-Food-Kitchen-in-Saginaw-County/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1fbf9c0c89a08e67",
-      "titleEn": "JPMorganChase Opens New Two-Story Magnificent Mile Flagship, Bringing Chase, JPMorgan Private Client Together Under One Roof",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817375559/en/JPMorganChase-Opens-New-Two-Story-Magnificent-Mile-Flagship-Bringing-Chase-JPMorgan-Private-Client-Together-Under-One-Roof/",
+      "link": "https://www.businesswire.com/news/home/20260817593369/en/XP-Inc.-Reports-Second-Quarter-2026-Results/",
       "published": null
     }
   ]
