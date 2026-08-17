@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-08-17T15:14:53.531759Z",
+  "generatedAt": "2026-08-17T15:41:12.304265Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:7cf6f85bc26e2f0f",
+      "titleEn": "What's driving Snap stock lower on Monday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/whats-driving-snap-stock-lower-on-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c261499b8b8e6ad3",
+      "titleEn": "Groq Raises $350 Million to Fund AI Inference Goals",
+      "summaryEn": "Artificial intelligence (AI) inference company Groq has raised $350 million in new funding. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The Series A round will help Groq support customers “seeking usage of medium and larger sized clusters of Nvidia accelerated computing for training and inference,” the company said in a news release Monday (Aug. 17).",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/groq-raises-350-million-to-fund-ai-inference-goals/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cebcbaf955b9b5fa",
+      "titleEn": "Nvidia stock is near its record high: what's going on with the AI darling today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/17/nvidia-stock-is-near-its-record-high-whats-going-on-with-the-ai-darling-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bb80a10f875a8aed",
+      "titleEn": "Why is SpaceX stock rallying today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/why-is-spacex-stock-rallying-today/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3a82e89411ccc4c4",
       "titleEn": "Albertsons AI Assistants Drive Immediate 26% Basket Growth Among Early Adopters",
@@ -112,30 +148,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1279b4cc145e58ea",
-      "titleEn": "Nvidia stock faces its next big test: UBS sees one number Wall Street may be missing",
+      "id": "stockanalysis:a9030074e9c7b337",
+      "titleEn": "Global Vitiligo Foundation Applauds Incyte's “Moments of Clarity” Campaign for Elevating Patient Voices and Advancing Vitiligo Awareness",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/nvidia-stock-faces-its-next-big-test-ubs-sees-one-number-wall-street-may-be-missing/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d077ca36f3b8dd40",
-      "titleEn": "CDB Aviation Delivers Three Airbus A321neos to Jet2",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260812570327/en/CDB-Aviation-Delivers-Three-Airbus-A321neos-to-Jet2/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d29782c50f71027f",
-      "titleEn": "TransMedics Group Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of TransMedics Group, Inc. - TMDX",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817649788/en/TransMedics-Group-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-TransMedics-Group-Inc.---TMDX/",
+      "link": "https://www.businesswire.com/news/home/20260817353352/en/Global-Vitiligo-Foundation-Applauds-Incyte%E2%80%99s-%E2%80%9CMoments-of-Clarity%E2%80%9D-Campaign-for-Elevating-Patient-Voices-and-Advancing-Vitiligo-Awareness/",
       "published": null
     }
   ]
