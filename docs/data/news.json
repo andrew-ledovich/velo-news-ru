@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T07:37:22.693217Z",
+  "generatedAt": "2026-08-17T08:22:25.673717Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:fbe1fe5ae9f18271",
@@ -103,12 +103,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:7516cb608d0f8d94",
-      "titleEn": "PayPal Discussing Sale to Stripe After Rejecting First Offer",
-      "summaryEn": "PayPal Holdings is in talks with a group that includes Stripe and Advent International , negotiating to sell itself at a price potentially higher than the one the companies offered in July, The Wall Street Journal (WSJ) reported Friday (Aug. 14), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The two sides have been negotiating since July, when Stripe and Advent proposed buying PayPal at a price that the company later said was insufficient, according to the report.",
+      "id": "stockanalysis:bf855397c1b799d1",
+      "titleEn": "SES Expands into Global Direct-to-Device Services through Strategic Collaboration with Elveo Mobile",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/acquiring/2026/paypal-discussing-sale-stripe-after-rejecting-first-offer/",
+      "link": "https://www.businesswire.com/news/home/20260817674414/en/SES-Expands-into-Global-Direct-to-Device-Services-through-Strategic-Collaboration-with-Elveo-Mobile/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:513199408b7630a2",
+      "titleEn": "SAI Awarded U.S. Patent for Its Visual Language Model, Which Helps Retailers Unlock Store Intelligence and Visibility to Run Their Estates Profitably and Safely",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817252414/en/SAI-Awarded-U.S.-Patent-for-Its-Visual-Language-Model-Which-Helps-Retailers-Unlock-Store-Intelligence-and-Visibility-to-Run-Their-Estates-Profitably-and-Safely/",
       "published": null
     },
     {
