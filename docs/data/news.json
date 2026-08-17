@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T18:21:06.888222Z",
+  "generatedAt": "2026-08-17T19:05:00.720120Z",
   "sourceCount": 1,
   "count": 26,
   "items": [
@@ -184,12 +184,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:66ec4929bcce61a8",
-      "titleEn": "AVAV stock double bottoms as AeroVironment earnings loom",
+      "id": "stockanalysis:0c09f21c579bbdcc",
+      "titleEn": "Payward Joins Anthropic's Project Glasswing",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260817253386/en/Payward-Joins-Anthropic%E2%80%99s-Project-Glasswing/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8e1497ebb8b2f32c",
+      "titleEn": "JBTM Investors Have Opportunity to Join JBT Marel Corporation Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/avav-stock-double-bottoms-as-aerovironment-earnings-loom/",
+      "link": "https://www.businesswire.com/news/home/20260817812500/en/JBTM-Investors-Have-Opportunity-to-Join-JBT-Marel-Corporation-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
@@ -226,15 +235,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260817040731/en/Expedia%E2%80%99s-Fall-Travel-Outlook-Reveals-Shoulder-Season-Pricing-is-Harder-to-Find-This-Year-But-Travelers-Can-Still-Save-on-Select-Getaways/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:dd38514fdf8ea9f0",
-      "titleEn": "Experienced Advisory Team With $160 Million in Assets Joins Ameriprise Financial for Innovative Technology, Advisory Program and Culture",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817776955/en/Experienced-Advisory-Team-With-160-Million-in-Assets-Joins-Ameriprise-Financial-for-Innovative-Technology-Advisory-Program-and-Culture/",
       "published": null
     }
   ]
