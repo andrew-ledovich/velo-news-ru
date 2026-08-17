@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-16T23:53:31.356508Z",
+  "generatedAt": "2026-08-17T00:35:05.975280Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:bd082715e4f42627",
@@ -46,15 +46,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-08-14/gold-silver-rise-weak-retail-sales-cut-fed-hike-odds-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:586bc8372e57c444",
-      "titleEn": "Intuitive Machines stock jumps 8% as Wall Street backs $1.8B backlog",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/14/intuitive-machines-stock-jumps-8-as-wall-street-backs-1-8b-backlog/",
       "published": null
     },
     {
@@ -118,15 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260815249632/en/ComEd-Restores-Power-to-99-of-Customers-Impacted-by-Aug.-11-12-Storms/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4737792e330038fe",
-      "titleEn": "Investcorp Credit Management BDC, Inc. Announces Financial Results for the Quarter Ended June 30, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260814254036/en/Investcorp-Credit-Management-BDC-Inc.-Announces-Financial-Results-for-the-Quarter-Ended-June-30-2026/",
       "published": null
     }
   ]
