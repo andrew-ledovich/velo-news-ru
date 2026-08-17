@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-17T17:50:29.165303Z",
+  "generatedAt": "2026-08-17T18:21:06.888222Z",
   "sourceCount": 1,
-  "count": 24,
+  "count": 26,
   "items": [
+    {
+      "id": "stockanalysis:23332f88c52b0bb3",
+      "titleEn": "Why is Microsoft stock falling 3% today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/why-is-microsoft-stock-falling-3-today/",
+      "published": null
+    },
     {
       "id": "stockanalysis:7feea560743fcb0d",
       "titleEn": "As the Nike stock implodes, is it safe to buy the dip or sell the rip?",
@@ -181,6 +190,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/17/avav-stock-double-bottoms-as-aerovironment-earnings-loom/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7677a83bdb7bd535",
+      "titleEn": "EBS Investors Have Opportunity to Join Emergent BioSolutions Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817756341/en/EBS-Investors-Have-Opportunity-to-Join-Emergent-BioSolutions-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
