@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-17T19:37:47.759957Z",
+  "generatedAt": "2026-08-17T19:57:13.159470Z",
   "sourceCount": 1,
-  "count": 25,
+  "count": 26,
   "items": [
+    {
+      "id": "stockanalysis:c36cb83b80766bb7",
+      "titleEn": "Datavault AI Plans $94.5 Million CyberCatch Buy to Shield Organizations Against AI Attacks",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The proposed transaction will also bring CyberCatch’s AI-enabled continuous compliance and cyber risk mitigation platform into Datavault AI’s Quantum Private Network (QPN) GPU ecosystem, addressing the need for ways to combat fraudsters that are using AI to breach networks as well as the need to prepare for the post-quantum security era, according to the release. Datavault AI’s proposed acquisition of CyberCatch is subject to customary board, stock exchange, and any regulatory and shareholder approvals, the release said.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/datavault-ai-plans-94-million-dollar-cybercatch-buy-shield-organizations-against-ai-attacks/",
+      "published": null
+    },
     {
       "id": "stockanalysis:90238b660952e136",
       "titleEn": "Boeing stock falls 2% today: here's why",
@@ -166,12 +175,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:b9c274002b6bfb5d",
-      "titleEn": "Mizuho names the top 2 REITs worth owning in 2026",
+      "id": "stockanalysis:b174e133fd0a43e1",
+      "titleEn": "CRTO Investors Have Opportunity to Join Criteo S.A. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/mizuho-names-the-top-2-reits-worth-owning-in-2026/",
+      "link": "https://www.businesswire.com/news/home/20260817591706/en/CRTO-Investors-Have-Opportunity-to-Join-Criteo-S.A.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e66a6474127c8e9f",
+      "titleEn": "Balfour Beatty Communities and U.S. Army Fort Jackson Celebrate Completion of 19 New Homes at Fort Jackson Family Homes",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817863181/en/Balfour-Beatty-Communities-and-U.S.-Army-Fort-Jackson-Celebrate-Completion-of-19-New-Homes-at-Fort-Jackson-Family-Homes/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ac2391d9efd0f4c0",
+      "titleEn": "HONA Investors Have Opportunity to Join Honeywell Aerospace Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817285289/en/HONA-Investors-Have-Opportunity-to-Join-Honeywell-Aerospace-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
@@ -208,24 +235,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260817375559/en/JPMorganChase-Opens-New-Two-Story-Magnificent-Mile-Flagship-Bringing-Chase-JPMorgan-Private-Client-Together-Under-One-Roof/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0c09f21c579bbdcc",
-      "titleEn": "Payward Joins Anthropic's Project Glasswing",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260817253386/en/Payward-Joins-Anthropic%E2%80%99s-Project-Glasswing/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8e1497ebb8b2f32c",
-      "titleEn": "JBTM Investors Have Opportunity to Join JBT Marel Corporation Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817812500/en/JBTM-Investors-Have-Opportunity-to-Join-JBT-Marel-Corporation-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
