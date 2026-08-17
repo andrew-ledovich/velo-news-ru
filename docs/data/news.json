@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-17T20:49:53.860156Z",
+  "generatedAt": "2026-08-17T21:15:30.747692Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:7709d4cdb7671241",
+      "titleEn": "UPS Automates 90% of Daily Customs Clearances With AI Agents",
+      "summaryEn": "A package crossing into the United States used to depend on a person to review it, classify and catch any errors, slowing the process with days-long delays at the border. Sorting more packages faster is a warehouse problem. Reviewing them accurately is a judgment problem, and judgment has historically required more people as volume grows. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); UPS has shown how quickly that can change. The United States eliminated its de minimis exemption globally effective Aug. 29, 2025, ending duty-free treatment for shipments valued at $800 or less, under an executive order President Donald Trump signed last July. The change triggered what UPS CEO Carol Tomé called a “ten-fold surge in daily customs entries,” she said on the company’s third-quarter 2025 earnings call.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/delivery/2026/ups-automates-90-of-daily-customs-clearances-with-ai-agents/",
+      "published": null
+    },
     {
       "id": "stockanalysis:5eb512390b80f08a",
       "titleEn": "‘Gold has been in a bull market for 25 Years' – Morgan Stanley CIO Wilson",
@@ -139,48 +148,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:d1fedf4a5ba6e152",
-      "titleEn": "Stripe Finalizes $7 Billion Deal for AI Firm OpenRouter",
-      "summaryEn": "Stripe has reportedly finalized its bid to acquire OpenRouter , an artificial intelligence (AI) startup. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The payments processor will pay more than $7 billion for the purchase, Bloomberg News reported Sunday (Aug. 16), citing sources familiar with the matter.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/stripe-finalizes-7-billion-deal-for-ai-firm-openrouter/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ad4132d1d8b2a2e4",
-      "titleEn": "Strategy (MSTR) stock rises 3% as company raises $333M through share sale",
+      "id": "stockanalysis:842405e9daf407bc",
+      "titleEn": "RioCan Real Estate Investment Trust Announces August 2026 Distribution",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/strategy-mstr-stock-rises-3-as-company-raises-333m-through-share-sale/",
+      "link": "https://www.businesswire.com/news/home/20260817486414/en/RioCan-Real-Estate-Investment-Trust-Announces-August-2026-Distribution/",
       "published": null
     },
     {
-      "id": "stockanalysis:d08366518e508262",
-      "titleEn": "MaxLinear, Inc. Announces Upcoming Financial Conference Participation",
+      "id": "stockanalysis:d6c2137866d2401b",
+      "titleEn": "Granite REIT Declares Distribution for August 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817742646/en/MaxLinear-Inc.-Announces-Upcoming-Financial-Conference-Participation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:419324744d9a5cd3",
-      "titleEn": "Kevin Jones named President of Deluxe Merchant Services",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817475126/en/Kevin-Jones-named-President-of-Deluxe-Merchant-Services/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6915aeb95e548bfd",
-      "titleEn": "OFS Credit Company Declares September and October Monthly Common Stock Cash Distributions",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817898784/en/OFS-Credit-Company-Declares-September-and-October-Monthly-Common-Stock-Cash-Distributions/",
+      "link": "https://www.businesswire.com/news/home/20260817676843/en/Granite-REIT-Declares-Distribution-for-August-2026/",
       "published": null
     }
   ]
