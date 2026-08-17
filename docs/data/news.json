@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-08-17T13:13:00.656670Z",
+  "generatedAt": "2026-08-17T13:52:07.347123Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:83221b399534eb0d",
+      "titleEn": "Alibaba stock rises on report Lingxi Games to be sold for $2B",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/alibaba-stock-rises-on-report-lingxi-games-to-be-sold-for-2b/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c2124370dc31d322",
+      "titleEn": "Gold, silver rise as softer data cuts Fed-hike odds - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Monday, with a softer U.S. dollar and reduced Federal Reserve rate-hike expectations keeping a bid under precious metals despite stronger regional manufacturing data. At the time of writing, spot gold was trading near $4,394.70 an ounce, up 0.44%, while spot silver was trading at $65.430, up 1.32% on the session. The latest positioning still favors a September Fed hold, but this morning’s Empire State survey added a firmer activity and price-pressure signal to an otherwise softer data run . The New York Fed’s general business conditions index rose 5 points to 20.6 in August, its highest reading in more than 4 years, while new orders printed at 17.3, shipments at 11.7 and prices paid rose 6 points to 58.6. That strength follows last week’s weaker July retail sales , softer CPI, flat headline PPI and weaker consumer sentiment, leaving markets with roughly a 30% to 31% probability of a September rate hike. The next rates catalysts are the Fed’s July meeting minutes Wednesday at 2 p.m. ET, housing data and Friday’s flash PMI readings. The Strait of Hormuz remains the main geopolitical channel into oil, inflation expectations and defensive demand. Iran said it is close to finalizing an understanding with Oman on a transit route through the strait, but the U.S. is not part of those talks and continues to demand unrestricted passage. At the same time, the 60-day deadline for a broader U.S.-Iran peace deal is expiring with no compromise in place, while tanker traffic through Hormuz slowed sharply over the weekend. Oil is firmer as the market prices a renewed supply-risk premium, with Brent trading near $89 a barrel and WTI near $83. For gold, the setup remains two-sided: weaker Fed-hike pricing and a softer dollar support the metal, while any further oil spike would keep inflation risk alive and limit the rally through the yields channel.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-17/gold-silver-rise-softer-data-cuts-fed-hike-odds-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f8223cb3b92181ad",
+      "titleEn": "DRAM: Here's why this Micron, SanDisk, Western Digital ETF is soaring",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/17/dram-heres-why-this-micron-sandisk-western-digital-etf-is-soaring/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b9c274002b6bfb5d",
+      "titleEn": "Mizuho names the top 2 REITs worth owning in 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/mizuho-names-the-top-2-reits-worth-owning-in-2026/",
+      "published": null
+    },
     {
       "id": "stockanalysis:96fd93f29c9cf20e",
       "titleEn": "Spot gold trades below $4,380/oz after New York manufacturing index surprises with rise to 20.6",
@@ -103,21 +139,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:26bcaf80e8ce7844",
-      "titleEn": "Alibaba Overtakes Google and Meta With 3 Billion AI Model Downloads",
-      "summaryEn": "Open-weight models from China’s Alibaba have reportedly become the world’s top artificial intelligence offerings. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The company’s models have seen more than 3 billion downloads worldwide over the last six months, surpassing those of Meta , Google and Alibaba’s Chinese competitors like DeepSeek , Bloomberg News reported Saturday (Aug. 15).",
+      "id": "stockanalysis:49a1849eb302f804",
+      "titleEn": "Mobix Labs Guides Q4 Revenue Up Approximately 100% Sequentially at Midpoint",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/alibaba-overtakes-google-and-meta-with-3-billion-ai-model-downloads/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817633687/en/Mobix-Labs-Guides-Q4-Revenue-Up-Approximately-100-Sequentially-at-Midpoint/",
       "published": null
     },
     {
-      "id": "stockanalysis:b83616520d3e6097",
-      "titleEn": "Anthropic Touts 14-Fold Jump in Revenue for Would-Be Investors",
-      "summaryEn": "Anthropic has reportedly shared a substantial jump in quarterly revenue with would-be investors. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The artificial intelligence startup saw revenues for the second quarter increase more than 14-fold since the same period in 2025, Bloomberg News reported Friday (Aug. 14), citing documents viewed by the news outlet.",
+      "id": "stockanalysis:915d18651af585a8",
+      "titleEn": "People Living with Familial Chylomicronaemia Syndrome (FCS) in Germany Have Access to REDEMPLO® (plozasiran) as a New Treatment Option to Reduce Triglycerides",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-touts-14-fold-jump-in-revenue-for-would-be-investors/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817112075/en/People-Living-with-Familial-Chylomicronaemia-Syndrome-FCS-in-Germany-Have-Access-to-REDEMPLO%C2%AE-plozasiran-as-a-New-Treatment-Option-to-Reduce-Triglycerides/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f42f79fd6d7eb24f",
+      "titleEn": "Northern Trust Asset Management Brings Its FlexShares ETFs Under the Northern Trust Brand",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260814976460/en/Northern-Trust-Asset-Management-Brings-Its-FlexShares-ETFs-Under-the-Northern-Trust-Brand/",
       "published": null
     }
   ]
