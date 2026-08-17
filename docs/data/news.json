@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-17T15:57:19.323809Z",
+  "generatedAt": "2026-08-17T16:20:47.533402Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 20,
   "items": [
+    {
+      "id": "stockanalysis:eb6a2410c466810d",
+      "titleEn": "Q2 earnings unlikely to salvage Home Depot stock: find out more",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/q2-earnings-unlikely-to-salvage-home-depot-stock-find-out-more/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:006e4609ac761e20",
+      "titleEn": "U.S. data supports gold prices despite Iran pessimism, silver production soars as bar and coin sales rebound – Heraeus",
+      "summaryEn": "(Kitco News) – Recent economic data is buoying gold prices despite flagging optimism of an Iran deal, while silver production is surging even as bar and coin demand rebounds from last month’s lows, according to precious metals analysts at Heraeus. In their latest update, the analysts noted that gold prices trended steady to slightly higher last week following the prior week’s strong rally. “The fog has continued to hang thick around the negotiations, or lack thereof, surrounding a deal to reopen the Strait of Hormuz,” they wrote. “Oil flows through the strait have been almost zero since early July with stockpiles continuing to deplete, while oil prices have remained much lower than they were at the beginning of the conflict.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-17/us-data-supports-gold-prices-despite-iran-pessimism-silver-production-soars",
+      "published": null
+    },
     {
       "id": "stockanalysis:b53f4e50e6e18d3c",
       "titleEn": "Why are Micron, SK Hynix and memory stocks surging today",
@@ -145,6 +163,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/17/avav-stock-double-bottoms-as-aerovironment-earnings-loom/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3f59716f320313f9",
+      "titleEn": "Radiation Detection Company Introduces Radiant, Expanding Real-Time Radiation Safety for High-Exposure Clinical Environments",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817174657/en/Radiation-Detection-Company-Introduces-Radiant-Expanding-Real-Time-Radiation-Safety-for-High-Exposure-Clinical-Environments/",
       "published": null
     },
     {
