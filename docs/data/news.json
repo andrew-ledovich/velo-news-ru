@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T04:41:25.776139Z",
+  "generatedAt": "2026-08-17T05:20:27.751148Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:3779329e21f96ac5",
@@ -118,33 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260816001914/en/ONT-Investors-Have-Opportunity-to-Join-Onterris-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:faf893534c3279fb",
-      "titleEn": "TENX Investors Have Opportunity to Join Tenax Therapeutics, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260816842616/en/TENX-Investors-Have-Opportunity-to-Join-Tenax-Therapeutics-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:721a58022c7b110f",
-      "titleEn": "SION Investors Have Opportunity to Join Sionna Therapeutics, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260816573556/en/SION-Investors-Have-Opportunity-to-Join-Sionna-Therapeutics-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b8d2c2534690abb1",
-      "titleEn": "NABL Investors Have Opportunity to Join N-able, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260816615097/en/NABL-Investors-Have-Opportunity-to-Join-N-able-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
