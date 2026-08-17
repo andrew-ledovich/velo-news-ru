@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T05:20:27.751148Z",
+  "generatedAt": "2026-08-17T05:56:52.025915Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:3779329e21f96ac5",
@@ -100,24 +100,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260816228633/en/T-Mobile-Expands-Network-Recovery-and-Customer-Support-Across-Hawai%CA%BBi-Following-Hurricane-Lala/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9c41a72a79bf9e3f",
-      "titleEn": "EXEL Investors Have Opportunity to Join Exelixis, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260816581958/en/EXEL-Investors-Have-Opportunity-to-Join-Exelixis-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:aa7845bdd22d226f",
-      "titleEn": "ONT Investors Have Opportunity to Join Onterris, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260816001914/en/ONT-Investors-Have-Opportunity-to-Join-Onterris-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
