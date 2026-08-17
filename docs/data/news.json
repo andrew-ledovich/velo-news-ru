@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-17T15:41:12.304265Z",
+  "generatedAt": "2026-08-17T15:57:19.323809Z",
   "sourceCount": 1,
   "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:b53f4e50e6e18d3c",
+      "titleEn": "Why are Micron, SK Hynix and memory stocks surging today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/why-are-micron-sk-hynix-and-memory-stocks-surging-today/",
+      "published": null
+    },
     {
       "id": "stockanalysis:7cf6f85bc26e2f0f",
       "titleEn": "What's driving Snap stock lower on Monday?",
@@ -136,15 +145,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/17/avav-stock-double-bottoms-as-aerovironment-earnings-loom/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5eecbca21c75b608",
-      "titleEn": "Micron stock nears $1,000; SK Hynix, SanDisk rise premarket: what's driving it?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/micron-stock-nears-1000-sk-hynix-sandisk-rise-premarket-whats-driving-it/",
       "published": null
     },
     {
