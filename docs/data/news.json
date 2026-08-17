@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-17T08:22:25.673717Z",
+  "generatedAt": "2026-08-17T09:05:42.704597Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:1279b4cc145e58ea",
+      "titleEn": "Nvidia stock faces its next big test: UBS sees one number Wall Street may be missing",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/nvidia-stock-faces-its-next-big-test-ubs-sees-one-number-wall-street-may-be-missing/",
+      "published": null
+    },
     {
       "id": "stockanalysis:fbe1fe5ae9f18271",
       "titleEn": "Nvidia, Alphabet, Harvard disclose SpaceX stakes: here's what they're worth",
@@ -94,15 +103,6 @@
       "published": null
     },
     {
-      "id": "stockanalysis:fde83824e4c835dc",
-      "titleEn": "Wall Street goes full-bull on gold as rate-hike bets recede, Main Street maintains bullish majority with Fed minutes on the menu",
-      "summaryEn": "(Kitco News) – Gold prices pushed higher this week, as fading expectations for a September Fed rate hike helped the precious metal extend its August rebound despite intermittent pressure from a firmer dollar, rising oil prices, and profit-taking. Spot gold kicked off the week trading at $4,342.50 per ounce on Sunday evening, and the yellow metal moved steadily higher through Monday and Tuesday as traders positioned for the week’s U.S. inflation data. The rally accelerated Wednesday after July CPI came in largely in line with expectations, easing concerns that the Federal Reserve would need to tighten policy in September and helping gold prices push to a 10-week high. Spot prices ultimately set their weekly high at $4,450.23 per ounce on Thursday before sellers took over. Gold prices pulled back sharply Thursday after softer wholesale inflation data reduced its appeal as an inflation hedge and prompted traders to take profits following the four-day rally. The metal remained under pressure into Friday as oil prices climbed on continued uncertainty around the war with Iran and Treasury yields also edged higher, with spot gold setting its weekly low at $4,311.22 per ounce early on Friday.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-14/wall-street-goes-full-bull-gold-rate-hike-bets-recede-main-street-maintains",
-      "published": null
-    },
-    {
       "id": "stockanalysis:bf855397c1b799d1",
       "titleEn": "SES Expands into Global Direct-to-Device Services through Strategic Collaboration with Elveo Mobile",
       "summaryEn": null,
@@ -118,15 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260817252414/en/SAI-Awarded-U.S.-Patent-for-Its-Visual-Language-Model-Which-Helps-Retailers-Unlock-Store-Intelligence-and-Visibility-to-Run-Their-Estates-Profitably-and-Safely/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ba930c924025084b",
-      "titleEn": "Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Record Q2 Revenue, EAI Robotics Entering a Phase of Positive-Gross-Margin Volume Growth, and Accelerated Debt Reduction",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817945555/en/Faraday-Future-Founder-and-Global-CEO-YT-Jia-Shares-Weekly-Investor-Update-Record-Q2-Revenue-EAI-Robotics-Entering-a-Phase-of-Positive-Gross-Margin-Volume-Growth-and-Accelerated-Debt-Reduction/",
       "published": null
     }
   ]
