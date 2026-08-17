@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T11:15:35.653710Z",
+  "generatedAt": "2026-08-17T11:46:32.659991Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:5eecbca21c75b608",
@@ -91,33 +91,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-touts-14-fold-jump-in-revenue-for-would-be-investors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bd082715e4f42627",
-      "titleEn": "Behind OpenAI's exits and hires as it ramps up enterprise growth ahead of IPO",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/15/behind-openais-exits-and-hires-as-it-ramps-up-enterprise-growth-ahead-of-ipo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d77fbdaf87f825bf",
-      "titleEn": "Nvidia's AI financing push raises new questions over market leverage",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/15/nvidias-500b-ai-funding-plan-puts-leverage-in-the-spotlight/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:06f8a370359eb697",
-      "titleEn": "Exchange Income Corporation Announces August 2026 Dividend at Recently Increased Rate",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817586686/en/Exchange-Income-Corporation-Announces-August-2026-Dividend-at-Recently-Increased-Rate/",
       "published": null
     }
   ]
