@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T23:18:42.077679Z",
+  "generatedAt": "2026-08-17T23:42:41.652618Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "id": "stockanalysis:448798ac86bfe3fd",
@@ -127,6 +127,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/17/whats-driving-snap-stock-lower-on-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5dab252d8d46e346",
+      "titleEn": "Infleqtion Reports Updated Financial Results for Q2 2026 and FY26 Revenue Guidance",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817298447/en/Infleqtion-Reports-Updated-Financial-Results-for-Q2-2026-and-FY26-Revenue-Guidance/",
       "published": null
     },
     {
