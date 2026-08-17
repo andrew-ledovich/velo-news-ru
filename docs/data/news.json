@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T16:51:56.603440Z",
+  "generatedAt": "2026-08-17T17:16:53.280779Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 22,
   "items": [
     {
       "id": "stockanalysis:a21eabe49abafa48",
@@ -172,6 +172,24 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/17/avav-stock-double-bottoms-as-aerovironment-earnings-loom/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f6b0265e92d0d00c",
+      "titleEn": "Expedia's Fall Travel Outlook Reveals Shoulder Season Pricing is Harder to Find This Year, But Travelers Can Still Save on Select Getaways",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817040731/en/Expedia%E2%80%99s-Fall-Travel-Outlook-Reveals-Shoulder-Season-Pricing-is-Harder-to-Find-This-Year-But-Travelers-Can-Still-Save-on-Select-Getaways/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dd38514fdf8ea9f0",
+      "titleEn": "Experienced Advisory Team With $160 Million in Assets Joins Ameriprise Financial for Innovative Technology, Advisory Program and Culture",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817776955/en/Experienced-Advisory-Team-With-160-Million-in-Assets-Joins-Ameriprise-Financial-for-Innovative-Technology-Advisory-Program-and-Culture/",
       "published": null
     },
     {
