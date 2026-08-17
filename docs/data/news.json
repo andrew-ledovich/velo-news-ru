@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T23:42:41.652618Z",
+  "generatedAt": "2026-08-17T23:57:42.491319Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 19,
   "items": [
     {
       "id": "stockanalysis:448798ac86bfe3fd",
@@ -118,15 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/17/why-are-micron-sk-hynix-and-memory-stocks-surging-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7cf6f85bc26e2f0f",
-      "titleEn": "What's driving Snap stock lower on Monday?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/whats-driving-snap-stock-lower-on-monday/",
       "published": null
     },
     {
