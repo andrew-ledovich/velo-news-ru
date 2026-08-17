@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T09:05:42.704597Z",
+  "generatedAt": "2026-08-17T09:54:39.751976Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:1279b4cc145e58ea",
@@ -100,6 +100,15 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/08/15/nvidias-500b-ai-funding-plan-puts-leverage-in-the-spotlight/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:368813a4124d18ab",
+      "titleEn": "Empire Petroleum Reports Financial Results for Second Quarter 2026 and Provides Operational Update",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817353912/en/Empire-Petroleum-Reports-Financial-Results-for-Second-Quarter-2026-and-Provides-Operational-Update/",
       "published": null
     },
     {
