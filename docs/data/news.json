@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-17T21:15:30.747692Z",
+  "generatedAt": "2026-08-17T21:46:42.579126Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 22,
   "items": [
+    {
+      "id": "stockanalysis:448798ac86bfe3fd",
+      "titleEn": "Stripe's $7 Billion OpenRouter Deal Turns AI Spend Into a New Treasury Lever",
+      "summaryEn": "As enterprises use multiple models, payment rails and financial providers, software determines which supplier gets the next unit of demand based on cost, performance, risk and availability. If AI agents begin choosing models, payment methods, liquidity sources and counterparties, the most valuable infrastructure layer could be the one coordinating those choices rather than owning every underlying product. Stripe’s reported but not confirmed OpenRouter deal is less about adding AI than about the rise of orchestration as a business model.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/b2b-payments/2026/stripe-7-billion-dollar-openrouter-deal-turns-ai-spend-into-new-treasury-lever/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d9b5ce852dcb713d",
+      "titleEn": "Gold, silver rise as oil spike lifts yields, hits equities - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in late-afternoon U.S. trading Monday, as a weaker U.S. dollar and lower Fed-hike expectations supported precious metals even as a rally in crude oil lifted Treasury yields and pressured equities. At the time of writing, spot gold was trading near $4,414.30 an ounce, up 0.88%, while spot silver was trading at $65.650, up 1.66% on the session. North American equity markets closed lower as the oil move revived inflation concerns. The S&P 500 fell 40.39 points, or 0.52%, to 7,745.37, the Dow Jones Industrial Average lost 272.39 points, or 0.51%, to 53,460.02, and the Nasdaq Composite slipped 84.25 points, or 0.32%, to 26,644.91. European markets also finished weaker, with the STOXX Europe 600 down 0.22% to 656.41, London’s FTSE 100 down 0.28% to 10,720.30, Germany’s DAX down 0.38% to 26,338.61 and France’s CAC 40 down 0.66% to 8,579.60. The latest positioning remains defined by softer U.S. data meeting a renewed oil shock. Last week’s retail-sales miss, cooler CPI , flat headline PPI and weaker consumer sentiment reduced the market’s appetite to price another September rate hike, but this morning’s Empire State survey showed the general business conditions index rising to 20.6 , its strongest reading in more than 4 years, while the prices-paid index climbed to 58.6. The 10-year Treasury yield rose toward 4.73% as crude jumped, keeping the rates channel mixed for gold: the weaker dollar and lower Fed-hike odds support the metal, while higher yields cap the rally. The next major U.S. rates catalyst is the Fed’s July meeting minutes Wednesday at 2 p.m. ET, followed by flash PMI readings Friday.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-17/gold-silver-rise-oil-spike-lifts-yields-hits-equities-kitco-pm-report",
+      "published": null
+    },
     {
       "id": "stockanalysis:7709d4cdb7671241",
       "titleEn": "UPS Automates 90% of Daily Customs Clearances With AI Agents",
@@ -139,12 +157,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:3a82e89411ccc4c4",
-      "titleEn": "Albertsons AI Assistants Drive Immediate 26% Basket Growth Among Early Adopters",
-      "summaryEn": "Grocery retailer Albertsons Companies found that the customers who begin using its artificial intelligence-powered online shopping experience make larger purchases almost immediately, Jill Pavlovich , senior vice president of digital shopping experiences at Albertsons, told The Wall Street Journal in a report published Monday (Aug. 17). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Albertsons has seen the average order value of these customers increase 10% when they use the company’s conversational search and 26% when they use its more comprehensive assistants that find recipes and ingredients that match their dietary preferences, Pavlovich said in the report.",
+      "id": "stockanalysis:ed06a005d1b69b40",
+      "titleEn": "Bunge Global SA Announces Pricing of $600 Million Senior Notes Offering",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/albertsons-ai-assistants-drive-immediate-26percent-basket-growth-among-early-adopters/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817658073/en/Bunge-Global-SA-Announces-Pricing-of-600-Million-Senior-Notes-Offering/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:68b0bb8abfd8ad29",
+      "titleEn": "BXP Prices $700 Million Offering of Senior Unsecured Notes",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817190625/en/BXP-Prices-700-Million-Offering-of-Senior-Unsecured-Notes/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:22307b0668e784ed",
+      "titleEn": "Gold Reserve Successfully Overcomes Rusoro Mining Ltd.'s Motion to Dismiss in Court of Chancery Proceedings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.businesswire.com/news/home/20260817683935/en/Gold-Reserve-Successfully-Overcomes-Rusoro-Mining-Ltd.%E2%80%99s-Motion-to-Dismiss-in-Court-of-Chancery-Proceedings/",
       "published": null
     },
     {
