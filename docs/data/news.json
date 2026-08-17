@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-17T19:05:00.720120Z",
+  "generatedAt": "2026-08-17T19:37:47.759957Z",
   "sourceCount": 1,
-  "count": 26,
+  "count": 25,
   "items": [
+    {
+      "id": "stockanalysis:90238b660952e136",
+      "titleEn": "Boeing stock falls 2% today: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/boeing-stock-falls-2-today-heres-why/",
+      "published": null
+    },
     {
       "id": "stockanalysis:23332f88c52b0bb3",
       "titleEn": "Why is Microsoft stock falling 3% today?",
@@ -166,21 +175,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:96fd93f29c9cf20e",
-      "titleEn": "Spot gold trades below $4,380/oz after New York manufacturing index surprises with rise to 20.6",
-      "summaryEn": "(Kitco News) - Gold prices were coming off their earlier session highs after manufacturing activity in the New York region rose further into expansionary territory this month, according to the latest data published by the New York Federal Reserve. The regional central bank announced on Monday that its Empire State manufacturing survey improved to 20.6 in August, its highest reading in over four years, after posting a 15.6 print in July. The data was better than expectations, as consensus forecasts called for a decline to 10.2. “New orders and shipments posted solid gains,” the report said. “Unfilled orders increased notably, delivery times lengthened substantially, and inventories declined. Supply availability continued to worsen. Employment levels and the average workweek rose modestly. The pace of input price increases picked up, and selling price increases remained elevated but eased for a second consecutive month. Looking ahead, firms maintained an optimistic outlook for business activity.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-17/spot-gold-trades-below-4380oz-after-new-york-manufacturing-index-surprises",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5c9f4c137165b18c",
-      "titleEn": "Apple stock upgraded to Buy with $400 PT as foldable iPhone fuels bullish outlook",
+      "id": "stockanalysis:1f33d795b3928ef4",
+      "titleEn": "TDUP Investors Have Opportunity to Join ThredUp Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/apple-stock-upgraded-to-buy-with-400-pt-as-foldable-iphone-fuels-bullish-outlook/",
+      "link": "https://www.businesswire.com/news/home/20260817583782/en/TDUP-Investors-Have-Opportunity-to-Join-ThredUp-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5abadfbf1be59073",
+      "titleEn": "Blue Ridge Bankshares, Inc. (BRBS) Investigation: Halper Sadeh LLC Investigates Whether the Proposed Sale of Blue Ridge Bankshares, Inc. Is Fair to Shareholders",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817303602/en/Blue-Ridge-Bankshares-Inc.-BRBS-Investigation-Halper-Sadeh-LLC-Investigates-Whether-the-Proposed-Sale-of-Blue-Ridge-Bankshares-Inc.-Is-Fair-to-Shareholders/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f81e973475410953",
+      "titleEn": "The MolinaCares Accord and Molina Healthcare of Michigan Donate $100,000 to Support Construction of a New Food Kitchen in Saginaw County",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817860216/en/The-MolinaCares-Accord-and-Molina-Healthcare-of-Michigan-Donate-100000-to-Support-Construction-of-a-New-Food-Kitchen-in-Saginaw-County/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1fbf9c0c89a08e67",
+      "titleEn": "JPMorganChase Opens New Two-Story Magnificent Mile Flagship, Bringing Chase, JPMorgan Private Client Together Under One Roof",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817375559/en/JPMorganChase-Opens-New-Two-Story-Magnificent-Mile-Flagship-Bringing-Chase-JPMorgan-Private-Client-Together-Under-One-Roof/",
       "published": null
     },
     {
@@ -199,42 +226,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260817812500/en/JBTM-Investors-Have-Opportunity-to-Join-JBT-Marel-Corporation-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7677a83bdb7bd535",
-      "titleEn": "EBS Investors Have Opportunity to Join Emergent BioSolutions Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817756341/en/EBS-Investors-Have-Opportunity-to-Join-Emergent-BioSolutions-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d28c126f8186cdbe",
-      "titleEn": "UTI Investors Have Opportunity to Join Universal Technical Institute, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817742729/en/UTI-Investors-Have-Opportunity-to-Join-Universal-Technical-Institute-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3c4dd2b6d03ddf05",
-      "titleEn": "CORRECTING and REPLACING Adastra Recognized with Databricks Brickbuilder Specialization Across Financial Services, Industrial, and Security &amp; Governance Practices",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260806086005/en/CORRECTING-and-REPLACING-Adastra-Recognized-with-Databricks-Brickbuilder-Specialization-Across-Financial-Services-Industrial-and-Security-Governance-Practices/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f6b0265e92d0d00c",
-      "titleEn": "Expedia's Fall Travel Outlook Reveals Shoulder Season Pricing is Harder to Find This Year, But Travelers Can Still Save on Select Getaways",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817040731/en/Expedia%E2%80%99s-Fall-Travel-Outlook-Reveals-Shoulder-Season-Pricing-is-Harder-to-Find-This-Year-But-Travelers-Can-Still-Save-on-Select-Getaways/",
       "published": null
     }
   ]
