@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-17T09:54:39.751976Z",
+  "generatedAt": "2026-08-17T10:20:39.715783Z",
   "sourceCount": 1,
   "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:5eecbca21c75b608",
+      "titleEn": "Micron stock nears $1,000; SK Hynix, SanDisk rise premarket: what's driving it?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/micron-stock-nears-1000-sk-hynix-sandisk-rise-premarket-whats-driving-it/",
+      "published": null
+    },
     {
       "id": "stockanalysis:1279b4cc145e58ea",
       "titleEn": "Nvidia stock faces its next big test: UBS sees one number Wall Street may be missing",
@@ -103,30 +112,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:368813a4124d18ab",
-      "titleEn": "Empire Petroleum Reports Financial Results for Second Quarter 2026 and Provides Operational Update",
+      "id": "stockanalysis:fb52a21683d6ee74",
+      "titleEn": "OmniAb Raises 2026 Financial Guidance",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817353912/en/Empire-Petroleum-Reports-Financial-Results-for-Second-Quarter-2026-and-Provides-Operational-Update/",
+      "link": "https://www.businesswire.com/news/home/20260812634847/en/OmniAb-Raises-2026-Financial-Guidance/",
       "published": null
     },
     {
-      "id": "stockanalysis:bf855397c1b799d1",
-      "titleEn": "SES Expands into Global Direct-to-Device Services through Strategic Collaboration with Elveo Mobile",
+      "id": "stockanalysis:33987aa262fca19a",
+      "titleEn": "OmniAb Announces Global Collaboration and License Agreement for Ion Channel Program with Eli Lilly &amp; Company",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817674414/en/SES-Expands-into-Global-Direct-to-Device-Services-through-Strategic-Collaboration-with-Elveo-Mobile/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:513199408b7630a2",
-      "titleEn": "SAI Awarded U.S. Patent for Its Visual Language Model, Which Helps Retailers Unlock Store Intelligence and Visibility to Run Their Estates Profitably and Safely",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817252414/en/SAI-Awarded-U.S.-Patent-for-Its-Visual-Language-Model-Which-Helps-Retailers-Unlock-Store-Intelligence-and-Visibility-to-Run-Their-Estates-Profitably-and-Safely/",
+      "link": "https://www.businesswire.com/news/home/20260812350809/en/OmniAb-Announces-Global-Collaboration-and-License-Agreement-for-Ion-Channel-Program-with-Eli-Lilly-Company/",
       "published": null
     }
   ]
