@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-17T05:56:52.025915Z",
+  "generatedAt": "2026-08-17T06:39:35.007076Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:9b423eb282cc0f0e",
+      "titleEn": "Peter Thiel makes Amazon his top stock: what he bought next is more revealing",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/peter-thiel-makes-amazon-his-top-stock-what-he-bought-next-is-more-revealing/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3779329e21f96ac5",
       "titleEn": "Intel eyes a memory comeback: why the timing matters for Micron stock",
