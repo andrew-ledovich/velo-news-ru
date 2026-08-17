@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-17T02:07:38.853808Z",
+  "generatedAt": "2026-08-17T03:10:36.724971Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:c1d3499d5103e28d",
+      "titleEn": "Kospi Index rebound gains momentum: What's driving it and what happens next",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/17/kospi-index-rebound-gains-momentum-whats-driving-it-and-what-happens-next/",
+      "published": null
+    },
     {
       "id": "stockanalysis:bd082715e4f42627",
       "titleEn": "Behind OpenAI's exits and hires as it ramps up enterprise growth ahead of IPO",
