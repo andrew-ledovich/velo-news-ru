@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T22:57:44.216959Z",
+  "generatedAt": "2026-08-17T23:18:42.077679Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 19,
   "items": [
     {
       "id": "stockanalysis:448798ac86bfe3fd",
@@ -127,15 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/17/whats-driving-snap-stock-lower-on-monday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c261499b8b8e6ad3",
-      "titleEn": "Groq Raises $350 Million to Fund AI Inference Goals",
-      "summaryEn": "Artificial intelligence (AI) inference company Groq has raised $350 million in new funding. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The Series A round will help Groq support customers “seeking usage of medium and larger sized clusters of Nvidia accelerated computing for training and inference,” the company said in a news release Monday (Aug. 17).",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/groq-raises-350-million-to-fund-ai-inference-goals/",
       "published": null
     },
     {
