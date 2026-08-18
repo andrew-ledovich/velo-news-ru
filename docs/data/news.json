@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T06:22:43.952480Z",
+  "generatedAt": "2026-08-18T07:12:08.805898Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:2263aa74bf74baef",
@@ -127,15 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260817201518/en/FTK-Awarded-70MM-Virginia-LIHTC-Rehab/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d388025d505c85b2",
-      "titleEn": "IMDA Accreditation Expands Abnormal AI's Opportunities Across Singapore's Public and Enterprise Sectors",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260817075393/en/IMDA-Accreditation-Expands-Abnormal-AI%E2%80%99s-Opportunities-Across-Singapores-Public-and-Enterprise-Sectors/",
       "published": null
     }
   ]
