@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-18T03:08:31.150103Z",
+  "generatedAt": "2026-08-18T03:55:14.486608Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:7544448552d14bce",
+      "titleEn": "KOSPI jumps 3% as Treasury yields spike: why Asia may be pricing the wrong risk",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/kospi-jumps-3-as-treasury-yields-spike-why-asia-may-be-pricing-the-wrong-risk/",
+      "published": null
+    },
     {
       "id": "stockanalysis:448798ac86bfe3fd",
       "titleEn": "Stripe's $7 Billion OpenRouter Deal Turns AI Spend Into a New Treasury Lever",
