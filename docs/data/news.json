@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T22:19:03.367048Z",
+  "generatedAt": "2026-08-18T22:46:14.831940Z",
   "sourceCount": 1,
   "count": 16,
   "items": [
@@ -112,12 +112,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:a3bd4851c9e69883",
-      "titleEn": "Home Depot stock gains on Q2 earnings but a 'missing piece' remains",
+      "id": "stockanalysis:48732edeb21e9561",
+      "titleEn": "Gopuff Expands Private Label Assortment and Introduces First-Ever Seasonal Product Lineup",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/home-depot-stock-gains-on-q2-earnings-but-a-missing-piece-remains/",
+      "link": "https://www.businesswire.com/news/home/20260818359200/en/Gopuff-Expands-Private-Label-Assortment-and-Introduces-First-Ever-Seasonal-Product-Lineup/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ef55fe718db5e2b2",
+      "titleEn": "JBS Announces Proposal to Acquire Remaining Publicly Traded Shares of Pilgrim's Pride Corporation",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818096100/en/JBS-Announces-Proposal-to-Acquire-Remaining-Publicly-Traded-Shares-of-Pilgrim%E2%80%99s-Pride-Corporation/",
       "published": null
     },
     {
@@ -136,15 +145,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260818678981/en/Infleqtion-to-Test-Quantum-Sensing-in-Colorado-to-Advance-U.S.-Critical-Minerals-Security/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ecaad42745f10f91",
-      "titleEn": "Vivmark Residential's Credit Rating Upgraded to ‘A' by S&amp;P Global Ratings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818846824/en/Vivmark-Residential%E2%80%99s-Credit-Rating-Upgraded-to-%E2%80%98A%E2%80%99-by-SP-Global-Ratings-%C2%A0%C2%A0%C2%A0/",
       "published": null
     }
   ]
