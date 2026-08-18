@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-18T20:57:35.636358Z",
+  "generatedAt": "2026-08-18T21:18:45.149031Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:be28942d23820d24",
+      "titleEn": "Gold performs like nothing else in the commodity complex – WGC's De Pessemier",
+      "summaryEn": "9Kitco News) – Gold ’s supply-and-demand dynamics, diversification benefits and resilience across market environments are unique among all commodities, and the yellow metal should be treated as a distinct portfolio allocation, according to Jeremy De Pessemier, asset allocation strategist at The World Gold Council (WGC). “Investors have long recognised the benefits of investing in commodities,” De Pessemier writes in the WGC’s Gold: The most effective commodity investment − 2026 edition. “Over time, they have been shown to improve portfolio diversification, offering inflation protection and an element of smoothing across economic cycles. Most investors access this asset class via commodity indices, which invariably include gold.” But he argues that gold’s weighting in broad commodity indices fails to do justice to the yellow metal’s importance as a strategic component of investor portfolios. “Index methodologies typically rely on futures-market liquidity and/or production-based measures, neither of which fully captures the structure of the gold market,” he said. “Gold&#x27;s liquidity extends beyond futures markets through deep OTC and ETF trading, while its available supply extends beyond annual mine production through a large above-ground stock that can be recycled, resold and reallocated. As a result, broad commodity indices may assign gold a modest weight even though its market depth, available supply and strategic portfolio role are greater than those weights suggest.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-18/gold-performs-nothing-else-commodity-complex-wgcs-de-pessemier",
+      "published": null
+    },
     {
       "id": "stockanalysis:1ab0120bb5559164",
       "titleEn": "Amylyx stock soars on GLP-1 success: here's why investors should sell",
@@ -121,12 +130,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:13cd94cfee3a115b",
-      "titleEn": "Why is Duolingo stock surging 6% today",
+      "id": "stockanalysis:5344989b4b5812b5",
+      "titleEn": "Kohl's Corporation Declares Quarterly Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/why-is-duolingo-stock-surging-6-today/",
+      "link": "https://www.businesswire.com/news/home/20260818507076/en/Kohl%E2%80%99s-Corporation-Declares-Quarterly-Dividend/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d754ff95287cb9ed",
+      "titleEn": "Auna Announces 2Q26 Financial Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818121546/en/Auna-Announces-2Q26-Financial-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e7ac45839d65949a",
+      "titleEn": "Baxter Announces Pricing for Its Upsized Cash Tender Offers",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818842217/en/Baxter-Announces-Pricing-for-Its-Upsized-Cash-Tender-Offers/",
       "published": null
     },
     {
@@ -136,24 +163,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260818343887/en/Cinemark-Spins-a-New-Record-as-Spider-Man-Brand-New-Day-Swings-to-Highest-Grossing-Domestic-Film-of-All-Time/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:336475a6de96f762",
-      "titleEn": "Regis to Issue Fourth Quarter and Full Year 2026 Results on September 1, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818693334/en/Regis-to-Issue-Fourth-Quarter-and-Full-Year-2026-Results-on-September-1-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cbe6f1669e8992cb",
-      "titleEn": "Dell Technologies to Hold Conference Call Sept. 1 to Discuss Second Quarter Fiscal 2027 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818576301/en/Dell-Technologies-to-Hold-Conference-Call-Sept.-1-to-Discuss-Second-Quarter-Fiscal-2027-Financial-Results/",
       "published": null
     }
   ]
