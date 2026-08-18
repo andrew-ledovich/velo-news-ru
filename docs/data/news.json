@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-18T09:46:02.596073Z",
+  "generatedAt": "2026-08-18T10:16:41.185735Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:f171e6b7938b314f",
+      "titleEn": "Micron down 6%, SK Hynix and SanDisk 5%: why is memory trade crashing?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/micron-down-6-sk-hynix-and-sandisk-5-why-is-memory-trade-crashing/",
+      "published": null
+    },
     {
       "id": "stockanalysis:5a6fdd3347a99c28",
       "titleEn": "Bond yields just hit a 2007 high: 5 stocks Wall Street should watch today",
@@ -130,48 +139,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:7f9a54b679c2a4b8",
-      "titleEn": "ISG Event to Spotlight Strategies for the AI-Driven Autonomous Enterprise",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260818481167/en/ISG-Event-to-Spotlight-Strategies-for-the-AI-Driven-Autonomous-Enterprise/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b7fcc1c150749a2d",
-      "titleEn": "FreeCast to Relaunch the Investor News Channel as a Next-Generation Global Business and Financial FAST Network",
+      "id": "stockanalysis:58b48d93716502a5",
+      "titleEn": "Vertical Aerospace Announces Date for AGM",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818149075/en/FreeCast-to-Relaunch-the-Investor-News-Channel-as-a-Next-Generation-Global-Business-and-Financial-FAST-Network/",
+      "link": "https://www.businesswire.com/news/home/20260818624052/en/Vertical-Aerospace-Announces-Date-for-AGM/",
       "published": null
     },
     {
-      "id": "stockanalysis:98e8bfedf5cd3acb",
-      "titleEn": "dynaCERT Advances Global Commercial Expansion Across Trucking, Ports and Power Generation",
+      "id": "stockanalysis:876d1789dab1bb59",
+      "titleEn": "Experian: Consumers Expect Modern Mortgage Underwriting; One-Third Ready to Walk Away From Lenders Using Legacy Credit Scores",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818490722/en/dynaCERT-Advances-Global-Commercial-Expansion-Across-Trucking-Ports-and-Power-Generation/",
+      "link": "https://www.businesswire.com/news/home/20260818067344/en/Experian-Consumers-Expect-Modern-Mortgage-Underwriting-One-Third-Ready-to-Walk-Away-From-Lenders-Using-Legacy-Credit-Scores/",
       "published": null
     },
     {
-      "id": "stockanalysis:9ae5979a77b34f4f",
-      "titleEn": "Midas Atlantic Partners, in Partnership With The Najafi Companies, to Acquire Panasonic Industry's Power and Battery Control Solutions Business in Germany and Slovakia",
+      "id": "stockanalysis:66e05da251835b67",
+      "titleEn": "Amer Sports Reports Second Quarter 2026 Financial Results, Raises Full Year Revenue, Margin, and EPS Guidance",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://www.businesswire.com/news/home/20260818849481/en/Midas-Atlantic-Partners-in-Partnership-With-The-Najafi-Companies-to-Acquire-Panasonic-Industry%E2%80%99s-Power-and-Battery-Control-Solutions-Business-in-Germany-and-Slovakia/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6af51254a952790e",
-      "titleEn": "Swiss Enterprises Prioritize Microsoft AI Governance",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260818684337/en/Swiss-Enterprises-Prioritize-Microsoft-AI-Governance/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818493285/en/Amer-Sports-Reports-Second-Quarter-2026-Financial-Results-Raises-Full-Year-Revenue-Margin-and-EPS-Guidance/",
       "published": null
     }
   ]
