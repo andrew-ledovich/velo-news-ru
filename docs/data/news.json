@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-18T16:18:01.654309Z",
+  "generatedAt": "2026-08-18T16:54:26.266597Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 21,
   "items": [
+    {
+      "id": "stockanalysis:6dbff9d6da2710c6",
+      "titleEn": "Why SpaceX stock is in the red today after Monday's rally",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/why-spacex-stock-is-in-the-red-today-after-mondays-rally/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7b314959ccf6da37",
+      "titleEn": "Why are Intel and AMD stocks tanking up to 7% today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/why-are-intel-and-amd-stocks-tanking-up-to-7-today/",
+      "published": null
+    },
     {
       "id": "stockanalysis:0eacd685e4f82c58",
       "titleEn": "Tesla stock reverses early losses as investors await AI, robotaxi progress",
@@ -139,12 +157,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:d3dfdf9a6557de76",
-      "titleEn": "Lululemon stock forecast: why it may crash below $100 soon",
+      "id": "stockanalysis:07c9400bd2908981",
+      "titleEn": "JSB Financial Inc. Reports Second Quarter 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/lululemon-stock-forecast-why-it-may-crash-below-100-soon/",
+      "link": "https://www.businesswire.com/news/home/20260807623106/en/JSB-Financial-Inc.-Reports-Second-Quarter-2026-Results/",
       "published": null
     },
     {
@@ -157,21 +175,21 @@
       "published": null
     },
     {
+      "id": "stockanalysis:366360096fc3b985",
+      "titleEn": "Infleqtion Opens Colorado Quantum Innovation Center, Anchoring \"America's Quantum Peak\"",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818295902/en/Infleqtion-Opens-Colorado-Quantum-Innovation-Center-Anchoring-Americas-Quantum-Peak/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:48ff9704e4084e4b",
       "titleEn": "CUPE members take action to demand a fair deal from Extendicare",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260818859982/en/CUPE-members-take-action-to-demand-a-fair-deal-from-Extendicare/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a11c71cff67a9dd4",
-      "titleEn": "SmartCentres Declares Distribution for August 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818145210/en/SmartCentres-Declares-Distribution-for-August-2026/",
       "published": null
     }
   ]
