@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-18T15:54:11.466618Z",
+  "generatedAt": "2026-08-18T16:18:01.654309Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:0eacd685e4f82c58",
+      "titleEn": "Tesla stock reverses early losses as investors await AI, robotaxi progress",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/18/tesla-stock-reverses-early-losses-as-investors-await-ai-robotaxi-progress/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3dc636e77f259e59",
+      "titleEn": "Meta in court over child social media addiction",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Opening arguments begin Tuesday in the federal trial of Meta, the social media titan accused of deliberately making its Instagram and Facebook platforms addictive to children, with a coalition of states seeking $200 billion in penalties. In what many experts have called social media's \"big tobacco moment,\" Meta stands charged with harming children by using technology specifically designed to foster addiction among young users in a fashion similar to cigarettes.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-08-meta-court-child-social-media.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a3bd4851c9e69883",
+      "titleEn": "Home Depot stock gains on Q2 earnings but a 'missing piece' remains",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/home-depot-stock-gains-on-q2-earnings-but-a-missing-piece-remains/",
+      "published": null
+    },
     {
       "id": "stockanalysis:cbaf850d698877ba",
       "titleEn": "China's Baidu, betting on AI, posts fifth straight quarterly revenue drop",
@@ -121,39 +148,30 @@
       "published": null
     },
     {
+      "id": "stockanalysis:c27a670c03930bec",
+      "titleEn": "EDF power solutions North America Signs an Agreement with NV Energy for Solar+Storage Project",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818588674/en/EDF-power-solutions-North-America-Signs-an-Agreement-with-NV-Energy-for-SolarStorage-Project/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:48ff9704e4084e4b",
+      "titleEn": "CUPE members take action to demand a fair deal from Extendicare",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818859982/en/CUPE-members-take-action-to-demand-a-fair-deal-from-Extendicare/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:a11c71cff67a9dd4",
       "titleEn": "SmartCentres Declares Distribution for August 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260818145210/en/SmartCentres-Declares-Distribution-for-August-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:32c72526f5d049d7",
-      "titleEn": "Statement From Kerlan Jobe Orthopaedic (KJOC) President Daniel Kharrazi Regarding the Passing of Pitching Great Tommy John",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817701052/en/Statement-From-Kerlan-Jobe-Orthopaedic-KJOC-President-Daniel-Kharrazi-Regarding-the-Passing-of-Pitching-Great-Tommy-John/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:886d137e1dce182d",
-      "titleEn": "ALPS Corporation Goes Live on OneShield Market Solutions to Power Lawyers' Professional Liability Operations for LawyerCare",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818485479/en/ALPS-Corporation-Goes-Live-on-OneShield-Market-Solutions-to-Power-Lawyers-Professional-Liability-Operations-for-LawyerCare/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:16494177da2acf07",
-      "titleEn": "UI Investors Have Opportunity to Join Ubiquiti Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818982304/en/UI-Investors-Have-Opportunity-to-Join-Ubiquiti-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
