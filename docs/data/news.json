@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T21:58:03.462449Z",
+  "generatedAt": "2026-08-18T22:19:03.367048Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 16,
   "items": [
     {
       "id": "stockanalysis:be28942d23820d24",
@@ -118,24 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/18/home-depot-stock-gains-on-q2-earnings-but-a-missing-piece-remains/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cbaf850d698877ba",
-      "titleEn": "China's Baidu, betting on AI, posts fifth straight quarterly revenue drop",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Baidu posted a fifth straight drop in quarterly revenue on Tuesday as the Chinese tech giant expressed confidence in its transition to artificial intelligence services to drive long-term growth. The Beijing-based search engine provider, sometimes called China's Google, has for years heralded the potential of AI in the country.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-08-china-baidu-ai-straight-quarterly.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ad7eba690ae7bb35",
-      "titleEn": "Meta stock falls ahead of child safety trial that risks $200B in potential damages",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/meta-stock-falls-ahead-of-child-safety-trial-that-risks-200b-in-potential-damages/",
       "published": null
     },
     {
