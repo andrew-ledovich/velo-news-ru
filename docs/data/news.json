@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-18T15:20:32.059738Z",
+  "generatedAt": "2026-08-18T15:54:11.466618Z",
   "sourceCount": 1,
   "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:cbaf850d698877ba",
+      "titleEn": "China's Baidu, betting on AI, posts fifth straight quarterly revenue drop",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Baidu posted a fifth straight drop in quarterly revenue on Tuesday as the Chinese tech giant expressed confidence in its transition to artificial intelligence services to drive long-term growth. The Beijing-based search engine provider, sometimes called China's Google, has for years heralded the potential of AI in the country.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-08-china-baidu-ai-straight-quarterly.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ad7eba690ae7bb35",
+      "titleEn": "Meta stock falls ahead of child safety trial that risks $200B in potential damages",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/meta-stock-falls-ahead-of-child-safety-trial-that-risks-200b-in-potential-damages/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7d6b8183cecc5a49",
+      "titleEn": "Rocket Lab stock is soaring, and a rare pattern points to gains; but there's a catch",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/rocket-lab-stock-is-soaring-and-a-rare-pattern-points-to-gains-but-theres-a-catch/",
+      "published": null
+    },
     {
       "id": "stockanalysis:13cd94cfee3a115b",
       "titleEn": "Why is Duolingo stock surging 6% today",
@@ -94,12 +121,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:af61ff0b9ced5ba3",
-      "titleEn": "Nike stock lost $200B in value since its 2021 highs: what is ailing the sports giant?",
+      "id": "stockanalysis:a11c71cff67a9dd4",
+      "titleEn": "SmartCentres Declares Distribution for August 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/nike-stock-lost-200b-in-value-since-its-2021-highs-what-is-ailing-the-sports-giant/",
+      "link": "https://www.businesswire.com/news/home/20260818145210/en/SmartCentres-Declares-Distribution-for-August-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:32c72526f5d049d7",
+      "titleEn": "Statement From Kerlan Jobe Orthopaedic (KJOC) President Daniel Kharrazi Regarding the Passing of Pitching Great Tommy John",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817701052/en/Statement-From-Kerlan-Jobe-Orthopaedic-KJOC-President-Daniel-Kharrazi-Regarding-the-Passing-of-Pitching-Great-Tommy-John/",
       "published": null
     },
     {
@@ -118,42 +154,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260818982304/en/UI-Investors-Have-Opportunity-to-Join-Ubiquiti-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:becd2f973d70bbef",
-      "titleEn": "Americans Without Children Are Less Confident About Retirement, Allianz Life Study Finds",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818742119/en/Americans-Without-Children-Are-Less-Confident-About-Retirement-Allianz-Life-Study-Finds/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9d762af5c38c244b",
-      "titleEn": "VinSpace Announces Launch Contract with SpaceX, Marking a New Milestone for Vietnam's Space Industry",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818438101/en/VinSpace-Announces-Launch-Contract-with-SpaceX-Marking-a-New-Milestone-for-Vietnams-Space-Industry/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1f00e20b8be20a8e",
-      "titleEn": "GRM Information Management Acquisition of Storage Quarters Records Management, Inc. Expands GRM Client Base in New York Metro.",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20260818194613/en/GRM-Information-Management-Acquisition-of-Storage-Quarters-Records-Management-Inc.-Expands-GRM-Client-Base-in-New-York-Metro./",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b4a143a61132477d",
-      "titleEn": "MITER Foundation awards $100,000 in high school scholarships",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818396615/en/MITER-Foundation-awards-100000-in-high-school-scholarships/",
       "published": null
     }
   ]
