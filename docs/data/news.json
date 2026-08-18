@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-18T10:16:41.185735Z",
+  "generatedAt": "2026-08-18T10:52:06.104657Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:6e847336452fa08f",
+      "titleEn": "Why is the AI chip trade cracking? Nvidia, AMD and Intel slide premarket",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/18/why-is-the-ai-chip-trade-cracking-nvidia-amd-and-intel-slide-premarket/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9ac4a1a6501b2a4f",
+      "titleEn": "Why Baidu stock is falling over 5% after Q2 earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/why-baidu-stock-is-falling-over-5-after-q2-earnings/",
+      "published": null
+    },
     {
       "id": "stockanalysis:f171e6b7938b314f",
       "titleEn": "Micron down 6%, SK Hynix and SanDisk 5%: why is memory trade crashing?",
@@ -121,48 +139,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c36cb83b80766bb7",
-      "titleEn": "Datavault AI Plans $94.5 Million CyberCatch Buy to Shield Organizations Against AI Attacks",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The proposed transaction will also bring CyberCatch’s AI-enabled continuous compliance and cyber risk mitigation platform into Datavault AI’s Quantum Private Network (QPN) GPU ecosystem, addressing the need for ways to combat fraudsters that are using AI to breach networks as well as the need to prepare for the post-quantum security era, according to the release. Datavault AI’s proposed acquisition of CyberCatch is subject to customary board, stock exchange, and any regulatory and shareholder approvals, the release said.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/datavault-ai-plans-94-million-dollar-cybercatch-buy-shield-organizations-against-ai-attacks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:90238b660952e136",
-      "titleEn": "Boeing stock falls 2% today: here's why",
+      "id": "stockanalysis:caf6e58443e7ba91",
+      "titleEn": "ReNew Announces Results for the First Quarter for Fiscal Year 2027 (Q1 FY27), Ended June 30, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/boeing-stock-falls-2-today-heres-why/",
+      "link": "https://www.businesswire.com/news/home/20260818877993/en/ReNew-Announces-Results-for-the-First-Quarter-for-Fiscal-Year-2027-Q1-FY27-Ended-June-30-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:58b48d93716502a5",
-      "titleEn": "Vertical Aerospace Announces Date for AGM",
+      "id": "stockanalysis:cb4bac16f0c80648",
+      "titleEn": "Dynatrace Announces Pricing of Private Placement of $1.25 Billion of Exchangeable Senior Notes",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818624052/en/Vertical-Aerospace-Announces-Date-for-AGM/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:876d1789dab1bb59",
-      "titleEn": "Experian: Consumers Expect Modern Mortgage Underwriting; One-Third Ready to Walk Away From Lenders Using Legacy Credit Scores",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818067344/en/Experian-Consumers-Expect-Modern-Mortgage-Underwriting-One-Third-Ready-to-Walk-Away-From-Lenders-Using-Legacy-Credit-Scores/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:66e05da251835b67",
-      "titleEn": "Amer Sports Reports Second Quarter 2026 Financial Results, Raises Full Year Revenue, Margin, and EPS Guidance",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818493285/en/Amer-Sports-Reports-Second-Quarter-2026-Financial-Results-Raises-Full-Year-Revenue-Margin-and-EPS-Guidance/",
+      "link": "https://www.businesswire.com/news/home/20260817454259/en/Dynatrace-Announces-Pricing-of-Private-Placement-of-1.25-Billion-of-Exchangeable-Senior-Notes/",
       "published": null
     }
   ]
