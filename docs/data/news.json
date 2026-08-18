@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T13:28:42.519044Z",
+  "generatedAt": "2026-08-18T14:05:15.343141Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:eb4a3a0a0adbe6d1",
@@ -94,39 +94,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5a6fdd3347a99c28",
-      "titleEn": "Bond yields just hit a 2007 high: 5 stocks Wall Street should watch today",
+      "id": "stockanalysis:90cffaf509b48c8f",
+      "titleEn": "Cummins selected to supply battery energy storage systems for large U.S. data center project",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/bond-yields-just-hit-a-2007-high-5-stocks-wall-street-should-watch-today/",
+      "topic": "EV",
+      "link": "https://www.businesswire.com/news/home/20260818513062/en/Cummins-selected-to-supply-battery-energy-storage-systems-for-large-U.S.-data-center-project/",
       "published": null
     },
     {
-      "id": "stockanalysis:4cb6f35cf929e787",
-      "titleEn": "CoStar Group Names Steve Price President of Ten-X",
+      "id": "stockanalysis:d61b9ae981ffd389",
+      "titleEn": "National Recruiting Network Raised Candidate Connection Rates 25% with ZoomInfo",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818681939/en/CoStar-Group-Names-Steve-Price-President-of-Ten-X/",
+      "link": "https://www.businesswire.com/news/home/20260818767138/en/National-Recruiting-Network-Raised-Candidate-Connection-Rates-25-with-ZoomInfo/",
       "published": null
     },
     {
-      "id": "stockanalysis:2eb7f8d00be1976f",
-      "titleEn": "Pacific Energy Concepts Lifted Call Connect Rates More Than 53% with ZoomInfo",
+      "id": "stockanalysis:950a40e79dd9ee14",
+      "titleEn": "Comcast Launches Xfinity Shield, Redefining Intelligent Home Protection",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818980210/en/Pacific-Energy-Concepts-Lifted-Call-Connect-Rates-More-Than-53-with-ZoomInfo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9e23c2897d4190aa",
-      "titleEn": "Boxlight Accelerates Transformation Strategy Around Integrated EdTech, Communication and Safety Ecosystem",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818046092/en/Boxlight-Accelerates-Transformation-Strategy-Around-Integrated-EdTech-Communication-and-Safety-Ecosystem/",
+      "link": "https://www.businesswire.com/news/home/20260817535108/en/Comcast-Launches-Xfinity-Shield-Redefining-Intelligent-Home-Protection/",
       "published": null
     }
   ]
