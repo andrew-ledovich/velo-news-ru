@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T19:04:23.880552Z",
+  "generatedAt": "2026-08-18T19:37:11.654799Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 19,
   "items": [
     {
       "id": "stockanalysis:6c528350c858a93a",
@@ -69,7 +69,7 @@
     {
       "id": "stockanalysis:3dc636e77f259e59",
       "titleEn": "Meta in court over child social media addiction",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Opening arguments begin Tuesday in the federal trial of Meta, the social media titan accused of deliberately making its Instagram and Facebook platforms addictive to children, with a coalition of states seeking $200 billion in penalties. In what many experts have called social media's \"big tobacco moment,\" Meta stands charged with harming children by using technology specifically designed to foster addiction among young users in a fashion similar to cigarettes.",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Meta hooked and exploited children, a federal court heard Tuesday in the trial of the social media giant on charges that it deliberately made Instagram and Facebook addictive to young users. In what many experts have called social media's \"big tobacco moment,\" a coalition of states is demanding that Meta pay $200 billion in penalties for using technology specifically designed to foster addiction among children in a similar fashion to cigarettes.",
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://techxplore.com/news/2026-08-meta-court-child-social-media.html",
@@ -172,15 +172,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260818312779/en/Finance-of-America-Earns-2026-Great-Place-To-Work-CertificationTM/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:77897c5d2e0bc905",
-      "titleEn": "Griffon Corporation Announces Closing of Senior Notes Offering and Amended Credit Facility",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817750103/en/Griffon-Corporation-Announces-Closing-of-Senior-Notes-Offering-and-Amended-Credit-Facility/",
       "published": null
     }
   ]
