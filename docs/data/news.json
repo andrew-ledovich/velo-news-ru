@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T22:46:14.831940Z",
+  "generatedAt": "2026-08-18T23:11:48.264634Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 15,
   "items": [
     {
       "id": "stockanalysis:be28942d23820d24",
@@ -100,15 +100,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/08/18/tesla-stock-reverses-early-losses-as-investors-await-ai-robotaxi-progress/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3dc636e77f259e59",
-      "titleEn": "Meta in court over child social media addiction",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Meta hooked and exploited children, a federal court heard Tuesday in the trial of the social media giant on charges that it deliberately made Instagram and Facebook addictive to young users. In what many experts have called social media's \"big tobacco moment,\" a coalition of states is demanding that Meta pay $200 billion in penalties for using technology specifically designed to foster addiction among children in a similar fashion to cigarettes.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-08-meta-court-child-social-media.html",
       "published": null
     },
     {
