@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-08-18T12:42:38.662805Z",
+  "generatedAt": "2026-08-18T13:28:42.519044Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:eb4a3a0a0adbe6d1",
+      "titleEn": "Gold pulls back as Hormuz attack keeps crude above $90 - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in early U.S. trading Tuesday, as a stronger oil-risk premium and higher long-end Treasury yields offset fading expectations for a September Federal Reserve rate hike. At the time of writing, spot gold was trading near $4,390.40 an ounce, down 0.58%, while spot silver was trading at $64.890, down 1.17% on the session. The latest positioning remains split between weaker U.S. growth data and renewed inflation pressure from energy. Last week’s soft retail-sales , CPI , PPI and consumer-sentiment sequence reduced the market-implied probability of a September Fed rate hike to about 30% to 35%, but long-end yields are rising as traders reprice oil-driven inflation and fiscal-risk premium. The 10-year Treasury yield is trading near 4.74%, while the 30-year yield has reached the 5.2% to 5.3% area, its highest level since 2007. Nohshad Shah, head of EMEA fixed-income sales at Citadel Securities, said inflation has “little to no breathing room” in a supply-shock environment. The next macro catalysts are July housing starts and building permits at 8:30 a.m. ET, the Fed’s July meeting minutes Wednesday at 2 p.m. ET, jobless claims and the Philadelphia Fed survey Thursday at 8:30 a.m. ET and flash PMI readings Friday at 9:45 a.m. ET. The Strait of Hormuz remains the main geopolitical channel into oil, inflation expectations and defensive demand. A ship transiting the strait was struck by a projectile off Oman, damaging its engine room and causing a crew casualty, while the 60-day U.S.-Iran negotiation window has expired without progress. Iran continues to insist the strait will remain closed until U.S. sanctions and other conditions are addressed, while talks with Oman on strait management are still moving separately from Washington. Brent crude is trading near $91 a barrel and WTI near $85, keeping energy inflation risk in the market. For gold, the setup remains two-sided: shipping-risk headlines support defensive demand, while higher crude and rising long yields limit the rate-relief bid.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-18/gold-pulls-back-hormuz-attack-keeps-crude-above-90-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4c9afd1961d47d72",
+      "titleEn": "Klarna stock plunge 21% as weak outlook overshadows surprise profit",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/klarna-stock-plunge-21-as-weak-outlook-overshadows-surprise-profit/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:53917e2545545962",
+      "titleEn": "VGLT, TLT ETFs eye record lows despite inflows as US 30-year Treasury yield jumps",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/18/vglt-tlt-etfs-eye-record-lows-despite-inflows-as-us-30-year-treasury-yield-jumps/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e87d59287b451f49",
+      "titleEn": "Jim Cramer says it's not too late to invest in SNDK, MU, STX, WDC",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/jim-cramer-says-its-not-too-late-to-invest-in-sndk-mu-stx-wdc/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e79e15232ce1283d",
+      "titleEn": "Spot gold trades below $4,400/oz after U.S. housing starts fall 12.4%, building permits rise 5% in July",
+      "summaryEn": "(Kitco News) - Gold prices are trading near session lows under $4,400 per ounce this morning after the latest data showed the U.S. housing market delivering a mixed performance last month. Housing starts fell 12.4% in July to a seasonally adjusted annual rate of 1.239 million units, the Commerce Department announced on Tuesday. The data was worse than expected as economists looked for a decrease to 1.350 million units. June’s number was also revised to 1.415 million units from 1.427 million units. The report said that building permits for future homebuilding rose 5.0% to a rate of 1.443 million in July, which was better than the consensus expectation for 1.370 million permits, and June&#x27;s figure was unrevised at 1.374 million.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-18/spot-gold-trades-below-4400oz-after-us-housing-starts-fall-124-building",
+      "published": null
+    },
     {
       "id": "stockanalysis:d3dfdf9a6557de76",
       "titleEn": "Lululemon stock forecast: why it may crash below $100 soon",
@@ -58,66 +103,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:86c4d0d4e0c4c482",
-      "titleEn": "Lloyds share price flashes diamond reversal, bearish divergence: what next?",
+      "id": "stockanalysis:4cb6f35cf929e787",
+      "titleEn": "CoStar Group Names Steve Price President of Ten-X",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/lloyds-share-price-flashes-diamond-reversal-bearish-divergence-what-next/",
+      "link": "https://www.businesswire.com/news/home/20260818681939/en/CoStar-Group-Names-Steve-Price-President-of-Ten-X/",
       "published": null
     },
     {
-      "id": "stockanalysis:eeb655b19d97080e",
-      "titleEn": "Rolls-Royce shares are on a path to 2,000p, but a key technical risk remains",
+      "id": "stockanalysis:2eb7f8d00be1976f",
+      "titleEn": "Pacific Energy Concepts Lifted Call Connect Rates More Than 53% with ZoomInfo",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/rolls-royce-shares-are-on-a-path-to-2000p-but-a-key-technical-risk-remains/",
+      "link": "https://www.businesswire.com/news/home/20260818980210/en/Pacific-Energy-Concepts-Lifted-Call-Connect-Rates-More-Than-53-with-ZoomInfo/",
       "published": null
     },
     {
-      "id": "stockanalysis:cc7cfc61f550342c",
-      "titleEn": "Could Amazon stock double by end of next year? Here's what Morgan Stanley says",
+      "id": "stockanalysis:9e23c2897d4190aa",
+      "titleEn": "Boxlight Accelerates Transformation Strategy Around Integrated EdTech, Communication and Safety Ecosystem",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/could-amazon-stock-double-by-end-of-next-year-heres-what-morgan-stanley-says/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2263aa74bf74baef",
-      "titleEn": "Could Apple stock jump 30%? This Nvidia AI bet may hold the key",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/18/could-apple-stock-jump-30-this-nvidia-ai-bet-may-hold-the-key/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d50d38e314468b39",
-      "titleEn": "S&amp;P 500 is near a record, but this Wall Street warning just hit a 2007 high",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/18/sp-500-is-near-a-record-but-this-wall-street-warning-just-hit-a-2007-high/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7544448552d14bce",
-      "titleEn": "KOSPI jumps 3% as Treasury yields spike: why Asia may be pricing the wrong risk",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/kospi-jumps-3-as-treasury-yields-spike-why-asia-may-be-pricing-the-wrong-risk/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0687a1efac505715",
-      "titleEn": "Corporacion America Airports Reports Second Quarter 2026 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818877945/en/Corporacion-America-Airports-Reports-Second-Quarter-2026-Results/",
+      "link": "https://www.businesswire.com/news/home/20260818046092/en/Boxlight-Accelerates-Transformation-Strategy-Around-Integrated-EdTech-Communication-and-Safety-Ecosystem/",
       "published": null
     }
   ]
