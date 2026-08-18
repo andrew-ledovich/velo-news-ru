@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T17:17:18.627340Z",
+  "generatedAt": "2026-08-18T17:50:08.633728Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 17,
   "items": [
     {
       "id": "stockanalysis:b667ffb30e260a53",
@@ -139,39 +139,21 @@
       "published": null
     },
     {
+      "id": "stockanalysis:fba28b3bd6dd6289",
+      "titleEn": "BAE Systems, Inc. Names Michael Loeffler Vice President of Supply Chain",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818982535/en/BAE-Systems-Inc.-Names-Michael-Loeffler-Vice-President-of-Supply-Chain/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:07c9400bd2908981",
       "titleEn": "JSB Financial Inc. Reports Second Quarter 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260807623106/en/JSB-Financial-Inc.-Reports-Second-Quarter-2026-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c27a670c03930bec",
-      "titleEn": "EDF power solutions North America Signs an Agreement with NV Energy for Solar+Storage Project",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818588674/en/EDF-power-solutions-North-America-Signs-an-Agreement-with-NV-Energy-for-SolarStorage-Project/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:366360096fc3b985",
-      "titleEn": "Infleqtion Opens Colorado Quantum Innovation Center, Anchoring \"America's Quantum Peak\"",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818295902/en/Infleqtion-Opens-Colorado-Quantum-Innovation-Center-Anchoring-Americas-Quantum-Peak/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:48ff9704e4084e4b",
-      "titleEn": "CUPE members take action to demand a fair deal from Extendicare",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818859982/en/CUPE-members-take-action-to-demand-a-fair-deal-from-Extendicare/",
       "published": null
     }
   ]
