@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-18T03:55:14.486608Z",
+  "generatedAt": "2026-08-18T04:24:01.693390Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:d50d38e314468b39",
+      "titleEn": "S&amp;P 500 is near a record, but this Wall Street warning just hit a 2007 high",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/18/sp-500-is-near-a-record-but-this-wall-street-warning-just-hit-a-2007-high/",
+      "published": null
+    },
     {
       "id": "stockanalysis:7544448552d14bce",
       "titleEn": "KOSPI jumps 3% as Treasury yields spike: why Asia may be pricing the wrong risk",
@@ -94,30 +103,30 @@
       "published": null
     },
     {
+      "id": "stockanalysis:2c6472c65628762c",
+      "titleEn": "Copart Announces the Addition of David J. Berger to Its Board of Directors",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817276815/en/Copart-Announces-the-Addition-of-David-J.-Berger-to-Its-Board-of-Directors/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3cd1d8aebf5d0002",
+      "titleEn": "FTK Awarded $70MM Virginia LIHTC Rehab",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817201518/en/FTK-Awarded-70MM-Virginia-LIHTC-Rehab/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:d388025d505c85b2",
       "titleEn": "IMDA Accreditation Expands Abnormal AI's Opportunities Across Singapore's Public and Enterprise Sectors",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.businesswire.com/news/home/20260817075393/en/IMDA-Accreditation-Expands-Abnormal-AI%E2%80%99s-Opportunities-Across-Singapores-Public-and-Enterprise-Sectors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5dab252d8d46e346",
-      "titleEn": "Infleqtion Reports Updated Financial Results for Q2 2026 and FY26 Revenue Guidance",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817298447/en/Infleqtion-Reports-Updated-Financial-Results-for-Q2-2026-and-FY26-Revenue-Guidance/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3c6249d13b9aa075",
-      "titleEn": "KBRA Assigns Rating to Blue Owl Technology Finance Corp.'s $400 Million Senior Unsecured Notes due 2029",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817197990/en/KBRA-Assigns-Rating-to-Blue-Owl-Technology-Finance-Corp.s-400-Million-Senior-Unsecured-Notes-due-2029/",
       "published": null
     }
   ]
