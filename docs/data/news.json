@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T21:18:45.149031Z",
+  "generatedAt": "2026-08-18T21:44:12.890352Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 17,
   "items": [
     {
       "id": "stockanalysis:be28942d23820d24",
@@ -10,6 +10,24 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-08-18/gold-performs-nothing-else-commodity-complex-wgcs-de-pessemier",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:50e446c3677a95b7",
+      "titleEn": "Gold, silver slide as AI selloff, Hormuz risk lift rate concerns - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply lower in late-afternoon U.S. trading Tuesday, as elevated global bond yields and a renewed selloff in AI-linked equities outweighed support from a softer U.S. dollar and lingering Strait of Hormuz risk. At the time of writing, spot gold was trading near $4,338.10 an ounce, down 1.76%, while spot silver was trading at $63.370, down 3.49% on the session. North American equity markets closed lower, led by technology and semiconductor weakness. The S&P 500 fell 48.42 points, or 0.63%, to 7,696.64, the Dow Jones Industrial Average lost 87.51 points, or 0.16%, to 53,372.27, and the Nasdaq Composite dropped 355.20 points, or 1.33%, to 26,289.72. European markets also finished weaker, with the STOXX Europe 600 down 0.69% to 651.90, Germany’s DAX down 0.80% to 26,128.36, France’s CAC 40 down 0.82% to 8,509.36, Italy’s FTSE MIB down 1.06% to 53,017.84 and London’s FTSE 100 up 0.07% to 10,728.04. The latest positioning remains a tug of war between softer U.S. data and a higher-for-longer rates impulse from oil and long-end yields. Last week’s weaker retail sales , softer CPI , flat headline PP I and weaker consumer sentiment reduced expectations for a September Fed hike, while Monday’s Empire State survey showed activity and prices paid improving. The 10-year Treasury yield edged lower to about 4.71%, but remains well above prewar levels, while the 30-year yield stayed near its highest level since 2007. Markets are now focused on the Fed’s July meeting minutes Wednesday at 2 p.m. ET, jobless claims and the Philadelphia Fed index Thursday, and Friday’s flash PMI readings for confirmation that the Fed can stay on hold.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-08-18/gold-silver-slide-ai-selloff-hormuz-risk-lift-rate-concerns-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:324c5b52c488e9c4",
+      "titleEn": "Nearly 70% of exchange copper sits in America and some may be 'stranded': Saxo's Hansen",
+      "summaryEn": "(Kitco News) - The U.S. consumes only 6% to 7% of the world&#x27;s copper but now holds close to 70% of visible exchange inventory. Saxo Bank&#x27;s head of commodity strategy says some of it could stay put. The United States accounts for something like 6% or 7% of global copper consumption, by Ole Hansen&#x27;s reckoning. .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-18/nearly-70-exchange-copper-sits-america-and-some-may-be-stranded-saxos",
       "published": null
     },
     {
@@ -121,48 +139,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:7d6b8183cecc5a49",
-      "titleEn": "Rocket Lab stock is soaring, and a rare pattern points to gains; but there's a catch",
+      "id": "stockanalysis:e29f18c3397683f1",
+      "titleEn": "Infleqtion to Test Quantum Sensing in Colorado to Advance U.S. Critical Minerals Security",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/rocket-lab-stock-is-soaring-and-a-rare-pattern-points-to-gains-but-theres-a-catch/",
+      "link": "https://www.businesswire.com/news/home/20260818678981/en/Infleqtion-to-Test-Quantum-Sensing-in-Colorado-to-Advance-U.S.-Critical-Minerals-Security/",
       "published": null
     },
     {
-      "id": "stockanalysis:5344989b4b5812b5",
-      "titleEn": "Kohl's Corporation Declares Quarterly Dividend",
+      "id": "stockanalysis:ecaad42745f10f91",
+      "titleEn": "Vivmark Residential's Credit Rating Upgraded to ‘A' by S&amp;P Global Ratings",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818507076/en/Kohl%E2%80%99s-Corporation-Declares-Quarterly-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d754ff95287cb9ed",
-      "titleEn": "Auna Announces 2Q26 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818121546/en/Auna-Announces-2Q26-Financial-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e7ac45839d65949a",
-      "titleEn": "Baxter Announces Pricing for Its Upsized Cash Tender Offers",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818842217/en/Baxter-Announces-Pricing-for-Its-Upsized-Cash-Tender-Offers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:38328778d6e5b136",
-      "titleEn": "Cinemark Spins a New Record as Spider-Man: Brand New Day Swings to Highest Grossing Domestic Film of All Time",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818343887/en/Cinemark-Spins-a-New-Record-as-Spider-Man-Brand-New-Day-Swings-to-Highest-Grossing-Domestic-Film-of-All-Time/",
+      "link": "https://www.businesswire.com/news/home/20260818846824/en/Vivmark-Residential%E2%80%99s-Credit-Rating-Upgraded-to-%E2%80%98A%E2%80%99-by-SP-Global-Ratings-%C2%A0%C2%A0%C2%A0/",
       "published": null
     }
   ]
