@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T00:58:25.254266Z",
+  "generatedAt": "2026-08-18T02:14:11.439254Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:448798ac86bfe3fd",
@@ -91,15 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.pymnts.com/news/delivery/2026/uber-teams-with-zipline-to-expand-drone-delivery-service/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:eb6a2410c466810d",
-      "titleEn": "Q2 earnings unlikely to salvage Home Depot stock: find out more",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/q2-earnings-unlikely-to-salvage-home-depot-stock-find-out-more/",
       "published": null
     },
     {
