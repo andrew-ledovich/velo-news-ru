@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T10:52:06.104657Z",
+  "generatedAt": "2026-08-18T11:14:30.116984Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 15,
   "items": [
     {
       "id": "stockanalysis:6e847336452fa08f",
@@ -130,30 +130,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:d7453a3c3afcb661",
-      "titleEn": "S&amp;P 500 year-end prediction: Evercore ISI now sees 9,000 as realistic",
+      "id": "stockanalysis:4dba39d8715dccd4",
+      "titleEn": "TIC Solutions Completes Three Strategic Acquisitions, Expanding Its Technical Capabilities and Geographic Reach",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/sp-500-year-end-prediction-evercore-isi-now-sees-9000-as-realistic/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:caf6e58443e7ba91",
-      "titleEn": "ReNew Announces Results for the First Quarter for Fiscal Year 2027 (Q1 FY27), Ended June 30, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818877993/en/ReNew-Announces-Results-for-the-First-Quarter-for-Fiscal-Year-2027-Q1-FY27-Ended-June-30-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cb4bac16f0c80648",
-      "titleEn": "Dynatrace Announces Pricing of Private Placement of $1.25 Billion of Exchangeable Senior Notes",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817454259/en/Dynatrace-Announces-Pricing-of-Private-Placement-of-1.25-Billion-of-Exchangeable-Senior-Notes/",
+      "link": "https://www.businesswire.com/news/home/20260818352881/en/TIC-Solutions-Completes-Three-Strategic-Acquisitions-Expanding-Its-Technical-Capabilities-and-Geographic-Reach/",
       "published": null
     }
   ]
