@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-18T08:22:18.064600Z",
+  "generatedAt": "2026-08-18T09:00:25.999045Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:5a6fdd3347a99c28",
+      "titleEn": "Bond yields just hit a 2007 high: 5 stocks Wall Street should watch today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/bond-yields-just-hit-a-2007-high-5-stocks-wall-street-should-watch-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:86c4d0d4e0c4c482",
+      "titleEn": "Lloyds share price flashes diamond reversal, bearish divergence: what next?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/lloyds-share-price-flashes-diamond-reversal-bearish-divergence-what-next/",
+      "published": null
+    },
     {
       "id": "stockanalysis:eeb655b19d97080e",
       "titleEn": "Rolls-Royce shares are on a path to 2,000p, but a key technical risk remains",
@@ -109,15 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/17/boeing-stock-falls-2-today-heres-why/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:23332f88c52b0bb3",
-      "titleEn": "Why is Microsoft stock falling 3% today?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/why-is-microsoft-stock-falling-3-today/",
       "published": null
     },
     {
