@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T19:54:57.123118Z",
+  "generatedAt": "2026-08-18T20:10:53.590070Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 16,
   "items": [
     {
       "id": "stockanalysis:1ab0120bb5559164",
@@ -145,42 +145,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/18/iwm-and-voo-have-hit-record-highs-what-next-for-sp-500-and-russell-2000-etfs/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:21c484b069635f36",
-      "titleEn": "Spot gold back at $4,400/oz as U.S. pending home sales surprise with 2.3% drop in July",
-      "summaryEn": "(Kitco News) - Hopes for a stabilizing U.S. housing market were weakened after the number of potential home buyers came in well below expectations last month, according to the latest data from the National Association of Realtors (NAR). The U.S. pending home sales index fell 2.3% in July, the NAR announced on Tuesday. The data was worse than forecasts, as economists expected a 0.3% rise. June’s print was revised to -4.8% from -5.4%. For the year, pending home sales fell 2.2% in July against expectations for a 1.4% increase and following the unrevised 0.3% decrease in June. Month-over-month pending home sales declined in all regions, while year-over-year sales rose in the Midwest but declined in the Northeast, South and West.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-18/spot-gold-back-4400oz-us-pending-home-sales-surprise-23-drop-july",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d044acabdee54867",
-      "titleEn": "Mercury Launches Exclusive Mutual Fund Products with Morgan Stanley Investment Management and State Street Investment Management",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818155735/en/Mercury-Launches-Exclusive-Mutual-Fund-Products-with-Morgan-Stanley-Investment-Management-and-State-Street-Investment-Management/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:487c241a22cae71e",
-      "titleEn": "KBRA Assigns Preliminary Ratings to OBX 2026-NQM12 Trust",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818182612/en/KBRA-Assigns-Preliminary-Ratings-to-OBX-2026-NQM12-Trust/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7a004555bbbaee01",
-      "titleEn": "Finance of America Earns 2026 Great Place To Work CertificationTM",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818312779/en/Finance-of-America-Earns-2026-Great-Place-To-Work-CertificationTM/",
       "published": null
     }
   ]
