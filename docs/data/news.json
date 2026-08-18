@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-18T11:14:30.116984Z",
+  "generatedAt": "2026-08-18T11:41:15.984531Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:af61ff0b9ced5ba3",
+      "titleEn": "Nike stock lost $200B in value since its 2021 highs: what is ailing the sports giant?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/nike-stock-lost-200b-in-value-since-its-2021-highs-what-is-ailing-the-sports-giant/",
+      "published": null
+    },
     {
       "id": "stockanalysis:6e847336452fa08f",
       "titleEn": "Why is the AI chip trade cracking? Nvidia, AMD and Intel slide premarket",
@@ -94,48 +103,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:448798ac86bfe3fd",
-      "titleEn": "Stripe's $7 Billion OpenRouter Deal Turns AI Spend Into a New Treasury Lever",
-      "summaryEn": "As enterprises use multiple models, payment rails and financial providers, software determines which supplier gets the next unit of demand based on cost, performance, risk and availability. If AI agents begin choosing models, payment methods, liquidity sources and counterparties, the most valuable infrastructure layer could be the one coordinating those choices rather than owning every underlying product. Stripe’s reported but not confirmed OpenRouter deal is less about adding AI than about the rise of orchestration as a business model.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/b2b-payments/2026/stripe-7-billion-dollar-openrouter-deal-turns-ai-spend-into-new-treasury-lever/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d9b5ce852dcb713d",
-      "titleEn": "Gold, silver rise as oil spike lifts yields, hits equities - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in late-afternoon U.S. trading Monday, as a weaker U.S. dollar and lower Fed-hike expectations supported precious metals even as a rally in crude oil lifted Treasury yields and pressured equities. At the time of writing, spot gold was trading near $4,414.30 an ounce, up 0.88%, while spot silver was trading at $65.650, up 1.66% on the session. North American equity markets closed lower as the oil move revived inflation concerns. The S&P 500 fell 40.39 points, or 0.52%, to 7,745.37, the Dow Jones Industrial Average lost 272.39 points, or 0.51%, to 53,460.02, and the Nasdaq Composite slipped 84.25 points, or 0.32%, to 26,644.91. European markets also finished weaker, with the STOXX Europe 600 down 0.22% to 656.41, London’s FTSE 100 down 0.28% to 10,720.30, Germany’s DAX down 0.38% to 26,338.61 and France’s CAC 40 down 0.66% to 8,579.60. The latest positioning remains defined by softer U.S. data meeting a renewed oil shock. Last week’s retail-sales miss, cooler CPI , flat headline PPI and weaker consumer sentiment reduced the market’s appetite to price another September rate hike, but this morning’s Empire State survey showed the general business conditions index rising to 20.6 , its strongest reading in more than 4 years, while the prices-paid index climbed to 58.6. The 10-year Treasury yield rose toward 4.73% as crude jumped, keeping the rates channel mixed for gold: the weaker dollar and lower Fed-hike odds support the metal, while higher yields cap the rally. The next major U.S. rates catalyst is the Fed’s July meeting minutes Wednesday at 2 p.m. ET, followed by flash PMI readings Friday.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-17/gold-silver-rise-oil-spike-lifts-yields-hits-equities-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7709d4cdb7671241",
-      "titleEn": "UPS Automates 90% of Daily Customs Clearances With AI Agents",
-      "summaryEn": "A package crossing into the United States used to depend on a person to review it, classify and catch any errors, slowing the process with days-long delays at the border. Sorting more packages faster is a warehouse problem. Reviewing them accurately is a judgment problem, and judgment has historically required more people as volume grows. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); UPS has shown how quickly that can change. The United States eliminated its de minimis exemption globally effective Aug. 29, 2025, ending duty-free treatment for shipments valued at $800 or less, under an executive order President Donald Trump signed last July. The change triggered what UPS CEO Carol Tomé called a “ten-fold surge in daily customs entries,” she said on the company’s third-quarter 2025 earnings call.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/delivery/2026/ups-automates-90-of-daily-customs-clearances-with-ai-agents/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5eb512390b80f08a",
-      "titleEn": "‘Gold has been in a bull market for 25 Years' – Morgan Stanley CIO Wilson",
-      "summaryEn": "(Kitco News) – Gold and other commodities are ideally suited to environments where the 6040 portfolio is not delivering the performance and security it once did, and the yellow metal has actually been in a quarter-century bull market, according to Mike Wilson, chief US equity strategist and CIO at Morgan Stanley. In an interview with Bloomberg TV on Friday, Wilson was asked about the challenges to classic portfolio construction in the wake of the 2022 downturn. “The really challenging thing of 2022 for retirees is that stocks and bonds went down for the first time really in our lifetimes, so there was no hedge,” he said. “Even though the decline in equities wasn&#x27;t as severe as it was in 2008, or 2001-2002, your 60/40 portfolio was down the same. That was a change, and that was one of the things that made investors apprehensive to step in. It was like, ‘holy smokes, I&#x27;m getting hit both on my defensive stuff and on the offensive part of my portfolio!’ I think people froze up.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-17/gold-has-been-bull-market-25-years-morgan-stanley-cio-wilson",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4dba39d8715dccd4",
-      "titleEn": "TIC Solutions Completes Three Strategic Acquisitions, Expanding Its Technical Capabilities and Geographic Reach",
+      "id": "stockanalysis:c92a09fdfbcf01bd",
+      "titleEn": "AI Is Earning Its Place at the Table, New PAR Technology Survey Finds",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818352881/en/TIC-Solutions-Completes-Three-Strategic-Acquisitions-Expanding-Its-Technical-Capabilities-and-Geographic-Reach/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260818877583/en/AI-Is-Earning-Its-Place-at-the-Table-New-PAR-Technology-Survey-Finds/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5743eb91697ebfc3",
+      "titleEn": "Enhanced Announces Enhanced OS the AI Powered Operating System for Delivering Human Potential",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260818620631/en/Enhanced-Announces-Enhanced-OS-the-AI-Powered-Operating-System-for-Delivering-Human-Potential/",
       "published": null
     }
   ]
