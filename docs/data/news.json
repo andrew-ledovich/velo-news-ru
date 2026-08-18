@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-08-18T14:05:15.343141Z",
+  "generatedAt": "2026-08-18T14:49:25.555024Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:13cd94cfee3a115b",
+      "titleEn": "Why is Duolingo stock surging 6% today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/why-is-duolingo-stock-surging-6-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a5f3cd27cf722229",
+      "titleEn": "Why Nvidia stock is down over 2% on Tuesday",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/why-nvidia-stock-is-down-over-2-on-tuesday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:638b41ec677b6139",
+      "titleEn": "IWM and VOO have hit record highs: What next for S&amp;P 500 and Russell 2000 ETFs?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/iwm-and-voo-have-hit-record-highs-what-next-for-sp-500-and-russell-2000-etfs/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:21c484b069635f36",
+      "titleEn": "Spot gold back at $4,400/oz as U.S. pending home sales surprise with 2.3% drop in July",
+      "summaryEn": "(Kitco News) - Hopes for a stabilizing U.S. housing market were weakened after the number of potential home buyers came in well below expectations last month, according to the latest data from the National Association of Realtors (NAR). The U.S. pending home sales index fell 2.3% in July, the NAR announced on Tuesday. The data was worse than forecasts, as economists expected a 0.3% rise. June’s print was revised to -4.8% from -5.4%. For the year, pending home sales fell 2.2% in July against expectations for a 1.4% increase and following the unrevised 0.3% decrease in June. Month-over-month pending home sales declined in all regions, while year-over-year sales rose in the Midwest but declined in the Northeast, South and West.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-18/spot-gold-back-4400oz-us-pending-home-sales-surprise-23-drop-july",
+      "published": null
+    },
     {
       "id": "stockanalysis:eb4a3a0a0adbe6d1",
       "titleEn": "Gold pulls back as Hormuz attack keeps crude above $90 - Kitco AM Report",
@@ -67,57 +103,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:6e847336452fa08f",
-      "titleEn": "Why is the AI chip trade cracking? Nvidia, AMD and Intel slide premarket",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/18/why-is-the-ai-chip-trade-cracking-nvidia-amd-and-intel-slide-premarket/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9ac4a1a6501b2a4f",
-      "titleEn": "Why Baidu stock is falling over 5% after Q2 earnings",
+      "id": "stockanalysis:b4a143a61132477d",
+      "titleEn": "MITER Foundation awards $100,000 in high school scholarships",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/why-baidu-stock-is-falling-over-5-after-q2-earnings/",
+      "link": "https://www.businesswire.com/news/home/20260818396615/en/MITER-Foundation-awards-100000-in-high-school-scholarships/",
       "published": null
     },
     {
-      "id": "stockanalysis:f171e6b7938b314f",
-      "titleEn": "Micron down 6%, SK Hynix and SanDisk 5%: why is memory trade crashing?",
+      "id": "stockanalysis:ae7fe3eb0f39f6d2",
+      "titleEn": "Clarion Partners Real Estate Investment Fund Expands Strategic Industrial Outdoor Storage Platform Across Four U.S. Markets",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/micron-down-6-sk-hynix-and-sandisk-5-why-is-memory-trade-crashing/",
+      "link": "https://www.businesswire.com/news/home/20260818542002/en/Clarion-Partners-Real-Estate-Investment-Fund-Expands-Strategic-Industrial-Outdoor-Storage-Platform-Across-Four-U.S.-Markets/",
       "published": null
     },
     {
-      "id": "stockanalysis:90cffaf509b48c8f",
-      "titleEn": "Cummins selected to supply battery energy storage systems for large U.S. data center project",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://www.businesswire.com/news/home/20260818513062/en/Cummins-selected-to-supply-battery-energy-storage-systems-for-large-U.S.-data-center-project/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d61b9ae981ffd389",
-      "titleEn": "National Recruiting Network Raised Candidate Connection Rates 25% with ZoomInfo",
+      "id": "stockanalysis:cd45b21d33088941",
+      "titleEn": "TradePMR by Robinhood Integrates with Artha to Offer Scenario Based Optimization and Rebalancing",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818767138/en/National-Recruiting-Network-Raised-Candidate-Connection-Rates-25-with-ZoomInfo/",
+      "link": "https://www.businesswire.com/news/home/20260818241344/en/TradePMR-by-Robinhood-Integrates-with-Artha-to-Offer-Scenario-Based-Optimization-and-Rebalancing/",
       "published": null
     },
     {
-      "id": "stockanalysis:950a40e79dd9ee14",
-      "titleEn": "Comcast Launches Xfinity Shield, Redefining Intelligent Home Protection",
+      "id": "stockanalysis:55a9b8aba70baa35",
+      "titleEn": "L3Harris Demonstrates Multi-Domain Supremacy at Annual Project Convergence Exercise",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817535108/en/Comcast-Launches-Xfinity-Shield-Redefining-Intelligent-Home-Protection/",
+      "link": "https://www.businesswire.com/news/home/20260817738788/en/L3Harris-Demonstrates-Multi-Domain-Supremacy-at-Annual-Project-Convergence-Exercise/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:45c39bc919b0c0a5",
+      "titleEn": "Interactive Brokers Expands Funding Options for Latin American Investors",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818904999/en/Interactive-Brokers-Expands-Funding-Options-for-Latin-American-Investors/",
       "published": null
     }
   ]
