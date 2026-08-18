@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T23:57:42.491319Z",
+  "generatedAt": "2026-08-18T00:58:25.254266Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:448798ac86bfe3fd",
@@ -103,21 +103,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:006e4609ac761e20",
-      "titleEn": "U.S. data supports gold prices despite Iran pessimism, silver production soars as bar and coin sales rebound – Heraeus",
-      "summaryEn": "(Kitco News) – Recent economic data is buoying gold prices despite flagging optimism of an Iran deal, while silver production is surging even as bar and coin demand rebounds from last month’s lows, according to precious metals analysts at Heraeus. In their latest update, the analysts noted that gold prices trended steady to slightly higher last week following the prior week’s strong rally. “The fog has continued to hang thick around the negotiations, or lack thereof, surrounding a deal to reopen the Strait of Hormuz,” they wrote. “Oil flows through the strait have been almost zero since early July with stockpiles continuing to deplete, while oil prices have remained much lower than they were at the beginning of the conflict.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-17/us-data-supports-gold-prices-despite-iran-pessimism-silver-production-soars",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b53f4e50e6e18d3c",
-      "titleEn": "Why are Micron, SK Hynix and memory stocks surging today",
+      "id": "stockanalysis:d388025d505c85b2",
+      "titleEn": "IMDA Accreditation Expands Abnormal AI's Opportunities Across Singapore's Public and Enterprise Sectors",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/why-are-micron-sk-hynix-and-memory-stocks-surging-today/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260817075393/en/IMDA-Accreditation-Expands-Abnormal-AI%E2%80%99s-Opportunities-Across-Singapores-Public-and-Enterprise-Sectors/",
       "published": null
     },
     {
@@ -136,42 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260817197990/en/KBRA-Assigns-Rating-to-Blue-Owl-Technology-Finance-Corp.s-400-Million-Senior-Unsecured-Notes-due-2029/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:59c8933ad55da202",
-      "titleEn": "Statement From Kerlan Jobe Orthopaedic (KJOC) President Daniel Kharazzi Regarding the Passing of Pitching Great Tommy John",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817701052/en/Statement-From-Kerlan-Jobe-Orthopaedic-KJOC-President-Daniel-Kharazzi-Regarding-the-Passing-of-Pitching-Great-Tommy-John/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d6edff3cfd2f0641",
-      "titleEn": "WD-40 Company to Participate in Water Tower Research Fireside Chat Series",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817979507/en/WD-40-Company-to-Participate-in-Water-Tower-Research-Fireside-Chat-Series/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:41c1da5a0917de28",
-      "titleEn": "ComEd, Metropolitan Mayors Caucus Award More Than $170,000 for Clean Energy Projects and Public Safety",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817497232/en/ComEd-Metropolitan-Mayors-Caucus-Award-More-Than-170000-for-Clean-Energy-Projects-and-Public-Safety/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1a32e2b0dcbe4932",
-      "titleEn": "Mitek Appoints Aaron Seyler as Chief Revenue Officer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817725275/en/Mitek-Appoints-Aaron-Seyler-as-Chief-Revenue-Officer/",
       "published": null
     }
   ]
