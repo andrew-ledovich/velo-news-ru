@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-18T18:20:38.284525Z",
+  "generatedAt": "2026-08-18T19:04:23.880552Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 20,
   "items": [
+    {
+      "id": "stockanalysis:6c528350c858a93a",
+      "titleEn": "MU stock falls 7% as memory stocks face the heat",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/mu-stock-falls-7-as-memory-stocks-face-the-heat/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f94a66f08bf80cdc",
+      "titleEn": "Anthropic credit facility set to exceed $10B ahead of IPO: report",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/18/anthropic-credit-facility-set-to-exceed-10b-ahead-of-ipo-report/",
+      "published": null
+    },
     {
       "id": "stockanalysis:33692be218c830ed",
       "titleEn": "Wells Fargo reiterates positive outlook for precious metals, still sees gold at $4,900 in 2026",
@@ -130,21 +148,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:eb4a3a0a0adbe6d1",
-      "titleEn": "Gold pulls back as Hormuz attack keeps crude above $90 - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in early U.S. trading Tuesday, as a stronger oil-risk premium and higher long-end Treasury yields offset fading expectations for a September Federal Reserve rate hike. At the time of writing, spot gold was trading near $4,390.40 an ounce, down 0.58%, while spot silver was trading at $64.890, down 1.17% on the session. The latest positioning remains split between weaker U.S. growth data and renewed inflation pressure from energy. Last week’s soft retail-sales , CPI , PPI and consumer-sentiment sequence reduced the market-implied probability of a September Fed rate hike to about 30% to 35%, but long-end yields are rising as traders reprice oil-driven inflation and fiscal-risk premium. The 10-year Treasury yield is trading near 4.74%, while the 30-year yield has reached the 5.2% to 5.3% area, its highest level since 2007. Nohshad Shah, head of EMEA fixed-income sales at Citadel Securities, said inflation has “little to no breathing room” in a supply-shock environment. The next macro catalysts are July housing starts and building permits at 8:30 a.m. ET, the Fed’s July meeting minutes Wednesday at 2 p.m. ET, jobless claims and the Philadelphia Fed survey Thursday at 8:30 a.m. ET and flash PMI readings Friday at 9:45 a.m. ET. The Strait of Hormuz remains the main geopolitical channel into oil, inflation expectations and defensive demand. A ship transiting the strait was struck by a projectile off Oman, damaging its engine room and causing a crew casualty, while the 60-day U.S.-Iran negotiation window has expired without progress. Iran continues to insist the strait will remain closed until U.S. sanctions and other conditions are addressed, while talks with Oman on strait management are still moving separately from Washington. Brent crude is trading near $91 a barrel and WTI near $85, keeping energy inflation risk in the market. For gold, the setup remains two-sided: shipping-risk headlines support defensive demand, while higher crude and rising long yields limit the rate-relief bid.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-18/gold-pulls-back-hormuz-attack-keeps-crude-above-90-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4c9afd1961d47d72",
-      "titleEn": "Klarna stock plunge 21% as weak outlook overshadows surprise profit",
+      "id": "stockanalysis:d044acabdee54867",
+      "titleEn": "Mercury Launches Exclusive Mutual Fund Products with Morgan Stanley Investment Management and State Street Investment Management",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/klarna-stock-plunge-21-as-weak-outlook-overshadows-surprise-profit/",
+      "link": "https://www.businesswire.com/news/home/20260818155735/en/Mercury-Launches-Exclusive-Mutual-Fund-Products-with-Morgan-Stanley-Investment-Management-and-State-Street-Investment-Management/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:487c241a22cae71e",
+      "titleEn": "KBRA Assigns Preliminary Ratings to OBX 2026-NQM12 Trust",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818182612/en/KBRA-Assigns-Preliminary-Ratings-to-OBX-2026-NQM12-Trust/",
       "published": null
     },
     {
@@ -163,15 +181,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260817750103/en/Griffon-Corporation-Announces-Closing-of-Senior-Notes-Offering-and-Amended-Credit-Facility/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fba28b3bd6dd6289",
-      "titleEn": "BAE Systems, Inc. Names Michael Loeffler Vice President of Supply Chain",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818982535/en/BAE-Systems-Inc.-Names-Michael-Loeffler-Vice-President-of-Supply-Chain/",
       "published": null
     }
   ]
