@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-18T19:37:11.654799Z",
+  "generatedAt": "2026-08-18T19:54:57.123118Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 20,
   "items": [
+    {
+      "id": "stockanalysis:1ab0120bb5559164",
+      "titleEn": "Amylyx stock soars on GLP-1 success: here's why investors should sell",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/amylyx-stock-soars-on-glp-1-success-heres-why-investors-should-sell/",
+      "published": null
+    },
     {
       "id": "stockanalysis:6c528350c858a93a",
       "titleEn": "MU stock falls 7% as memory stocks face the heat",
