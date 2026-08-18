@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T20:10:53.590070Z",
+  "generatedAt": "2026-08-18T20:38:07.399104Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 17,
   "items": [
     {
       "id": "stockanalysis:1ab0120bb5559164",
@@ -145,6 +145,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/18/iwm-and-voo-have-hit-record-highs-what-next-for-sp-500-and-russell-2000-etfs/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3c58ba83f253165a",
+      "titleEn": "Better Home &amp; Finance Files Lawsuit Against Former CEO Vishal Garg to Protect Shareholders in the Face of Garg's Blatant Misrepresentations and Violations of Federal Securities Laws",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818873395/en/Better-Home-Finance-Files-Lawsuit-Against-Former-CEO-Vishal-Garg-to-Protect-Shareholders-in-the-Face-of-Garg%E2%80%99s-Blatant-Misrepresentations-and-Violations-of-Federal-Securities-Laws/",
       "published": null
     }
   ]
