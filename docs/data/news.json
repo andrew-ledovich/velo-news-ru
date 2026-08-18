@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T02:14:11.439254Z",
+  "generatedAt": "2026-08-18T03:08:31.150103Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:448798ac86bfe3fd",
@@ -82,15 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/17/as-the-nike-stock-implodes-is-it-safe-to-buy-the-dip-or-sell-the-rip/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a21eabe49abafa48",
-      "titleEn": "Uber Teams With Zipline to Expand Drone Delivery Service",
-      "summaryEn": "Uber hopes to expand its U.S. delivery business by teaming with drone company Zipline . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Starting later this year, Uber Eats customers in the U.S. will get the option of having orders delivered “in minutes” through Zipline’s autonomous drone delivery, Uber said in a Monday (Aug. 17) news release .",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/delivery/2026/uber-teams-with-zipline-to-expand-drone-delivery-service/",
       "published": null
     },
     {
