@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-18T05:29:06.066273Z",
+  "generatedAt": "2026-08-18T05:54:48.839131Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:2263aa74bf74baef",
+      "titleEn": "Could Apple stock jump 30%? This Nvidia AI bet may hold the key",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/18/could-apple-stock-jump-30-this-nvidia-ai-bet-may-hold-the-key/",
+      "published": null
+    },
     {
       "id": "stockanalysis:d50d38e314468b39",
       "titleEn": "S&amp;P 500 is near a record, but this Wall Street warning just hit a 2007 high",
