@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-18T11:58:56.424318Z",
+  "generatedAt": "2026-08-18T12:42:38.662805Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:d3dfdf9a6557de76",
+      "titleEn": "Lululemon stock forecast: why it may crash below $100 soon",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/lululemon-stock-forecast-why-it-may-crash-below-100-soon/",
+      "published": null
+    },
     {
       "id": "stockanalysis:af61ff0b9ced5ba3",
       "titleEn": "Nike stock lost $200B in value since its 2021 highs: what is ailing the sports giant?",
@@ -103,30 +112,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5542743ff30401ff",
-      "titleEn": "Klarna Announces Planned CFO and CMO Transitions",
+      "id": "stockanalysis:0687a1efac505715",
+      "titleEn": "Corporacion America Airports Reports Second Quarter 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818142503/en/Klarna-Announces-Planned-CFO-and-CMO-Transitions/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d4513a327cb68016",
-      "titleEn": "Sypris Reports Second Quarter Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818592057/en/Sypris-Reports-Second-Quarter-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3758393e1c9b30ce",
-      "titleEn": "Klarna Reports Second Quarter 2026 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817620726/en/Klarna-Reports-Second-Quarter-2026-Results/",
+      "link": "https://www.businesswire.com/news/home/20260818877945/en/Corporacion-America-Airports-Reports-Second-Quarter-2026-Results/",
       "published": null
     }
   ]
