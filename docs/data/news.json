@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-18T07:52:21.060093Z",
+  "generatedAt": "2026-08-18T08:22:18.064600Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:eeb655b19d97080e",
+      "titleEn": "Rolls-Royce shares are on a path to 2,000p, but a key technical risk remains",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/rolls-royce-shares-are-on-a-path-to-2000p-but-a-key-technical-risk-remains/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cc7cfc61f550342c",
+      "titleEn": "Could Amazon stock double by end of next year? Here's what Morgan Stanley says",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/could-amazon-stock-double-by-end-of-next-year-heres-what-morgan-stanley-says/",
+      "published": null
+    },
     {
       "id": "stockanalysis:2263aa74bf74baef",
       "titleEn": "Could Apple stock jump 30%? This Nvidia AI bet may hold the key",
@@ -103,12 +121,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:7feea560743fcb0d",
-      "titleEn": "As the Nike stock implodes, is it safe to buy the dip or sell the rip?",
+      "id": "stockanalysis:9ae5979a77b34f4f",
+      "titleEn": "Midas Atlantic Partners, in Partnership With The Najafi Companies, to Acquire Panasonic Industry's Power and Battery Control Solutions Business in Germany and Slovakia",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/17/as-the-nike-stock-implodes-is-it-safe-to-buy-the-dip-or-sell-the-rip/",
+      "topic": "EV",
+      "link": "https://www.businesswire.com/news/home/20260818849481/en/Midas-Atlantic-Partners-in-Partnership-With-The-Najafi-Companies-to-Acquire-Panasonic-Industry%E2%80%99s-Power-and-Battery-Control-Solutions-Business-in-Germany-and-Slovakia/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6af51254a952790e",
+      "titleEn": "Swiss Enterprises Prioritize Microsoft AI Governance",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260818684337/en/Swiss-Enterprises-Prioritize-Microsoft-AI-Governance/",
       "published": null
     },
     {
