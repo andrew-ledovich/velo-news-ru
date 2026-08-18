@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T11:41:15.984531Z",
+  "generatedAt": "2026-08-18T11:58:56.424318Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:af61ff0b9ced5ba3",
@@ -103,21 +103,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c92a09fdfbcf01bd",
-      "titleEn": "AI Is Earning Its Place at the Table, New PAR Technology Survey Finds",
+      "id": "stockanalysis:5542743ff30401ff",
+      "titleEn": "Klarna Announces Planned CFO and CMO Transitions",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260818877583/en/AI-Is-Earning-Its-Place-at-the-Table-New-PAR-Technology-Survey-Finds/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818142503/en/Klarna-Announces-Planned-CFO-and-CMO-Transitions/",
       "published": null
     },
     {
-      "id": "stockanalysis:5743eb91697ebfc3",
-      "titleEn": "Enhanced Announces Enhanced OS the AI Powered Operating System for Delivering Human Potential",
+      "id": "stockanalysis:d4513a327cb68016",
+      "titleEn": "Sypris Reports Second Quarter Results",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260818620631/en/Enhanced-Announces-Enhanced-OS-the-AI-Powered-Operating-System-for-Delivering-Human-Potential/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818592057/en/Sypris-Reports-Second-Quarter-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3758393e1c9b30ce",
+      "titleEn": "Klarna Reports Second Quarter 2026 Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817620726/en/Klarna-Reports-Second-Quarter-2026-Results/",
       "published": null
     }
   ]
