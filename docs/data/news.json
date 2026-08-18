@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-18T16:54:26.266597Z",
+  "generatedAt": "2026-08-18T17:17:18.627340Z",
   "sourceCount": 1,
-  "count": 21,
+  "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:b667ffb30e260a53",
+      "titleEn": "XOS stock soars on Air Force contract: should you chase the rally?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/18/xos-stock-soars-on-air-force-contract-should-you-chase-the-rally/",
+      "published": null
+    },
     {
       "id": "stockanalysis:6dbff9d6da2710c6",
       "titleEn": "Why SpaceX stock is in the red today after Monday's rally",
@@ -127,33 +136,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/18/klarna-stock-plunge-21-as-weak-outlook-overshadows-surprise-profit/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:53917e2545545962",
-      "titleEn": "VGLT, TLT ETFs eye record lows despite inflows as US 30-year Treasury yield jumps",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/18/vglt-tlt-etfs-eye-record-lows-despite-inflows-as-us-30-year-treasury-yield-jumps/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e87d59287b451f49",
-      "titleEn": "Jim Cramer says it's not too late to invest in SNDK, MU, STX, WDC",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/jim-cramer-says-its-not-too-late-to-invest-in-sndk-mu-stx-wdc/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e79e15232ce1283d",
-      "titleEn": "Spot gold trades below $4,400/oz after U.S. housing starts fall 12.4%, building permits rise 5% in July",
-      "summaryEn": "(Kitco News) - Gold prices are trading near session lows under $4,400 per ounce this morning after the latest data showed the U.S. housing market delivering a mixed performance last month. Housing starts fell 12.4% in July to a seasonally adjusted annual rate of 1.239 million units, the Commerce Department announced on Tuesday. The data was worse than expected as economists looked for a decrease to 1.350 million units. June’s number was also revised to 1.415 million units from 1.427 million units. The report said that building permits for future homebuilding rose 5.0% to a rate of 1.443 million in July, which was better than the consensus expectation for 1.370 million permits, and June&#x27;s figure was unrevised at 1.374 million.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-18/spot-gold-trades-below-4400oz-after-us-housing-starts-fall-124-building",
       "published": null
     },
     {
