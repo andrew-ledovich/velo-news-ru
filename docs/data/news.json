@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T09:00:25.999045Z",
+  "generatedAt": "2026-08-18T09:46:02.596073Z",
   "sourceCount": 1,
   "count": 19,
   "items": [
@@ -130,6 +130,33 @@
       "published": null
     },
     {
+      "id": "stockanalysis:7f9a54b679c2a4b8",
+      "titleEn": "ISG Event to Spotlight Strategies for the AI-Driven Autonomous Enterprise",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260818481167/en/ISG-Event-to-Spotlight-Strategies-for-the-AI-Driven-Autonomous-Enterprise/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b7fcc1c150749a2d",
+      "titleEn": "FreeCast to Relaunch the Investor News Channel as a Next-Generation Global Business and Financial FAST Network",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818149075/en/FreeCast-to-Relaunch-the-Investor-News-Channel-as-a-Next-Generation-Global-Business-and-Financial-FAST-Network/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:98e8bfedf5cd3acb",
+      "titleEn": "dynaCERT Advances Global Commercial Expansion Across Trucking, Ports and Power Generation",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818490722/en/dynaCERT-Advances-Global-Commercial-Expansion-Across-Trucking-Ports-and-Power-Generation/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:9ae5979a77b34f4f",
       "titleEn": "Midas Atlantic Partners, in Partnership With The Najafi Companies, to Acquire Panasonic Industry's Power and Battery Control Solutions Business in Germany and Slovakia",
       "summaryEn": null,
@@ -145,33 +172,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.businesswire.com/news/home/20260818684337/en/Swiss-Enterprises-Prioritize-Microsoft-AI-Governance/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:923f7b8fdb27ccd2",
-      "titleEn": "Monumental Energy Announces Accepted Bid for the Tirua Point Application Area in New Zealand",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818163013/en/Monumental-Energy-Announces-Accepted-Bid-for-the-Tirua-Point-Application-Area-in-New-Zealand/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2c6472c65628762c",
-      "titleEn": "Copart Announces the Addition of David J. Berger to Its Board of Directors",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817276815/en/Copart-Announces-the-Addition-of-David-J.-Berger-to-Its-Board-of-Directors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3cd1d8aebf5d0002",
-      "titleEn": "FTK Awarded $70MM Virginia LIHTC Rehab",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817201518/en/FTK-Awarded-70MM-Virginia-LIHTC-Rehab/",
       "published": null
     }
   ]
