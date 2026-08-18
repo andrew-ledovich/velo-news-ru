@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T14:49:25.555024Z",
+  "generatedAt": "2026-08-18T15:20:32.059738Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 17,
   "items": [
     {
       "id": "stockanalysis:13cd94cfee3a115b",
@@ -103,48 +103,57 @@
       "published": null
     },
     {
+      "id": "stockanalysis:886d137e1dce182d",
+      "titleEn": "ALPS Corporation Goes Live on OneShield Market Solutions to Power Lawyers' Professional Liability Operations for LawyerCare",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818485479/en/ALPS-Corporation-Goes-Live-on-OneShield-Market-Solutions-to-Power-Lawyers-Professional-Liability-Operations-for-LawyerCare/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:16494177da2acf07",
+      "titleEn": "UI Investors Have Opportunity to Join Ubiquiti Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818982304/en/UI-Investors-Have-Opportunity-to-Join-Ubiquiti-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:becd2f973d70bbef",
+      "titleEn": "Americans Without Children Are Less Confident About Retirement, Allianz Life Study Finds",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818742119/en/Americans-Without-Children-Are-Less-Confident-About-Retirement-Allianz-Life-Study-Finds/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9d762af5c38c244b",
+      "titleEn": "VinSpace Announces Launch Contract with SpaceX, Marking a New Milestone for Vietnam's Space Industry",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818438101/en/VinSpace-Announces-Launch-Contract-with-SpaceX-Marking-a-New-Milestone-for-Vietnams-Space-Industry/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1f00e20b8be20a8e",
+      "titleEn": "GRM Information Management Acquisition of Storage Quarters Records Management, Inc. Expands GRM Client Base in New York Metro.",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.businesswire.com/news/home/20260818194613/en/GRM-Information-Management-Acquisition-of-Storage-Quarters-Records-Management-Inc.-Expands-GRM-Client-Base-in-New-York-Metro./",
+      "published": null
+    },
+    {
       "id": "stockanalysis:b4a143a61132477d",
       "titleEn": "MITER Foundation awards $100,000 in high school scholarships",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260818396615/en/MITER-Foundation-awards-100000-in-high-school-scholarships/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ae7fe3eb0f39f6d2",
-      "titleEn": "Clarion Partners Real Estate Investment Fund Expands Strategic Industrial Outdoor Storage Platform Across Four U.S. Markets",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818542002/en/Clarion-Partners-Real-Estate-Investment-Fund-Expands-Strategic-Industrial-Outdoor-Storage-Platform-Across-Four-U.S.-Markets/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cd45b21d33088941",
-      "titleEn": "TradePMR by Robinhood Integrates with Artha to Offer Scenario Based Optimization and Rebalancing",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818241344/en/TradePMR-by-Robinhood-Integrates-with-Artha-to-Offer-Scenario-Based-Optimization-and-Rebalancing/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:55a9b8aba70baa35",
-      "titleEn": "L3Harris Demonstrates Multi-Domain Supremacy at Annual Project Convergence Exercise",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817738788/en/L3Harris-Demonstrates-Multi-Domain-Supremacy-at-Annual-Project-Convergence-Exercise/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:45c39bc919b0c0a5",
-      "titleEn": "Interactive Brokers Expands Funding Options for Latin American Investors",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818904999/en/Interactive-Brokers-Expands-Funding-Options-for-Latin-American-Investors/",
       "published": null
     }
   ]
