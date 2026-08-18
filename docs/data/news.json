@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T07:12:08.805898Z",
+  "generatedAt": "2026-08-18T07:52:21.060093Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 15,
   "items": [
     {
       "id": "stockanalysis:2263aa74bf74baef",
@@ -109,6 +109,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/17/as-the-nike-stock-implodes-is-it-safe-to-buy-the-dip-or-sell-the-rip/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:923f7b8fdb27ccd2",
+      "titleEn": "Monumental Energy Announces Accepted Bid for the Tirua Point Application Area in New Zealand",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818163013/en/Monumental-Energy-Announces-Accepted-Bid-for-the-Tirua-Point-Application-Area-in-New-Zealand/",
       "published": null
     },
     {
