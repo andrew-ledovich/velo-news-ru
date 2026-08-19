@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-19T10:17:28.425979Z",
+  "generatedAt": "2026-08-19T10:52:02.527223Z",
   "sourceCount": 1,
   "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:5c49ce9747946363",
+      "titleEn": "SK Hynix stock rises in premarket on $28.6B share buyback: why its cash pile matters",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/19/sk-hynix-stock-rises-in-premarket-on-28-6b-share-buyback-why-its-cash-pile-matters/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b23cd23c1f746eac",
+      "titleEn": "AMD stock has surged 126%: why are strong AI numbers no longer enough?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/19/amd-stock-has-surged-126-why-are-strong-ai-numbers-no-longer-enough/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6413dc8f86a90bc4",
+      "titleEn": "Nvidia H200 chips approved for China, but Beijing limits mainland use: report",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/19/nvidia-h200-chips-approved-for-china-but-beijing-limits-mainland-use-report/",
+      "published": null
+    },
     {
       "id": "stockanalysis:5dd3fcb28569abd7",
       "titleEn": "WEX Says Embedded Payments Are Easier to Launch Than to Scale",
@@ -73,33 +100,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-18/nearly-70-exchange-copper-sits-america-and-some-may-be-stranded-saxos",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1ab0120bb5559164",
-      "titleEn": "Amylyx stock soars on GLP-1 success: here's why investors should sell",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/amylyx-stock-soars-on-glp-1-success-heres-why-investors-should-sell/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bbfafdb7f34f7b0d",
-      "titleEn": "American Express and St Andrews Links Trust Announce Partnership to Grow the Global Reach of the Home of Golf™",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818824511/en/American-Express-and-St-Andrews-Links-Trust-Announce-Partnership-to-Grow-the-Global-Reach-of-the-Home-of-Golf%E2%84%A2/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:256c1d0b2d4597e4",
-      "titleEn": "The Estée Lauder Companies Reports Fiscal 2026 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819712675/en/The-Est%C3%A9e-Lauder-Companies-Reports-Fiscal-2026-Results/",
       "published": null
     }
   ]
