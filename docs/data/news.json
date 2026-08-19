@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-19T03:55:56.159956Z",
+  "generatedAt": "2026-08-19T04:27:49.394404Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:6db4f1be40f8d987",
+      "titleEn": "Broadcom stock is down 21% from June peak: why one bull still sees 55% upside",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/19/broadcom-stock-down-21-percent-why-bulls-see-55-percent-upside/",
+      "published": null
+    },
     {
       "id": "stockanalysis:f28f617d5383e4ca",
       "titleEn": "Samsung, SK Hynix stocks sink 9%: why Micron's rout is spreading to South Korea",
@@ -85,6 +94,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:abff6824adc152f9",
+      "titleEn": "e.l.f. Cosmetics Answers Community Demand with the Return of Pickle-Inspired Glow Reviver Melting Lip Balms",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818059549/en/e.l.f.-Cosmetics-Answers-Community-Demand-with-the-Return-of-Pickle-Inspired-Glow-Reviver-Melting-Lip-Balms/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:bb186ee71a17b8cd",
       "titleEn": "KKR Invests in Indian Ticketing and Live Entertainment Platform BookMyShow",
       "summaryEn": null,
@@ -136,15 +154,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260818609999/en/Cotchett-Pitre-McCarthy-Files-Lawsuit-Against-Logitech-Over-Tariff-Refunds-Which-the-Company-Has-Not-Returned-to-Customers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a36b6b86827cbe89",
-      "titleEn": "Oasis Does Not Support a Tender Offer for Kakaku.com Below JPY 3,640 per Share (Stock Code: 2371 JT)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818994508/en/Oasis-Does-Not-Support-a-Tender-Offer-for-Kakaku.com-Below-JPY-3640-per-Share-Stock-Code-2371-JT/",
       "published": null
     }
   ]
