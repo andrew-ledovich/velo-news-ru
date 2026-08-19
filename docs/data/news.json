@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T09:01:29.846146Z",
+  "generatedAt": "2026-08-19T09:46:50.247186Z",
   "sourceCount": 1,
   "count": 13,
   "items": [
@@ -85,6 +85,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:489ee9d3879139fd",
+      "titleEn": "Forrester Introduces AI Disruption Model To Assess AI's Impact On Technology And Service Markets",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260819347107/en/Forrester-Introduces-AI-Disruption-Model-To-Assess-AI%E2%80%99s-Impact-On-Technology-And-Service-Markets/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:5f8805ed5992ecc4",
       "titleEn": "Ridgeview Partners Announces Recommended Acquisition of Pinewood Technologies Group plc",
       "summaryEn": null,
@@ -109,15 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260817422825/en/SAP-strengthens-its-cloud-infrastructure-in-Germany-with-BSI-approved-Layer-1-encryption-from-Adva-Network-Security/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5416e5cb0b7fc5b7",
-      "titleEn": "Pershing Square Holdings, Ltd.: Notification and Public Disclosure of Transactions",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818417931/en/Pershing-Square-Holdings-Ltd.-Notification-and-Public-Disclosure-of-Transactions/",
       "published": null
     }
   ]
