@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-19T20:45:13.478137Z",
+  "generatedAt": "2026-08-19T21:15:04.303417Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:4a01d059c6c49748",
+      "titleEn": "Gold price jumps 4% past $4,500 as Treasury buys back its own long-term debt",
+      "summaryEn": "(Kitco News) - Thirty-year yields fell, short rates rose, and the dollar hit a three-month low. The Fed&#x27;s minutes, out the same afternoon, showed officials arguing to go the other way. The U.S. Treasury moved Wednesday to hold down its own long-term borrowing costs. The metal added $185.50 to $4,518.90 on the Kitco spot chart, touching $4,524.50 and clearing a level it has spent weeks underneath. The dollar fell to its weakest in three months.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-19/gold-price-jumps-4-past-4500-treasury-buys-back-its-own-long-term-debt",
+      "published": null
+    },
     {
       "id": "stockanalysis:726ff62a63792861",
       "titleEn": "OpenAI Slams the Brakes as Meta Floors the Gas",
@@ -94,75 +103,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:cfdeb154df240677",
-      "titleEn": "33% of UK respondents regret missing out on gold's 128% price rally – The Royal Mint",
-      "summaryEn": "(Kitco News) – One in three UK adults regret not investing in gold over the past five years – during which time the yellow metal gained 128% in value – while nearly a third (30%) regret missing out on silver , according to new research from The Royal Mint. The findings come amid widespread financial uncertainty in the UK, with nearly three-quarters (73%) of adults saying they are concerned about how global conflicts and economic instability could affect the value of their money. Two in three are worried about their overall financial future, while more than half (53%) are unsure of the best place to put their money to stay financially secure. The Mint noted that gold prices has risen by around 128% over the past five years, while silver has increased by around 126%, resulting in a sense of missed opportunity among many UK adults. The regret surrounding precious metals is greater than for Bitcoin, with just 20% saying they regret not investing in Bitcoin over the same period.",
+      "id": "stockanalysis:941f4127a11e975f",
+      "titleEn": "CI Global Asset Management Announces Special Reinvested Distribution for CI Alternative Investment Grade Credit Fund ETF Series",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-19/33-uk-respondents-regret-missing-out-golds-128-price-rally-royal-mint",
+      "link": "https://www.businesswire.com/news/home/20260819918492/en/CI-Global-Asset-Management-Announces-Special-Reinvested-Distribution-for-CI-Alternative-Investment-Grade-Credit-Fund-ETF-Series/",
       "published": null
     },
     {
-      "id": "stockanalysis:dea8d84f6ed6bd46",
-      "titleEn": "Top reasons why Micron stock is about to stage a strong comeback",
+      "id": "stockanalysis:f3656306c3349840",
+      "titleEn": "Starfighters Space, Inc. Files Second Quarter 2026 Form 10-Q",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/19/top-reasons-why-micron-stock-is-about-to-stage-a-strong-comeback/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e0af29652a7001eb",
-      "titleEn": "Broadcom stock falls on Marvell's Google AI chip deal: what's worrying investors?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/19/broadcom-stock-falls-on-marvells-google-ai-chip-deal-whats-worrying-investors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2409b986beb6ee22",
-      "titleEn": "Genesco to Report Second Quarter Fiscal 2027 Financial Results and Hold Conference Call on September 3, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819211553/en/Genesco-to-Report-Second-Quarter-Fiscal-2027-Financial-Results-and-Hold-Conference-Call-on-September-3-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f8521ea2456b2dff",
-      "titleEn": "Coty Announces Fourth Quarter Fiscal Year 2026 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819037136/en/Coty-Announces-Fourth-Quarter-Fiscal-Year-2026-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:80e8e5469a280cdd",
-      "titleEn": "Uber CEO to Participate in Fireside Chat Hosted by Goldman Sachs",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819374355/en/Uber-CEO-to-Participate-in-Fireside-Chat-Hosted-by-Goldman-Sachs/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7789c677d0c44625",
-      "titleEn": "Phibro Animal Health Corporation to Host Webcast and Conference Call on Fourth Quarter and Fiscal Year 2026 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819246537/en/Phibro-Animal-Health-Corporation-to-Host-Webcast-and-Conference-Call-on-Fourth-Quarter-and-Fiscal-Year-2026-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:29422d3e68db051e",
-      "titleEn": "Guardian Pharmacy Services, Inc., to Participate in Upcoming Jefferies Healthcare Services Investor Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819530891/en/Guardian-Pharmacy-Services-Inc.-to-Participate-in-Upcoming-Jefferies-Healthcare-Services-Investor-Conference/",
+      "link": "https://www.businesswire.com/news/home/20260819120951/en/Starfighters-Space-Inc.-Files-Second-Quarter-2026-Form-10-Q/",
       "published": null
     }
   ]
