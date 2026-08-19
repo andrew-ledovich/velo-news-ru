@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-19T20:14:00.161648Z",
+  "generatedAt": "2026-08-19T20:45:13.478137Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:726ff62a63792861",
+      "titleEn": "OpenAI Slams the Brakes as Meta Floors the Gas",
+      "summaryEn": "OpenAI told the public on Tuesday that it is deliberately slowing down. “As models become more capable, the risks associated with developing and testing them internally also grow,” the company said in its own post. “We wanted to take the time necessary to meet those standards, so we temporarily slowed the pace of scaling.” That included a two-week pause in reinforcement learning training on models intended for deployment while OpenAI hardened its research environments and expanded monitoring coverage. The company’s largest planned frontier training run remains on hold. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); OpenAI also suspended training on its next-generation model, code-named Astra, after determining on August 7 that the model may have crossed the “Critical” cybersecurity capability threshold defined in its own Preparedness Framework. “I think it is a good time to slow down,” OpenAI CEO Sam Altman said, describing the decision to halt development of the company’s most powerful unreleased models, Time reported .",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-slams-the-brakes-as-meta-floors-the-gas/",
+      "published": null
+    },
     {
       "id": "stockanalysis:8da126e4006e0e9a",
       "titleEn": "Tempus AI stock is soaring and it has Moderna to thank",
@@ -112,39 +121,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:3bdfab131025bca5",
-      "titleEn": "Oklo stock just lost crucial support: Is the bear market set to continue?",
+      "id": "stockanalysis:2409b986beb6ee22",
+      "titleEn": "Genesco to Report Second Quarter Fiscal 2027 Financial Results and Hold Conference Call on September 3, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/19/oklo-stock-just-lost-crucial-support-is-the-bear-market-set-to-continue/",
+      "link": "https://www.businesswire.com/news/home/20260819211553/en/Genesco-to-Report-Second-Quarter-Fiscal-2027-Financial-Results-and-Hold-Conference-Call-on-September-3-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:68e13288df47762b",
-      "titleEn": "Chime to Participate in Goldman Sachs Communacopia + Technology Conference",
+      "id": "stockanalysis:f8521ea2456b2dff",
+      "titleEn": "Coty Announces Fourth Quarter Fiscal Year 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819939151/en/Chime-to-Participate-in-Goldman-Sachs-Communacopia-Technology-Conference/",
+      "link": "https://www.businesswire.com/news/home/20260819037136/en/Coty-Announces-Fourth-Quarter-Fiscal-Year-2026-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:fffd464b8a3dc65d",
-      "titleEn": "Braze To Participate In Upcoming Investor Conferences",
+      "id": "stockanalysis:80e8e5469a280cdd",
+      "titleEn": "Uber CEO to Participate in Fireside Chat Hosted by Goldman Sachs",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819960296/en/Braze-To-Participate-In-Upcoming-Investor-Conferences/",
+      "link": "https://www.businesswire.com/news/home/20260819374355/en/Uber-CEO-to-Participate-in-Fireside-Chat-Hosted-by-Goldman-Sachs/",
       "published": null
     },
     {
-      "id": "stockanalysis:1a9e710fb245e176",
-      "titleEn": "Solmate Infrastructure PLC (NASDAQ: SLMT) Engages PwC to Support Strategic Expansion into AI Infrastructure",
+      "id": "stockanalysis:7789c677d0c44625",
+      "titleEn": "Phibro Animal Health Corporation to Host Webcast and Conference Call on Fourth Quarter and Fiscal Year 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260819311916/en/Solmate-Infrastructure-PLC-NASDAQ-SLMT-Engages-PwC-to-Support-Strategic-Expansion-into-AI-Infrastructure/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819246537/en/Phibro-Animal-Health-Corporation-to-Host-Webcast-and-Conference-Call-on-Fourth-Quarter-and-Fiscal-Year-2026-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:29422d3e68db051e",
+      "titleEn": "Guardian Pharmacy Services, Inc., to Participate in Upcoming Jefferies Healthcare Services Investor Conference",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819530891/en/Guardian-Pharmacy-Services-Inc.-to-Participate-in-Upcoming-Jefferies-Healthcare-Services-Investor-Conference/",
       "published": null
     }
   ]
