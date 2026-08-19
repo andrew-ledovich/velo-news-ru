@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T11:41:17.951829Z",
+  "generatedAt": "2026-08-19T11:59:04.843236Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:5c49ce9747946363",
@@ -76,21 +76,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:be28942d23820d24",
-      "titleEn": "Gold performs like nothing else in the commodity complex – WGC's De Pessemier",
-      "summaryEn": "9Kitco News) – Gold ’s supply-and-demand dynamics, diversification benefits and resilience across market environments are unique among all commodities, and the yellow metal should be treated as a distinct portfolio allocation, according to Jeremy De Pessemier, asset allocation strategist at The World Gold Council (WGC). “Investors have long recognised the benefits of investing in commodities,” De Pessemier writes in the WGC’s Gold: The most effective commodity investment − 2026 edition. “Over time, they have been shown to improve portfolio diversification, offering inflation protection and an element of smoothing across economic cycles. Most investors access this asset class via commodity indices, which invariably include gold.” But he argues that gold’s weighting in broad commodity indices fails to do justice to the yellow metal’s importance as a strategic component of investor portfolios. “Index methodologies typically rely on futures-market liquidity and/or production-based measures, neither of which fully captures the structure of the gold market,” he said. “Gold&#x27;s liquidity extends beyond futures markets through deep OTC and ETF trading, while its available supply extends beyond annual mine production through a large above-ground stock that can be recycled, resold and reallocated. As a result, broad commodity indices may assign gold a modest weight even though its market depth, available supply and strategic portfolio role are greater than those weights suggest.”",
+      "id": "stockanalysis:4bcc1f4ae18c9ca5",
+      "titleEn": "Cizzle Brands Corporation Announces Filing of Form F-10 Registration Statement with the U.S. Securities and Exchange Commission and Intention to List on a U.S. Exchange; Appoints Finance &amp; Governance Veteran Dominic Scarangella to Board of Directors",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-18/gold-performs-nothing-else-commodity-complex-wgcs-de-pessemier",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819464563/en/Cizzle-Brands-Corporation-Announces-Filing-of-Form-F-10-Registration-Statement-with-the-U.S.-Securities-and-Exchange-Commission-and-Intention-to-List-on-a-U.S.-Exchange-Appoints-Finance-Governance-Veteran-Dominic-Scarangella-to-Board-of-Directors/",
       "published": null
     },
     {
-      "id": "stockanalysis:50e446c3677a95b7",
-      "titleEn": "Gold, silver slide as AI selloff, Hormuz risk lift rate concerns - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply lower in late-afternoon U.S. trading Tuesday, as elevated global bond yields and a renewed selloff in AI-linked equities outweighed support from a softer U.S. dollar and lingering Strait of Hormuz risk. At the time of writing, spot gold was trading near $4,338.10 an ounce, down 1.76%, while spot silver was trading at $63.370, down 3.49% on the session. North American equity markets closed lower, led by technology and semiconductor weakness. The S&P 500 fell 48.42 points, or 0.63%, to 7,696.64, the Dow Jones Industrial Average lost 87.51 points, or 0.16%, to 53,372.27, and the Nasdaq Composite dropped 355.20 points, or 1.33%, to 26,289.72. European markets also finished weaker, with the STOXX Europe 600 down 0.69% to 651.90, Germany’s DAX down 0.80% to 26,128.36, France’s CAC 40 down 0.82% to 8,509.36, Italy’s FTSE MIB down 1.06% to 53,017.84 and London’s FTSE 100 up 0.07% to 10,728.04. The latest positioning remains a tug of war between softer U.S. data and a higher-for-longer rates impulse from oil and long-end yields. Last week’s weaker retail sales , softer CPI , flat headline PP I and weaker consumer sentiment reduced expectations for a September Fed hike, while Monday’s Empire State survey showed activity and prices paid improving. The 10-year Treasury yield edged lower to about 4.71%, but remains well above prewar levels, while the 30-year yield stayed near its highest level since 2007. Markets are now focused on the Fed’s July meeting minutes Wednesday at 2 p.m. ET, jobless claims and the Philadelphia Fed index Thursday, and Friday’s flash PMI readings for confirmation that the Fed can stay on hold.",
+      "id": "stockanalysis:64dcaa870506ec72",
+      "titleEn": "Datavault AI Reports Second Quarter 2026 Financial Results and Provides Business Update Highlighting Progress Toward Commercialization of Tokenization and Data Monetization Platforms",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-08-18/gold-silver-slide-ai-selloff-hormuz-risk-lift-rate-concerns-kitco-pm-report",
+      "link": "https://www.businesswire.com/news/home/20260819153758/en/Datavault-AI-Reports-Second-Quarter-2026-Financial-Results-and-Provides-Business-Update-Highlighting-Progress-Toward-Commercialization-of-Tokenization-and-Data-Monetization-Platforms/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:16ce3affb7aa2d08",
+      "titleEn": "Nebius Group announces proposed private offering of $4.50 billion of convertible senior notes",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819054999/en/Nebius-Group-announces-proposed-private-offering-of-4.50-billion-of-convertible-senior-notes/",
       "published": null
     }
   ]
