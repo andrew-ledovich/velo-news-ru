@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T17:17:01.093247Z",
+  "generatedAt": "2026-08-19T17:46:40.123223Z",
   "sourceCount": 1,
-  "count": 21,
+  "count": 18,
   "items": [
     {
       "id": "stockanalysis:77fc3bf2df57a5b0",
@@ -139,21 +139,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:3aa4cb3ee9748875",
-      "titleEn": "Gold firms as softer dollar offsets oil-led yield pressure - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices are higher and spot silver prices are near steady in early U.S. trading Wednesday, as a softer U.S. dollar supported precious metals while elevated Treasury yields and higher crude oil kept the rate-relief trade in check. At the time of writing, spot gold was trading near $4,367.50 an ounce, up 0.79%, while spot silver was trading at $63.230, up 0.04% on the session. The latest positioning remains split between softer U.S. data and stubborn long-end yield pressure. Last week’s weaker retail sales , softer CPI , flat headline PPI and weaker consumer sentiment reduced the market’s appetite to price another September Fed hike, while Monday’s Empire State survey showed the general business conditions index rising to 20.6 and prices paid climbing to 58.6. Markets now imply roughly a two-thirds probability that the Fed holds rates steady in September, with hike odds near one-third, while the 10-year Treasury yield is trading near the 4.7% area and the dollar index is softer near 99.36. Traders are focused on the Fed’s July meeting minutes at 2 p.m. ET, followed by jobless claims and the Philadelphia Fed index Thursday, and flash PMI readings Friday. The Strait of Hormuz remains the main geopolitical channel into oil, inflation expectations and defensive demand. Washington says the strait is open, while Tehran says it remains shut to shipping, and U.S.-Iran talks are not scheduled. Oman’s talks with Iran on a maritime arrangement have drawn U.S. opposition, while regional shipping traffic remains constrained after a projectile strike damaged a vessel near Oman and caused a crew casualty. Brent crude is trading around $91.50 a barrel and WTI is near $85, keeping an inflation-risk premium in the market. For gold, the setup remains two-sided: geopolitical stress and a softer dollar support haven demand, while higher oil and elevated yields limit the upside.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-19/gold-firms-softer-dollar-offsets-oil-led-yield-pressure-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bd57b55bf2e38ceb",
-      "titleEn": "Why is Moderna stock up 87% today during premarket trade?",
+      "id": "stockanalysis:42c03fee73f06cb4",
+      "titleEn": "CoastConnect Chooses Calix Agent Workforce After Investing Early in Organizational Readiness So Teams Can Put AI To Work Faster",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/19/why-is-moderna-stock-up-87-today-during-premarket-trade/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260819116262/en/CoastConnect-Chooses-Calix-Agent-Workforce-After-Investing-Early-in-Organizational-Readiness-So-Teams-Can-Put-AI-To-Work-Faster/",
       "published": null
     },
     {
@@ -172,24 +163,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260819848021/en/Mattel-Brick-Shop%E2%84%A2-Celebrates-25-Years-of-Microsofts-Iconic-XBOX-Game-Console-with-New-Premium-Building-Set/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e4310be7e68f95d1",
-      "titleEn": "Wolters Kluwer Study Identifies Seven-Year High in Subpoena Volumes",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819258238/en/Wolters-Kluwer-Study-Identifies-Seven-Year-High-in-Subpoena-Volumes/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:783b8364d267a9d5",
-      "titleEn": "Motorola Solutions Declares Quarterly Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817241114/en/Motorola-Solutions-Declares-Quarterly-Dividend/",
       "published": null
     }
   ]
