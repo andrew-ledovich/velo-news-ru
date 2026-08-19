@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T23:35:17.023652Z",
+  "generatedAt": "2026-08-19T23:56:02.006648Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:e762933995e3d0d3",
@@ -10,6 +10,24 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.pymnts.com/news/investment-tracker/2026/nvidia-weighs-investment-in-round-valuing-mercor-at-20-billion/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:68eae3f3ae7b8c80",
+      "titleEn": "Hyundai Cuts Crash Test Review Time by 90% With AI",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The automaker is deploying AI across engineering, manufacturing and maintenance, posting similarly large gains elsewhere. AI-based cart routing has reduced unnecessary production downtime by 86%, and an AI system used for vehicle maintenance has shortened response times by 42%, according to the same release. None of these figures have been independently audited, Tech Times reported . Those numbers point to an enterprise AI use case that looks different from the chatbots and copilots that have dominated corporate adoption. Instead of automating the final decision, Hyundai is using AI to compress the information-heavy work employees complete before making that decision.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/hyundai-cuts-crash-test-review-time-90percent-ai/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a28503f2df9f8e0a",
+      "titleEn": "OpenAI CFO Tells Employees Public Debut Coming by 2027",
+      "summaryEn": "OpenAI “will be a public company in 2027,” if not sooner, Chief Financial Officer Sarah Friar told employees Wednesday (Aug. 19) during an all-hands meeting, CNBC reported , citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Friar said OpenAI could make its public debut this year if “our business continues to inflect,” Friar said, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-cfo-tells-employees-public-debut-coming-by-2027/",
       "published": null
     },
     {
