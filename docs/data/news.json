@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-19T03:08:47.646850Z",
+  "generatedAt": "2026-08-19T03:55:56.159956Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:f28f617d5383e4ca",
+      "titleEn": "Samsung, SK Hynix stocks sink 9%: why Micron's rout is spreading to South Korea",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/19/samsung-sk-hynix-stocks-sink-9-why-microns-rout-is-spreading-to-south-korea/",
+      "published": null
+    },
     {
       "id": "stockanalysis:396a8f8ed786370c",
       "titleEn": "Anthropic Beats OpenAI in Revenue for First Time",
@@ -76,12 +85,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:b667ffb30e260a53",
-      "titleEn": "XOS stock soars on Air Force contract: should you chase the rally?",
+      "id": "stockanalysis:bb186ee71a17b8cd",
+      "titleEn": "KKR Invests in Indian Ticketing and Live Entertainment Platform BookMyShow",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/xos-stock-soars-on-air-force-contract-should-you-chase-the-rally/",
+      "link": "https://www.businesswire.com/news/home/20260818473527/en/KKR-Invests-in-Indian-Ticketing-and-Live-Entertainment-Platform-BookMyShow/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:91eccd09860774d1",
+      "titleEn": "Hennessy Capital Investment Corp. VII and ONE Nuclear Energy to Host Investor Update Call",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818859267/en/Hennessy-Capital-Investment-Corp.-VII-and-ONE-Nuclear-Energy-to-Host-Investor-Update-Call/",
       "published": null
     },
     {
