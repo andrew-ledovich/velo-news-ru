@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T07:02:26.023594Z",
+  "generatedAt": "2026-08-19T07:50:58.665081Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:6db4f1be40f8d987",
@@ -76,6 +76,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:266f6cd8eef04ff4",
+      "titleEn": "SAP strengthens its cloud infrastructure in Germany with BSI-approved Layer 1 encryption from Adva Network Security",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817422825/en/SAP-strengthens-its-cloud-infrastructure-in-Germany-with-BSI-approved-Layer-1-encryption-from-Adva-Network-Security/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:5416e5cb0b7fc5b7",
       "titleEn": "Pershing Square Holdings, Ltd.: Notification and Public Disclosure of Transactions",
       "summaryEn": null,
@@ -109,24 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260818859267/en/Hennessy-Capital-Investment-Corp.-VII-and-ONE-Nuclear-Energy-to-Host-Investor-Update-Call/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:724b47f4823c48a7",
-      "titleEn": "Alliance Laundry Announces Pricing of Upsized Public Offering of Common Stock by Selling Stockholder",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818486831/en/Alliance-Laundry-Announces-Pricing-of-Upsized-Public-Offering-of-Common-Stock-by-Selling-Stockholder/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:31983e7c831864a7",
-      "titleEn": "Faraday Future Supports AIxC's Full Strategic Pivot to Physical AI and Robot-Sharing and Rental Operations; RoboShare Completes Its First Paid Commercial Order, With an Initial Fleet of More Than 80 Robots in Place",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260818119192/en/Faraday-Future-Supports-AIxC%E2%80%99s-Full-Strategic-Pivot-to-Physical-AI-and-Robot-Sharing-and-Rental-Operations-RoboShare-Completes-Its-First-Paid-Commercial-Order-With-an-Initial-Fleet-of-More-Than-80-Robots-in-Place/",
       "published": null
     }
   ]
