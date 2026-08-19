@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-19T15:57:43.749268Z",
+  "generatedAt": "2026-08-19T16:25:42.600893Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 21,
   "items": [
+    {
+      "id": "stockanalysis:febbe1cce6d4a235",
+      "titleEn": "Should you buy Target stock after Q2 earnings? Jim Cramer answers",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/19/should-you-buy-target-stock-after-q2-earnings-jim-cramer-answers/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:079696fdf722101f",
+      "titleEn": "Why are Intel and AMD stocks falling on Wednesday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/19/why-are-intel-and-amd-stocks-falling-on-wednesday/",
+      "published": null
+    },
     {
       "id": "stockanalysis:a8d8642078d0576f",
       "titleEn": "Interactive Brokers Taps Paysafe's SafetyPay for LatAm Account Funding",
@@ -118,6 +136,33 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/19/trump-media-top-reasons-djt-may-become-a-penny-stock-soon/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d124144db9ac06e7",
+      "titleEn": "Mattel Brick Shop™ Celebrates 25 Years of Microsoft's Iconic XBOX Game Console with New Premium Building Set",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819848021/en/Mattel-Brick-Shop%E2%84%A2-Celebrates-25-Years-of-Microsofts-Iconic-XBOX-Game-Console-with-New-Premium-Building-Set/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e4310be7e68f95d1",
+      "titleEn": "Wolters Kluwer Study Identifies Seven-Year High in Subpoena Volumes",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819258238/en/Wolters-Kluwer-Study-Identifies-Seven-Year-High-in-Subpoena-Volumes/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:783b8364d267a9d5",
+      "titleEn": "Motorola Solutions Declares Quarterly Dividend",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260817241114/en/Motorola-Solutions-Declares-Quarterly-Dividend/",
       "published": null
     },
     {
