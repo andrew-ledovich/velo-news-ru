@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T18:59:23.934614Z",
+  "generatedAt": "2026-08-19T19:25:14.991538Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:9c8564380da8714a",
@@ -121,30 +121,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:066778dd3d981a22",
-      "titleEn": "Estée Lauder stock jumps 13% after earnings beat and margin outlook",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/19/estee-lauder-stock-jumps-13-after-earnings-beat-and-margin-outlook/",
-      "published": null
-    },
-    {
       "id": "stockanalysis:9d4240acb9e4753c",
       "titleEn": "Uber Launches Autonomous Rides in Europe",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260819338627/en/Uber-Launches-Autonomous-Rides-in-Europe/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9d51da8350cd7cfc",
-      "titleEn": "The Marzetti Company Continues Higher Cash Dividend; Board of Directors Sets Annual Meeting Date and Time",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819716800/en/The-Marzetti-Company-Continues-Higher-Cash-Dividend-Board-of-Directors-Sets-Annual-Meeting-Date-and-Time/",
       "published": null
     }
   ]
