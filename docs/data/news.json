@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T23:55:38.492639Z",
+  "generatedAt": "2026-08-19T00:38:36.577143Z",
   "sourceCount": 1,
   "count": 15,
   "items": [
@@ -94,12 +94,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:0eacd685e4f82c58",
-      "titleEn": "Tesla stock reverses early losses as investors await AI, robotaxi progress",
+      "id": "stockanalysis:2a6d50639acfa671",
+      "titleEn": "Cotchett, Pitre &amp; McCarthy Files Lawsuit Against Logitech Over Tariff Refunds Which the Company Has Not Returned to Customers",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/18/tesla-stock-reverses-early-losses-as-investors-await-ai-robotaxi-progress/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818609999/en/Cotchett-Pitre-McCarthy-Files-Lawsuit-Against-Logitech-Over-Tariff-Refunds-Which-the-Company-Has-Not-Returned-to-Customers/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a36b6b86827cbe89",
+      "titleEn": "Oasis Does Not Support a Tender Offer for Kakaku.com Below JPY 3,640 per Share (Stock Code: 2371 JT)",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818994508/en/Oasis-Does-Not-Support-a-Tender-Offer-for-Kakaku.com-Below-JPY-3640-per-Share-Stock-Code-2371-JT/",
       "published": null
     },
     {
@@ -127,15 +136,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260818571364/en/Interstate-Power-and-Light-Company-Prices-Debt-Offering/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e29f18c3397683f1",
-      "titleEn": "Infleqtion to Test Quantum Sensing in Colorado to Advance U.S. Critical Minerals Security",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818678981/en/Infleqtion-to-Test-Quantum-Sensing-in-Colorado-to-Advance-U.S.-Critical-Minerals-Security/",
       "published": null
     }
   ]
