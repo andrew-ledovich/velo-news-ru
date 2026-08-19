@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T06:02:02.987778Z",
+  "generatedAt": "2026-08-19T07:02:26.023594Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:6db4f1be40f8d987",
@@ -76,12 +76,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:f94a66f08bf80cdc",
-      "titleEn": "Anthropic credit facility set to exceed $10B ahead of IPO: report",
+      "id": "stockanalysis:5416e5cb0b7fc5b7",
+      "titleEn": "Pershing Square Holdings, Ltd.: Notification and Public Disclosure of Transactions",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/18/anthropic-credit-facility-set-to-exceed-10b-ahead-of-ipo-report/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818417931/en/Pershing-Square-Holdings-Ltd.-Notification-and-Public-Disclosure-of-Transactions/",
       "published": null
     },
     {
@@ -127,15 +127,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.businesswire.com/news/home/20260818119192/en/Faraday-Future-Supports-AIxC%E2%80%99s-Full-Strategic-Pivot-to-Physical-AI-and-Robot-Sharing-and-Rental-Operations-RoboShare-Completes-Its-First-Paid-Commercial-Order-With-an-Initial-Fleet-of-More-Than-80-Robots-in-Place/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9bb7ccf5fb28ac1d",
-      "titleEn": "Sherritt Responds to Purported Calling of Special Meeting of Shareholders",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818455878/en/Sherritt-Responds-to-Purported-Calling-of-Special-Meeting-of-Shareholders/",
       "published": null
     }
   ]
