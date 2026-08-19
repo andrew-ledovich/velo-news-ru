@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-19T02:06:26.974116Z",
+  "generatedAt": "2026-08-19T03:08:47.646850Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:396a8f8ed786370c",
+      "titleEn": "Anthropic Beats OpenAI in Revenue for First Time",
+      "summaryEn": "Anthropic’ s sales topped those of OpenAI for the first time in the second quarter, The Wall Street Journal reported Tuesday (Aug. 18), citing figures obtained from unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); OpenAI told investors that its revenue grew by 18% in the second quarter, compared to the first, while its losses deepened. The company’s second quarter revenue reached $6.7 billion, the report said, citing people familiar with the matter.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-beats-openai-in-revenue-for-first-time/",
+      "published": null
+    },
     {
       "id": "stockanalysis:be28942d23820d24",
       "titleEn": "Gold performs like nothing else in the commodity complex – WGC's De Pessemier",
@@ -76,21 +85,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:6dbff9d6da2710c6",
-      "titleEn": "Why SpaceX stock is in the red today after Monday's rally",
+      "id": "stockanalysis:724b47f4823c48a7",
+      "titleEn": "Alliance Laundry Announces Pricing of Upsized Public Offering of Common Stock by Selling Stockholder",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/why-spacex-stock-is-in-the-red-today-after-mondays-rally/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7b314959ccf6da37",
-      "titleEn": "Why are Intel and AMD stocks tanking up to 7% today?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/why-are-intel-and-amd-stocks-tanking-up-to-7-today/",
+      "link": "https://www.businesswire.com/news/home/20260818486831/en/Alliance-Laundry-Announces-Pricing-of-Upsized-Public-Offering-of-Common-Stock-by-Selling-Stockholder/",
       "published": null
     },
     {
@@ -127,24 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260818994508/en/Oasis-Does-Not-Support-a-Tender-Offer-for-Kakaku.com-Below-JPY-3640-per-Share-Stock-Code-2371-JT/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:48732edeb21e9561",
-      "titleEn": "Gopuff Expands Private Label Assortment and Introduces First-Ever Seasonal Product Lineup",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818359200/en/Gopuff-Expands-Private-Label-Assortment-and-Introduces-First-Ever-Seasonal-Product-Lineup/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ef55fe718db5e2b2",
-      "titleEn": "JBS Announces Proposal to Acquire Remaining Publicly Traded Shares of Pilgrim's Pride Corporation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818096100/en/JBS-Announces-Proposal-to-Acquire-Remaining-Publicly-Traded-Shares-of-Pilgrim%E2%80%99s-Pride-Corporation/",
       "published": null
     }
   ]
