@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-19T19:46:46.385435Z",
+  "generatedAt": "2026-08-19T20:14:00.161648Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:8da126e4006e0e9a",
+      "titleEn": "Tempus AI stock is soaring and it has Moderna to thank",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/19/tempus-ai-stock-is-soaring-and-it-has-moderna-to-thank/",
+      "published": null
+    },
     {
       "id": "stockanalysis:9c8564380da8714a",
       "titleEn": "Why Tesla stock is gaining 3% today",
@@ -112,21 +121,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ff8d83c07d34c1f2",
-      "titleEn": "Marvell stock jumps 7%, and it has Google to thank",
+      "id": "stockanalysis:68e13288df47762b",
+      "titleEn": "Chime to Participate in Goldman Sachs Communacopia + Technology Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/19/marvell-stock-jumps-7-and-it-has-google-to-thank/",
+      "link": "https://www.businesswire.com/news/home/20260819939151/en/Chime-to-Participate-in-Goldman-Sachs-Communacopia-Technology-Conference/",
       "published": null
     },
     {
-      "id": "stockanalysis:3f696c5cd46dbc1e",
-      "titleEn": "Volvo Construction Equipment Rolls Out First U.S.-Built Excavators and Large Loaders",
+      "id": "stockanalysis:fffd464b8a3dc65d",
+      "titleEn": "Braze To Participate In Upcoming Investor Conferences",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819875638/en/Volvo-Construction-Equipment-Rolls-Out-First-U.S.-Built-Excavators-and-Large-Loaders/",
+      "link": "https://www.businesswire.com/news/home/20260819960296/en/Braze-To-Participate-In-Upcoming-Investor-Conferences/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1a9e710fb245e176",
+      "titleEn": "Solmate Infrastructure PLC (NASDAQ: SLMT) Engages PwC to Support Strategic Expansion into AI Infrastructure",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260819311916/en/Solmate-Infrastructure-PLC-NASDAQ-SLMT-Engages-PwC-to-Support-Strategic-Expansion-into-AI-Infrastructure/",
       "published": null
     }
   ]
