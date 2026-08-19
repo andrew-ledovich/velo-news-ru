@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T11:14:58.603405Z",
+  "generatedAt": "2026-08-19T11:41:17.951829Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:5c49ce9747946363",
@@ -91,42 +91,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.kitco.com/news/article/2026-08-18/gold-silver-slide-ai-selloff-hormuz-risk-lift-rate-concerns-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:324c5b52c488e9c4",
-      "titleEn": "Nearly 70% of exchange copper sits in America and some may be 'stranded': Saxo's Hansen",
-      "summaryEn": "(Kitco News) - The U.S. consumes only 6% to 7% of the world&#x27;s copper but now holds close to 70% of visible exchange inventory. Saxo Bank&#x27;s head of commodity strategy says some of it could stay put. The United States accounts for something like 6% or 7% of global copper consumption, by Ole Hansen&#x27;s reckoning. .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-18/nearly-70-exchange-copper-sits-america-and-some-may-be-stranded-saxos",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0590e3421bbd878b",
-      "titleEn": "The Princeton Review Ranks JWMI #4 Online MBA Program",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819679314/en/The-Princeton-Review-Ranks-JWMI-4-Online-MBA-Program/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0b38ec991220a4e9",
-      "titleEn": "Glaukos Announces Participation in Wells Fargo Healthcare Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819707547/en/Glaukos-Announces-Participation-in-Wells-Fargo-Healthcare-Conference/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2509c0c9a23215f0",
-      "titleEn": "Viking Reports Second Quarter 2026 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819475597/en/Viking-Reports-Second-Quarter-2026-Financial-Results/",
       "published": null
     }
   ]
