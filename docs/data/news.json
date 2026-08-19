@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T09:46:50.247186Z",
+  "generatedAt": "2026-08-19T10:17:28.425979Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:5dd3fcb28569abd7",
@@ -85,39 +85,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:489ee9d3879139fd",
-      "titleEn": "Forrester Introduces AI Disruption Model To Assess AI's Impact On Technology And Service Markets",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260819347107/en/Forrester-Introduces-AI-Disruption-Model-To-Assess-AI%E2%80%99s-Impact-On-Technology-And-Service-Markets/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5f8805ed5992ecc4",
-      "titleEn": "Ridgeview Partners Announces Recommended Acquisition of Pinewood Technologies Group plc",
+      "id": "stockanalysis:bbfafdb7f34f7b0d",
+      "titleEn": "American Express and St Andrews Links Trust Announce Partnership to Grow the Global Reach of the Home of Golf™",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819595141/en/Ridgeview-Partners-Announces-Recommended-Acquisition-of-Pinewood-Technologies-Group-plc/",
+      "link": "https://www.businesswire.com/news/home/20260818824511/en/American-Express-and-St-Andrews-Links-Trust-Announce-Partnership-to-Grow-the-Global-Reach-of-the-Home-of-Golf%E2%84%A2/",
       "published": null
     },
     {
-      "id": "stockanalysis:b0a66be72a60ed32",
-      "titleEn": "Amentum to Support Critical Infrastructure and Platforms Under New Engineering Services Framework",
+      "id": "stockanalysis:256c1d0b2d4597e4",
+      "titleEn": "The Estée Lauder Companies Reports Fiscal 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819142579/en/Amentum-to-Support-Critical-Infrastructure-and-Platforms-Under-New-Engineering-Services-Framework/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:266f6cd8eef04ff4",
-      "titleEn": "SAP strengthens its cloud infrastructure in Germany with BSI-approved Layer 1 encryption from Adva Network Security",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260817422825/en/SAP-strengthens-its-cloud-infrastructure-in-Germany-with-BSI-approved-Layer-1-encryption-from-Adva-Network-Security/",
+      "link": "https://www.businesswire.com/news/home/20260819712675/en/The-Est%C3%A9e-Lauder-Companies-Reports-Fiscal-2026-Results/",
       "published": null
     }
   ]
