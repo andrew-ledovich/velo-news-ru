@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T05:01:47.594041Z",
+  "generatedAt": "2026-08-19T05:43:42.537606Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 15,
   "items": [
     {
       "id": "stockanalysis:6db4f1be40f8d987",
@@ -85,15 +85,6 @@
       "published": null
     },
     {
-      "id": "stockanalysis:33692be218c830ed",
-      "titleEn": "Wells Fargo reiterates positive outlook for precious metals, still sees gold at $4,900 in 2026",
-      "summaryEn": "(Kitco News) – Gold prices are getting a boost from falling rate hike expectations, but Asian investors and central banks never abandoned the yellow metal, and prices will gain an additional 11% between now and year-end, according to strategists at Wells Fargo Investment Institute. “After a challenging five months, gold is regaining momentum, supported by hopes for progress toward negotiations in the Middle East and by investors scaling back expectations for Fed rate hikes,” the strategists wrote in their latest report. “Gold prices rose more than 7% during the first week of August, marking the strongest weekly gain since January. ETF flows also improved, with outflows stabilizing and even beginning to reverse higher.” “Undoubtedly, gold has struggled since March 2026, as rising U.S. inflation-adjusted yields and concerns that inflation could pressure the Fed to raise interest rates make gold, which does not pay its holders interest, relatively less attractive against interest bearing assets,” they acknowledged. “However, despite gold’s weak performance we believe we continue to see several underlying strengths.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-18/wells-fargo-reiterates-positive-outlook-precious-metals-still-sees-gold",
-      "published": null
-    },
-    {
       "id": "stockanalysis:abff6824adc152f9",
       "titleEn": "e.l.f. Cosmetics Answers Community Demand with the Return of Pickle-Inspired Glow Reviver Melting Lip Balms",
       "summaryEn": null,
@@ -145,15 +136,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260818455878/en/Sherritt-Responds-to-Purported-Calling-of-Special-Meeting-of-Shareholders/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2a6d50639acfa671",
-      "titleEn": "Cotchett, Pitre &amp; McCarthy Files Lawsuit Against Logitech Over Tariff Refunds Which the Company Has Not Returned to Customers",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818609999/en/Cotchett-Pitre-McCarthy-Files-Lawsuit-Against-Logitech-Over-Tariff-Refunds-Which-the-Company-Has-Not-Returned-to-Customers/",
       "published": null
     }
   ]
