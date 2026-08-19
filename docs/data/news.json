@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-19T11:59:04.843236Z",
+  "generatedAt": "2026-08-19T12:44:02.123827Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:3aa4cb3ee9748875",
+      "titleEn": "Gold firms as softer dollar offsets oil-led yield pressure - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices are higher and spot silver prices are near steady in early U.S. trading Wednesday, as a softer U.S. dollar supported precious metals while elevated Treasury yields and higher crude oil kept the rate-relief trade in check. At the time of writing, spot gold was trading near $4,367.50 an ounce, up 0.79%, while spot silver was trading at $63.230, up 0.04% on the session. The latest positioning remains split between softer U.S. data and stubborn long-end yield pressure. Last week’s weaker retail sales , softer CPI , flat headline PPI and weaker consumer sentiment reduced the market’s appetite to price another September Fed hike, while Monday’s Empire State survey showed the general business conditions index rising to 20.6 and prices paid climbing to 58.6. Markets now imply roughly a two-thirds probability that the Fed holds rates steady in September, with hike odds near one-third, while the 10-year Treasury yield is trading near the 4.7% area and the dollar index is softer near 99.36. Traders are focused on the Fed’s July meeting minutes at 2 p.m. ET, followed by jobless claims and the Philadelphia Fed index Thursday, and flash PMI readings Friday. The Strait of Hormuz remains the main geopolitical channel into oil, inflation expectations and defensive demand. Washington says the strait is open, while Tehran says it remains shut to shipping, and U.S.-Iran talks are not scheduled. Oman’s talks with Iran on a maritime arrangement have drawn U.S. opposition, while regional shipping traffic remains constrained after a projectile strike damaged a vessel near Oman and caused a crew casualty. Brent crude is trading around $91.50 a barrel and WTI is near $85, keeping an inflation-risk premium in the market. For gold, the setup remains two-sided: geopolitical stress and a softer dollar support haven demand, while higher oil and elevated yields limit the upside.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-19/gold-firms-softer-dollar-offsets-oil-led-yield-pressure-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bd57b55bf2e38ceb",
+      "titleEn": "Why is Moderna stock up 87% today during premarket trade?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/19/why-is-moderna-stock-up-87-today-during-premarket-trade/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:812cef128a5efa7b",
+      "titleEn": "Trump Media: Top reasons DJT may become a penny stock soon",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/19/trump-media-top-reasons-djt-may-become-a-penny-stock-soon/",
+      "published": null
+    },
     {
       "id": "stockanalysis:5c49ce9747946363",
       "titleEn": "SK Hynix stock rises in premarket on $28.6B share buyback: why its cash pile matters",
@@ -64,42 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/19/samsung-sk-hynix-stocks-sink-9-why-microns-rout-is-spreading-to-south-korea/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:396a8f8ed786370c",
-      "titleEn": "Anthropic Beats OpenAI in Revenue for First Time",
-      "summaryEn": "Anthropic’ s sales topped those of OpenAI for the first time in the second quarter, The Wall Street Journal reported Tuesday (Aug. 18), citing figures obtained from unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); OpenAI told investors that its revenue grew by 18% in the second quarter, compared to the first, while its losses deepened. The company’s second quarter revenue reached $6.7 billion, the report said, citing people familiar with the matter.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-beats-openai-in-revenue-for-first-time/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4bcc1f4ae18c9ca5",
-      "titleEn": "Cizzle Brands Corporation Announces Filing of Form F-10 Registration Statement with the U.S. Securities and Exchange Commission and Intention to List on a U.S. Exchange; Appoints Finance &amp; Governance Veteran Dominic Scarangella to Board of Directors",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819464563/en/Cizzle-Brands-Corporation-Announces-Filing-of-Form-F-10-Registration-Statement-with-the-U.S.-Securities-and-Exchange-Commission-and-Intention-to-List-on-a-U.S.-Exchange-Appoints-Finance-Governance-Veteran-Dominic-Scarangella-to-Board-of-Directors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:64dcaa870506ec72",
-      "titleEn": "Datavault AI Reports Second Quarter 2026 Financial Results and Provides Business Update Highlighting Progress Toward Commercialization of Tokenization and Data Monetization Platforms",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260819153758/en/Datavault-AI-Reports-Second-Quarter-2026-Financial-Results-and-Provides-Business-Update-Highlighting-Progress-Toward-Commercialization-of-Tokenization-and-Data-Monetization-Platforms/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:16ce3affb7aa2d08",
-      "titleEn": "Nebius Group announces proposed private offering of $4.50 billion of convertible senior notes",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819054999/en/Nebius-Group-announces-proposed-private-offering-of-4.50-billion-of-convertible-senior-notes/",
       "published": null
     }
   ]
