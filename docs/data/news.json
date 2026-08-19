@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-19T07:50:58.665081Z",
+  "generatedAt": "2026-08-19T08:22:28.003870Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:5dd3fcb28569abd7",
+      "titleEn": "WEX Says Embedded Payments Are Easier to Launch Than to Scale",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Embedded payments can look simple at launch. A company identifies a customer pain point, integrates a payment capability and begins moving transactions through an experience it already controls. Then the challenges come when the embedded finance program starts working. “The first thing you really need to do is be clear on what role you want payments to play in your broader business strategy,” Eric Frankovic , president of Corporate Payments at WEX , told PYMNTS.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/b2b-payments/2026/wex-says-embedded-payments-are-easier-to-launch-than-to-scale/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:464af81f329d71e9",
+      "titleEn": "SpaceX stock faces a huge September catalyst: could Nasdaq funds fuel another rally?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/19/spacex-stock-september-nasdaq-rebalance-catalyst/",
+      "published": null
+    },
     {
       "id": "stockanalysis:6db4f1be40f8d987",
       "titleEn": "Broadcom stock is down 21% from June peak: why one bull still sees 55% upside",
@@ -76,6 +94,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:b0a66be72a60ed32",
+      "titleEn": "Amentum to Support Critical Infrastructure and Platforms Under New Engineering Services Framework",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819142579/en/Amentum-to-Support-Critical-Infrastructure-and-Platforms-Under-New-Engineering-Services-Framework/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:266f6cd8eef04ff4",
       "titleEn": "SAP strengthens its cloud infrastructure in Germany with BSI-approved Layer 1 encryption from Adva Network Security",
       "summaryEn": null,
@@ -109,15 +136,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260818473527/en/KKR-Invests-in-Indian-Ticketing-and-Live-Entertainment-Platform-BookMyShow/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:91eccd09860774d1",
-      "titleEn": "Hennessy Capital Investment Corp. VII and ONE Nuclear Energy to Host Investor Update Call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818859267/en/Hennessy-Capital-Investment-Corp.-VII-and-ONE-Nuclear-Energy-to-Host-Investor-Update-Call/",
       "published": null
     }
   ]
