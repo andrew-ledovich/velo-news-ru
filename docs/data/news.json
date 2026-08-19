@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T18:17:13.528556Z",
+  "generatedAt": "2026-08-19T18:59:23.934614Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 16,
   "items": [
     {
       "id": "stockanalysis:9c8564380da8714a",
@@ -130,12 +130,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:734efe80c4c686eb",
-      "titleEn": "Here's why TeraWulf, CoreWeave, and Nebius stocks are falling",
+      "id": "stockanalysis:9d4240acb9e4753c",
+      "titleEn": "Uber Launches Autonomous Rides in Europe",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/19/heres-why-terawulf-coreweave-and-nebius-stocks-are-falling/",
+      "link": "https://www.businesswire.com/news/home/20260819338627/en/Uber-Launches-Autonomous-Rides-in-Europe/",
       "published": null
     },
     {
@@ -145,15 +145,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260819716800/en/The-Marzetti-Company-Continues-Higher-Cash-Dividend-Board-of-Directors-Sets-Annual-Meeting-Date-and-Time/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:42c03fee73f06cb4",
-      "titleEn": "CoastConnect Chooses Calix Agent Workforce After Investing Early in Organizational Readiness So Teams Can Put AI To Work Faster",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260819116262/en/CoastConnect-Chooses-Calix-Agent-Workforce-After-Investing-Early-in-Organizational-Readiness-So-Teams-Can-Put-AI-To-Work-Faster/",
       "published": null
     }
   ]
