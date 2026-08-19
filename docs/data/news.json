@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-19T12:44:02.123827Z",
+  "generatedAt": "2026-08-19T13:30:52.441519Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:066778dd3d981a22",
+      "titleEn": "Estée Lauder stock jumps 13% after earnings beat and margin outlook",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/19/estee-lauder-stock-jumps-13-after-earnings-beat-and-margin-outlook/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:734efe80c4c686eb",
+      "titleEn": "Here's why TeraWulf, CoreWeave, and Nebius stocks are falling",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/19/heres-why-terawulf-coreweave-and-nebius-stocks-are-falling/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6f950c3b82460e5d",
+      "titleEn": "Oracle stock has become a bargain, but a risky pattern has emerged",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/19/oracle-stock-has-become-a-bargain-but-a-risky-pattern-has-emerged/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3aa4cb3ee9748875",
       "titleEn": "Gold firms as softer dollar offsets oil-led yield pressure - Kitco AM Report",
@@ -76,21 +103,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:6db4f1be40f8d987",
-      "titleEn": "Broadcom stock is down 21% from June peak: why one bull still sees 55% upside",
+      "id": "stockanalysis:6d252da4a9d1025b",
+      "titleEn": "KNOREX Provides Business Update and Reports 2025 Fiscal Year Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/19/broadcom-stock-down-21-percent-why-bulls-see-55-percent-upside/",
+      "link": "https://www.businesswire.com/news/home/20260819138378/en/KNOREX-Provides-Business-Update-and-Reports-2025-Fiscal-Year-Financial-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:f28f617d5383e4ca",
-      "titleEn": "Samsung, SK Hynix stocks sink 9%: why Micron's rout is spreading to South Korea",
+      "id": "stockanalysis:4e83f0c94aab7a61",
+      "titleEn": "IKS Health Implements Scribble Select, an Ambient Scribe Interface, at Western Washington Medical Group",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/19/samsung-sk-hynix-stocks-sink-9-why-microns-rout-is-spreading-to-south-korea/",
+      "link": "https://www.businesswire.com/news/home/20260819419612/en/IKS-Health-Implements-Scribble-Select-an-Ambient-Scribe-Interface-at-Western-Washington-Medical-Group/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:19f07f551455c491",
+      "titleEn": "1-800-FLOWERS.COM, Inc. to Release its Fiscal 2026 Fourth Quarter and Year-End Results on Thursday, September 10, 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819221041/en/1-800-FLOWERS.COM-Inc.-to-Release-its-Fiscal-2026-Fourth-Quarter-and-Year-End-Results-on-Thursday-September-10-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c88330aadce9d948",
+      "titleEn": "Williams-Sonoma, Inc. announces release date for second quarter results: Wednesday, August 26th, 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819285460/en/Williams-Sonoma-Inc.-announces-release-date-for-second-quarter-results-Wednesday-August-26th-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b3ba0f23ed67d31f",
+      "titleEn": "Mattel Transforms UNO Into a Competitive Live Entertainment Experience With UNO Championship Series",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819568241/en/Mattel-Transforms-UNO-Into-a-Competitive-Live-Entertainment-Experience-With-UNO-Championship-Series/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a65a50139a076879",
+      "titleEn": "Stitch Fix Introduces the 41 Hawthorn Capsule Collection for Teachers",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819369489/en/Stitch-Fix-Introduces-the-41-Hawthorn-Capsule-Collection-for-Teachers/",
       "published": null
     }
   ]
