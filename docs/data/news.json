@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-19T16:25:42.600893Z",
+  "generatedAt": "2026-08-19T16:53:45.963208Z",
   "sourceCount": 1,
   "count": 21,
   "items": [
+    {
+      "id": "stockanalysis:6206fa251f690733",
+      "titleEn": "Why SpaceX stock is slipping another 3% on Wednesday",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/19/why-spacex-stock-is-slipping-another-3-on-wednesday/",
+      "published": null
+    },
     {
       "id": "stockanalysis:febbe1cce6d4a235",
       "titleEn": "Should you buy Target stock after Q2 earnings? Jim Cramer answers",
@@ -181,15 +190,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260819375743/en/Altius-Renews-Normal-Course-Issuer-Bid/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:56f860ebc36c37d1",
-      "titleEn": "Ascent Industries to Present and Host 1x1 Investor Meetings at the 17th Annual Midwest IDEAS Investor Conference on August 26th &amp; 27th in Chicago, IL",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819467105/en/Ascent-Industries-to-Present-and-Host-1x1-Investor-Meetings-at-the-17th-Annual-Midwest-IDEAS-Investor-Conference-on-August-26th-27th-in-Chicago-IL/",
       "published": null
     }
   ]
