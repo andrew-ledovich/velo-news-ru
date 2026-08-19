@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-19T23:12:58.623971Z",
+  "generatedAt": "2026-08-19T23:35:17.023652Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:e762933995e3d0d3",
+      "titleEn": "Nvidia Weighs Investment in Round Valuing Mercor at $20 Billion",
+      "summaryEn": "Nvidia has discussed participating in a funding round that would value Mercor , a data labeling provider that supplies data that helps the chip designer develop open-source models, at $20 billion, The Information reported Wednesday (Aug. 19), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The size of Nvidia’s potential investment and the total funding round could not be learned, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/nvidia-weighs-investment-in-round-valuing-mercor-at-20-billion/",
+      "published": null
+    },
     {
       "id": "stockanalysis:f3bae11f94427720",
       "titleEn": "Gold surges above $4,500, silver breaks $66 as Treasury buyback sinks yields - Kitco PM Report",
@@ -76,12 +85,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:febbe1cce6d4a235",
-      "titleEn": "Should you buy Target stock after Q2 earnings? Jim Cramer answers",
+      "id": "stockanalysis:5f7e8f6b8dc4016d",
+      "titleEn": "Statement of B&amp;G Foods Regarding the Competition Bureau Challenge of Pending Sale of Green Giant Canada to Nortera",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/19/should-you-buy-target-stock-after-q2-earnings-jim-cramer-answers/",
+      "link": "https://www.businesswire.com/news/home/20260819556938/en/Statement-of-BG-Foods-Regarding-the-Competition-Bureau-Challenge-of-Pending-Sale-of-Green-Giant-Canada-to-Nortera/",
       "published": null
     },
     {
@@ -100,24 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260819135392/en/Mechanics-Bancorp-Declares-Third-Quarter-2026-Cash-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5596b04fb9d95b68",
-      "titleEn": "U-Haul Holding Company Announces Twentieth Annual Virtual Analyst and Investor Meeting",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819943915/en/U-Haul-Holding-Company-Announces-Twentieth-Annual-Virtual-Analyst-and-Investor-Meeting/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cd585203e7566310",
-      "titleEn": "JSB Financial Inc. Announces Semi-Annual Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819883817/en/JSB-Financial-Inc.-Announces-Semi-Annual-Dividend/",
       "published": null
     }
   ]
