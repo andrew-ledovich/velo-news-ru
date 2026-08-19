@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T00:38:36.577143Z",
+  "generatedAt": "2026-08-19T02:06:26.974116Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 16,
   "items": [
     {
       "id": "stockanalysis:be28942d23820d24",
@@ -94,6 +94,24 @@
       "published": null
     },
     {
+      "id": "stockanalysis:31983e7c831864a7",
+      "titleEn": "Faraday Future Supports AIxC's Full Strategic Pivot to Physical AI and Robot-Sharing and Rental Operations; RoboShare Completes Its First Paid Commercial Order, With an Initial Fleet of More Than 80 Robots in Place",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260818119192/en/Faraday-Future-Supports-AIxC%E2%80%99s-Full-Strategic-Pivot-to-Physical-AI-and-Robot-Sharing-and-Rental-Operations-RoboShare-Completes-Its-First-Paid-Commercial-Order-With-an-Initial-Fleet-of-More-Than-80-Robots-in-Place/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9bb7ccf5fb28ac1d",
+      "titleEn": "Sherritt Responds to Purported Calling of Special Meeting of Shareholders",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818455878/en/Sherritt-Responds-to-Purported-Calling-of-Special-Meeting-of-Shareholders/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:2a6d50639acfa671",
       "titleEn": "Cotchett, Pitre &amp; McCarthy Files Lawsuit Against Logitech Over Tariff Refunds Which the Company Has Not Returned to Customers",
       "summaryEn": null,
@@ -127,15 +145,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260818096100/en/JBS-Announces-Proposal-to-Acquire-Remaining-Publicly-Traded-Shares-of-Pilgrim%E2%80%99s-Pride-Corporation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:289e78cb49411bb0",
-      "titleEn": "Interstate Power and Light Company Prices Debt Offering",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818571364/en/Interstate-Power-and-Light-Company-Prices-Debt-Offering/",
       "published": null
     }
   ]
