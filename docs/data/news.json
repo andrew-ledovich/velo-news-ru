@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-19T17:46:40.123223Z",
+  "generatedAt": "2026-08-19T18:17:13.528556Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:9c8564380da8714a",
+      "titleEn": "Why Tesla stock is gaining 3% today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/08/19/why-tesla-stock-is-gaining-3-today/",
+      "published": null
+    },
     {
       "id": "stockanalysis:77fc3bf2df57a5b0",
       "titleEn": "Datavault Pushes Into Banking Realm With BankWyse Acquisition",
@@ -130,12 +139,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:6f950c3b82460e5d",
-      "titleEn": "Oracle stock has become a bargain, but a risky pattern has emerged",
+      "id": "stockanalysis:9d51da8350cd7cfc",
+      "titleEn": "The Marzetti Company Continues Higher Cash Dividend; Board of Directors Sets Annual Meeting Date and Time",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/19/oracle-stock-has-become-a-bargain-but-a-risky-pattern-has-emerged/",
+      "link": "https://www.businesswire.com/news/home/20260819716800/en/The-Marzetti-Company-Continues-Higher-Cash-Dividend-Board-of-Directors-Sets-Annual-Meeting-Date-and-Time/",
       "published": null
     },
     {
@@ -145,24 +154,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.businesswire.com/news/home/20260819116262/en/CoastConnect-Chooses-Calix-Agent-Workforce-After-Investing-Early-in-Organizational-Readiness-So-Teams-Can-Put-AI-To-Work-Faster/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ea1a0101993bc59d",
-      "titleEn": "Hertz Data Shows Road Trips Will Dominate Fall Travel as Millennials Fuel the Trend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819255801/en/Hertz-Data-Shows-Road-Trips-Will-Dominate-Fall-Travel-as-Millennials-Fuel-the-Trend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d124144db9ac06e7",
-      "titleEn": "Mattel Brick Shop™ Celebrates 25 Years of Microsoft's Iconic XBOX Game Console with New Premium Building Set",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819848021/en/Mattel-Brick-Shop%E2%84%A2-Celebrates-25-Years-of-Microsofts-Iconic-XBOX-Game-Console-with-New-Premium-Building-Set/",
       "published": null
     }
   ]
