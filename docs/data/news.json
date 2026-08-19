@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T08:22:28.003870Z",
+  "generatedAt": "2026-08-19T09:01:29.846146Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:5dd3fcb28569abd7",
@@ -85,12 +85,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:6c528350c858a93a",
-      "titleEn": "MU stock falls 7% as memory stocks face the heat",
+      "id": "stockanalysis:5f8805ed5992ecc4",
+      "titleEn": "Ridgeview Partners Announces Recommended Acquisition of Pinewood Technologies Group plc",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/18/mu-stock-falls-7-as-memory-stocks-face-the-heat/",
+      "link": "https://www.businesswire.com/news/home/20260819595141/en/Ridgeview-Partners-Announces-Recommended-Acquisition-of-Pinewood-Technologies-Group-plc/",
       "published": null
     },
     {
@@ -118,24 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260818417931/en/Pershing-Square-Holdings-Ltd.-Notification-and-Public-Disclosure-of-Transactions/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:abff6824adc152f9",
-      "titleEn": "e.l.f. Cosmetics Answers Community Demand with the Return of Pickle-Inspired Glow Reviver Melting Lip Balms",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818059549/en/e.l.f.-Cosmetics-Answers-Community-Demand-with-the-Return-of-Pickle-Inspired-Glow-Reviver-Melting-Lip-Balms/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bb186ee71a17b8cd",
-      "titleEn": "KKR Invests in Indian Ticketing and Live Entertainment Platform BookMyShow",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818473527/en/KKR-Invests-in-Indian-Ticketing-and-Live-Entertainment-Platform-BookMyShow/",
       "published": null
     }
   ]
