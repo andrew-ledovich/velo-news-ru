@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-19T15:29:45.282212Z",
+  "generatedAt": "2026-08-19T15:57:43.749268Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:a8d8642078d0576f",
+      "titleEn": "Interactive Brokers Taps Paysafe's SafetyPay for LatAm Account Funding",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); This integration expands the number of funding methods available to IBKR clients in Latin America and simplifies the path from deposit to investing, according to the release. Once they have funded their accounts, clients can use IBKR&#8217;s platform to access stocks, options, futures, currencies, bonds, funds and other products across more than 170 global markets, per the release.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/interactive-brokers-taps-paysafes-safetypay-for-latam-account-funding/",
+      "published": null
+    },
     {
       "id": "stockanalysis:d695766655e82382",
       "titleEn": "Nvidia stock jittery ahead of next week's earnings: what to expect",
@@ -112,12 +121,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5c49ce9747946363",
-      "titleEn": "SK Hynix stock rises in premarket on $28.6B share buyback: why its cash pile matters",
+      "id": "stockanalysis:e5def8f93869d00d",
+      "titleEn": "Casey's Announces Timing of First Quarter Earnings Release and Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/19/sk-hynix-stock-rises-in-premarket-on-28-6b-share-buyback-why-its-cash-pile-matters/",
+      "link": "https://www.businesswire.com/news/home/20260819564778/en/Caseys-Announces-Timing-of-First-Quarter-Earnings-Release-and-Conference-Call/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fe06bf873b906838",
+      "titleEn": "Altius Renews Normal Course Issuer Bid",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819375743/en/Altius-Renews-Normal-Course-Issuer-Bid/",
       "published": null
     },
     {
@@ -127,15 +145,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260819467105/en/Ascent-Industries-to-Present-and-Host-1x1-Investor-Meetings-at-the-17th-Annual-Midwest-IDEAS-Investor-Conference-on-August-26th-27th-in-Chicago-IL/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fdfc02b616952034",
-      "titleEn": "WRITER Named a Market Shaper in the July 2026 Gartner® Emerging Market Quadrant™ for AI Agents for Marketing — Startup Vendors",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260819945198/en/WRITER-Named-a-Market-Shaper-in-the-July-2026-Gartner%C2%AE-Emerging-Market-Quadrant%E2%84%A2-for-AI-Agents-for-Marketing-%E2%80%94-Startup-Vendors/",
       "published": null
     }
   ]
