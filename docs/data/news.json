@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-19T13:30:52.441519Z",
+  "generatedAt": "2026-08-19T14:16:01.540434Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:ff8d83c07d34c1f2",
+      "titleEn": "Marvell stock jumps 7%, and it has Google to thank",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/19/marvell-stock-jumps-7-and-it-has-google-to-thank/",
+      "published": null
+    },
     {
       "id": "stockanalysis:066778dd3d981a22",
       "titleEn": "Estée Lauder stock jumps 13% after earnings beat and margin outlook",
@@ -94,66 +103,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:464af81f329d71e9",
-      "titleEn": "SpaceX stock faces a huge September catalyst: could Nasdaq funds fuel another rally?",
+      "id": "stockanalysis:e6a19d8f1afeff95",
+      "titleEn": "Connection Achieves HPE Triple Platinum Plus Status",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/19/spacex-stock-september-nasdaq-rebalance-catalyst/",
+      "link": "https://www.businesswire.com/news/home/20260819810709/en/Connection-Achieves-HPE-Triple-Platinum-Plus-Status/",
       "published": null
     },
     {
-      "id": "stockanalysis:6d252da4a9d1025b",
-      "titleEn": "KNOREX Provides Business Update and Reports 2025 Fiscal Year Financial Results",
+      "id": "stockanalysis:351e7b557e62b115",
+      "titleEn": "INNIO Expands Waukesha Site to Meet Growing Demand for Decentralized Energy Solutions in the U.S.",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819138378/en/KNOREX-Provides-Business-Update-and-Reports-2025-Fiscal-Year-Financial-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4e83f0c94aab7a61",
-      "titleEn": "IKS Health Implements Scribble Select, an Ambient Scribe Interface, at Western Washington Medical Group",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819419612/en/IKS-Health-Implements-Scribble-Select-an-Ambient-Scribe-Interface-at-Western-Washington-Medical-Group/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:19f07f551455c491",
-      "titleEn": "1-800-FLOWERS.COM, Inc. to Release its Fiscal 2026 Fourth Quarter and Year-End Results on Thursday, September 10, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819221041/en/1-800-FLOWERS.COM-Inc.-to-Release-its-Fiscal-2026-Fourth-Quarter-and-Year-End-Results-on-Thursday-September-10-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c88330aadce9d948",
-      "titleEn": "Williams-Sonoma, Inc. announces release date for second quarter results: Wednesday, August 26th, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819285460/en/Williams-Sonoma-Inc.-announces-release-date-for-second-quarter-results-Wednesday-August-26th-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b3ba0f23ed67d31f",
-      "titleEn": "Mattel Transforms UNO Into a Competitive Live Entertainment Experience With UNO Championship Series",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819568241/en/Mattel-Transforms-UNO-Into-a-Competitive-Live-Entertainment-Experience-With-UNO-Championship-Series/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a65a50139a076879",
-      "titleEn": "Stitch Fix Introduces the 41 Hawthorn Capsule Collection for Teachers",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819369489/en/Stitch-Fix-Introduces-the-41-Hawthorn-Capsule-Collection-for-Teachers/",
+      "link": "https://www.businesswire.com/news/home/20260819417275/en/INNIO-Expands-Waukesha-Site-to-Meet-Growing-Demand-for-Decentralized-Energy-Solutions-in-the-U.S./",
       "published": null
     }
   ]
