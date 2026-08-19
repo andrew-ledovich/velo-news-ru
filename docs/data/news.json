@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T21:15:04.303417Z",
+  "generatedAt": "2026-08-19T21:41:40.443932Z",
   "sourceCount": 1,
   "count": 13,
   "items": [
@@ -94,12 +94,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:d695766655e82382",
-      "titleEn": "Nvidia stock jittery ahead of next week's earnings: what to expect",
+      "id": "stockanalysis:5596b04fb9d95b68",
+      "titleEn": "U-Haul Holding Company Announces Twentieth Annual Virtual Analyst and Investor Meeting",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/19/nvidia-stock-jittery-ahead-of-next-weeks-earnings-what-to-expect/",
+      "link": "https://www.businesswire.com/news/home/20260819943915/en/U-Haul-Holding-Company-Announces-Twentieth-Annual-Virtual-Analyst-and-Investor-Meeting/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cd585203e7566310",
+      "titleEn": "JSB Financial Inc. Announces Semi-Annual Dividend",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819883817/en/JSB-Financial-Inc.-Announces-Semi-Annual-Dividend/",
       "published": null
     },
     {
@@ -109,15 +118,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.businesswire.com/news/home/20260819918492/en/CI-Global-Asset-Management-Announces-Special-Reinvested-Distribution-for-CI-Alternative-Investment-Grade-Credit-Fund-ETF-Series/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f3656306c3349840",
-      "titleEn": "Starfighters Space, Inc. Files Second Quarter 2026 Form 10-Q",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819120951/en/Starfighters-Space-Inc.-Files-Second-Quarter-2026-Form-10-Q/",
       "published": null
     }
   ]
