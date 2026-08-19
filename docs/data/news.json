@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-19T14:58:53.829771Z",
+  "generatedAt": "2026-08-19T15:29:45.282212Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:d695766655e82382",
+      "titleEn": "Nvidia stock jittery ahead of next week's earnings: what to expect",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/19/nvidia-stock-jittery-ahead-of-next-weeks-earnings-what-to-expect/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cfdeb154df240677",
+      "titleEn": "33% of UK respondents regret missing out on gold's 128% price rally – The Royal Mint",
+      "summaryEn": "(Kitco News) – One in three UK adults regret not investing in gold over the past five years – during which time the yellow metal gained 128% in value – while nearly a third (30%) regret missing out on silver , according to new research from The Royal Mint. The findings come amid widespread financial uncertainty in the UK, with nearly three-quarters (73%) of adults saying they are concerned about how global conflicts and economic instability could affect the value of their money. Two in three are worried about their overall financial future, while more than half (53%) are unsure of the best place to put their money to stay financially secure. The Mint noted that gold prices has risen by around 128% over the past five years, while silver has increased by around 126%, resulting in a sense of missed opportunity among many UK adults. The regret surrounding precious metals is greater than for Bitcoin, with just 20% saying they regret not investing in Bitcoin over the same period.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-19/33-uk-respondents-regret-missing-out-golds-128-price-rally-royal-mint",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dea8d84f6ed6bd46",
+      "titleEn": "Top reasons why Micron stock is about to stage a strong comeback",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/19/top-reasons-why-micron-stock-is-about-to-stage-a-strong-comeback/",
+      "published": null
+    },
     {
       "id": "stockanalysis:e0af29652a7001eb",
       "titleEn": "Broadcom stock falls on Marvell's Google AI chip deal: what's worrying investors?",
@@ -91,6 +118,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/19/sk-hynix-stock-rises-in-premarket-on-28-6b-share-buyback-why-its-cash-pile-matters/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:56f860ebc36c37d1",
+      "titleEn": "Ascent Industries to Present and Host 1x1 Investor Meetings at the 17th Annual Midwest IDEAS Investor Conference on August 26th &amp; 27th in Chicago, IL",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819467105/en/Ascent-Industries-to-Present-and-Host-1x1-Investor-Meetings-at-the-17th-Annual-Midwest-IDEAS-Investor-Conference-on-August-26th-27th-in-Chicago-IL/",
       "published": null
     },
     {
