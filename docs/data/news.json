@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-19T14:16:01.540434Z",
+  "generatedAt": "2026-08-19T14:58:53.829771Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:e0af29652a7001eb",
+      "titleEn": "Broadcom stock falls on Marvell's Google AI chip deal: what's worrying investors?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/19/broadcom-stock-falls-on-marvells-google-ai-chip-deal-whats-worrying-investors/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3bdfab131025bca5",
+      "titleEn": "Oklo stock just lost crucial support: Is the bear market set to continue?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/19/oklo-stock-just-lost-crucial-support-is-the-bear-market-set-to-continue/",
+      "published": null
+    },
     {
       "id": "stockanalysis:ff8d83c07d34c1f2",
       "titleEn": "Marvell stock jumps 7%, and it has Google to thank",
@@ -76,48 +94,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:b23cd23c1f746eac",
-      "titleEn": "AMD stock has surged 126%: why are strong AI numbers no longer enough?",
+      "id": "stockanalysis:fdfc02b616952034",
+      "titleEn": "WRITER Named a Market Shaper in the July 2026 Gartner® Emerging Market Quadrant™ for AI Agents for Marketing — Startup Vendors",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/19/amd-stock-has-surged-126-why-are-strong-ai-numbers-no-longer-enough/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6413dc8f86a90bc4",
-      "titleEn": "Nvidia H200 chips approved for China, but Beijing limits mainland use: report",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/19/nvidia-h200-chips-approved-for-china-but-beijing-limits-mainland-use-report/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5dd3fcb28569abd7",
-      "titleEn": "WEX Says Embedded Payments Are Easier to Launch Than to Scale",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Embedded payments can look simple at launch. A company identifies a customer pain point, integrates a payment capability and begins moving transactions through an experience it already controls. Then the challenges come when the embedded finance program starts working. “The first thing you really need to do is be clear on what role you want payments to play in your broader business strategy,” Eric Frankovic , president of Corporate Payments at WEX , told PYMNTS.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/b2b-payments/2026/wex-says-embedded-payments-are-easier-to-launch-than-to-scale/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e6a19d8f1afeff95",
-      "titleEn": "Connection Achieves HPE Triple Platinum Plus Status",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819810709/en/Connection-Achieves-HPE-Triple-Platinum-Plus-Status/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:351e7b557e62b115",
-      "titleEn": "INNIO Expands Waukesha Site to Meet Growing Demand for Decentralized Energy Solutions in the U.S.",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819417275/en/INNIO-Expands-Waukesha-Site-to-Meet-Growing-Demand-for-Decentralized-Energy-Solutions-in-the-U.S./",
+      "link": "https://www.businesswire.com/news/home/20260819945198/en/WRITER-Named-a-Market-Shaper-in-the-July-2026-Gartner%C2%AE-Emerging-Market-Quadrant%E2%84%A2-for-AI-Agents-for-Marketing-%E2%80%94-Startup-Vendors/",
       "published": null
     }
   ]
