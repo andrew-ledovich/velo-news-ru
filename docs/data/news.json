@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-20T18:21:25.609805Z",
+  "generatedAt": "2026-08-20T19:08:12.748433Z",
   "sourceCount": 1,
-  "count": 25,
+  "count": 22,
   "items": [
     {
       "id": "stockanalysis:2f800afdb3fb6cc2",
@@ -154,33 +154,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/20/why-is-walmart-stock-falling-7-despite-earnings-beat-and-raised-outlook/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:860582492a4396dc",
-      "titleEn": "Webull stock: Here's why China's “Robinhood” is soaring today",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/20/webull-stock-heres-why-chinas-robinhood-is-soaring-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:95d0b2320209db54",
-      "titleEn": "Spot gold bounces to $4,470/oz after Philly Fed survey rises to 47.4 in August",
-      "summaryEn": "(Kitco News) – Gold prices are coming off their recent lows on Thursday morning after the Philadelphia Federal Reserve&#x27;s manufacturing sector survey improved beyond expectations this month. The regional central bank said its manufacturing business outlook for August came in at 47.4 – a five-year high – after a reading of 41.4 in July. The data was far better than expected, as economists were looking for a reading of 25.0 this month. “Responses to the May Manufacturing Business Outlook Survey suggest an overall expansion in the region’s manufacturing activity,” the report said. “The indicators for current activity, new orders, and shipments all remained above their nonrecession averages this month, and the employment index rose to a multiyear high. Price increases were less widespread this month, but both price indexes remained elevated.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-20/spot-gold-bounces-4470oz-after-philly-fed-survey-rises-474-august",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:153f4aff7ba4594f",
-      "titleEn": "Gold approaches session low $4,450/oz after U.S. weekly jobless claims fall to 206k",
-      "summaryEn": "(Kitco News) - Gold prices are getting closer to the $4,450 per ounce session low on Thursday morning following the release of better than expected labor market data after the number of Americans filing new claims for unemployment benefits came in below economists’ forecasts. Initial claims for state unemployment benefits came in at seasonally adjusted 206,000 for the week ending August 15, the Labor Department announced on Thursday. The number was below expectations, as consensus estimates forecasted a reading of 210,000 claims. The previous week’s figure was revised to 212,000 from 209,000. Spot gold was approaching a retest of its session low shortly after the 8:30 am ET data release, which came out at the same time as the Philly Fed index, and last traded at $4,454.74 per ounce for a loss of 1.51% on the daily chart.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-20/gold-approaches-session-low-4450oz-after-us-weekly-jobless-claims-fall-206k",
       "published": null
     },
     {
