@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-20T08:23:43.188289Z",
+  "generatedAt": "2026-08-20T09:02:57.651228Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:70ccc3d22c49a4fd",
+      "titleEn": "Some of Meta's safety tools were 'designed to fail': Witness",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: A former employee testified Wednesday that some of Meta's safety tools for Facebook and Instagram were \"designed to fail,\" contradicting the company's defense strategy in a landmark trial in California. For a second day, Meta is fending off accusations by a coalition of U.S. states that it deliberately designed its products to hook children and gather their data while misleading the public.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-08-meta-safety-tools-witness.html",
+      "published": null
+    },
     {
       "id": "stockanalysis:ad7c8c790c6be921",
       "titleEn": "Xiaomi share price analysis as smartphone sales severely lag Samsung, Apple",
