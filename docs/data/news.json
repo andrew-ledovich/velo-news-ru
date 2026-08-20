@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-20T17:53:05.268042Z",
+  "generatedAt": "2026-08-20T18:21:25.609805Z",
   "sourceCount": 1,
-  "count": 24,
+  "count": 25,
   "items": [
+    {
+      "id": "stockanalysis:2f800afdb3fb6cc2",
+      "titleEn": "Walmart, Target and Amazon Are Spending Billions to Reset the Shopper's Reference Price",
+      "summaryEn": "Walmart, Target and others are using tariff refunds to announce cuts or holds on prices, absorb costs and reinforce value perceptions. Years of inflation, constant promotions and digital comparison shopping have made shoppers less certain about what products “should” cost, pushing retailers to compete on price certainty, memorable value cues and fewer reasons to keep searching. Walmart is betting on everyday price credibility, Target on private label that resists direct comparison, and TJX on scarcity and discovery.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/retail/2026/walmart-target-and-amazon-are-spending-billions-to-reset-the-shoppers-reference-price/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1d9b75321becd441",
+      "titleEn": "CrowdStrike stock falls as CTO leaves to launch AI fund",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/20/crowdstrike-stock-falls-as-cto-leaves-to-launch-ai-fund/",
+      "published": null
+    },
     {
       "id": "stockanalysis:93e444d839f02e4f",
       "titleEn": "Deere earnings: Cramer says buy DE shares - just not today",
@@ -166,12 +184,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1fae80900f09ea67",
-      "titleEn": "DRAM ETF receives a $101 billion catalyst from Samsung, SK Hynix",
+      "id": "stockanalysis:b7495e8c3b5006a4",
+      "titleEn": "7 Brew® Grows From Stands to Stores With National Ready-To-Drink Coffee and Energy Beverage Expansion at Walmart",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/20/dram-etf-receives-a-101-billion-catalyst-from-samsung-sk-hynix/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820423109/en/7-Brew%C2%AE-Grows-From-Stands-to-Stores-With-National-Ready-To-Drink-Coffee-and-Energy-Beverage-Expansion-at-Walmart/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a8ec246ea6f66f82",
+      "titleEn": "UFP Technologies, Inc. to Present and Host 1x1 Investor Meetings at the 17th Annual Midwest IDEAS Investor Conference on August 26th in Chicago, IL",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820083915/en/UFP-Technologies-Inc.-to-Present-and-Host-1x1-Investor-Meetings-at-the-17th-Annual-Midwest-IDEAS-Investor-Conference-on-August-26th-in-Chicago-IL/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8dedd8aa420c184b",
+      "titleEn": "KBRA Assigns Preliminary Ratings to Upgrade Master Pass-Thru Trust, Series 2026-ST4",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820165749/en/KBRA-Assigns-Preliminary-Ratings-to-Upgrade-Master-Pass-Thru-Trust-Series-2026-ST4/",
       "published": null
     },
     {
@@ -190,33 +226,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260820510048/en/Robbins-LLP-Informs-Stockholders-It-Is-Investigating-Potential-Securities-Claims-Involving-Hyliion-Holdings-Corp./",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0b53a210dc7dadcf",
-      "titleEn": "Perma-Pipe Secures More Than $67 Million in New Orders in the Second Quarter of 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820540761/en/Perma-Pipe-Secures-More-Than-67-Million-in-New-Orders-in-the-Second-Quarter-of-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ef9889b32d06d9b4",
-      "titleEn": "KBRA Assigns Preliminary Ratings to Sona Aclai CLO I DAC",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820962423/en/KBRA-Assigns-Preliminary-Ratings-to-Sona-Aclai-CLO-I-DAC/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b22a814b96ed3689",
-      "titleEn": "Balfour Beatty Appoints Sarah Brand as Vice President of Tampa Buildings Operations",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820241139/en/Balfour-Beatty-Appoints-Sarah-Brand-as-Vice-President-of-Tampa-Buildings-Operations/",
       "published": null
     }
   ]
