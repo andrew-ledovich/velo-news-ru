@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-20T15:55:17.524880Z",
+  "generatedAt": "2026-08-20T16:21:14.243792Z",
   "sourceCount": 1,
   "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:215f0459d5f3fd09",
+      "titleEn": "Bessent's interventions amount to QE, and 'gold is the must-have asset' - ByteTree's Morris",
+      "summaryEn": "(Kitco News) – The U.S. government is effectively engaged in multiple major quantitative easing operations, and gold prices have moved higher as a result, with potential for plenty more gains ahead, according to Charlie Morris, CIO and founder of ByteTree. In the latest Atlas Pulse Gold Report, Morris said Treasury Secretary Scott Bessent’s new gambit of doubling the department’s purchases of long-dated Treasuries is an attempt to keep the government’s borrowing costs down. “Gold’s trend is improving,” he wrote. “We could be back above the 200-day moving average before you can spell S-T-A-G-F-L-A-T-I-O-N.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-20/bessents-interventions-amount-qe-and-gold-must-have-asset-bytetrees-morris",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:365c4d7dfbe88d4f",
+      "titleEn": "OpenAI and Anthropic Fuel California's Record-Setting Investment Surge",
+      "summaryEn": "California is reportedly seeing an historic wave of investment due to Silicon Valley’s artificial intelligence (AI) boom. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Companies there have taken in around $366 billion in venture capital this year, with just two artificial intelligence (AI) firms— OpenAI and Anthropic —accounting for half that total, The Wall Street Journal (WSJ) reported Thursday (Aug. 20), citing Pitchbook data.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/openai-and-anthropic-fuel-californias-record-setting-investment-surge/",
+      "published": null
+    },
     {
       "id": "stockanalysis:884f0a94220828a5",
       "titleEn": "Moderna is paring back gains, but Merck stock remains a buy",
@@ -130,12 +148,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:32f2a49c8aaed474",
-      "titleEn": "ServiceNow, Adobe, Workday stocks get BofA PT boost: what's driving optimism",
+      "id": "stockanalysis:c45dc2c2c549bcab",
+      "titleEn": "Exchange Bank Declares Third Quarter Cash Dividend and Announces Planned Retirement of President and CEO",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/20/servicenow-adobe-workday-stocks-get-bofa-pt-boost-whats-driving-optimism/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820272935/en/Exchange-Bank-Declares-Third-Quarter-Cash-Dividend-and-Announces-Planned-Retirement-of-President-and-CEO/",
       "published": null
     },
     {
@@ -154,24 +172,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260820483901/en/KBRA-Assigns-Preliminary-Ratings-to-Prosper-Credit-Card-2026-1-Issuer-LLC/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bc5979d1b671ea30",
-      "titleEn": "Ode with Anthropic Acquires Casper Studios to Help Businesses Get the Most Value Out of AI",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260820422531/en/Ode-with-Anthropic-Acquires-Casper-Studios-to-Help-Businesses-Get-the-Most-Value-Out-of-AI/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:63d40f5085f7e626",
-      "titleEn": "CrowdStrike's Fal.Con 2026 Unites Cybersecurity's Ecosystem to Secure the AI Revolution",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260819577865/en/CrowdStrike%E2%80%99s-Fal.Con-2026-Unites-Cybersecurity%E2%80%99s-Ecosystem-to-Secure-the-AI-Revolution/",
       "published": null
     }
   ]
