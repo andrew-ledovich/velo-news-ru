@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-20T20:01:33.206807Z",
+  "generatedAt": "2026-08-20T20:43:28.652206Z",
   "sourceCount": 1,
-  "count": 22,
+  "count": 20,
   "items": [
     {
       "id": "stockanalysis:68b2911a6cdbf008",
       "titleEn": "Anthropic Plans to Tweak Data Retention Rules After Enterprise Concerns",
-      "summaryEn": null,
+      "summaryEn": "Anthropic plans to modify the data retention policy it announced in June, Bloomberg reported Thursday (Aug. 20), citing an unnamed source. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The AI startup will still require enterprise customers that use its most advanced artificial intelligence models to retain data for 30 days, but it will allow them to do so on their own cloud computing infrastructure, according to the report.",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-plans-to-tweak-data-retention-rules-after-enterprise-concerns/",
@@ -24,7 +24,7 @@
     {
       "id": "stockanalysis:2f800afdb3fb6cc2",
       "titleEn": "Walmart, Target and Amazon Are Spending Billions to Reset the Shopper's Reference Price",
-      "summaryEn": null,
+      "summaryEn": "Walmart, Target and others are using tariff refunds to announce cuts or holds on prices, absorb costs and reinforce value perceptions. Years of inflation, constant promotions and digital comparison shopping have made shoppers less certain about what products “should” cost, pushing retailers to compete on price certainty, memorable value cues and fewer reasons to keep searching. Walmart is betting on everyday price credibility, Target on private label that resists direct comparison, and TJX on scarcity and discovery.",
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.pymnts.com/news/retail/2026/walmart-target-and-amazon-are-spending-billions-to-reset-the-shoppers-reference-price/",
@@ -60,7 +60,7 @@
     {
       "id": "stockanalysis:85c71351f85cf87d",
       "titleEn": "Anthropic-Backed Ode Acquires Casper Studios to Expand Corporate AI Deployments",
-      "summaryEn": null,
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Casper helps companies put Anthropic’s Claude to work inside the systems they already use. The company builds skills, connectors and context within Anthropic products to drive AI’s impact across an organization, according to the release. Ode’s acquisition of Casper will help Ode address additional opportunities for AI initiatives as it supports enterprises that are working to transform their business with AI, the release said.",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/acquiring/2026/anthropic-backed-ode-acquires-casper-studios-to-expand-corporate-ai-deployments/",
@@ -87,7 +87,7 @@
     {
       "id": "stockanalysis:365c4d7dfbe88d4f",
       "titleEn": "OpenAI and Anthropic Fuel California's Record-Setting Investment Surge",
-      "summaryEn": null,
+      "summaryEn": "California is reportedly seeing an historic wave of investment due to Silicon Valley’s artificial intelligence (AI) boom. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Companies there have taken in around $366 billion in venture capital this year, with just two artificial intelligence (AI) firms— OpenAI and Anthropic —accounting for half that total, The Wall Street Journal (WSJ) reported Thursday (Aug. 20), citing Pitchbook data.",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/investment-tracker/2026/openai-and-anthropic-fuel-californias-record-setting-investment-surge/",
@@ -130,75 +130,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:9bcad6119ace9b0a",
-      "titleEn": "BMNR stock jumps as Ethereum rebounds, BitMine nears inflection point",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/20/bmnr-stock-jumps-as-ethereum-rebounds-bitmine-nears-inflection-point/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a31f54f03920e34d",
-      "titleEn": "Three stocks to watch after Bessent's Treasury buybacks announcement",
+      "id": "stockanalysis:a2b17ba8bea461d4",
+      "titleEn": "Murphy USA Debuts Automated Retail Technologies Foodservice Platform Featuring White Castle",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/20/three-stocks-to-watch-after-bessents-treasury-buybacks-announcement/",
+      "link": "https://www.businesswire.com/news/home/20260820385753/en/Murphy-USA-Debuts-Automated-Retail-Technologies-Foodservice-Platform-Featuring-White-Castle/",
       "published": null
     },
     {
-      "id": "stockanalysis:8b53e4a6100ab4d2",
-      "titleEn": "MSTR stock forecast as Bitcoin price and ETF inflows jump",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/20/mstr-stock-forecast-as-bitcoin-price-and-etf-inflows-jump/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b59f1342e073cf67",
-      "titleEn": "Dream Industrial REIT Announces August 2026 Monthly Distribution",
+      "id": "stockanalysis:2c979d02e41918f5",
+      "titleEn": "Bunge to Present at Barclays Annual Global Consumer Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819345406/en/Dream-Industrial-REIT-Announces-August-2026-Monthly-Distribution/",
+      "link": "https://www.businesswire.com/news/home/20260820784642/en/Bunge-to-Present-at-Barclays-Annual-Global-Consumer-Conference/",
       "published": null
     },
     {
-      "id": "stockanalysis:094688d673b3fb1a",
-      "titleEn": "Republic Bancorp Named to American Banker's 2026 Top-Performing Banks List",
+      "id": "stockanalysis:0d36bed0eb415a09",
+      "titleEn": "Lucky Strike Entertainment to Report Fourth Quarter and Full Year 2026 Financial Results on August 27, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820286864/en/Republic-Bancorp-Named-to-American-Bankers-2026-Top-Performing-Banks-List/",
+      "link": "https://www.businesswire.com/news/home/20260820489641/en/Lucky-Strike-Entertainment-to-Report-Fourth-Quarter-and-Full-Year-2026-Financial-Results-on-August-27-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:7e343d033d34f6ab",
-      "titleEn": "Tanium Reappoints Co-Founder Orion Hindawi as CEO to Drive Next Chapter of Growth",
+      "id": "stockanalysis:f4cd5882a52ca505",
+      "titleEn": "AEVEX Awarded $41 Million Contract to Deliver One-Way Attack Systems",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820217954/en/Tanium-Reappoints-Co-Founder-Orion-Hindawi-as-CEO-to-Drive-Next-Chapter-of-Growth/",
+      "link": "https://www.businesswire.com/news/home/20260818589412/en/AEVEX-Awarded-41-Million-Contract-to-Deliver-One-Way-Attack-Systems/",
       "published": null
     },
     {
-      "id": "stockanalysis:dde566b257159023",
-      "titleEn": "Yellowwood Launches Real Estate Design Partner Program With CAPREIT, Binswanger, and Reichard Capital",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820141753/en/Yellowwood-Launches-Real-Estate-Design-Partner-Program-With-CAPREIT-Binswanger-and-Reichard-Capital/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2fcbc1b6da7d9a7d",
-      "titleEn": "Hark and AT&amp;T Partner on Connectivity for Future AI Devices",
+      "id": "stockanalysis:7ea7126f1b578a85",
+      "titleEn": "GitLab Scales Agentic AI Across Trusted Software Delivery Workflows",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260820331867/en/Hark-and-ATT-Partner-on-Connectivity-for-Future-AI-Devices/",
+      "link": "https://www.businesswire.com/news/home/20260820228333/en/GitLab-Scales-Agentic-AI-Across-Trusted-Software-Delivery-Workflows/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0e6adc3e73996911",
+      "titleEn": "Carter's, Inc. Announces Quarterly Dividend",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820232190/en/Carter%E2%80%99s-Inc.-Announces-Quarterly-Dividend/",
       "published": null
     }
   ]
