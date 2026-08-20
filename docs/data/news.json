@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-20T05:44:15.532584Z",
+  "generatedAt": "2026-08-20T06:02:53.479819Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 18,
   "items": [
     {
       "id": "stockanalysis:ad7c8c790c6be921",
@@ -100,15 +100,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/08/19/tempus-ai-stock-is-soaring-and-it-has-moderna-to-thank/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9c8564380da8714a",
-      "titleEn": "Why Tesla stock is gaining 3% today",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/08/19/why-tesla-stock-is-gaining-3-today/",
       "published": null
     },
     {
