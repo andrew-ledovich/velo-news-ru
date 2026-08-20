@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-20T05:03:46.606735Z",
+  "generatedAt": "2026-08-20T05:44:15.532584Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:ad7c8c790c6be921",
+      "titleEn": "Xiaomi share price analysis as smartphone sales severely lag Samsung, Apple",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/20/xiaomi-share-price-analysis-as-smartphone-sales-severely-lag-samsung-apple/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3e7a8a17bd6a49bc",
       "titleEn": "Alibaba earnings today: can AI cloud growth finally break its losing streak?",
