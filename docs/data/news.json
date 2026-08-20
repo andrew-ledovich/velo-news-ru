@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-20T16:21:14.243792Z",
+  "generatedAt": "2026-08-20T16:58:04.206472Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 20,
   "items": [
+    {
+      "id": "stockanalysis:4a1ebc156679db59",
+      "titleEn": "Micron stock gains 2% today: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/20/micron-stock-gains-2-today-heres-why/",
+      "published": null
+    },
     {
       "id": "stockanalysis:215f0459d5f3fd09",
       "titleEn": "Bessent's interventions amount to QE, and 'gold is the must-have asset' - ByteTree's Morris",
@@ -148,6 +157,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:b22a814b96ed3689",
+      "titleEn": "Balfour Beatty Appoints Sarah Brand as Vice President of Tampa Buildings Operations",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820241139/en/Balfour-Beatty-Appoints-Sarah-Brand-as-Vice-President-of-Tampa-Buildings-Operations/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:c45dc2c2c549bcab",
       "titleEn": "Exchange Bank Declares Third Quarter Cash Dividend and Announces Planned Retirement of President and CEO",
       "summaryEn": null,
@@ -163,15 +181,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260819831525/en/Dream-Unlimited-Corp.-Announces-Quarterly-Class-A-Subordinate-Voting-Share-and-Class-B-Common-Share-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:924489053e470dc9",
-      "titleEn": "KBRA Assigns Preliminary Ratings to Prosper Credit Card 2026-1 Issuer LLC",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820483901/en/KBRA-Assigns-Preliminary-Ratings-to-Prosper-Credit-Card-2026-1-Issuer-LLC/",
       "published": null
     }
   ]
