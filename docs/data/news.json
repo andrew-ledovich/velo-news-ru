@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-20T02:06:12.941331Z",
+  "generatedAt": "2026-08-20T03:08:09.824203Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:bec79b6d47806d00",
+      "titleEn": "Kospi Index rebounds as EWY ETF inflows surge, Samsung and SK Hynix lead gains",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/20/kospi-index-rebounds-as-ewy-inflows-surge-samsung-and-sk-hynix-lead-gains/",
+      "published": null
+    },
     {
       "id": "stockanalysis:e762933995e3d0d3",
       "titleEn": "Nvidia Weighs Investment in Round Valuing Mercor at $20 Billion",
@@ -76,30 +85,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:77fc3bf2df57a5b0",
-      "titleEn": "Datavault Pushes Into Banking Realm With BankWyse Acquisition",
-      "summaryEn": "Data monetization and real-world asset tokenization company Datavault AI is set to acquire Wyoming financial institution BankWyse . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “This acquisition adds the final piece to Datavault AI’s data monetization ecosystem,” the company said in a news release Wednesday (Aug. 19).",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/banking/2026/datavault-pushes-into-banking-realm-with-bankwyse-acquisition/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e34d27fae11f0503",
-      "titleEn": "SCE Brings Wildfire Recovery Compensation Program Directly to Communities Ahead of Nov. 30 Deadline",
+      "id": "stockanalysis:b98d9694d613325a",
+      "titleEn": "Litchfield Hills Research Reiterates Buy Rating and $66 Price Target; Faraday Future Global CEO YT Jia and the Founding Team Affirm Their Commitment to Long-Term Share Ownership",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819902408/en/SCE-Brings-Wildfire-Recovery-Compensation-Program-Directly-to-Communities-Ahead-of-Nov.-30-Deadline/",
+      "link": "https://www.businesswire.com/news/home/20260819101157/en/Litchfield-Hills-Research-Reiterates-Buy-Rating-and-66-Price-Target-Faraday-Future-Global-CEO-YT-Jia-and-the-Founding-Team-Affirm-Their-Commitment-to-Long-Term-Share-Ownership/",
       "published": null
     },
     {
-      "id": "stockanalysis:5f7e8f6b8dc4016d",
-      "titleEn": "Statement of B&amp;G Foods Regarding the Competition Bureau Challenge of Pending Sale of Green Giant Canada to Nortera",
+      "id": "stockanalysis:734106b68755d78c",
+      "titleEn": "Sherritt Provides Update on Calling of Shareholder Meeting",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819556938/en/Statement-of-BG-Foods-Regarding-the-Competition-Bureau-Challenge-of-Pending-Sale-of-Green-Giant-Canada-to-Nortera/",
+      "link": "https://www.businesswire.com/news/home/20260819116980/en/Sherritt-Provides-Update-on-Calling-of-Shareholder-Meeting/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bc6cd077db811e67",
+      "titleEn": "Asahi Kasei Develops Novel Lithium Pre-doping Technology to Raise Energy Density and Lower Cost of Silicon-rich Lithium-ion Batteries",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://www.businesswire.com/news/home/20260819788219/en/Asahi-Kasei-Develops-Novel-Lithium-Pre-doping-Technology-to-Raise-Energy-Density-and-Lower-Cost-of-Silicon-rich-Lithium-ion-Batteries/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bd35527d2e83b590",
+      "titleEn": "Backblaze Announces Pricing of Upsized $175 Million Convertible Senior Notes Offering",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819646189/en/Backblaze-Announces-Pricing-of-Upsized-175-Million-Convertible-Senior-Notes-Offering/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:624eef8a7a5ce1d5",
+      "titleEn": "BitGo Korea Becomes First New Korean Entity Established by a Global Digital Asset Company to Secure VASP Registration in South Korea",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819132251/en/BitGo-Korea-Becomes-First-New-Korean-Entity-Established-by-a-Global-Digital-Asset-Company-to-Secure-VASP-Registration-in-South-Korea/",
       "published": null
     }
   ]
