@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-20T07:53:51.147432Z",
+  "generatedAt": "2026-08-20T08:23:43.188289Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 16,
   "items": [
     {
       "id": "stockanalysis:ad7c8c790c6be921",
@@ -103,6 +103,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:4ea04cdfe2c5e3b1",
+      "titleEn": "MACH OE, an Open-Ended Aircraft Fund, Announces the First Aircraft Deliveries",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819324150/en/MACH-OE-an-Open-Ended-Aircraft-Fund-Announces-the-First-Aircraft-Deliveries/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:55c0fd9662bcd8ce",
       "titleEn": "Santander Expands U.S. Presence with Completion of Webster Acquisition",
       "summaryEn": null,
@@ -136,51 +145,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260819555366/en/BOCHK-and-Ant-International-Forge-Strategic-Partnership-to-Enhance-Cross-border-Payment-Connectivity-and-Innovative-Corporate-Financial-Service-Solutions-Through-Fintech/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8b6ff4ee4981aba4",
-      "titleEn": "Nebius Group announces pricing of upsized private offering of $5.0 billion of convertible senior notes",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819924159/en/Nebius-Group-announces-pricing-of-upsized-private-offering-of-5.0-billion-of-convertible-senior-notes/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:22588b1c54081f99",
-      "titleEn": "Amylyx Pharmaceuticals Announces Pricing of an Upsized $500 Million Underwritten Public Offering of Common Stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819148986/en/Amylyx-Pharmaceuticals-Announces-Pricing-of-an-Upsized-500-Million-Underwritten-Public-Offering-of-Common-Stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b98d9694d613325a",
-      "titleEn": "Litchfield Hills Research Reiterates Buy Rating and $66 Price Target; Faraday Future Global CEO YT Jia and the Founding Team Affirm Their Commitment to Long-Term Share Ownership",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819101157/en/Litchfield-Hills-Research-Reiterates-Buy-Rating-and-66-Price-Target-Faraday-Future-Global-CEO-YT-Jia-and-the-Founding-Team-Affirm-Their-Commitment-to-Long-Term-Share-Ownership/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:734106b68755d78c",
-      "titleEn": "Sherritt Provides Update on Calling of Shareholder Meeting",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819116980/en/Sherritt-Provides-Update-on-Calling-of-Shareholder-Meeting/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bc6cd077db811e67",
-      "titleEn": "Asahi Kasei Develops Novel Lithium Pre-doping Technology to Raise Energy Density and Lower Cost of Silicon-rich Lithium-ion Batteries",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://www.businesswire.com/news/home/20260819788219/en/Asahi-Kasei-Develops-Novel-Lithium-Pre-doping-Technology-to-Raise-Energy-Density-and-Lower-Cost-of-Silicon-rich-Lithium-ion-Batteries/",
       "published": null
     }
   ]
