@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-20T13:24:38.579781Z",
+  "generatedAt": "2026-08-20T14:06:01.283795Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:9bcad6119ace9b0a",
+      "titleEn": "BMNR stock jumps as Ethereum rebounds, BitMine nears inflection point",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/20/bmnr-stock-jumps-as-ethereum-rebounds-bitmine-nears-inflection-point/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a31f54f03920e34d",
+      "titleEn": "Three stocks to watch after Bessent's Treasury buybacks announcement",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/20/three-stocks-to-watch-after-bessents-treasury-buybacks-announcement/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8b53e4a6100ab4d2",
+      "titleEn": "MSTR stock forecast as Bitcoin price and ETF inflows jump",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/20/mstr-stock-forecast-as-bitcoin-price-and-etf-inflows-jump/",
+      "published": null
+    },
     {
       "id": "stockanalysis:4fb9cc6822598040",
       "titleEn": "Gold tests $4,450 as Philly Fed, jobless claims firm rate risk - Kitco AM Report",
@@ -10,6 +37,15 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-08-20/gold-tests-4450-philly-fed-jobless-claims-firm-rate-risk-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0c125eedd1ad888d",
+      "titleEn": "Why is Walmart stock falling 7% despite earnings beat and raised outlook?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/20/why-is-walmart-stock-falling-7-despite-earnings-beat-and-raised-outlook/",
       "published": null
     },
     {
@@ -121,21 +157,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:a28503f2df9f8e0a",
-      "titleEn": "OpenAI CFO Tells Employees Public Debut Coming by 2027",
-      "summaryEn": "OpenAI “will be a public company in 2027,” if not sooner, Chief Financial Officer Sarah Friar told employees Wednesday (Aug. 19) during an all-hands meeting, CNBC reported , citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Friar said OpenAI could make its public debut this year if “our business continues to inflect,” Friar said, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-cfo-tells-employees-public-debut-coming-by-2027/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7aa9a3b84d660c29",
-      "titleEn": "Nextpower Awarded U.S. Patent for NX PowerMerge Solar Trunk Bus Technology, Expands NX PowerMerge Backlog to Over 2 GW",
+      "id": "stockanalysis:9bf0fb3fc1d72d75",
+      "titleEn": "CEPR and Cohesive Receive Maximo Award for Power Plant Health and Safety Excellence",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820570643/en/Nextpower-Awarded-U.S.-Patent-for-NX-PowerMerge-Solar-Trunk-Bus-Technology-Expands-NX-PowerMerge-Backlog-to-Over-2-GW/",
+      "link": "https://www.businesswire.com/news/home/20260820774635/en/CEPR-and-Cohesive-Receive-Maximo-Award-for-Power-Plant-Health-and-Safety-Excellence/",
       "published": null
     }
   ]
