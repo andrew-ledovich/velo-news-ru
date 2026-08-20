@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T23:15:43.422203Z",
+  "generatedAt": "2026-08-20T23:46:35.745160Z",
   "sourceCount": 1,
   "count": 16,
   "items": [
@@ -121,6 +121,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:1835bacf1ea8b7ae",
+      "titleEn": "Avnet Increases Quarterly Dividend by 5.7%",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820351029/en/Avnet-Increases-Quarterly-Dividend-by-5.7/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:4ca6169eda98f7c6",
       "titleEn": "AeroVironment to Establish Industrial Presence in Greece Through AV Eagle",
       "summaryEn": null,
@@ -136,15 +145,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260820427740/en/CORRECTING-and-REPLACING-Amid-Declining-Book-Value-ACRES-Commercial-Realty-Struggles-to-Sell-REO-Property-Due-to-Labor-Dispute-with-Philadelphia-Hospitality-Union-UNITE-HERE-Local-274/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e2ec8b52b7ec40fb",
-      "titleEn": "Bitcoin Standard Treasury Company (BSTR) Terminates Business Combination, Team Continues Pursuing Active Bitcoin Treasury Management",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20260820107232/en/Bitcoin-Standard-Treasury-Company-BSTR-Terminates-Business-Combination-Team-Continues-Pursuing-Active-Bitcoin-Treasury-Management/",
       "published": null
     }
   ]
