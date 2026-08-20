@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-20T19:42:30.040596Z",
+  "generatedAt": "2026-08-20T20:01:33.206807Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 22,
   "items": [
+    {
+      "id": "stockanalysis:68b2911a6cdbf008",
+      "titleEn": "Anthropic Plans to Tweak Data Retention Rules After Enterprise Concerns",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-plans-to-tweak-data-retention-rules-after-enterprise-concerns/",
+      "published": null
+    },
     {
       "id": "stockanalysis:aaa49c09335587c1",
       "titleEn": "Gold price headed 10 times higher, and that is \"inevitable,\" Thomas Kaplan says",
@@ -15,7 +24,7 @@
     {
       "id": "stockanalysis:2f800afdb3fb6cc2",
       "titleEn": "Walmart, Target and Amazon Are Spending Billions to Reset the Shopper's Reference Price",
-      "summaryEn": "Walmart, Target and others are using tariff refunds to announce cuts or holds on prices, absorb costs and reinforce value perceptions. Years of inflation, constant promotions and digital comparison shopping have made shoppers less certain about what products “should” cost, pushing retailers to compete on price certainty, memorable value cues and fewer reasons to keep searching. Walmart is betting on everyday price credibility, Target on private label that resists direct comparison, and TJX on scarcity and discovery.",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.pymnts.com/news/retail/2026/walmart-target-and-amazon-are-spending-billions-to-reset-the-shoppers-reference-price/",
@@ -51,7 +60,7 @@
     {
       "id": "stockanalysis:85c71351f85cf87d",
       "titleEn": "Anthropic-Backed Ode Acquires Casper Studios to Expand Corporate AI Deployments",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Casper helps companies put Anthropic’s Claude to work inside the systems they already use. The company builds skills, connectors and context within Anthropic products to drive AI’s impact across an organization, according to the release. Ode’s acquisition of Casper will help Ode address additional opportunities for AI initiatives as it supports enterprises that are working to transform their business with AI, the release said.",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/acquiring/2026/anthropic-backed-ode-acquires-casper-studios-to-expand-corporate-ai-deployments/",
@@ -78,7 +87,7 @@
     {
       "id": "stockanalysis:365c4d7dfbe88d4f",
       "titleEn": "OpenAI and Anthropic Fuel California's Record-Setting Investment Surge",
-      "summaryEn": "California is reportedly seeing an historic wave of investment due to Silicon Valley’s artificial intelligence (AI) boom. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Companies there have taken in around $366 billion in venture capital this year, with just two artificial intelligence (AI) firms— OpenAI and Anthropic —accounting for half that total, The Wall Street Journal (WSJ) reported Thursday (Aug. 20), citing Pitchbook data.",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/investment-tracker/2026/openai-and-anthropic-fuel-californias-record-setting-investment-surge/",
@@ -145,6 +154,24 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://invezz.com/news/2026/08/20/mstr-stock-forecast-as-bitcoin-price-and-etf-inflows-jump/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b59f1342e073cf67",
+      "titleEn": "Dream Industrial REIT Announces August 2026 Monthly Distribution",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819345406/en/Dream-Industrial-REIT-Announces-August-2026-Monthly-Distribution/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:094688d673b3fb1a",
+      "titleEn": "Republic Bancorp Named to American Banker's 2026 Top-Performing Banks List",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820286864/en/Republic-Bancorp-Named-to-American-Bankers-2026-Top-Performing-Banks-List/",
       "published": null
     },
     {
