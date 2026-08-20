@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-20T21:04:01.312522Z",
+  "generatedAt": "2026-08-20T21:40:01.963094Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:68b2911a6cdbf008",
@@ -112,39 +112,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:aed151f89164c240",
-      "titleEn": "Why SpaceX stock is crashing around 5% on Thursday",
+      "id": "stockanalysis:601fc224f2f4a91b",
+      "titleEn": "Energy Vault Holdings, Inc. Announces New Hire Awards Under NYSE Listing Rule 303A.08",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/20/why-spacex-stock-is-crashing-around-5-on-thursday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1947ded280dff11d",
-      "titleEn": "Moderna stock falls 20% after record rally as valuation concerns emerge",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/20/moderna-stock-falls-20-after-record-rally-as-valuation-concerns-emerge/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8a78eca37d40b540",
-      "titleEn": "Saba Capital Income &amp; Opportunities Fund (BRW) and Saba Capital Income &amp; Opportunities Fund II (SABA) Announce Reapproval of Merger",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820671650/en/Saba-Capital-Income-Opportunities-Fund-BRW-and-Saba-Capital-Income-Opportunities-Fund-II-SABA-Announce-Reapproval-of-Merger/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:13d20c63e99d3bd5",
-      "titleEn": "James Hardie Announces Strategic Divestiture of European Operations, Including Sale of Fermacell to Holcim for €840 Million",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820393159/en/James-Hardie-Announces-Strategic-Divestiture-of-European-Operations-Including-Sale-of-Fermacell-to-Holcim-for-%E2%82%AC840-Million/",
+      "link": "https://www.businesswire.com/news/home/20260820850473/en/Energy-Vault-Holdings-Inc.-Announces-New-Hire-Awards-Under-NYSE-Listing-Rule-303A.08/",
       "published": null
     }
   ]
