@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-20T06:02:53.479819Z",
+  "generatedAt": "2026-08-20T07:03:33.062962Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 19,
   "items": [
     {
       "id": "stockanalysis:ad7c8c790c6be921",
@@ -103,6 +103,24 @@
       "published": null
     },
     {
+      "id": "stockanalysis:7a00540f9f918cd9",
+      "titleEn": "Uber Launches Baidu's Fully Driverless Apollo Go in Dubai, Establishing the First Multi-Partner Autonomous Network Globally",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819810612/en/Uber-Launches-Baidu%E2%80%99s-Fully-Driverless-Apollo-Go-in-Dubai-Establishing-the-First-Multi-Partner-Autonomous-Network-Globally/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:acfa2062bcd065b2",
+      "titleEn": "BOCHK and Ant International Forge Strategic Partnership to Enhance Cross-border Payment Connectivity and Innovative Corporate Financial Service Solutions Through Fintech",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819555366/en/BOCHK-and-Ant-International-Forge-Strategic-Partnership-to-Enhance-Cross-border-Payment-Connectivity-and-Innovative-Corporate-Financial-Service-Solutions-Through-Fintech/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:8b6ff4ee4981aba4",
       "titleEn": "Nebius Group announces pricing of upsized private offering of $5.0 billion of convertible senior notes",
       "summaryEn": null,
@@ -154,15 +172,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260819646189/en/Backblaze-Announces-Pricing-of-Upsized-175-Million-Convertible-Senior-Notes-Offering/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:624eef8a7a5ce1d5",
-      "titleEn": "BitGo Korea Becomes First New Korean Entity Established by a Global Digital Asset Company to Secure VASP Registration in South Korea",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819132251/en/BitGo-Korea-Becomes-First-New-Korean-Entity-Established-by-a-Global-Digital-Asset-Company-to-Secure-VASP-Registration-in-South-Korea/",
       "published": null
     }
   ]
