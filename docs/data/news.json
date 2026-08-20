@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T17:25:05.564097Z",
+  "generatedAt": "2026-08-20T17:53:05.268042Z",
   "sourceCount": 1,
   "count": 24,
   "items": [
@@ -175,12 +175,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:6c7b25606eccd0b1",
-      "titleEn": "Coinbase stock jumps 8% as Trump backs CLARITY Act, crypto rally builds",
+      "id": "stockanalysis:965531dfa05542b4",
+      "titleEn": "Robbins LLP Informs Stockholders it is Investigating Potential Securities Claims Involving Wealthfront Corporation",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/20/coinbase-stock-jumps-8-as-trump-backs-clarity-act-crypto-rally-builds/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820682033/en/Robbins-LLP-Informs-Stockholders-it-is-Investigating-Potential-Securities-Claims-Involving-Wealthfront-Corporation/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e264b3ddcc718ccf",
+      "titleEn": "Robbins LLP Informs Stockholders It Is Investigating Potential Securities Claims Involving Hyliion Holdings Corp.",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820510048/en/Robbins-LLP-Informs-Stockholders-It-Is-Investigating-Potential-Securities-Claims-Involving-Hyliion-Holdings-Corp./",
       "published": null
     },
     {
@@ -208,15 +217,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260820241139/en/Balfour-Beatty-Appoints-Sarah-Brand-as-Vice-President-of-Tampa-Buildings-Operations/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d1fe12440cd59b26",
-      "titleEn": "Popular, Inc. Declares a Cash Dividend of $0.90 per Common Share",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819954554/en/Popular-Inc.-Declares-a-Cash-Dividend-of-0.90-per-Common-Share/",
       "published": null
     }
   ]
