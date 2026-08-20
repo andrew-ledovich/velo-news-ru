@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-20T03:08:09.824203Z",
+  "generatedAt": "2026-08-20T03:55:56.227452Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:50ce3dbb46367f6e",
+      "titleEn": "Samsung stock jumps 9%: why its 15% AI chip price hike matters",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/20/samsung-stock-jumps-9-why-its-15-ai-chip-price-hike-matters/",
+      "published": null
+    },
     {
       "id": "stockanalysis:bec79b6d47806d00",
       "titleEn": "Kospi Index rebounds as EWY ETF inflows surge, Samsung and SK Hynix lead gains",
@@ -82,6 +91,24 @@
       "source": "Stock Analysis",
       "topic": "EV",
       "link": "https://invezz.com/news/2026/08/19/why-tesla-stock-is-gaining-3-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8b6ff4ee4981aba4",
+      "titleEn": "Nebius Group announces pricing of upsized private offering of $5.0 billion of convertible senior notes",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819924159/en/Nebius-Group-announces-pricing-of-upsized-private-offering-of-5.0-billion-of-convertible-senior-notes/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:22588b1c54081f99",
+      "titleEn": "Amylyx Pharmaceuticals Announces Pricing of an Upsized $500 Million Underwritten Public Offering of Common Stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260819148986/en/Amylyx-Pharmaceuticals-Announces-Pricing-of-an-Upsized-500-Million-Underwritten-Public-Offering-of-Common-Stock/",
       "published": null
     },
     {
