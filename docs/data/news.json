@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T23:56:02.006648Z",
+  "generatedAt": "2026-08-20T00:42:42.421528Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:e762933995e3d0d3",
@@ -94,12 +94,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:6206fa251f690733",
-      "titleEn": "Why SpaceX stock is slipping another 3% on Wednesday",
+      "id": "stockanalysis:e34d27fae11f0503",
+      "titleEn": "SCE Brings Wildfire Recovery Compensation Program Directly to Communities Ahead of Nov. 30 Deadline",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/19/why-spacex-stock-is-slipping-another-3-on-wednesday/",
+      "link": "https://www.businesswire.com/news/home/20260819902408/en/SCE-Brings-Wildfire-Recovery-Compensation-Program-Directly-to-Communities-Ahead-of-Nov.-30-Deadline/",
       "published": null
     },
     {
@@ -109,24 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260819556938/en/Statement-of-BG-Foods-Regarding-the-Competition-Bureau-Challenge-of-Pending-Sale-of-Green-Giant-Canada-to-Nortera/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5354798169f7070a",
-      "titleEn": "Hyve Solutions Expands Manufacturing Footprint With Reno and North Las Vegas Campuses",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819599475/en/Hyve-Solutions-Expands-Manufacturing-Footprint-With-Reno-and-North-Las-Vegas-Campuses/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5c8bfe47d2706073",
-      "titleEn": "Mechanics Bancorp Declares Third Quarter 2026 Cash Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819135392/en/Mechanics-Bancorp-Declares-Third-Quarter-2026-Cash-Dividend/",
       "published": null
     }
   ]
