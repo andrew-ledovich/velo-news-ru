@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T22:52:01.561835Z",
+  "generatedAt": "2026-08-20T23:15:43.422203Z",
   "sourceCount": 1,
   "count": 16,
   "items": [
@@ -121,6 +121,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:4ca6169eda98f7c6",
+      "titleEn": "AeroVironment to Establish Industrial Presence in Greece Through AV Eagle",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260821140577/en/AeroVironment-to-Establish-Industrial-Presence-in-Greece-Through-AV-Eagle/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:6b1fb113e8c4e32e",
       "titleEn": "CORRECTING and REPLACING Amid Declining Book Value, ACRES Commercial Realty Struggles to Sell REO Property Due to Labor Dispute with Philadelphia Hospitality Union UNITE HERE Local 274",
       "summaryEn": null,
@@ -136,15 +145,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.businesswire.com/news/home/20260820107232/en/Bitcoin-Standard-Treasury-Company-BSTR-Terminates-Business-Combination-Team-Continues-Pursuing-Active-Bitcoin-Treasury-Management/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e64cafb0d22a5a67",
-      "titleEn": "KBRA Assigns Ratings to FMC GMSR Issuer Trust, Series 2026-GT1 (FMC GMSR 2026-GT1)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820932509/en/KBRA-Assigns-Ratings-to-FMC-GMSR-Issuer-Trust-Series-2026-GT1-FMC-GMSR-2026-GT1/",
       "published": null
     }
   ]
