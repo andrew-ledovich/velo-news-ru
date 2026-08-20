@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-20T22:26:02.777344Z",
+  "generatedAt": "2026-08-20T22:52:01.561835Z",
   "sourceCount": 1,
   "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:e464566534725ab5",
+      "titleEn": "Gold steadies, silver jumps as bond-market pressure hits equities - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices are near steady and spot silver prices are sharply higher in late-afternoon U.S. trading Thursday, as rising crude oil prices and a rebound in Treasury yields hit equities but failed to fully unwind Wednesday’s precious-metals breakout. At the time of writing, spot gold was trading near $4,516.60 an ounce, down 0.12%, while spot silver was trading at $67.960, up 1.60% on the session. North American equity markets closed lower as the bond-market relief from Wednesday’s Treasury buyback plan faded. The S&P 500 fell 66.82 points, or 0.9%, to 7,641.16, the Dow Jones Industrial Average dropped 703.84 points, or 1.3%, to 52,759.21, the Nasdaq Composite lost 263.92 points, or 1.0%, to 26,067.17, and the Russell 2000 fell 40.51 points, or 1.3%, to 2,992.43. European markets finished mixed to weaker, with the STOXX Europe 600 down 0.12% to 650.35, Germany’s DAX down 0.42% to 25,983.04 and France’s CAC 40 down 0.57% to 8,453.09. London’s FTSE 100 rose 0.04% to 10,748.16, while Italy’s FTSE MIB gained 0.09% to 52,665.82. The latest positioning remains defined by a collision between stronger U.S. data and persistent bond-market stress. Initial jobless claims fell to 206,000 for the week ended Aug. 15, below expectations for 210,000 , while continuing claims rose to just under 1.8 million. The Philadelphia Fed manufacturing index rose to 47.4 in August from 41.4 in July, far above expectations and reinforcing the message that regional factory activity remains firm. The data came one day after Fed minutes showed deeper concern about inflation, with several officials favoring a rate hike and a 9-3 vote to hold the target range at 3.50% to 3.75%. The 10-year Treasury yield rose back near 4.69% and the 30-year yield climbed to about 5.23%, leaving gold supported by geopolitical and dollar-weakness demand but capped by the return of long-end yield pressure. Traders now turn to Friday’s flash PMI readings for confirmation on whether activity is strong enough to keep the Fed’s September decision live.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-20/gold-steadies-silver-jumps-bond-market-pressure-hits-equities-kitco-pm",
+      "published": null
+    },
     {
       "id": "stockanalysis:68b2911a6cdbf008",
       "titleEn": "Anthropic Plans to Tweak Data Retention Rules After Enterprise Concerns",
@@ -112,6 +121,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:6b1fb113e8c4e32e",
+      "titleEn": "CORRECTING and REPLACING Amid Declining Book Value, ACRES Commercial Realty Struggles to Sell REO Property Due to Labor Dispute with Philadelphia Hospitality Union UNITE HERE Local 274",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820427740/en/CORRECTING-and-REPLACING-Amid-Declining-Book-Value-ACRES-Commercial-Realty-Struggles-to-Sell-REO-Property-Due-to-Labor-Dispute-with-Philadelphia-Hospitality-Union-UNITE-HERE-Local-274/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:e2ec8b52b7ec40fb",
       "titleEn": "Bitcoin Standard Treasury Company (BSTR) Terminates Business Combination, Team Continues Pursuing Active Bitcoin Treasury Management",
       "summaryEn": null,
@@ -127,24 +145,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260820932509/en/KBRA-Assigns-Ratings-to-FMC-GMSR-Issuer-Trust-Series-2026-GT1-FMC-GMSR-2026-GT1/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6e67c31bd4f1c85f",
-      "titleEn": "Tredegar Announces Election of Ana Dutra to Board of Directors",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820294798/en/Tredegar-Announces-Election-of-Ana-Dutra-to-Board-of-Directors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4d3207497fb4d835",
-      "titleEn": "State Street Investment Management Announces Changes to ETF Lineup",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20260820639808/en/State-Street-Investment-Management-Announces-Changes-to-ETF-Lineup/",
       "published": null
     }
   ]
