@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-20T21:40:01.963094Z",
+  "generatedAt": "2026-08-20T21:58:54.413764Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 16,
   "items": [
     {
       "id": "stockanalysis:68b2911a6cdbf008",
@@ -112,12 +112,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:601fc224f2f4a91b",
-      "titleEn": "Energy Vault Holdings, Inc. Announces New Hire Awards Under NYSE Listing Rule 303A.08",
+      "id": "stockanalysis:6e67c31bd4f1c85f",
+      "titleEn": "Tredegar Announces Election of Ana Dutra to Board of Directors",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820850473/en/Energy-Vault-Holdings-Inc.-Announces-New-Hire-Awards-Under-NYSE-Listing-Rule-303A.08/",
+      "link": "https://www.businesswire.com/news/home/20260820294798/en/Tredegar-Announces-Election-of-Ana-Dutra-to-Board-of-Directors/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4d3207497fb4d835",
+      "titleEn": "State Street Investment Management Announces Changes to ETF Lineup",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.businesswire.com/news/home/20260820639808/en/State-Street-Investment-Management-Announces-Changes-to-ETF-Lineup/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fd47545240f0f7ce",
+      "titleEn": "Third Quarter Dividend Declared by Vallant Financial",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820686895/en/Third-Quarter-Dividend-Declared-by-Vallant-Financial/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4ec485067866dd2b",
+      "titleEn": "Patterson Companies Names Wasi Ahmed Chief Information Officer",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820691811/en/Patterson-Companies-Names-Wasi-Ahmed-Chief-Information-Officer/",
       "published": null
     }
   ]
