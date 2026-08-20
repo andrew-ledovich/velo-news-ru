@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-20T11:16:47.018370Z",
+  "generatedAt": "2026-08-20T11:49:36.287753Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:6c7b25606eccd0b1",
+      "titleEn": "Coinbase stock jumps 8% as Trump backs CLARITY Act, crypto rally builds",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/20/coinbase-stock-jumps-8-as-trump-backs-clarity-act-crypto-rally-builds/",
+      "published": null
+    },
     {
       "id": "stockanalysis:32f2a49c8aaed474",
       "titleEn": "ServiceNow, Adobe, Workday stocks get BofA PT boost: what's driving optimism",
@@ -60,7 +69,7 @@
     {
       "id": "stockanalysis:e762933995e3d0d3",
       "titleEn": "Nvidia Weighs Investment in Round Valuing Mercor at $20 Billion",
-      "summaryEn": null,
+      "summaryEn": "Nvidia has discussed participating in a funding round that would value Mercor , a data labeling provider that supplies data that helps the chip designer develop open-source models, at $20 billion, The Information reported Wednesday (Aug. 19), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The size of Nvidia’s potential investment and the total funding round could not be learned, according to the report.",
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.pymnts.com/news/investment-tracker/2026/nvidia-weighs-investment-in-round-valuing-mercor-at-20-billion/",
@@ -69,7 +78,7 @@
     {
       "id": "stockanalysis:68eae3f3ae7b8c80",
       "titleEn": "Hyundai Cuts Crash Test Review Time by 90% With AI",
-      "summaryEn": null,
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The automaker is deploying AI across engineering, manufacturing and maintenance, posting similarly large gains elsewhere. AI-based cart routing has reduced unnecessary production downtime by 86%, and an AI system used for vehicle maintenance has shortened response times by 42%, according to the same release. None of these figures have been independently audited, Tech Times reported . Those numbers point to an enterprise AI use case that looks different from the chatbots and copilots that have dominated corporate adoption. Instead of automating the final decision, Hyundai is using AI to compress the information-heavy work employees complete before making that decision.",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/hyundai-cuts-crash-test-review-time-90percent-ai/",
@@ -78,7 +87,7 @@
     {
       "id": "stockanalysis:a28503f2df9f8e0a",
       "titleEn": "OpenAI CFO Tells Employees Public Debut Coming by 2027",
-      "summaryEn": null,
+      "summaryEn": "OpenAI “will be a public company in 2027,” if not sooner, Chief Financial Officer Sarah Friar told employees Wednesday (Aug. 19) during an all-hands meeting, CNBC reported , citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Friar said OpenAI could make its public debut this year if “our business continues to inflect,” Friar said, according to the report.",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-cfo-tells-employees-public-debut-coming-by-2027/",
@@ -94,30 +103,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:4a01d059c6c49748",
-      "titleEn": "Gold price jumps 4% past $4,500 as Treasury buys back its own long-term debt",
-      "summaryEn": "(Kitco News) - Thirty-year yields fell, short rates rose, and the dollar hit a three-month low. The Fed&#x27;s minutes, out the same afternoon, showed officials arguing to go the other way. The U.S. Treasury moved Wednesday to hold down its own long-term borrowing costs. The metal added $185.50 to $4,518.90 on the Kitco spot chart, touching $4,524.50 and clearing a level it has spent weeks underneath. The dollar fell to its weakest in three months.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-19/gold-price-jumps-4-past-4500-treasury-buys-back-its-own-long-term-debt",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e7c2efc118e73e0d",
-      "titleEn": "LSI Industries Reports Fiscal 2026 Fourth Quarter and Full-Year Results and Declares Quarterly Cash Dividend",
+      "id": "stockanalysis:cf712d139fbccde7",
+      "titleEn": "Jack in the Box Inc. Appoints Taylor Montgomery as President",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820439458/en/LSI-Industries-Reports-Fiscal-2026-Fourth-Quarter-and-Full-Year-Results-and-Declares-Quarterly-Cash-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:80cf08268c9dbccd",
-      "titleEn": "Walmart reports revenue growth of 5.9%, up 5.1% in constant currency (cc)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819458603/en/Walmart-reports-revenue-growth-of-5.9-up-5.1-in-constant-currency-cc/",
+      "link": "https://www.businesswire.com/news/home/20260820027017/en/Jack-in-the-Box-Inc.-Appoints-Taylor-Montgomery-as-President/",
       "published": null
     }
   ]
