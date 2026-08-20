@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-20T19:08:12.748433Z",
+  "generatedAt": "2026-08-20T19:42:30.040596Z",
   "sourceCount": 1,
-  "count": 22,
+  "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:aaa49c09335587c1",
+      "titleEn": "Gold price headed 10 times higher, and that is \"inevitable,\" Thomas Kaplan says",
+      "summaryEn": "(Kitco News) - Electrum chairman sees gold reaching $30,000 to $50,000, calls the correction a \"1987 moment\" and warns governments may seize profitable mines .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } \"Seeing gold go up another tenfold from here, to me is not just likely, but inevitable,\" he told Kitco News on Thursday.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-20/gold-price-headed-10-times-higher-and-inevitable-thomas-kaplan-says",
+      "published": null
+    },
     {
       "id": "stockanalysis:2f800afdb3fb6cc2",
       "titleEn": "Walmart, Target and Amazon Are Spending Billions to Reset the Shopper's Reference Price",
@@ -139,66 +148,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:4fb9cc6822598040",
-      "titleEn": "Gold tests $4,450 as Philly Fed, jobless claims firm rate risk - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices are lower and spot silver prices are firmer in early U.S. trading Thursday, as stronger-than-expected U.S. labor and regional manufacturing data trimmed part of Wednesday’s Treasury-led precious-metals rally. At the time of writing, spot gold was trading near $4,454.70 an ounce, down 1.51%, while spot silver was trading near $66.670, up 4.87% on the session. The latest positioning remains split between yesterday’s bond-market relief and this morning’s firmer data. Initial jobless claims fell to 206,000 for the week ended Aug. 15, below expectations for 210,000, while continuing claims rose to 1.799 million. The Philadelphia Fed manufacturing index rose to 47.4 in August from 41.4 in July , well above expectations for 24.1, reinforcing the message from Monday’s Empire State survey that regional factory activity is not rolling over. The data added some resistance to the lower-yields trade that lifted gold above $4,500 Wednesday, while Fed minutes showed several officials were prepared to raise rates if inflation fails to cool. The 10-year Treasury yield is trading near the 4.7% area, and traders now turn to Friday’s flash PMI readings at 9:45 a.m. ET. Gold’s pullback is occurring after a clean breakout day. Wednesday’s surge pushed the metal through $4,447, then above the $4,500 area, before this morning’s claims and Philly Fed data pulled prices back toward the breakout zone. Silver has held up better, staying above the $66.55 level identified in the latest technical setup. The split matters for positioning: gold is trading the rates impulse more directly, while silver is still drawing support from momentum, industrial demand and the broader precious-metals breakout.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-20/gold-tests-4450-philly-fed-jobless-claims-firm-rate-risk-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0c125eedd1ad888d",
-      "titleEn": "Why is Walmart stock falling 7% despite earnings beat and raised outlook?",
+      "id": "stockanalysis:7e343d033d34f6ab",
+      "titleEn": "Tanium Reappoints Co-Founder Orion Hindawi as CEO to Drive Next Chapter of Growth",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/20/why-is-walmart-stock-falling-7-despite-earnings-beat-and-raised-outlook/",
+      "link": "https://www.businesswire.com/news/home/20260820217954/en/Tanium-Reappoints-Co-Founder-Orion-Hindawi-as-CEO-to-Drive-Next-Chapter-of-Growth/",
       "published": null
     },
     {
-      "id": "stockanalysis:b7495e8c3b5006a4",
-      "titleEn": "7 Brew® Grows From Stands to Stores With National Ready-To-Drink Coffee and Energy Beverage Expansion at Walmart",
+      "id": "stockanalysis:dde566b257159023",
+      "titleEn": "Yellowwood Launches Real Estate Design Partner Program With CAPREIT, Binswanger, and Reichard Capital",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820423109/en/7-Brew%C2%AE-Grows-From-Stands-to-Stores-With-National-Ready-To-Drink-Coffee-and-Energy-Beverage-Expansion-at-Walmart/",
+      "link": "https://www.businesswire.com/news/home/20260820141753/en/Yellowwood-Launches-Real-Estate-Design-Partner-Program-With-CAPREIT-Binswanger-and-Reichard-Capital/",
       "published": null
     },
     {
-      "id": "stockanalysis:a8ec246ea6f66f82",
-      "titleEn": "UFP Technologies, Inc. to Present and Host 1x1 Investor Meetings at the 17th Annual Midwest IDEAS Investor Conference on August 26th in Chicago, IL",
+      "id": "stockanalysis:2fcbc1b6da7d9a7d",
+      "titleEn": "Hark and AT&amp;T Partner on Connectivity for Future AI Devices",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820083915/en/UFP-Technologies-Inc.-to-Present-and-Host-1x1-Investor-Meetings-at-the-17th-Annual-Midwest-IDEAS-Investor-Conference-on-August-26th-in-Chicago-IL/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8dedd8aa420c184b",
-      "titleEn": "KBRA Assigns Preliminary Ratings to Upgrade Master Pass-Thru Trust, Series 2026-ST4",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820165749/en/KBRA-Assigns-Preliminary-Ratings-to-Upgrade-Master-Pass-Thru-Trust-Series-2026-ST4/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:965531dfa05542b4",
-      "titleEn": "Robbins LLP Informs Stockholders it is Investigating Potential Securities Claims Involving Wealthfront Corporation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820682033/en/Robbins-LLP-Informs-Stockholders-it-is-Investigating-Potential-Securities-Claims-Involving-Wealthfront-Corporation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e264b3ddcc718ccf",
-      "titleEn": "Robbins LLP Informs Stockholders It Is Investigating Potential Securities Claims Involving Hyliion Holdings Corp.",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820510048/en/Robbins-LLP-Informs-Stockholders-It-Is-Investigating-Potential-Securities-Claims-Involving-Hyliion-Holdings-Corp./",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260820331867/en/Hark-and-ATT-Partner-on-Connectivity-for-Future-AI-Devices/",
       "published": null
     }
   ]
