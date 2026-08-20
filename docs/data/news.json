@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-20T14:06:01.283795Z",
+  "generatedAt": "2026-08-20T14:52:03.036173Z",
   "sourceCount": 1,
   "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:1947ded280dff11d",
+      "titleEn": "Moderna stock falls 20% after record rally as valuation concerns emerge",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/20/moderna-stock-falls-20-after-record-rally-as-valuation-concerns-emerge/",
+      "published": null
+    },
     {
       "id": "stockanalysis:9bcad6119ace9b0a",
       "titleEn": "BMNR stock jumps as Ethereum rebounds, BitMine nears inflection point",
@@ -76,6 +85,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:1fae80900f09ea67",
+      "titleEn": "DRAM ETF receives a $101 billion catalyst from Samsung, SK Hynix",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/20/dram-etf-receives-a-101-billion-catalyst-from-samsung-sk-hynix/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:6c7b25606eccd0b1",
       "titleEn": "Coinbase stock jumps 8% as Trump backs CLARITY Act, crypto rally builds",
       "summaryEn": null,
@@ -139,30 +157,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:e762933995e3d0d3",
-      "titleEn": "Nvidia Weighs Investment in Round Valuing Mercor at $20 Billion",
-      "summaryEn": "Nvidia has discussed participating in a funding round that would value Mercor , a data labeling provider that supplies data that helps the chip designer develop open-source models, at $20 billion, The Information reported Wednesday (Aug. 19), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The size of Nvidia’s potential investment and the total funding round could not be learned, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/nvidia-weighs-investment-in-round-valuing-mercor-at-20-billion/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:68eae3f3ae7b8c80",
-      "titleEn": "Hyundai Cuts Crash Test Review Time by 90% With AI",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The automaker is deploying AI across engineering, manufacturing and maintenance, posting similarly large gains elsewhere. AI-based cart routing has reduced unnecessary production downtime by 86%, and an AI system used for vehicle maintenance has shortened response times by 42%, according to the same release. None of these figures have been independently audited, Tech Times reported . Those numbers point to an enterprise AI use case that looks different from the chatbots and copilots that have dominated corporate adoption. Instead of automating the final decision, Hyundai is using AI to compress the information-heavy work employees complete before making that decision.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/hyundai-cuts-crash-test-review-time-90percent-ai/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9bf0fb3fc1d72d75",
-      "titleEn": "CEPR and Cohesive Receive Maximo Award for Power Plant Health and Safety Excellence",
+      "id": "stockanalysis:727c204e88ba1c9d",
+      "titleEn": "Halliburton Labs Announces Three New Portfolio Companies",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820774635/en/CEPR-and-Cohesive-Receive-Maximo-Award-for-Power-Plant-Health-and-Safety-Excellence/",
+      "link": "https://www.businesswire.com/news/home/20260820365797/en/Halliburton-Labs-Announces-Three-New-Portfolio-Companies/",
       "published": null
     }
   ]
