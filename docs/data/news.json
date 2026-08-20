@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-20T03:55:56.227452Z",
+  "generatedAt": "2026-08-20T04:28:04.005779Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:3e7a8a17bd6a49bc",
+      "titleEn": "Alibaba earnings today: can AI cloud growth finally break its losing streak?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/20/alibaba-earnings-today-can-ai-cloud-growth-finally-break-its-losing-streak/",
+      "published": null
+    },
     {
       "id": "stockanalysis:50ce3dbb46367f6e",
       "titleEn": "Samsung stock jumps 9%: why its 15% AI chip price hike matters",
