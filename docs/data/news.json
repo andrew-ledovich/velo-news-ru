@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-20T11:49:36.287753Z",
+  "generatedAt": "2026-08-20T12:22:56.478593Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:6c7b25606eccd0b1",
@@ -91,24 +91,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-cfo-tells-employees-public-debut-coming-by-2027/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f3bae11f94427720",
-      "titleEn": "Gold surges above $4,500, silver breaks $66 as Treasury buyback sinks yields - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply higher in late-afternoon U.S. trading Wednesday, as a Treasury-led bond-market rally pulled yields lower, weakened the U.S. dollar and helped precious metals cut through key resistance levels even after Fed minutes showed policymakers were more concerned about inflation. At the time of writing, spot gold was trading near $4,521.00 an ounce, up 4.33%, while spot silver was trading at $66.550, up 5.29% on the session. North American equity markets closed higher, snapping a three-session slide. The Dow Jones Industrial Average rose 86.81 points, or 0.16%, to 53,430.21, the S&P 500 gained 12.56 points, or 0.16%, to 7,704.32, and the Nasdaq Composite added 21.95 points, or 0.08%, to 26,311.66. European markets were mixed to weaker, with the STOXX Europe 600 down 0.11% to 651.16, Germany’s DAX down 0.14% to 26,091.33, France’s CAC 40 down 0.09% to 8,501.91 and Italy’s FTSE MIB down 0.75% to 52,618.20. London’s FTSE 100 rose 0.14% to 10,743.35. The latest positioning was dominated by the Treasury’s decision to boost long-dated bond buybacks, which hit the part of the curve that had been pressuring metals all week. The 10-year Treasury yield fell toward the 4.6% area and the 30-year yield pulled back toward 5.2%, while the dollar broke lower. The Fed minutes showed several officials supported a 25-basis-point hike at the July meeting, the committee voted 9-3 to hold the federal funds target range at 3.50% to 3.75%, and markets still price September hike odds near 56%, down from 82% immediately after the July decision. For gold, the day’s key message was that lower real-rate pressure overwhelmed the hawkish tone of the minutes. The next data tests are jobless claims and the Philadelphia Fed index Thursday, followed by flash PMI readings Friday.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-19/gold-surges-above-4500-silver-breaks-66-treasury-buyback-sinks-yields-kitco",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cf712d139fbccde7",
-      "titleEn": "Jack in the Box Inc. Appoints Taylor Montgomery as President",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820027017/en/Jack-in-the-Box-Inc.-Appoints-Taylor-Montgomery-as-President/",
       "published": null
     }
   ]
