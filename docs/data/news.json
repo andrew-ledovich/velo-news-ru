@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-20T10:18:35.927501Z",
+  "generatedAt": "2026-08-20T10:53:50.566607Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:32f2a49c8aaed474",
+      "titleEn": "ServiceNow, Adobe, Workday stocks get BofA PT boost: what's driving optimism",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/20/servicenow-adobe-workday-stocks-get-bofa-pt-boost-whats-driving-optimism/",
+      "published": null
+    },
     {
       "id": "stockanalysis:70ccc3d22c49a4fd",
       "titleEn": "Some of Meta's safety tools were 'designed to fail': Witness",
@@ -112,21 +121,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:365bea1fc88ed162",
-      "titleEn": "Organigram Global Accelerates Integration of Sanity Group Under Unified Global Operating Structure",
+      "id": "stockanalysis:d8267a1eb83acd88",
+      "titleEn": "Qnity Accelerates Advanced Node Materials Innovation with Next-Generation KLA Inspection Capabilities",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819112033/en/Organigram-Global-Accelerates-Integration-of-Sanity-Group-Under-Unified-Global-Operating-Structure/",
+      "link": "https://www.businesswire.com/news/home/20260819307953/en/Qnity-Accelerates-Advanced-Node-Materials-Innovation-with-Next-Generation-KLA-Inspection-Capabilities/",
       "published": null
     },
     {
-      "id": "stockanalysis:19658f3ad8f7db8e",
-      "titleEn": "Packaging Redesigns See 4% Average Volume Lift, NIQ Finds",
+      "id": "stockanalysis:c52b9d0db3fa6888",
+      "titleEn": "Advance Auto Parts Reports Second Quarter 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819712595/en/Packaging-Redesigns-See-4-Average-Volume-Lift-NIQ-Finds/",
+      "link": "https://www.businesswire.com/news/home/20260820320774/en/Advance-Auto-Parts-Reports-Second-Quarter-2026-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7f0114fa0064183b",
+      "titleEn": "lululemon athletica inc. announces second quarter fiscal 2026 earnings conference call",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820681602/en/lululemon-athletica-inc.-announces-second-quarter-fiscal-2026-earnings-conference-call/",
       "published": null
     }
   ]
