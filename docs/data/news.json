@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-20T16:58:04.206472Z",
+  "generatedAt": "2026-08-20T17:25:05.564097Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 24,
   "items": [
+    {
+      "id": "stockanalysis:93e444d839f02e4f",
+      "titleEn": "Deere earnings: Cramer says buy DE shares - just not today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/20/deere-earnings-cramer-says-buy-de-shares-just-not-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6f873694f9ea5b40",
+      "titleEn": "Nvidia stock is wobbly ahead of earnings, but analysts still see up to 30% upside",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/20/nvidia-stock-is-wobbly-ahead-of-earnings-but-analysts-still-see-up-to-30-upside/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:85c71351f85cf87d",
+      "titleEn": "Anthropic-Backed Ode Acquires Casper Studios to Expand Corporate AI Deployments",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Casper helps companies put Anthropic’s Claude to work inside the systems they already use. The company builds skills, connectors and context within Anthropic products to drive AI’s impact across an organization, according to the release. Ode’s acquisition of Casper will help Ode address additional opportunities for AI initiatives as it supports enterprises that are working to transform their business with AI, the release said.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/acquiring/2026/anthropic-backed-ode-acquires-casper-studios-to-expand-corporate-ai-deployments/",
+      "published": null
+    },
     {
       "id": "stockanalysis:4a1ebc156679db59",
       "titleEn": "Micron stock gains 2% today: here's why",
@@ -157,6 +184,24 @@
       "published": null
     },
     {
+      "id": "stockanalysis:0b53a210dc7dadcf",
+      "titleEn": "Perma-Pipe Secures More Than $67 Million in New Orders in the Second Quarter of 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820540761/en/Perma-Pipe-Secures-More-Than-67-Million-in-New-Orders-in-the-Second-Quarter-of-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ef9889b32d06d9b4",
+      "titleEn": "KBRA Assigns Preliminary Ratings to Sona Aclai CLO I DAC",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820962423/en/KBRA-Assigns-Preliminary-Ratings-to-Sona-Aclai-CLO-I-DAC/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:b22a814b96ed3689",
       "titleEn": "Balfour Beatty Appoints Sarah Brand as Vice President of Tampa Buildings Operations",
       "summaryEn": null,
@@ -166,21 +211,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c45dc2c2c549bcab",
-      "titleEn": "Exchange Bank Declares Third Quarter Cash Dividend and Announces Planned Retirement of President and CEO",
+      "id": "stockanalysis:d1fe12440cd59b26",
+      "titleEn": "Popular, Inc. Declares a Cash Dividend of $0.90 per Common Share",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820272935/en/Exchange-Bank-Declares-Third-Quarter-Cash-Dividend-and-Announces-Planned-Retirement-of-President-and-CEO/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c732c5c099ae7556",
-      "titleEn": "Dream Unlimited Corp. Announces Quarterly Class A Subordinate Voting Share and Class B Common Share Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819831525/en/Dream-Unlimited-Corp.-Announces-Quarterly-Class-A-Subordinate-Voting-Share-and-Class-B-Common-Share-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20260819954554/en/Popular-Inc.-Declares-a-Cash-Dividend-of-0.90-per-Common-Share/",
       "published": null
     }
   ]
