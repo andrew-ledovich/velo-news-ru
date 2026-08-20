@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-20T14:52:03.036173Z",
+  "generatedAt": "2026-08-20T15:23:07.834189Z",
   "sourceCount": 1,
   "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:aed151f89164c240",
+      "titleEn": "Why SpaceX stock is crashing around 5% on Thursday",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/20/why-spacex-stock-is-crashing-around-5-on-thursday/",
+      "published": null
+    },
     {
       "id": "stockanalysis:1947ded280dff11d",
       "titleEn": "Moderna stock falls 20% after record rally as valuation concerns emerge",
@@ -121,48 +130,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ad7c8c790c6be921",
-      "titleEn": "Xiaomi share price analysis as smartphone sales severely lag Samsung, Apple",
+      "id": "stockanalysis:c732c5c099ae7556",
+      "titleEn": "Dream Unlimited Corp. Announces Quarterly Class A Subordinate Voting Share and Class B Common Share Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/20/xiaomi-share-price-analysis-as-smartphone-sales-severely-lag-samsung-apple/",
+      "link": "https://www.businesswire.com/news/home/20260819831525/en/Dream-Unlimited-Corp.-Announces-Quarterly-Class-A-Subordinate-Voting-Share-and-Class-B-Common-Share-Dividend/",
       "published": null
     },
     {
-      "id": "stockanalysis:3e7a8a17bd6a49bc",
-      "titleEn": "Alibaba earnings today: can AI cloud growth finally break its losing streak?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/20/alibaba-earnings-today-can-ai-cloud-growth-finally-break-its-losing-streak/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:50ce3dbb46367f6e",
-      "titleEn": "Samsung stock jumps 9%: why its 15% AI chip price hike matters",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/20/samsung-stock-jumps-9-why-its-15-ai-chip-price-hike-matters/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bec79b6d47806d00",
-      "titleEn": "Kospi Index rebounds as EWY ETF inflows surge, Samsung and SK Hynix lead gains",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/20/kospi-index-rebounds-as-ewy-inflows-surge-samsung-and-sk-hynix-lead-gains/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:727c204e88ba1c9d",
-      "titleEn": "Halliburton Labs Announces Three New Portfolio Companies",
+      "id": "stockanalysis:924489053e470dc9",
+      "titleEn": "KBRA Assigns Preliminary Ratings to Prosper Credit Card 2026-1 Issuer LLC",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820365797/en/Halliburton-Labs-Announces-Three-New-Portfolio-Companies/",
+      "link": "https://www.businesswire.com/news/home/20260820483901/en/KBRA-Assigns-Preliminary-Ratings-to-Prosper-Credit-Card-2026-1-Issuer-LLC/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bc5979d1b671ea30",
+      "titleEn": "Ode with Anthropic Acquires Casper Studios to Help Businesses Get the Most Value Out of AI",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260820422531/en/Ode-with-Anthropic-Acquires-Casper-Studios-to-Help-Businesses-Get-the-Most-Value-Out-of-AI/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dfe714f91d2c54f4",
+      "titleEn": "Money Secrets, Financial Pressure and Delayed Milestones Are Reshaping Americans' Relationships, TD Bank U.S. Survey Finds",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820247572/en/Money-Secrets-Financial-Pressure-and-Delayed-Milestones-Are-Reshaping-Americans%E2%80%99-Relationships-TD-Bank-U.S.-Survey-Finds/",
       "published": null
     }
   ]
