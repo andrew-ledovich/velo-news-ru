@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-20T07:03:33.062962Z",
+  "generatedAt": "2026-08-20T07:53:51.147432Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "id": "stockanalysis:ad7c8c790c6be921",
@@ -103,6 +103,24 @@
       "published": null
     },
     {
+      "id": "stockanalysis:55c0fd9662bcd8ce",
+      "titleEn": "Santander Expands U.S. Presence with Completion of Webster Acquisition",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820118649/en/Santander-Expands-U.S.-Presence-with-Completion-of-Webster-Acquisition/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ba7d0b8c545e106c",
+      "titleEn": "Experian Brings Personalised Credit Scores to ChatGPT in a UK First",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260820855010/en/Experian-Brings-Personalised-Credit-Scores-to-ChatGPT-in-a-UK-First/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:7a00540f9f918cd9",
       "titleEn": "Uber Launches Baidu's Fully Driverless Apollo Go in Dubai, Establishing the First Multi-Partner Autonomous Network Globally",
       "summaryEn": null,
@@ -163,15 +181,6 @@
       "source": "Stock Analysis",
       "topic": "EV",
       "link": "https://www.businesswire.com/news/home/20260819788219/en/Asahi-Kasei-Develops-Novel-Lithium-Pre-doping-Technology-to-Raise-Energy-Density-and-Lower-Cost-of-Silicon-rich-Lithium-ion-Batteries/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bd35527d2e83b590",
-      "titleEn": "Backblaze Announces Pricing of Upsized $175 Million Convertible Senior Notes Offering",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819646189/en/Backblaze-Announces-Pricing-of-Upsized-175-Million-Convertible-Senior-Notes-Offering/",
       "published": null
     }
   ]
