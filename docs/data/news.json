@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-20T20:43:28.652206Z",
+  "generatedAt": "2026-08-20T21:04:01.312522Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 16,
   "items": [
     {
       "id": "stockanalysis:68b2911a6cdbf008",
@@ -130,57 +130,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:a2b17ba8bea461d4",
-      "titleEn": "Murphy USA Debuts Automated Retail Technologies Foodservice Platform Featuring White Castle",
+      "id": "stockanalysis:8a78eca37d40b540",
+      "titleEn": "Saba Capital Income &amp; Opportunities Fund (BRW) and Saba Capital Income &amp; Opportunities Fund II (SABA) Announce Reapproval of Merger",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820385753/en/Murphy-USA-Debuts-Automated-Retail-Technologies-Foodservice-Platform-Featuring-White-Castle/",
+      "link": "https://www.businesswire.com/news/home/20260820671650/en/Saba-Capital-Income-Opportunities-Fund-BRW-and-Saba-Capital-Income-Opportunities-Fund-II-SABA-Announce-Reapproval-of-Merger/",
       "published": null
     },
     {
-      "id": "stockanalysis:2c979d02e41918f5",
-      "titleEn": "Bunge to Present at Barclays Annual Global Consumer Conference",
+      "id": "stockanalysis:13d20c63e99d3bd5",
+      "titleEn": "James Hardie Announces Strategic Divestiture of European Operations, Including Sale of Fermacell to Holcim for €840 Million",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820784642/en/Bunge-to-Present-at-Barclays-Annual-Global-Consumer-Conference/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0d36bed0eb415a09",
-      "titleEn": "Lucky Strike Entertainment to Report Fourth Quarter and Full Year 2026 Financial Results on August 27, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820489641/en/Lucky-Strike-Entertainment-to-Report-Fourth-Quarter-and-Full-Year-2026-Financial-Results-on-August-27-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f4cd5882a52ca505",
-      "titleEn": "AEVEX Awarded $41 Million Contract to Deliver One-Way Attack Systems",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818589412/en/AEVEX-Awarded-41-Million-Contract-to-Deliver-One-Way-Attack-Systems/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7ea7126f1b578a85",
-      "titleEn": "GitLab Scales Agentic AI Across Trusted Software Delivery Workflows",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260820228333/en/GitLab-Scales-Agentic-AI-Across-Trusted-Software-Delivery-Workflows/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0e6adc3e73996911",
-      "titleEn": "Carter's, Inc. Announces Quarterly Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820232190/en/Carter%E2%80%99s-Inc.-Announces-Quarterly-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20260820393159/en/James-Hardie-Announces-Strategic-Divestiture-of-European-Operations-Including-Sale-of-Fermacell-to-Holcim-for-%E2%82%AC840-Million/",
       "published": null
     }
   ]
