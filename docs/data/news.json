@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-20T15:23:07.834189Z",
+  "generatedAt": "2026-08-20T15:55:17.524880Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:884f0a94220828a5",
+      "titleEn": "Moderna is paring back gains, but Merck stock remains a buy",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/20/moderna-is-paring-back-gains-but-merck-stock-remains-a-buy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0b6fa7172fab704c",
+      "titleEn": "Circle stock jumps amid a crypto rally, but major USDC risks remain",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/20/circle-stock-jumps-amid-a-crypto-rally-but-major-usdc-risks-remain/",
+      "published": null
+    },
     {
       "id": "stockanalysis:aed151f89164c240",
       "titleEn": "Why SpaceX stock is crashing around 5% on Thursday",
@@ -121,15 +139,6 @@
       "published": null
     },
     {
-      "id": "stockanalysis:70ccc3d22c49a4fd",
-      "titleEn": "Some of Meta's safety tools were 'designed to fail': Witness",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: A former employee testified Wednesday that some of Meta's safety tools for Facebook and Instagram were \"designed to fail,\" contradicting the company's defense strategy in a landmark trial in California. For a second day, Meta is fending off accusations by a coalition of U.S. states that it deliberately designed its products to hook children and gather their data while misleading the public.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-08-meta-safety-tools-witness.html",
-      "published": null
-    },
-    {
       "id": "stockanalysis:c732c5c099ae7556",
       "titleEn": "Dream Unlimited Corp. Announces Quarterly Class A Subordinate Voting Share and Class B Common Share Dividend",
       "summaryEn": null,
@@ -157,12 +166,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:dfe714f91d2c54f4",
-      "titleEn": "Money Secrets, Financial Pressure and Delayed Milestones Are Reshaping Americans' Relationships, TD Bank U.S. Survey Finds",
+      "id": "stockanalysis:63d40f5085f7e626",
+      "titleEn": "CrowdStrike's Fal.Con 2026 Unites Cybersecurity's Ecosystem to Secure the AI Revolution",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820247572/en/Money-Secrets-Financial-Pressure-and-Delayed-Milestones-Are-Reshaping-Americans%E2%80%99-Relationships-TD-Bank-U.S.-Survey-Finds/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260819577865/en/CrowdStrike%E2%80%99s-Fal.Con-2026-Unites-Cybersecurity%E2%80%99s-Ecosystem-to-Secure-the-AI-Revolution/",
       "published": null
     }
   ]
