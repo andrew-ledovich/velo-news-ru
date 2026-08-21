@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-21T19:54:35.794641Z",
+  "generatedAt": "2026-08-21T20:13:09.686401Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 15,
   "items": [
     {
       "id": "stockanalysis:9d0bc584c76550f3",
@@ -51,7 +51,7 @@
     {
       "id": "stockanalysis:a2f4d27edee02c2f",
       "titleEn": "Walmart Tap to Pay Rollout Begins Monday",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The retailer will begin enabling tap to pay at select stores and clubs on Monday (Aug. 24) and plans to roll it out to all U.S. locations by the end of 2026 and to fuel stations by mid-2027, according to the release. “Tap to Pay gives customers and members another familiar and convenient way to pay at checkout using contactless payment methods,” Walmart said in the release. “Whether picking up groceries, gifts or everyday essentials, they can check out using eligible contactless card, phone or smartwatch.”",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.pymnts.com/news/payment-methods/2026/walmart-tap-to-pay-rollout-begins-monday/",
@@ -121,12 +121,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5b32a2c37b62538e",
-      "titleEn": "Gold, silver extend breakout as U.S. dollar slides below 99 - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply higher in early U.S. trading Friday, as a weaker U.S. dollar, fading September Fed-hike expectations and U.S. fiscal concerns kept buyers in control of the precious-metals breakout. At the time of writing, spot gold was trading near $4,594.60 an ounce, up 1.69%, while spot silver was trading at $69.470, up 2.23% on the session. The latest positioning remains split between softer U.S. growth data and stubborn inflation risk from oil and long-end yields. Last week’s softer CPI, flat headline PPI, weak retail sales and weaker consumer sentiment lowered the market’s appetite to price another September rate hike, even as Thursday’s jobless claims and Philadelphia Fed survey showed no material break in labor or regional manufacturing momentum. Fed minutes released Wednesday showed several officials were prepared to raise rates if inflation fails to cool, but traders are still leaning toward a hold next month. The 10-year Treasury yield is trading near the 4.7% area, the 30-year yield is near the 5.25% area and the U.S. dollar index has slipped below 99.00. The next macro test is the flash U.S. PMI release at 9:45 a.m. ET. Gold and silver remain the standout cross-asset move. Gold has broken above the $4,447 support-turned-breakout level, cleared the $4,500 area and is now testing the $4,595 resistance region. Silver has moved through $66.55 and $68.02, pushing toward the next resistance at $69.48 while trading near its highest level of the week. The move is not simply a lower-yield trade: metals are rallying even with long-end yields elevated, suggesting fiscal-risk hedging, dollar weakness and geopolitical demand are offsetting the negative carry from higher rates.",
+      "id": "stockanalysis:4c72423fff16c4d4",
+      "titleEn": "Molina Healthcare of Michigan Donates $85,000 to Support Two Organizations Addressing Hunger and Housing in Bay and Saginaw Counties",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-21/gold-silver-extend-breakout-us-dollar-slides-below-99-kitco-am-report",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260821327808/en/Molina-Healthcare-of-Michigan-Donates-85000-to-Support-Two-Organizations-Addressing-Hunger-and-Housing-in-Bay-and-Saginaw-Counties/",
       "published": null
     },
     {
@@ -136,24 +136,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260821239896/en/KBRA-Publishes-Ratings-for-Hildene-Holding-Company-LLC-and-Hildene-Capital-Management-LLC/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d7a50171daa32b1e",
-      "titleEn": "Main Management Announces the Launch of a 351 Exchange ETF",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20260820972882/en/Main-Management-Announces-the-Launch-of-a-351-Exchange-ETF/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2585c7afade968bb",
-      "titleEn": "Church &amp; Dwight to Present at the 2026 Barclays Global Consumer Staples Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821950546/en/Church-Dwight-to-Present-at-the-2026-Barclays-Global-Consumer-Staples-Conference/",
       "published": null
     }
   ]
