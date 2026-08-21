@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-21T20:58:34.741912Z",
+  "generatedAt": "2026-08-21T21:21:59.873927Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:9d0bc584c76550f3",
@@ -109,33 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-21/spot-gold-holds-above-4585oz-flash-sp-composite-pmi-improves-56-august",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a222c41c388af120",
-      "titleEn": "Qnity to Present at the Goldman Sachs Communacopia and Technology Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821341481/en/Qnity-to-Present-at-the-Goldman-Sachs-Communacopia-and-Technology-Conference/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:aeced94d852bbc19",
-      "titleEn": "loanDepot, Inc. Addresses Notice of NYSE Trading Price Non-Compliance",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821667683/en/loanDepot-Inc.-Addresses-Notice-of-NYSE-Trading-Price-Non-Compliance/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:15d88c700ea815b6",
-      "titleEn": "Kairos Pharma Announces 1-for-7 Reverse Stock Split",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821475354/en/Kairos-Pharma-Announces-1-for-7-Reverse-Stock-Split/",
       "published": null
     }
   ]
