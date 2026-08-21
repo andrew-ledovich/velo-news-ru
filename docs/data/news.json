@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-21T17:52:56.810671Z",
+  "generatedAt": "2026-08-21T18:20:44.399120Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:a9c7342d89ec994e",
+      "titleEn": "Here's why the Bloom Energy stock is losing momentum despite its growth",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/21/heres-why-the-bloom-energy-stock-is-losing-momentum-despite-its-growth/",
+      "published": null
+    },
     {
       "id": "stockanalysis:7d859ddb9e6ac6cd",
       "titleEn": "SK Hynix stock gains even as Samsung announce bigger buyback: here's why",
@@ -94,24 +103,6 @@
       "published": null
     },
     {
-      "id": "stockanalysis:38a6a48cef82c6f9",
-      "titleEn": "S&amp;P 500 Index in focus as bond vigilantes push US yields to a two decade high",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/21/sp-500-index-in-focus-as-bond-vigilantes-push-us-yields-to-a-two-decade-high/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f5f8684202c7e5e7",
-      "titleEn": "Why is Samsung planning a record $80B payout after SK Hynix's giant buyback?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/21/why-is-samsung-planning-a-record-80b-payout-after-sk-hynixs-giant-buyback/",
-      "published": null
-    },
-    {
       "id": "stockanalysis:d7a50171daa32b1e",
       "titleEn": "Main Management Announces the Launch of a 351 Exchange ETF",
       "summaryEn": null,
@@ -127,24 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260821950546/en/Church-Dwight-to-Present-at-the-2026-Barclays-Global-Consumer-Staples-Conference/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0fc8286b8427dffb",
-      "titleEn": "Leon Stok of IBM Reelected Silicon Integration Initiative Board Chair",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821392204/en/Leon-Stok-of-IBM-Reelected-Silicon-Integration-Initiative-Board-Chair/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a19429ef2e6e7346",
-      "titleEn": "MGE Energy Increases Dividend for 51st Consecutive Year",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821888419/en/MGE-Energy-Increases-Dividend-for-51st-Consecutive-Year/",
       "published": null
     }
   ]
