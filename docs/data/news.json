@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-21T19:04:02.600082Z",
+  "generatedAt": "2026-08-21T19:34:45.005865Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:4bc74368ca90810f",
+      "titleEn": "Nvidia stock dubbed 'top pick' ahead of Q2 earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/21/nvidia-stock-dubbed-top-pick-ahead-of-q2-earnings/",
+      "published": null
+    },
     {
       "id": "stockanalysis:8737a7d2402d9b04",
       "titleEn": "SpaceX stock rises as Starlink nears 11,000 satellites in orbit",
@@ -109,6 +118,15 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-08-21/gold-silver-extend-breakout-us-dollar-slides-below-99-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4aa3e800e2eb3b30",
+      "titleEn": "KBRA Publishes Ratings for Hildene Holding Company, LLC and Hildene Capital Management, LLC",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260821239896/en/KBRA-Publishes-Ratings-for-Hildene-Holding-Company-LLC-and-Hildene-Capital-Management-LLC/",
       "published": null
     },
     {
