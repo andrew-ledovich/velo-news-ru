@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-21T04:50:59.009871Z",
+  "generatedAt": "2026-08-21T05:22:03.779889Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 17,
   "items": [
     {
       "id": "stockanalysis:ec2c022a95d177d9",
@@ -154,15 +154,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260820351029/en/Avnet-Increases-Quarterly-Dividend-by-5.7/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4ca6169eda98f7c6",
-      "titleEn": "AeroVironment to Establish Industrial Presence in Greece Through AV Eagle",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821140577/en/AeroVironment-to-Establish-Industrial-Presence-in-Greece-Through-AV-Eagle/",
       "published": null
     }
   ]
