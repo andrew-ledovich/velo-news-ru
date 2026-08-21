@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-21T22:26:51.802850Z",
+  "generatedAt": "2026-08-21T22:48:23.209725Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:d2cf8344d4793c68",
+      "titleEn": "Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters bullish majority with Warsh, PCE in focus",
+      "summaryEn": "(Kitco News) – Gold prices surged to their third straight weekly gain, as concerns over U.S. debt sustainability, a weaker dollar, and the Treasury Department’s surprise move to expand long-dated bond buybacks helped the precious metal break above $4,600 per ounce. Spot gold kicked off the week trading at $4,381.12 per ounce on Sunday evening, and pushed higher Monday as traders continued to buy the previous week’s rebound. The move stalled Tuesday as long-dated Treasury yields climbed and the U.S. dollar held firm, with spot prices ultimately setting their weekly low at $4,324.49 per ounce early Wednesday morning. Gold’s breakout came just a few hours later when the U.S. Treasury announced that it would double the size of buybacks for 10- to 30-year debt securities to at least $4 billion per operation, a move that briefly drove long-end yields lower and intensified concerns about the sustainability of U.S. borrowing as total public debt neared $40 trillion. The dollar weakened after the announcement, and gold surged above $4,500 as investors moved into hard assets.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-21/wall-street-bereft-bears-after-gold-smashes-4600oz-main-street-bolsters",
+      "published": null
+    },
     {
       "id": "stockanalysis:0edce3bb1b9fad6f",
       "titleEn": "Gold, silver extend rally as dollar slide offsets higher yields - Kitco PM Report",
