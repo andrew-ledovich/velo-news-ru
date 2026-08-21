@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-21T16:18:51.161578Z",
+  "generatedAt": "2026-08-21T16:58:01.244181Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:a205cafe86e99e80",
+      "titleEn": "Broadcom stock is rising today as AI financing and analyst optimism fuel rebound",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/21/broadcom-stock-is-rising-today-as-ai-financing-and-analyst-optimism-fuel-rebound/",
+      "published": null
+    },
     {
       "id": "stockanalysis:61dc70ea886c9cc1",
       "titleEn": "Piper Sandler cautions against buying the dip in AppLovin stock",
@@ -85,21 +94,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:2d8a039251f25bcc",
-      "titleEn": "FTSE 100 powers ahead as mining giants surge while Europe struggles to keep up",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/21/ftse-100-powers-ahead-as-mining-giants-surge-while-europe-struggles-to-keep-up/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:69d684672daf5718",
-      "titleEn": "Micron stock to $2,000? Nvidia earnings could test Wall Street's boldest bet",
+      "id": "stockanalysis:2585c7afade968bb",
+      "titleEn": "Church &amp; Dwight to Present at the 2026 Barclays Global Consumer Staples Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/21/micron-stock-to-2000-nvidia-earnings-could-test-wall-streets-boldest-bet/",
+      "link": "https://www.businesswire.com/news/home/20260821950546/en/Church-Dwight-to-Present-at-the-2026-Barclays-Global-Consumer-Staples-Conference/",
       "published": null
     },
     {
@@ -109,6 +109,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260821392204/en/Leon-Stok-of-IBM-Reelected-Silicon-Integration-Initiative-Board-Chair/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a19429ef2e6e7346",
+      "titleEn": "MGE Energy Increases Dividend for 51st Consecutive Year",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260821888419/en/MGE-Energy-Increases-Dividend-for-51st-Consecutive-Year/",
       "published": null
     },
     {
