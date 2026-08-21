@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-21T15:55:02.029710Z",
+  "generatedAt": "2026-08-21T16:18:51.161578Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:61dc70ea886c9cc1",
+      "titleEn": "Piper Sandler cautions against buying the dip in AppLovin stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/21/piper-sandler-cautions-against-buying-the-dip-in-applovin-stock/",
+      "published": null
+    },
     {
       "id": "stockanalysis:e68cad9334a15206",
       "titleEn": "Robinhood stock jumps 11% as BTC rally fuels crypto shares: Can HOOD hold the gains?",
@@ -91,6 +100,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/21/micron-stock-to-2000-nvidia-earnings-could-test-wall-streets-boldest-bet/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0fc8286b8427dffb",
+      "titleEn": "Leon Stok of IBM Reelected Silicon Integration Initiative Board Chair",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260821392204/en/Leon-Stok-of-IBM-Reelected-Silicon-Integration-Initiative-Board-Chair/",
       "published": null
     },
     {
