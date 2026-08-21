@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-21T09:57:24.775695Z",
+  "generatedAt": "2026-08-21T10:23:57.417017Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:f5f8684202c7e5e7",
+      "titleEn": "Why is Samsung planning a record $80B payout after SK Hynix's giant buyback?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/21/why-is-samsung-planning-a-record-80b-payout-after-sk-hynixs-giant-buyback/",
+      "published": null
+    },
     {
       "id": "stockanalysis:d1d097cb7d5d2d35",
       "titleEn": "Should you buy Walmart stock after its 9% post-earnings drop?",
@@ -94,57 +103,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:58ac652299fec1c2",
-      "titleEn": "Unicharm Releases \"Integrated Report 2026\" and \"Sustainability Report 2026\" Highlighting Transformation of Growth Structure",
+      "id": "stockanalysis:7135137e05c503cd",
+      "titleEn": "Forbright Bank to Sell Branches and Local Deposits to Trustar Bank, Sharpening Focus on National Digital-First Growth",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821204304/en/Unicharm-Releases-Integrated-Report-2026-and-Sustainability-Report-2026-Highlighting-Transformation-of-Growth-Structure/",
+      "link": "https://www.businesswire.com/news/home/20260821842472/en/Forbright-Bank-to-Sell-Branches-and-Local-Deposits-to-Trustar-Bank-Sharpening-Focus-on-National-Digital-First-Growth/",
       "published": null
     },
     {
-      "id": "stockanalysis:51236352689706f5",
-      "titleEn": "Nidec Announces a Request by Shareholders to File an Action",
+      "id": "stockanalysis:08ceccf45b0957bf",
+      "titleEn": "58% of Consumers Say They Don't Care Whether a Product is a National Brand or Private Label. They Just Buy What They Need",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821331686/en/Nidec-Announces-a-Request-by-Shareholders-to-File-an-Action/",
+      "link": "https://www.businesswire.com/news/home/20260819950224/en/58-of-Consumers-Say-They-Dont-Care-Whether-a-Product-is-a-National-Brand-or-Private-Label.-They-Just-Buy-What-They-Need/",
       "published": null
     },
     {
-      "id": "stockanalysis:ce7915e343f8175d",
-      "titleEn": "Citi Appointed as Depositary Bank for Agilyx ASA's ADR Program",
+      "id": "stockanalysis:94e8588609a6667a",
+      "titleEn": "Trustar Bank Announces $750 Million Branch Acquisition from Forbright Bank",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821283027/en/Citi-Appointed-as-Depositary-Bank-for-Agilyx-ASAs-ADR-Program/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ff2de8d67125cd76",
-      "titleEn": "Hunting PLC (“Hunting” or “the Company” or “the Group”) Results for the Six Months Ended 30 June 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820414662/en/Hunting-PLC-%E2%80%9CHunting%E2%80%9D-or-%E2%80%9Cthe-Company%E2%80%9D-or-%E2%80%9Cthe-Group%E2%80%9D-Results-for-the-Six-Months-Ended-30-June-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ca07c6587d783888",
-      "titleEn": "Inter Pag Selects ACI Worldwide to Advance Intelligent Payments Orchestration in Brazil",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820417837/en/Inter-Pag-Selects-ACI-Worldwide-to-Advance-Intelligent-Payments-Orchestration-in-Brazil/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0bdb2794b6195612",
-      "titleEn": "Hafnia's Q2 2026 Financial Results Presentation to Be Held on 28 August 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820338990/en/Hafnia%E2%80%99s-Q2-2026-Financial-Results-Presentation-to-Be-Held-on-28-August-2026/",
+      "link": "https://www.businesswire.com/news/home/20260821322193/en/Trustar-Bank-Announces-750-Million-Branch-Acquisition-from-Forbright-Bank/",
       "published": null
     }
   ]
