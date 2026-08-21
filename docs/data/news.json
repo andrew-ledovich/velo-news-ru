@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-21T00:37:10.496022Z",
+  "generatedAt": "2026-08-21T02:11:20.630184Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:3b8d2469834a711d",
+      "titleEn": "Anthropic Aims for Largest-Ever IPO",
+      "summaryEn": "Anthropic expects its initial public offering to reach a record high, equaling or surpassing the one set by SpaceX , Bloomberg reported Thursday (Aug. 20), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); SpaceX achieved the biggest-ever first-time sale when it raised $75 billion at the outset, and it later increased that figure to $86.2 billion with an overallotment option, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-aims-for-largest-ever-ipo/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a9314b5333ad816f",
+      "titleEn": "Stripe and Ramp Are Betting on AI Traffic Controllers",
+      "summaryEn": "Stripe is known for processing payments. Ramp is known for managing corporate expenses. But this week, the two companies made almost identical moves: building the layer that decides which artificial intelligence (AI) model gets used. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Ramp launched Router.com on Wednesday (Aug. 19), opening up a tool it had run internally for three years. A company can connect an application programming interface (API) to Router instead of directly at OpenAI or Anthropic, and Router picks which model handles each request based on cost and whether that model is good enough for the job, Ramp said in its announcement. Internally, Router has cut Ramp’s own AI costs by about 30%, and the company said early customers are cutting costs by an average of 40%.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/stripe-and-ramp-are-betting-on-ai-traffic-controllers/",
+      "published": null
+    },
     {
       "id": "stockanalysis:e464566534725ab5",
       "titleEn": "Gold steadies, silver jumps as bond-market pressure hits equities - Kitco PM Report",
@@ -85,30 +103,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:215f0459d5f3fd09",
-      "titleEn": "Bessent's interventions amount to QE, and 'gold is the must-have asset' - ByteTree's Morris",
-      "summaryEn": "(Kitco News) – The U.S. government is effectively engaged in multiple major quantitative easing operations, and gold prices have moved higher as a result, with potential for plenty more gains ahead, according to Charlie Morris, CIO and founder of ByteTree. In the latest Atlas Pulse Gold Report, Morris said Treasury Secretary Scott Bessent’s new gambit of doubling the department’s purchases of long-dated Treasuries is an attempt to keep the government’s borrowing costs down. “Gold’s trend is improving,” he wrote. “We could be back above the 200-day moving average before you can spell S-T-A-G-F-L-A-T-I-O-N.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-20/bessents-interventions-amount-qe-and-gold-must-have-asset-bytetrees-morris",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:365c4d7dfbe88d4f",
-      "titleEn": "OpenAI and Anthropic Fuel California's Record-Setting Investment Surge",
-      "summaryEn": "California is reportedly seeing an historic wave of investment due to Silicon Valley’s artificial intelligence (AI) boom. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Companies there have taken in around $366 billion in venture capital this year, with just two artificial intelligence (AI) firms— OpenAI and Anthropic —accounting for half that total, The Wall Street Journal (WSJ) reported Thursday (Aug. 20), citing Pitchbook data.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/openai-and-anthropic-fuel-californias-record-setting-investment-surge/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:884f0a94220828a5",
-      "titleEn": "Moderna is paring back gains, but Merck stock remains a buy",
+      "id": "stockanalysis:00141e40fdc60820",
+      "titleEn": "S&amp;P Upgrades Agibank's Credit Rating to ‘brAA'",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/20/moderna-is-paring-back-gains-but-merck-stock-remains-a-buy/",
+      "link": "https://www.businesswire.com/news/home/20260820160437/en/SP-Upgrades-Agibank%E2%80%99s-Credit-Rating-to-%E2%80%98brAA%E2%80%99/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ccca1ba7c050f15f",
+      "titleEn": "UNITE HERE Launches GraduateFails.org About AJ Capital Partners and Graduate by Hilton Hotels",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820847450/en/UNITE-HERE-Launches-GraduateFails.org-About-AJ-Capital-Partners-and-Graduate-by-Hilton-Hotels/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8bc89d89758eef9e",
+      "titleEn": "BlackRock MuniAssets Fund, Inc. (MUA) Announces Results of its Over-Subscribed Rights Offering",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820532477/en/BlackRock-MuniAssets-Fund-Inc.-MUA-Announces-Results-of-its-Over-Subscribed-Rights-Offering/",
       "published": null
     },
     {
@@ -145,15 +163,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260821140577/en/AeroVironment-to-Establish-Industrial-Presence-in-Greece-Through-AV-Eagle/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6b1fb113e8c4e32e",
-      "titleEn": "CORRECTING and REPLACING Amid Declining Book Value, ACRES Commercial Realty Struggles to Sell REO Property Due to Labor Dispute with Philadelphia Hospitality Union UNITE HERE Local 274",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820427740/en/CORRECTING-and-REPLACING-Amid-Declining-Book-Value-ACRES-Commercial-Realty-Struggles-to-Sell-REO-Property-Due-to-Labor-Dispute-with-Philadelphia-Hospitality-Union-UNITE-HERE-Local-274/",
       "published": null
     }
   ]
