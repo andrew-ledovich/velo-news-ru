@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-21T05:54:15.664937Z",
+  "generatedAt": "2026-08-21T06:26:01.519613Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 18,
   "items": [
     {
       "id": "stockanalysis:ec2c022a95d177d9",
@@ -94,12 +94,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:6f873694f9ea5b40",
-      "titleEn": "Nvidia stock is wobbly ahead of earnings, but analysts still see up to 30% upside",
+      "id": "stockanalysis:ff2de8d67125cd76",
+      "titleEn": "Hunting PLC (“Hunting” or “the Company” or “the Group”) Results for the Six Months Ended 30 June 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/20/nvidia-stock-is-wobbly-ahead-of-earnings-but-analysts-still-see-up-to-30-upside/",
+      "link": "https://www.businesswire.com/news/home/20260820414662/en/Hunting-PLC-%E2%80%9CHunting%E2%80%9D-or-%E2%80%9Cthe-Company%E2%80%9D-or-%E2%80%9Cthe-Group%E2%80%9D-Results-for-the-Six-Months-Ended-30-June-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ca07c6587d783888",
+      "titleEn": "Inter Pag Selects ACI Worldwide to Advance Intelligent Payments Orchestration in Brazil",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820417837/en/Inter-Pag-Selects-ACI-Worldwide-to-Advance-Intelligent-Payments-Orchestration-in-Brazil/",
       "published": null
     },
     {
