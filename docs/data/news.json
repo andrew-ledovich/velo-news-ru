@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-21T20:40:29.660158Z",
+  "generatedAt": "2026-08-21T20:58:34.741912Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 15,
   "items": [
     {
       "id": "stockanalysis:9d0bc584c76550f3",
@@ -112,12 +112,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ee20043191a879a4",
-      "titleEn": "AEye Announces Inducement Grant to Chief Revenue Officer Under Nasdaq Listing Rule 5635(c)(4)",
+      "id": "stockanalysis:a222c41c388af120",
+      "titleEn": "Qnity to Present at the Goldman Sachs Communacopia and Technology Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821096299/en/AEye-Announces-Inducement-Grant-to-Chief-Revenue-Officer-Under-Nasdaq-Listing-Rule-5635-c-4/",
+      "link": "https://www.businesswire.com/news/home/20260821341481/en/Qnity-to-Present-at-the-Goldman-Sachs-Communacopia-and-Technology-Conference/",
       "published": null
     },
     {
@@ -127,6 +127,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260821667683/en/loanDepot-Inc.-Addresses-Notice-of-NYSE-Trading-Price-Non-Compliance/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:15d88c700ea815b6",
+      "titleEn": "Kairos Pharma Announces 1-for-7 Reverse Stock Split",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260821475354/en/Kairos-Pharma-Announces-1-for-7-Reverse-Stock-Split/",
       "published": null
     }
   ]
