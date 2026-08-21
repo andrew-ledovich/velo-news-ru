@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-21T20:13:09.686401Z",
+  "generatedAt": "2026-08-21T20:40:29.660158Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:9d0bc584c76550f3",
@@ -51,7 +51,7 @@
     {
       "id": "stockanalysis:a2f4d27edee02c2f",
       "titleEn": "Walmart Tap to Pay Rollout Begins Monday",
-      "summaryEn": null,
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The retailer will begin enabling tap to pay at select stores and clubs on Monday (Aug. 24) and plans to roll it out to all U.S. locations by the end of 2026 and to fuel stations by mid-2027, according to the release. “Tap to Pay gives customers and members another familiar and convenient way to pay at checkout using contactless payment methods,” Walmart said in the release. “Whether picking up groceries, gifts or everyday essentials, they can check out using eligible contactless card, phone or smartwatch.”",
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.pymnts.com/news/payment-methods/2026/walmart-tap-to-pay-rollout-begins-monday/",
@@ -112,30 +112,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:b488d66c7633c3d8",
-      "titleEn": "Crypto stocks MARA, COIN, Strive, MSTR rally as a bull run starts, but risks remain",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/21/crypto-stocks-mara-coin-strive-mstr-rally-as-a-bull-run-starts-but-risks-remain/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4c72423fff16c4d4",
-      "titleEn": "Molina Healthcare of Michigan Donates $85,000 to Support Two Organizations Addressing Hunger and Housing in Bay and Saginaw Counties",
+      "id": "stockanalysis:ee20043191a879a4",
+      "titleEn": "AEye Announces Inducement Grant to Chief Revenue Officer Under Nasdaq Listing Rule 5635(c)(4)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821327808/en/Molina-Healthcare-of-Michigan-Donates-85000-to-Support-Two-Organizations-Addressing-Hunger-and-Housing-in-Bay-and-Saginaw-Counties/",
+      "link": "https://www.businesswire.com/news/home/20260821096299/en/AEye-Announces-Inducement-Grant-to-Chief-Revenue-Officer-Under-Nasdaq-Listing-Rule-5635-c-4/",
       "published": null
     },
     {
-      "id": "stockanalysis:4aa3e800e2eb3b30",
-      "titleEn": "KBRA Publishes Ratings for Hildene Holding Company, LLC and Hildene Capital Management, LLC",
+      "id": "stockanalysis:aeced94d852bbc19",
+      "titleEn": "loanDepot, Inc. Addresses Notice of NYSE Trading Price Non-Compliance",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821239896/en/KBRA-Publishes-Ratings-for-Hildene-Holding-Company-LLC-and-Hildene-Capital-Management-LLC/",
+      "link": "https://www.businesswire.com/news/home/20260821667683/en/loanDepot-Inc.-Addresses-Notice-of-NYSE-Trading-Price-Non-Compliance/",
       "published": null
     }
   ]
