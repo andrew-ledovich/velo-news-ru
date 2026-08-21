@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-21T17:24:39.364701Z",
+  "generatedAt": "2026-08-21T17:52:56.810671Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:7d859ddb9e6ac6cd",
+      "titleEn": "SK Hynix stock gains even as Samsung announce bigger buyback: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/21/sk-hynix-stock-gains-even-as-samsung-announce-bigger-buyback-heres-why/",
+      "published": null
+    },
     {
       "id": "stockanalysis:a2f4d27edee02c2f",
       "titleEn": "Walmart Tap to Pay Rollout Begins Monday",
@@ -100,6 +109,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/21/why-is-samsung-planning-a-record-80b-payout-after-sk-hynixs-giant-buyback/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d7a50171daa32b1e",
+      "titleEn": "Main Management Announces the Launch of a 351 Exchange ETF",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.businesswire.com/news/home/20260820972882/en/Main-Management-Announces-the-Launch-of-a-351-Exchange-ETF/",
       "published": null
     },
     {
