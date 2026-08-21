@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-21T02:11:20.630184Z",
+  "generatedAt": "2026-08-21T03:14:06.123223Z",
   "sourceCount": 1,
   "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:185ba6db418837c3",
+      "titleEn": "Ross Posts 13% Sales Jump as Inflation Drives Shoppers to Off-Price Retailers",
+      "summaryEn": "Off-price retailer Ross Stores saw “robust” sales growth in the quarter ended Aug. 1 as both existing customers and new ones sought prices lower than those of mainstream retailers, CEO Jim Conroy said during a Thursday (Aug. 20) earnings call . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “We really want to be there for a customer that is battling higher gas prices and all the other inflation pressures that they have in their life,” Conroy said.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/retail/2026/ross-posts-13-sales-jump-as-inflation-drives-shoppers-to-off-price-retailers/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3b8d2469834a711d",
       "titleEn": "Anthropic Aims for Largest-Ever IPO",
@@ -91,15 +100,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/acquiring/2026/anthropic-backed-ode-acquires-casper-studios-to-expand-corporate-ai-deployments/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4a1ebc156679db59",
-      "titleEn": "Micron stock gains 2% today: here's why",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/20/micron-stock-gains-2-today-heres-why/",
       "published": null
     },
     {
