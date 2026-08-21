@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T05:22:03.779889Z",
+  "generatedAt": "2026-08-21T05:54:15.664937Z",
   "sourceCount": 1,
   "count": 17,
   "items": [
@@ -103,6 +103,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:0bdb2794b6195612",
+      "titleEn": "Hafnia's Q2 2026 Financial Results Presentation to Be Held on 28 August 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260820338990/en/Hafnia%E2%80%99s-Q2-2026-Financial-Results-Presentation-to-Be-Held-on-28-August-2026/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:00141e40fdc60820",
       "titleEn": "S&amp;P Upgrades Agibank's Credit Rating to ‘brAA'",
       "summaryEn": null,
@@ -145,15 +154,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260820200067/en/E3-Lithium-Releases-Q2-2026-Results-and-Advances-Key-Strategic-Milestones/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1835bacf1ea8b7ae",
-      "titleEn": "Avnet Increases Quarterly Dividend by 5.7%",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820351029/en/Avnet-Increases-Quarterly-Dividend-by-5.7/",
       "published": null
     }
   ]
