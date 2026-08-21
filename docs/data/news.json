@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-21T16:58:01.244181Z",
+  "generatedAt": "2026-08-21T17:24:39.364701Z",
   "sourceCount": 1,
   "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:a2f4d27edee02c2f",
+      "titleEn": "Walmart Tap to Pay Rollout Begins Monday",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The retailer will begin enabling tap to pay at select stores and clubs on Monday (Aug. 24) and plans to roll it out to all U.S. locations by the end of 2026 and to fuel stations by mid-2027, according to the release. “Tap to Pay gives customers and members another familiar and convenient way to pay at checkout using contactless payment methods,” Walmart said in the release. “Whether picking up groceries, gifts or everyday essentials, they can check out using eligible contactless card, phone or smartwatch.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/payment-methods/2026/walmart-tap-to-pay-rollout-begins-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:05317751d6540c33",
+      "titleEn": "Why Werewolf Therapeutics stock exploded higher and what comes next?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/21/why-werewolf-therapeutics-stock-exploded-higher-and-what-comes-next/",
+      "published": null
+    },
     {
       "id": "stockanalysis:a205cafe86e99e80",
       "titleEn": "Broadcom stock is rising today as AI financing and analyst optimism fuel rebound",
@@ -85,15 +103,6 @@
       "published": null
     },
     {
-      "id": "stockanalysis:d1d097cb7d5d2d35",
-      "titleEn": "Should you buy Walmart stock after its 9% post-earnings drop?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/21/should-you-buy-walmart-stock-after-its-9-post-earnings-drop/",
-      "published": null
-    },
-    {
       "id": "stockanalysis:2585c7afade968bb",
       "titleEn": "Church &amp; Dwight to Present at the 2026 Barclays Global Consumer Staples Conference",
       "summaryEn": null,
@@ -118,15 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260821888419/en/MGE-Energy-Increases-Dividend-for-51st-Consecutive-Year/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c8e12c3bfd81b60f",
-      "titleEn": "HPE Named a Leader in 2026 Gartner® Magic Quadrant™ for Enterprise Storage Platforms",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821914315/en/HPE-Named-a-Leader-in-2026-Gartner%C2%AE-Magic-Quadrant%E2%84%A2-for-Enterprise-Storage-Platforms/",
       "published": null
     }
   ]
