@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-21T11:16:03.195161Z",
+  "generatedAt": "2026-08-21T11:48:28.800198Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:38a6a48cef82c6f9",
@@ -60,7 +60,7 @@
     {
       "id": "stockanalysis:185ba6db418837c3",
       "titleEn": "Ross Posts 13% Sales Jump as Inflation Drives Shoppers to Off-Price Retailers",
-      "summaryEn": null,
+      "summaryEn": "Off-price retailer Ross Stores saw “robust” sales growth in the quarter ended Aug. 1 as both existing customers and new ones sought prices lower than those of mainstream retailers, CEO Jim Conroy said during a Thursday (Aug. 20) earnings call . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “We really want to be there for a customer that is battling higher gas prices and all the other inflation pressures that they have in their life,” Conroy said.",
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.pymnts.com/news/retail/2026/ross-posts-13-sales-jump-as-inflation-drives-shoppers-to-off-price-retailers/",
@@ -69,7 +69,7 @@
     {
       "id": "stockanalysis:3b8d2469834a711d",
       "titleEn": "Anthropic Aims for Largest-Ever IPO",
-      "summaryEn": null,
+      "summaryEn": "Anthropic expects its initial public offering to reach a record high, equaling or surpassing the one set by SpaceX , Bloomberg reported Thursday (Aug. 20), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); SpaceX achieved the biggest-ever first-time sale when it raised $75 billion at the outset, and it later increased that figure to $86.2 billion with an overallotment option, according to the report.",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-aims-for-largest-ever-ipo/",
@@ -78,7 +78,7 @@
     {
       "id": "stockanalysis:a9314b5333ad816f",
       "titleEn": "Stripe and Ramp Are Betting on AI Traffic Controllers",
-      "summaryEn": null,
+      "summaryEn": "Stripe is known for processing payments. Ramp is known for managing corporate expenses. But this week, the two companies made almost identical moves: building the layer that decides which artificial intelligence (AI) model gets used. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Ramp launched Router.com on Wednesday (Aug. 19), opening up a tool it had run internally for three years. A company can connect an application programming interface (API) to Router instead of directly at OpenAI or Anthropic, and Router picks which model handles each request based on cost and whether that model is good enough for the job, Ramp said in its announcement. Internally, Router has cut Ramp’s own AI costs by about 30%, and the company said early customers are cutting costs by an average of 40%.",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/stripe-and-ramp-are-betting-on-ai-traffic-controllers/",
@@ -94,21 +94,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:68b2911a6cdbf008",
-      "titleEn": "Anthropic Plans to Tweak Data Retention Rules After Enterprise Concerns",
+      "id": "stockanalysis:a72af94b1fbe017b",
+      "titleEn": "Docebo Inc. Announces Substantial Issuer Bid Price Increase and Extension",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-plans-to-tweak-data-retention-rules-after-enterprise-concerns/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:aaa49c09335587c1",
-      "titleEn": "Gold price headed 10 times higher, and that is \"inevitable,\" Thomas Kaplan says",
-      "summaryEn": "(Kitco News) - Electrum chairman sees gold reaching $30,000 to $50,000, calls the correction a \"1987 moment\" and warns governments may seize profitable mines .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } \"Seeing gold go up another tenfold from here, to me is not just likely, but inevitable,\" he told Kitco News on Thursday.",
-      "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-20/gold-price-headed-10-times-higher-and-inevitable-thomas-kaplan-says",
+      "link": "https://www.businesswire.com/news/home/20260821485842/en/Docebo-Inc.-Announces-Substantial-Issuer-Bid-Price-Increase-and-Extension/",
       "published": null
     },
     {
