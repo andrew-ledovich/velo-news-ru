@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-21T09:24:39.791291Z",
+  "generatedAt": "2026-08-21T09:57:24.775695Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:d1d097cb7d5d2d35",
+      "titleEn": "Should you buy Walmart stock after its 9% post-earnings drop?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/21/should-you-buy-walmart-stock-after-its-9-post-earnings-drop/",
+      "published": null
+    },
     {
       "id": "stockanalysis:2d8a039251f25bcc",
       "titleEn": "FTSE 100 powers ahead as mining giants surge while Europe struggles to keep up",
@@ -85,15 +94,6 @@
       "published": null
     },
     {
-      "id": "stockanalysis:2f800afdb3fb6cc2",
-      "titleEn": "Walmart, Target and Amazon Are Spending Billions to Reset the Shopper's Reference Price",
-      "summaryEn": "Walmart, Target and others are using tariff refunds to announce cuts or holds on prices, absorb costs and reinforce value perceptions. Years of inflation, constant promotions and digital comparison shopping have made shoppers less certain about what products “should” cost, pushing retailers to compete on price certainty, memorable value cues and fewer reasons to keep searching. Walmart is betting on everyday price credibility, Target on private label that resists direct comparison, and TJX on scarcity and discovery.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/retail/2026/walmart-target-and-amazon-are-spending-billions-to-reset-the-shoppers-reference-price/",
-      "published": null
-    },
-    {
       "id": "stockanalysis:58ac652299fec1c2",
       "titleEn": "Unicharm Releases \"Integrated Report 2026\" and \"Sustainability Report 2026\" Highlighting Transformation of Growth Structure",
       "summaryEn": null,
@@ -145,15 +145,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260820338990/en/Hafnia%E2%80%99s-Q2-2026-Financial-Results-Presentation-to-Be-Held-on-28-August-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:00141e40fdc60820",
-      "titleEn": "S&amp;P Upgrades Agibank's Credit Rating to ‘brAA'",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820160437/en/SP-Upgrades-Agibank%E2%80%99s-Credit-Rating-to-%E2%80%98brAA%E2%80%99/",
       "published": null
     }
   ]
