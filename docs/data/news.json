@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-21T23:37:16.639767Z",
+  "generatedAt": "2026-08-21T23:57:08.540580Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 16,
   "items": [
     {
       "id": "stockanalysis:d2cf8344d4793c68",
@@ -118,6 +118,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/21/marvell-stock-forecast-valuation-concerns-persist-ahead-of-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a314f3a037d1a99e",
+      "titleEn": "Canada Goose Presents the Fall/Winter 2026 Collection",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824300660/en/Canada-Goose-Presents-the-FallWinter-2026-Collection/",
       "published": null
     },
     {
