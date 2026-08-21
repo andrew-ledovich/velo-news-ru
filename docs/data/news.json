@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-21T03:14:06.123223Z",
+  "generatedAt": "2026-08-21T04:00:40.944789Z",
   "sourceCount": 1,
   "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:ec2c022a95d177d9",
+      "titleEn": "Why is Alibaba stock falling despite 45% cloud growth and booming AI demand?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/21/why-is-alibaba-stock-falling-despite-45-cloud-growth-and-booming-ai-demand/",
+      "published": null
+    },
     {
       "id": "stockanalysis:185ba6db418837c3",
       "titleEn": "Ross Posts 13% Sales Jump as Inflation Drives Shoppers to Off-Price Retailers",
@@ -91,15 +100,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/20/nvidia-stock-is-wobbly-ahead-of-earnings-but-analysts-still-see-up-to-30-upside/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:85c71351f85cf87d",
-      "titleEn": "Anthropic-Backed Ode Acquires Casper Studios to Expand Corporate AI Deployments",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Casper helps companies put Anthropic’s Claude to work inside the systems they already use. The company builds skills, connectors and context within Anthropic products to drive AI’s impact across an organization, according to the release. Ode’s acquisition of Casper will help Ode address additional opportunities for AI initiatives as it supports enterprises that are working to transform their business with AI, the release said.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/acquiring/2026/anthropic-backed-ode-acquires-casper-studios-to-expand-corporate-ai-deployments/",
       "published": null
     },
     {
