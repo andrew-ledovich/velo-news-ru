@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-21T15:22:20.961151Z",
+  "generatedAt": "2026-08-21T15:55:02.029710Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:e68cad9334a15206",
+      "titleEn": "Robinhood stock jumps 11% as BTC rally fuels crypto shares: Can HOOD hold the gains?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/21/robinhood-stock-jumps-11-as-btc-rally-fuels-crypto-shares-can-hood-hold-the-gains/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8e6cc8b339a490ce",
+      "titleEn": "Marvell stock forecast: valuation concerns persist ahead of earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/21/marvell-stock-forecast-valuation-concerns-persist-ahead-of-earnings/",
+      "published": null
+    },
     {
       "id": "stockanalysis:8d9464dd9f2df69b",
       "titleEn": "Spot gold holds above $4,585/oz as flash S&amp;P composite PMI improves to 56 in August",
@@ -76,39 +94,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ec2c022a95d177d9",
-      "titleEn": "Why is Alibaba stock falling despite 45% cloud growth and booming AI demand?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/21/why-is-alibaba-stock-falling-despite-45-cloud-growth-and-booming-ai-demand/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:78c91f603c7ee67d",
-      "titleEn": "Demodesk Cut Daily Prospect Research From Hours to Minutes with ZoomInfo",
+      "id": "stockanalysis:c8e12c3bfd81b60f",
+      "titleEn": "HPE Named a Leader in 2026 Gartner® Magic Quadrant™ for Enterprise Storage Platforms",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821773687/en/Demodesk-Cut-Daily-Prospect-Research-From-Hours-to-Minutes-with-ZoomInfo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6fc2effd598580d3",
-      "titleEn": "Cleveland-Cliffs Announces $1 Billion Middletown Works Investment to be Supported by $500 Million U.S. Department of Energy Award",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821699608/en/Cleveland-Cliffs-Announces-1-Billion-Middletown-Works-Investment-to-be-Supported-by-500-Million-U.S.-Department-of-Energy-Award/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:18e85d6a5707bdcb",
-      "titleEn": "BlueWhale Research Holds Lead Rejection Under 1% Across 45,000 Leads a Month with ZoomInfo",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821490397/en/BlueWhale-Research-Holds-Lead-Rejection-Under-1-Across-45000-Leads-a-Month-with-ZoomInfo/",
+      "link": "https://www.businesswire.com/news/home/20260821914315/en/HPE-Named-a-Leader-in-2026-Gartner%C2%AE-Magic-Quadrant%E2%84%A2-for-Enterprise-Storage-Platforms/",
       "published": null
     }
   ]
