@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-21T08:54:41.466826Z",
+  "generatedAt": "2026-08-21T09:24:39.791291Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 17,
   "items": [
     {
       "id": "stockanalysis:2d8a039251f25bcc",
@@ -94,12 +94,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1d9b75321becd441",
-      "titleEn": "CrowdStrike stock falls as CTO leaves to launch AI fund",
+      "id": "stockanalysis:58ac652299fec1c2",
+      "titleEn": "Unicharm Releases \"Integrated Report 2026\" and \"Sustainability Report 2026\" Highlighting Transformation of Growth Structure",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/20/crowdstrike-stock-falls-as-cto-leaves-to-launch-ai-fund/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260821204304/en/Unicharm-Releases-Integrated-Report-2026-and-Sustainability-Report-2026-Highlighting-Transformation-of-Growth-Structure/",
       "published": null
     },
     {
@@ -154,15 +154,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260820160437/en/SP-Upgrades-Agibank%E2%80%99s-Credit-Rating-to-%E2%80%98brAA%E2%80%99/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ccca1ba7c050f15f",
-      "titleEn": "UNITE HERE Launches GraduateFails.org About AJ Capital Partners and Graduate by Hilton Hotels",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820847450/en/UNITE-HERE-Launches-GraduateFails.org-About-AJ-Capital-Partners-and-Graduate-by-Hilton-Hotels/",
       "published": null
     }
   ]
