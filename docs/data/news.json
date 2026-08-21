@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-21T14:04:01.525016Z",
+  "generatedAt": "2026-08-21T14:51:16.786603Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:8d9464dd9f2df69b",
+      "titleEn": "Spot gold holds above $4,585/oz as flash S&amp;P composite PMI improves to 56 in August",
+      "summaryEn": "(Kitco News) - The gold market is holding its earlier gains after the latest U.S. data showed the services sector improving beyond expectations this month, while the manufacturing sector weakened slightly. S&P Global reported on Friday that its flash Composite Purchasing Managers Index (PMI) rose to 56.0 in August, up from July’s reading of 54.5. The number was above expectations, as economists had forecasted a reading of 53.2. “US business activity growth accelerated sharply for a second successive month in August to reach the fastest since April 2022,” the report noted. “A surge in service sector business activity helped offset a marked slowing of growth in the manufacturing sector, the latter blamed in part on reduced inventory building and supply delays. Supply times lengthened sharply again, and to one of the greatest extents seen over the past four years, contributing to a further build-up of uncompleted orders across both manufacturing and services.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-21/spot-gold-holds-above-4585oz-flash-sp-composite-pmi-improves-56-august",
+      "published": null
+    },
     {
       "id": "stockanalysis:b488d66c7633c3d8",
       "titleEn": "Crypto stocks MARA, COIN, Strive, MSTR rally as a bull run starts, but risks remain",
@@ -10,6 +19,15 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://invezz.com/news/2026/08/21/crypto-stocks-mara-coin-strive-mstr-rally-as-a-bull-run-starts-but-risks-remain/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5b32a2c37b62538e",
+      "titleEn": "Gold, silver extend breakout as U.S. dollar slides below 99 - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply higher in early U.S. trading Friday, as a weaker U.S. dollar, fading September Fed-hike expectations and U.S. fiscal concerns kept buyers in control of the precious-metals breakout. At the time of writing, spot gold was trading near $4,594.60 an ounce, up 1.69%, while spot silver was trading at $69.470, up 2.23% on the session. The latest positioning remains split between softer U.S. growth data and stubborn inflation risk from oil and long-end yields. Last week’s softer CPI, flat headline PPI, weak retail sales and weaker consumer sentiment lowered the market’s appetite to price another September rate hike, even as Thursday’s jobless claims and Philadelphia Fed survey showed no material break in labor or regional manufacturing momentum. Fed minutes released Wednesday showed several officials were prepared to raise rates if inflation fails to cool, but traders are still leaning toward a hold next month. The 10-year Treasury yield is trading near the 4.7% area, the 30-year yield is near the 5.25% area and the U.S. dollar index has slipped below 99.00. The next macro test is the flash U.S. PMI release at 9:45 a.m. ET. Gold and silver remain the standout cross-asset move. Gold has broken above the $4,447 support-turned-breakout level, cleared the $4,500 area and is now testing the $4,595 resistance region. Silver has moved through $66.55 and $68.02, pushing toward the next resistance at $69.48 while trading near its highest level of the week. The move is not simply a lower-yield trade: metals are rallying even with long-end yields elevated, suggesting fiscal-risk hedging, dollar weakness and geopolitical demand are offsetting the negative carry from higher rates.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-21/gold-silver-extend-breakout-us-dollar-slides-below-99-kitco-am-report",
       "published": null
     },
     {
@@ -85,39 +103,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:a9314b5333ad816f",
-      "titleEn": "Stripe and Ramp Are Betting on AI Traffic Controllers",
-      "summaryEn": "Stripe is known for processing payments. Ramp is known for managing corporate expenses. But this week, the two companies made almost identical moves: building the layer that decides which artificial intelligence (AI) model gets used. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Ramp launched Router.com on Wednesday (Aug. 19), opening up a tool it had run internally for three years. A company can connect an application programming interface (API) to Router instead of directly at OpenAI or Anthropic, and Router picks which model handles each request based on cost and whether that model is good enough for the job, Ramp said in its announcement. Internally, Router has cut Ramp’s own AI costs by about 30%, and the company said early customers are cutting costs by an average of 40%.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/stripe-and-ramp-are-betting-on-ai-traffic-controllers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:dce45d163c9b2df6",
-      "titleEn": "Scholar Rock Provides Update on Global Apitegromab Regulatory Progress Across U.S., Europe, and Japan",
+      "id": "stockanalysis:78c91f603c7ee67d",
+      "titleEn": "Demodesk Cut Daily Prospect Research From Hours to Minutes with ZoomInfo",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821050366/en/Scholar-Rock-Provides-Update-on-Global-Apitegromab-Regulatory-Progress-Across-U.S.-Europe-and-Japan/",
+      "link": "https://www.businesswire.com/news/home/20260821773687/en/Demodesk-Cut-Daily-Prospect-Research-From-Hours-to-Minutes-with-ZoomInfo/",
       "published": null
     },
     {
-      "id": "stockanalysis:f4aac42684b25fc6",
-      "titleEn": "SharkNinja Conjures Ninja SLUSHi Twist x Practical Magic 2 Collection",
+      "id": "stockanalysis:6fc2effd598580d3",
+      "titleEn": "Cleveland-Cliffs Announces $1 Billion Middletown Works Investment to be Supported by $500 Million U.S. Department of Energy Award",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821477595/en/SharkNinja-Conjures-Ninja-SLUSHi-Twist-x-Practical-Magic-2-Collection/",
+      "link": "https://www.businesswire.com/news/home/20260821699608/en/Cleveland-Cliffs-Announces-1-Billion-Middletown-Works-Investment-to-be-Supported-by-500-Million-U.S.-Department-of-Energy-Award/",
       "published": null
     },
     {
-      "id": "stockanalysis:22acbd0f87a5c0d9",
-      "titleEn": "Yatra Confirms Commencement of Unsolicited Partial Tender Offer by Magna Holdings Ltd.",
+      "id": "stockanalysis:18e85d6a5707bdcb",
+      "titleEn": "BlueWhale Research Holds Lead Rejection Under 1% Across 45,000 Leads a Month with ZoomInfo",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821468521/en/Yatra-Confirms-Commencement-of-Unsolicited-Partial-Tender-Offer-by-Magna-Holdings-Ltd./",
+      "link": "https://www.businesswire.com/news/home/20260821490397/en/BlueWhale-Research-Holds-Lead-Rejection-Under-1-Across-45000-Leads-a-Month-with-ZoomInfo/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:aadadff4f2a16f57",
+      "titleEn": "UBS Declares Quarterly Coupon Payment on Exchange Traded Note: AMUB",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260821562624/en/UBS-Declares-Quarterly-Coupon-Payment-on-Exchange-Traded-Note-AMUB/",
       "published": null
     }
   ]
