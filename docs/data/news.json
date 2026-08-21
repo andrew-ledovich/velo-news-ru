@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-21T18:20:44.399120Z",
+  "generatedAt": "2026-08-21T19:04:02.600082Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:8737a7d2402d9b04",
+      "titleEn": "SpaceX stock rises as Starlink nears 11,000 satellites in orbit",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/21/spacex-stock-rises-as-starlink-nears-11000-satellites-in-orbit/",
+      "published": null
+    },
     {
       "id": "stockanalysis:a9c7342d89ec994e",
       "titleEn": "Here's why the Bloom Energy stock is losing momentum despite its growth",
