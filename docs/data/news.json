@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-21T06:26:01.519613Z",
+  "generatedAt": "2026-08-21T07:15:43.232510Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 16,
   "items": [
     {
       "id": "stockanalysis:ec2c022a95d177d9",
@@ -85,12 +85,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:93e444d839f02e4f",
-      "titleEn": "Deere earnings: Cramer says buy DE shares - just not today",
+      "id": "stockanalysis:ce7915e343f8175d",
+      "titleEn": "Citi Appointed as Depositary Bank for Agilyx ASA's ADR Program",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/20/deere-earnings-cramer-says-buy-de-shares-just-not-today/",
+      "link": "https://www.businesswire.com/news/home/20260821283027/en/Citi-Appointed-as-Depositary-Bank-for-Agilyx-ASAs-ADR-Program/",
       "published": null
     },
     {
@@ -145,24 +145,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260820532477/en/BlackRock-MuniAssets-Fund-Inc.-MUA-Announces-Results-of-its-Over-Subscribed-Rights-Offering/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ce29c9a642175c0a",
-      "titleEn": "Faraday Future Presents at the 2026 J.P. Morgan Conference in New York; Investors Show Strong Interest in FF's EAI Robotics Strategy",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820619036/en/Faraday-Future-Presents-at-the-2026-J.P.-Morgan-Conference-in-New-York-Investors-Show-Strong-Interest-in-FFs-EAI-Robotics-Strategy/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b909b038b51585d0",
-      "titleEn": "E3 Lithium Releases Q2 2026 Results and Advances Key Strategic Milestones",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820200067/en/E3-Lithium-Releases-Q2-2026-Results-and-Advances-Key-Strategic-Milestones/",
       "published": null
     }
   ]
