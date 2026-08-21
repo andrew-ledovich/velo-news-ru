@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-21T21:45:00.900390Z",
+  "generatedAt": "2026-08-21T21:59:54.676757Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:0edce3bb1b9fad6f",
@@ -109,6 +109,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/21/marvell-stock-forecast-valuation-concerns-persist-ahead-of-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ac103216ad6fc3fa",
+      "titleEn": "East West Bancorp Announces Fall 2026 Conference Participation",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260821927193/en/East-West-Bancorp-Announces-Fall-2026-Conference-Participation/",
       "published": null
     },
     {
