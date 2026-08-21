@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-21T14:51:16.786603Z",
+  "generatedAt": "2026-08-21T15:22:20.961151Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:8d9464dd9f2df69b",
@@ -85,24 +85,6 @@
       "published": null
     },
     {
-      "id": "stockanalysis:185ba6db418837c3",
-      "titleEn": "Ross Posts 13% Sales Jump as Inflation Drives Shoppers to Off-Price Retailers",
-      "summaryEn": "Off-price retailer Ross Stores saw “robust” sales growth in the quarter ended Aug. 1 as both existing customers and new ones sought prices lower than those of mainstream retailers, CEO Jim Conroy said during a Thursday (Aug. 20) earnings call . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “We really want to be there for a customer that is battling higher gas prices and all the other inflation pressures that they have in their life,” Conroy said.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/retail/2026/ross-posts-13-sales-jump-as-inflation-drives-shoppers-to-off-price-retailers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3b8d2469834a711d",
-      "titleEn": "Anthropic Aims for Largest-Ever IPO",
-      "summaryEn": "Anthropic expects its initial public offering to reach a record high, equaling or surpassing the one set by SpaceX , Bloomberg reported Thursday (Aug. 20), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); SpaceX achieved the biggest-ever first-time sale when it raised $75 billion at the outset, and it later increased that figure to $86.2 billion with an overallotment option, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-aims-for-largest-ever-ipo/",
-      "published": null
-    },
-    {
       "id": "stockanalysis:78c91f603c7ee67d",
       "titleEn": "Demodesk Cut Daily Prospect Research From Hours to Minutes with ZoomInfo",
       "summaryEn": null,
@@ -127,15 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260821490397/en/BlueWhale-Research-Holds-Lead-Rejection-Under-1-Across-45000-Leads-a-Month-with-ZoomInfo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:aadadff4f2a16f57",
-      "titleEn": "UBS Declares Quarterly Coupon Payment on Exchange Traded Note: AMUB",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821562624/en/UBS-Declares-Quarterly-Coupon-Payment-on-Exchange-Traded-Note-AMUB/",
       "published": null
     }
   ]
