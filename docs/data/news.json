@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-21T10:23:57.417017Z",
+  "generatedAt": "2026-08-21T10:54:38.215057Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:f5f8684202c7e5e7",
@@ -100,33 +100,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-20/gold-price-headed-10-times-higher-and-inevitable-thomas-kaplan-says",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7135137e05c503cd",
-      "titleEn": "Forbright Bank to Sell Branches and Local Deposits to Trustar Bank, Sharpening Focus on National Digital-First Growth",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821842472/en/Forbright-Bank-to-Sell-Branches-and-Local-Deposits-to-Trustar-Bank-Sharpening-Focus-on-National-Digital-First-Growth/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:08ceccf45b0957bf",
-      "titleEn": "58% of Consumers Say They Don't Care Whether a Product is a National Brand or Private Label. They Just Buy What They Need",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819950224/en/58-of-Consumers-Say-They-Dont-Care-Whether-a-Product-is-a-National-Brand-or-Private-Label.-They-Just-Buy-What-They-Need/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:94e8588609a6667a",
-      "titleEn": "Trustar Bank Announces $750 Million Branch Acquisition from Forbright Bank",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821322193/en/Trustar-Bank-Announces-750-Million-Branch-Acquisition-from-Forbright-Bank/",
       "published": null
     }
   ]
