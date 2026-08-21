@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-21T07:15:43.232510Z",
+  "generatedAt": "2026-08-21T08:02:49.478098Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:69d684672daf5718",
+      "titleEn": "Micron stock to $2,000? Nvidia earnings could test Wall Street's boldest bet",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/21/micron-stock-to-2000-nvidia-earnings-could-test-wall-streets-boldest-bet/",
+      "published": null
+    },
     {
       "id": "stockanalysis:ec2c022a95d177d9",
       "titleEn": "Why is Alibaba stock falling despite 45% cloud growth and booming AI demand?",
