@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-22T10:57:21.782527Z",
+  "generatedAt": "2026-08-22T11:16:08.299660Z",
   "sourceCount": 1,
   "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:97e076140d80c931",
+      "titleEn": "What do Walmart's and Target's results say about the US consumer?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/22/what-do-walmarts-and-targets-results-say-about-the-us-consumer/",
+      "published": null
+    },
     {
       "id": "stockanalysis:fefca7ff563efb4a",
       "titleEn": "S&amp;P 500 record masks $1.5 trillion leverage trap beneath Wall Street's AI boom",
@@ -100,15 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/21/why-werewolf-therapeutics-stock-exploded-higher-and-what-comes-next/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a205cafe86e99e80",
-      "titleEn": "Broadcom stock is rising today as AI financing and analyst optimism fuel rebound",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/21/broadcom-stock-is-rising-today-as-ai-financing-and-analyst-optimism-fuel-rebound/",
       "published": null
     },
     {
