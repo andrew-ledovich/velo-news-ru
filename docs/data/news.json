@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-22T17:42:09.721900Z",
+  "generatedAt": "2026-08-22T17:57:23.543721Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:ea7f73d7c59116fd",
@@ -91,6 +91,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/21/spacex-stock-rises-as-starlink-nears-11000-satellites-in-orbit/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9bd6ec5f8b5bcb49",
+      "titleEn": "Halliburton Announces Dividend",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824571439/en/Halliburton-Announces-Dividend/",
       "published": null
     },
     {
