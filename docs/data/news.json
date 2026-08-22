@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-21T23:57:08.540580Z",
+  "generatedAt": "2026-08-22T00:53:57.138478Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:4b53c2707173e444",
+      "titleEn": "Fifth Third Backs Payload's Embedded Payments Expansion",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Payload was founded in late 2019, processed its first payment in January 2020 and processed nearly $500 million in May alone, according to the release. The company has become a leading processor of earnest money deposits for the residential real estate market in the United States and Canada; has been embraced by legal payments, professional services, property management, homebuilding and franchises; and has been selected by a growing number of software companies to be embedded in their products, the release said.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/fifth-third-backs-payloads-embedded-payments-expansion/",
+      "published": null
+    },
     {
       "id": "stockanalysis:d2cf8344d4793c68",
       "titleEn": "Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters bullish majority with Warsh, PCE in focus",
@@ -112,12 +121,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:8e6cc8b339a490ce",
-      "titleEn": "Marvell stock forecast: valuation concerns persist ahead of earnings",
+      "id": "stockanalysis:c92c3dcb3a742046",
+      "titleEn": "Rio Tinto celebrates 60 years in Western Australia",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/21/marvell-stock-forecast-valuation-concerns-persist-ahead-of-earnings/",
+      "link": "https://www.businesswire.com/news/home/20260821913616/en/Rio-Tinto-celebrates-60-years-in-Western-Australia/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5694c5b531718d6d",
+      "titleEn": "Zura Bio Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260821914570/en/Zura-Bio-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4/",
       "published": null
     },
     {
