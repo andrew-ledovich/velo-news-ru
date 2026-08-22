@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-22T03:53:21.761293Z",
+  "generatedAt": "2026-08-22T04:21:14.524880Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 15,
   "items": [
     {
       "id": "stockanalysis:4b53c2707173e444",
@@ -109,15 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/21/piper-sandler-cautions-against-buying-the-dip-in-applovin-stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e68cad9334a15206",
-      "titleEn": "Robinhood stock jumps 11% as BTC rally fuels crypto shares: Can HOOD hold the gains?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/21/robinhood-stock-jumps-11-as-btc-rally-fuels-crypto-shares-can-hood-hold-the-gains/",
       "published": null
     },
     {
