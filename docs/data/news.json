@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-22T10:14:14.144666Z",
+  "generatedAt": "2026-08-22T10:40:13.359040Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:fefca7ff563efb4a",
+      "titleEn": "S&amp;P 500 record masks $1.5 trillion leverage trap beneath Wall Street's AI boom",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/22/sp-500-record-masks-1-5-trillion-leverage-trap-beneath-wall-streets-ai-boom/",
+      "published": null
+    },
     {
       "id": "stockanalysis:4b53c2707173e444",
       "titleEn": "Fifth Third Backs Payload's Embedded Payments Expansion",
