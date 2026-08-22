@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-22T15:18:19.693430Z",
+  "generatedAt": "2026-08-22T15:41:57.188999Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 15,
   "items": [
     {
       "id": "stockanalysis:ea7f73d7c59116fd",
@@ -100,6 +100,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/21/heres-why-the-bloom-energy-stock-is-losing-momentum-despite-its-growth/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7d859ddb9e6ac6cd",
+      "titleEn": "SK Hynix stock gains even as Samsung announce bigger buyback: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/21/sk-hynix-stock-gains-even-as-samsung-announce-bigger-buyback-heres-why/",
       "published": null
     },
     {
