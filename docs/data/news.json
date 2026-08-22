@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-22T16:12:34.224124Z",
+  "generatedAt": "2026-08-22T16:38:58.309249Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:ea7f73d7c59116fd",
@@ -103,12 +103,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:7d859ddb9e6ac6cd",
-      "titleEn": "SK Hynix stock gains even as Samsung announce bigger buyback: here's why",
+      "id": "stockanalysis:9540fec1634b3236",
+      "titleEn": "GOF Investors Have Opportunity to Join Guggenheim Strategic Opportunities Fund Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/21/sk-hynix-stock-gains-even-as-samsung-announce-bigger-buyback-heres-why/",
+      "link": "https://www.businesswire.com/news/home/20260822581229/en/GOF-Investors-Have-Opportunity-to-Join-Guggenheim-Strategic-Opportunities-Fund-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
@@ -127,15 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260821914570/en/Zura-Bio-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a314f3a037d1a99e",
-      "titleEn": "Canada Goose Presents the Fall/Winter 2026 Collection",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824300660/en/Canada-Goose-Presents-the-FallWinter-2026-Collection/",
       "published": null
     }
   ]
