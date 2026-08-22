@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-22T14:16:07.327029Z",
+  "generatedAt": "2026-08-22T14:43:57.517495Z",
   "sourceCount": 1,
   "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:ea7f73d7c59116fd",
+      "titleEn": "Uber fined nearly $1 billion by Dutch regulators over automated suspensions of driver accounts",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Dutch data protection authorities have fined Uber nearly $1 billion, saying the ride-hailing company used automated software to suspend driver accounts, sometimes permanently, with no human review to check for mistakes. The Dutch Data Protection Authority said Friday it is imposing a fine of 825 million euros ($964 million) because Uber violated the EU's General Data Protection Regulation. The EU's data privacy rules prohibit fully automated decision-making.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-08-uber-fined-billion-dutch-automated.html",
+      "published": null
+    },
     {
       "id": "stockanalysis:341421f59d77a981",
       "titleEn": "Can Bumble, Tinder make a comeback as users leave apps",
@@ -100,15 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/21/sk-hynix-stock-gains-even-as-samsung-announce-bigger-buyback-heres-why/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a2f4d27edee02c2f",
-      "titleEn": "Walmart Tap to Pay Rollout Begins Monday",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The retailer will begin enabling tap to pay at select stores and clubs on Monday (Aug. 24) and plans to roll it out to all U.S. locations by the end of 2026 and to fuel stations by mid-2027, according to the release. “Tap to Pay gives customers and members another familiar and convenient way to pay at checkout using contactless payment methods,” Walmart said in the release. “Whether picking up groceries, gifts or everyday essentials, they can check out using eligible contactless card, phone or smartwatch.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/payment-methods/2026/walmart-tap-to-pay-rollout-begins-monday/",
       "published": null
     },
     {
