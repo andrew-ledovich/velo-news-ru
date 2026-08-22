@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-22T09:56:17.460694Z",
+  "generatedAt": "2026-08-22T10:14:14.144666Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:4b53c2707173e444",
@@ -100,15 +100,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/08/21/broadcom-stock-is-rising-today-as-ai-financing-and-analyst-optimism-fuel-rebound/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:61dc70ea886c9cc1",
-      "titleEn": "Piper Sandler cautions against buying the dip in AppLovin stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/21/piper-sandler-cautions-against-buying-the-dip-in-applovin-stock/",
       "published": null
     },
     {
