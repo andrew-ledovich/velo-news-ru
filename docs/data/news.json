@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-22T11:16:08.299660Z",
+  "generatedAt": "2026-08-22T11:41:34.929419Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:341421f59d77a981",
+      "titleEn": "Can Bumble, Tinder make a comeback as users leave apps",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/22/can-bumble-tinder-make-a-comeback-as-more-users-leave-apps/",
+      "published": null
+    },
     {
       "id": "stockanalysis:97e076140d80c931",
       "titleEn": "What do Walmart's and Target's results say about the US consumer?",
