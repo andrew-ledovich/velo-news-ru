@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-23T17:00:32.632885Z",
+  "generatedAt": "2026-08-23T17:31:53.925202Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "id": "stockanalysis:b8724e8af72b1766",
@@ -67,12 +67,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:0edce3bb1b9fad6f",
-      "titleEn": "Gold, silver extend rally as dollar slide offsets higher yields - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in late-afternoon U.S. trading Friday, as a weaker U.S. dollar, fiscal-risk hedging and continued Strait of Hormuz uncertainty kept buyers in precious metals despite another session of elevated Treasury yields. At the time of writing, spot gold was trading near $4,602.99 an ounce, up 1.86%, while spot silver was trading at $68.970, up 1.29% on the session. North American equity markets closed higher, trimming losses from a volatile week. The S&P 500 rose 33.21 points, or 0.4%, to 7,674.37, the Dow Jones Industrial Average gained 517.80 points, or 1.0%, to 53,277.01, the Nasdaq Composite added 113.29 points, or 0.4%, to 26,180.45, and the Russell 2000 rose 25.44 points, or 0.9%, to 3,017.87. European markets also finished higher, with the pan-European STOXX 600 up 0.59% to 654.18, supported by a 2.5% gain in basic resources as the softer dollar lifted gold and mining shares. The latest positioning remains defined by the gap between stronger near-term activity data and a weaker dollar, lower Fed-hike conviction and fiscal anxiety. The U.S. flash composite PMI rose to 56.0 in August, its strongest reading in more than 4 years , led by a services reading of 56.8, while manufacturing slipped to a five-month low at 53.2. Treasury yields stayed elevated, with the 10-year yield near the 4.7% area and the 30-year yield near the 5.3% area, as investors looked through the Treasury’s long-dated buyback plan and kept pressure on the long end. Fed minutes this week showed several officials were still prepared to raise rates if inflation does not cool, but market pricing continues to lean toward a September hold. Gold has held the breakout because the dollar has fallen below 99.00, fiscal concerns remain front and center and next week’s July PCE inflation report and Fed Chair Kevin Warsh’s Jackson Hole remarks now carry the next major policy signal.",
+      "id": "stockanalysis:cacf12c19f8c9a99",
+      "titleEn": "BANC Investors Have Opportunity to Join Banc of California, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-21/gold-silver-extend-rally-dollar-slide-offsets-higher-yields-kitco-pm-report",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260823585786/en/BANC-Investors-Have-Opportunity-to-Join-Banc-of-California-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:33e0b66194ffbc95",
+      "titleEn": "SSTK Investors Have Opportunity to Join Shutterstock, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260823238691/en/SSTK-Investors-Have-Opportunity-to-Join-Shutterstock-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:05bba2cda5a097f5",
+      "titleEn": "ESYJY Investors Have Opportunity to Join easyJet plc Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260823207480/en/ESYJY-Investors-Have-Opportunity-to-Join-easyJet-plc-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
