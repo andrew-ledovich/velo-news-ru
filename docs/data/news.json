@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-23T10:12:18.047354Z",
+  "generatedAt": "2026-08-23T10:38:21.433664Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:b8724e8af72b1766",
@@ -73,15 +73,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-08-21/gold-silver-extend-rally-dollar-slide-offsets-higher-yields-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9d0bc584c76550f3",
-      "titleEn": "Gold looks to PCE inflation, Jackson Hole for direction next week",
-      "summaryEn": "(Kitco News) – Gold and silver head into the coming week with investors focused on inflation, economic growth and Federal Reserve policy, as July PCE data and Fed Chair Kevin Warsh&#x27;s Jackson Hole speech could drive volatility across precious metals markets. Bullion prices rallied sharply this week as a weaker U.S. dollar, fading expectations for a September Fed rate hike and concerns over the U.S. fiscal outlook supported precious metals. The yellow metal broke above $4,500 an ounce following Wednesday&#x27;s Treasury buyback announcement and traded above $4,600 on Friday afternoon, while silver held above $69 an ounce and touched the $70 level. The coming week&#x27;s economic calendar will offer fresh readings on consumer confidence, housing, inflation and economic growth, while Friday&#x27;s Jackson Hole speech could provide the clearest indication of how new Fed Chair Warsh is weighing persistent inflation against recent signs of weakness in the labor market.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-21/gold-looks-pce-inflation-jackson-hole-direction-next-week",
       "published": null
     },
     {
