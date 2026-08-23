@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-23T04:49:24.311584Z",
+  "generatedAt": "2026-08-23T05:18:55.125196Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:b8724e8af72b1766",
+      "titleEn": "Nvidia stock in focus as earnings loom and GPU price hikes approach",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/23/nvidia-stock-in-focus-as-earnings-loom-and-gpu-price-hikes-approach/",
+      "published": null
+    },
     {
       "id": "stockanalysis:ea7f73d7c59116fd",
       "titleEn": "Uber fined nearly $1 billion by Dutch regulators over automated suspensions of driver accounts",
