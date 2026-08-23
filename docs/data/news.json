@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-23T18:47:27.767946Z",
+  "generatedAt": "2026-08-23T19:14:23.252750Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 21,
   "items": [
     {
       "id": "stockanalysis:b8724e8af72b1766",
@@ -64,6 +64,24 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-21/wall-street-bereft-bears-after-gold-smashes-4600oz-main-street-bolsters",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8fd839e5fa3e2d5a",
+      "titleEn": "PEGA Investors Have Opportunity to Join Pegasystems Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260823238745/en/PEGA-Investors-Have-Opportunity-to-Join-Pegasystems-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2f1a63602d583fe4",
+      "titleEn": "LEE Investors Have Opportunity to Join Lee Enterprises, Incorporated Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260823906661/en/LEE-Investors-Have-Opportunity-to-Join-Lee-Enterprises-Incorporated-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
@@ -172,15 +190,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260822773425/en/ComEd-Debuts-Mobile-Assistance-Unit-at-Waukegan-Resource-Fair-Bringing-On-Site-Bill-Help-Directly-to-Customers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8cf03a576e6c7f7c",
-      "titleEn": "ComEd Sending More Than 60 Employees to Assist NIPSCO with Restoration Work",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260822530649/en/ComEd-Sending-More-Than-60-Employees-to-Assist-NIPSCO-with-Restoration-Work/",
       "published": null
     }
   ]
