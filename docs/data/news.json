@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-23T16:14:26.252452Z",
+  "generatedAt": "2026-08-23T16:43:16.031174Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 18,
   "items": [
     {
       "id": "stockanalysis:b8724e8af72b1766",
@@ -73,6 +73,15 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-08-21/gold-silver-extend-rally-dollar-slide-offsets-higher-yields-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:136a0ca06ab7de5a",
+      "titleEn": "Alibaba Group Announced Pricing of HK$80 Billion Placing of New Shares in Hong Kong",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260823451395/en/Alibaba-Group-Announced-Pricing-of-HK80-Billion-Placing-of-New-Shares-in-Hong-Kong/",
       "published": null
     },
     {
