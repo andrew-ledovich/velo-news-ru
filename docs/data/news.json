@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-23T15:34:24.043365Z",
+  "generatedAt": "2026-08-23T15:55:53.253474Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 17,
   "items": [
     {
       "id": "stockanalysis:b8724e8af72b1766",
@@ -73,6 +73,15 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-08-21/gold-silver-extend-rally-dollar-slide-offsets-higher-yields-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:57f0171c801d9706",
+      "titleEn": "ITGR Investors Have Opportunity to Join Integer Holdings Corporation Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260823711418/en/ITGR-Investors-Have-Opportunity-to-Join-Integer-Holdings-Corporation-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
