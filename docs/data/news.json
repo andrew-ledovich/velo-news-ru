@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-23T13:59:23.240079Z",
+  "generatedAt": "2026-08-23T14:22:52.967860Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 15,
   "items": [
     {
       "id": "stockanalysis:b8724e8af72b1766",
@@ -73,6 +73,15 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-08-21/gold-silver-extend-rally-dollar-slide-offsets-higher-yields-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3730b861bca6fdbf",
+      "titleEn": "LINC Investors Have Opportunity to Join Lincoln Educational Services Corporation Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260823824514/en/LINC-Investors-Have-Opportunity-to-Join-Lincoln-Educational-Services-Corporation-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
