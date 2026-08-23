@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-23T04:00:39.377244Z",
+  "generatedAt": "2026-08-23T04:49:24.311584Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:ea7f73d7c59116fd",
@@ -76,12 +76,39 @@
       "published": null
     },
     {
+      "id": "stockanalysis:faac88ca99ddf7af",
+      "titleEn": "Alibaba Group Announced Proposed Placing of New Shares in Hong Kong",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260822562469/en/Alibaba-Group-Announced-Proposed-Placing-of-New-Shares-in-Hong-Kong/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:5b7b155e04a08993",
       "titleEn": "SUJA Investors Have Opportunity to Join Suja Life, Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260822883291/en/SUJA-Investors-Have-Opportunity-to-Join-Suja-Life-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:08aa5c43212def04",
+      "titleEn": "ComEd Debuts Mobile Assistance Unit at Waukegan Resource Fair, Bringing On-Site Bill Help Directly to Customers",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260822773425/en/ComEd-Debuts-Mobile-Assistance-Unit-at-Waukegan-Resource-Fair-Bringing-On-Site-Bill-Help-Directly-to-Customers/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8cf03a576e6c7f7c",
+      "titleEn": "ComEd Sending More Than 60 Employees to Assist NIPSCO with Restoration Work",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260822530649/en/ComEd-Sending-More-Than-60-Employees-to-Assist-NIPSCO-with-Restoration-Work/",
       "published": null
     },
     {
@@ -100,15 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260822581229/en/GOF-Investors-Have-Opportunity-to-Join-Guggenheim-Strategic-Opportunities-Fund-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c92c3dcb3a742046",
-      "titleEn": "Rio Tinto celebrates 60 years in Western Australia",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821913616/en/Rio-Tinto-celebrates-60-years-in-Western-Australia/",
       "published": null
     }
   ]
