@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T18:12:40.533632Z",
+  "generatedAt": "2026-08-23T18:47:27.767946Z",
   "sourceCount": 1,
   "count": 20,
   "items": [
@@ -64,6 +64,24 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-21/wall-street-bereft-bears-after-gold-smashes-4600oz-main-street-bolsters",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b5350c12494315fd",
+      "titleEn": "INV Investors Have Opportunity to Join Innventure, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260823854102/en/INV-Investors-Have-Opportunity-to-Join-Innventure-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:84501e9216c5be12",
+      "titleEn": "MELI Investors Have Opportunity to Join MercadoLibre, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260823302111/en/MELI-Investors-Have-Opportunity-to-Join-MercadoLibre-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
@@ -163,24 +181,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260822530649/en/ComEd-Sending-More-Than-60-Employees-to-Assist-NIPSCO-with-Restoration-Work/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9bd6ec5f8b5bcb49",
-      "titleEn": "Halliburton Announces Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824571439/en/Halliburton-Announces-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9540fec1634b3236",
-      "titleEn": "GOF Investors Have Opportunity to Join Guggenheim Strategic Opportunities Fund Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260822581229/en/GOF-Investors-Have-Opportunity-to-Join-Guggenheim-Strategic-Opportunities-Fund-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
