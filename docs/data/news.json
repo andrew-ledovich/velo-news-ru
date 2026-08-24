@@ -1,17 +1,8 @@
 {
-  "generatedAt": "2026-08-24T20:45:14.084565Z",
+  "generatedAt": "2026-08-24T21:18:08.465336Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 16,
   "items": [
-    {
-      "id": "stockanalysis:897c37e9cf49a796",
-      "titleEn": "Dow rises as tech stocks drag S&amp;P 500 lower ahead of Nvidia results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/24/dow-rises-as-tech-stocks-drag-sp-500-lower-ahead-of-nvidia-results/",
-      "published": null
-    },
     {
       "id": "stockanalysis:ff689ed3c11ad527",
       "titleEn": "BofA survey says gold is undervalued as bullish speculative interest picks up",
@@ -139,39 +130,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:f5b00f290d190bd7",
-      "titleEn": "KBRA Assigns Preliminary Ratings to VISTA 2026-MF19",
+      "id": "stockanalysis:7346be1871608b54",
+      "titleEn": "Fifth Third Bancorp to Participate in the Barclays Global Financial Services Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824820787/en/KBRA-Assigns-Preliminary-Ratings-to-VISTA-2026-MF19/",
+      "link": "https://www.businesswire.com/news/home/20260824521174/en/Fifth-Third-Bancorp-to-Participate-in-the-Barclays-Global-Financial-Services-Conference/",
       "published": null
     },
     {
-      "id": "stockanalysis:6c09ea7fff1d58c4",
-      "titleEn": "Ellington Financial Announces Estimated Book Value Per Common Share as of July 31, 2026",
+      "id": "stockanalysis:99c6503bab89b995",
+      "titleEn": "Slate Grocery REIT Announces Distribution for the Month of August 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824156455/en/Ellington-Financial-Announces-Estimated-Book-Value-Per-Common-Share-as-of-July-31-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:75ff63d3ee986f39",
-      "titleEn": "Murphy Oil Corporation Announces New Chief Legal Officer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824803697/en/Murphy-Oil-Corporation-Announces-New-Chief-Legal-Officer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:50de6cb7b90ff7c2",
-      "titleEn": "Ritchie Bros. Launches Redesigned Mobile App to Deepen Buyer Engagement and Drive Marketplace Participation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824700093/en/Ritchie-Bros.-Launches-Redesigned-Mobile-App-to-Deepen-Buyer-Engagement-and-Drive-Marketplace-Participation/",
+      "link": "https://www.businesswire.com/news/home/20260824278230/en/Slate-Grocery-REIT-Announces-Distribution-for-the-Month-of-August-2026/",
       "published": null
     }
   ]
