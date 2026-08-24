@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-24T05:35:51.153694Z",
+  "generatedAt": "2026-08-24T06:07:44.004162Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:568b8113311737a9",
@@ -118,24 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260823585786/en/BANC-Investors-Have-Opportunity-to-Join-Banc-of-California-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:33e0b66194ffbc95",
-      "titleEn": "SSTK Investors Have Opportunity to Join Shutterstock, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260823238691/en/SSTK-Investors-Have-Opportunity-to-Join-Shutterstock-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:05bba2cda5a097f5",
-      "titleEn": "ESYJY Investors Have Opportunity to Join easyJet plc Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260823207480/en/ESYJY-Investors-Have-Opportunity-to-Join-easyJet-plc-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
