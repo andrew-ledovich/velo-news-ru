@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-24T19:40:22.742969Z",
+  "generatedAt": "2026-08-24T20:00:09.961494Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:ff689ed3c11ad527",
+      "titleEn": "BofA survey says gold is undervalued as bullish speculative interest picks up",
+      "summaryEn": "(Kitco News) - For the third consecutive week, speculative investors increased their bullish bets on gold , in part due to growing uncertainty surrounding the sustainability of U.S. government debt, reigniting the debasement trade. Although bullish speculative positioning has reached its highest level so far this year, sentiment remains below where it was 12 months ago and substantially lower compared to the start of the year. The CFTC&#x27;s disaggregated Commitments of Traders report for the week ending Aug. 18 showed money managers increased their speculative gross long positions in Comex gold futures by 5,961 contracts to 154,595. At the same time, short positions increased by 1,975 contracts to 12,947.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-24/bofa-survey-says-gold-undervalued-bullish-speculative-interest-picks",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d13b20f76e781e61",
+      "titleEn": "Gold's price rally will depend on sustained investment demand, Fed inflation response – ING's Manthey",
+      "summaryEn": "(Kitco News) – Gold prices are surging on the back of renewed investment demand and growing worry about the U.S. fiscal outlook, but sticky inflation and the prospect of Fed rate hikes mean the path higher is unlikely to be a straight one, according to Ewa Manthey, Commodities Strategist at ING. In her latest analysis, Manthey said that fiscal risks have given gold fresh momentum, driving prices above $4,600 per ounce. “The latest move followed the US Treasury’s decision to increase its purchases of longer-dated government debt,” she wrote. “The maximum size of buyback operations in the 10-to-30-year segment will rise from $2bn to at least $4bn, with Treasury Secretary Scott Bessent signalling that the programme could be expanded further.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-24/golds-price-rally-will-depend-sustained-investment-demand-fed-inflation",
+      "published": null
+    },
     {
       "id": "stockanalysis:5212bcfd40a2a091",
       "titleEn": "Can Nvidia's AI financing strategy be a boon for NVDA stock? This analyst says yes",
@@ -154,33 +172,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260824749872/en/Albany-Engineered-Composites-to-Showcase-Advanced-Composite-Solutions-at-CAMX-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:aa51ae5eb06a9169",
-      "titleEn": "United Bankshares Declares Third Quarter Dividend and Announces New Stock Repurchase Program",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824105013/en/United-Bankshares-Declares-Third-Quarter-Dividend-and-Announces-New-Stock-Repurchase-Program/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:89652c85ca5fdf85",
-      "titleEn": "Guardant Health to Appeal Federal District Court Judgment",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824854156/en/Guardant-Health-to-Appeal-Federal-District-Court-Judgment/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3ef349d8bc7a4b8f",
-      "titleEn": "Teradyne Declares Quarterly Cash Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824191384/en/Teradyne-Declares-Quarterly-Cash-Dividend/",
       "published": null
     }
   ]
