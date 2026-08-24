@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-24T20:00:09.961494Z",
+  "generatedAt": "2026-08-24T20:45:14.084565Z",
   "sourceCount": 1,
   "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:897c37e9cf49a796",
+      "titleEn": "Dow rises as tech stocks drag S&amp;P 500 lower ahead of Nvidia results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/24/dow-rises-as-tech-stocks-drag-sp-500-lower-ahead-of-nvidia-results/",
+      "published": null
+    },
     {
       "id": "stockanalysis:ff689ed3c11ad527",
       "titleEn": "BofA survey says gold is undervalued as bullish speculative interest picks up",
@@ -130,48 +139,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5caf95d1b0acb121",
-      "titleEn": "Why Nvidia stock is slipping over 2% on Monday",
+      "id": "stockanalysis:f5b00f290d190bd7",
+      "titleEn": "KBRA Assigns Preliminary Ratings to VISTA 2026-MF19",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/24/why-nvidia-stock-is-slipping-over-2-on-monday/",
+      "link": "https://www.businesswire.com/news/home/20260824820787/en/KBRA-Assigns-Preliminary-Ratings-to-VISTA-2026-MF19/",
       "published": null
     },
     {
-      "id": "stockanalysis:9c498f4cb355fecf",
-      "titleEn": "Gold rallies after Treasury buyback plan lowers long yields, India silver imports rebound under new regime – Heraeus",
-      "summaryEn": "(Kitco News) – Gold and silver are enjoying resurgent demand following the U.S. Treasury Department’s latest intervention in the bond market, while the appetite for the metals in Asia continues to rise, according to precious metals analysts at Heraeus. In their latest update, the analysts noted that gold prices rallied through resistance to reach their highest levels since early June last week. “Gold prices topped $4,600/oz on 21 August as prices once again moved higher after a couple of weeks of consolidation,” they wrote. “This mirrors the early-August rally where gold prices rose around 7%, after having spent the whole of July in a tight range near their yearly lows around $4,000/oz.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-24/gold-rallies-after-treasury-buyback-plan-lowers-long-yields-india-silver",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9f0c4f580658ef9b",
-      "titleEn": "Cushman &amp; Wakefield Strengthens Capital Markets Platform with Addition of Loan Restructuring Expert Steve Klein",
+      "id": "stockanalysis:6c09ea7fff1d58c4",
+      "titleEn": "Ellington Financial Announces Estimated Book Value Per Common Share as of July 31, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824346285/en/Cushman-Wakefield-Strengthens-Capital-Markets-Platform-with-Addition-of-Loan-Restructuring-Expert-Steve-Klein/",
+      "link": "https://www.businesswire.com/news/home/20260824156455/en/Ellington-Financial-Announces-Estimated-Book-Value-Per-Common-Share-as-of-July-31-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:18aa393c130a9834",
-      "titleEn": "Welcome Home, Boston: JetBlue to Open Second BlueHouse™ Lounge, Adds New Access for Mint® Customers",
+      "id": "stockanalysis:75ff63d3ee986f39",
+      "titleEn": "Murphy Oil Corporation Announces New Chief Legal Officer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824290044/en/Welcome-Home-Boston-JetBlue-to-Open-Second-BlueHouse%E2%84%A2-Lounge-Adds-New-Access-for-Mint%C2%AE-Customers/",
+      "link": "https://www.businesswire.com/news/home/20260824803697/en/Murphy-Oil-Corporation-Announces-New-Chief-Legal-Officer/",
       "published": null
     },
     {
-      "id": "stockanalysis:20aaea21035cd89d",
-      "titleEn": "Albany Engineered Composites to Showcase Advanced Composite Solutions at CAMX 2026",
+      "id": "stockanalysis:50de6cb7b90ff7c2",
+      "titleEn": "Ritchie Bros. Launches Redesigned Mobile App to Deepen Buyer Engagement and Drive Marketplace Participation",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824749872/en/Albany-Engineered-Composites-to-Showcase-Advanced-Composite-Solutions-at-CAMX-2026/",
+      "link": "https://www.businesswire.com/news/home/20260824700093/en/Ritchie-Bros.-Launches-Redesigned-Mobile-App-to-Deepen-Buyer-Engagement-and-Drive-Marketplace-Participation/",
       "published": null
     }
   ]
