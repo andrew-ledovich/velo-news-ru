@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-24T12:23:37.110675Z",
+  "generatedAt": "2026-08-24T13:28:05.365646Z",
   "sourceCount": 1,
   "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:b4d3b20a1e8b33ba",
+      "titleEn": "CoreWeave stock falls 3%, why this analyst sees 88% upside for the stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/24/coreweave-stock-falls-3-why-this-analyst-sees-88-upside-for-the-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3453a6e9c776d9e0",
+      "titleEn": "Gold nears $4,660 as PCE, Jackson Hole frame Fed trade - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Monday, as a weaker U.S. dollar, fiscal-risk hedging and lingering Strait of Hormuz uncertainty kept buyers active despite still-elevated Treasury yields. At the time of writing, spot gold was trading near $4,657.10 an ounce, up 1.19%, while spot silver was trading at $69.160, up 0.43% on the session. The latest positioning remains defined by the gap between softer recent U.S. inflation data and still-firm activity signals. Last week’s flash composite PMI rose to 56.0 in August , its strongest reading in more than 4 years, with services at 56.8 and manufacturing at 53.2, while earlier CPI, PPI, retail-sales and sentiment readings left markets leaning toward a September Fed hold. The 10-year Treasury yield is trading near the 4.7% area and the 30-year yield remains near the 5.3% area, keeping the rate backdrop restrictive for non-yielding metals. The next major tests are July PCE, durable goods and the second estimate of Q2 GDP Wednesday at 8:30 a.m. ET, weekly jobless claims Thursday at 8:30 a.m. ET and Fed Chair Kevin Warsh’s Jackson Hole speech Friday at 10 a.m. ET. Gold and silver remain the standout cross-asset move after last week’s breakout. Gold is holding above the former $4,595 objective and is testing the $4,661 resistance area, while silver is consolidating below $69.90 after last week’s test above $70. The move is not a clean lower-yield trade: long-end yields remain elevated, but dollar weakness, Treasury buyback concerns, fiscal-risk hedging and geopolitical demand have continued to offset the negative carry from higher rates.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-24/gold-nears-4660-pce-jackson-hole-frame-fed-trade-kitco-am-report",
+      "published": null
+    },
     {
       "id": "stockanalysis:50e6c93b483fa840",
       "titleEn": "S&amp;P 500 and VOO ETF outlooks: Nvidia earnings and other catalysts for US stocks",
@@ -73,24 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/24/heres-why-the-alibaba-stock-is-crashing-in-hong-kong-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:004dcc8247846e89",
-      "titleEn": "Why is Samsung stock crashing 8% despite record $80B shareholder return?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/24/why-is-samsung-stock-crashing-8-despite-record-80b-shareholder-return/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:23aff7fddbe7c693",
-      "titleEn": "Kospi Index outlook: top catalysts for South Korean stocks this week",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/24/kospi-index-outlook-top-catalysts-for-south-korean-stocks-this-week/",
       "published": null
     }
   ]
