@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-24T17:21:24.032861Z",
+  "generatedAt": "2026-08-24T17:54:09.233799Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 20,
   "items": [
+    {
+      "id": "stockanalysis:e6bc7c4104034bf6",
+      "titleEn": "MSTR stock rises as Strategy holds Bitcoin, builds $1.59B cash pool",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/24/mstr-stock-rises-as-strategy-holds-bitcoin-builds-1-59b-cash-pool/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9aa59c27081cf3e7",
+      "titleEn": "Is Apple really the reason behind SK Hynix stock price decline?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/24/is-apple-really-the-reason-behind-sk-hynix-stock-price-decline/",
+      "published": null
+    },
     {
       "id": "stockanalysis:56ceb9747c006309",
       "titleEn": "Xpeng earnings reveal 'positives' - just not in the core EV business",
@@ -121,21 +139,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:3453a6e9c776d9e0",
-      "titleEn": "Gold nears $4,660 as PCE, Jackson Hole frame Fed trade - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Monday, as a weaker U.S. dollar, fiscal-risk hedging and lingering Strait of Hormuz uncertainty kept buyers active despite still-elevated Treasury yields. At the time of writing, spot gold was trading near $4,657.10 an ounce, up 1.19%, while spot silver was trading at $69.160, up 0.43% on the session. The latest positioning remains defined by the gap between softer recent U.S. inflation data and still-firm activity signals. Last week’s flash composite PMI rose to 56.0 in August , its strongest reading in more than 4 years, with services at 56.8 and manufacturing at 53.2, while earlier CPI, PPI, retail-sales and sentiment readings left markets leaning toward a September Fed hold. The 10-year Treasury yield is trading near the 4.7% area and the 30-year yield remains near the 5.3% area, keeping the rate backdrop restrictive for non-yielding metals. The next major tests are July PCE, durable goods and the second estimate of Q2 GDP Wednesday at 8:30 a.m. ET, weekly jobless claims Thursday at 8:30 a.m. ET and Fed Chair Kevin Warsh’s Jackson Hole speech Friday at 10 a.m. ET. Gold and silver remain the standout cross-asset move after last week’s breakout. Gold is holding above the former $4,595 objective and is testing the $4,661 resistance area, while silver is consolidating below $69.90 after last week’s test above $70. The move is not a clean lower-yield trade: long-end yields remain elevated, but dollar weakness, Treasury buyback concerns, fiscal-risk hedging and geopolitical demand have continued to offset the negative carry from higher rates.",
+      "id": "stockanalysis:121761125ba90087",
+      "titleEn": "DLVT Investors Have Rights – If You Lost Money Investing in Datavault AI Inc. Contact Robbins LLP for Information About Recovering Your Losses",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-24/gold-nears-4660-pce-jackson-hole-frame-fed-trade-kitco-am-report",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260824093571/en/DLVT-Investors-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-Datavault-AI-Inc.-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses-%C2%A0/",
       "published": null
     },
     {
-      "id": "stockanalysis:cd82f6b57ad176a3",
-      "titleEn": "Hugging Face Considers $13 Billion Sale of Its AI Platform",
-      "summaryEn": "Hugging Face has reportedly been considering a sale that could value it at $13 billion. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The startup, which offers a platform that lets developers find, share and create artificial intelligence (AI) models, has been working with a bank to test buyers’ interest, Business Insider reported Sunday (Aug. 23), citing sources familiar with the matter.",
+      "id": "stockanalysis:c96ceb7b0f578367",
+      "titleEn": "Ancora Reaffirms Offer to Acquire H.B. Fuller's BAS Segment",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824311227/en/Ancora-Reaffirms-Offer-to-Acquire-H.B.-Fuller%E2%80%99s-BAS-Segment/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e1e571cb6df1971d",
+      "titleEn": "Elastic Completes Acquisition of Deductive AI",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/hugging-face-considers-13-billion-sale-of-its-ai-platform/",
+      "link": "https://www.businesswire.com/news/home/20260824863894/en/Elastic-Completes-Acquisition-of-Deductive-AI/",
       "published": null
     },
     {
@@ -154,24 +181,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260824472005/en/AV-to-Invest-100-Million-in-New-Unified-Campus-in-Southern-California/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1d4a396e4cd94ed1",
-      "titleEn": "Louisiana Jury Issues $10 Million Verdict in Talc-Related Mesothelioma Case Against Johnson &amp; Johnson",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824893836/en/Louisiana-Jury-Issues-10-Million-Verdict-in-Talc-Related-Mesothelioma-Case-Against-Johnson-Johnson/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2b1942953ee9c460",
-      "titleEn": "BellRing Brands Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of BellRing Brands, Inc. - BRBR",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824048911/en/BellRing-Brands-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-BellRing-Brands-Inc.---BRBR/",
       "published": null
     }
   ]
