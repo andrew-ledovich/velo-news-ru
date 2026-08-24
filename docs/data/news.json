@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-24T09:01:14.028144Z",
+  "generatedAt": "2026-08-24T10:00:29.140559Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 18,
   "items": [
     {
       "id": "stockanalysis:3637e429261e3a83",
@@ -94,6 +94,33 @@
       "published": null
     },
     {
+      "id": "stockanalysis:258a8b347ab6ebf0",
+      "titleEn": "Australia, Japan, the United States and Alcoa Break Ground on Gallium Project in Western Australia",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260823999597/en/Australia-Japan-the-United-States-and-Alcoa-Break-Ground-on-Gallium-Project-in-Western-Australia/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b7861310259f5abc",
+      "titleEn": "eDreams ODIGEO Advances Its International Expansion With the Scaling of Its Prime Subscription Platform in Poland",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824263727/en/eDreams-ODIGEO-Advances-Its-International-Expansion-With-the-Scaling-of-Its-Prime-Subscription-Platform-in-Poland/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:85aa57320a1195c5",
+      "titleEn": "BARK® and Dunkin'® Launch Dunkin's First Official Dog Drive-Thru Experience and New Dog Toy Collection",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824837860/en/BARK%C2%AE-and-Dunkin%C2%AE-Launch-Dunkins-First-Official-Dog-Drive-Thru-Experience-and-New-Dog-Toy-Collection/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:c213b67f20d36096",
       "titleEn": "UK Credit Card Payment Rates Drop and Card Balances Rise as Summer Spending Puts Pressure on Consumers",
       "summaryEn": null,
@@ -136,15 +163,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260823786995/en/Daiichi-Sankyo-Appoints-Ken-Keller-as-Chief-Commercialization-Officer-to-Lead-New-Commercialization-Unit-to-Accelerate-Growth-of-Innovative-Portfolio/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:eb362cbd08518057",
-      "titleEn": "ORZEYFUL (oveporexton) Approved in Japan as the First and Only Medicine to Treat the Underlying Cause of Narcolepsy Type 1",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260818063761/en/ORZEYFUL-oveporexton-Approved-in-Japan-as-the-First-and-Only-Medicine-to-Treat-the-Underlying-Cause-of-Narcolepsy-Type-1/",
       "published": null
     }
   ]
