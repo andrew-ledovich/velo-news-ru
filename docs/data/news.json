@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-24T10:50:08.630870Z",
+  "generatedAt": "2026-08-24T11:17:16.640036Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:1e61659827127071",
@@ -24,7 +24,7 @@
     {
       "id": "stockanalysis:7774fdb7f9845791",
       "titleEn": "FIS Says Purchase Data Will Push Payments Beyond the Transaction",
-      "summaryEn": "FIS Senior Vice President Jakob Harrison said the speed of technological and consumer change is the pressure payments companies cannot ignore. Harrison said he sees major shifts forming through a series of smaller developments rather than one defining event. FIS’ Smart Basket strategy reflects a bet that knowing what is being purchased can make payment data more useful.",
+      "summaryEn": "FIS Senior Vice President Jakob Harrison said the speed of technological and consumer change is the pressure payments companies cannot ignore. Harrison said he sees major shifts forming through a series of smaller developments rather than one defining event. FIS’ Smart Basket strategy reflects a bet that knowing what is being purchased can make payment data more useful. Watch more: What’s Next in Payments With Jakob Harrison of FIS",
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.pymnts.com/news/payments-innovation/2026/fis-says-purchase-data-will-push-payments-beyond-the-transaction/",
@@ -87,46 +87,28 @@
     {
       "id": "stockanalysis:3937063b69cc92b8",
       "titleEn": "Anthropic Customers Switch to Cheaper Models Ahead of IPO",
-      "summaryEn": "Anthropic customers are reportedly using lower-cost alternatives to its most powerful artificial intelligence model. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a report Sunday (Aug. 23) by the Financial Times (FT), which contends that this development among the startup’s U.S. customers raises questions about Anthropic’s aggressive spending ahead of what is expected to be the largest public offering on record.",
+      "summaryEn": "Anthropic customers are reportedly using lower-cost alternatives to its most powerful artificial intelligence model. That’s according to a report Sunday (Aug. 23) by the Financial Times (FT), which contends that this development among the startup’s U.S. customers raises questions about Anthropic’s aggressive spending ahead of what is expected to be the largest public offering on record. Spending on the company’s Fable 5 model has yet to surpass roughly 11% of overall expenditures on Anthropic’s tools, the report said, citing data from 70,000 companies collected by payments firm Ramp. The FT said this goes against a pattern of corporate customers gravitating toward the most powerful AI models. Analysts and Anthropic investors say the trend is fueled mainly by Fable’s high price and the fact that older models can handle the majority of business demands.",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-customers-switch-to-cheaper-models-ahead-of-ipo/",
       "published": null
     },
     {
-      "id": "stockanalysis:b8724e8af72b1766",
-      "titleEn": "Nvidia stock in focus as earnings loom and GPU price hikes approach",
+      "id": "stockanalysis:a68151f5008631dc",
+      "titleEn": "SLB Launches ExaCT Electrical Downhole CT Control System",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/23/nvidia-stock-in-focus-as-earnings-loom-and-gpu-price-hikes-approach/",
+      "link": "https://www.businesswire.com/news/home/20260824661457/en/SLB-Launches-ExaCT-Electrical-Downhole-CT-Control-System/",
       "published": null
     },
     {
-      "id": "stockanalysis:6839265f34026bdc",
-      "titleEn": "European Commission Expands Role of Gilead's Trodelvy® in First-Line Metastatic Triple-Negative Breast Cancer Across PD-L1 Status",
+      "id": "stockanalysis:9d5a40e228813763",
+      "titleEn": "Wolters Kluwer Transforms Trusted Legal Content Into Structured, AI-Ready Intelligence That Powers the Next Wave of Legal AI",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260819110838/en/European-Commission-Expands-Role-of-Gilead%E2%80%99s-Trodelvy%C2%AE-in-First-Line-Metastatic-Triple-Negative-Breast-Cancer-Across-PD-L1-Status/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e097fb96fa8a0c81",
-      "titleEn": "Ingram Micro to Host 2026 Capital Markets Day on September 15, 2026 – Registration Now Open",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824843312/en/Ingram-Micro-to-Host-2026-Capital-Markets-Day-on-September-15-2026-%E2%80%93-Registration-Now-Open/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:69aeb7d9406b8acf",
-      "titleEn": "Thompson Street Capital Partners Portfolio Company ATIS Acquires AuditMate to Strengthen Its Elevator Asset Management Platform",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824985457/en/Thompson-Street-Capital-Partners-Portfolio-Company-ATIS-Acquires-AuditMate-to-Strengthen-Its-Elevator-Asset-Management-Platform/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260824521522/en/%C2%A0Wolters-Kluwer-Transforms-Trusted-Legal-Content-Into-Structured-AI-Ready-Intelligence-That-Powers-the-Next-Wave-of-Legal-AI/",
       "published": null
     }
   ]
