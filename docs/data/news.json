@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-23T23:55:03.089850Z",
+  "generatedAt": "2026-08-24T00:36:23.195288Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:3937063b69cc92b8",
+      "titleEn": "Anthropic Customers Switch to Cheaper Models Ahead of IPO",
+      "summaryEn": "Anthropic customers are reportedly using lower-cost alternatives to its most powerful artificial intelligence model. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a report Sunday (Aug. 23) by the Financial Times (FT), which contends that this development among the startup’s U.S. customers raises questions about Anthropic’s aggressive spending ahead of what is expected to be the largest public offering on record.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-customers-switch-to-cheaper-models-ahead-of-ipo/",
+      "published": null
+    },
     {
       "id": "stockanalysis:b8724e8af72b1766",
       "titleEn": "Nvidia stock in focus as earnings loom and GPU price hikes approach",
@@ -145,24 +154,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260823711418/en/ITGR-Investors-Have-Opportunity-to-Join-Integer-Holdings-Corporation-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:39c642d714733e44",
-      "titleEn": "FTK Investors Have Opportunity to Join Flotek Industries, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260823846418/en/FTK-Investors-Have-Opportunity-to-Join-Flotek-Industries-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3730b861bca6fdbf",
-      "titleEn": "LINC Investors Have Opportunity to Join Lincoln Educational Services Corporation Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260823824514/en/LINC-Investors-Have-Opportunity-to-Join-Lincoln-Educational-Services-Corporation-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
