@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-24T10:00:29.140559Z",
+  "generatedAt": "2026-08-24T10:50:08.630870Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:1e61659827127071",
+      "titleEn": "Micron drops 3%, SanDisk over 4%: what is hitting memory stocks today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/24/micron-drops-3-sandisk-over-4-what-is-hitting-memory-stocks-today/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3637e429261e3a83",
       "titleEn": "Why is Wall Street souring on PDD stock just before earnings?",
@@ -94,75 +103,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:258a8b347ab6ebf0",
-      "titleEn": "Australia, Japan, the United States and Alcoa Break Ground on Gallium Project in Western Australia",
+      "id": "stockanalysis:6839265f34026bdc",
+      "titleEn": "European Commission Expands Role of Gilead's Trodelvy® in First-Line Metastatic Triple-Negative Breast Cancer Across PD-L1 Status",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260823999597/en/Australia-Japan-the-United-States-and-Alcoa-Break-Ground-on-Gallium-Project-in-Western-Australia/",
+      "link": "https://www.businesswire.com/news/home/20260819110838/en/European-Commission-Expands-Role-of-Gilead%E2%80%99s-Trodelvy%C2%AE-in-First-Line-Metastatic-Triple-Negative-Breast-Cancer-Across-PD-L1-Status/",
       "published": null
     },
     {
-      "id": "stockanalysis:b7861310259f5abc",
-      "titleEn": "eDreams ODIGEO Advances Its International Expansion With the Scaling of Its Prime Subscription Platform in Poland",
+      "id": "stockanalysis:e097fb96fa8a0c81",
+      "titleEn": "Ingram Micro to Host 2026 Capital Markets Day on September 15, 2026 – Registration Now Open",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824263727/en/eDreams-ODIGEO-Advances-Its-International-Expansion-With-the-Scaling-of-Its-Prime-Subscription-Platform-in-Poland/",
+      "link": "https://www.businesswire.com/news/home/20260824843312/en/Ingram-Micro-to-Host-2026-Capital-Markets-Day-on-September-15-2026-%E2%80%93-Registration-Now-Open/",
       "published": null
     },
     {
-      "id": "stockanalysis:85aa57320a1195c5",
-      "titleEn": "BARK® and Dunkin'® Launch Dunkin's First Official Dog Drive-Thru Experience and New Dog Toy Collection",
+      "id": "stockanalysis:69aeb7d9406b8acf",
+      "titleEn": "Thompson Street Capital Partners Portfolio Company ATIS Acquires AuditMate to Strengthen Its Elevator Asset Management Platform",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824837860/en/BARK%C2%AE-and-Dunkin%C2%AE-Launch-Dunkins-First-Official-Dog-Drive-Thru-Experience-and-New-Dog-Toy-Collection/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c213b67f20d36096",
-      "titleEn": "UK Credit Card Payment Rates Drop and Card Balances Rise as Summer Spending Puts Pressure on Consumers",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824172828/en/UK-Credit-Card-Payment-Rates-Drop-and-Card-Balances-Rise-as-Summer-Spending-Puts-Pressure-on-Consumers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4a6f787387017240",
-      "titleEn": "Daiichi Sankyo Appoints Markus Kosch to Lead Europe Business as Part of New Commercialization Organization",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260821102599/en/Daiichi-Sankyo-Appoints-Markus-Kosch-to-Lead-Europe-Business-as-Part-of-New-Commercialization-Organization/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e812d9d61ccbaa86",
-      "titleEn": "Paysafe Launches Video Gaming Arena to Connect Publishers with Millions of Gamers",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824546174/en/Paysafe-Launches-Video-Gaming-Arena-to-Connect-Publishers-with-Millions-of-Gamers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4b49e9267fd09112",
-      "titleEn": "European Commission Approves DAYBU® (trofinetide) as the First and Only Treatment for Neurobehavioral Symptoms of Rett Syndrome in the European Union",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824899136/en/European-Commission-Approves-DAYBU%C2%AE-trofinetide-as-the-First-and-Only-Treatment-for-Neurobehavioral-Symptoms-of-Rett-Syndrome-in-the-European-Union/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ef8463aacaaf7f0b",
-      "titleEn": "Daiichi Sankyo Appoints Ken Keller as Chief Commercialization Officer to Lead New Commercialization Unit to Accelerate Growth of Innovative Portfolio",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260823786995/en/Daiichi-Sankyo-Appoints-Ken-Keller-as-Chief-Commercialization-Officer-to-Lead-New-Commercialization-Unit-to-Accelerate-Growth-of-Innovative-Portfolio/",
+      "link": "https://www.businesswire.com/news/home/20260824985457/en/Thompson-Street-Capital-Partners-Portfolio-Company-ATIS-Acquires-AuditMate-to-Strengthen-Its-Elevator-Asset-Management-Platform/",
       "published": null
     }
   ]
