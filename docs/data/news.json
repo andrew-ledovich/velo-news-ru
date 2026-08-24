@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-24T15:32:33.317704Z",
+  "generatedAt": "2026-08-24T16:07:48.138344Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:507b0b7ac4d56bf6",
+      "titleEn": "Brazilian Bank Itaú Wins Preliminary US Charter Approval to Serve Wealthy Clients",
+      "summaryEn": "Brazil-based bank Itaú Unibanco Holdings S.A. has secured preliminary approval from the Office of the Comptroller of the Currency (OCC) to establish a new national bank in the United States called Itaú Bank, National Association, the OCC said in an Aug. 14 corporate decision . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); If final approval and authorization for the bank to open are granted, Itaú Bank, National Association will be headquartered in Miami and will focus on high- and ultra-high net worth individuals with Brazilian and Latin American connections, according to the decision.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/brazilian-bank-itau-wins-preliminary-us-charter-approval-to-serve-wealthy-clients/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b544b76657ebcb5c",
+      "titleEn": "Intel, AMD stocks declines as chip sell-off hits Wall Street",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/24/intel-amd-stocks-declines-as-chip-sell-off-hits-wall-street/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2c038fcffde12789",
+      "titleEn": "The debasement trade is back, but gold still faces risks - Analysts",
+      "summaryEn": "(Kitco News) - After a months-long correction that saw gold prices drop 30% from their all-time highs, the market is once again attracting significant momentum. Gold prices are starting the week with a push toward $4,700 an ounce, currently trading at their highest level in 15 weeks. Analysts have described the renewed bullish momentum as a resurgence of the debasement trade after the U.S. Treasury announced it would buy long-dated bonds in an attempt to reduce borrowing costs. Bart Melek, Head of Commodity Strategy at TD Securities, said in a note Friday that gold and silver are surging as investors worry about America&#x27;s fiscal situation after the nation’s debt surpassed $40 trillion last week.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-24/debasement-trade-back-gold-still-faces-risks-analysts",
+      "published": null
+    },
     {
       "id": "stockanalysis:a812ac780693a893",
       "titleEn": "Nvidia Considers Backing Perplexity at $30 Billion Valuation",
@@ -103,12 +130,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:9f075a0e6ceaf8a2",
-      "titleEn": "Fujifilm Announces First Sale of its FUJIFILM J Press FP790 Flexible Packaging Press in the Americas to Quantum Flex Pack",
+      "id": "stockanalysis:75e64606ef464831",
+      "titleEn": "Sarepta Therapeutics Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of Sarepta Therapeutics, Inc. - SRPT",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824436785/en/Fujifilm-Announces-First-Sale-of-its-FUJIFILM-J-Press-FP790-Flexible-Packaging-Press-in-the-Americas-to-Quantum-Flex-Pack/",
+      "link": "https://www.businesswire.com/news/home/20260824327976/en/Sarepta-Therapeutics-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-Sarepta-Therapeutics-Inc.---SRPT/",
       "published": null
     }
   ]
