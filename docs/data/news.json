@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-24T07:17:40.699512Z",
+  "generatedAt": "2026-08-24T08:09:36.349849Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:7774fdb7f9845791",
+      "titleEn": "FIS Says Purchase Data Will Push Payments Beyond the Transaction",
+      "summaryEn": "FIS Senior Vice President Jakob Harrison said the speed of technological and consumer change is the pressure payments companies cannot ignore. Harrison said he sees major shifts forming through a series of smaller developments rather than one defining event. FIS’ Smart Basket strategy reflects a bet that knowing what is being purchased can make payment data more useful.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/payments-innovation/2026/fis-says-purchase-data-will-push-payments-beyond-the-transaction/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:15dc1b1ff8780ca1",
+      "titleEn": "Rolls-Royce stock: The bull case is strong, but these risks could trigger a drop",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/24/rolls-royce-stock-the-bull-case-is-strong-but-these-risks-could-trigger-a-drop/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d359f737fb0425b4",
+      "titleEn": "Citi sees up to 410% upside in 2 biotech stocks: is the risk worth it?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/24/citi-sees-up-to-410-upside-in-2-biotech-stocks-is-the-risk-worth-it/",
+      "published": null
+    },
     {
       "id": "stockanalysis:2c6d7d59c934ca92",
       "titleEn": "Nvidia stock enters earnings week after five-day slide and Perplexity talks",
@@ -58,12 +85,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ea7f73d7c59116fd",
-      "titleEn": "Uber fined nearly $1 billion by Dutch regulators over automated suspensions of driver accounts",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Dutch data protection authorities have fined Uber nearly $1 billion, saying the ride-hailing company used automated software to suspend driver accounts, sometimes permanently, with no human review to check for mistakes. The Dutch Data Protection Authority said Friday it is imposing a fine of 825 million euros ($964 million) because Uber violated the EU's General Data Protection Regulation. The EU's data privacy rules prohibit fully automated decision-making.",
+      "id": "stockanalysis:c213b67f20d36096",
+      "titleEn": "UK Credit Card Payment Rates Drop and Card Balances Rise as Summer Spending Puts Pressure on Consumers",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-08-uber-fined-billion-dutch-automated.html",
+      "link": "https://www.businesswire.com/news/home/20260824172828/en/UK-Credit-Card-Payment-Rates-Drop-and-Card-Balances-Rise-as-Summer-Spending-Puts-Pressure-on-Consumers/",
       "published": null
     },
     {
