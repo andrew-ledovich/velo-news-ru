@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-24T21:18:08.465336Z",
+  "generatedAt": "2026-08-24T21:50:18.929148Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:cedd5e48eb074d75",
+      "titleEn": "Gold rises, silver slips as fiscal-risk trade holds - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices are higher and spot silver prices are slightly lower in late-afternoon U.S. trading Monday, as gold’s fiscal-risk bid held even as silver saw profit-taking after last week’s breakout. At the time of writing, spot gold was trading near $4,648.40 an ounce, up 1.00%, while spot silver was trading at $68.750, down 0.16% on the session. North American equity markets closed mixed, with AI-linked technology again the drag. The S&P 500 fell 21.51 points, or 0.3%, to 7,652.86, the Dow Jones Industrial Average rose 140.15 points, or 0.3%, to 53,417.16, the Nasdaq Composite lost 200.26 points, or 0.8%, to 25,980.19, and the Russell 2000 fell 22.79 points, or 0.8%, to 2,995.08. European markets finished nearly flat overall, with the STOXX Europe 600 at 654.21, unchanged on the session. London’s FTSE 100 rose 0.35% to 10,854.32, Germany’s DAX slipped 0.11% to 26,106.60, France’s CAC 40 lost 0.37% to 8,453.01 and Italy’s FTSE MIB fell 0.24% to 52,542.18. The latest positioning remains centered on the same cross-current that has supported gold all month: softer recent U.S. inflation and spending data reduced the urgency of a September Fed hike, but long-end yields and fiscal stress remain the constraint. The 10-year Treasury yield eased to about 4.70% as oil prices fell, while the 30-year yield stayed near the 5.2% area. Markets are now looking to Wednesday’s Nvidia earnings, the July PCE inflation report and Fed Chair Kevin Warsh’s Jackson Hole speech Friday for the next read on growth, inflation and policy risk. Gold has held above the $4,600 area because Treasury buyback expectations, debt concerns and dollar sensitivity continue to matter more than a single rates input. Silver’s pullback shows the trade is less uniform below the surface: the metal remains tied to the dollar and long bond, but profit-taking emerged after Friday’s test above $70.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-08-24/gold-rises-silver-slips-fiscal-risk-trade-holds-kitco-pm-report",
+      "published": null
+    },
     {
       "id": "stockanalysis:ff689ed3c11ad527",
       "titleEn": "BofA survey says gold is undervalued as bullish speculative interest picks up",
@@ -112,39 +121,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1ccffa23c1a646c0",
-      "titleEn": "Nucor, Steel Dynamics, Cleveland-Cliffs stocks rise as US-Canada trade talks fail",
+      "id": "stockanalysis:abc46b48b61ffb0e",
+      "titleEn": "Faraday Future Eliminates 237,615 Potential Warrants, Continuously Optimizing Capital Structure to Support Its Robotics Strategy",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/24/nucor-steel-dynamics-cleveland-cliffs-stocks-rise-as-us-canada-trade-talks-fail/",
+      "link": "https://www.businesswire.com/news/home/20260824542725/en/Faraday-Future-Eliminates-237615-Potential-Warrants-Continuously-Optimizing-Capital-Structure-to-Support-Its-Robotics-Strategy/",
       "published": null
     },
     {
-      "id": "stockanalysis:74ff18b0ff7a33f1",
-      "titleEn": "Marvell Technology stock analysis and earnings preview: will it rise or crash?",
+      "id": "stockanalysis:bf0cb0459e8902eb",
+      "titleEn": "UL Solutions Launches Retail Total Access™ Software to Help Retailers Manage Supply Chain Quality and Risk",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/24/marvell-technology-stock-analysis-and-earnings-preview-will-it-rise-or-crash/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7346be1871608b54",
-      "titleEn": "Fifth Third Bancorp to Participate in the Barclays Global Financial Services Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824521174/en/Fifth-Third-Bancorp-to-Participate-in-the-Barclays-Global-Financial-Services-Conference/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:99c6503bab89b995",
-      "titleEn": "Slate Grocery REIT Announces Distribution for the Month of August 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824278230/en/Slate-Grocery-REIT-Announces-Distribution-for-the-Month-of-August-2026/",
+      "link": "https://www.businesswire.com/news/home/20260824027330/en/UL-Solutions-Launches-Retail-Total-Access%E2%84%A2-Software-to-Help-Retailers-Manage-Supply-Chain-Quality-and-Risk/",
       "published": null
     }
   ]
