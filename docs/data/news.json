@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-24T16:07:48.138344Z",
+  "generatedAt": "2026-08-24T16:52:56.967899Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 20,
   "items": [
+    {
+      "id": "stockanalysis:de83cb1648eb9c57",
+      "titleEn": "Why are Micron, SK Hynix, SanDisk stocks falling today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/24/why-are-micron-sk-hynix-sandisk-stocks-falling-today/",
+      "published": null
+    },
     {
       "id": "stockanalysis:507b0b7ac4d56bf6",
       "titleEn": "Brazilian Bank Itaú Wins Preliminary US Charter Approval to Serve Wealthy Clients",
@@ -130,12 +139,48 @@
       "published": null
     },
     {
+      "id": "stockanalysis:1d4a396e4cd94ed1",
+      "titleEn": "Louisiana Jury Issues $10 Million Verdict in Talc-Related Mesothelioma Case Against Johnson &amp; Johnson",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824893836/en/Louisiana-Jury-Issues-10-Million-Verdict-in-Talc-Related-Mesothelioma-Case-Against-Johnson-Johnson/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2b1942953ee9c460",
+      "titleEn": "BellRing Brands Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of BellRing Brands, Inc. - BRBR",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824048911/en/BellRing-Brands-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-BellRing-Brands-Inc.---BRBR/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1626d57b07fbd30e",
+      "titleEn": "Freeport-McMoRan Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of Freeport-McMoRan Inc. - FCX",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824180889/en/Freeport-McMoRan-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-Freeport-McMoRan-Inc.---FCX/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:75e64606ef464831",
       "titleEn": "Sarepta Therapeutics Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of Sarepta Therapeutics, Inc. - SRPT",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260824327976/en/Sarepta-Therapeutics-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-Sarepta-Therapeutics-Inc.---SRPT/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:29a73a3d9a23213a",
+      "titleEn": "Infleqtion Collaboration with Japan Moonshot Program Achieves Major Milestone: \"Shunkai\" Neutral Atom Quantum Computer Now Operational",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824806433/en/Infleqtion-Collaboration-with-Japan-Moonshot-Program-Achieves-Major-Milestone-Shunkai-Neutral-Atom-Quantum-Computer-Now-Operational/",
       "published": null
     }
   ]
