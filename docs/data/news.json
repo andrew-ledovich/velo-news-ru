@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-24T21:50:18.929148Z",
+  "generatedAt": "2026-08-24T22:14:02.479208Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:cedd5e48eb074d75",
@@ -100,24 +100,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-24/debasement-trade-back-gold-still-faces-risks-analysts",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a812ac780693a893",
-      "titleEn": "Nvidia Considers Backing Perplexity at $30 Billion Valuation",
-      "summaryEn": "Nvidia is considering taking part in a new funding round for artificial intelligence startup Perplexity , The Information reported Sunday (Aug. 23). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The new funding would be worth billions of dollars and value Perplexity at more than $30 billion, more than doubling the company’s valuation from a year ago, according to the report, which cited unnamed sources.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-considers-backing-perplexity-30-billion-dollar-valuation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0cdf88f291b4e679",
-      "titleEn": "Salesforce stock hits a crucial resistance ahead of earnings: what next?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/24/salesforce-stock-hits-a-crucial-resistance-ahead-of-earnings-what-next/",
       "published": null
     },
     {
