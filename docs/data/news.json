@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-24T02:10:59.879107Z",
+  "generatedAt": "2026-08-24T03:14:28.194892Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:23aff7fddbe7c693",
+      "titleEn": "Kospi Index outlook: top catalysts for South Korean stocks this week",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/24/kospi-index-outlook-top-catalysts-for-south-korean-stocks-this-week/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3937063b69cc92b8",
       "titleEn": "Anthropic Customers Switch to Cheaper Models Ahead of IPO",
