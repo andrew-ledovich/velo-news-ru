@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-24T13:28:05.365646Z",
+  "generatedAt": "2026-08-24T14:09:33.323294Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:9319cfc04bffd1fa",
+      "titleEn": "Intuit stock forecast ahead of earnings: buy, sell, or hold?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/24/intuit-stock-forecast-ahead-of-earnings-buy-sell-or-hold/",
+      "published": null
+    },
     {
       "id": "stockanalysis:b4d3b20a1e8b33ba",
       "titleEn": "CoreWeave stock falls 3%, why this analyst sees 88% upside for the stock",
@@ -19,6 +28,15 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-08-24/gold-nears-4660-pce-jackson-hole-frame-fed-trade-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cd82f6b57ad176a3",
+      "titleEn": "Hugging Face Considers $13 Billion Sale of Its AI Platform",
+      "summaryEn": "Hugging Face has reportedly been considering a sale that could value it at $13 billion. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The startup, which offers a platform that lets developers find, share and create artificial intelligence (AI) models, has been working with a bank to test buyers’ interest, Business Insider reported Sunday (Aug. 23), citing sources familiar with the matter.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/hugging-face-considers-13-billion-sale-of-its-ai-platform/",
       "published": null
     },
     {
@@ -76,21 +94,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:2c6d7d59c934ca92",
-      "titleEn": "Nvidia stock enters earnings week after five-day slide and Perplexity talks",
+      "id": "stockanalysis:1ef0ea5b714ffb11",
+      "titleEn": "Eurofins Scientific SE: Director/PDMR Shareholding",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/24/nvidia-stock-enters-earnings-week-after-five-day-slide-and-perplexity-talks/",
+      "link": "https://www.businesswire.com/news/home/20260824365141/en/Eurofins-Scientific-SE-DirectorPDMR-Shareholding/",
       "published": null
     },
     {
-      "id": "stockanalysis:568b8113311737a9",
-      "titleEn": "Here's why the Alibaba stock is crashing in Hong Kong today",
+      "id": "stockanalysis:d911637701b5d542",
+      "titleEn": "QIAGEN Appoints Jonathan M. Pratt as Chief Executive Officer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/24/heres-why-the-alibaba-stock-is-crashing-in-hong-kong-today/",
+      "link": "https://www.businesswire.com/news/home/20260824298337/en/QIAGEN-Appoints-Jonathan-M.-Pratt-as-Chief-Executive-Officer/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b77551098aa98096",
+      "titleEn": "Textron Appoints Brian Rohloff President and CEO of Textron Aviation",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260823427898/en/Textron-Appoints-Brian-Rohloff-President-and-CEO-of-Textron-Aviation/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a83b14cc4c1eb78e",
+      "titleEn": "Afya Limited Comments on Recent Public Disclosure Made by Yduqs Participações S.A. Regarding a Potential Business Combination",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824834301/en/Afya-Limited-Comments-on-Recent-Public-Disclosure-Made-by-Yduqs-Participa%C3%A7%C3%B5es-S.A.-Regarding-a-Potential-Business-Combination/",
       "published": null
     }
   ]
