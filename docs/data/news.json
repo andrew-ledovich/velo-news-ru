@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T19:07:48.867091Z",
+  "generatedAt": "2026-08-24T19:40:22.742969Z",
   "sourceCount": 1,
   "count": 20,
   "items": [
@@ -130,6 +130,24 @@
       "published": null
     },
     {
+      "id": "stockanalysis:9f0c4f580658ef9b",
+      "titleEn": "Cushman &amp; Wakefield Strengthens Capital Markets Platform with Addition of Loan Restructuring Expert Steve Klein",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824346285/en/Cushman-Wakefield-Strengthens-Capital-Markets-Platform-with-Addition-of-Loan-Restructuring-Expert-Steve-Klein/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:18aa393c130a9834",
+      "titleEn": "Welcome Home, Boston: JetBlue to Open Second BlueHouse™ Lounge, Adds New Access for Mint® Customers",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824290044/en/Welcome-Home-Boston-JetBlue-to-Open-Second-BlueHouse%E2%84%A2-Lounge-Adds-New-Access-for-Mint%C2%AE-Customers/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:20aaea21035cd89d",
       "titleEn": "Albany Engineered Composites to Showcase Advanced Composite Solutions at CAMX 2026",
       "summaryEn": null,
@@ -163,24 +181,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260824191384/en/Teradyne-Declares-Quarterly-Cash-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b6b0ae571e376eea",
-      "titleEn": "Knightscope to Unveil the Autonomous Security Force at GSX 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824153399/en/Knightscope-to-Unveil-the-Autonomous-Security-Force-at-GSX-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3dfc88628567aaf5",
-      "titleEn": "UWMC Stockholders Have Rights – If You Lost Money Investing in UWM Holdings Corporation Contact Robbins LLP for Information About Recovering Your Losses",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824816253/en/UWMC-Stockholders-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-UWM-Holdings-Corporation-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
       "published": null
     }
   ]
