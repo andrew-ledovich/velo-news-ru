@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-08-24T14:56:43.746064Z",
+  "generatedAt": "2026-08-24T15:32:33.317704Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:a812ac780693a893",
+      "titleEn": "Nvidia Considers Backing Perplexity at $30 Billion Valuation",
+      "summaryEn": "Nvidia is considering taking part in a new funding round for artificial intelligence startup Perplexity , The Information reported Sunday (Aug. 23). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The new funding would be worth billions of dollars and value Perplexity at more than $30 billion, more than doubling the company’s valuation from a year ago, according to the report, which cited unnamed sources.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-considers-backing-perplexity-30-billion-dollar-valuation/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0cdf88f291b4e679",
+      "titleEn": "Salesforce stock hits a crucial resistance ahead of earnings: what next?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/24/salesforce-stock-hits-a-crucial-resistance-ahead-of-earnings-what-next/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1ccffa23c1a646c0",
+      "titleEn": "Nucor, Steel Dynamics, Cleveland-Cliffs stocks rise as US-Canada trade talks fail",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/24/nucor-steel-dynamics-cleveland-cliffs-stocks-rise-as-us-canada-trade-talks-fail/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:74ff18b0ff7a33f1",
+      "titleEn": "Marvell Technology stock analysis and earnings preview: will it rise or crash?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/24/marvell-technology-stock-analysis-and-earnings-preview-will-it-rise-or-crash/",
+      "published": null
+    },
     {
       "id": "stockanalysis:5caf95d1b0acb121",
       "titleEn": "Why Nvidia stock is slipping over 2% on Monday",
@@ -67,39 +103,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1e61659827127071",
-      "titleEn": "Micron drops 3%, SanDisk over 4%: what is hitting memory stocks today?",
+      "id": "stockanalysis:9f075a0e6ceaf8a2",
+      "titleEn": "Fujifilm Announces First Sale of its FUJIFILM J Press FP790 Flexible Packaging Press in the Americas to Quantum Flex Pack",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/24/micron-drops-3-sandisk-over-4-what-is-hitting-memory-stocks-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ee60fc3cfb214a14",
-      "titleEn": "Law Offices of Howard G. Smith Encourages Taboola.com Ltd.",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824689513/en/Law-Offices-of-Howard-G.-Smith-Encourages-Taboola.com-Ltd.-TBLA-Shareholders-To-Inquire-About-Securities-Fraud-Class-Action/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a2daf3f085a24f00",
-      "titleEn": "ZoomInfo Announces Updates to ZoomInfo MCP on Salesforce's AgentExchange",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824304153/en/ZoomInfo-Announces-Updates-to-ZoomInfo-MCP-on-Salesforces-AgentExchange/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3dfb4661c4e20b9b",
-      "titleEn": "L3Harris to Present at Upcoming Investor Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824125219/en/L3Harris-to-Present-at-Upcoming-Investor-Conference/",
+      "link": "https://www.businesswire.com/news/home/20260824436785/en/Fujifilm-Announces-First-Sale-of-its-FUJIFILM-J-Press-FP790-Flexible-Packaging-Press-in-the-Americas-to-Quantum-Flex-Pack/",
       "published": null
     }
   ]
