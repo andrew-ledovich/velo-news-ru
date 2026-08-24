@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-24T11:49:46.522485Z",
+  "generatedAt": "2026-08-24T12:23:37.110675Z",
   "sourceCount": 1,
   "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:50e6c93b483fa840",
+      "titleEn": "S&amp;P 500 and VOO ETF outlooks: Nvidia earnings and other catalysts for US stocks",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/24/sp-500-and-voo-etf-outlooks-nvidia-earnings-and-other-catalysts-for-us-stocks/",
+      "published": null
+    },
     {
       "id": "stockanalysis:1e61659827127071",
       "titleEn": "Micron drops 3%, SanDisk over 4%: what is hitting memory stocks today?",
@@ -82,15 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/24/kospi-index-outlook-top-catalysts-for-south-korean-stocks-this-week/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3937063b69cc92b8",
-      "titleEn": "Anthropic Customers Switch to Cheaper Models Ahead of IPO",
-      "summaryEn": "Anthropic customers are reportedly using lower-cost alternatives to its most powerful artificial intelligence model. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a report Sunday (Aug. 23) by the Financial Times (FT), which contends that this development among the startup’s U.S. customers raises questions about Anthropic’s aggressive spending ahead of what is expected to be the largest public offering on record.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-customers-switch-to-cheaper-models-ahead-of-ipo/",
       "published": null
     }
   ]
