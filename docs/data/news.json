@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-24T23:32:20.810759Z",
+  "generatedAt": "2026-08-24T23:55:11.790458Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:77d81a41abfbdd39",
@@ -100,15 +100,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/24/intel-amd-stocks-declines-as-chip-sell-off-hits-wall-street/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2c038fcffde12789",
-      "titleEn": "The debasement trade is back, but gold still faces risks - Analysts",
-      "summaryEn": "(Kitco News) - After a months-long correction that saw gold prices drop 30% from their all-time highs, the market is once again attracting significant momentum. Gold prices are starting the week with a push toward $4,700 an ounce, currently trading at their highest level in 15 weeks. Analysts have described the renewed bullish momentum as a resurgence of the debasement trade after the U.S. Treasury announced it would buy long-dated bonds in an attempt to reduce borrowing costs. Bart Melek, Head of Commodity Strategy at TD Securities, said in a note Friday that gold and silver are surging as investors worry about America&#x27;s fiscal situation after the nation’s debt surpassed $40 trillion last week.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-24/debasement-trade-back-gold-still-faces-risks-analysts",
       "published": null
     },
     {
