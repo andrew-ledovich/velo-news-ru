@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-24T06:07:44.004162Z",
+  "generatedAt": "2026-08-24T07:17:40.699512Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:2c6d7d59c934ca92",
+      "titleEn": "Nvidia stock enters earnings week after five-day slide and Perplexity talks",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/24/nvidia-stock-enters-earnings-week-after-five-day-slide-and-perplexity-talks/",
+      "published": null
+    },
     {
       "id": "stockanalysis:568b8113311737a9",
       "titleEn": "Here's why the Alibaba stock is crashing in Hong Kong today",
@@ -58,66 +67,48 @@
       "published": null
     },
     {
+      "id": "stockanalysis:e812d9d61ccbaa86",
+      "titleEn": "Paysafe Launches Video Gaming Arena to Connect Publishers with Millions of Gamers",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824546174/en/Paysafe-Launches-Video-Gaming-Arena-to-Connect-Publishers-with-Millions-of-Gamers/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4b49e9267fd09112",
+      "titleEn": "European Commission Approves DAYBU® (trofinetide) as the First and Only Treatment for Neurobehavioral Symptoms of Rett Syndrome in the European Union",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824899136/en/European-Commission-Approves-DAYBU%C2%AE-trofinetide-as-the-First-and-Only-Treatment-for-Neurobehavioral-Symptoms-of-Rett-Syndrome-in-the-European-Union/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ef8463aacaaf7f0b",
+      "titleEn": "Daiichi Sankyo Appoints Ken Keller as Chief Commercialization Officer to Lead New Commercialization Unit to Accelerate Growth of Innovative Portfolio",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260823786995/en/Daiichi-Sankyo-Appoints-Ken-Keller-as-Chief-Commercialization-Officer-to-Lead-New-Commercialization-Unit-to-Accelerate-Growth-of-Innovative-Portfolio/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:eb362cbd08518057",
+      "titleEn": "ORZEYFUL (oveporexton) Approved in Japan as the First and Only Medicine to Treat the Underlying Cause of Narcolepsy Type 1",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260818063761/en/ORZEYFUL-oveporexton-Approved-in-Japan-as-the-First-and-Only-Medicine-to-Treat-the-Underlying-Cause-of-Narcolepsy-Type-1/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:5c58efdd88afd9d8",
       "titleEn": "Law Offices of Frank R. Cruz Encourages Taboola.com Ltd.",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260823271160/en/Law-Offices-of-Frank-R.-Cruz-Encourages-Taboola.com-Ltd.-TBLA-Shareholders-To-Inquire-About-Securities-Fraud-Class-Action/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:647d3668dcb4f7be",
-      "titleEn": "Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Signs New FF Par Agreement with a Leading U.S. Robotics Distributor and Provides Details on FF EAI Robotics “Built in USA” Business Partner Conference on August 26",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260823443458/en/Faraday-Future-Founder-and-Global-CEO-YT-Jia-Shares-Weekly-Investor-Update-Signs-New-FF-Par-Agreement-with-a-Leading-U.S.-Robotics-Distributor-and-Provides-Details-on-FF-EAI-Robotics-%E2%80%9CBuilt-in-USA%E2%80%9D-Business-Partner-Conference-on-August-26/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8fd839e5fa3e2d5a",
-      "titleEn": "PEGA Investors Have Opportunity to Join Pegasystems Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260823238745/en/PEGA-Investors-Have-Opportunity-to-Join-Pegasystems-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2f1a63602d583fe4",
-      "titleEn": "LEE Investors Have Opportunity to Join Lee Enterprises, Incorporated Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260823906661/en/LEE-Investors-Have-Opportunity-to-Join-Lee-Enterprises-Incorporated-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b5350c12494315fd",
-      "titleEn": "INV Investors Have Opportunity to Join Innventure, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260823854102/en/INV-Investors-Have-Opportunity-to-Join-Innventure-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:84501e9216c5be12",
-      "titleEn": "MELI Investors Have Opportunity to Join MercadoLibre, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260823302111/en/MELI-Investors-Have-Opportunity-to-Join-MercadoLibre-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cacf12c19f8c9a99",
-      "titleEn": "BANC Investors Have Opportunity to Join Banc of California, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260823585786/en/BANC-Investors-Have-Opportunity-to-Join-Banc-of-California-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
