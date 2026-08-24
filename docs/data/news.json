@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-24T14:09:33.323294Z",
+  "generatedAt": "2026-08-24T14:56:43.746064Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:5caf95d1b0acb121",
+      "titleEn": "Why Nvidia stock is slipping over 2% on Monday",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/24/why-nvidia-stock-is-slipping-over-2-on-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9c498f4cb355fecf",
+      "titleEn": "Gold rallies after Treasury buyback plan lowers long yields, India silver imports rebound under new regime – Heraeus",
+      "summaryEn": "(Kitco News) – Gold and silver are enjoying resurgent demand following the U.S. Treasury Department’s latest intervention in the bond market, while the appetite for the metals in Asia continues to rise, according to precious metals analysts at Heraeus. In their latest update, the analysts noted that gold prices rallied through resistance to reach their highest levels since early June last week. “Gold prices topped $4,600/oz on 21 August as prices once again moved higher after a couple of weeks of consolidation,” they wrote. “This mirrors the early-August rally where gold prices rose around 7%, after having spent the whole of July in a tight range near their yearly lows around $4,000/oz.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-24/gold-rallies-after-treasury-buyback-plan-lowers-long-yields-india-silver",
+      "published": null
+    },
     {
       "id": "stockanalysis:9319cfc04bffd1fa",
       "titleEn": "Intuit stock forecast ahead of earnings: buy, sell, or hold?",
@@ -58,75 +76,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:3637e429261e3a83",
-      "titleEn": "Why is Wall Street souring on PDD stock just before earnings?",
+      "id": "stockanalysis:ee60fc3cfb214a14",
+      "titleEn": "Law Offices of Howard G. Smith Encourages Taboola.com Ltd.",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/24/why-is-wall-street-souring-on-pdd-stock-just-before-earnings/",
+      "link": "https://www.businesswire.com/news/home/20260824689513/en/Law-Offices-of-Howard-G.-Smith-Encourages-Taboola.com-Ltd.-TBLA-Shareholders-To-Inquire-About-Securities-Fraud-Class-Action/",
       "published": null
     },
     {
-      "id": "stockanalysis:7774fdb7f9845791",
-      "titleEn": "FIS Says Purchase Data Will Push Payments Beyond the Transaction",
-      "summaryEn": "FIS Senior Vice President Jakob Harrison said the speed of technological and consumer change is the pressure payments companies cannot ignore. Harrison said he sees major shifts forming through a series of smaller developments rather than one defining event. FIS’ Smart Basket strategy reflects a bet that knowing what is being purchased can make payment data more useful.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/payments-innovation/2026/fis-says-purchase-data-will-push-payments-beyond-the-transaction/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:15dc1b1ff8780ca1",
-      "titleEn": "Rolls-Royce stock: The bull case is strong, but these risks could trigger a drop",
+      "id": "stockanalysis:a2daf3f085a24f00",
+      "titleEn": "ZoomInfo Announces Updates to ZoomInfo MCP on Salesforce's AgentExchange",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/24/rolls-royce-stock-the-bull-case-is-strong-but-these-risks-could-trigger-a-drop/",
+      "link": "https://www.businesswire.com/news/home/20260824304153/en/ZoomInfo-Announces-Updates-to-ZoomInfo-MCP-on-Salesforces-AgentExchange/",
       "published": null
     },
     {
-      "id": "stockanalysis:d359f737fb0425b4",
-      "titleEn": "Citi sees up to 410% upside in 2 biotech stocks: is the risk worth it?",
+      "id": "stockanalysis:3dfb4661c4e20b9b",
+      "titleEn": "L3Harris to Present at Upcoming Investor Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/24/citi-sees-up-to-410-upside-in-2-biotech-stocks-is-the-risk-worth-it/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1ef0ea5b714ffb11",
-      "titleEn": "Eurofins Scientific SE: Director/PDMR Shareholding",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824365141/en/Eurofins-Scientific-SE-DirectorPDMR-Shareholding/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d911637701b5d542",
-      "titleEn": "QIAGEN Appoints Jonathan M. Pratt as Chief Executive Officer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824298337/en/QIAGEN-Appoints-Jonathan-M.-Pratt-as-Chief-Executive-Officer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b77551098aa98096",
-      "titleEn": "Textron Appoints Brian Rohloff President and CEO of Textron Aviation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260823427898/en/Textron-Appoints-Brian-Rohloff-President-and-CEO-of-Textron-Aviation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a83b14cc4c1eb78e",
-      "titleEn": "Afya Limited Comments on Recent Public Disclosure Made by Yduqs Participações S.A. Regarding a Potential Business Combination",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824834301/en/Afya-Limited-Comments-on-Recent-Public-Disclosure-Made-by-Yduqs-Participa%C3%A7%C3%B5es-S.A.-Regarding-a-Potential-Business-Combination/",
+      "link": "https://www.businesswire.com/news/home/20260824125219/en/L3Harris-to-Present-at-Upcoming-Investor-Conference/",
       "published": null
     }
   ]
