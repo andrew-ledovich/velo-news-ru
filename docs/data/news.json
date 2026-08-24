@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T17:54:09.233799Z",
+  "generatedAt": "2026-08-24T18:22:52.307090Z",
   "sourceCount": 1,
   "count": 20,
   "items": [
@@ -139,6 +139,24 @@
       "published": null
     },
     {
+      "id": "stockanalysis:b6b0ae571e376eea",
+      "titleEn": "Knightscope to Unveil the Autonomous Security Force at GSX 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824153399/en/Knightscope-to-Unveil-the-Autonomous-Security-Force-at-GSX-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3dfc88628567aaf5",
+      "titleEn": "UWMC Stockholders Have Rights – If You Lost Money Investing in UWM Holdings Corporation Contact Robbins LLP for Information About Recovering Your Losses",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824816253/en/UWMC-Stockholders-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-UWM-Holdings-Corporation-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:121761125ba90087",
       "titleEn": "DLVT Investors Have Rights – If You Lost Money Investing in Datavault AI Inc. Contact Robbins LLP for Information About Recovering Your Losses",
       "summaryEn": null,
@@ -163,24 +181,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.businesswire.com/news/home/20260824863894/en/Elastic-Completes-Acquisition-of-Deductive-AI/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:621d2c8782b5b2ac",
-      "titleEn": "Protolabs Appoints Sam Ramahi as Chief Operations Officer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824532469/en/Protolabs-Appoints-Sam-Ramahi-as-Chief-Operations-Officer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ae5170bc97327717",
-      "titleEn": "AV to Invest $100 Million in New Unified Campus in Southern California",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824472005/en/AV-to-Invest-100-Million-in-New-Unified-Campus-in-Southern-California/",
       "published": null
     }
   ]
