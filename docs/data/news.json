@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-24T18:22:52.307090Z",
+  "generatedAt": "2026-08-24T19:07:48.867091Z",
   "sourceCount": 1,
   "count": 20,
   "items": [
+    {
+      "id": "stockanalysis:5212bcfd40a2a091",
+      "titleEn": "Can Nvidia's AI financing strategy be a boon for NVDA stock? This analyst says yes",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/24/can-nvidias-ai-financing-strategy-be-a-boon-for-nvda-stock-this-analyst-says-yes/",
+      "published": null
+    },
     {
       "id": "stockanalysis:e6bc7c4104034bf6",
       "titleEn": "MSTR stock rises as Strategy holds Bitcoin, builds $1.59B cash pool",
@@ -121,21 +130,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:9319cfc04bffd1fa",
-      "titleEn": "Intuit stock forecast ahead of earnings: buy, sell, or hold?",
+      "id": "stockanalysis:20aaea21035cd89d",
+      "titleEn": "Albany Engineered Composites to Showcase Advanced Composite Solutions at CAMX 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/24/intuit-stock-forecast-ahead-of-earnings-buy-sell-or-hold/",
+      "link": "https://www.businesswire.com/news/home/20260824749872/en/Albany-Engineered-Composites-to-Showcase-Advanced-Composite-Solutions-at-CAMX-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:b4d3b20a1e8b33ba",
-      "titleEn": "CoreWeave stock falls 3%, why this analyst sees 88% upside for the stock",
+      "id": "stockanalysis:aa51ae5eb06a9169",
+      "titleEn": "United Bankshares Declares Third Quarter Dividend and Announces New Stock Repurchase Program",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/24/coreweave-stock-falls-3-why-this-analyst-sees-88-upside-for-the-stock/",
+      "link": "https://www.businesswire.com/news/home/20260824105013/en/United-Bankshares-Declares-Third-Quarter-Dividend-and-Announces-New-Stock-Repurchase-Program/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:89652c85ca5fdf85",
+      "titleEn": "Guardant Health to Appeal Federal District Court Judgment",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824854156/en/Guardant-Health-to-Appeal-Federal-District-Court-Judgment/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3ef349d8bc7a4b8f",
+      "titleEn": "Teradyne Declares Quarterly Cash Dividend",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824191384/en/Teradyne-Declares-Quarterly-Cash-Dividend/",
       "published": null
     },
     {
@@ -154,33 +181,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260824816253/en/UWMC-Stockholders-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-UWM-Holdings-Corporation-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:121761125ba90087",
-      "titleEn": "DLVT Investors Have Rights – If You Lost Money Investing in Datavault AI Inc. Contact Robbins LLP for Information About Recovering Your Losses",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260824093571/en/DLVT-Investors-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-Datavault-AI-Inc.-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses-%C2%A0/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c96ceb7b0f578367",
-      "titleEn": "Ancora Reaffirms Offer to Acquire H.B. Fuller's BAS Segment",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824311227/en/Ancora-Reaffirms-Offer-to-Acquire-H.B.-Fuller%E2%80%99s-BAS-Segment/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e1e571cb6df1971d",
-      "titleEn": "Elastic Completes Acquisition of Deductive AI",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260824863894/en/Elastic-Completes-Acquisition-of-Deductive-AI/",
       "published": null
     }
   ]
