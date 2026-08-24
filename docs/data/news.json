@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-24T08:09:36.349849Z",
+  "generatedAt": "2026-08-24T09:01:14.028144Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:3637e429261e3a83",
+      "titleEn": "Why is Wall Street souring on PDD stock just before earnings?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/24/why-is-wall-street-souring-on-pdd-stock-just-before-earnings/",
+      "published": null
+    },
     {
       "id": "stockanalysis:7774fdb7f9845791",
       "titleEn": "FIS Says Purchase Data Will Push Payments Beyond the Transaction",
@@ -94,6 +103,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:4a6f787387017240",
+      "titleEn": "Daiichi Sankyo Appoints Markus Kosch to Lead Europe Business as Part of New Commercialization Organization",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260821102599/en/Daiichi-Sankyo-Appoints-Markus-Kosch-to-Lead-Europe-Business-as-Part-of-New-Commercialization-Organization/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:e812d9d61ccbaa86",
       "titleEn": "Paysafe Launches Video Gaming Arena to Connect Publishers with Millions of Gamers",
       "summaryEn": null,
@@ -127,15 +145,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260818063761/en/ORZEYFUL-oveporexton-Approved-in-Japan-as-the-First-and-Only-Medicine-to-Treat-the-Underlying-Cause-of-Narcolepsy-Type-1/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5c58efdd88afd9d8",
-      "titleEn": "Law Offices of Frank R. Cruz Encourages Taboola.com Ltd.",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260823271160/en/Law-Offices-of-Frank-R.-Cruz-Encourages-Taboola.com-Ltd.-TBLA-Shareholders-To-Inquire-About-Securities-Fraud-Class-Action/",
       "published": null
     }
   ]
