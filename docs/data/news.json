@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T22:14:02.479208Z",
+  "generatedAt": "2026-08-24T22:43:55.548805Z",
   "sourceCount": 1,
   "count": 13,
   "items": [
@@ -103,21 +103,21 @@
       "published": null
     },
     {
+      "id": "stockanalysis:4515bebd13af8bd2",
+      "titleEn": "The Lancet Neurology Publishes Data From Alkermes' Positive Vibrance-1 Phase 2 Study of Alixorexton in Adults With Narcolepsy Type 1",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824378408/en/The-Lancet-Neurology-Publishes-Data-From-Alkermes%E2%80%99-Positive-Vibrance-1-Phase-2-Study-of-Alixorexton-in-Adults-With-Narcolepsy-Type-1/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:abc46b48b61ffb0e",
       "titleEn": "Faraday Future Eliminates 237,615 Potential Warrants, Continuously Optimizing Capital Structure to Support Its Robotics Strategy",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260824542725/en/Faraday-Future-Eliminates-237615-Potential-Warrants-Continuously-Optimizing-Capital-Structure-to-Support-Its-Robotics-Strategy/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bf0cb0459e8902eb",
-      "titleEn": "UL Solutions Launches Retail Total Access™ Software to Help Retailers Manage Supply Chain Quality and Risk",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824027330/en/UL-Solutions-Launches-Retail-Total-Access%E2%84%A2-Software-to-Help-Retailers-Manage-Supply-Chain-Quality-and-Risk/",
       "published": null
     }
   ]
