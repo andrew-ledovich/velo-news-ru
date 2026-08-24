@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-24T04:05:19.045994Z",
+  "generatedAt": "2026-08-24T04:58:21.319503Z",
   "sourceCount": 1,
   "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:568b8113311737a9",
+      "titleEn": "Here's why the Alibaba stock is crashing in Hong Kong today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/24/heres-why-the-alibaba-stock-is-crashing-in-hong-kong-today/",
+      "published": null
+    },
     {
       "id": "stockanalysis:004dcc8247846e89",
       "titleEn": "Why is Samsung stock crashing 8% despite record $80B shareholder return?",
@@ -46,15 +55,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://techxplore.com/news/2026-08-uber-fined-billion-dutch-automated.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:341421f59d77a981",
-      "titleEn": "Can Bumble, Tinder make a comeback as users leave apps",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/22/can-bumble-tinder-make-a-comeback-as-more-users-leave-apps/",
       "published": null
     },
     {
