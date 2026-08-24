@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-24T16:52:56.967899Z",
+  "generatedAt": "2026-08-24T17:21:24.032861Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:56ceb9747c006309",
+      "titleEn": "Xpeng earnings reveal 'positives' - just not in the core EV business",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/08/24/xpeng-earnings-reveal-positives-just-not-in-the-core-ev-business/",
+      "published": null
+    },
     {
       "id": "stockanalysis:de83cb1648eb9c57",
       "titleEn": "Why are Micron, SK Hynix, SanDisk stocks falling today?",
@@ -130,12 +139,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:50e6c93b483fa840",
-      "titleEn": "S&amp;P 500 and VOO ETF outlooks: Nvidia earnings and other catalysts for US stocks",
+      "id": "stockanalysis:621d2c8782b5b2ac",
+      "titleEn": "Protolabs Appoints Sam Ramahi as Chief Operations Officer",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/24/sp-500-and-voo-etf-outlooks-nvidia-earnings-and-other-catalysts-for-us-stocks/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824532469/en/Protolabs-Appoints-Sam-Ramahi-as-Chief-Operations-Officer/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ae5170bc97327717",
+      "titleEn": "AV to Invest $100 Million in New Unified Campus in Southern California",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824472005/en/AV-to-Invest-100-Million-in-New-Unified-Campus-in-Southern-California/",
       "published": null
     },
     {
@@ -154,33 +172,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260824048911/en/BellRing-Brands-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-BellRing-Brands-Inc.---BRBR/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1626d57b07fbd30e",
-      "titleEn": "Freeport-McMoRan Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of Freeport-McMoRan Inc. - FCX",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824180889/en/Freeport-McMoRan-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-Freeport-McMoRan-Inc.---FCX/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:75e64606ef464831",
-      "titleEn": "Sarepta Therapeutics Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of Sarepta Therapeutics, Inc. - SRPT",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824327976/en/Sarepta-Therapeutics-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-Sarepta-Therapeutics-Inc.---SRPT/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:29a73a3d9a23213a",
-      "titleEn": "Infleqtion Collaboration with Japan Moonshot Program Achieves Major Milestone: \"Shunkai\" Neutral Atom Quantum Computer Now Operational",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824806433/en/Infleqtion-Collaboration-with-Japan-Moonshot-Program-Achieves-Major-Milestone-Shunkai-Neutral-Atom-Quantum-Computer-Now-Operational/",
       "published": null
     }
   ]
