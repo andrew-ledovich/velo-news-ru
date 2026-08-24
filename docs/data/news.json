@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-24T00:36:23.195288Z",
+  "generatedAt": "2026-08-24T02:10:59.879107Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 16,
   "items": [
     {
       "id": "stockanalysis:3937063b69cc92b8",
@@ -58,12 +58,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:4b53c2707173e444",
-      "titleEn": "Fifth Third Backs Payload's Embedded Payments Expansion",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Payload was founded in late 2019, processed its first payment in January 2020 and processed nearly $500 million in May alone, according to the release. The company has become a leading processor of earnest money deposits for the residential real estate market in the United States and Canada; has been embraced by legal payments, professional services, property management, homebuilding and franchises; and has been selected by a growing number of software companies to be embedded in their products, the release said.",
+      "id": "stockanalysis:5c58efdd88afd9d8",
+      "titleEn": "Law Offices of Frank R. Cruz Encourages Taboola.com Ltd.",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/fifth-third-backs-payloads-embedded-payments-expansion/",
+      "link": "https://www.businesswire.com/news/home/20260823271160/en/Law-Offices-of-Frank-R.-Cruz-Encourages-Taboola.com-Ltd.-TBLA-Shareholders-To-Inquire-About-Securities-Fraud-Class-Action/",
       "published": null
     },
     {
@@ -145,15 +145,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260823451395/en/Alibaba-Group-Announced-Pricing-of-HK80-Billion-Placing-of-New-Shares-in-Hong-Kong/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:57f0171c801d9706",
-      "titleEn": "ITGR Investors Have Opportunity to Join Integer Holdings Corporation Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260823711418/en/ITGR-Investors-Have-Opportunity-to-Join-Integer-Holdings-Corporation-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
