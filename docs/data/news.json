@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-24T03:14:28.194892Z",
+  "generatedAt": "2026-08-24T04:05:19.045994Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:004dcc8247846e89",
+      "titleEn": "Why is Samsung stock crashing 8% despite record $80B shareholder return?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/24/why-is-samsung-stock-crashing-8-despite-record-80b-shareholder-return/",
+      "published": null
+    },
     {
       "id": "stockanalysis:23aff7fddbe7c693",
       "titleEn": "Kospi Index outlook: top catalysts for South Korean stocks this week",
@@ -46,24 +55,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/22/can-bumble-tinder-make-a-comeback-as-more-users-leave-apps/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:97e076140d80c931",
-      "titleEn": "What do Walmart's and Target's results say about the US consumer?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/22/what-do-walmarts-and-targets-results-say-about-the-us-consumer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fefca7ff563efb4a",
-      "titleEn": "S&amp;P 500 record masks $1.5 trillion leverage trap beneath Wall Street's AI boom",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/22/sp-500-record-masks-1-5-trillion-leverage-trap-beneath-wall-streets-ai-boom/",
       "published": null
     },
     {
@@ -145,15 +136,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260823207480/en/ESYJY-Investors-Have-Opportunity-to-Join-easyJet-plc-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:136a0ca06ab7de5a",
-      "titleEn": "Alibaba Group Announced Pricing of HK$80 Billion Placing of New Shares in Hong Kong",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260823451395/en/Alibaba-Group-Announced-Pricing-of-HK80-Billion-Placing-of-New-Shares-in-Hong-Kong/",
       "published": null
     }
   ]
