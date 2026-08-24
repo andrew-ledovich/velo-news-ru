@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-24T22:43:55.548805Z",
+  "generatedAt": "2026-08-24T23:01:25.906757Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:77d81a41abfbdd39",
+      "titleEn": "Kroger and Instacart Bundle Groceries and Prescriptions in One Delivery",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); This capability is delivered through the company’s websites and apps, and it is powered by grocery technology company Instacart , according to the release. Eligible prescriptions are filled and verified by Kroger pharmacy teams, secured in tamper-resistant packaging and delivered directly from the local store to the customer’s door by an Instacart shopper. Customers can choose to have the delivery handed directly to them or left at their door, the release said.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/delivery/2026/kroger-and-instacart-bundle-groceries-and-prescriptions-in-one-delivery/",
+      "published": null
+    },
     {
       "id": "stockanalysis:cedd5e48eb074d75",
       "titleEn": "Gold rises, silver slips as fiscal-risk trade holds - Kitco PM Report",
@@ -103,21 +112,21 @@
       "published": null
     },
     {
+      "id": "stockanalysis:af487be625fbb86b",
+      "titleEn": "Secretary of War Pete Hegseth Visits Oshkosh Corporation, Highlighting the Strength of American Manufacturing and the Arsenal of Freedom",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824217232/en/Secretary-of-War-Pete-Hegseth-Visits-Oshkosh-Corporation-Highlighting-the-Strength-of-American-Manufacturing-and-the-Arsenal-of-Freedom/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:4515bebd13af8bd2",
       "titleEn": "The Lancet Neurology Publishes Data From Alkermes' Positive Vibrance-1 Phase 2 Study of Alixorexton in Adults With Narcolepsy Type 1",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260824378408/en/The-Lancet-Neurology-Publishes-Data-From-Alkermes%E2%80%99-Positive-Vibrance-1-Phase-2-Study-of-Alixorexton-in-Adults-With-Narcolepsy-Type-1/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:abc46b48b61ffb0e",
-      "titleEn": "Faraday Future Eliminates 237,615 Potential Warrants, Continuously Optimizing Capital Structure to Support Its Robotics Strategy",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824542725/en/Faraday-Future-Eliminates-237615-Potential-Warrants-Continuously-Optimizing-Capital-Structure-to-Support-Its-Robotics-Strategy/",
       "published": null
     }
   ]
