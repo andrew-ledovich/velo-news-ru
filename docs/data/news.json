@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-25T21:16:33.522842Z",
+  "generatedAt": "2026-08-25T21:49:57.681856Z",
   "sourceCount": 1,
-  "count": 7,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:7090cc81aa85bbff",
+      "titleEn": "Gold is having its best month since 1999. A former banker told me most people still aren't protected",
+      "summaryEn": "(Kitco News) - Five up weeks. On pace for the best month since 1999. And at around $4,650, gold is still nowhere near the record it set in late January. .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } The rest of the picture: a 30-year Treasury yield that touched 5.34% last week, close to a 20-year high. Federal debt over $40 trillion. And on September 9 the Treasury doubles the size of its buybacks of long-dated bonds, from $2 billion an operation to at least $4 billion. Buying its own bonds props up the price, which pushes down the interest rate the government pays on the next lot.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-25/gold-having-its-best-month-1999-former-banker-told-me-most-people-still",
+      "published": null
+    },
     {
       "id": "stockanalysis:eaf82dd1e618a0f2",
       "titleEn": "Amazon Clothing Share Doubles as Walmart Loses Ground",
@@ -40,30 +49,57 @@
       "published": null
     },
     {
+      "id": "stockanalysis:b71dfdadcdd33295",
+      "titleEn": "Papa Johns Completes Strategic Refranchising of Orlando-area Restaurants with Franchisee Wade Oney",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825584354/en/Papa-Johns-Completes-Strategic-Refranchising-of-Orlando-area-Restaurants-with-Franchisee-Wade-Oney/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d7997c8cc68d6495",
+      "titleEn": "Copper Property CTL Pass Through Trust Schedules Live Call to Discuss Recent Financial and Operating Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825092325/en/Copper-Property-CTL-Pass-Through-Trust-Schedules-Live-Call-to-Discuss-Recent-Financial-and-Operating-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:447ca624924b83b7",
+      "titleEn": "Hertz Car Sales Introduces 100K Mile Protection, Raising the Bar for Confidence in Used Vehicle Ownership",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825691956/en/Hertz-Car-Sales-Introduces-100K-Mile-Protection-Raising-the-Bar-for-Confidence-in-Used-Vehicle-Ownership/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c58562f40a306976",
+      "titleEn": "Franklin Templeton, Inc. Announces Quarterly Dividend",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825526841/en/Franklin-Templeton-Inc.-Announces-Quarterly-Dividend/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d443b25f3209363e",
+      "titleEn": "Kohl's Names Arianne Parisi Chief Customer Officer",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825325882/en/Kohls-Names-Arianne-Parisi-Chief-Customer-Officer/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:c4878afd7bb8ff94",
       "titleEn": "D-Wave Quantum Announces the Resignation of Chief Financial Officer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260825137467/en/D-Wave-Quantum-Announces-the-Resignation-of-Chief-Financial-Officer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:eda569fef5bd5326",
-      "titleEn": "CBRE Global Real Estate Income Fund (NYSE: IGR) Announces Approval of 1-for-3 Reverse Stock Split and Adjustment to Monthly Distribution",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825300024/en/CBRE-Global-Real-Estate-Income-Fund-NYSE-IGR-Announces-Approval-of-1-for-3-Reverse-Stock-Split-and-Adjustment-to-Monthly-Distribution/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d762b87330d2ba3c",
-      "titleEn": "Exelon Announces Key Leadership Position Changes",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825874965/en/Exelon-Announces-Key-Leadership-Position-Changes/",
       "published": null
     }
   ]
