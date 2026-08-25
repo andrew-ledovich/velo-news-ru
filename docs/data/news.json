@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T08:56:58.393287Z",
+  "generatedAt": "2026-08-25T09:28:28.332233Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 7,
   "items": [
     {
       "id": "stockanalysis:77d81a41abfbdd39",
@@ -49,39 +49,21 @@
       "published": null
     },
     {
+      "id": "stockanalysis:ce456710d3e3e9bc",
+      "titleEn": "FreeCast Targets the Global Media Monetization Layer Above Telecom, Satellite and Broadband Connectivity",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825254647/en/FreeCast-Targets-the-Global-Media-Monetization-Layer-Above-Telecom-Satellite-and-Broadband-Connectivity/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:6be0716ab982f017",
       "titleEn": "payabl. Teams Up with Visa to Help Merchants Quickly Resolve Disputes and Prevent Costly Chargebacks",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260825680184/en/payabl.-Teams-Up-with-Visa-to-Help-Merchants-Quickly-Resolve-Disputes-and-Prevent-Costly-Chargebacks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3b2de084840c2280",
-      "titleEn": "H1 Interim Financial Results 2026: Cadeler delivers on its strategy, with strong financial results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824046544/en/H1-Interim-Financial-Results-2026-Cadeler-delivers-on-its-strategy-with-strong-financial-results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3a04c9e1c5c6fd97",
-      "titleEn": "IFF Report Finds GLP-1 Is Reshaping Food Choices and Eating Behaviors Among Indian Consumers",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824816059/en/IFF-Report-Finds-GLP-1-Is-Reshaping-Food-Choices-and-Eating-Behaviors-Among-Indian-Consumers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e0034176c937ae77",
-      "titleEn": "Nordson Electronics Solutions Launches the New ASYMTEK Vantage® XL Fluid Dispensing System for Panel-Level Packaging at SEMICON Taiwan 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824902976/en/Nordson-Electronics-Solutions-Launches-the-New-ASYMTEK-Vantage%C2%AE-XL-Fluid-Dispensing-System-for-Panel-Level-Packaging-at-SEMICON-Taiwan-2026/",
       "published": null
     }
   ]
