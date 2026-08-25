@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T19:52:11.817397Z",
+  "generatedAt": "2026-08-25T20:15:56.421618Z",
   "sourceCount": 1,
-  "count": 7,
+  "count": 4,
   "items": [
     {
       "id": "stockanalysis:12679523b8135b9a",
@@ -37,33 +37,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-25/gold-sees-further-profit-taking-even-us-consumer-confidence-drops-894",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ca7a34db07432b2e",
-      "titleEn": "Gold price remains under pressure as U.S. new home sales fall 10.5% in July",
-      "summaryEn": "(Kitco News) - The gold market continues to see modest selling pressure, the result of some profit-taking after testing resistance at $4,700 an ounce overnight; however, according to some analysts, the precious metal remains well supported as an important safe-haven asset as the U.S. housing sector continues to struggle. New home sales dropped 10.5% last month, the U.S. Census Bureau and the U.S. Department of Housing and Urban Development announced. New home sales came in at a seasonally adjusted annualized rate of 607,000 in July. The numbers were significantly weaker than forecasts, as the market consensus expected sales of 620,000 units. June’s sales were also revised up to 678,000.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-25/gold-price-remains-under-pressure-us-new-home-sales-fall-105-july",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0d2ba4d79e792fc3",
-      "titleEn": "TriState Capital Bank Named a Leading Equipment Finance Company by Monitor for 7th Consecutive Year",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825261135/en/TriState-Capital-Bank-Named-a-Leading-Equipment-Finance-Company-by-Monitor-for-7th-Consecutive-Year/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0f7f6b50a6ea038b",
-      "titleEn": "XCENA Details MX1 Architecture Integrating Memory Expansion and Near-Memory Computing at Hot Chips 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20260825275952/en/XCENA-Details-MX1-Architecture-Integrating-Memory-Expansion-and-Near-Memory-Computing-at-Hot-Chips-2026/",
       "published": null
     }
   ]
