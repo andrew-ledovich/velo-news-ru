@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T17:13:55.073355Z",
+  "generatedAt": "2026-08-25T17:45:01.178040Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:ebb3e2d9df31d2cc",
@@ -37,6 +37,24 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-08-25/gold-slips-three-month-high-treasury-buybacks-iran-risk-frame-trade-kitco",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:39c56d69fc0af7e1",
+      "titleEn": "TechCreate Group Ltd. to Request Review of NYSE Panel Decision",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825749053/en/TechCreate-Group-Ltd.-to-Request-Review-of-NYSE-Panel-Decision/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:765a9c47c8e35733",
+      "titleEn": "Nihon Kohden Expands Executive Leadership to Support Continued Growth and Customer Experience",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825971468/en/Nihon-Kohden-Expands-Executive-Leadership-to-Support-Continued-Growth-and-Customer-Experience/",
       "published": null
     },
     {
