@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T09:28:28.332233Z",
+  "generatedAt": "2026-08-25T09:59:45.307184Z",
   "sourceCount": 1,
-  "count": 7,
+  "count": 5,
   "items": [
     {
       "id": "stockanalysis:77d81a41abfbdd39",
@@ -40,30 +40,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5212bcfd40a2a091",
-      "titleEn": "Can Nvidia's AI financing strategy be a boon for NVDA stock? This analyst says yes",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/24/can-nvidias-ai-financing-strategy-be-a-boon-for-nvda-stock-this-analyst-says-yes/",
-      "published": null
-    },
-    {
       "id": "stockanalysis:ce456710d3e3e9bc",
       "titleEn": "FreeCast Targets the Global Media Monetization Layer Above Telecom, Satellite and Broadband Connectivity",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260825254647/en/FreeCast-Targets-the-Global-Media-Monetization-Layer-Above-Telecom-Satellite-and-Broadband-Connectivity/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6be0716ab982f017",
-      "titleEn": "payabl. Teams Up with Visa to Help Merchants Quickly Resolve Disputes and Prevent Costly Chargebacks",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825680184/en/payabl.-Teams-Up-with-Visa-to-Help-Merchants-Quickly-Resolve-Disputes-and-Prevent-Costly-Chargebacks/",
       "published": null
     }
   ]
