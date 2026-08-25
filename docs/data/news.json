@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T04:32:17.315751Z",
+  "generatedAt": "2026-08-25T05:15:28.409521Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:77d81a41abfbdd39",
@@ -58,6 +58,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:c907c154bec7ec87",
+      "titleEn": "Woodside Energy Half-Year Report for Period Ended 30 June 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824865396/en/Woodside-Energy-Half-Year-Report-for-Period-Ended-30-June-2026/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:b538e98e48fdc393",
       "titleEn": "KKR Acquires Leading Japanese Beauty Platform Ci FLAVORS",
       "summaryEn": null,
@@ -100,24 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260824385267/en/Wolters-Kluwer-and-Dentsu-Soken-Deliver-CCH%C2%AE-Tagetik-as-Daihatsu-Motors-Budget-Management-System/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:846de6a5ad7fbf3f",
-      "titleEn": "Interactive Brokers Announces Strategic Collaboration with Daol Investment &amp; Securities",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824429329/en/Interactive-Brokers-Announces-Strategic-Collaboration-with-Daol-Investment-Securities/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:78e5860cca9549c3",
-      "titleEn": "Semtech Hosts LoRa® Ecosystem Forum at IOTE 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824880482/en/Semtech-Hosts-LoRa%C2%AE-Ecosystem-Forum-at-IOTE-2026/",
       "published": null
     }
   ]
