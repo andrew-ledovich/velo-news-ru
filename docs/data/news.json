@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-25T20:15:56.421618Z",
+  "generatedAt": "2026-08-25T20:52:05.964313Z",
   "sourceCount": 1,
-  "count": 4,
+  "count": 7,
   "items": [
+    {
+      "id": "stockanalysis:eaf82dd1e618a0f2",
+      "titleEn": "Amazon Clothing Share Doubles as Walmart Loses Ground",
+      "summaryEn": "Amazon’s estimated clothing sales reached 2.8 times Walmart’s in 2025, up from 1.15 times in 2019. The Amazon-Walmart clothing revenue gap widened to $19.7 billion in Q2 2026 from $15.3 billion a year earlier. Walmart’s latest earnings show strong growth in selected fashion brands even as its overall clothing share remains below its 2019 level.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/retail/2026/amazon-clothing-share-doubles-as-walmart-loses-ground/",
+      "published": null
+    },
     {
       "id": "stockanalysis:12679523b8135b9a",
       "titleEn": "Natixis raises gold price target to $5,000 as U.S. debt and bond market fears mount",
@@ -31,12 +40,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1ca1744f728329b8",
-      "titleEn": "Gold sees profit taking even as US consumer confidence drops 89.4",
-      "summaryEn": "(Kitco News) - The gold market continues to face modest selling pressure even as consumer confidence in the U.S. falls to its lowest level since the start of the year. The Consumer Confidence Index fell to 89.4 in August, compared to July’s reading of 90.8. The data was also below economists’ consensus forecast for a reading of 90.3. According to the report, consumer pessimism was driven by future expectations. The Present Situation Index—based on consumers&#x27; assessment of current business and labor market conditions—rose by 6.8 points to 121.2, ending three consecutive monthly declines, the report said. The Expectations Index—based on consumers&#x27; short-term outlook for income, business, and labor market conditions—dropped by 5.8 points to 68.2.",
+      "id": "stockanalysis:d762b87330d2ba3c",
+      "titleEn": "Exelon Announces Key Leadership Position Changes",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-25/gold-sees-further-profit-taking-even-us-consumer-confidence-drops-894",
+      "link": "https://www.businesswire.com/news/home/20260825874965/en/Exelon-Announces-Key-Leadership-Position-Changes/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:92b855a9f865b0eb",
+      "titleEn": "Dell Technologies to Present at Investor Conferences in September",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825976261/en/Dell-Technologies-to-Present-at-Investor-Conferences-in-September/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f576d171562b3e05",
+      "titleEn": "Strattec Transformation Delivers Margin Improvement and Strong Cash Generation in Fiscal 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825826321/en/Strattec-Transformation-Delivers-Margin-Improvement-and-Strong-Cash-Generation-in-Fiscal-2026/",
       "published": null
     }
   ]
