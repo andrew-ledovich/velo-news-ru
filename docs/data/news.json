@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T20:52:05.964313Z",
+  "generatedAt": "2026-08-25T21:16:33.522842Z",
   "sourceCount": 1,
   "count": 7,
   "items": [
@@ -40,30 +40,30 @@
       "published": null
     },
     {
+      "id": "stockanalysis:c4878afd7bb8ff94",
+      "titleEn": "D-Wave Quantum Announces the Resignation of Chief Financial Officer",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825137467/en/D-Wave-Quantum-Announces-the-Resignation-of-Chief-Financial-Officer/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:eda569fef5bd5326",
+      "titleEn": "CBRE Global Real Estate Income Fund (NYSE: IGR) Announces Approval of 1-for-3 Reverse Stock Split and Adjustment to Monthly Distribution",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825300024/en/CBRE-Global-Real-Estate-Income-Fund-NYSE-IGR-Announces-Approval-of-1-for-3-Reverse-Stock-Split-and-Adjustment-to-Monthly-Distribution/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:d762b87330d2ba3c",
       "titleEn": "Exelon Announces Key Leadership Position Changes",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260825874965/en/Exelon-Announces-Key-Leadership-Position-Changes/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:92b855a9f865b0eb",
-      "titleEn": "Dell Technologies to Present at Investor Conferences in September",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825976261/en/Dell-Technologies-to-Present-at-Investor-Conferences-in-September/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f576d171562b3e05",
-      "titleEn": "Strattec Transformation Delivers Margin Improvement and Strong Cash Generation in Fiscal 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825826321/en/Strattec-Transformation-Delivers-Margin-Improvement-and-Strong-Cash-Generation-in-Fiscal-2026/",
       "published": null
     }
   ]
