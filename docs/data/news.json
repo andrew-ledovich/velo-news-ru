@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T08:04:48.045897Z",
+  "generatedAt": "2026-08-25T08:56:58.393287Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 9,
   "items": [
     {
       "id": "stockanalysis:77d81a41abfbdd39",
@@ -49,12 +49,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:e6bc7c4104034bf6",
-      "titleEn": "MSTR stock rises as Strategy holds Bitcoin, builds $1.59B cash pool",
+      "id": "stockanalysis:6be0716ab982f017",
+      "titleEn": "payabl. Teams Up with Visa to Help Merchants Quickly Resolve Disputes and Prevent Costly Chargebacks",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/24/mstr-stock-rises-as-strategy-holds-bitcoin-builds-1-59b-cash-pool/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825680184/en/payabl.-Teams-Up-with-Visa-to-Help-Merchants-Quickly-Resolve-Disputes-and-Prevent-Costly-Chargebacks/",
       "published": null
     },
     {
@@ -82,24 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260824902976/en/Nordson-Electronics-Solutions-Launches-the-New-ASYMTEK-Vantage%C2%AE-XL-Fluid-Dispensing-System-for-Panel-Level-Packaging-at-SEMICON-Taiwan-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c907c154bec7ec87",
-      "titleEn": "Woodside Energy Half-Year Report for Period Ended 30 June 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824865396/en/Woodside-Energy-Half-Year-Report-for-Period-Ended-30-June-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b538e98e48fdc393",
-      "titleEn": "KKR Acquires Leading Japanese Beauty Platform Ci FLAVORS",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824338897/en/KKR-Acquires-Leading-Japanese-Beauty-Platform-Ci-FLAVORS/",
       "published": null
     }
   ]
