@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-25T22:14:30.819881Z",
+  "generatedAt": "2026-08-25T22:45:15.052060Z",
   "sourceCount": 1,
   "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:d6b3285b734f096d",
+      "titleEn": "Canada's BMO and Scotiabank Beat Earnings Targets as Trade War Escalates",
+      "summaryEn": "Canadian banks are not being harmed by the effects of new U.S. tariffs that impact some of their customers, and the banks may even find new opportunities, Reuters reported Tuesday (Aug. 25). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Bank of Montreal ( BMO ) and Bank of Nova Scotia ( Scotiabank ) reported earnings Tuesday that beat quarterly profit estimates, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/canadas-bmo-and-scotiabank-beat-earnings-targets-as-trade-war-escalates/",
+      "published": null
+    },
     {
       "id": "stockanalysis:7090cc81aa85bbff",
       "titleEn": "Gold is having its best month since 1999. A former banker told me most people still aren't protected",
@@ -49,6 +58,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:e15c7f01b8fdbbbc",
+      "titleEn": "Ivonescimab Plus Chemotherapy Demonstrates Statistically Significant Overall Survival Benefit Compared to Durvalumab Plus Chemotherapy in First-Line Advanced Biliary Tract Cancer in Single-Region Trial Conducted by Akeso in China",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825861058/en/Ivonescimab-Plus-Chemotherapy-Demonstrates-Statistically-Significant-Overall-Survival-Benefit-Compared-to-Durvalumab-Plus-Chemotherapy-in-First-Line-Advanced-Biliary-Tract-Cancer-in-Single-Region-Trial-Conducted-by-Akeso-in-China/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:b71dfdadcdd33295",
       "titleEn": "Papa Johns Completes Strategic Refranchising of Orlando-area Restaurants with Franchisee Wade Oney",
       "summaryEn": null,
@@ -64,24 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260825092325/en/Copper-Property-CTL-Pass-Through-Trust-Schedules-Live-Call-to-Discuss-Recent-Financial-and-Operating-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:447ca624924b83b7",
-      "titleEn": "Hertz Car Sales Introduces 100K Mile Protection, Raising the Bar for Confidence in Used Vehicle Ownership",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825691956/en/Hertz-Car-Sales-Introduces-100K-Mile-Protection-Raising-the-Bar-for-Confidence-in-Used-Vehicle-Ownership/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c58562f40a306976",
-      "titleEn": "Franklin Templeton, Inc. Announces Quarterly Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825526841/en/Franklin-Templeton-Inc.-Announces-Quarterly-Dividend/",
       "published": null
     }
   ]
