@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-25T14:25:52.132802Z",
+  "generatedAt": "2026-08-25T15:11:41.445894Z",
   "sourceCount": 1,
-  "count": 3,
+  "count": 4,
   "items": [
+    {
+      "id": "stockanalysis:1ca1744f728329b8",
+      "titleEn": "Gold sees profit taking even as US consumer confidence drops 89.4",
+      "summaryEn": "(Kitco News) - The gold market continues to face modest selling pressure even as consumer confidence in the U.S. falls to its lowest level since the start of the year. The Consumer Confidence Index fell to 89.4 in August, down from July’s 90.8. The data was also below the economists’ consensus forecast of 90.3. According to the report, consumer pessimism was driven by future expectations. The Present Situation Index—based on consumers&#x27; assessment of current business and labor market conditions—rose by 6.8 points to 121.2, ending three consecutive monthly declines, the report said. The Expectations Index—based on consumers&#x27; short-term outlook for income, business, and labor market conditions—dropped by 5.8 points to 68.2.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-25/gold-sees-further-profit-taking-even-us-consumer-confidence-drops-894",
+      "published": null
+    },
     {
       "id": "stockanalysis:ca7a34db07432b2e",
       "titleEn": "Gold price remains under pressure as U.S. new home sales fall 10.5% in July",
