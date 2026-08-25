@@ -1,15 +1,24 @@
 {
-  "generatedAt": "2026-08-25T12:51:05.016615Z",
+  "generatedAt": "2026-08-25T13:39:54.236268Z",
   "sourceCount": 1,
-  "count": 1,
+  "count": 2,
   "items": [
     {
-      "id": "stockanalysis:77d81a41abfbdd39",
-      "titleEn": "Kroger and Instacart Bundle Groceries and Prescriptions in One Delivery",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); This capability is delivered through the company’s websites and apps, and it is powered by grocery technology company Instacart , according to the release. Eligible prescriptions are filled and verified by Kroger pharmacy teams, secured in tamper-resistant packaging and delivered directly from the local store to the customer’s door by an Instacart shopper. Customers can choose to have the delivery handed directly to them or left at their door, the release said.",
+      "id": "stockanalysis:0a35935ed5477767",
+      "titleEn": "Gold slips from three-month high as Treasury buybacks, Iran risk frame trade - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices are modestly lower, while spot silver prices are seeing a deeper struggle in early U.S. trading on Tuesday, as a firmer U.S. dollar prompted some profit-taking after gold briefly approached the $4,700-an-ounce area overnight. At the time of writing, spot gold was trading near $4,634.90 an ounce, down 0.34%, while spot silver was trading at $67.900, down 1.36% on the session. The latest market positioning remains split between softer growth data and a Fed that still has not defeated inflation. July nonfarm payrolls fell by 23,000, CPI slowed to 3.4% year over year and core CPI eased to 2.5%, but the July FOMC minutes showed three policymakers favored a 25-basis-point hike and many participants remained open to higher rates if inflation fails to cool. Fed funds pricing has moved away from a clean easing narrative, with traders now focused on Wednesday’s PCE inflation report and Fed Chair Kevin Warsh’s Jackson Hole speech Friday for confirmation that the current 3.50% to 3.75% target range is restrictive enough. The U.S. Treasury Department’s long-end buyback plan remains the dominant cross-asset story. Treasury is planning to at least double liquidity-support buybacks in the 10-year to 20-year and 20-year to 30-year sectors to at least $4 billion per operation from $2 billion, starting Sept. 9 and running through Nov. 4. The initial decline in long yields has faded, leaving the 10-year Treasury yield near the 4.7% area and the 30-year yield still above 5.2%. That mix has unsettled global bond markets, supported the dollar at the margin and strengthened gold’s appeal as a hedge against sovereign-debt stress, fiscal credibility risk and possible currency debasement.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-25/gold-slips-three-month-high-treasury-buybacks-iran-risk-frame-trade-kitco",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:757f4cdd41daf57b",
+      "titleEn": "Thryv Named to Selling Power Magazine's 60 Best Companies to Sell For 2026 List",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/delivery/2026/kroger-and-instacart-bundle-groceries-and-prescriptions-in-one-delivery/",
+      "link": "https://www.businesswire.com/news/home/20260825720604/en/Thryv-Named-to-Selling-Power-Magazine%E2%80%99s-60-Best-Companies-to-Sell-For-2026-List/",
       "published": null
     }
   ]
