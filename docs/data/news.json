@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T22:45:15.052060Z",
+  "generatedAt": "2026-08-25T23:15:31.746908Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 8,
   "items": [
     {
       "id": "stockanalysis:d6b3285b734f096d",
@@ -73,15 +73,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260825584354/en/Papa-Johns-Completes-Strategic-Refranchising-of-Orlando-area-Restaurants-with-Franchisee-Wade-Oney/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d7997c8cc68d6495",
-      "titleEn": "Copper Property CTL Pass Through Trust Schedules Live Call to Discuss Recent Financial and Operating Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825092325/en/Copper-Property-CTL-Pass-Through-Trust-Schedules-Live-Call-to-Discuss-Recent-Financial-and-Operating-Results/",
       "published": null
     }
   ]
