@@ -1,12 +1,21 @@
 {
-  "generatedAt": "2026-08-25T16:33:09.544069Z",
+  "generatedAt": "2026-08-25T17:13:55.073355Z",
   "sourceCount": 1,
-  "count": 7,
+  "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:ebb3e2d9df31d2cc",
+      "titleEn": "Gold remains a strategic hedge from underpriced inflation and policy risks - Société Générale",
+      "summaryEn": "(Kitco News) - Renewed investor interest is providing new support for gold above $4,600 an ounce, and according to Société Générale, the precious metal will continue to play an important role in a diversified portfolio. Gold ’s ability to withstand a stronger U.S. dollar ( Kitco Global Index shows how much of today&#x27;s gold move is the dollar versus the gold market itself.) and higher interest rates is reinforcing its role as a strategic portfolio asset as investors face persistent inflation, geopolitical instability and growing policy uncertainty, analysts at the French bank said in their latest cross-asset strategy report. The analysts said they remain strategically bullish on gold, identifying the precious metal as one of seven assets investors can use to hedge against inflation risks. Société Générale’s broader strategy includes inflation-linked bonds, copper, select equities and private credit, with gold specifically positioned as a hedge against policy uncertainty.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-25/gold-remains-strategic-hedge-underpriced-inflation-and-policy-risks-societe",
+      "published": null
+    },
     {
       "id": "stockanalysis:1ca1744f728329b8",
       "titleEn": "Gold sees profit taking even as US consumer confidence drops 89.4",
-      "summaryEn": "(Kitco News) - The gold market continues to face modest selling pressure even as consumer confidence in the U.S. falls to its lowest level since the start of the year. The Consumer Confidence Index fell to 89.4 in August, down from July’s 90.8. The data was also below the economists’ consensus forecast of 90.3. According to the report, consumer pessimism was driven by future expectations. The Present Situation Index—based on consumers&#x27; assessment of current business and labor market conditions—rose by 6.8 points to 121.2, ending three consecutive monthly declines, the report said. The Expectations Index—based on consumers&#x27; short-term outlook for income, business, and labor market conditions—dropped by 5.8 points to 68.2.",
+      "summaryEn": "(Kitco News) - The gold market continues to face modest selling pressure even as consumer confidence in the U.S. falls to its lowest level since the start of the year. The Consumer Confidence Index fell to 89.4 in August, compared to July’s reading of 90.8. The data was also below economists’ consensus forecast for a reading of 90.3. According to the report, consumer pessimism was driven by future expectations. The Present Situation Index—based on consumers&#x27; assessment of current business and labor market conditions—rose by 6.8 points to 121.2, ending three consecutive monthly declines, the report said. The Expectations Index—based on consumers&#x27; short-term outlook for income, business, and labor market conditions—dropped by 5.8 points to 68.2.",
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-25/gold-sees-further-profit-taking-even-us-consumer-confidence-drops-894",
@@ -31,6 +40,33 @@
       "published": null
     },
     {
+      "id": "stockanalysis:8d1e957259e96042",
+      "titleEn": "Johnson Fistel, PLLP Investigates Claims on Behalf of Long-Term Shareholders of DICK'S Sporting Goods, Inc. (DKS)",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825933401/en/Johnson-Fistel-PLLP-Investigates-Claims-on-Behalf-of-Long-Term-Shareholders-of-DICK%E2%80%99S-Sporting-Goods-Inc.-DKS/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6aa89fb16a829285",
+      "titleEn": "CCB Investor Notice: Johnson Fistel Investigates Coastal Financial Corporation Following $68.8 Million Credit Expense",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825392266/en/CCB-Investor-Notice-Johnson-Fistel-Investigates-Coastal-Financial-Corporation-Following-68.8-Million-Credit-Expense/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ae595769066a316e",
+      "titleEn": "Johnson Fistel, PLLP Investigates Claims on Behalf of Long-Term Shareholders of REGENXBIO Inc. (RGNX)",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825065364/en/Johnson-Fistel-PLLP-Investigates-Claims-on-Behalf-of-Long-Term-Shareholders-of-REGENXBIO-Inc.-RGNX/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:79ea56aec2750483",
       "titleEn": "AstroNova Shareholders Approve Acquisition by Arcline Investment Management",
       "summaryEn": null,
@@ -46,24 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260825259159/en/SBA-Communications-Corporation-to-Speak-at-the-Goldman-Sachs-2026-Communacopia-Technology-Conference/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:815ae64f4313ceff",
-      "titleEn": "CPV Retail Ranks #7 in Overall Satisfaction in 2025 ERCG ABC Study",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825818686/en/CPV-Retail-Ranks-7-in-Overall-Satisfaction-in-2025-ERCG-ABC-Study/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2b7ace032650769d",
-      "titleEn": "Aptiv Accelerating Production-Ready Physical AI with Support for NVIDIA Jetson Orin Nano 2",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260825690415/en/Aptiv-Accelerating-Production-Ready-Physical-AI-with-Support-for-NVIDIA-Jetson-Orin-Nano-2/",
       "published": null
     }
   ]
