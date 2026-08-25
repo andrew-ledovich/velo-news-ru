@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-24T23:55:11.790458Z",
+  "generatedAt": "2026-08-25T00:36:09.727261Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:77d81a41abfbdd39",
@@ -85,21 +85,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:507b0b7ac4d56bf6",
-      "titleEn": "Brazilian Bank Itaú Wins Preliminary US Charter Approval to Serve Wealthy Clients",
-      "summaryEn": "Brazil-based bank Itaú Unibanco Holdings S.A. has secured preliminary approval from the Office of the Comptroller of the Currency (OCC) to establish a new national bank in the United States called Itaú Bank, National Association, the OCC said in an Aug. 14 corporate decision . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); If final approval and authorization for the bank to open are granted, Itaú Bank, National Association will be headquartered in Miami and will focus on high- and ultra-high net worth individuals with Brazilian and Latin American connections, according to the decision.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/brazilian-bank-itau-wins-preliminary-us-charter-approval-to-serve-wealthy-clients/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b544b76657ebcb5c",
-      "titleEn": "Intel, AMD stocks declines as chip sell-off hits Wall Street",
+      "id": "stockanalysis:97e09d9b93691c1d",
+      "titleEn": "Trinity Place Holdings Inc. Reports Second Quarter Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/24/intel-amd-stocks-declines-as-chip-sell-off-hits-wall-street/",
+      "link": "https://www.businesswire.com/news/home/20260824207775/en/Trinity-Place-Holdings-Inc.-Reports-Second-Quarter-Financial-Results/",
       "published": null
     },
     {
