@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-25T18:04:23.445858Z",
+  "generatedAt": "2026-08-25T18:54:51.313318Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:12679523b8135b9a",
+      "titleEn": "Natixis raises gold price target to $5,000 as U.S. debt and bond market fears mount",
+      "summaryEn": "(Kitco News) - After a months-long correction, gold prices appear to be back on the path to $5,000 an ounce, according to one market analyst. On Tuesday, Bernard Dahdah, Precious Metals Analyst at Natixis, increased his year-end price forecast for gold, saying he now sees the yellow metal reaching $5,000 by year-end, up from his previous target of $4,600 an ounce. The upgrade comes as gold prices have held critical support above $4,000 an ounce and are looking to end the month nearly 15% higher. Gold is on track to see its best monthly gain since September 1999. Spot gold last traded at $4,645.30 an ounce, down 0.12% on the day.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-25/natixis-raises-gold-price-target-5000-us-debt-and-bond-market-fears-mount",
+      "published": null
+    },
     {
       "id": "stockanalysis:ebb3e2d9df31d2cc",
       "titleEn": "Gold remains a strategic hedge from underpriced inflation and policy risks - Société Générale",
@@ -40,6 +49,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:9975961f4ec7baae",
+      "titleEn": "Rippling Tops G2's First-Ever Grid® for AI Agents for HR",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260825176561/en/Rippling-Tops-G2%E2%80%99s-First-Ever-Grid%C2%AE-for-AI-Agents-for-HR/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:bcc34d3252d8cddd",
       "titleEn": "Diamond Properties' Mark Blanford and Jeff Haack Receive CoStar's Q2 2026 Power Broker Quarterly Deals Award",
       "summaryEn": null,
@@ -64,42 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260825971468/en/Nihon-Kohden-Expands-Executive-Leadership-to-Support-Continued-Growth-and-Customer-Experience/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8d1e957259e96042",
-      "titleEn": "Johnson Fistel, PLLP Investigates Claims on Behalf of Long-Term Shareholders of DICK'S Sporting Goods, Inc. (DKS)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825933401/en/Johnson-Fistel-PLLP-Investigates-Claims-on-Behalf-of-Long-Term-Shareholders-of-DICK%E2%80%99S-Sporting-Goods-Inc.-DKS/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6aa89fb16a829285",
-      "titleEn": "CCB Investor Notice: Johnson Fistel Investigates Coastal Financial Corporation Following $68.8 Million Credit Expense",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825392266/en/CCB-Investor-Notice-Johnson-Fistel-Investigates-Coastal-Financial-Corporation-Following-68.8-Million-Credit-Expense/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ae595769066a316e",
-      "titleEn": "Johnson Fistel, PLLP Investigates Claims on Behalf of Long-Term Shareholders of REGENXBIO Inc. (RGNX)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825065364/en/Johnson-Fistel-PLLP-Investigates-Claims-on-Behalf-of-Long-Term-Shareholders-of-REGENXBIO-Inc.-RGNX/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:79ea56aec2750483",
-      "titleEn": "AstroNova Shareholders Approve Acquisition by Arcline Investment Management",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825029956/en/AstroNova-Shareholders-Approve-Acquisition-by-Arcline-Investment-Management/",
       "published": null
     }
   ]
