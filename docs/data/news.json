@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T05:54:11.139353Z",
+  "generatedAt": "2026-08-25T06:25:11.272171Z",
   "sourceCount": 1,
   "count": 14,
   "items": [
@@ -55,6 +55,15 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://invezz.com/news/2026/08/24/mstr-stock-rises-as-strategy-holds-bitcoin-builds-1-59b-cash-pool/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3b2de084840c2280",
+      "titleEn": "H1 Interim Financial Results 2026: Cadeler delivers on its strategy, with strong financial results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824046544/en/H1-Interim-Financial-Results-2026-Cadeler-delivers-on-its-strategy-with-strong-financial-results/",
       "published": null
     },
     {
@@ -118,15 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260824910057/en/Mitsubishi-Electric-to-Demonstrate-Smart-Building-and-Smart-City-Technologies-in-Legacy-Building-at-Berlin%E2%80%99s-Urban-Tech-Republic/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:71b82dc6baece189",
-      "titleEn": "Wolters Kluwer and Dentsu Soken Deliver CCH® Tagetik as Daihatsu Motor's Budget Management System",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824385267/en/Wolters-Kluwer-and-Dentsu-Soken-Deliver-CCH%C2%AE-Tagetik-as-Daihatsu-Motors-Budget-Management-System/",
       "published": null
     }
   ]
