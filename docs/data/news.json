@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T19:22:13.115625Z",
+  "generatedAt": "2026-08-25T19:52:11.817397Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 7,
   "items": [
     {
       "id": "stockanalysis:12679523b8135b9a",
@@ -49,30 +49,21 @@
       "published": null
     },
     {
+      "id": "stockanalysis:0d2ba4d79e792fc3",
+      "titleEn": "TriState Capital Bank Named a Leading Equipment Finance Company by Monitor for 7th Consecutive Year",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825261135/en/TriState-Capital-Bank-Named-a-Leading-Equipment-Finance-Company-by-Monitor-for-7th-Consecutive-Year/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:0f7f6b50a6ea038b",
       "titleEn": "XCENA Details MX1 Architecture Integrating Memory Expansion and Near-Memory Computing at Hot Chips 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.businesswire.com/news/home/20260825275952/en/XCENA-Details-MX1-Architecture-Integrating-Memory-Expansion-and-Near-Memory-Computing-at-Hot-Chips-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9975961f4ec7baae",
-      "titleEn": "Rippling Tops G2's First-Ever Grid® for AI Agents for HR",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260825176561/en/Rippling-Tops-G2%E2%80%99s-First-Ever-Grid%C2%AE-for-AI-Agents-for-HR/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bcc34d3252d8cddd",
-      "titleEn": "Diamond Properties' Mark Blanford and Jeff Haack Receive CoStar's Q2 2026 Power Broker Quarterly Deals Award",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825806433/en/Diamond-Properties%E2%80%99-Mark-Blanford-and-Jeff-Haack-Receive-CoStar%E2%80%99s-Q2-2026-Power-Broker-Quarterly-Deals-Award/",
       "published": null
     }
   ]
