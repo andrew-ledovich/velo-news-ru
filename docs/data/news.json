@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T11:03:15.552713Z",
+  "generatedAt": "2026-08-25T11:39:22.799048Z",
   "sourceCount": 1,
-  "count": 4,
+  "count": 3,
   "items": [
     {
       "id": "stockanalysis:77d81a41abfbdd39",
@@ -28,15 +28,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-24/bofa-survey-says-gold-undervalued-bullish-speculative-interest-picks",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d13b20f76e781e61",
-      "titleEn": "Gold's price rally will depend on sustained investment demand, Fed inflation response – ING's Manthey",
-      "summaryEn": "(Kitco News) – Gold prices are surging on the back of renewed investment demand and growing worry about the U.S. fiscal outlook, but sticky inflation and the prospect of Fed rate hikes mean the path higher is unlikely to be a straight one, according to Ewa Manthey, Commodities Strategist at ING. In her latest analysis, Manthey said that fiscal risks have given gold fresh momentum, driving prices above $4,600 per ounce. “The latest move followed the US Treasury’s decision to increase its purchases of longer-dated government debt,” she wrote. “The maximum size of buyback operations in the 10-to-30-year segment will rise from $2bn to at least $4bn, with Treasury Secretary Scott Bessent signalling that the programme could be expanded further.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-24/golds-price-rally-will-depend-sustained-investment-demand-fed-inflation",
       "published": null
     }
   ]
