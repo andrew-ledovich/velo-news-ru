@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T12:00:14.238112Z",
+  "generatedAt": "2026-08-25T12:51:05.016615Z",
   "sourceCount": 1,
-  "count": 3,
+  "count": 1,
   "items": [
     {
       "id": "stockanalysis:77d81a41abfbdd39",
@@ -10,24 +10,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.pymnts.com/news/delivery/2026/kroger-and-instacart-bundle-groceries-and-prescriptions-in-one-delivery/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cedd5e48eb074d75",
-      "titleEn": "Gold rises, silver slips as fiscal-risk trade holds - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices are higher and spot silver prices are slightly lower in late-afternoon U.S. trading Monday, as gold’s fiscal-risk bid held even as silver saw profit-taking after last week’s breakout. At the time of writing, spot gold was trading near $4,648.40 an ounce, up 1.00%, while spot silver was trading at $68.750, down 0.16% on the session. North American equity markets closed mixed, with AI-linked technology again the drag. The S&P 500 fell 21.51 points, or 0.3%, to 7,652.86, the Dow Jones Industrial Average rose 140.15 points, or 0.3%, to 53,417.16, the Nasdaq Composite lost 200.26 points, or 0.8%, to 25,980.19, and the Russell 2000 fell 22.79 points, or 0.8%, to 2,995.08. European markets finished nearly flat overall, with the STOXX Europe 600 at 654.21, unchanged on the session. London’s FTSE 100 rose 0.35% to 10,854.32, Germany’s DAX slipped 0.11% to 26,106.60, France’s CAC 40 lost 0.37% to 8,453.01 and Italy’s FTSE MIB fell 0.24% to 52,542.18. The latest positioning remains centered on the same cross-current that has supported gold all month: softer recent U.S. inflation and spending data reduced the urgency of a September Fed hike, but long-end yields and fiscal stress remain the constraint. The 10-year Treasury yield eased to about 4.70% as oil prices fell, while the 30-year yield stayed near the 5.2% area. Markets are now looking to Wednesday’s Nvidia earnings, the July PCE inflation report and Fed Chair Kevin Warsh’s Jackson Hole speech Friday for the next read on growth, inflation and policy risk. Gold has held above the $4,600 area because Treasury buyback expectations, debt concerns and dollar sensitivity continue to matter more than a single rates input. Silver’s pullback shows the trade is less uniform below the surface: the metal remains tied to the dollar and long bond, but profit-taking emerged after Friday’s test above $70.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-08-24/gold-rises-silver-slips-fiscal-risk-trade-holds-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ff689ed3c11ad527",
-      "titleEn": "BofA survey says gold is undervalued as bullish speculative interest picks up",
-      "summaryEn": "(Kitco News) - For the third consecutive week, speculative investors increased their bullish bets on gold , in part due to growing uncertainty surrounding the sustainability of U.S. government debt, reigniting the debasement trade. Although bullish speculative positioning has reached its highest level so far this year, sentiment remains below where it was 12 months ago and substantially lower compared to the start of the year. The CFTC&#x27;s disaggregated Commitments of Traders report for the week ending Aug. 18 showed money managers increased their speculative gross long positions in Comex gold futures by 5,961 contracts to 154,595. At the same time, short positions increased by 1,975 contracts to 12,947.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-24/bofa-survey-says-gold-undervalued-bullish-speculative-interest-picks",
       "published": null
     }
   ]
