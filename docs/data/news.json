@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T03:10:26.806551Z",
+  "generatedAt": "2026-08-25T03:56:45.063209Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:77d81a41abfbdd39",
@@ -58,12 +58,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:9aa59c27081cf3e7",
-      "titleEn": "Is Apple really the reason behind SK Hynix stock price decline?",
+      "id": "stockanalysis:53b93a4640f15cc0",
+      "titleEn": "Faraday Future Announces the Launch of Part One of the FF EAI Robotics “Built in USA” Business Partner Conference to be Held on Aug. 26 at its Headquarters in Los Angeles",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/24/is-apple-really-the-reason-behind-sk-hynix-stock-price-decline/",
+      "link": "https://www.businesswire.com/news/home/20260824748432/en/Faraday-Future-Announces-the-Launch-of-Part-One-of-the-FF-EAI-Robotics-%E2%80%9CBuilt-in-USA%E2%80%9D-Business-Partner-Conference-to-be-Held-on-Aug.-26-at-its-Headquarters-in-Los-Angeles/",
       "published": null
     },
     {
@@ -100,15 +100,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260824880482/en/Semtech-Hosts-LoRa%C2%AE-Ecosystem-Forum-at-IOTE-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:97e09d9b93691c1d",
-      "titleEn": "Trinity Place Holdings Inc. Reports Second Quarter Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824207775/en/Trinity-Place-Holdings-Inc.-Reports-Second-Quarter-Financial-Results/",
       "published": null
     }
   ]
