@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T18:54:51.313318Z",
+  "generatedAt": "2026-08-25T19:22:13.115625Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 8,
   "items": [
     {
       "id": "stockanalysis:12679523b8135b9a",
@@ -10,6 +10,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-25/natixis-raises-gold-price-target-5000-us-debt-and-bond-market-fears-mount",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4bcef8d7e3ccb2ca",
+      "titleEn": "Anthropic Readies Over $30 Trillion Revenue Forecast for Investors",
+      "summaryEn": "Anthropic is preparing to tell investors that it anticipates potential revenues of more than $30 trillion, The Wall Street Journal reported Tuesday (Aug. 25), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Tech startups and other companies going public often give investors estimates of a total addressable market (TAM) to demonstrate their growth potential. These figures are projections of the annual revenue a company could capture if it achieved 100% market share using inputs such as industry data or bankers’ models, the WSJ report said.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-readies-30-trillion-dollar-revenue-forecast-investors/",
       "published": null
     },
     {
@@ -40,12 +49,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:0a35935ed5477767",
-      "titleEn": "Gold slips from three-month high as Treasury buybacks, Iran risk frame trade - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices are modestly lower, while spot silver prices are seeing a deeper struggle in early U.S. trading on Tuesday, as a firmer U.S. dollar prompted some profit-taking after gold briefly approached the $4,700-an-ounce area overnight. At the time of writing, spot gold was trading near $4,634.90 an ounce, down 0.34%, while spot silver was trading at $67.900, down 1.36% on the session. The latest market positioning remains split between softer growth data and a Fed that still has not defeated inflation. July nonfarm payrolls fell by 23,000, CPI slowed to 3.4% year over year and core CPI eased to 2.5%, but the July FOMC minutes showed three policymakers favored a 25-basis-point hike and many participants remained open to higher rates if inflation fails to cool. Fed funds pricing has moved away from a clean easing narrative, with traders now focused on Wednesday’s PCE inflation report and Fed Chair Kevin Warsh’s Jackson Hole speech Friday for confirmation that the current 3.50% to 3.75% target range is restrictive enough. The U.S. Treasury Department’s long-end buyback plan remains the dominant cross-asset story. Treasury is planning to at least double liquidity-support buybacks in the 10-year to 20-year and 20-year to 30-year sectors to at least $4 billion per operation from $2 billion, starting Sept. 9 and running through Nov. 4. The initial decline in long yields has faded, leaving the 10-year Treasury yield near the 4.7% area and the 30-year yield still above 5.2%. That mix has unsettled global bond markets, supported the dollar at the margin and strengthened gold’s appeal as a hedge against sovereign-debt stress, fiscal credibility risk and possible currency debasement.",
+      "id": "stockanalysis:0f7f6b50a6ea038b",
+      "titleEn": "XCENA Details MX1 Architecture Integrating Memory Expansion and Near-Memory Computing at Hot Chips 2026",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-25/gold-slips-three-month-high-treasury-buybacks-iran-risk-frame-trade-kitco",
+      "link": "https://www.businesswire.com/news/home/20260825275952/en/XCENA-Details-MX1-Architecture-Integrating-Memory-Expansion-and-Near-Memory-Computing-at-Hot-Chips-2026/",
       "published": null
     },
     {
@@ -64,24 +73,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260825806433/en/Diamond-Properties%E2%80%99-Mark-Blanford-and-Jeff-Haack-Receive-CoStar%E2%80%99s-Q2-2026-Power-Broker-Quarterly-Deals-Award/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:39c56d69fc0af7e1",
-      "titleEn": "TechCreate Group Ltd. to Request Review of NYSE Panel Decision",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825749053/en/TechCreate-Group-Ltd.-to-Request-Review-of-NYSE-Panel-Decision/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:765a9c47c8e35733",
-      "titleEn": "Nihon Kohden Expands Executive Leadership to Support Continued Growth and Customer Experience",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825971468/en/Nihon-Kohden-Expands-Executive-Leadership-to-Support-Continued-Growth-and-Customer-Experience/",
       "published": null
     }
   ]
