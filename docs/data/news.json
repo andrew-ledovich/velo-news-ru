@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T02:06:57.446509Z",
+  "generatedAt": "2026-08-25T03:10:26.806551Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:77d81a41abfbdd39",
@@ -67,12 +67,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:56ceb9747c006309",
-      "titleEn": "Xpeng earnings reveal 'positives' - just not in the core EV business",
+      "id": "stockanalysis:44e5dba8447a0489",
+      "titleEn": "Mitsubishi Electric to Demonstrate Smart Building and Smart City Technologies in Legacy Building at Berlin's Urban Tech Republic",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/08/24/xpeng-earnings-reveal-positives-just-not-in-the-core-ev-business/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824910057/en/Mitsubishi-Electric-to-Demonstrate-Smart-Building-and-Smart-City-Technologies-in-Legacy-Building-at-Berlin%E2%80%99s-Urban-Tech-Republic/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:71b82dc6baece189",
+      "titleEn": "Wolters Kluwer and Dentsu Soken Deliver CCH® Tagetik as Daihatsu Motor's Budget Management System",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824385267/en/Wolters-Kluwer-and-Dentsu-Soken-Deliver-CCH%C2%AE-Tagetik-as-Daihatsu-Motors-Budget-Management-System/",
       "published": null
     },
     {
