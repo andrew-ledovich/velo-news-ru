@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T21:49:57.681856Z",
+  "generatedAt": "2026-08-25T22:14:30.819881Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 9,
   "items": [
     {
       "id": "stockanalysis:7090cc81aa85bbff",
@@ -82,24 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260825526841/en/Franklin-Templeton-Inc.-Announces-Quarterly-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d443b25f3209363e",
-      "titleEn": "Kohl's Names Arianne Parisi Chief Customer Officer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825325882/en/Kohls-Names-Arianne-Parisi-Chief-Customer-Officer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c4878afd7bb8ff94",
-      "titleEn": "D-Wave Quantum Announces the Resignation of Chief Financial Officer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825137467/en/D-Wave-Quantum-Announces-the-Resignation-of-Chief-Financial-Officer/",
       "published": null
     }
   ]
