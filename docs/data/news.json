@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T17:45:01.178040Z",
+  "generatedAt": "2026-08-25T18:04:23.445858Z",
   "sourceCount": 1,
   "count": 11,
   "items": [
@@ -37,6 +37,15 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-08-25/gold-slips-three-month-high-treasury-buybacks-iran-risk-frame-trade-kitco",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bcc34d3252d8cddd",
+      "titleEn": "Diamond Properties' Mark Blanford and Jeff Haack Receive CoStar's Q2 2026 Power Broker Quarterly Deals Award",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825806433/en/Diamond-Properties%E2%80%99-Mark-Blanford-and-Jeff-Haack-Receive-CoStar%E2%80%99s-Q2-2026-Power-Broker-Quarterly-Deals-Award/",
       "published": null
     },
     {
@@ -91,15 +100,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260825029956/en/AstroNova-Shareholders-Approve-Acquisition-by-Arcline-Investment-Management/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6a493d79e46879db",
-      "titleEn": "SBA Communications Corporation to Speak at the Goldman Sachs 2026 Communacopia + Technology Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825259159/en/SBA-Communications-Corporation-to-Speak-at-the-Goldman-Sachs-2026-Communacopia-Technology-Conference/",
       "published": null
     }
   ]
