@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T05:15:28.409521Z",
+  "generatedAt": "2026-08-25T05:54:11.139353Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:77d81a41abfbdd39",
@@ -55,6 +55,24 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://invezz.com/news/2026/08/24/mstr-stock-rises-as-strategy-holds-bitcoin-builds-1-59b-cash-pool/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3a04c9e1c5c6fd97",
+      "titleEn": "IFF Report Finds GLP-1 Is Reshaping Food Choices and Eating Behaviors Among Indian Consumers",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824816059/en/IFF-Report-Finds-GLP-1-Is-Reshaping-Food-Choices-and-Eating-Behaviors-Among-Indian-Consumers/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e0034176c937ae77",
+      "titleEn": "Nordson Electronics Solutions Launches the New ASYMTEK Vantage® XL Fluid Dispensing System for Panel-Level Packaging at SEMICON Taiwan 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824902976/en/Nordson-Electronics-Solutions-Launches-the-New-ASYMTEK-Vantage%C2%AE-XL-Fluid-Dispensing-System-for-Panel-Level-Packaging-at-SEMICON-Taiwan-2026/",
       "published": null
     },
     {
