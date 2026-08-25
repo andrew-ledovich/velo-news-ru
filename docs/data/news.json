@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-25T13:39:54.236268Z",
+  "generatedAt": "2026-08-25T14:25:52.132802Z",
   "sourceCount": 1,
-  "count": 2,
+  "count": 3,
   "items": [
+    {
+      "id": "stockanalysis:ca7a34db07432b2e",
+      "titleEn": "Gold price remains under pressure as U.S. new home sales fall 10.5% in July",
+      "summaryEn": "(Kitco News) - The gold market continues to see modest selling pressure, the result of some profit-taking after testing resistance at $4,700 an ounce overnight; however, according to some analysts, the precious metal remains well supported as an important safe-haven asset as the U.S. housing sector continues to struggle. New home sales dropped 10.5% last month, the U.S. Census Bureau and the U.S. Department of Housing and Urban Development announced. New home sales came in at a seasonally adjusted annualized rate of 607,000 in July. The numbers were significantly weaker than forecasts, as the market consensus expected sales of 620,000 units. June’s sales were also revised up to 678,000.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-25/gold-price-remains-under-pressure-us-new-home-sales-fall-105-july",
+      "published": null
+    },
     {
       "id": "stockanalysis:0a35935ed5477767",
       "titleEn": "Gold slips from three-month high as Treasury buybacks, Iran risk frame trade - Kitco AM Report",
@@ -13,12 +22,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:757f4cdd41daf57b",
-      "titleEn": "Thryv Named to Selling Power Magazine's 60 Best Companies to Sell For 2026 List",
-      "summaryEn": null,
+      "id": "stockanalysis:1e73f5e3bac5ded7",
+      "titleEn": "Meta's Consumer-Focused AI Agent Could Be Weeks From Launch",
+      "summaryEn": "Meta is reportedly ready to unveil its consumer-focused AI agent designed to rival OpenClaw. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The tech giant’s new offering, known in-house as “Hatch,” could debut in the next several weeks, The Information reported Monday (Aug. 24), citing internal Meta documents.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825720604/en/Thryv-Named-to-Selling-Power-Magazine%E2%80%99s-60-Best-Companies-to-Sell-For-2026-List/",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/metas-consumer-focused-ai-agent-could-be-weeks-from-launch/",
       "published": null
     }
   ]
