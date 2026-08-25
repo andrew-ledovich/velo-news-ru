@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-25T15:58:16.265607Z",
+  "generatedAt": "2026-08-25T16:33:09.544069Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 7,
   "items": [
     {
       "id": "stockanalysis:1ca1744f728329b8",
       "titleEn": "Gold sees profit taking even as US consumer confidence drops 89.4",
-      "summaryEn": "(Kitco News) - The gold market continues to face modest selling pressure even as consumer confidence in the U.S. falls to its lowest level since the start of the year. The Consumer Confidence Index fell to 89.4 in August, compared to July’s reading of 90.8. The data was also below economists’ consensus forecast for a reading of 90.3. According to the report, consumer pessimism was driven by future expectations. The Present Situation Index—based on consumers&#x27; assessment of current business and labor market conditions—rose by 6.8 points to 121.2, ending three consecutive monthly declines, the report said. The Expectations Index—based on consumers&#x27; short-term outlook for income, business, and labor market conditions—dropped by 5.8 points to 68.2.",
+      "summaryEn": "(Kitco News) - The gold market continues to face modest selling pressure even as consumer confidence in the U.S. falls to its lowest level since the start of the year. The Consumer Confidence Index fell to 89.4 in August, down from July’s 90.8. The data was also below the economists’ consensus forecast of 90.3. According to the report, consumer pessimism was driven by future expectations. The Present Situation Index—based on consumers&#x27; assessment of current business and labor market conditions—rose by 6.8 points to 121.2, ending three consecutive monthly declines, the report said. The Expectations Index—based on consumers&#x27; short-term outlook for income, business, and labor market conditions—dropped by 5.8 points to 68.2.",
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-25/gold-sees-further-profit-taking-even-us-consumer-confidence-drops-894",
@@ -31,12 +31,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1e73f5e3bac5ded7",
-      "titleEn": "Meta's Consumer-Focused AI Agent Could Be Weeks From Launch",
-      "summaryEn": "Meta is reportedly ready to unveil its consumer-focused AI agent designed to rival OpenClaw. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The tech giant’s new offering, known in-house as “Hatch,” could debut in the next several weeks, The Information reported Monday (Aug. 24), citing internal Meta documents.",
+      "id": "stockanalysis:79ea56aec2750483",
+      "titleEn": "AstroNova Shareholders Approve Acquisition by Arcline Investment Management",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/metas-consumer-focused-ai-agent-could-be-weeks-from-launch/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825029956/en/AstroNova-Shareholders-Approve-Acquisition-by-Arcline-Investment-Management/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6a493d79e46879db",
+      "titleEn": "SBA Communications Corporation to Speak at the Goldman Sachs 2026 Communacopia + Technology Conference",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825259159/en/SBA-Communications-Corporation-to-Speak-at-the-Goldman-Sachs-2026-Communacopia-Technology-Conference/",
       "published": null
     },
     {
@@ -55,42 +64,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.businesswire.com/news/home/20260825690415/en/Aptiv-Accelerating-Production-Ready-Physical-AI-with-Support-for-NVIDIA-Jetson-Orin-Nano-2/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:52bd551dc334a8cf",
-      "titleEn": "Three years later: Schneider and M&amp;M Transport Services continue to deliver growth, stability and reliability",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824106421/en/Three-years-later-Schneider-and-MM-Transport-Services-continue-to-deliver-growth-stability-and-reliability/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d0c840bc8f980366",
-      "titleEn": "Capital One Business Travel Limited Time Offer Ends Sept. 7 for New Spark Cash Plus and Spark Cash Cardholders",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825865639/en/Capital-One-Business-Travel-Limited-Time-Offer-Ends-Sept.-7-for-New-Spark-Cash-Plus-and-Spark-Cash-Cardholders/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d9ba5fcf39a59daf",
-      "titleEn": "Ezra Yacob, CEO of EOG Resources, to Speak at SUPER DUG",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825721021/en/Ezra-Yacob-CEO-of-EOG-Resources-to-Speak-at-SUPER-DUG/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f532b46cb264c563",
-      "titleEn": "KBRA Assigns Preliminary Ratings to CROSS 2026-NQM10 Mortgage Trust",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825931734/en/KBRA-Assigns-Preliminary-Ratings-to-CROSS-2026-NQM10-Mortgage-Trust/",
       "published": null
     }
   ]
