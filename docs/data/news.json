@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T06:25:11.272171Z",
+  "generatedAt": "2026-08-25T07:22:21.070821Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:77d81a41abfbdd39",
@@ -100,33 +100,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260824338897/en/KKR-Acquires-Leading-Japanese-Beauty-Platform-Ci-FLAVORS/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b99b84875812fab4",
-      "titleEn": "Tigo Energy and Ingeteam Sign Certificate of Compatibility",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824481941/en/Tigo-Energy-and-Ingeteam-Sign-Certificate-of-Compatibility/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:53b93a4640f15cc0",
-      "titleEn": "Faraday Future Announces the Launch of Part One of the FF EAI Robotics “Built in USA” Business Partner Conference to be Held on Aug. 26 at its Headquarters in Los Angeles",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824748432/en/Faraday-Future-Announces-the-Launch-of-Part-One-of-the-FF-EAI-Robotics-%E2%80%9CBuilt-in-USA%E2%80%9D-Business-Partner-Conference-to-be-Held-on-Aug.-26-at-its-Headquarters-in-Los-Angeles/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:44e5dba8447a0489",
-      "titleEn": "Mitsubishi Electric to Demonstrate Smart Building and Smart City Technologies in Legacy Building at Berlin's Urban Tech Republic",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824910057/en/Mitsubishi-Electric-to-Demonstrate-Smart-Building-and-Smart-City-Technologies-in-Legacy-Building-at-Berlin%E2%80%99s-Urban-Tech-Republic/",
       "published": null
     }
   ]
