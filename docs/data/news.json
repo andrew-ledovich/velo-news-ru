@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T09:59:45.307184Z",
+  "generatedAt": "2026-08-25T10:33:58.958474Z",
   "sourceCount": 1,
-  "count": 5,
+  "count": 4,
   "items": [
     {
       "id": "stockanalysis:77d81a41abfbdd39",
@@ -37,15 +37,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-24/golds-price-rally-will-depend-sustained-investment-demand-fed-inflation",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ce456710d3e3e9bc",
-      "titleEn": "FreeCast Targets the Global Media Monetization Layer Above Telecom, Satellite and Broadband Connectivity",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825254647/en/FreeCast-Targets-the-Global-Media-Monetization-Layer-Above-Telecom-Satellite-and-Broadband-Connectivity/",
       "published": null
     }
   ]
