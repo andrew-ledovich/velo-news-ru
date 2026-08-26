@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-26T15:56:59.630550Z",
+  "generatedAt": "2026-08-26T16:43:25.447111Z",
   "sourceCount": 1,
-  "count": 23,
+  "count": 20,
   "items": [
+    {
+      "id": "stockanalysis:de52c1f9efde471a",
+      "titleEn": "Meta, US states agree to a $16.7 billion settlement in landmark teen safety case",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Meta agreed to pay a coalition of U.S. states as much as $16.7 billion and to impose sweeping new limits on how teenagers use Facebook and Instagram, according to a court filing Wednesday that ends a landmark trial in California. The proposed settlement, filed in federal court, would resolve claims by 29 states that Meta deliberately engineered its platforms to hook young users , misled the public about the risks and unlawfully collected data from children under 13.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-08-meta-states-billion-settlement-landmark.html",
+      "published": null
+    },
     {
       "id": "stockanalysis:2446d3d079841f37",
       "titleEn": "Why is Alphabet stock down today?",
@@ -157,57 +166,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c214324943cca570",
-      "titleEn": "AMD and Intel rise in premarket: why chip stocks are firming before Nvidia earnings",
+      "id": "stockanalysis:94c39f78aaacac28",
+      "titleEn": "Comstock Welcomes Council for Exceptional Children to The Hartford",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/amd-and-intel-rise-in-premarket-why-chip-stocks-are-firming-before-nvidia-earnings/",
+      "link": "https://www.businesswire.com/news/home/20260826128442/en/Comstock-Welcomes-Council-for-Exceptional-Children-to-The-Hartford/",
       "published": null
     },
     {
-      "id": "stockanalysis:f300ba95f1fbfcd7",
-      "titleEn": "Is DKS stock a buy after its 30% fall on Tuesday? Here's what analysts say",
+      "id": "stockanalysis:4d7ee9f532f9b22b",
+      "titleEn": "SCE Brings Customers 2026 Bill Relief with California Climate Credit, Lower Rates",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/is-dks-stock-a-buy-after-its-30-fall-on-tuesday-heres-what-analysts-say/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6bfaa9062685de88",
-      "titleEn": "Keysight Accelerates AttoTude IC Design Cycles by More Than 50%",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826386206/en/Keysight-Accelerates-AttoTude-IC-Design-Cycles-by-More-Than-50/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:104d3b6391145156",
-      "titleEn": "Pricefx Announces Integration with ServiceNow to Bring AI-Powered Deal Optimization to Sales Workflows",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260826082843/en/Pricefx-Announces-Integration-with-ServiceNow-to-Bring-AI-Powered-Deal-Optimization-to-Sales-Workflows/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9001ce148e1a6934",
-      "titleEn": "Skechers Is Now the #2 Footwear Brand in the United States",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826040565/en/Skechers-Is-Now-the-2-Footwear-Brand-in-the-United-States/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e4fc366f762c5936",
-      "titleEn": "PDC Brands Announces New Corporate Identity as Arthēa — New Name Signals the Company's Next Chapter in Wellness and Personal Care",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820139253/en/PDC-Brands-Announces-New-Corporate-Identity-as-Arth%C4%93a-%E2%80%94-New-Name-Signals-the-Company%E2%80%99s-Next-Chapter-in-Wellness-and-Personal-Care/",
+      "link": "https://www.businesswire.com/news/home/20260826319164/en/SCE-Brings-Customers-2026-Bill-Relief-with-California-Climate-Credit-Lower-Rates/",
       "published": null
     }
   ]
