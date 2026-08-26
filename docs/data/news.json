@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T03:38:26.127932Z",
+  "generatedAt": "2026-08-26T04:21:45.435937Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 9,
   "items": [
     {
       "id": "stockanalysis:d6b3285b734f096d",
@@ -58,12 +58,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ebb3e2d9df31d2cc",
-      "titleEn": "Gold remains a strategic hedge from underpriced inflation and policy risks - Société Générale",
-      "summaryEn": "(Kitco News) - Renewed investor interest is providing new support for gold above $4,600 an ounce, and according to Société Générale, the precious metal will continue to play an important role in a diversified portfolio. Gold ’s ability to withstand a stronger U.S. dollar ( Kitco Global Index shows how much of today&#x27;s gold move is the dollar versus the gold market itself.) and higher interest rates is reinforcing its role as a strategic portfolio asset as investors face persistent inflation, geopolitical instability and growing policy uncertainty, analysts at the French bank said in their latest cross-asset strategy report. The analysts said they remain strategically bullish on gold, identifying the precious metal as one of seven assets investors can use to hedge against inflation risks. Société Générale’s broader strategy includes inflation-linked bonds, copper, select equities and private credit, with gold specifically positioned as a hedge against policy uncertainty.",
+      "id": "stockanalysis:bebecb64df43f5db",
+      "titleEn": "e.l.f. Brands Will Surprise and Delight as the Only Beauty Brand at the Minnesota State Fair",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-25/gold-remains-strategic-hedge-underpriced-inflation-and-policy-risks-societe",
+      "link": "https://www.businesswire.com/news/home/20260825083234/en/e.l.f.-Brands-Will-Surprise-and-Delight-as-the-Only-Beauty-Brand-at-the-Minnesota-State-Fair/",
       "published": null
     },
     {
@@ -82,15 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260825202399/en/FORT%C3%89-Acquires-Vega-Global-APACs-Largest-Systems-Integrator-Expanding-Global-Reach/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e15c7f01b8fdbbbc",
-      "titleEn": "Ivonescimab Plus Chemotherapy Demonstrates Statistically Significant Overall Survival Benefit Compared to Durvalumab Plus Chemotherapy in First-Line Advanced Biliary Tract Cancer in Single-Region Trial Conducted by Akeso in China",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825861058/en/Ivonescimab-Plus-Chemotherapy-Demonstrates-Statistically-Significant-Overall-Survival-Benefit-Compared-to-Durvalumab-Plus-Chemotherapy-in-First-Line-Advanced-Biliary-Tract-Cancer-in-Single-Region-Trial-Conducted-by-Akeso-in-China/",
       "published": null
     }
   ]
