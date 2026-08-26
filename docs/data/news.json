@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-26T11:25:16.684935Z",
+  "generatedAt": "2026-08-26T11:52:54.803558Z",
   "sourceCount": 1,
   "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:f300ba95f1fbfcd7",
+      "titleEn": "Is DKS stock a buy after its 30% fall on Tuesday? Here's what analysts say",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/is-dks-stock-a-buy-after-its-30-fall-on-tuesday-heres-what-analysts-say/",
+      "published": null
+    },
     {
       "id": "stockanalysis:2e16321b09d729b2",
       "titleEn": "Wall Street futures flat ahead of NVDA earnings: 5 things to know before market opens",
@@ -103,21 +112,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:7090cc81aa85bbff",
-      "titleEn": "Gold is having its best month since 1999. A former banker told me most people still aren't protected",
-      "summaryEn": "(Kitco News) - Five up weeks. On pace for the best month since 1999. And at around $4,650, gold is still nowhere near the record it set in late January. .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } The rest of the picture: a 30-year Treasury yield that touched 5.34% last week, close to a 20-year high. Federal debt over $40 trillion. And on September 9 the Treasury doubles the size of its buybacks of long-dated bonds, from $2 billion an operation to at least $4 billion. Buying its own bonds props up the price, which pushes down the interest rate the government pays on the next lot.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-25/gold-having-its-best-month-1999-former-banker-told-me-most-people-still",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:30300fb7cc84414c",
-      "titleEn": "Definium Therapeutics to Participate at Upcoming Investor Conferences and Events",
+      "id": "stockanalysis:8e3a3019e9df0084",
+      "titleEn": "QumulusAI Amends Oklahoma Lease, Extending Potential Tenure Through January 2044 at a Site With 19 MW of Contracted Power",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826612661/en/Definium-Therapeutics-to-Participate-at-Upcoming-Investor-Conferences-and-Events/",
+      "link": "https://www.businesswire.com/news/home/20260826977330/en/QumulusAI-Amends-Oklahoma-Lease-Extending-Potential-Tenure-Through-January-2044-at-a-Site-With-19-MW-of-Contracted-Power/",
       "published": null
     }
   ]
