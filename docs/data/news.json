@@ -1,8 +1,71 @@
 {
-  "generatedAt": "2026-08-26T14:23:56.298725Z",
+  "generatedAt": "2026-08-26T15:56:59.630550Z",
   "sourceCount": 1,
-  "count": 21,
+  "count": 23,
   "items": [
+    {
+      "id": "stockanalysis:2446d3d079841f37",
+      "titleEn": "Why is Alphabet stock down today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/why-is-alphabet-stock-down-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:85945f6be4dc47ea",
+      "titleEn": "BofA warns of another 10% decline in chip stocks",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/bofa-warns-of-another-10-decline-in-chip-stocks/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c4e7e8534d8b9477",
+      "titleEn": "$5,000 gold is back in play, and $10,000 is a matter of 'when, not if' - State Street's Doshi",
+      "summaryEn": "(Kitco News) - Gold ’s recent correction appears to have done little to damage its long-term investment case, and with concerns over unsustainable sovereign debt returning to the forefront of global financial markets, one strategist sees $5,000 an ounce by year-end firmly back in play. However, Aakash Doshi, Head of Gold Strategy at State Street Investment Management, said in an interview with Kitco News that investors should be thinking beyond gold’s next milestone. In the current global fiscal environment, he sees $10,000 gold as ultimately a question of timing rather than possibility. Doshi’s bullish outlook comes as gold prices have rallied roughly 15% in August, their best monthly performance since January 1999. Spot gold last traded at $4,621.30 an ounce, down 0.79% on the day.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-26/5000-gold-back-play-and-10000-matter-when-not-if-state-streets-doshi",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d44a64208f5206db",
+      "titleEn": "Scotiabank stock has soared to a record high after earnings: more upside?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/scotiabank-stock-has-soared-to-a-record-high-after-earnings-more-upside/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b8ebaacffc4d7132",
+      "titleEn": "Alibaba Targets Coding and Office Tasks With Low-Cost AI Model",
+      "summaryEn": "Alibaba introduced Qwen3.8-Flash , a new artificial intelligence model designed to deliver cost efficiency, the company said in a Wednesday (Aug. 26) post on social platform X. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); ⚡Meet Qwen3.8-Flash, a multimodal MoE and an early preview of the Qwen4 architecture, now open-weight!",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/alibaba-targets-coding-office-tasks-with-low-cost-ai-model/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b1cff495351a5227",
+      "titleEn": "Oklo stock analysis: Is it a buy or sell as insiders continue selling?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/oklo-stock-analysis-is-it-a-buy-or-sell-as-insiders-continue-selling/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:accbce09816d307e",
+      "titleEn": "Gold sees profit taking even as US consumer confidence drops 89.4",
+      "summaryEn": "(Kitco News) - The gold market continues to face modest selling pressure even as consumer confidence in the U.S. falls to its lowest level since the start of the year. The Consumer Confidence Index fell to 89.4 in August, compared to July’s reading of 90.8. The data was also below economists’ consensus forecast for a reading of 90.3. According to the report, consumer pessimism was driven by future expectations. The Present Situation Index—based on consumers&#x27; assessment of current business and labor market conditions—rose by 6.8 points to 121.2, ending three consecutive monthly declines, the report said. The Expectations Index—based on consumers&#x27; short-term outlook for income, business, and labor market conditions—dropped by 5.8 points to 68.2.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-25/gold-sees-profit-taking-even-us-consumer-confidence-drops-894",
+      "published": null
+    },
     {
       "id": "stockanalysis:83213bff5447033f",
       "titleEn": "Meta stock wobbly after firm reaches $16.7B settlement in child safety trial",
@@ -112,84 +175,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:b95b94af0d2002c8",
-      "titleEn": "US inflation test is hours away: 3 stocks most exposed to the PCE surprise",
+      "id": "stockanalysis:6bfaa9062685de88",
+      "titleEn": "Keysight Accelerates AttoTude IC Design Cycles by More Than 50%",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/us-inflation-test-is-hours-away-3-stocks-most-exposed-to-the-pce-surprise/",
+      "link": "https://www.businesswire.com/news/home/20260826386206/en/Keysight-Accelerates-AttoTude-IC-Design-Cycles-by-More-Than-50/",
       "published": null
     },
     {
-      "id": "stockanalysis:f83535f15aab6f98",
-      "titleEn": "Nvidia Q2 earnings tonight: analyst sees $97.8B revenue and 55% stock upside",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/nvidia-q2-earnings-tonight-analyst-sees-97-8b-revenue-and-55-stock-upside/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b92b1c5185e83fb6",
-      "titleEn": "Moonshot AI discusses Kimi K3 hosting deals with Microsoft, Amazon, Google: report",
+      "id": "stockanalysis:104d3b6391145156",
+      "titleEn": "Pricefx Announces Integration with ServiceNow to Bring AI-Powered Deal Optimization to Sales Workflows",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/26/moonshot-ai-discusses-kimi-k3-hosting-deals-with-microsoft-amazon-google-report/",
+      "link": "https://www.businesswire.com/news/home/20260826082843/en/Pricefx-Announces-Integration-with-ServiceNow-to-Bring-AI-Powered-Deal-Optimization-to-Sales-Workflows/",
       "published": null
     },
     {
-      "id": "stockanalysis:69b87de250d64ad6",
-      "titleEn": "Agenus Announces Updated NEST Phase 2 Publication Reporting Deep Pathologic Responses and No Observed Recurrences with Neoadjuvant BOT+BAL in Resectable Colon Cancer",
+      "id": "stockanalysis:9001ce148e1a6934",
+      "titleEn": "Skechers Is Now the #2 Footwear Brand in the United States",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826183640/en/Agenus-Announces-Updated-NEST-Phase-2-Publication-Reporting-Deep-Pathologic-Responses-and-No-Observed-Recurrences-with-Neoadjuvant-BOTBAL-in-Resectable-Colon-Cancer/",
+      "link": "https://www.businesswire.com/news/home/20260826040565/en/Skechers-Is-Now-the-2-Footwear-Brand-in-the-United-States/",
       "published": null
     },
     {
-      "id": "stockanalysis:2675b46d1e522e92",
-      "titleEn": "AWeber Puts Its New AI Landing Page Builder Head-to-Head With Lovable and Claude, Not Other Email Platforms",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260826233163/en/AWeber-Puts-Its-New-AI-Landing-Page-Builder-Head-to-Head-With-Lovable-and-Claude-Not-Other-Email-Platforms/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:776be75258a87d56",
-      "titleEn": "Xfinity and Comcast Business Reliable, High-Speed Internet Now Available in Deerfield, New Hampshire",
+      "id": "stockanalysis:e4fc366f762c5936",
+      "titleEn": "PDC Brands Announces New Corporate Identity as Arthēa — New Name Signals the Company's Next Chapter in Wellness and Personal Care",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826186954/en/Xfinity-and-Comcast-Business-Reliable-High-Speed-Internet-Now-Available-in-Deerfield-New-Hampshire/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fc17dccae636d739",
-      "titleEn": "College Football is Back: Casey's Breakfast Pizza Returns as the “Official Pizza of Noon Kickoffs”",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826408666/en/College-Football-is-Back-Casey%E2%80%99s-Breakfast-Pizza-Returns-as-the-%E2%80%9COfficial-Pizza-of-Noon-Kickoffs%E2%80%9D/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e31c10f88c20fa8a",
-      "titleEn": "Buenaventura to Host Investor Day on November 10, 2026 in New York",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825894152/en/Buenaventura-to-Host-Investor-Day-on-November-10-2026-in-New-York/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e64528437f760465",
-      "titleEn": "ExxonMobil to Speak at Barclays 40th Annual Energy-Power Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826193086/en/ExxonMobil-to-Speak-at-Barclays-40th-Annual-Energy-Power-Conference/",
+      "link": "https://www.businesswire.com/news/home/20260820139253/en/PDC-Brands-Announces-New-Corporate-Identity-as-Arth%C4%93a-%E2%80%94-New-Name-Signals-the-Company%E2%80%99s-Next-Chapter-in-Wellness-and-Personal-Care/",
       "published": null
     }
   ]
