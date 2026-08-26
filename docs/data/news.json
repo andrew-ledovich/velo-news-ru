@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T01:23:52.888372Z",
+  "generatedAt": "2026-08-26T02:41:56.792071Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:d6b3285b734f096d",
@@ -64,6 +64,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-25/gold-remains-strategic-hedge-underpriced-inflation-and-policy-risks-societe",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b9edce56894e76c1",
+      "titleEn": "Sonendo Announces Key Initiatives to Drive Business Towards Cashflow Break-Even",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825390808/en/Sonendo-Announces-Key-Initiatives-to-Drive-Business-Towards-Cashflow-Break-Even/",
       "published": null
     },
     {
