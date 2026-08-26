@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T05:47:18.982112Z",
+  "generatedAt": "2026-08-26T06:27:44.653543Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 8,
   "items": [
     {
       "id": "stockanalysis:d6b3285b734f096d",
@@ -46,15 +46,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-25/natixis-raises-gold-price-target-5000-us-debt-and-bond-market-fears-mount",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4bcef8d7e3ccb2ca",
-      "titleEn": "Anthropic Readies Over $30 Trillion Revenue Forecast for Investors",
-      "summaryEn": "Anthropic is preparing to tell investors that it anticipates potential revenues of more than $30 trillion, The Wall Street Journal reported Tuesday (Aug. 25), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Tech startups and other companies going public often give investors estimates of a total addressable market (TAM) to demonstrate their growth potential. These figures are projections of the annual revenue a company could capture if it achieved 100% market share using inputs such as industry data or bankers’ models, the WSJ report said.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-readies-30-trillion-dollar-revenue-forecast-investors/",
       "published": null
     },
     {
