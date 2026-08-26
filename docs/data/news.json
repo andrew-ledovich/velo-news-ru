@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-26T13:31:59.092760Z",
+  "generatedAt": "2026-08-26T14:23:56.298725Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 21,
   "items": [
+    {
+      "id": "stockanalysis:83213bff5447033f",
+      "titleEn": "Meta stock wobbly after firm reaches $16.7B settlement in child safety trial",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/meta-stock-wobbly-after-firm-reaches-16-7b-settlement-in-child-safety-trial/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ee657ac6422a5adc",
+      "titleEn": "Here's why the Zoom Video stock is crashing after its earnings report",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/heres-why-the-zoom-video-stock-is-crashing-after-its-earnings-report/",
+      "published": null
+    },
     {
       "id": "stockanalysis:04cfd077286162b3",
       "titleEn": "Workday stock forecast ahead of earnings: buy, sell, or hold?",
@@ -94,15 +112,6 @@
       "published": null
     },
     {
-      "id": "stockanalysis:2e16321b09d729b2",
-      "titleEn": "Wall Street futures flat ahead of NVDA earnings: 5 things to know before market opens",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/wall-street-futures-flat-ahead-of-nvda-earnings-5-things-to-know-before-market-opens/",
-      "published": null
-    },
-    {
       "id": "stockanalysis:b95b94af0d2002c8",
       "titleEn": "US inflation test is hours away: 3 stocks most exposed to the PCE surprise",
       "summaryEn": null,
@@ -130,57 +139,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:dfff2edcb2853819",
-      "titleEn": "Meta stock has over 50% upside, but investors may be missing this catalyst",
+      "id": "stockanalysis:69b87de250d64ad6",
+      "titleEn": "Agenus Announces Updated NEST Phase 2 Publication Reporting Deep Pathologic Responses and No Observed Recurrences with Neoadjuvant BOT+BAL in Resectable Colon Cancer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/meta-stock-has-over-50-upside-but-investors-may-be-missing-this-catalyst/",
+      "link": "https://www.businesswire.com/news/home/20260826183640/en/Agenus-Announces-Updated-NEST-Phase-2-Publication-Reporting-Deep-Pathologic-Responses-and-No-Observed-Recurrences-with-Neoadjuvant-BOTBAL-in-Resectable-Colon-Cancer/",
       "published": null
     },
     {
-      "id": "stockanalysis:309c40d0c042669c",
-      "titleEn": "Salesforce Q2 earnings today: what to expect from CRM stock",
+      "id": "stockanalysis:2675b46d1e522e92",
+      "titleEn": "AWeber Puts Its New AI Landing Page Builder Head-to-Head With Lovable and Claude, Not Other Email Platforms",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260826233163/en/AWeber-Puts-Its-New-AI-Landing-Page-Builder-Head-to-Head-With-Lovable-and-Claude-Not-Other-Email-Platforms/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:776be75258a87d56",
+      "titleEn": "Xfinity and Comcast Business Reliable, High-Speed Internet Now Available in Deerfield, New Hampshire",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/salesforce-q2-earnings-today-what-to-expect-from-crm-stock/",
+      "link": "https://www.businesswire.com/news/home/20260826186954/en/Xfinity-and-Comcast-Business-Reliable-High-Speed-Internet-Now-Available-in-Deerfield-New-Hampshire/",
       "published": null
     },
     {
-      "id": "stockanalysis:5aa10e19962b26ef",
-      "titleEn": "FTSE 100 battles through oil rout as miners rescue London from BP and Shell",
+      "id": "stockanalysis:fc17dccae636d739",
+      "titleEn": "College Football is Back: Casey's Breakfast Pizza Returns as the “Official Pizza of Noon Kickoffs”",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/ftse-100-battles-through-oil-rout-as-miners-rescue-london-from-bp-and-shell/",
+      "link": "https://www.businesswire.com/news/home/20260826408666/en/College-Football-is-Back-Casey%E2%80%99s-Breakfast-Pizza-Returns-as-the-%E2%80%9COfficial-Pizza-of-Noon-Kickoffs%E2%80%9D/",
       "published": null
     },
     {
-      "id": "stockanalysis:cf253e5f8bfddc45",
-      "titleEn": "Meta and U.S. states discuss settlement in landmark social media trial: Report",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Social media giant Meta has been in discussions with multiple U.S. states to settle a major child privacy and consumer protection case out of court, Bloomberg News reported Tuesday. With more than 3 billion users around the world, Meta is fending off accusations by a coalition of 29 states that it deliberately designed its products to hook children and gather their data while misleading the public.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-08-meta-states-discuss-settlement-landmark.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3f51c2e7ba7a596a",
-      "titleEn": "AV Receives $51 Million U.S. Army Order for Switchblade® 600 Loitering Munitions",
+      "id": "stockanalysis:e31c10f88c20fa8a",
+      "titleEn": "Buenaventura to Host Investor Day on November 10, 2026 in New York",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826941078/en/AV-Receives-51-Million-U.S.-Army-Order-for-Switchblade%C2%AE-600-Loitering-Munitions/",
+      "link": "https://www.businesswire.com/news/home/20260825894152/en/Buenaventura-to-Host-Investor-Day-on-November-10-2026-in-New-York/",
       "published": null
     },
     {
-      "id": "stockanalysis:e112f9e3ad030e0b",
-      "titleEn": "CoStar Report Shows Data Centers Fueling Increasing Share of U.S. Industrial Demand",
+      "id": "stockanalysis:e64528437f760465",
+      "titleEn": "ExxonMobil to Speak at Barclays 40th Annual Energy-Power Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826990641/en/CoStar-Report-Shows-Data-Centers-Fueling-Increasing-Share-of-U.S.-Industrial-Demand/",
+      "link": "https://www.businesswire.com/news/home/20260826193086/en/ExxonMobil-to-Speak-at-Barclays-40th-Annual-Energy-Power-Conference/",
       "published": null
     }
   ]
