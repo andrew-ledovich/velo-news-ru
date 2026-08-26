@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-26T09:40:08.180785Z",
+  "generatedAt": "2026-08-26T10:17:04.611847Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:b95b94af0d2002c8",
+      "titleEn": "US inflation test is hours away: 3 stocks most exposed to the PCE surprise",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/us-inflation-test-is-hours-away-3-stocks-most-exposed-to-the-pce-surprise/",
+      "published": null
+    },
     {
       "id": "stockanalysis:f83535f15aab6f98",
       "titleEn": "Nvidia Q2 earnings tonight: analyst sees $97.8B revenue and 55% stock upside",
@@ -112,21 +121,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ddc09fb3d555d7cf",
-      "titleEn": "Netflix and Stella Artois Bring the Perfect Serve to The Gentlemen Season 2",
+      "id": "stockanalysis:9624cee1d6fe3dbd",
+      "titleEn": "Federal Home Loan Bank of Atlanta Selects ACI Connetic to Modernize Its Member Payment Operations",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826832817/en/Netflix-and-Stella-Artois-Bring-the-Perfect-Serve-to-The-Gentlemen-Season-2/",
+      "link": "https://www.businesswire.com/news/home/20260826234729/en/Federal-Home-Loan-Bank-of-Atlanta-Selects-ACI-Connetic-to-Modernize-Its-Member-Payment-Operations/",
       "published": null
     },
     {
-      "id": "stockanalysis:34398e5272a17899",
-      "titleEn": "Nano One Advances Global LFP Cathode Strategy as Demand from Energy Storage, EV and Defence Applications Accelerates",
+      "id": "stockanalysis:feb19f369997e34a",
+      "titleEn": "Monroe Capital Supports Hidden Harbor Capital Partners' Acquisition of Escape Fire Protection Inc.",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://www.businesswire.com/news/home/20260826270085/en/Nano-One-Advances-Global-LFP-Cathode-Strategy-as-Demand-from-Energy-Storage-EV-and-Defence-Applications-Accelerates/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260826682737/en/Monroe-Capital-Supports-Hidden-Harbor-Capital-Partners%E2%80%99-Acquisition-of-Escape-Fire-Protection-Inc./",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b3cf7d9d5abd377a",
+      "titleEn": "Avalanche Treasury Company Reports Second Quarter 2026 Financial Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260826221979/en/Avalanche-Treasury-Company-Reports-Second-Quarter-2026-Financial-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4636cb0eec268b81",
+      "titleEn": "Donaldson Reports Record Fourth Quarter and Full-Year 2026 Sales and Earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260826565881/en/Donaldson-Reports-Record-Fourth-Quarter-and-Full-Year-2026-Sales-and-Earnings/",
       "published": null
     }
   ]
