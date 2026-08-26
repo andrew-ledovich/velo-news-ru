@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-08-26T12:26:49.006926Z",
+  "generatedAt": "2026-08-26T13:31:59.092760Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 20,
   "items": [
+    {
+      "id": "stockanalysis:04cfd077286162b3",
+      "titleEn": "Workday stock forecast ahead of earnings: buy, sell, or hold?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/workday-stock-forecast-ahead-of-earnings-buy-sell-or-hold/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cdd9f3b9506a87fa",
+      "titleEn": "Gold fades after PCE keeps September Fed hike live - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in early U.S. trading Wednesday, after July PCE inflation came in slightly hotter than expected and pushed Treasury yields higher ahead of Friday’s Jackson Hole remarks. At the time of writing, spot gold was trading near $4,633.50 an ounce, down 0.52%, while spot silver was trading at $68.720, up 0.26% on the session. The latest positioning shifted back toward a more cautious Fed path after this morning’s data stack. July PCE rose 0.2% on the month and 3.7% from a year earlier , above expectations for a 0.1% monthly gain and a 3.6% annual rate, while core PCE rose 0.2% on the month and 3.3% year-over-year. Q2 GDP had been tracking at a 1.5% annualized pace in the advance estimate, and July durable-goods orders were expected to rise 0.5% after a 0.3% June gain , with ex-transportation orders expected up 0.6%. The inflation print mattered most for rates: stock futures softened, Treasury yields edged higher across the curve and gold lost part of its fiscal-risk bid as traders reassessed how much room the Fed has to stay on hold. The next major policy signal is Fed Chair Kevin Warsh’s Jackson Hole speech Friday at 10 a.m. ET. Gold and silver are still trading inside the broader breakout structure, but the morning’s inflation data have slowed momentum. Gold remains above the $4,567 support area identified in the latest technical setup, but it has slipped back below the $4,661 resistance level after failing to extend the prior move. Silver continues to hold above the $68.39 support area, but the metal has not reclaimed the $69.90 breakout level after testing above $70 last week. The short-term message is mixed: fiscal concerns and a softer medium-term dollar trend remain supportive, but hotter PCE and higher yields have raised the hurdle for another immediate upside extension.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-26/gold-fades-after-pce-keeps-september-fed-hike-live-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f6e07169e982c399",
+      "titleEn": "Micron stock: A bullish reversal pattern and the Nvidia earnings catalyst",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/micron-stock-a-bullish-reversal-pattern-and-the-nvidia-earnings-catalyst/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:806e56de708d901e",
+      "titleEn": "Gold prices see some profit taking as US economy rises 1.5% in Q2, PCE inflation rises 0.2%",
+      "summaryEn": "(Kitco News) - Relatively steady economic data is prompting some investors to take profits in gold and silver as the Federal Reserve remains on track to raise interest rates to bring inflationary pressures under control. The U.S. Bureau of Economic Analysis (BEA) announced on Wednesday that the preliminary reading of second-quarter Gross Domestic Product (GDP) showed that the economy expanded by 1.5%, unchanged from the revised initial reading and still down from first-quarter growth of 2.1%. The data was in line with economists’ expectations. The initial reading for Q2 growth was revised down from 1.6%.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-26/gold-prices-see-some-profit-taking-us-economy-rises-15-q2-pce-inflation",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:99c6cccce7fae0fc",
+      "titleEn": "Priority Commerce Moves Into Public Sector With IntelliPay Acquisition",
+      "summaryEn": "Priority Technology Holdings is preparing to acquire government/utility payment processing company IntelliPay . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The deal, announced Wednesday (Aug. 26), allows Priority to extend its enterprise payments business into the public sector with the creation of Priority Commerce Government.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/acquiring/2026/priority-commerce-moves-into-public-sector-with-intellipay-acquisition/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:680677315ab39897",
+      "titleEn": "Gold price falls to session low $4,612/oz after U.S. durable goods rise 1.1% in July",
+      "summaryEn": "(Kitco News) - The gold market is trading near session lows after the latest economic data showed sales of durable goods last month beat expectations. The Commerce Department announced Wednesday that U.S. durable goods orders rose 1.1% in July, following June’s unrevised increase of 0.3%. The data was above expectations, as the consensus view of economists called for an increase of 0.5%. Core durable goods, which strip out the volatile transportation sector, rose 0.4% in July, below the consensus forecast for a 0.6% reading, while June’s core print was revised up to 1.1%.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-26/gold-price-falls-session-low-4612oz-after-us-durable-goods-rise-11-july",
+      "published": null
+    },
     {
       "id": "stockanalysis:d7a9bf039c275fd3",
       "titleEn": "Intuit stock plunges after weak 2027 revenue outlook: Is it a buy?",
@@ -112,21 +166,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:94399f60380ffb29",
-      "titleEn": "Advantest, SoftBank lift Nikkei 225: is Nvidia about to decide next move?",
+      "id": "stockanalysis:3f51c2e7ba7a596a",
+      "titleEn": "AV Receives $51 Million U.S. Army Order for Switchblade® 600 Loitering Munitions",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/advantest-softbank-lift-nikkei-225-is-nvidia-about-to-decide-next-move/",
+      "link": "https://www.businesswire.com/news/home/20260826941078/en/AV-Receives-51-Million-U.S.-Army-Order-for-Switchblade%C2%AE-600-Loitering-Munitions/",
       "published": null
     },
     {
-      "id": "stockanalysis:0516081a1d800cab",
-      "titleEn": "Kospi Index is stuck in a local bear market: is it time to buy South Korean stocks?",
+      "id": "stockanalysis:e112f9e3ad030e0b",
+      "titleEn": "CoStar Report Shows Data Centers Fueling Increasing Share of U.S. Industrial Demand",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/kospi-index-is-stuck-in-a-local-bear-market-is-it-time-to-buy-south-korean-stocks/",
+      "link": "https://www.businesswire.com/news/home/20260826990641/en/CoStar-Report-Shows-Data-Centers-Fueling-Increasing-Share-of-U.S.-Industrial-Demand/",
       "published": null
     }
   ]
