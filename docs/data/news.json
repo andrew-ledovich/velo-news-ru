@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T18:23:54.723734Z",
+  "generatedAt": "2026-08-26T20:19:46.628843Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:d791b39433d4633b",
@@ -91,69 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-25/gold-sees-profit-taking-even-us-consumer-confidence-drops-894",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:83213bff5447033f",
-      "titleEn": "Meta stock wobbly after firm reaches $16.7B settlement in child safety trial",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/meta-stock-wobbly-after-firm-reaches-16-7b-settlement-in-child-safety-trial/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ee657ac6422a5adc",
-      "titleEn": "Here's why the Zoom Video stock is crashing after its earnings report",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/heres-why-the-zoom-video-stock-is-crashing-after-its-earnings-report/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:04cfd077286162b3",
-      "titleEn": "Workday stock forecast ahead of earnings: buy, sell, or hold?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/workday-stock-forecast-ahead-of-earnings-buy-sell-or-hold/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cdd9f3b9506a87fa",
-      "titleEn": "Gold fades after PCE keeps September Fed hike live - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in early U.S. trading Wednesday, after July PCE inflation came in slightly hotter than expected and pushed Treasury yields higher ahead of Friday’s Jackson Hole remarks. At the time of writing, spot gold was trading near $4,633.50 an ounce, down 0.52%, while spot silver was trading at $68.720, up 0.26% on the session. The latest positioning shifted back toward a more cautious Fed path after this morning’s data stack. July PCE rose 0.2% on the month and 3.7% from a year earlier , above expectations for a 0.1% monthly gain and a 3.6% annual rate, while core PCE rose 0.2% on the month and 3.3% year-over-year. Q2 GDP had been tracking at a 1.5% annualized pace in the advance estimate, and July durable-goods orders were expected to rise 0.5% after a 0.3% June gain , with ex-transportation orders expected up 0.6%. The inflation print mattered most for rates: stock futures softened, Treasury yields edged higher across the curve and gold lost part of its fiscal-risk bid as traders reassessed how much room the Fed has to stay on hold. The next major policy signal is Fed Chair Kevin Warsh’s Jackson Hole speech Friday at 10 a.m. ET. Gold and silver are still trading inside the broader breakout structure, but the morning’s inflation data have slowed momentum. Gold remains above the $4,567 support area identified in the latest technical setup, but it has slipped back below the $4,661 resistance level after failing to extend the prior move. Silver continues to hold above the $68.39 support area, but the metal has not reclaimed the $69.90 breakout level after testing above $70 last week. The short-term message is mixed: fiscal concerns and a softer medium-term dollar trend remain supportive, but hotter PCE and higher yields have raised the hurdle for another immediate upside extension.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-26/gold-fades-after-pce-keeps-september-fed-hike-live-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ef862339a2209e44",
-      "titleEn": "Lanier Law Firm Supports Arkansas AG in Reaching Historic Child-Safety Reform Settlement with Meta",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826104839/en/Lanier-Law-Firm-Supports-Arkansas-AG-in-Reaching-Historic-Child-Safety-Reform-Settlement-with-Meta/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:91f307c9f5c670c7",
-      "titleEn": "Tema Launches First-Ever MLCC &amp; Power Semiconductor ETF (PSOX)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20260826951137/en/Tema-Launches-First-Ever-MLCC-Power-Semiconductor-ETF-PSOX/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d3f598f5b7f0eed6",
-      "titleEn": "LTK Brings Creator Marketing Into the Agentic Era With New Expanded Brand Platform Experience",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826188603/en/LTK-Brings-Creator-Marketing-Into-the-Agentic-Era-With-New-Expanded-Brand-Platform-Experience/",
       "published": null
     }
   ]
