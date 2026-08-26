@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-26T11:52:54.803558Z",
+  "generatedAt": "2026-08-26T12:26:49.006926Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:d7a9bf039c275fd3",
+      "titleEn": "Intuit stock plunges after weak 2027 revenue outlook: Is it a buy?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/intuit-stock-plunges-after-weak-2027-revenue-outlook-is-it-a-buy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:25268e922972d9ac",
+      "titleEn": "Plug Power stock faces a technical test just as its turnaround gains traction",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/plug-power-stock-faces-a-technical-test-just-as-its-turnaround-gains-traction/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c214324943cca570",
+      "titleEn": "AMD and Intel rise in premarket: why chip stocks are firming before Nvidia earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/amd-and-intel-rise-in-premarket-why-chip-stocks-are-firming-before-nvidia-earnings/",
+      "published": null
+    },
     {
       "id": "stockanalysis:f300ba95f1fbfcd7",
       "titleEn": "Is DKS stock a buy after its 30% fall on Tuesday? Here's what analysts say",
@@ -100,24 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/26/kospi-index-is-stuck-in-a-local-bear-market-is-it-time-to-buy-south-korean-stocks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d6b3285b734f096d",
-      "titleEn": "Canada's BMO and Scotiabank Beat Earnings Targets as Trade War Escalates",
-      "summaryEn": "Canadian banks are not being harmed by the effects of new U.S. tariffs that impact some of their customers, and the banks may even find new opportunities, Reuters reported Tuesday (Aug. 25). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Bank of Montreal ( BMO ) and Bank of Nova Scotia ( Scotiabank ) reported earnings Tuesday that beat quarterly profit estimates, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/canadas-bmo-and-scotiabank-beat-earnings-targets-as-trade-war-escalates/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8e3a3019e9df0084",
-      "titleEn": "QumulusAI Amends Oklahoma Lease, Extending Potential Tenure Through January 2044 at a Site With 19 MW of Contracted Power",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826977330/en/QumulusAI-Amends-Oklahoma-Lease-Extending-Potential-Tenure-Through-January-2044-at-a-Site-With-19-MW-of-Contracted-Power/",
       "published": null
     }
   ]
