@@ -1,96 +1,87 @@
 {
-  "generatedAt": "2026-08-26T20:19:46.628843Z",
+  "generatedAt": "2026-08-26T23:49:33.474325Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 9,
   "items": [
     {
-      "id": "stockanalysis:d791b39433d4633b",
-      "titleEn": "Amex and Bread Kick Off NFL-Themed Card Rewards Program",
-      "summaryEn": "American Express and Bread Financial have launched an NFL -related cards rewards program. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The NFL Extra Points Credit Card program gives cardholders access to American Express (Amex) benefits, offers, experiences and protections, the companies announced in a news release Wednesday (Aug. 26).",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/loyalty-and-rewards-news/2026/amex-and-bread-kick-off-nfl-themed-card-rewards-program/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b10ce00cfdd2a166",
-      "titleEn": "SpaceX stock is down around 1% today, but analysts remain strongly bullish",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/spacex-stock-is-down-around-1-today-but-analysts-remain-strongly-bullish/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:de52c1f9efde471a",
-      "titleEn": "Meta, US states agree to a $16.7 billion settlement in landmark teen safety case",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Meta agreed to pay a coalition of U.S. states as much as $16.7 billion and to impose sweeping new limits on how teenagers use Facebook and Instagram, according to a court filing Wednesday that ends a landmark trial in California. The proposed settlement, filed in federal court, would resolve claims by 29 states that Meta deliberately engineered its platforms to hook young users , misled the public about the risks and unlawfully collected data from children under 13.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-08-meta-states-billion-settlement-landmark.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2446d3d079841f37",
-      "titleEn": "Why is Alphabet stock down today?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/why-is-alphabet-stock-down-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:85945f6be4dc47ea",
-      "titleEn": "BofA warns of another 10% decline in chip stocks",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/bofa-warns-of-another-10-decline-in-chip-stocks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c4e7e8534d8b9477",
-      "titleEn": "$5,000 gold is back in play, and $10,000 is a matter of 'when, not if' - State Street's Doshi",
-      "summaryEn": "(Kitco News) - Gold ’s recent correction appears to have done little to damage its long-term investment case, and with concerns over unsustainable sovereign debt returning to the forefront of global financial markets, one strategist sees $5,000 an ounce by year-end firmly back in play. However, Aakash Doshi, Head of Gold Strategy at State Street Investment Management, said in an interview with Kitco News that investors should be thinking beyond gold’s next milestone. In the current global fiscal environment, he sees $10,000 gold as ultimately a question of timing rather than possibility. Doshi’s bullish outlook comes as gold prices have rallied roughly 15% in August, their best monthly performance since January 1999. Spot gold last traded at $4,621.30 an ounce, down 0.79% on the day.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-26/5000-gold-back-play-and-10000-matter-when-not-if-state-streets-doshi",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d44a64208f5206db",
-      "titleEn": "Scotiabank stock has soared to a record high after earnings: more upside?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/scotiabank-stock-has-soared-to-a-record-high-after-earnings-more-upside/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b8ebaacffc4d7132",
-      "titleEn": "Alibaba Targets Coding and Office Tasks With Low-Cost AI Model",
-      "summaryEn": "Alibaba introduced Qwen3.8-Flash , a new artificial intelligence model designed to deliver cost efficiency, the company said in a Wednesday (Aug. 26) post on social platform X. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); ⚡Meet Qwen3.8-Flash, a multimodal MoE and an early preview of the Qwen4 architecture, now open-weight!",
+      "id": "stockanalysis:1f7683bf9090451e",
+      "titleEn": "Anthropic Escalates Cloud Spending With $45 Billion Nscale Agreement",
+      "summaryEn": "Anthropic has agreed to pay $45 billion to rent cloud computing power from neocloud company Nscale ’s West Virginia data center, which is set to start operating in late 2027, Bloomberg reported Wednesday (Aug. 26), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The six-year commitment covers about 460 megawatts of power, according to the report.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/alibaba-targets-coding-office-tasks-with-low-cost-ai-model/",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-escalates-cloud-spending-with-45-billion-nscale-agreement/",
       "published": null
     },
     {
-      "id": "stockanalysis:b1cff495351a5227",
-      "titleEn": "Oklo stock analysis: Is it a buy or sell as insiders continue selling?",
+      "id": "stockanalysis:4f78bb340f00113a",
+      "titleEn": "Gold slips below $4,600 as yields, dollar firm after PCE - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in late-afternoon U.S. trading Wednesday, after hotter-than-expected PCE inflation lifted Treasury yields, firmed the U.S. dollar and forced profit-taking across precious metals ahead of Nvidia earnings and Friday’s Jackson Hole speech. At the time of writing, spot gold was trading near $4,591.70 an ounce, down 1.42%, while spot silver was trading at $68.000, down 0.78% on the session. North American equity markets finished near flat to slightly lower. The S&P 500 fell 1.58 points, or less than 0.1%, to 7,675.70, the Dow Jones Industrial Average lost 113.52 points, or 0.2%, to 53,463.88, the Nasdaq Composite slipped 21.10 points, or 0.1%, to 26,130.20, and the Russell 2000 fell 4.12 points, or 0.1%, to 3,005.90. European markets also finished little changed overall, with the STOXX Europe 600 down 0.01% to 656.41. London’s FTSE 100 fell 0.07% to 10,878.12, Germany’s DAX rose 0.08% to 26,285.96, France’s CAC 40 gained 0.27% to 8,462.39 and Italy’s FTSE MIB added 0.31% to 52,882.99. The latest positioning shifted against the lower-yields metals trade after the morning data stack. July PCE rose 0.2% on the month and 3.7% from a year earlier , above the 3.6% consensus year-over-year estimate, while core PCE rose 0.2% on the month and 3.3% year-over-year. Second-quarter GDP was unrevised at a 1.5% annualized pace, while July durable-goods orders rose 1.1% to $339.3 billion , above expectations. The data mix left the market less willing to extend the post-buyback bond rally: two-year yields moved above 4.22%, the 10-year yield settled above 4.66%, the dollar index rose and October Fed-hike odds moved above 50%. Gold’s failure to hold above the $4,630 to $4,650 resistance area shows the trade is now more sensitive to inflation surprises than to fiscal-risk hedging alone.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-26/gold-slips-below-4600-yields-dollar-firm-after-pce-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a066a643f9c57e63",
+      "titleEn": "China's ‘Gold Road' initiative is central to its national security, de-dollarization, and Global South strategies – S&amp;P Global",
+      "summaryEn": "(Kitco News) – Gold is a “strategic mineral” to the Chinese government and plays a central role not only in the country’s long-term economic policies, but also in its national security strategy – and the international “Gold Road” initiative is a central component in all of this, according to a new analysis from S&P Global. The in-depth report – which offers a comprehensive analysis of every area of China’s gold market including regulation, consumer demand, mining and production, and the central bank – also explores the ways that China is leveraging its international relationships to place gold at the center of its economic and defense planning. The authors of the report explain that while China’s globalization strategy was interrupted by COVID, it has since been revived with “a renewed focus on gold that will likely drive Chinese efforts for years to come.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-26/chinas-gold-road-initiative-central-its-national-security-de-dollarization",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0b38b504524a8956",
+      "titleEn": "Nvidia stock slips 1% despite beating earnings expectations and raising guidance",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/oklo-stock-analysis-is-it-a-buy-or-sell-as-insiders-continue-selling/",
+      "link": "https://invezz.com/news/2026/08/26/nvidia-stock-slips-1-despite-beating-earnings-expectations-and-raising-guidance/",
       "published": null
     },
     {
-      "id": "stockanalysis:accbce09816d307e",
-      "titleEn": "Gold sees profit taking even as US consumer confidence drops 89.4",
-      "summaryEn": "(Kitco News) - The gold market continues to face modest selling pressure even as consumer confidence in the U.S. falls to its lowest level since the start of the year. The Consumer Confidence Index fell to 89.4 in August, compared to July’s reading of 90.8. The data was also below economists’ consensus forecast for a reading of 90.3. According to the report, consumer pessimism was driven by future expectations. The Present Situation Index—based on consumers&#x27; assessment of current business and labor market conditions—rose by 6.8 points to 121.2, ending three consecutive monthly declines, the report said. The Expectations Index—based on consumers&#x27; short-term outlook for income, business, and labor market conditions—dropped by 5.8 points to 68.2.",
+      "id": "stockanalysis:1e1fff6c3ae4db89",
+      "titleEn": "Ibotta to Participate in Upcoming Investor Conferences",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-25/gold-sees-profit-taking-even-us-consumer-confidence-drops-894",
+      "link": "https://www.businesswire.com/news/home/20260826170812/en/Ibotta-to-Participate-in-Upcoming-Investor-Conferences/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bab82018181050f4",
+      "titleEn": "Northern Trust and CSC Deepen Digital Asset Collaboration Through New Innovation Partnership",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260826971057/en/Northern-Trust-and-CSC-Deepen-Digital-Asset-Collaboration-Through-New-Innovation-Partnership/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6b4c318603b2771e",
+      "titleEn": "Dataminr Launches First Alert Advanced and Secures Landmark $318 Million Contract with the U.S. Department of War",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260826062078/en/Dataminr-Launches-First-Alert-Advanced-and-Secures-Landmark-318-Million-Contract-with-the-U.S.-Department-of-War/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0fe8ee4e9a369f03",
+      "titleEn": "Perma-Pipe to Report Second Quarter 2026 Results and Host Investor Conference Call on Wednesday, September 9, 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260826660362/en/Perma-Pipe-to-Report-Second-Quarter-2026-Results-and-Host-Investor-Conference-Call-on-Wednesday-September-9-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7cfbf8ab73cc2615",
+      "titleEn": "Lomiko Metals Announces Receipt of Interim Court Order and Mailing of Management Information Circular Relating to Arrangement With Global Battery Materials",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://www.businesswire.com/news/home/20260826716367/en/Lomiko-Metals-Announces-Receipt-of-Interim-Court-Order-and-Mailing-of-Management-Information-Circular-Relating-to-Arrangement-With-Global-Battery-Materials/",
       "published": null
     }
   ]
