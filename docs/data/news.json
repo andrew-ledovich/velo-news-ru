@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-26T08:59:07.209489Z",
+  "generatedAt": "2026-08-26T09:40:08.180785Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:f83535f15aab6f98",
+      "titleEn": "Nvidia Q2 earnings tonight: analyst sees $97.8B revenue and 55% stock upside",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/nvidia-q2-earnings-tonight-analyst-sees-97-8b-revenue-and-55-stock-upside/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b92b1c5185e83fb6",
+      "titleEn": "Moonshot AI discusses Kimi K3 hosting deals with Microsoft, Amazon, Google: report",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/26/moonshot-ai-discusses-kimi-k3-hosting-deals-with-microsoft-amazon-google-report/",
+      "published": null
+    },
     {
       "id": "stockanalysis:dfff2edcb2853819",
       "titleEn": "Meta stock has over 50% upside, but investors may be missing this catalyst",
