@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-26T07:24:42.167732Z",
+  "generatedAt": "2026-08-26T08:05:39.361932Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:cf253e5f8bfddc45",
+      "titleEn": "Meta and U.S. states discuss settlement in landmark social media trial: Report",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Social media giant Meta has been in discussions with multiple U.S. states to settle a major child privacy and consumer protection case out of court, Bloomberg News reported Tuesday. With more than 3 billion users around the world, Meta is fending off accusations by a coalition of 29 states that it deliberately designed its products to hook children and gather their data while misleading the public.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-08-meta-states-discuss-settlement-landmark.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:94399f60380ffb29",
+      "titleEn": "Advantest, SoftBank lift Nikkei 225: is Nvidia about to decide next move?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/advantest-softbank-lift-nikkei-225-is-nvidia-about-to-decide-next-move/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0516081a1d800cab",
+      "titleEn": "Kospi Index is stuck in a local bear market: is it time to buy South Korean stocks?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/kospi-index-is-stuck-in-a-local-bear-market-is-it-time-to-buy-south-korean-stocks/",
+      "published": null
+    },
     {
       "id": "stockanalysis:d6b3285b734f096d",
       "titleEn": "Canada's BMO and Scotiabank Beat Earnings Targets as Trade War Escalates",
@@ -64,24 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260825083234/en/e.l.f.-Brands-Will-Surprise-and-Delight-as-the-Only-Beauty-Brand-at-the-Minnesota-State-Fair/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b9edce56894e76c1",
-      "titleEn": "Sonendo Announces Key Initiatives to Drive Business Towards Cashflow Break-Even",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825390808/en/Sonendo-Announces-Key-Initiatives-to-Drive-Business-Towards-Cashflow-Break-Even/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8a5702a7a47098cd",
-      "titleEn": "FORTÉ Acquires Vega Global, APAC's Largest Systems Integrator, Expanding Global Reach",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825202399/en/FORT%C3%89-Acquires-Vega-Global-APACs-Largest-Systems-Integrator-Expanding-Global-Reach/",
       "published": null
     }
   ]
