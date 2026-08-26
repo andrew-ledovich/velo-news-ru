@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T23:59:57.357059Z",
+  "generatedAt": "2026-08-26T01:23:52.888372Z",
   "sourceCount": 1,
   "count": 9,
   "items": [
@@ -67,21 +67,21 @@
       "published": null
     },
     {
+      "id": "stockanalysis:8a5702a7a47098cd",
+      "titleEn": "FORTÉ Acquires Vega Global, APAC's Largest Systems Integrator, Expanding Global Reach",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260825202399/en/FORT%C3%89-Acquires-Vega-Global-APACs-Largest-Systems-Integrator-Expanding-Global-Reach/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:e15c7f01b8fdbbbc",
       "titleEn": "Ivonescimab Plus Chemotherapy Demonstrates Statistically Significant Overall Survival Benefit Compared to Durvalumab Plus Chemotherapy in First-Line Advanced Biliary Tract Cancer in Single-Region Trial Conducted by Akeso in China",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260825861058/en/Ivonescimab-Plus-Chemotherapy-Demonstrates-Statistically-Significant-Overall-Survival-Benefit-Compared-to-Durvalumab-Plus-Chemotherapy-in-First-Line-Advanced-Biliary-Tract-Cancer-in-Single-Region-Trial-Conducted-by-Akeso-in-China/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b71dfdadcdd33295",
-      "titleEn": "Papa Johns Completes Strategic Refranchising of Orlando-area Restaurants with Franchisee Wade Oney",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825584354/en/Papa-Johns-Completes-Strategic-Refranchising-of-Orlando-area-Restaurants-with-Franchisee-Wade-Oney/",
       "published": null
     }
   ]
