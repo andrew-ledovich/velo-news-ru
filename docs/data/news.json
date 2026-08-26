@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-26T08:05:39.361932Z",
+  "generatedAt": "2026-08-26T08:59:07.209489Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:dfff2edcb2853819",
+      "titleEn": "Meta stock has over 50% upside, but investors may be missing this catalyst",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/meta-stock-has-over-50-upside-but-investors-may-be-missing-this-catalyst/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:309c40d0c042669c",
+      "titleEn": "Salesforce Q2 earnings today: what to expect from CRM stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/salesforce-q2-earnings-today-what-to-expect-from-crm-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5aa10e19962b26ef",
+      "titleEn": "FTSE 100 battles through oil rout as miners rescue London from BP and Shell",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/ftse-100-battles-through-oil-rout-as-miners-rescue-london-from-bp-and-shell/",
+      "published": null
+    },
     {
       "id": "stockanalysis:cf253e5f8bfddc45",
       "titleEn": "Meta and U.S. states discuss settlement in landmark social media trial: Report",
@@ -67,12 +94,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:12679523b8135b9a",
-      "titleEn": "Natixis raises gold price target to $5,000 as U.S. debt and bond market fears mount",
-      "summaryEn": "(Kitco News) - After a months-long correction, gold prices appear to be back on the path to $5,000 an ounce, according to one market analyst. On Tuesday, Bernard Dahdah, Precious Metals Analyst at Natixis, increased his year-end price forecast for gold, saying he now sees the yellow metal reaching $5,000 by year-end, up from his previous target of $4,600 an ounce. The upgrade comes as gold prices have held critical support above $4,000 an ounce and are looking to end the month nearly 15% higher. Gold is on track to see its best monthly gain since September 1999. Spot gold last traded at $4,645.30 an ounce, down 0.12% on the day.",
+      "id": "stockanalysis:ddc09fb3d555d7cf",
+      "titleEn": "Netflix and Stella Artois Bring the Perfect Serve to The Gentlemen Season 2",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-25/natixis-raises-gold-price-target-5000-us-debt-and-bond-market-fears-mount",
+      "link": "https://www.businesswire.com/news/home/20260826832817/en/Netflix-and-Stella-Artois-Bring-the-Perfect-Serve-to-The-Gentlemen-Season-2/",
       "published": null
     },
     {
@@ -82,15 +109,6 @@
       "source": "Stock Analysis",
       "topic": "EV",
       "link": "https://www.businesswire.com/news/home/20260826270085/en/Nano-One-Advances-Global-LFP-Cathode-Strategy-as-Demand-from-Energy-Storage-EV-and-Defence-Applications-Accelerates/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bebecb64df43f5db",
-      "titleEn": "e.l.f. Brands Will Surprise and Delight as the Only Beauty Brand at the Minnesota State Fair",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260825083234/en/e.l.f.-Brands-Will-Surprise-and-Delight-as-the-Only-Beauty-Brand-at-the-Minnesota-State-Fair/",
       "published": null
     }
   ]
