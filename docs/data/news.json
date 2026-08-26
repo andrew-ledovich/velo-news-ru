@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T06:27:44.653543Z",
+  "generatedAt": "2026-08-26T07:24:42.167732Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 9,
   "items": [
     {
       "id": "stockanalysis:d6b3285b734f096d",
@@ -46,6 +46,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-25/natixis-raises-gold-price-target-5000-us-debt-and-bond-market-fears-mount",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:34398e5272a17899",
+      "titleEn": "Nano One Advances Global LFP Cathode Strategy as Demand from Energy Storage, EV and Defence Applications Accelerates",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://www.businesswire.com/news/home/20260826270085/en/Nano-One-Advances-Global-LFP-Cathode-Strategy-as-Demand-from-Energy-Storage-EV-and-Defence-Applications-Accelerates/",
       "published": null
     },
     {
