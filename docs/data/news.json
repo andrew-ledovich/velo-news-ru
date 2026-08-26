@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T10:17:04.611847Z",
+  "generatedAt": "2026-08-26T10:57:53.319555Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:b95b94af0d2002c8",
@@ -109,51 +109,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-08-25/gold-edges-higher-yields-fall-silver-slips-profit-taking-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:eaf82dd1e618a0f2",
-      "titleEn": "Amazon Clothing Share Doubles as Walmart Loses Ground",
-      "summaryEn": "Amazon’s estimated clothing sales reached 2.8 times Walmart’s in 2025, up from 1.15 times in 2019. The Amazon-Walmart clothing revenue gap widened to $19.7 billion in Q2 2026 from $15.3 billion a year earlier. Walmart’s latest earnings show strong growth in selected fashion brands even as its overall clothing share remains below its 2019 level.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/retail/2026/amazon-clothing-share-doubles-as-walmart-loses-ground/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9624cee1d6fe3dbd",
-      "titleEn": "Federal Home Loan Bank of Atlanta Selects ACI Connetic to Modernize Its Member Payment Operations",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826234729/en/Federal-Home-Loan-Bank-of-Atlanta-Selects-ACI-Connetic-to-Modernize-Its-Member-Payment-Operations/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:feb19f369997e34a",
-      "titleEn": "Monroe Capital Supports Hidden Harbor Capital Partners' Acquisition of Escape Fire Protection Inc.",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826682737/en/Monroe-Capital-Supports-Hidden-Harbor-Capital-Partners%E2%80%99-Acquisition-of-Escape-Fire-Protection-Inc./",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b3cf7d9d5abd377a",
-      "titleEn": "Avalanche Treasury Company Reports Second Quarter 2026 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826221979/en/Avalanche-Treasury-Company-Reports-Second-Quarter-2026-Financial-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4636cb0eec268b81",
-      "titleEn": "Donaldson Reports Record Fourth Quarter and Full-Year 2026 Sales and Earnings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826565881/en/Donaldson-Reports-Record-Fourth-Quarter-and-Full-Year-2026-Sales-and-Earnings/",
       "published": null
     }
   ]
