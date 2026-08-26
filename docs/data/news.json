@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-26T10:57:53.319555Z",
+  "generatedAt": "2026-08-26T11:25:16.684935Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:2e16321b09d729b2",
+      "titleEn": "Wall Street futures flat ahead of NVDA earnings: 5 things to know before market opens",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/26/wall-street-futures-flat-ahead-of-nvda-earnings-5-things-to-know-before-market-opens/",
+      "published": null
+    },
     {
       "id": "stockanalysis:b95b94af0d2002c8",
       "titleEn": "US inflation test is hours away: 3 stocks most exposed to the PCE surprise",
@@ -103,12 +112,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:99785cc2bb6b1962",
-      "titleEn": "Gold edges higher as yields fall, silver slips on profit-taking - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were slightly higher and spot silver prices were weaker in late U.S. trading Tuesday, as lower Treasury yields and softer U.S. economic data supported gold while profit-taking weighed on silver after its recent advance. At the time of writing, spot gold was trading near $4,653.40 an ounce, up 0.05% on the session, while spot silver was trading at $68.470, down 0.53%. U.S. data reinforced a late-session bid for duration but did not produce a clean bullish impulse for metals. The Conference Board’s consumer confidence index slipped to 89.4 in August from 90.2 in July, while its expectations index fell by 5.8 points to 68.2. New home sales fell 10.5% in July, against expectations for a much smaller contraction. The data pushed Treasury yields lower, with the 10-year yield down to 4.638%, the 30-year yield down to 5.174% and the two-year yield at 4.195%. Market positioning remains caught between softer growth data and inflation risk. Rate futures still left a September hold as the base case, but kept a material hike tail in place ahead of July PCE inflation, and Friday’s Jackson Hole speech from Fed Chair Kevin Warsh. That mix helped bonds recover from last week’s selloff while limiting gold’s upside after a roughly 7% five-day run. Ole Hansen, head of commodity strategy at Saxo, said the weakness in gold appeared “primarily driven by profit-taking.”",
+      "id": "stockanalysis:30300fb7cc84414c",
+      "titleEn": "Definium Therapeutics to Participate at Upcoming Investor Conferences and Events",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-25/gold-edges-higher-yields-fall-silver-slips-profit-taking-kitco-pm-report",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260826612661/en/Definium-Therapeutics-to-Participate-at-Upcoming-Investor-Conferences-and-Events/",
       "published": null
     }
   ]
