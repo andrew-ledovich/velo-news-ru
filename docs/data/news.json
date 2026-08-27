@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-08-26T23:49:33.474325Z",
+  "generatedAt": "2026-08-27T05:33:40.794413Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:7c75377d985a03ec",
+      "titleEn": "Alibaba unveils cheaper Qwen AI model: is this what its stock needed?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/27/alibaba-unveils-cheaper-qwen-ai-model-is-this-what-its-stock-needed/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5d8e00f229090ecd",
+      "titleEn": "Kospi Index on edge as SK Hynix stock jumps after strong Nvidia guidance",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/27/kospi-index-on-edge-as-sk-hynix-stock-jumps-after-strong-nvidia-guidance/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a5372bc693ab0578",
+      "titleEn": "Samsung, SK Hynix climb sharply: why Nvidia earnings strengthened memory bull case",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/27/samsung-sk-hynix-climb-sharply-why-nvidia-earnings-strengthened-memory-bull-case/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:aa922c656b22fee8",
+      "titleEn": "Nvidia CEO Says AI Is Already Productive, Not Just Promising",
+      "summaryEn": "AI’s value is already showing up across industries, from trading floors to drug labs to cybersecurity startups, according to Nvidia CEO Jensen Huang. He dismissed the AGI debate as “kind of senseless,” arguing the real test is whether AI does useful work and generates profit. Huang addressed two investor worries directly: Open-source models pose no threat since nearly all run on Nvidia hardware, and frontier labs building custom chips won’t dent demand since Nvidia’s full-stack platform is different enough to keep them as customers. Nvidia posted record revenue of $96.2 billion, up 106% year over year, with data center revenue up 117%, and guided next quarter to $108 billion despite remaining supply constrained.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-ceo-says-ai-is-already-productive-not-just-promising/",
+      "published": null
+    },
     {
       "id": "stockanalysis:1f7683bf9090451e",
       "titleEn": "Anthropic Escalates Cloud Spending With $45 Billion Nscale Agreement",
@@ -40,48 +76,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1e1fff6c3ae4db89",
-      "titleEn": "Ibotta to Participate in Upcoming Investor Conferences",
+      "id": "stockanalysis:8e032718f50d45e7",
+      "titleEn": "Materialise Reports Second Quarter and Half-Year 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826170812/en/Ibotta-to-Participate-in-Upcoming-Investor-Conferences/",
+      "link": "https://www.businesswire.com/news/home/20260826250614/en/Materialise-Reports-Second-Quarter-and-Half-Year-2026-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:bab82018181050f4",
-      "titleEn": "Northern Trust and CSC Deepen Digital Asset Collaboration Through New Innovation Partnership",
+      "id": "stockanalysis:7d8d37552eaf6d6f",
+      "titleEn": "EverGen Infrastructure Reports Q2 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826971057/en/Northern-Trust-and-CSC-Deepen-Digital-Asset-Collaboration-Through-New-Innovation-Partnership/",
+      "link": "https://www.businesswire.com/news/home/20260826788199/en/EverGen-Infrastructure-Reports-Q2-2026-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:6b4c318603b2771e",
-      "titleEn": "Dataminr Launches First Alert Advanced and Secures Landmark $318 Million Contract with the U.S. Department of War",
+      "id": "stockanalysis:fcc911f04462ed27",
+      "titleEn": "PRIMERICA HOUSEHOLD BUDGET INDEX™ (HBI™): Purchasing Power for Middle-Income Americans Up Slightly in July",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826062078/en/Dataminr-Launches-First-Alert-Advanced-and-Secures-Landmark-318-Million-Contract-with-the-U.S.-Department-of-War/",
+      "link": "https://www.businesswire.com/news/home/20260826011714/en/PRIMERICA-HOUSEHOLD-BUDGET-INDEX%E2%84%A2-HBI%E2%84%A2-Purchasing-Power-for-Middle-Income-Americans-Up-Slightly-in-July/",
       "published": null
     },
     {
-      "id": "stockanalysis:0fe8ee4e9a369f03",
-      "titleEn": "Perma-Pipe to Report Second Quarter 2026 Results and Host Investor Conference Call on Wednesday, September 9, 2026",
+      "id": "stockanalysis:1f3671f399e5ad2e",
+      "titleEn": "Faraday Future Announces Execution Roadmap for Its “Built in USA” Acceleration Program and Launches Distributor Recruitment; Targets to Bring Its Robot Factory Online by Year-End and First New EAI Device Product Off the Line in February 2027",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826660362/en/Perma-Pipe-to-Report-Second-Quarter-2026-Results-and-Host-Investor-Conference-Call-on-Wednesday-September-9-2026/",
+      "link": "https://www.businesswire.com/news/home/20260826459178/en/Faraday-Future-Announces-Execution-Roadmap-for-Its-%E2%80%9CBuilt-in-USA%E2%80%9D-Acceleration-Program-and-Launches-Distributor-Recruitment-Targets-to-Bring-Its-Robot-Factory-Online-by-Year-End-and-First-New-EAI-Device-Product-Off-the-Line-in-February-2027/",
       "published": null
     },
     {
-      "id": "stockanalysis:7cfbf8ab73cc2615",
-      "titleEn": "Lomiko Metals Announces Receipt of Interim Court Order and Mailing of Management Information Circular Relating to Arrangement With Global Battery Materials",
+      "id": "stockanalysis:1ca587cc03894f63",
+      "titleEn": "Renesas Establishes Physical AI &amp; Robotics Lab in Beijing to Accelerate Next-Generation Robotics Innovation",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://www.businesswire.com/news/home/20260826716367/en/Lomiko-Metals-Announces-Receipt-of-Interim-Court-Order-and-Mailing-of-Management-Information-Circular-Relating-to-Arrangement-With-Global-Battery-Materials/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260826040795/en/Renesas-Establishes-Physical-AI-Robotics-Lab-in-Beijing-to-Accelerate-Next-Generation-Robotics-Innovation/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f89ceb9ed32559a6",
+      "titleEn": "Capstone Publishes Investor FAQ: 75% of Convertible Note Principal Retired, Approximately $1.72 Million Remaining",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260826038426/en/Capstone-Publishes-Investor-FAQ-75-of-Convertible-Note-Principal-Retired-Approximately-1.72-Million-Remaining/",
       "published": null
     }
   ]
