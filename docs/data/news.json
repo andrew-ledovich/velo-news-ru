@@ -1,132 +1,186 @@
 {
-  "generatedAt": "2026-08-27T05:33:40.794413Z",
+  "generatedAt": "2026-08-27T16:47:37.448649Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 20,
   "items": [
     {
-      "id": "stockanalysis:7c75377d985a03ec",
-      "titleEn": "Alibaba unveils cheaper Qwen AI model: is this what its stock needed?",
-      "summaryEn": null,
+      "id": "stockanalysis:b47baec081fabe34",
+      "titleEn": "‘Gold is a clear beneficiary of de-dollarization",
+      "summaryEn": "(Kitco News) – Gold is benefiting from a reinvigorated de-dollarization trade, and the monumental fiscal challenges facing the United States could push the yellow metal’s price above $5,400 by next summer, according to commodity and currency analysts at UBS. “Investors’ focus on the long-term shift away from the US dollar, known as de-dollarization, has increased recently amid renewed concerns about the US fiscal outlook,” the Swiss banking giant’s Chief Investment Office wrote in a note on Tuesday. “Over the past month, the DXY dollar index has fallen 2.4%.” ( Kitco Global Index shows how much of today&#x27;s gold move is the dollar versus the gold market itself.)",
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/27/alibaba-unveils-cheaper-qwen-ai-model-is-this-what-its-stock-needed/",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-27/gold-clear-beneficiary-de-dollarization-and-we-think-it-can-continue-climb",
       "published": null
     },
     {
-      "id": "stockanalysis:5d8e00f229090ecd",
-      "titleEn": "Kospi Index on edge as SK Hynix stock jumps after strong Nvidia guidance",
+      "id": "stockanalysis:640f51c727e19fab",
+      "titleEn": "Analysts see further upside as Okta stock hits YTD high on Q2 earnings",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/27/kospi-index-on-edge-as-sk-hynix-stock-jumps-after-strong-nvidia-guidance/",
+      "link": "https://invezz.com/news/2026/08/27/analysts-see-further-upside-as-okta-stock-hits-ytd-high-on-q2-earnings/",
       "published": null
     },
     {
-      "id": "stockanalysis:a5372bc693ab0578",
-      "titleEn": "Samsung, SK Hynix climb sharply: why Nvidia earnings strengthened memory bull case",
+      "id": "stockanalysis:9d8770a5f658e026",
+      "titleEn": "Why are memory stocks MU, SNDK, and WDC falling despite Nvidia's results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/27/samsung-sk-hynix-climb-sharply-why-nvidia-earnings-strengthened-memory-bull-case/",
+      "link": "https://invezz.com/news/2026/08/27/why-are-memory-stocks-mu-sndk-and-wdc-falling-despite-nvidias-results/",
       "published": null
     },
     {
-      "id": "stockanalysis:aa922c656b22fee8",
-      "titleEn": "Nvidia CEO Says AI Is Already Productive, Not Just Promising",
-      "summaryEn": "AI’s value is already showing up across industries, from trading floors to drug labs to cybersecurity startups, according to Nvidia CEO Jensen Huang. He dismissed the AGI debate as “kind of senseless,” arguing the real test is whether AI does useful work and generates profit. Huang addressed two investor worries directly: Open-source models pose no threat since nearly all run on Nvidia hardware, and frontier labs building custom chips won’t dent demand since Nvidia’s full-stack platform is different enough to keep them as customers. Nvidia posted record revenue of $96.2 billion, up 106% year over year, with data center revenue up 117%, and guided next quarter to $108 billion despite remaining supply constrained.",
+      "id": "stockanalysis:b7243566a7695718",
+      "titleEn": "Wells Fargo Makes New Push to Recruit Wealth Managers",
+      "summaryEn": "Wells Fargo has spent the last few years overhauling its wealth management business. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Now, the banking giant is trying to convince hundreds of financial advisors to join that division, Bloomberg News reported Thursday (Aug. 27).",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/wells-fargo-makes-new-push-to-recruit-wealth-managers/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a69f8660ed6466f7",
+      "titleEn": "IREN stock jumps ahead of earnings as neoclouds cheer Nvidia's results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/27/iren-stock-jumps-ahead-of-earnings-as-neoclouds-cheer-nvidias-results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a2a0ef47b537c89a",
+      "titleEn": "Why is AMD stock falling while Intel stock rises after Nvidia's earnings?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/27/why-is-amd-stock-falling-while-intel-stock-rises-after-nvidias-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1791e1a2698a3920",
+      "titleEn": "These three stocks are must-owns after the PCE data",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/27/these-three-stocks-are-must-owns-after-the-pce-data/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:86400856b69657f6",
+      "titleEn": "Affirm stock is compressing: here's why it may pop after earnings today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/27/affirm-stock-is-compressing-heres-why-it-may-pop-after-earnings-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:61571eae8ac94ca1",
+      "titleEn": "Oracle stock has bottomed? Here's what the chart says ahead of earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/27/oracle-stock-has-bottomed-heres-what-the-chart-says-ahead-of-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1ef53bda90ccbce1",
+      "titleEn": "Why Nvidia stock is soaring over 7% today and how high it can go",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/27/why-nvidia-stock-is-soaring-over-7-today-and-how-high-it-can-go/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6383918d6323c024",
+      "titleEn": "HP stock slides 5% as memory costs pressure PC margins",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/27/hp-stock-slides-5-as-memory-costs-pressure-pc-margins/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ed0716bc468b6d1f",
+      "titleEn": "Nasdaq opens higher as Nvidia earnings revive AI trade, software stocks jump",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-ceo-says-ai-is-already-productive-not-just-promising/",
+      "link": "https://invezz.com/news/2026/08/27/nasdaq-opens-higher-as-nvidia-earnings-revive-ai-trade-software-stocks-jump/",
       "published": null
     },
     {
-      "id": "stockanalysis:1f7683bf9090451e",
-      "titleEn": "Anthropic Escalates Cloud Spending With $45 Billion Nscale Agreement",
-      "summaryEn": "Anthropic has agreed to pay $45 billion to rent cloud computing power from neocloud company Nscale ’s West Virginia data center, which is set to start operating in late 2027, Bloomberg reported Wednesday (Aug. 26), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The six-year commitment covers about 460 megawatts of power, according to the report.",
+      "id": "stockanalysis:65e9f3ca86b7cb46",
+      "titleEn": "Micron stock: top reasons why MU may soar after the Nvidia earnings",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-escalates-cloud-spending-with-45-billion-nscale-agreement/",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/27/micron-stock-top-reasons-why-mu-may-soar-after-the-nvidia-earnings/",
       "published": null
     },
     {
-      "id": "stockanalysis:4f78bb340f00113a",
-      "titleEn": "Gold slips below $4,600 as yields, dollar firm after PCE - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in late-afternoon U.S. trading Wednesday, after hotter-than-expected PCE inflation lifted Treasury yields, firmed the U.S. dollar and forced profit-taking across precious metals ahead of Nvidia earnings and Friday’s Jackson Hole speech. At the time of writing, spot gold was trading near $4,591.70 an ounce, down 1.42%, while spot silver was trading at $68.000, down 0.78% on the session. North American equity markets finished near flat to slightly lower. The S&P 500 fell 1.58 points, or less than 0.1%, to 7,675.70, the Dow Jones Industrial Average lost 113.52 points, or 0.2%, to 53,463.88, the Nasdaq Composite slipped 21.10 points, or 0.1%, to 26,130.20, and the Russell 2000 fell 4.12 points, or 0.1%, to 3,005.90. European markets also finished little changed overall, with the STOXX Europe 600 down 0.01% to 656.41. London’s FTSE 100 fell 0.07% to 10,878.12, Germany’s DAX rose 0.08% to 26,285.96, France’s CAC 40 gained 0.27% to 8,462.39 and Italy’s FTSE MIB added 0.31% to 52,882.99. The latest positioning shifted against the lower-yields metals trade after the morning data stack. July PCE rose 0.2% on the month and 3.7% from a year earlier , above the 3.6% consensus year-over-year estimate, while core PCE rose 0.2% on the month and 3.3% year-over-year. Second-quarter GDP was unrevised at a 1.5% annualized pace, while July durable-goods orders rose 1.1% to $339.3 billion , above expectations. The data mix left the market less willing to extend the post-buyback bond rally: two-year yields moved above 4.22%, the 10-year yield settled above 4.66%, the dollar index rose and October Fed-hike odds moved above 50%. Gold’s failure to hold above the $4,630 to $4,650 resistance area shows the trade is now more sensitive to inflation surprises than to fiscal-risk hedging alone.",
+      "id": "stockanalysis:ebfb1f762796aad0",
+      "titleEn": "Gold steadies near $4,590 as claims dip, Fed hike risk stays live - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are little changed to weaker in early U.S. trading Thursday, as a firmer rates backdrop offset bargain hunting after Wednesday’s post-PCE pullback. At the time of writing, spot gold was trading near $4,588.50 an ounce, down 0.10%, while spot silver was trading at $67.950, down 0.06% on the session. Gold moved off the lower end of its overnight range after weekly jobless claims fell to 203,000 for the week ended Aug. 22 , below the 208,000 consensus estimate and down from a revised 207,000 the prior week. Continuing claims fell to 1.778 million for the week ended Aug. 15, against expectations for 1.790 million, keeping the labor-market signal too firm to give bullion a clean rate-relief trade. The latest market positioning is still being shaped by Wednesday’s data stack. July PCE inflation rose 0.2% on the month and 3.7% from a year earlier, while core PCE rose 0.2% and 3.3% year-over-year . Q2 GDP was unrevised at a 1.5% annualized pace. The combined message left September pricing tilted toward a Fed hold, but kept a year-end hike live: futures implied a 36.5% probability of a 25-basis-point September hike and a 72.7% probability of at least one hike by December. That has kept the 10-year Treasury yield near the 4.7% area and the dollar steady to firmer, limiting gold’s response to softer risk sentiment.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-26/gold-slips-below-4600-yields-dollar-firm-after-pce-kitco-pm-report",
+      "link": "https://www.kitco.com/news/article/2026-08-27/gold-steadies-near-4590-claims-dip-fed-hike-risk-stays-live-kitco-am-report",
       "published": null
     },
     {
-      "id": "stockanalysis:a066a643f9c57e63",
-      "titleEn": "China's ‘Gold Road' initiative is central to its national security, de-dollarization, and Global South strategies – S&amp;P Global",
-      "summaryEn": "(Kitco News) – Gold is a “strategic mineral” to the Chinese government and plays a central role not only in the country’s long-term economic policies, but also in its national security strategy – and the international “Gold Road” initiative is a central component in all of this, according to a new analysis from S&P Global. The in-depth report – which offers a comprehensive analysis of every area of China’s gold market including regulation, consumer demand, mining and production, and the central bank – also explores the ways that China is leveraging its international relationships to place gold at the center of its economic and defense planning. The authors of the report explain that while China’s globalization strategy was interrupted by COVID, it has since been revived with “a renewed focus on gold that will likely drive Chinese efforts for years to come.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-26/chinas-gold-road-initiative-central-its-national-security-de-dollarization",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0b38b504524a8956",
-      "titleEn": "Nvidia stock slips 1% despite beating earnings expectations and raising guidance",
+      "id": "stockanalysis:49d5a6e4c88e87ec",
+      "titleEn": "Why analysts now see a 32% upside to CrowdStrike stock after its 'best quarter'?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/26/nvidia-stock-slips-1-despite-beating-earnings-expectations-and-raising-guidance/",
+      "link": "https://invezz.com/news/2026/08/27/why-analysts-now-see-a-32-upside-to-crowdstrike-stock-after-its-best-quarter/",
       "published": null
     },
     {
-      "id": "stockanalysis:8e032718f50d45e7",
-      "titleEn": "Materialise Reports Second Quarter and Half-Year 2026 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826250614/en/Materialise-Reports-Second-Quarter-and-Half-Year-2026-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7d8d37552eaf6d6f",
-      "titleEn": "EverGen Infrastructure Reports Q2 2026 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826788199/en/EverGen-Infrastructure-Reports-Q2-2026-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fcc911f04462ed27",
-      "titleEn": "PRIMERICA HOUSEHOLD BUDGET INDEX™ (HBI™): Purchasing Power for Middle-Income Americans Up Slightly in July",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826011714/en/PRIMERICA-HOUSEHOLD-BUDGET-INDEX%E2%84%A2-HBI%E2%84%A2-Purchasing-Power-for-Middle-Income-Americans-Up-Slightly-in-July/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1f3671f399e5ad2e",
-      "titleEn": "Faraday Future Announces Execution Roadmap for Its “Built in USA” Acceleration Program and Launches Distributor Recruitment; Targets to Bring Its Robot Factory Online by Year-End and First New EAI Device Product Off the Line in February 2027",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826459178/en/Faraday-Future-Announces-Execution-Roadmap-for-Its-%E2%80%9CBuilt-in-USA%E2%80%9D-Acceleration-Program-and-Launches-Distributor-Recruitment-Targets-to-Bring-Its-Robot-Factory-Online-by-Year-End-and-First-New-EAI-Device-Product-Off-the-Line-in-February-2027/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1ca587cc03894f63",
-      "titleEn": "Renesas Establishes Physical AI &amp; Robotics Lab in Beijing to Accelerate Next-Generation Robotics Innovation",
+      "id": "stockanalysis:a078ab6d21cd0572",
+      "titleEn": "Nebius stock outlook as Nvidia predicts robust AI growth",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260826040795/en/Renesas-Establishes-Physical-AI-Robotics-Lab-in-Beijing-to-Accelerate-Next-Generation-Robotics-Innovation/",
+      "link": "https://invezz.com/news/2026/08/27/nebius-stock-outlook-as-nvidia-predicts-robust-ai-growth/",
       "published": null
     },
     {
-      "id": "stockanalysis:f89ceb9ed32559a6",
-      "titleEn": "Capstone Publishes Investor FAQ: 75% of Convertible Note Principal Retired, Approximately $1.72 Million Remaining",
+      "id": "stockanalysis:866233045907b66a",
+      "titleEn": "Socure Acquires Fraud Fighter Fravity as Valuation Hits $5.2 Billion",
+      "summaryEn": "Identity and risk intelligence infrastructure provider Socure is now a $5.2 billion company. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The firm reached that valuation Thursday (Aug. 27) following a new $156 million round of funding led by Summit Partners , which allowed Socure to acquire Fravity , an agentic platform aimed at automating fraud, risk and compliance operations.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/socure-acquires-fraud-fighter-fravity-as-valuation-hits-5-2-billion/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:59086a5cd9506b21",
+      "titleEn": "Gold approaches $4,600/oz after U.S. weekly jobless claims fall to 203k",
+      "summaryEn": "(Kitco News) - Gold prices are getting closer to the $4,600 per ounce level on Thursday morning following the release of better than expected labor market data after the number of Americans filing new claims for unemployment benefits came in below economists’ forecasts. Initial claims for state unemployment benefits came in at seasonally adjusted 203,000 for the week ending August 22, the Labor Department announced on Thursday. The number was below expectations, as consensus estimates forecasted a reading of 208,000 claims. The previous week’s figure was revised to 207,000 from 206,000. Spot gold was coming off session lows shortly after the 8:30 am ET data release, and last traded at $4,595.00 per ounce for a gain of 0.01% on the daily chart.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-27/gold-approaches-4600oz-after-us-weekly-jobless-claims-fall-203k",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0b344594e0aee719",
+      "titleEn": "AV Awarded Contract for Three Autonomous Helicopters in Support of NASA's SkyFall Mission to Mars",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826038426/en/Capstone-Publishes-Investor-FAQ-75-of-Convertible-Note-Principal-Retired-Approximately-1.72-Million-Remaining/",
+      "link": "https://www.businesswire.com/news/home/20260827821137/en/AV-Awarded-Contract-for-Three-Autonomous-Helicopters-in-Support-of-NASA%E2%80%99s-SkyFall-Mission-to-Mars/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9407fbcb1774b949",
+      "titleEn": "Knightscope's Edwin “Eddie” Vasquez Named Finalist for 2026 US OSPA Outstanding Contract Security Manager/Director of the Year",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260827531038/en/Knightscope%E2%80%99s-Edwin-%E2%80%9CEddie%E2%80%9D-Vasquez-Named-Finalist-for-2026-US-OSPA-Outstanding-Contract-Security-ManagerDirector-of-the-Year/",
       "published": null
     }
   ]
