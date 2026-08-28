@@ -1,186 +1,96 @@
 {
-  "generatedAt": "2026-08-27T16:47:37.448649Z",
+  "generatedAt": "2026-08-28T01:12:20.634479Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 10,
   "items": [
     {
-      "id": "stockanalysis:b47baec081fabe34",
-      "titleEn": "‘Gold is a clear beneficiary of de-dollarization",
-      "summaryEn": "(Kitco News) – Gold is benefiting from a reinvigorated de-dollarization trade, and the monumental fiscal challenges facing the United States could push the yellow metal’s price above $5,400 by next summer, according to commodity and currency analysts at UBS. “Investors’ focus on the long-term shift away from the US dollar, known as de-dollarization, has increased recently amid renewed concerns about the US fiscal outlook,” the Swiss banking giant’s Chief Investment Office wrote in a note on Tuesday. “Over the past month, the DXY dollar index has fallen 2.4%.” ( Kitco Global Index shows how much of today&#x27;s gold move is the dollar versus the gold market itself.)",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-27/gold-clear-beneficiary-de-dollarization-and-we-think-it-can-continue-climb",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:640f51c727e19fab",
-      "titleEn": "Analysts see further upside as Okta stock hits YTD high on Q2 earnings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/27/analysts-see-further-upside-as-okta-stock-hits-ytd-high-on-q2-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9d8770a5f658e026",
-      "titleEn": "Why are memory stocks MU, SNDK, and WDC falling despite Nvidia's results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/27/why-are-memory-stocks-mu-sndk-and-wdc-falling-despite-nvidias-results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b7243566a7695718",
-      "titleEn": "Wells Fargo Makes New Push to Recruit Wealth Managers",
-      "summaryEn": "Wells Fargo has spent the last few years overhauling its wealth management business. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Now, the banking giant is trying to convince hundreds of financial advisors to join that division, Bloomberg News reported Thursday (Aug. 27).",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/wells-fargo-makes-new-push-to-recruit-wealth-managers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a69f8660ed6466f7",
-      "titleEn": "IREN stock jumps ahead of earnings as neoclouds cheer Nvidia's results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/27/iren-stock-jumps-ahead-of-earnings-as-neoclouds-cheer-nvidias-results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a2a0ef47b537c89a",
-      "titleEn": "Why is AMD stock falling while Intel stock rises after Nvidia's earnings?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/27/why-is-amd-stock-falling-while-intel-stock-rises-after-nvidias-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1791e1a2698a3920",
-      "titleEn": "These three stocks are must-owns after the PCE data",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/27/these-three-stocks-are-must-owns-after-the-pce-data/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:86400856b69657f6",
-      "titleEn": "Affirm stock is compressing: here's why it may pop after earnings today",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/27/affirm-stock-is-compressing-heres-why-it-may-pop-after-earnings-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:61571eae8ac94ca1",
-      "titleEn": "Oracle stock has bottomed? Here's what the chart says ahead of earnings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/27/oracle-stock-has-bottomed-heres-what-the-chart-says-ahead-of-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1ef53bda90ccbce1",
-      "titleEn": "Why Nvidia stock is soaring over 7% today and how high it can go",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/27/why-nvidia-stock-is-soaring-over-7-today-and-how-high-it-can-go/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6383918d6323c024",
-      "titleEn": "HP stock slides 5% as memory costs pressure PC margins",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/27/hp-stock-slides-5-as-memory-costs-pressure-pc-margins/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ed0716bc468b6d1f",
-      "titleEn": "Nasdaq opens higher as Nvidia earnings revive AI trade, software stocks jump",
-      "summaryEn": null,
+      "id": "stockanalysis:1e751dccd778f468",
+      "titleEn": "Thomson Reuters Taps Decades of Content to Train AI",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Dubbed “Thomson,” the LLM began with an open-source foundation and was trained on the company’s proprietary content and domain expertise, according to the release. As a result, Thomson is fully controlled by Thomson Reuters and does not have the inference costs of typical frontier models, the release said.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/27/nasdaq-opens-higher-as-nvidia-earnings-revive-ai-trade-software-stocks-jump/",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/thomson-reuters-taps-decades-of-content-to-train-ai/",
       "published": null
     },
     {
-      "id": "stockanalysis:65e9f3ca86b7cb46",
-      "titleEn": "Micron stock: top reasons why MU may soar after the Nvidia earnings",
+      "id": "stockanalysis:d80aa5b4910e8a21",
+      "titleEn": "Nasdaq closes 411 points higher as Nvidia rally boosts tech stocks",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/27/micron-stock-top-reasons-why-mu-may-soar-after-the-nvidia-earnings/",
+      "link": "https://invezz.com/news/2026/08/27/nasdaq-closes-411-points-higher-as-nvidia-rally-boosts-tech-stocks/",
       "published": null
     },
     {
-      "id": "stockanalysis:ebfb1f762796aad0",
-      "titleEn": "Gold steadies near $4,590 as claims dip, Fed hike risk stays live - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are little changed to weaker in early U.S. trading Thursday, as a firmer rates backdrop offset bargain hunting after Wednesday’s post-PCE pullback. At the time of writing, spot gold was trading near $4,588.50 an ounce, down 0.10%, while spot silver was trading at $67.950, down 0.06% on the session. Gold moved off the lower end of its overnight range after weekly jobless claims fell to 203,000 for the week ended Aug. 22 , below the 208,000 consensus estimate and down from a revised 207,000 the prior week. Continuing claims fell to 1.778 million for the week ended Aug. 15, against expectations for 1.790 million, keeping the labor-market signal too firm to give bullion a clean rate-relief trade. The latest market positioning is still being shaped by Wednesday’s data stack. July PCE inflation rose 0.2% on the month and 3.7% from a year earlier, while core PCE rose 0.2% and 3.3% year-over-year . Q2 GDP was unrevised at a 1.5% annualized pace. The combined message left September pricing tilted toward a Fed hold, but kept a year-end hike live: futures implied a 36.5% probability of a 25-basis-point September hike and a 72.7% probability of at least one hike by December. That has kept the 10-year Treasury yield near the 4.7% area and the dollar steady to firmer, limiting gold’s response to softer risk sentiment.",
+      "id": "stockanalysis:5e4e2da432d3a9bf",
+      "titleEn": "Forget $10,000 gold, the trend is higher until governments fix their debt – John LaForge",
+      "summaryEn": "(Kitco News) - Gold ’s dramatic rise over the last several years may have pushed prices to levels that once appeared unimaginable. Still, according to one market strategist, investors shouldn’t get distracted by price targets. In an interview with Kitco News, John LaForge, Chief Alternative Strategist at Ned Davis Research, said the gold trade remains extremely simple: the precious metal’s long-term trend remains higher until governments around the world finally confront their mounting debt burdens. “I think prices peak when we learn how to deal with the debt situation,” LaForge said. “The longer we let it go and we don’t pay this stuff back and we keep piling all these debts up, the higher gold prices can go.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-27/forget-10000-gold-trend-higher-until-governments-fix-their-debt-john",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:128c64053fa302cc",
+      "titleEn": "DraftKings Makes Loyalty Points Spend Like Cash",
+      "summaryEn": "DraftKings replaced its rewards points system with Crown Cash, a single dollar-denominated currency customers earn and spend the same way everywhere. The currency is built to move across DraftKings’ expanding Super App, from sportsbook and casino to lottery and its new predictions market. DraftKings built responsible gaming tools, including budget limits and self-exclusion, into the rollout.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/loyalty-and-rewards-news/2026/draftkings-makes-loyalty-points-spend-like-cash/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d81e08691cede482",
+      "titleEn": "Gold bulls still in control as market holds well above key support - Forex.com's Razaqzada",
+      "summaryEn": "(Kitco News) - Growing fears over the size of U.S. government debt have ignited a new U.S. dollar debasement trade that has driven gold back above critical resistance levels; however, analysts are warning investors that the market is looking a little overbought after seeing a 15% rally through August. ( Kitco Global Index shows how much of today&#x27;s gold move is the dollar versus the gold market itself.) In a recent note, Fawad Razaqzada, Market Analyst at FOREX.com, said that despite the bullish momentum from the debasement trade, the U.S. Treasury Department’s announcement that it would buy long-dated bonds to reduce borrowing costs is starting to stabilize the long end of the yield curve. “We have seen a bit of give-back in that trade, with investors welcoming, although not-so-warmly, the US Treasury’s decision to up its long-dated bond buying to effectively lower rates and suggestions that there is more in their tool kit to hammer down yields,” he said. “Thus, the question now is will we see some unwinding of that dollar debasement trade, given that yields have moved slightly lower, even if it has been a struggle?”",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-27/gold-steadies-near-4590-claims-dip-fed-hike-risk-stays-live-kitco-am-report",
+      "link": "https://www.kitco.com/news/article/2026-08-27/gold-bulls-still-control-market-holds-well-above-key-support-forexcoms",
       "published": null
     },
     {
-      "id": "stockanalysis:49d5a6e4c88e87ec",
-      "titleEn": "Why analysts now see a 32% upside to CrowdStrike stock after its 'best quarter'?",
+      "id": "stockanalysis:149f885e483178c4",
+      "titleEn": "Novo Nordisk stock falls as Deutsche Bank downgrades shares to sell",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/27/why-analysts-now-see-a-32-upside-to-crowdstrike-stock-after-its-best-quarter/",
+      "link": "https://invezz.com/news/2026/08/27/novo-nordisk-stock-falls-as-deutsche-bank-downgrades-shares-to-sell/",
       "published": null
     },
     {
-      "id": "stockanalysis:a078ab6d21cd0572",
-      "titleEn": "Nebius stock outlook as Nvidia predicts robust AI growth",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/27/nebius-stock-outlook-as-nvidia-predicts-robust-ai-growth/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:866233045907b66a",
-      "titleEn": "Socure Acquires Fraud Fighter Fravity as Valuation Hits $5.2 Billion",
-      "summaryEn": "Identity and risk intelligence infrastructure provider Socure is now a $5.2 billion company. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The firm reached that valuation Thursday (Aug. 27) following a new $156 million round of funding led by Summit Partners , which allowed Socure to acquire Fravity , an agentic platform aimed at automating fraud, risk and compliance operations.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/socure-acquires-fraud-fighter-fravity-as-valuation-hits-5-2-billion/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:59086a5cd9506b21",
-      "titleEn": "Gold approaches $4,600/oz after U.S. weekly jobless claims fall to 203k",
-      "summaryEn": "(Kitco News) - Gold prices are getting closer to the $4,600 per ounce level on Thursday morning following the release of better than expected labor market data after the number of Americans filing new claims for unemployment benefits came in below economists’ forecasts. Initial claims for state unemployment benefits came in at seasonally adjusted 203,000 for the week ending August 22, the Labor Department announced on Thursday. The number was below expectations, as consensus estimates forecasted a reading of 208,000 claims. The previous week’s figure was revised to 207,000 from 206,000. Spot gold was coming off session lows shortly after the 8:30 am ET data release, and last traded at $4,595.00 per ounce for a gain of 0.01% on the daily chart.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-27/gold-approaches-4600oz-after-us-weekly-jobless-claims-fall-203k",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0b344594e0aee719",
-      "titleEn": "AV Awarded Contract for Three Autonomous Helicopters in Support of NASA's SkyFall Mission to Mars",
+      "id": "stockanalysis:0e310c919eccd28d",
+      "titleEn": "Silvergate Capital Corporation's New Board of Directors Publishes Letter to Shareholders",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260827821137/en/AV-Awarded-Contract-for-Three-Autonomous-Helicopters-in-Support-of-NASA%E2%80%99s-SkyFall-Mission-to-Mars/",
+      "link": "https://www.businesswire.com/news/home/20260827565261/en/Silvergate-Capital-Corporation%E2%80%99s-New-Board-of-Directors-Publishes-Letter-to-Shareholders/",
       "published": null
     },
     {
-      "id": "stockanalysis:9407fbcb1774b949",
-      "titleEn": "Knightscope's Edwin “Eddie” Vasquez Named Finalist for 2026 US OSPA Outstanding Contract Security Manager/Director of the Year",
+      "id": "stockanalysis:478b843871b53915",
+      "titleEn": "FRVO Investors Have Opportunity to Join Fervo Energy Company Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260827531038/en/Knightscope%E2%80%99s-Edwin-%E2%80%9CEddie%E2%80%9D-Vasquez-Named-Finalist-for-2026-US-OSPA-Outstanding-Contract-Security-ManagerDirector-of-the-Year/",
+      "link": "https://www.businesswire.com/news/home/20260827677076/en/FRVO-Investors-Have-Opportunity-to-Join-Fervo-Energy-Company-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:545645d32ae87370",
+      "titleEn": "KKR Investors Have Opportunity to Join KKR &amp; Co. Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260827230865/en/KKR-Investors-Have-Opportunity-to-Join-KKR-Co.-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d971bbe6b6ded148",
+      "titleEn": "FCPT Announces Acquisition of a 7-Eleven Property for $1.5 Million",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260827221436/en/FCPT-Announces-Acquisition-of-a-7-Eleven-Property-for-1.5-Million/",
       "published": null
     }
   ]
