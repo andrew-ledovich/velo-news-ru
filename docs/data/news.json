@@ -1,96 +1,114 @@
 {
-  "generatedAt": "2026-08-28T01:12:20.634479Z",
+  "generatedAt": "2026-08-28T12:45:20.768067Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 12,
   "items": [
     {
-      "id": "stockanalysis:1e751dccd778f468",
-      "titleEn": "Thomson Reuters Taps Decades of Content to Train AI",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Dubbed “Thomson,” the LLM began with an open-source foundation and was trained on the company’s proprietary content and domain expertise, according to the release. As a result, Thomson is fully controlled by Thomson Reuters and does not have the inference costs of typical frontier models, the release said.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/thomson-reuters-taps-decades-of-content-to-train-ai/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d80aa5b4910e8a21",
-      "titleEn": "Nasdaq closes 411 points higher as Nvidia rally boosts tech stocks",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/27/nasdaq-closes-411-points-higher-as-nvidia-rally-boosts-tech-stocks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5e4e2da432d3a9bf",
-      "titleEn": "Forget $10,000 gold, the trend is higher until governments fix their debt – John LaForge",
-      "summaryEn": "(Kitco News) - Gold ’s dramatic rise over the last several years may have pushed prices to levels that once appeared unimaginable. Still, according to one market strategist, investors shouldn’t get distracted by price targets. In an interview with Kitco News, John LaForge, Chief Alternative Strategist at Ned Davis Research, said the gold trade remains extremely simple: the precious metal’s long-term trend remains higher until governments around the world finally confront their mounting debt burdens. “I think prices peak when we learn how to deal with the debt situation,” LaForge said. “The longer we let it go and we don’t pay this stuff back and we keep piling all these debts up, the higher gold prices can go.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-27/forget-10000-gold-trend-higher-until-governments-fix-their-debt-john",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:128c64053fa302cc",
-      "titleEn": "DraftKings Makes Loyalty Points Spend Like Cash",
-      "summaryEn": "DraftKings replaced its rewards points system with Crown Cash, a single dollar-denominated currency customers earn and spend the same way everywhere. The currency is built to move across DraftKings’ expanding Super App, from sportsbook and casino to lottery and its new predictions market. DraftKings built responsible gaming tools, including budget limits and self-exclusion, into the rollout.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/loyalty-and-rewards-news/2026/draftkings-makes-loyalty-points-spend-like-cash/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d81e08691cede482",
-      "titleEn": "Gold bulls still in control as market holds well above key support - Forex.com's Razaqzada",
-      "summaryEn": "(Kitco News) - Growing fears over the size of U.S. government debt have ignited a new U.S. dollar debasement trade that has driven gold back above critical resistance levels; however, analysts are warning investors that the market is looking a little overbought after seeing a 15% rally through August. ( Kitco Global Index shows how much of today&#x27;s gold move is the dollar versus the gold market itself.) In a recent note, Fawad Razaqzada, Market Analyst at FOREX.com, said that despite the bullish momentum from the debasement trade, the U.S. Treasury Department’s announcement that it would buy long-dated bonds to reduce borrowing costs is starting to stabilize the long end of the yield curve. “We have seen a bit of give-back in that trade, with investors welcoming, although not-so-warmly, the US Treasury’s decision to up its long-dated bond buying to effectively lower rates and suggestions that there is more in their tool kit to hammer down yields,” he said. “Thus, the question now is will we see some unwinding of that dollar debasement trade, given that yields have moved slightly lower, even if it has been a struggle?”",
+      "id": "stockanalysis:2a59461a37034ea3",
+      "titleEn": "Gold eases as Warsh, payroll revisions test Fed trade - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices are modestly lower and spot silver prices are sharply higher in early U.S. trading Friday, as traders held gold near the $4,600 area ahead of Fed Chair Kevin Warsh’s Jackson Hole speech and the Labor Department’s preliminary payrolls benchmark revision. At the time of writing, spot gold was trading near $4,593.20 an ounce, down 0.16%, while spot silver was trading at $70.170, up 1.50% on the session. The latest positioning is built around two 10 a.m. ET catalysts. Warsh’s first Jackson Hole keynote as Fed chair will be judged against Wednesday’s hotter PCE print , this week’s firm durable-goods and GDP data and the prior sequence of softer retail sales, cooler CPI and flat headline PPI. At the same time, the Labor Department will publish its preliminary benchmark estimate for payrolls through March 2026, a release that could reset confidence in the labor-market data after July payrolls fell by 23,000. Markets were pricing roughly a 34% probability of a September rate hike and about a 74% chance of at least one hike by December, while 10-year and 30-year Treasury yields were little changed but still close to recent multiyear highs. For gold, the immediate risk is straightforward: a hawkish Warsh or a smaller-than-feared payroll revision would support yields and cap the rally, while a dovish tone or a large downward payroll revision would reinforce the hold-rate trade. Silver remains the stronger precious-metals tape. The metal traded above $71 earlier in the session and is holding above the $69.96 breakout zone, while gold is consolidating below the $4,604 and $4,625.87 resistance area after failing to regain its midweek high. The split reflects silver’s extra industrial and momentum bid, while gold is trading more directly off the Fed, dollar and long-yield channel. Kyle Rodda, senior financial market analyst at Capital.com, said price action has been “pretty constructive recently.”",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-27/gold-bulls-still-control-market-holds-well-above-key-support-forexcoms",
+      "link": "https://www.kitco.com/news/article/2026-08-28/gold-eases-warsh-payroll-revisions-test-fed-trade-kitco-am-report",
       "published": null
     },
     {
-      "id": "stockanalysis:149f885e483178c4",
-      "titleEn": "Novo Nordisk stock falls as Deutsche Bank downgrades shares to sell",
+      "id": "stockanalysis:783855b01520f52f",
+      "titleEn": "PURR stock price forecast as Hyperliquid's HYPE token hits a record high",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/27/novo-nordisk-stock-falls-as-deutsche-bank-downgrades-shares-to-sell/",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/28/purr-stock-price-forecast-as-hyperliquids-hype-token-hits-a-record-high/",
       "published": null
     },
     {
-      "id": "stockanalysis:0e310c919eccd28d",
-      "titleEn": "Silvergate Capital Corporation's New Board of Directors Publishes Letter to Shareholders",
+      "id": "stockanalysis:67e52e0cd9add581",
+      "titleEn": "PayPal stock reels as $53 billion buyout bid from Stripe, Advent unravels: what next?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260827565261/en/Silvergate-Capital-Corporation%E2%80%99s-New-Board-of-Directors-Publishes-Letter-to-Shareholders/",
+      "link": "https://invezz.com/news/2026/08/28/paypal-stock-reels-as-53-billion-buyout-bid-from-stripe-advent-unravels-what-next/",
       "published": null
     },
     {
-      "id": "stockanalysis:478b843871b53915",
-      "titleEn": "FRVO Investors Have Opportunity to Join Fervo Energy Company Fraud Investigation with SBS Law",
+      "id": "stockanalysis:77fad9d34d0098f0",
+      "titleEn": "Marvell stock sinks 8%: is its $120B Google deal taking too long to pay off?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260827677076/en/FRVO-Investors-Have-Opportunity-to-Join-Fervo-Energy-Company-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://invezz.com/news/2026/08/28/marvell-stock-sinks-8-is-its-120b-google-deal-taking-too-long-to-pay-off/",
       "published": null
     },
     {
-      "id": "stockanalysis:545645d32ae87370",
-      "titleEn": "KKR Investors Have Opportunity to Join KKR &amp; Co. Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
+      "id": "stockanalysis:8aa75139d3438d90",
+      "titleEn": "Advent, Stripe Abandon $50 Billion Pursuit of PayPal",
+      "summaryEn": "The blockbuster PayPal buyout could be off. Advent International and Stripe have reportedly walked away from their pursuit of the payments pioneer, ending months of speculation over a deal that would have ranked among the largest leveraged buyouts ever. PayPal shares tumbled as much as 16% in premarket trading Friday, a sharp reversal for a stock that had climbed for weeks on takeover hopes. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); According to a report from Bloomberg , the consortium is no longer pursuing a deal for PayPal. The group had previously offered more than $50 billion for the company, people familiar with the matter told Bloomberg. Representatives for Advent, PayPal and Stripe all declined to comment.",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260827230865/en/KKR-Investors-Have-Opportunity-to-Join-KKR-Co.-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.pymnts.com/news/acquiring/2026/advent-stripe-abandon-50-billion-pursuit-of-paypal/",
       "published": null
     },
     {
-      "id": "stockanalysis:d971bbe6b6ded148",
-      "titleEn": "FCPT Announces Acquisition of a 7-Eleven Property for $1.5 Million",
+      "id": "stockanalysis:bb0f1c782f986a6f",
+      "titleEn": "Nvidia, AMD, Intel stocks slide premarket: why investors are suddenly taking profits",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260827221436/en/FCPT-Announces-Acquisition-of-a-7-Eleven-Property-for-1.5-Million/",
+      "link": "https://invezz.com/news/2026/08/28/nvidia-amd-intel-stocks-slide-premarket-why-investors-are-suddenly-taking-profits/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:65d97628fdb774d1",
+      "titleEn": "Micron stock has surged 220%: here's the risk bulls may be underestimating",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/28/micron-stock-has-surged-220-heres-the-risk-bulls-may-be-underestimating/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9e78b570e6c51bc8",
+      "titleEn": "US court rules Pentagon ban on Anthropic unlawful",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: A U.S. federal judge ruled Thursday that sanctions imposed by the Trump administration against AI giant Anthropic were illegal, finding that the government punished the company in a dispute over military use of its technology. Anthropic infuriated Pentagon chief Pete Hegseth in February by insisting its technology should not be used for mass surveillance or fully autonomous weapons systems.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-08-court-pentagon-anthropic-unlawful.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a99caf2d86d243cc",
+      "titleEn": "Nikkei 225 catches Nvidia's tailwind, but KOSPI finds a reason to sell instead",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/28/nikkei-225-catches-nvidias-tailwind-but-kospi-finds-a-reason-to-sell-instead/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6c0f70272b57638d",
+      "titleEn": "Samsung stock retreat again: why a massive payout isn't enough for investors",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/28/samsung-stock-retreat-again-why-a-massive-payout-isnt-enough-for-investors/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bc6a9462df3cb3cf",
+      "titleEn": "Why Marvell stock is slipping despite a classic ‘beat and raise'",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/28/why-marvell-stock-is-slipping-despite-a-classic-beat-and-raise/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e337794cc6440377",
+      "titleEn": "Shionogi Announces U.S. Government Procurement of Fetroja® (cefiderocol) Through BARDA's Project BioShield to Support National Preparedness for Drug-Resistant Bacterial Threats",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260828509151/en/Shionogi-Announces-U.S.-Government-Procurement-of-Fetroja%C2%AE-cefiderocol-Through-BARDAs-Project-BioShield-to-Support-National-Preparedness-for-Drug-Resistant-Bacterial-Threats/",
       "published": null
     }
   ]
