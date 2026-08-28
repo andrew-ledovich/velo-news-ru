@@ -1,114 +1,168 @@
 {
-  "generatedAt": "2026-08-28T12:45:20.768067Z",
+  "generatedAt": "2026-08-28T22:46:27.138481Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 18,
   "items": [
     {
-      "id": "stockanalysis:2a59461a37034ea3",
-      "titleEn": "Gold eases as Warsh, payroll revisions test Fed trade - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices are modestly lower and spot silver prices are sharply higher in early U.S. trading Friday, as traders held gold near the $4,600 area ahead of Fed Chair Kevin Warsh’s Jackson Hole speech and the Labor Department’s preliminary payrolls benchmark revision. At the time of writing, spot gold was trading near $4,593.20 an ounce, down 0.16%, while spot silver was trading at $70.170, up 1.50% on the session. The latest positioning is built around two 10 a.m. ET catalysts. Warsh’s first Jackson Hole keynote as Fed chair will be judged against Wednesday’s hotter PCE print , this week’s firm durable-goods and GDP data and the prior sequence of softer retail sales, cooler CPI and flat headline PPI. At the same time, the Labor Department will publish its preliminary benchmark estimate for payrolls through March 2026, a release that could reset confidence in the labor-market data after July payrolls fell by 23,000. Markets were pricing roughly a 34% probability of a September rate hike and about a 74% chance of at least one hike by December, while 10-year and 30-year Treasury yields were little changed but still close to recent multiyear highs. For gold, the immediate risk is straightforward: a hawkish Warsh or a smaller-than-feared payroll revision would support yields and cap the rally, while a dovish tone or a large downward payroll revision would reinforce the hold-rate trade. Silver remains the stronger precious-metals tape. The metal traded above $71 earlier in the session and is holding above the $69.96 breakout zone, while gold is consolidating below the $4,604 and $4,625.87 resistance area after failing to regain its midweek high. The split reflects silver’s extra industrial and momentum bid, while gold is trading more directly off the Fed, dollar and long-yield channel. Kyle Rodda, senior financial market analyst at Capital.com, said price action has been “pretty constructive recently.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-28/gold-eases-warsh-payroll-revisions-test-fed-trade-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:783855b01520f52f",
-      "titleEn": "PURR stock price forecast as Hyperliquid's HYPE token hits a record high",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/28/purr-stock-price-forecast-as-hyperliquids-hype-token-hits-a-record-high/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:67e52e0cd9add581",
-      "titleEn": "PayPal stock reels as $53 billion buyout bid from Stripe, Advent unravels: what next?",
-      "summaryEn": null,
+      "id": "stockanalysis:ff35b3d0864290bc",
+      "titleEn": "Gold's renewed momentum is sending a warning about America's $40 trillion debt",
+      "summaryEn": "(Kitco News) - Gold has seen a sharp pullback ahead of the weekend, but its impressive gains this past month should be a wake-up call for investors. Earlier this week, gold prices were up roughly 15% for the month, on track for their best performance since January 1999. Although Warsh’s hawkish comments at Jackson Hole have cooled the precious metal’s momentum, gold is still up 10% for the month, a remarkable rebound from a months-long 30% correction. Gold’s momentum has been reignited by growing concerns that government debt is spiraling out of control. U.S. government debt has now surpassed $40 trillion , and investors are increasingly questioning how the world’s largest economy can manage that burden without eventually sacrificing the purchasing power of its currency.",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/28/paypal-stock-reels-as-53-billion-buyout-bid-from-stripe-advent-unravels-what-next/",
+      "link": "https://www.kitco.com/news/article/2026-08-28/golds-renewed-momentum-sending-warning-about-americas-40-trillion-debt",
       "published": null
     },
     {
-      "id": "stockanalysis:77fad9d34d0098f0",
-      "titleEn": "Marvell stock sinks 8%: is its $120B Google deal taking too long to pay off?",
+      "id": "stockanalysis:26bbad53a0bf2cdd",
+      "titleEn": "Workday stock jumps 5% after earnings beat, but analysts split on AI growth outlook",
       "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/28/marvell-stock-sinks-8-is-its-120b-google-deal-taking-too-long-to-pay-off/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8aa75139d3438d90",
-      "titleEn": "Advent, Stripe Abandon $50 Billion Pursuit of PayPal",
-      "summaryEn": "The blockbuster PayPal buyout could be off. Advent International and Stripe have reportedly walked away from their pursuit of the payments pioneer, ending months of speculation over a deal that would have ranked among the largest leveraged buyouts ever. PayPal shares tumbled as much as 16% in premarket trading Friday, a sharp reversal for a stock that had climbed for weeks on takeover hopes. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); According to a report from Bloomberg , the consortium is no longer pursuing a deal for PayPal. The group had previously offered more than $50 billion for the company, people familiar with the matter told Bloomberg. Representatives for Advent, PayPal and Stripe all declined to comment.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/acquiring/2026/advent-stripe-abandon-50-billion-pursuit-of-paypal/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bb0f1c782f986a6f",
-      "titleEn": "Nvidia, AMD, Intel stocks slide premarket: why investors are suddenly taking profits",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/28/nvidia-amd-intel-stocks-slide-premarket-why-investors-are-suddenly-taking-profits/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:65d97628fdb774d1",
-      "titleEn": "Micron stock has surged 220%: here's the risk bulls may be underestimating",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/28/micron-stock-has-surged-220-heres-the-risk-bulls-may-be-underestimating/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9e78b570e6c51bc8",
-      "titleEn": "US court rules Pentagon ban on Anthropic unlawful",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: A U.S. federal judge ruled Thursday that sanctions imposed by the Trump administration against AI giant Anthropic were illegal, finding that the government punished the company in a dispute over military use of its technology. Anthropic infuriated Pentagon chief Pete Hegseth in February by insisting its technology should not be used for mass surveillance or fully autonomous weapons systems.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://techxplore.com/news/2026-08-court-pentagon-anthropic-unlawful.html",
+      "link": "https://invezz.com/news/2026/08/28/workday-stock-jumps-5-after-earnings-beat-but-analysts-split-on-ai-growth-outlook/",
       "published": null
     },
     {
-      "id": "stockanalysis:a99caf2d86d243cc",
-      "titleEn": "Nikkei 225 catches Nvidia's tailwind, but KOSPI finds a reason to sell instead",
-      "summaryEn": null,
+      "id": "stockanalysis:5ebefb9d78a29846",
+      "titleEn": "Gold is 'on the radar screen' and the Fed is split 'down the middle,' former Fed president says",
+      "summaryEn": "(Kitco News) - Jim Bullard says a hold next month could still be hawkish, foreign central banks found physical gold more desirable than Bitcoin this year, and gold’s run-up may signal eroding faith in the Fed, something he says is \"on the radar screen.\" The Federal Open Market Committee is divided almost exactly in half over whether to raise interest rates next month, according to a man who sat in that room for 15 years. .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } \"I think the committee is split pretty much down the middle, so 10-9 one way or the other,\" former St. Louis Fed President Jim Bullard told Kitco News on Friday. \"A lot of people that are sitting on the fence could be convinced to go either way.\"",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/28/nikkei-225-catches-nvidias-tailwind-but-kospi-finds-a-reason-to-sell-instead/",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-28/gold-radar-screen-and-fed-split-down-middle-former-fed-president-says",
       "published": null
     },
     {
-      "id": "stockanalysis:6c0f70272b57638d",
-      "titleEn": "Samsung stock retreat again: why a massive payout isn't enough for investors",
-      "summaryEn": null,
+      "id": "stockanalysis:334e18f230a30077",
+      "titleEn": "Gold's rally hits a speed bump, but analysts see 40 trillion reasons to stay bullish",
+      "summaryEn": "(Kitco News) - The gold market may have 40 trillion reasons to go higher through the rest of the year, but analysts say that renewed expectations that the Federal Reserve still needs to fight inflation could add some volatility to the market next week. After starting the week with a push toward $4,700 an ounce, gold’s five-week winning streak has come to an abrupt halt. The gold market is ending the week near support at $4,500 an ounce following what analysts have described as hawkish comments from Federal Reserve Chair Kevin Warsh. Spot gold last traded at $4,473.80 an ounce, down 2.74% on the day. Friday’s selloff has pushed prices down by nearly 3% for the week.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/28/samsung-stock-retreat-again-why-a-massive-payout-isnt-enough-for-investors/",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-28/golds-rally-hits-speed-bump-analysts-see-40-trillion-reasons-stay-bullish",
       "published": null
     },
     {
-      "id": "stockanalysis:bc6a9462df3cb3cf",
-      "titleEn": "Why Marvell stock is slipping despite a classic ‘beat and raise'",
+      "id": "stockanalysis:d1192394245a0b56",
+      "titleEn": "Why is Autodesk stock falling 4% despite Q2 earnings beat",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/28/why-marvell-stock-is-slipping-despite-a-classic-beat-and-raise/",
+      "link": "https://invezz.com/news/2026/08/28/why-is-autodesk-stock-falling-4-despite-q2-earnings-beat/",
       "published": null
     },
     {
-      "id": "stockanalysis:e337794cc6440377",
-      "titleEn": "Shionogi Announces U.S. Government Procurement of Fetroja® (cefiderocol) Through BARDA's Project BioShield to Support National Preparedness for Drug-Resistant Bacterial Threats",
+      "id": "stockanalysis:4326ce12b196e081",
+      "titleEn": "Apple stock rises ahead of Sept. 9 event with foldable iPhone in focus",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260828509151/en/Shionogi-Announces-U.S.-Government-Procurement-of-Fetroja%C2%AE-cefiderocol-Through-BARDAs-Project-BioShield-to-Support-National-Preparedness-for-Drug-Resistant-Bacterial-Threats/",
+      "link": "https://invezz.com/news/2026/08/28/apple-stock-rises-ahead-of-sept-9-event-with-foldable-iphone-in-focus/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6e0ba70599084eea",
+      "titleEn": "Pentagon defeated: Anthropic poised for blockbuster IPO after landmark court win",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/28/pentagon-defeated-anthropic-poised-for-blockbuster-ipo-after-landmark-court-win/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7982f6a49149b26c",
+      "titleEn": "BofA names 3 dividend stocks for stability amidst choppy markets",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/28/bofa-names-3-dividend-stocks-for-stability-amidst-choppy-markets/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:eefe552c458680dd",
+      "titleEn": "Why is Amazon stock surging 4% today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/28/why-is-amazon-stock-surging-4-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f4678e1eb5d4279b",
+      "titleEn": "Is it a golden opportunity to buy ServiceNow stock as a rare pattern nears?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/28/is-it-a-golden-opportunity-to-buy-servicenow-stock-as-a-rare-pattern-nears/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1da86d7f8fff038d",
+      "titleEn": "Adobe stock analysis: Golden cross pattern takes shape ahead of earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/28/adobe-stock-analysis-golden-cross-pattern-takes-shape-ahead-of-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1182689bf033e8c4",
+      "titleEn": "Gold price falls to $4,543/oz after payrolls revisions show -79,000 jobs in 12 months to March 2026",
+      "summaryEn": "(Kitco News) – Gold prices are lower after the latest U.S. employment data showed a relatively small downward revision to the nonfarm payrolls numbers over the last year. “The preliminary estimate of the Current Employment Statistics (CES) national benchmark revision to total nonfarm employment for March 2026 was -79,000 (-0.1 percent),” the U.S. Bureau of Labor Statistics announced on Friday. “The preliminary benchmark revision for total private employment was -178,000 (-0.1 percent). The annual benchmark revisions over the last 10 years have an absolute average of 0.2 percent of total nonfarm employment.” Spot gold fell sharply to a session low of $4,543.80 in the wake of the revisions, which were released at the same time as Fed Chair Warsh’s Jackson Hole speech and final consumer sentiment, and last traded at $4,564.05 per ounce for a loss of 0.83% on the session.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-28/gold-price-falls-4543oz-after-payrolls-revisions-show-79000-jobs-12-months",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5dfa90aba5ff1c07",
+      "titleEn": "Gold prices drop 1% as Warsh says inflation is a bigger concern than a slowing labor market",
+      "summaryEn": "(Kitco News) - The gold market is seeing significant selling pressure as Federal Reserve Chair Kevin Warsh reiterates his commitment to bringing inflationary pressures back in line with the central bank’s 2% target. Friday, in his much-anticipated speech at the annual Central Bank Symposium in Jackson Hole, Wyoming, Warsh said that the price-stability side of the Federal Reserve’s mandate is more of a concern than the slowing labor market. “There are always areas of concern in the labor market—for example, among recent graduates. In general, though, people who want to work, by and large, are holding or finding jobs. They may well be concerned about possible future labor disruptions, but as of now, I believe the labor markets are consistent with full employment,” Warsh said in his speech. “But on the price-stability side of our mandate, the numbers are more concerning. The Fed&#x27;s preferred measure of inflation, the 12-month change in the PCE price index, stands at 3.7 percent, while the six-month change is 4.1 percent.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-28/gold-prices-drop-1-warsh-says-inflation-bigger-concern-slowing-labor-market",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c46eff4e8750a40b",
+      "titleEn": "SoftBank Seeks $10 Billion Loan to Refinance OpenAI Stake",
+      "summaryEn": "SoftBank Group is seeking a $10 billion loan to help refinance debt used for its investment in OpenAI, Bloomberg reported Friday (Aug. 28), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The proceeds of the loan could help repay a $40 billion bridge loan SoftBank secured for its OpenAI investments, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/softbank-seeks-10-billion-loan-to-refinance-openai-stake/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f889f575b5b1b255",
+      "titleEn": "Rubrik stock drops as gross margin slips: Is the selloff a buying opportunity?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/28/rubrik-stock-drops-as-gross-margin-slips-is-the-selloff-a-buying-opportunity/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:eafc3872ccb84c9b",
+      "titleEn": "Spot gold falls below $4,550/oz after final Consumer Sentiment falls to 51.7, one-year inflation expectations ease",
+      "summaryEn": "(Kitco News) - The gold market is trading at session lows after the latest data showed consumer sentiment in the U.S. declining, with shorter-term inflation expectations easing. The University of Michigan announced on Friday that the final reading of its Consumer Sentiment survey for August was 51.7. The data was better than expectations, as the consensus forecast of economists called for a reading of 51, but it was well below July’s final reading of 55.2. “Consumer sentiment confirmed its early month reading, falling about 6% from last month and landing about 11% below a year ago amid continued worries that inflation will remain elevated for the foreseeable future,” said Surveys of Consumers Director Joanne Hsu. “Sentiment declines in August were seen for all political groups and were particularly acute among Republicans. Moreover, groups who are typically less-equipped to absorb increases in cost of living also exhibited stronger decreases in sentiment, including older consumers, lower- and middle-income consumers, and those with no stock holdings.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-28/spot-gold-falls-below-4550oz-after-final-consumer-sentiment-falls-517-one",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:096f6e0b958d604d",
+      "titleEn": "Affirm stock jumps after record profit: why BofA sees a nearly 35% upside",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/28/affirm-stock-jumps-after-record-profit-why-bofa-sees-a-nearly-35-upside/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b3e53b724f996746",
+      "titleEn": "Takeda Receives U.S. FDA Approval of MIMRYLO™ (rusfertide), Marking a Potential Shift in the Treatment Paradigm for Polycythemia Vera",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260824773270/en/Takeda-Receives-U.S.-FDA-Approval-of-MIMRYLO%E2%84%A2-rusfertide-Marking-a-Potential-Shift-in-the-Treatment-Paradigm-for-Polycythemia-Vera/",
       "published": null
     }
   ]
