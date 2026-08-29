@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-29T10:38:24.009584Z",
+  "generatedAt": "2026-08-29T15:18:50.520172Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:80b2fad7a50dcd62",
+      "titleEn": "How Meta's $18B teen safety settlement could reshape social media regulation",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/29/how-metas-18b-teen-safety-settlement-could-reshape-social-media-regulation/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:aec5e64aee48964f",
+      "titleEn": "Nvidia is using its balance sheet to fuel the AI boom. Is it a double-edged sword?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/29/nvidia-is-using-its-balance-sheet-to-fuel-the-ai-boom-is-it-a-double-edged-sword/",
+      "published": null
+    },
     {
       "id": "stockanalysis:76e973ee9c629af1",
       "titleEn": "Wall Street holds out hope for gold despite fall to $4,445/oz, Main Street pares bullish majority with payrolls now in focus",
@@ -76,21 +94,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:6e0ba70599084eea",
-      "titleEn": "Pentagon defeated: Anthropic poised for blockbuster IPO after landmark court win",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/28/pentagon-defeated-anthropic-poised-for-blockbuster-ipo-after-landmark-court-win/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7982f6a49149b26c",
-      "titleEn": "BofA names 3 dividend stocks for stability amidst choppy markets",
+      "id": "stockanalysis:6004e7e9a9f5a666",
+      "titleEn": "Bristol Myers Squibb Presents Data Up to Five Years Reinforcing the Long-Term Efficacy and Safety of Camzyos (mavacamten) in Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM) at the European Society of Cardiology (ESC) Congress 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/28/bofa-names-3-dividend-stocks-for-stability-amidst-choppy-markets/",
+      "link": "https://www.businesswire.com/news/home/20260826397542/en/Bristol-Myers-Squibb-Presents-Data-Up-to-Five-Years-Reinforcing-the-Long-Term-Efficacy-and-Safety-of-Camzyos-mavacamten-in-Symptomatic-Obstructive-Hypertrophic-Cardiomyopathy-oHCM-at-the-European-Society-of-Cardiology-ESC-Congress-2026/",
       "published": null
     },
     {
