@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-29T03:56:45.670831Z",
+  "generatedAt": "2026-08-29T10:38:24.009584Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:76e973ee9c629af1",
@@ -91,33 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/08/28/bofa-names-3-dividend-stocks-for-stability-amidst-choppy-markets/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:eefe552c458680dd",
-      "titleEn": "Why is Amazon stock surging 4% today",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/28/why-is-amazon-stock-surging-4-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f4678e1eb5d4279b",
-      "titleEn": "Is it a golden opportunity to buy ServiceNow stock as a rare pattern nears?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/28/is-it-a-golden-opportunity-to-buy-servicenow-stock-as-a-rare-pattern-nears/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1da86d7f8fff038d",
-      "titleEn": "Adobe stock analysis: Golden cross pattern takes shape ahead of earnings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/28/adobe-stock-analysis-golden-cross-pattern-takes-shape-ahead-of-earnings/",
       "published": null
     },
     {
