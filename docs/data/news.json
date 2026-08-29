@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-28T22:46:27.138481Z",
+  "generatedAt": "2026-08-29T03:56:45.670831Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:76e973ee9c629af1",
+      "titleEn": "Wall Street holds out hope for gold despite fall to $4,445/oz, Main Street pares bullish majority with payrolls now in focus",
+      "summaryEn": "(Kitco News) – Gold prices saw another dramatic week, as early momentum from dollar weakness and lingering fiscal concerns reversed after Fed Chair Kevin Warsh used his Jackson Hole speech to reinforce the central bank’s inflation-fighting stance and revive expectations for a September rate hike. Spot gold kicked off the week trading at $4,618.79 per ounce on Sunday evening, and the yellow metal pushed higher through Monday as traders continued to digest the prior week’s Treasury buyback announcement and its implications for long-term yields, U.S. debt sustainability, and hard-asset demand. The rally extended Tuesday, when softer consumer confidence and trader positioning ahead of Wednesday’s inflation and growth data helped gold set its weekly high of $4,697.66 per ounce. Gold’s advance began to falter on Wednesday morning, even after core PCE inflation and second-quarter GDP data did little to change the broader view that the U.S. economy remains resilient while inflation remains elevated. Gold slipped back below $4,600 as yields firmed and traders became more cautious ahead of Warsh’s Jackson Hole remarks.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-28/wall-street-holds-out-hope-gold-despite-fall-4445oz-main-street-pares",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2613271a5d63d615",
+      "titleEn": "Gold, silver sink as Warsh revives September Fed-hike trade - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply lower in late-afternoon U.S. trading Friday, after Fed Chair Kevin Warsh used his Jackson Hole speech to reinforce the central bank’s inflation fight, lifting short-end yields, firming the U.S. dollar and forcing a heavy unwind in precious metals. At the time of writing, spot gold was trading near $4,456.00 an ounce, down 3.14%, while spot silver was trading at $66.210, down 4.24% on the session. North American equity markets closed lower, though the major indexes still posted weekly gains. The S&P 500 fell 0.2% to 7,711.76, the Dow Jones Industrial Average was down less than 0.1% at 53,559.99, the Nasdaq Composite lost 0.5% to 26,402.42 and the Russell 2000 dropped 1.4% to 2,972.37. European markets finished higher, with the STOXX Europe 600 up 0.51% to 655.16, London’s FTSE 100 up 0.29% to 10,824.26, Germany’s DAX up 0.77% to 26,569.99, France’s CAC 40 up 0.98% to 8,401.18 and Italy’s FTSE MIB up 0.67% to 52,616.12. The latest positioning shifted sharply toward a more hawkish Fed path after Warsh’s speech and the Labor Department’s payroll benchmark revision. Warsh said the Fed’s job is to deliver stable prices and signaled that persistent inflation remains the dominant risk, while the preliminary benchmark revision showed March 2026 payrolls were overstated by 79,000 jobs, far smaller than the large downward adjustment some traders had feared. September hike odds jumped to 57.5% from 35.9%, the two-year Treasury yield rose 11.8 basis points to 4.348% and the dollar index gained 0.5% on the day. For gold, the signal was clean: the labor-data revision did not deliver the dovish shock bulls needed, and Warsh’s tone pushed the opportunity cost of holding non-yielding metals back to the center of the trade.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-28/gold-silver-sink-warsh-revives-september-fed-hike-trade-kitco-pm-report",
+      "published": null
+    },
     {
       "id": "stockanalysis:ff35b3d0864290bc",
       "titleEn": "Gold's renewed momentum is sending a warning about America's $40 trillion debt",
@@ -103,57 +121,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1182689bf033e8c4",
-      "titleEn": "Gold price falls to $4,543/oz after payrolls revisions show -79,000 jobs in 12 months to March 2026",
-      "summaryEn": "(Kitco News) – Gold prices are lower after the latest U.S. employment data showed a relatively small downward revision to the nonfarm payrolls numbers over the last year. “The preliminary estimate of the Current Employment Statistics (CES) national benchmark revision to total nonfarm employment for March 2026 was -79,000 (-0.1 percent),” the U.S. Bureau of Labor Statistics announced on Friday. “The preliminary benchmark revision for total private employment was -178,000 (-0.1 percent). The annual benchmark revisions over the last 10 years have an absolute average of 0.2 percent of total nonfarm employment.” Spot gold fell sharply to a session low of $4,543.80 in the wake of the revisions, which were released at the same time as Fed Chair Warsh’s Jackson Hole speech and final consumer sentiment, and last traded at $4,564.05 per ounce for a loss of 0.83% on the session.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-28/gold-price-falls-4543oz-after-payrolls-revisions-show-79000-jobs-12-months",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5dfa90aba5ff1c07",
-      "titleEn": "Gold prices drop 1% as Warsh says inflation is a bigger concern than a slowing labor market",
-      "summaryEn": "(Kitco News) - The gold market is seeing significant selling pressure as Federal Reserve Chair Kevin Warsh reiterates his commitment to bringing inflationary pressures back in line with the central bank’s 2% target. Friday, in his much-anticipated speech at the annual Central Bank Symposium in Jackson Hole, Wyoming, Warsh said that the price-stability side of the Federal Reserve’s mandate is more of a concern than the slowing labor market. “There are always areas of concern in the labor market—for example, among recent graduates. In general, though, people who want to work, by and large, are holding or finding jobs. They may well be concerned about possible future labor disruptions, but as of now, I believe the labor markets are consistent with full employment,” Warsh said in his speech. “But on the price-stability side of our mandate, the numbers are more concerning. The Fed&#x27;s preferred measure of inflation, the 12-month change in the PCE price index, stands at 3.7 percent, while the six-month change is 4.1 percent.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-28/gold-prices-drop-1-warsh-says-inflation-bigger-concern-slowing-labor-market",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c46eff4e8750a40b",
-      "titleEn": "SoftBank Seeks $10 Billion Loan to Refinance OpenAI Stake",
-      "summaryEn": "SoftBank Group is seeking a $10 billion loan to help refinance debt used for its investment in OpenAI, Bloomberg reported Friday (Aug. 28), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The proceeds of the loan could help repay a $40 billion bridge loan SoftBank secured for its OpenAI investments, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/softbank-seeks-10-billion-loan-to-refinance-openai-stake/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f889f575b5b1b255",
-      "titleEn": "Rubrik stock drops as gross margin slips: Is the selloff a buying opportunity?",
+      "id": "stockanalysis:bff9bd3b5da03f4e",
+      "titleEn": "Destiny Tech100 Inc. Reports Second Quarter 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/28/rubrik-stock-drops-as-gross-margin-slips-is-the-selloff-a-buying-opportunity/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:eafc3872ccb84c9b",
-      "titleEn": "Spot gold falls below $4,550/oz after final Consumer Sentiment falls to 51.7, one-year inflation expectations ease",
-      "summaryEn": "(Kitco News) - The gold market is trading at session lows after the latest data showed consumer sentiment in the U.S. declining, with shorter-term inflation expectations easing. The University of Michigan announced on Friday that the final reading of its Consumer Sentiment survey for August was 51.7. The data was better than expectations, as the consensus forecast of economists called for a reading of 51, but it was well below July’s final reading of 55.2. “Consumer sentiment confirmed its early month reading, falling about 6% from last month and landing about 11% below a year ago amid continued worries that inflation will remain elevated for the foreseeable future,” said Surveys of Consumers Director Joanne Hsu. “Sentiment declines in August were seen for all political groups and were particularly acute among Republicans. Moreover, groups who are typically less-equipped to absorb increases in cost of living also exhibited stronger decreases in sentiment, including older consumers, lower- and middle-income consumers, and those with no stock holdings.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-28/spot-gold-falls-below-4550oz-after-final-consumer-sentiment-falls-517-one",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:096f6e0b958d604d",
-      "titleEn": "Affirm stock jumps after record profit: why BofA sees a nearly 35% upside",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/28/affirm-stock-jumps-after-record-profit-why-bofa-sees-a-nearly-35-upside/",
+      "link": "https://www.businesswire.com/news/home/20260828020887/en/Destiny-Tech100-Inc.-Reports-Second-Quarter-2026-Results/",
       "published": null
     },
     {
