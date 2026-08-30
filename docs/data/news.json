@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-30T12:23:46.103809Z",
+  "generatedAt": "2026-08-30T16:51:01.715276Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:bba94b77018b32d0",
@@ -76,12 +76,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:334e18f230a30077",
-      "titleEn": "Gold's rally hits a speed bump, but analysts see 40 trillion reasons to stay bullish",
-      "summaryEn": "(Kitco News) - The gold market may have 40 trillion reasons to go higher through the rest of the year, but analysts say that renewed expectations that the Federal Reserve still needs to fight inflation could add some volatility to the market next week. After starting the week with a push toward $4,700 an ounce, gold’s five-week winning streak has come to an abrupt halt. The gold market is ending the week near support at $4,500 an ounce following what analysts have described as hawkish comments from Federal Reserve Chair Kevin Warsh. Spot gold last traded at $4,473.80 an ounce, down 2.74% on the day. Friday’s selloff has pushed prices down by nearly 3% for the week.",
+      "id": "stockanalysis:c2504fae52c1565a",
+      "titleEn": "Arrowhead Pharmaceuticals Presents Phase 3 SHASTA-3 and SHASTA-4 Data Demonstrating Plozasiran Reduced Acute Pancreatitis Events in Patients with Severe Hypertriglyceridemia",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-28/golds-rally-hits-speed-bump-analysts-see-40-trillion-reasons-stay-bullish",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260830813912/en/Arrowhead-Pharmaceuticals-Presents-Phase-3-SHASTA-3-and-SHASTA-4-Data-Demonstrating-Plozasiran-Reduced-Acute-Pancreatitis-Events-in-Patients-with-Severe-Hypertriglyceridemia/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:09b67cd17c562685",
+      "titleEn": "L3Harris Celebrates Successful Launch of NASA's Nancy Grace Roman Space Telescope",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260828306016/en/L3Harris-Celebrates-Successful-Launch-of-NASA%E2%80%99s-Nancy-Grace-Roman-Space-Telescope/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5ad7950aa2d3247a",
+      "titleEn": "Alnylam Presents New Data at ESC Congress 2026 Reinforcing Strength in RNAi-Powered TTR Silencing Across ATTR-CM Patient Populations and Treatment Settings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260829551848/en/Alnylam-Presents-New-Data-at-ESC-Congress-2026-Reinforcing-Strength-in-RNAi-Powered-TTR-Silencing-Across-ATTR-CM-Patient-Populations-and-Treatment-Settings/",
       "published": null
     },
     {
@@ -100,15 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260828020887/en/Destiny-Tech100-Inc.-Reports-Second-Quarter-2026-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b3e53b724f996746",
-      "titleEn": "Takeda Receives U.S. FDA Approval of MIMRYLO™ (rusfertide), Marking a Potential Shift in the Treatment Paradigm for Polycythemia Vera",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260824773270/en/Takeda-Receives-U.S.-FDA-Approval-of-MIMRYLO%E2%84%A2-rusfertide-Marking-a-Potential-Shift-in-the-Treatment-Paradigm-for-Polycythemia-Vera/",
       "published": null
     }
   ]
