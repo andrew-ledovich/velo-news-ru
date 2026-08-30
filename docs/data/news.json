@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-30T16:51:01.715276Z",
+  "generatedAt": "2026-08-30T19:33:23.362909Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:bba94b77018b32d0",
@@ -55,24 +55,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-08-28/golds-renewed-momentum-sending-warning-about-americas-40-trillion-debt",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:26bbad53a0bf2cdd",
-      "titleEn": "Workday stock jumps 5% after earnings beat, but analysts split on AI growth outlook",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/28/workday-stock-jumps-5-after-earnings-beat-but-analysts-split-on-ai-growth-outlook/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5ebefb9d78a29846",
-      "titleEn": "Gold is 'on the radar screen' and the Fed is split 'down the middle,' former Fed president says",
-      "summaryEn": "(Kitco News) - Jim Bullard says a hold next month could still be hawkish, foreign central banks found physical gold more desirable than Bitcoin this year, and gold’s run-up may signal eroding faith in the Fed, something he says is \"on the radar screen.\" The Federal Open Market Committee is divided almost exactly in half over whether to raise interest rates next month, according to a man who sat in that room for 15 years. .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } \"I think the committee is split pretty much down the middle, so 10-9 one way or the other,\" former St. Louis Fed President Jim Bullard told Kitco News on Friday. \"A lot of people that are sitting on the fence could be convinced to go either way.\"",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-28/gold-radar-screen-and-fed-split-down-middle-former-fed-president-says",
       "published": null
     },
     {
