@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-30T01:22:23.421299Z",
+  "generatedAt": "2026-08-30T06:53:47.931216Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:bba94b77018b32d0",
+      "titleEn": "Kospi Index at a crossroads as Samsung, SK Hynix leverage bets reverse",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/30/kospi-index-at-a-crossroads-as-samsung-sk-hynix-leverage-bets-reverse/",
+      "published": null
+    },
     {
       "id": "stockanalysis:80b2fad7a50dcd62",
       "titleEn": "How Meta's $18B teen safety settlement could reshape social media regulation",
