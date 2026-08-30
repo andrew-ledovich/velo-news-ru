@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T19:33:23.362909Z",
+  "generatedAt": "2026-08-30T22:03:42.650752Z",
   "sourceCount": 1,
   "count": 11,
   "items": [
@@ -49,12 +49,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ff35b3d0864290bc",
-      "titleEn": "Gold's renewed momentum is sending a warning about America's $40 trillion debt",
-      "summaryEn": "(Kitco News) - Gold has seen a sharp pullback ahead of the weekend, but its impressive gains this past month should be a wake-up call for investors. Earlier this week, gold prices were up roughly 15% for the month, on track for their best performance since January 1999. Although Warsh’s hawkish comments at Jackson Hole have cooled the precious metal’s momentum, gold is still up 10% for the month, a remarkable rebound from a months-long 30% correction. Gold’s momentum has been reignited by growing concerns that government debt is spiraling out of control. U.S. government debt has now surpassed $40 trillion , and investors are increasingly questioning how the world’s largest economy can manage that burden without eventually sacrificing the purchasing power of its currency.",
+      "id": "stockanalysis:aec4357abe5c41f5",
+      "titleEn": "LHX Investors Have Opportunity to Join L3Harris Technologies, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-28/golds-renewed-momentum-sending-warning-about-americas-40-trillion-debt",
+      "link": "https://www.businesswire.com/news/home/20260830994316/en/LHX-Investors-Have-Opportunity-to-Join-L3Harris-Technologies-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4fecf1ec5484b607",
+      "titleEn": "CLMT Investors Have Opportunity to Join Calumet, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260830525751/en/CLMT-Investors-Have-Opportunity-to-Join-Calumet-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
@@ -91,15 +100,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260826397542/en/Bristol-Myers-Squibb-Presents-Data-Up-to-Five-Years-Reinforcing-the-Long-Term-Efficacy-and-Safety-of-Camzyos-mavacamten-in-Symptomatic-Obstructive-Hypertrophic-Cardiomyopathy-oHCM-at-the-European-Society-of-Cardiology-ESC-Congress-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bff9bd3b5da03f4e",
-      "titleEn": "Destiny Tech100 Inc. Reports Second Quarter 2026 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260828020887/en/Destiny-Tech100-Inc.-Reports-Second-Quarter-2026-Results/",
       "published": null
     }
   ]
