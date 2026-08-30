@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-30T06:53:47.931216Z",
+  "generatedAt": "2026-08-30T12:23:46.103809Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:bba94b77018b32d0",
@@ -82,24 +82,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-08-28/golds-rally-hits-speed-bump-analysts-see-40-trillion-reasons-stay-bullish",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d1192394245a0b56",
-      "titleEn": "Why is Autodesk stock falling 4% despite Q2 earnings beat",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/28/why-is-autodesk-stock-falling-4-despite-q2-earnings-beat/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4326ce12b196e081",
-      "titleEn": "Apple stock rises ahead of Sept. 9 event with foldable iPhone in focus",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/28/apple-stock-rises-ahead-of-sept-9-event-with-foldable-iphone-in-focus/",
       "published": null
     },
     {
