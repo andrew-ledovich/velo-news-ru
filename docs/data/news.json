@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-08-31T06:07:31.027199Z",
+  "generatedAt": "2026-08-31T13:39:50.516830Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 8,
   "items": [
+    {
+      "id": "stockanalysis:d441b6ff5488b412",
+      "titleEn": "Broadcom stock dubbed a 'top pick' ahead of Q3 earnings: find out more",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/31/broadcom-stock-dubbed-a-top-pick-ahead-of-q3-earnings-find-out-more/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a71978d12cff2774",
+      "titleEn": "Gold slips as Warsh repricing, Hormuz oil spike lift rate risk - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices are lower and spot silver prices are firmer in early U.S. trading Monday, as traders weighed higher September Fed-hike odds and a renewed Strait of Hormuz oil shock against defensive demand tied to fresh U.S.-Iran escalation. At the time of writing, spot gold was trading near $4,438.20 an ounce, down 0.36%, while spot silver was trading at $66.860, up 0.91% on the session. The latest positioning remains defined by Fed Chair Kevin Warsh’s hawkish Jackson Hole message and a data-heavy week ahead. Futures-implied odds of a September rate hike were near 60% Monday, after Warsh’s speech pushed the two-year Treasury yield nearly 12 basis points higher Friday. The two-year yield dipped to about 4.325% in early Monday trade, but the move only trimmed Friday’s surge rather than reversing it. The next rate tests are Tuesday’s JOLTS job openings and ISM manufacturing data, Wednesday’s ADP employment report, Thursday’s jobless claims and ISM services data, and Friday’s August payrolls report. Gold remains caught between the rate shock and geopolitical bid. Friday’s selloff broke the metal below the 200-day moving average and put $4,396 back in focus in the latest technical setup, but Monday’s renewed Gulf risk has limited follow-through selling. Silver is trading better after bouncing from the $65.63 to $65.64 support area, but it remains below its short-term moving averages, leaving the rebound vulnerable unless buyers can clear the $67.75 to $68.40 resistance band.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-31/gold-slips-warsh-repricing-hormuz-oil-spike-lift-rate-risk-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7f8df24f7fe46e33",
+      "titleEn": "Nio stock builds a bullish pattern into earnings as BYD issues major EV warning",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/08/31/nio-stock-builds-a-bullish-pattern-into-earnings-as-byd-issues-major-ev-warning/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:eae0f98f7050d67d",
+      "titleEn": "SoFi Tech Solutions' New President Is Building the AWS of Finance",
+      "summaryEn": "New SoFi Technology Solutions President Kathleen Pierce-Gilmore tells Karen Webster she sees software platforms as a distinct market for SoFi Technology Solutions because their operating data can provide financial context conventional providers may not have. The loss of a large client that brought technology in-house is informing SoFi Technology Solutions’ search for longer-lasting customer relationships. Younger consumers’ broader use of debit and the emergence of AI agents are creating new requirements for payment infrastructure.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/payments-innovation/2026/sofi-tech-solutions-new-president-is-building-the-aws-of-finance/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f04b54940e8e85b8",
+      "titleEn": "John Ternus to lead Apple into the age of AI",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: John Ternus takes over as Apple's chief executive on Tuesday, inheriting a company that towers over the smartphone market but trails its rivals in artificial intelligence. One of his biggest challenges will be balancing the company's dependence on China while parrying acute political pressure from the White House.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-08-john-ternus-apple-age-ai.html",
+      "published": null
+    },
     {
       "id": "stockanalysis:18bb74277b430748",
       "titleEn": "Hang Seng Index: Top 3 reasons Hong Kong stocks are falling today",
@@ -22,93 +67,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:33cc2ca853a020a0",
-      "titleEn": "OpenAI Cancels Cursor Partnership Citing Distrust of Elon Musk",
-      "summaryEn": "OpenAI is ending its relationship with Cursor following that company’s acquisition by SpaceX . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The artificial intelligence startup announced the change Friday (Aug. 28), saying it was driven by OpenAI’s contentious relationship with SpaceX head Elon Musk.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-cancels-cursor-partnership-citing-distrust-of-elon-musk/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bba94b77018b32d0",
-      "titleEn": "Kospi Index at a crossroads as Samsung, SK Hynix leverage bets reverse",
+      "id": "stockanalysis:830b6eaa8a216f9f",
+      "titleEn": "Helix Shareholders Approve Combination with Hornbeck Offshore Services",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/30/kospi-index-at-a-crossroads-as-samsung-sk-hynix-leverage-bets-reverse/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:80b2fad7a50dcd62",
-      "titleEn": "How Meta's $18B teen safety settlement could reshape social media regulation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/29/how-metas-18b-teen-safety-settlement-could-reshape-social-media-regulation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:aec5e64aee48964f",
-      "titleEn": "Nvidia is using its balance sheet to fuel the AI boom. Is it a double-edged sword?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/29/nvidia-is-using-its-balance-sheet-to-fuel-the-ai-boom-is-it-a-double-edged-sword/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6637d9bd6591f3a7",
-      "titleEn": "e.l.f. Beauty and Parity Release “Girls Who Play Change the Game”, Connecting Girls' Sports Participation to Long-Term Workplace Impact",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260830853936/en/e.l.f.-Beauty-and-Parity-Release-%E2%80%9CGirls-Who-Play-Change-the-Game%E2%80%9D-Connecting-Girls-Sports-Participation-to-Long-Term-Workplace-Impact/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ec7549b96e7c3a2f",
-      "titleEn": "Mitsubishi Electric Develops Task-Aware Unified Source Separation Technology",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260830649967/en/Mitsubishi-Electric-Develops-Task-Aware-Unified-Source-Separation-Technology/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5161aa6c3d51d956",
-      "titleEn": "Mitsubishi Electric to Exhibit at CEATEC 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260830089808/en/Mitsubishi-Electric-to-Exhibit-at-CEATEC-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e3b02bb2efe715e1",
-      "titleEn": "Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: New Robot Deliveries and Updates from the Middle East; Recap on FF EAI Robotics “Built in USA” Business Partner Conference Held Last Week; RoboShare Officially Launched",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260830564142/en/Faraday-Future-Founder-and-Global-CEO-YT-Jia-Shares-Weekly-Investor-Update-New-Robot-Deliveries-and-Updates-from-the-Middle-East-Recap-on-FF-EAI-Robotics-%E2%80%9CBuilt-in-USA%E2%80%9D-Business-Partner-Conference-Held-Last-Week-RoboShare-Officially-Launched/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:aec4357abe5c41f5",
-      "titleEn": "LHX Investors Have Opportunity to Join L3Harris Technologies, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260830994316/en/LHX-Investors-Have-Opportunity-to-Join-L3Harris-Technologies-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4fecf1ec5484b607",
-      "titleEn": "CLMT Investors Have Opportunity to Join Calumet, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260830525751/en/CLMT-Investors-Have-Opportunity-to-Join-Calumet-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20260831069322/en/Helix-Shareholders-Approve-Combination-with-Hornbeck-Offshore-Services/",
       "published": null
     }
   ]
