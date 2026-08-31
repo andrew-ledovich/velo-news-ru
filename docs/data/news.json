@@ -1,78 +1,204 @@
 {
-  "generatedAt": "2026-08-31T13:39:50.516830Z",
+  "generatedAt": "2026-08-31T19:39:03.804071Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 22,
   "items": [
     {
-      "id": "stockanalysis:d441b6ff5488b412",
-      "titleEn": "Broadcom stock dubbed a 'top pick' ahead of Q3 earnings: find out more",
+      "id": "stockanalysis:4179d0d0f1dd2141",
+      "titleEn": "Why is Micron stock gaining today",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/31/broadcom-stock-dubbed-a-top-pick-ahead-of-q3-earnings-find-out-more/",
+      "link": "https://invezz.com/news/2026/08/31/why-is-micron-stock-gaining-today/",
       "published": null
     },
     {
-      "id": "stockanalysis:a71978d12cff2774",
-      "titleEn": "Gold slips as Warsh repricing, Hormuz oil spike lift rate risk - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices are lower and spot silver prices are firmer in early U.S. trading Monday, as traders weighed higher September Fed-hike odds and a renewed Strait of Hormuz oil shock against defensive demand tied to fresh U.S.-Iran escalation. At the time of writing, spot gold was trading near $4,438.20 an ounce, down 0.36%, while spot silver was trading at $66.860, up 0.91% on the session. The latest positioning remains defined by Fed Chair Kevin Warsh’s hawkish Jackson Hole message and a data-heavy week ahead. Futures-implied odds of a September rate hike were near 60% Monday, after Warsh’s speech pushed the two-year Treasury yield nearly 12 basis points higher Friday. The two-year yield dipped to about 4.325% in early Monday trade, but the move only trimmed Friday’s surge rather than reversing it. The next rate tests are Tuesday’s JOLTS job openings and ISM manufacturing data, Wednesday’s ADP employment report, Thursday’s jobless claims and ISM services data, and Friday’s August payrolls report. Gold remains caught between the rate shock and geopolitical bid. Friday’s selloff broke the metal below the 200-day moving average and put $4,396 back in focus in the latest technical setup, but Monday’s renewed Gulf risk has limited follow-through selling. Silver is trading better after bouncing from the $65.63 to $65.64 support area, but it remains below its short-term moving averages, leaving the rebound vulnerable unless buyers can clear the $67.75 to $68.40 resistance band.",
+      "id": "stockanalysis:8f979dffdad929fd",
+      "titleEn": "TD Touts Successful Tokenized Payments With Project Agorá",
+      "summaryEn": "TD says it has successfully completed a tokenized payments test on the Project Agorá platform. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The test case involved carrying out a tokenized payment between TD New York Branch (TD Securities LLC) and TD Bank, N.A., in partnership with Bank of New York (BNY), the bank announced Monday (Aug. 31).",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/payments-innovation/2026/td-touts-successful-tokenized-payments-with-project-agora/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:594c3ac6b0c42ba5",
+      "titleEn": "ChatGPT becomes first AI chatbot to face tougher EU rules",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: ChatGPT will have to comply with tougher safety rules after the EU added it Monday to a list of digital services subject to greater legal scrutiny in Europe, a first for an AI chatbot. Brussels also designated the Reddit forum and the popular gaming network Roblox as \"very large\" online platforms, a label that comes with additional obligations and oversight.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-08-chatgpt-ai-chatbot-tougher-eu.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c28b212902da921c",
+      "titleEn": "Gold price is going to $20,000 as the Fed is ‘powerless' to fight inflation, miners offer greatest upside - Crescat's Kevin Smith",
+      "summaryEn": "(Kitco News) - Despite all the volatility so far this year as gold suffered a significant correction from its record highs, one fund manager says the precious metal’s secular bull market remains firmly intact, with expanding global money supply and unsustainable government debt ultimately driving prices toward $20,000 an ounce. In an interview with Kitco News, Kevin Smith, founder and CEO of Crescat Capital, said that gold was looking overbought at the start of the year as prices rallied to an all-time high of $5,600; however, despite the months-long correction, he believes the fundamental monetary forces supporting the precious metal have only strengthened. “I think the gold market got a little bit ahead of itself earlier this year, January and February,” Smith said, adding that a pullback was natural after the strong rally.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-31/gold-price-going-20000-fed-powerless-fight-inflation-miners-offer-greatest",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:90141f4a7c18585c",
+      "titleEn": "Apple stock falls as Tim Cook signs off, Ternus faces AI and post-iPhone tests",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/31/apple-stock-falls-as-tim-cook-signs-off-ternus-faces-ai-and-post-iphone-tests/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1e5125b090b30f19",
+      "titleEn": "OpenAI Says Ad Business Reaches $1 Billion Run Rate",
+      "summaryEn": "OpenAI says its ChatGPT Ads business has reached $1 billion in annualized revenue run rate. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “The platform is now used by tens of thousands of advertisers and continues to expand globally,” the artificial intelligence (AI) startup announced Monday (Aug. 31). “Starting later today, advertisers can purchase ChatGPT ads directly via Ads Manager across India, Europe, the Middle East, and North Africa.”",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-says-ad-business-reaches-1-billion-run-rate/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:eb17d221e33c4a46",
+      "titleEn": "SpaceX stock gains as Bernstein maintains bullish outlook",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/31/spacex-stock-gains-as-bernstein-maintains-bullish-outlook/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5347afe9de7e5376",
+      "titleEn": "Fed's hawkishness will drive gold price toward $4,200/oz this year, but $5,350 by Q3 2027 still in play – TD Securities' Melek",
+      "summaryEn": "(Kitco News) – Fed Chairman Kevin Warsh leaned hawkish in his speech from Jackson Hole, Wyoming on Friday, reiterating the central bank’s commitment to keeping inflation under control, and this stance could be a significant headwind for gold in the near term, according to Bart Melek, Head of Commodity Research at TD Securities. “During his Jackson Hole speech on Friday, Fed Chairman Kevin Warsh cautioned that inflation is not slowing convincingly and stated that policymakers need to ensure it returns to their 2% target, which he said is firm and fixed,” Melek wrote in his latest gold analysis. “He also stated that financial conditions are not currently restrictive.” He also noted that Warsh claimed “the data was not conducive to bringing the elevated PCE and CPI inflation measures to heel,” with higher energy prices and a still-strong economy suggesting that the essential dynamics driving aggregate prices higher remain in place.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-31/gold-slips-warsh-repricing-hormuz-oil-spike-lift-rate-risk-kitco-am-report",
+      "link": "https://www.kitco.com/news/article/2026-08-31/feds-hawkishness-will-drive-gold-price-toward-4200oz-year-5350-q3-2027",
       "published": null
     },
     {
-      "id": "stockanalysis:7f8df24f7fe46e33",
-      "titleEn": "Nio stock builds a bullish pattern into earnings as BYD issues major EV warning",
+      "id": "stockanalysis:bf4ae22656303a4f",
+      "titleEn": "Strategy (MSTR) stock gains after resuming Bitcoin purchases after 10 weeks",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/08/31/nio-stock-builds-a-bullish-pattern-into-earnings-as-byd-issues-major-ev-warning/",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/08/31/strategy-mstr-stock-gains-after-resuming-bitcoin-purchases-after-10-weeks/",
       "published": null
     },
     {
-      "id": "stockanalysis:eae0f98f7050d67d",
-      "titleEn": "SoFi Tech Solutions' New President Is Building the AWS of Finance",
-      "summaryEn": "New SoFi Technology Solutions President Kathleen Pierce-Gilmore tells Karen Webster she sees software platforms as a distinct market for SoFi Technology Solutions because their operating data can provide financial context conventional providers may not have. The loss of a large client that brought technology in-house is informing SoFi Technology Solutions’ search for longer-lasting customer relationships. Younger consumers’ broader use of debit and the emergence of AI agents are creating new requirements for payment infrastructure.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/payments-innovation/2026/sofi-tech-solutions-new-president-is-building-the-aws-of-finance/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f04b54940e8e85b8",
-      "titleEn": "John Ternus to lead Apple into the age of AI",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: John Ternus takes over as Apple's chief executive on Tuesday, inheriting a company that towers over the smartphone market but trails its rivals in artificial intelligence. One of his biggest challenges will be balancing the company's dependence on China while parrying acute political pressure from the White House.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-08-john-ternus-apple-age-ai.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:18bb74277b430748",
-      "titleEn": "Hang Seng Index: Top 3 reasons Hong Kong stocks are falling today",
+      "id": "stockanalysis:25033a5e19f72f9a",
+      "titleEn": "Dell stock flags bearish divergence pattern as earnings loom: will it rise or fall?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/31/hang-seng-index-top-3-reasons-hong-kong-stocks-are-falling-today/",
+      "link": "https://invezz.com/news/2026/08/31/dell-stock-flags-bearish-divergence-pattern-as-earnings-loom-will-it-rise-or-fall/",
       "published": null
     },
     {
-      "id": "stockanalysis:ae91ec00f8710453",
-      "titleEn": "Anthropic Accused of Stealing Thousands of Songs in Music Label Suit",
-      "summaryEn": "The music industry is once again accusing artificial intelligence giant Anthropic of intellectual property theft. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Sony Music , Warner Chappell Music and several other labels filed a federal lawsuit Friday (Aug. 28) alleging that the Claude maker improperly used “thousands upon thousands” of their songs to train the AI model.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-accused-of-stealing-thousands-of-songs-in-music-label-suit/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:830b6eaa8a216f9f",
-      "titleEn": "Helix Shareholders Approve Combination with Hornbeck Offshore Services",
+      "id": "stockanalysis:5b695fe878781bf1",
+      "titleEn": "Nvidia stock rises as company announces $3.5B investment in MediaTek",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260831069322/en/Helix-Shareholders-Approve-Combination-with-Hornbeck-Offshore-Services/",
+      "link": "https://invezz.com/news/2026/08/31/nvidia-stock-rises-as-company-announces-3-5b-investment-in-mediatek/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e3afdeb97ec54088",
+      "titleEn": "Credo Technology stock: Insider selling meets options market jitters before earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/31/credo-technology-stock-insider-selling-meets-options-market-jitters-before-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8fbbcb1e58038c87",
+      "titleEn": "OpenAI says its ads business has hit $1B run-rate",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/08/31/openai-says-its-ads-business-has-hit-1b-run-rate/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:44508a6c1311259e",
+      "titleEn": "Gold and silver see renewed ETF demand, but investor sentiment still lags price action – Heraeus",
+      "summaryEn": "(Kitco News) – Gold and silver ETFs have risen well off last month’s lows, and while investor sentiment has yet to match the recent price action, the Iran conflict, sticky inflation and U.S. debt concerns will likely drive investors back to bullion, according to precious metals analysts at Heraeus. In their latest update, the analysts noted that following the rally to $5,595/oz in late January, gold prices have seen their deepest and longest correction since 2022. “The price has broken through a downtrend line so the question is whether that correction is over or has further to go,” they wrote. “After such a large price hike, 246% in 3.5 years, a period of consolidation is no great surprise. Six months is a similar length to the larger corrections since 2016 and a 29% price decline is larger, but those previous, shallower corrections followed much smaller price gains. However, the recent price rise has also taken it above its 200-day moving average that itself is still rising, which is a sign of an uptrend.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-31/gold-and-silver-see-renewed-etf-demand-investor-sentiment-still-lags-price",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cf75435090187055",
+      "titleEn": "BofA names 3 stocks with meaningful upside in September",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/31/bofa-names-3-stocks-with-meaningful-upside-in-september/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:adb29eb387279cbf",
+      "titleEn": "The Trade Desk stock: Bullish patterns emerge despite mounting business woes",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/31/the-trade-desk-stock-bullish-patterns-emerge-despite-mounting-business-woes/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cb36375b8e841f56",
+      "titleEn": "BeOne Medicines Announces Voluntary Agreement with U.S. Government to Expand Access to Innovative Cancer Medicines",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260831047788/en/BeOne-Medicines-Announces-Voluntary-Agreement-with-U.S.-Government-to-Expand-Access-to-Innovative-Cancer-Medicines/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:17f4bcbad5238727",
+      "titleEn": "The Wizard of Oz at Sphere Unveils New &amp; Expanded 4D Effects",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260831943279/en/The-Wizard-of-Oz-at-Sphere-Unveils-New-Expanded-4D-Effects/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7bb36834f3c21e4f",
+      "titleEn": "Hims Arrives in Australia, Bringing Personalised Care for Men Nationwide",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260831313760/en/Hims-Arrives-in-Australia-Bringing-Personalised-Care-for-Men-Nationwide/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:543aa7447c5c4c30",
+      "titleEn": "Hims Enters Australia, Marking First Expansion into the Asia-Pacific Market",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260831983529/en/Hims-Enters-Australia-Marking-First-Expansion-into-the-Asia-Pacific-Market/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:258c0859f4bfd3ea",
+      "titleEn": "Exelixis Announces Update on Patent Litigation Trial Appeal with MSN Laboratories",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260831878873/en/Exelixis-Announces-Update-on-Patent-Litigation-Trial-Appeal-with-MSN-Laboratories/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fe5d458b6196ff2e",
+      "titleEn": "Heritage Global Partners to Conduct Two Massive Online Auctions of Wren Manufacturing's Pennsylvania Plants",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260831362741/en/Heritage-Global-Partners-to-Conduct-Two-Massive-Online-Auctions-of-Wren-Manufacturing%E2%80%99s-Pennsylvania-Plants/",
       "published": null
     }
   ]
