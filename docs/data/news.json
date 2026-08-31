@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-08-31T19:39:03.804071Z",
+  "generatedAt": "2026-08-31T23:22:12.356773Z",
   "sourceCount": 1,
-  "count": 22,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:9c65f12c5852cfbf",
+      "titleEn": "Gold price slips as oil spike, Fed-hike odds hit risk appetite - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices are slightly lower and spot silver prices are modestly higher in late-afternoon U.S. trading Monday, as renewed U.S.-Iran military escalation lifted oil prices, pushed long-end Treasury yields higher and kept pressure on non-yielding metals after Friday’s hawkish Fed shock. At the time of writing, spot gold was trading near $4,446.50 an ounce, down 0.18%, while spot silver was trading at $66.360, up 0.16% on the session. North American equity markets closed lower as oil and yields rose. The S&P 500 fell 25.62 points, or 0.3%, to 7,686.14, the Dow Jones Industrial Average dropped 374.09 points, or 0.7%, to 53,185.90, the Nasdaq Composite slipped 31.53 points, or 0.1%, to 26,370.89 and the Russell 2000 fell 15.92 points, or 0.5%, to 2,956.45. European markets also finished lower, with the STOXX Europe 600 down 0.62% to 651.10. Germany’s DAX fell 1.17% to 26,258.11, France’s CAC 40 lost 0.79% to 8,334.50 and Italy’s FTSE MIB slipped 0.01% to 52,612.69. London was closed for a bank holiday. The latest positioning remains driven by the post-Jackson Hole rate repricing and the week’s labor-market calendar. Fed-funds futures priced a 66.1% probability of a September rate hike, up from 57% Friday, as traders treated Chair Kevin Warsh’s hawkish speech and Monday’s oil shock as reinforcing the Fed’s inflation problem. The two-year Treasury yield held near 4.34%, while the 10-year yield rose to 4.75% and the 30-year yield remained near the 5.25% area. The next catalysts are Tuesday’s JOLTS job openings and ISM manufacturing data, Wednesday’s ADP employment report and Beige Book, Thursday’s jobless claims and ISM services data, and Friday’s August nonfarm payrolls report. For gold, the setup remains defensive: a stronger rate-hike impulse and elevated yields cap rallies, but geopolitical stress and fiscal-risk demand have so far limited downside follow-through below Friday’s low.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-31/gold-price-slips-oil-spike-fed-hike-odds-hit-risk-appetite-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9f48076de89a6ea7",
+      "titleEn": "Treasury's ramped-up bond buybacks soften the U.S. dollar and boost the gold price – Julius Baer",
+      "summaryEn": "(Kitco News) – The Treasury Department’s doubling of planned U.S. debt buybacks has intensified debate about bond market intervention and has revived the USD debasement trade, with gold and silver benefiting from a renewed focus on the fiscal position of the United States, according to analysts at Julius Baer. The Swiss private bank said the recent U.S. Treasury announcement that it will at least double the amount of long-dated Treasuries it buys back as of September came as a surprise. “The idea is that if the government buys more bonds, bond prices should rise and their yields should fall,” the analysts said. “Lower yields would reduce borrowing costs across the economy.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-08-31/treasurys-ramped-bond-buybacks-soften-us-dollar-and-boost-gold-price-julius",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d4e278732fa16ee9",
+      "titleEn": "Gold, silver price corrections may create buying opportunities despite hawkish Fed, says analyst",
+      "summaryEn": "(Kitco News) - Federal Reserve Chair Kevin Warsh’s renewed focus on inflation has injected fresh volatility into precious metals, with gold prices dropping below $4,500 and silver testing support near $66 an ounce, but one market analyst says the hawkish shift in monetary policy expectations does not necessarily spell the end of the broader bull market in gold and silver. In comments to Kitco News, Simon-Peter Massabni, Head of Business Development at XS.com, said gold and silver are entering a potentially important corrective phase as investors reassess the outlook for U.S. interest rates following Warsh’s speech at the Federal Reserve’s annual central bank symposium in Jackson Hole, Wyoming. During Friday’s speech, Warsh reiterated his commitment to price stability. His comments pushed markets away from expectations for easier monetary policy and revived the possibility that the Federal Reserve could raise interest rates again if inflation remains stubbornly above its 2% target.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-08-31/gold-silver-price-corrections-may-create-buying-opportunities-despite",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f7e112d1e6ac3d25",
+      "titleEn": "Burlington Shrinks Clothing Prices Following $55 Million Tariff Refund",
+      "summaryEn": "Off-price clothing retailer Burlington is the latest company using tariff refunds to reduce prices. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “It feels like the right thing to do for our customers,” CEO Michael O’Sullivan said on the company’s earnings call last week.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/retail/2026/burlington-shrinks-clothing-prices-following-55-million-tariff-refund/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:79d33d9d76cc5f7c",
+      "titleEn": "Apple CEO Tim Cook gives nod to founder Steve Jobs in final memo",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Apple's chief executive Tim Cook bid farewell to the tech giant on Monday, paying tribute to founder Steve Jobs and praising staff as \"extraordinary\" as he passed the baton to incoming CEO John Ternus. Cook spent nearly three decades at Apple, which he has led as CEO since 2011. He took over just weeks before Jobs died from pancreatic cancer.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-08-apple-ceo-tim-cook-founder.html",
+      "published": null
+    },
     {
       "id": "stockanalysis:4179d0d0f1dd2141",
       "titleEn": "Why is Micron stock gaining today",
@@ -58,147 +103,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:eb17d221e33c4a46",
-      "titleEn": "SpaceX stock gains as Bernstein maintains bullish outlook",
+      "id": "stockanalysis:8e165c05b810a7e0",
+      "titleEn": "Dabble Bets On Grafana Cloud and Grafana Assistant to Cut Incident Response Times",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/31/spacex-stock-gains-as-bernstein-maintains-bullish-outlook/",
+      "link": "https://www.businesswire.com/news/home/20260831220537/en/Dabble-Bets-On-Grafana-Cloud-and-Grafana-Assistant-to-Cut-Incident-Response-Times/",
       "published": null
     },
     {
-      "id": "stockanalysis:5347afe9de7e5376",
-      "titleEn": "Fed's hawkishness will drive gold price toward $4,200/oz this year, but $5,350 by Q3 2027 still in play – TD Securities' Melek",
-      "summaryEn": "(Kitco News) – Fed Chairman Kevin Warsh leaned hawkish in his speech from Jackson Hole, Wyoming on Friday, reiterating the central bank’s commitment to keeping inflation under control, and this stance could be a significant headwind for gold in the near term, according to Bart Melek, Head of Commodity Research at TD Securities. “During his Jackson Hole speech on Friday, Fed Chairman Kevin Warsh cautioned that inflation is not slowing convincingly and stated that policymakers need to ensure it returns to their 2% target, which he said is firm and fixed,” Melek wrote in his latest gold analysis. “He also stated that financial conditions are not currently restrictive.” He also noted that Warsh claimed “the data was not conducive to bringing the elevated PCE and CPI inflation measures to heel,” with higher energy prices and a still-strong economy suggesting that the essential dynamics driving aggregate prices higher remain in place.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-31/feds-hawkishness-will-drive-gold-price-toward-4200oz-year-5350-q3-2027",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bf4ae22656303a4f",
-      "titleEn": "Strategy (MSTR) stock gains after resuming Bitcoin purchases after 10 weeks",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/08/31/strategy-mstr-stock-gains-after-resuming-bitcoin-purchases-after-10-weeks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:25033a5e19f72f9a",
-      "titleEn": "Dell stock flags bearish divergence pattern as earnings loom: will it rise or fall?",
+      "id": "stockanalysis:71c8216e712fc863",
+      "titleEn": "Delek Welcomes Trump Administration Decisions on 2025 Small Refinery Exemptions",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/31/dell-stock-flags-bearish-divergence-pattern-as-earnings-loom-will-it-rise-or-fall/",
+      "link": "https://www.businesswire.com/news/home/20260831538107/en/Delek-Welcomes-Trump-Administration-Decisions-on-2025-Small-Refinery-Exemptions/",
       "published": null
     },
     {
-      "id": "stockanalysis:5b695fe878781bf1",
-      "titleEn": "Nvidia stock rises as company announces $3.5B investment in MediaTek",
+      "id": "stockanalysis:ba5b0dace1a45f10",
+      "titleEn": "SABA Announces Notification of Sources of Distributions",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/31/nvidia-stock-rises-as-company-announces-3-5b-investment-in-mediatek/",
+      "link": "https://www.businesswire.com/news/home/20260831510802/en/SABA-Announces-Notification-of-Sources-of-Distributions/",
       "published": null
     },
     {
-      "id": "stockanalysis:e3afdeb97ec54088",
-      "titleEn": "Credo Technology stock: Insider selling meets options market jitters before earnings",
+      "id": "stockanalysis:b2ac1a0b204e193c",
+      "titleEn": "BRW Announces Notification of Sources of Distributions",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/31/credo-technology-stock-insider-selling-meets-options-market-jitters-before-earnings/",
+      "link": "https://www.businesswire.com/news/home/20260831329314/en/BRW-Announces-Notification-of-Sources-of-Distributions/",
       "published": null
     },
     {
-      "id": "stockanalysis:8fbbcb1e58038c87",
-      "titleEn": "OpenAI says its ads business has hit $1B run-rate",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/31/openai-says-its-ads-business-has-hit-1b-run-rate/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:44508a6c1311259e",
-      "titleEn": "Gold and silver see renewed ETF demand, but investor sentiment still lags price action – Heraeus",
-      "summaryEn": "(Kitco News) – Gold and silver ETFs have risen well off last month’s lows, and while investor sentiment has yet to match the recent price action, the Iran conflict, sticky inflation and U.S. debt concerns will likely drive investors back to bullion, according to precious metals analysts at Heraeus. In their latest update, the analysts noted that following the rally to $5,595/oz in late January, gold prices have seen their deepest and longest correction since 2022. “The price has broken through a downtrend line so the question is whether that correction is over or has further to go,” they wrote. “After such a large price hike, 246% in 3.5 years, a period of consolidation is no great surprise. Six months is a similar length to the larger corrections since 2016 and a 29% price decline is larger, but those previous, shallower corrections followed much smaller price gains. However, the recent price rise has also taken it above its 200-day moving average that itself is still rising, which is a sign of an uptrend.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-31/gold-and-silver-see-renewed-etf-demand-investor-sentiment-still-lags-price",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cf75435090187055",
-      "titleEn": "BofA names 3 stocks with meaningful upside in September",
+      "id": "stockanalysis:e87117e356792618",
+      "titleEn": "Karman Space &amp; Defense to Participate in Upcoming Investor Conferences",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/31/bofa-names-3-stocks-with-meaningful-upside-in-september/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:adb29eb387279cbf",
-      "titleEn": "The Trade Desk stock: Bullish patterns emerge despite mounting business woes",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/31/the-trade-desk-stock-bullish-patterns-emerge-despite-mounting-business-woes/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cb36375b8e841f56",
-      "titleEn": "BeOne Medicines Announces Voluntary Agreement with U.S. Government to Expand Access to Innovative Cancer Medicines",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260831047788/en/BeOne-Medicines-Announces-Voluntary-Agreement-with-U.S.-Government-to-Expand-Access-to-Innovative-Cancer-Medicines/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:17f4bcbad5238727",
-      "titleEn": "The Wizard of Oz at Sphere Unveils New &amp; Expanded 4D Effects",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260831943279/en/The-Wizard-of-Oz-at-Sphere-Unveils-New-Expanded-4D-Effects/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7bb36834f3c21e4f",
-      "titleEn": "Hims Arrives in Australia, Bringing Personalised Care for Men Nationwide",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260831313760/en/Hims-Arrives-in-Australia-Bringing-Personalised-Care-for-Men-Nationwide/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:543aa7447c5c4c30",
-      "titleEn": "Hims Enters Australia, Marking First Expansion into the Asia-Pacific Market",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260831983529/en/Hims-Enters-Australia-Marking-First-Expansion-into-the-Asia-Pacific-Market/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:258c0859f4bfd3ea",
-      "titleEn": "Exelixis Announces Update on Patent Litigation Trial Appeal with MSN Laboratories",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260831878873/en/Exelixis-Announces-Update-on-Patent-Litigation-Trial-Appeal-with-MSN-Laboratories/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fe5d458b6196ff2e",
-      "titleEn": "Heritage Global Partners to Conduct Two Massive Online Auctions of Wren Manufacturing's Pennsylvania Plants",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260831362741/en/Heritage-Global-Partners-to-Conduct-Two-Massive-Online-Auctions-of-Wren-Manufacturing%E2%80%99s-Pennsylvania-Plants/",
+      "link": "https://www.businesswire.com/news/home/20260831385979/en/Karman-Space-Defense-to-Participate-in-Upcoming-Investor-Conferences/",
       "published": null
     }
   ]
