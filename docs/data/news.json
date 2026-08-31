@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-08-30T22:03:42.650752Z",
+  "generatedAt": "2026-08-31T00:33:22.206348Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:ae91ec00f8710453",
+      "titleEn": "Anthropic Accused of Stealing Thousands of Songs in Music Label Suit",
+      "summaryEn": "The music industry is once again accusing artificial intelligence giant Anthropic of intellectual property theft. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Sony Music , Warner Chappell Music and several other labels filed a federal lawsuit Friday (Aug. 28) alleging that the Claude maker improperly used “thousands upon thousands” of their songs to train the AI model.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-accused-of-stealing-thousands-of-songs-in-music-label-suit/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:33cc2ca853a020a0",
+      "titleEn": "OpenAI Cancels Cursor Partnership Citing Distrust of Elon Musk",
+      "summaryEn": "OpenAI is ending its relationship with Cursor following that company’s acquisition by SpaceX . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The artificial intelligence startup announced the change Friday (Aug. 28), saying it was driven by OpenAI’s contentious relationship with SpaceX head Elon Musk.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-cancels-cursor-partnership-citing-distrust-of-elon-musk/",
+      "published": null
+    },
     {
       "id": "stockanalysis:bba94b77018b32d0",
       "titleEn": "Kospi Index at a crossroads as Samsung, SK Hynix leverage bets reverse",
@@ -49,6 +67,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:e3b02bb2efe715e1",
+      "titleEn": "Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: New Robot Deliveries and Updates from the Middle East; Recap on FF EAI Robotics “Built in USA” Business Partner Conference Held Last Week; RoboShare Officially Launched",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260830564142/en/Faraday-Future-Founder-and-Global-CEO-YT-Jia-Shares-Weekly-Investor-Update-New-Robot-Deliveries-and-Updates-from-the-Middle-East-Recap-on-FF-EAI-Robotics-%E2%80%9CBuilt-in-USA%E2%80%9D-Business-Partner-Conference-Held-Last-Week-RoboShare-Officially-Launched/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:aec4357abe5c41f5",
       "titleEn": "LHX Investors Have Opportunity to Join L3Harris Technologies, Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
@@ -91,15 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260829551848/en/Alnylam-Presents-New-Data-at-ESC-Congress-2026-Reinforcing-Strength-in-RNAi-Powered-TTR-Silencing-Across-ATTR-CM-Patient-Populations-and-Treatment-Settings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6004e7e9a9f5a666",
-      "titleEn": "Bristol Myers Squibb Presents Data Up to Five Years Reinforcing the Long-Term Efficacy and Safety of Camzyos (mavacamten) in Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM) at the European Society of Cardiology (ESC) Congress 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826397542/en/Bristol-Myers-Squibb-Presents-Data-Up-to-Five-Years-Reinforcing-the-Long-Term-Efficacy-and-Safety-of-Camzyos-mavacamten-in-Symptomatic-Obstructive-Hypertrophic-Cardiomyopathy-oHCM-at-the-European-Society-of-Cardiology-ESC-Congress-2026/",
       "published": null
     }
   ]
