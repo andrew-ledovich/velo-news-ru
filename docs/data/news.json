@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-31T00:33:22.206348Z",
+  "generatedAt": "2026-08-31T06:07:31.027199Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:18bb74277b430748",
+      "titleEn": "Hang Seng Index: Top 3 reasons Hong Kong stocks are falling today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/08/31/hang-seng-index-top-3-reasons-hong-kong-stocks-are-falling-today/",
+      "published": null
+    },
     {
       "id": "stockanalysis:ae91ec00f8710453",
       "titleEn": "Anthropic Accused of Stealing Thousands of Songs in Music Label Suit",
@@ -49,21 +58,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:76e973ee9c629af1",
-      "titleEn": "Wall Street holds out hope for gold despite fall to $4,445/oz, Main Street pares bullish majority with payrolls now in focus",
-      "summaryEn": "(Kitco News) – Gold prices saw another dramatic week, as early momentum from dollar weakness and lingering fiscal concerns reversed after Fed Chair Kevin Warsh used his Jackson Hole speech to reinforce the central bank’s inflation-fighting stance and revive expectations for a September rate hike. Spot gold kicked off the week trading at $4,618.79 per ounce on Sunday evening, and the yellow metal pushed higher through Monday as traders continued to digest the prior week’s Treasury buyback announcement and its implications for long-term yields, U.S. debt sustainability, and hard-asset demand. The rally extended Tuesday, when softer consumer confidence and trader positioning ahead of Wednesday’s inflation and growth data helped gold set its weekly high of $4,697.66 per ounce. Gold’s advance began to falter on Wednesday morning, even after core PCE inflation and second-quarter GDP data did little to change the broader view that the U.S. economy remains resilient while inflation remains elevated. Gold slipped back below $4,600 as yields firmed and traders became more cautious ahead of Warsh’s Jackson Hole remarks.",
+      "id": "stockanalysis:6637d9bd6591f3a7",
+      "titleEn": "e.l.f. Beauty and Parity Release “Girls Who Play Change the Game”, Connecting Girls' Sports Participation to Long-Term Workplace Impact",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-28/wall-street-holds-out-hope-gold-despite-fall-4445oz-main-street-pares",
+      "link": "https://www.businesswire.com/news/home/20260830853936/en/e.l.f.-Beauty-and-Parity-Release-%E2%80%9CGirls-Who-Play-Change-the-Game%E2%80%9D-Connecting-Girls-Sports-Participation-to-Long-Term-Workplace-Impact/",
       "published": null
     },
     {
-      "id": "stockanalysis:2613271a5d63d615",
-      "titleEn": "Gold, silver sink as Warsh revives September Fed-hike trade - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply lower in late-afternoon U.S. trading Friday, after Fed Chair Kevin Warsh used his Jackson Hole speech to reinforce the central bank’s inflation fight, lifting short-end yields, firming the U.S. dollar and forcing a heavy unwind in precious metals. At the time of writing, spot gold was trading near $4,456.00 an ounce, down 3.14%, while spot silver was trading at $66.210, down 4.24% on the session. North American equity markets closed lower, though the major indexes still posted weekly gains. The S&P 500 fell 0.2% to 7,711.76, the Dow Jones Industrial Average was down less than 0.1% at 53,559.99, the Nasdaq Composite lost 0.5% to 26,402.42 and the Russell 2000 dropped 1.4% to 2,972.37. European markets finished higher, with the STOXX Europe 600 up 0.51% to 655.16, London’s FTSE 100 up 0.29% to 10,824.26, Germany’s DAX up 0.77% to 26,569.99, France’s CAC 40 up 0.98% to 8,401.18 and Italy’s FTSE MIB up 0.67% to 52,616.12. The latest positioning shifted sharply toward a more hawkish Fed path after Warsh’s speech and the Labor Department’s payroll benchmark revision. Warsh said the Fed’s job is to deliver stable prices and signaled that persistent inflation remains the dominant risk, while the preliminary benchmark revision showed March 2026 payrolls were overstated by 79,000 jobs, far smaller than the large downward adjustment some traders had feared. September hike odds jumped to 57.5% from 35.9%, the two-year Treasury yield rose 11.8 basis points to 4.348% and the dollar index gained 0.5% on the day. For gold, the signal was clean: the labor-data revision did not deliver the dovish shock bulls needed, and Warsh’s tone pushed the opportunity cost of holding non-yielding metals back to the center of the trade.",
+      "id": "stockanalysis:ec7549b96e7c3a2f",
+      "titleEn": "Mitsubishi Electric Develops Task-Aware Unified Source Separation Technology",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-28/gold-silver-sink-warsh-revives-september-fed-hike-trade-kitco-pm-report",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260830649967/en/Mitsubishi-Electric-Develops-Task-Aware-Unified-Source-Separation-Technology/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5161aa6c3d51d956",
+      "titleEn": "Mitsubishi Electric to Exhibit at CEATEC 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260830089808/en/Mitsubishi-Electric-to-Exhibit-at-CEATEC-2026/",
       "published": null
     },
     {
@@ -91,33 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260830525751/en/CLMT-Investors-Have-Opportunity-to-Join-Calumet-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c2504fae52c1565a",
-      "titleEn": "Arrowhead Pharmaceuticals Presents Phase 3 SHASTA-3 and SHASTA-4 Data Demonstrating Plozasiran Reduced Acute Pancreatitis Events in Patients with Severe Hypertriglyceridemia",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260830813912/en/Arrowhead-Pharmaceuticals-Presents-Phase-3-SHASTA-3-and-SHASTA-4-Data-Demonstrating-Plozasiran-Reduced-Acute-Pancreatitis-Events-in-Patients-with-Severe-Hypertriglyceridemia/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:09b67cd17c562685",
-      "titleEn": "L3Harris Celebrates Successful Launch of NASA's Nancy Grace Roman Space Telescope",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260828306016/en/L3Harris-Celebrates-Successful-Launch-of-NASA%E2%80%99s-Nancy-Grace-Roman-Space-Telescope/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5ad7950aa2d3247a",
-      "titleEn": "Alnylam Presents New Data at ESC Congress 2026 Reinforcing Strength in RNAi-Powered TTR Silencing Across ATTR-CM Patient Populations and Treatment Settings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260829551848/en/Alnylam-Presents-New-Data-at-ESC-Congress-2026-Reinforcing-Strength-in-RNAi-Powered-TTR-Silencing-Across-ATTR-CM-Patient-Populations-and-Treatment-Settings/",
       "published": null
     }
   ]
