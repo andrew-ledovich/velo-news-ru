@@ -1,8 +1,134 @@
 {
-  "generatedAt": "2026-09-01T12:14:37.605537Z",
+  "generatedAt": "2026-09-01T16:40:28.149534Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 23,
   "items": [
+    {
+      "id": "stockanalysis:fea05e6749dd8a4f",
+      "titleEn": "Why Oracle stock is down around 5% on Tuesday",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/01/why-oracle-stock-is-down-around-5-on-tuesday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4922ea0ae90e7016",
+      "titleEn": "Apple's new CEO, John Ternus, takes over from Tim Cook after 15 years",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Apple's new CEO John Ternus takes the helm of the iconic tech giant on Tuesday, ending Tim Cook's 15-year tenure during which the company's value skyrocket to $4.6 trillion thanks to the iPhone's enormous popularity. The transition to a new CEO comes at a pivotal time for Apple. Artificial intelligence has unleashed the greatest upheaval within the industry since Steve Jobs unveiled the first iPhone in 2007. Apple has gotten off to a rough start in AI after stumbling in its efforts to deliver new features built on the technology, as promised nearly two years ago.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-09-apple-ceo-john-ternus-tim.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c40e0b8f5aa6c486",
+      "titleEn": "Why are Intel and AMD stocks falling today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/01/why-are-intel-and-amd-stocks-falling-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b834585568cbabcc",
+      "titleEn": "CoreWeave stock flashes a warning sign despite strong revenue growth",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/01/coreweave-stock-flashes-a-warning-sign-despite-strong-revenue-growth/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9f4aa86d066d4a74",
+      "titleEn": "Gold price slides as hike odds near 70%, testing strategist's key level from a day earlier",
+      "summaryEn": "(Kitco News) - Blue Line Futures&#x27; Phil Streible told Kitco News on Monday that a close below 4,350 would change his mind on gold . It touched 4,325 on Tuesday morning Gold fell to $4,325.50 an ounce Tuesday morning, going straight through two key levels a veteran futures strategist had marked out on this site less than 24 hours earlier. .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-01/gold-price-slides-hike-odds-near-70-testing-strategists-key-level-day",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0b17790f3eaca747",
+      "titleEn": "Dell stock falls before earnings: strong AI demand will not alone sustain 250% rally",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/01/dell-stock-falls-before-earnings-strong-ai-demand-will-not-alone-sustain-250-rally/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7d50938dd168f1b7",
+      "titleEn": "Gold price at risk of pullback to $4,215/oz as short-term momentum fades – World Gold Council",
+      "summaryEn": "(Kitco News) – The Treasury Department and the Federal Reserve are sending mixed signals to the market, but recent events have been net negative for gold on balance, with prices retreating and bond yields on the rise across the globe, according to the World Gold Council (WGC). “The US Treasury ‘appears’ to want lower yields. The Fed wants lower inflation. Neither wants to break the economy, which may be the blunt way to achieve both,” WGC analysts wrote on Tuesday. “Of the two, the Fed has more firepower. So, when Fed chair Warsh struck a hawkish tone last Friday, markets lurched. A sharp jolt to the 2-year yield, reflecting expected tightening ahead, saw gold retreat below its 200dma.” The analysts noted that the release of still-hot U.S. inflation data and Warsh’s hawkish speech at the Jackson Hole Symposium boosted bets on near-term Fed hikes, increasing gold’s perceived opportunity cost and reducing its appeal. “Meanwhile, global gold ETF inflows continued, albeit at a slower pace; futures net longs rose, while options’ aggregated bullish positioning pulled back slightly.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-01/gold-price-risk-pullback-4215oz-short-term-momentum-fades-world-gold",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e9bc308f5496c1d9",
+      "titleEn": "SCHD nears title of biggest dividend ETF, but technical risks loom",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/09/01/schd-nears-title-of-biggest-dividend-etf-but-technical-risks-loom/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6a0cef9d4f59aee5",
+      "titleEn": "Spot gold price at $4,366/oz after ISM Manufacturing PMI falls to 54.6",
+      "summaryEn": "(Kitco News) - Gold is coming off session lows after the latest data showed the U.S. manufacturing sector performing below expectations last month, while prices held steady in August. The Institute for Supply Management (ISM) announced on Tuesday that its Manufacturing Purchasing Managers Index fell to 54.6 in August, after posting a reading of 55.6 in July. The headline number was lower than expected, as consensus forecasts looked for a reading of 55.3. “In August, U.S. manufacturing activity remained in expansion territory, though it has lost ground in a number of key measures — namely, the New Orders, Backlog and Imports indexes,” said Susan Spence, Chair of the ISM Manufacturing Business Survey Committee. “Of the five subindexes that make up the PMI, the only one that grew faster than last month was Supplier Deliveries (up 0.4 percentage point), indicating a continuing slowdown of the supply chain.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-01/spot-gold-price-4366oz-after-ism-manufacturing-pmi-falls-546",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:342ae85927b67f4a",
+      "titleEn": "Gold prices remain down as U.S. JOLTS highlight ongoing weakness in labor market",
+      "summaryEn": "(Kitco News) - The gold market remains under pressure, testing support around $4,350 an ounce even as the U.S. labor market continues to lose momentum, with the number of available jobs remaining uninspiring. July job openings—a measure of labor demand—increased to 7.27 million, compared to June’s downwardly revised 7.18 million, according to the Labor Department’s monthly Job Openings and Labor Turnover Survey (JOLTS). The figure also came in slightly weaker than expected, as economists had forecast job openings of around 7.33 million. The gold market has been unable to find any traction on Tuesday despite the disappointing labor market data. The precious metal has struggled as tensions in the Middle East have picked up, with the U.S. and Iran exchanging fire overnight for the first time in more than a month. The ongoing conflict continues to support higher oil prices, which, in turn, are driving inflation fears and forcing the Federal Reserve to maintain a tightening bias.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-01/gold-prices-remain-down-us-jolts-highlight-ongoing-weakness-labor-market",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7f946ad882083847",
+      "titleEn": "Amazon stock falls on FTC lawsuit but analysts bullish despite near-term pressure",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/09/01/amazon-stock-falls-on-ftc-lawsuit-but-analysts-bullish-despite-near-term-pressure/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2777b0d2951b18bc",
+      "titleEn": "Robinhood stock rises as Morgan Stanley upgrades HOOD to overweight",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/01/robinhood-stock-rises-as-morgan-stanley-upgrades-hood-to-overweight/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5daa0066498ec1d0",
+      "titleEn": "Gold price hits two-week low as Warsh repricing, oil shock lift yields - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply lower in early U.S. trading Tuesday, pressured by a global bond selloff, firmer U.S. dollar and rising oil prices as traders priced a higher probability of a September Fed rate hike. At the time of writing, spot gold was trading near $4,370.80 an ounce, down 1.72%, while spot silver was trading at $64.600, down 2.73% on the session. The latest positioning remains centered on the post-Jackson Hole repricing and this week’s labor-market calendar. Markets were pricing roughly a 66% to 67.5% probability of a September rate hike after Fed Chair Kevin Warsh left the door open to further tightening if inflation fails to return toward the Fed’s 2% target. The 10-year Treasury yield rose to about 4.79%, its highest level since January 2025, while the two-year yield moved near 4.35%. The next tests are today’s JOLTS job-openings and ISM manufacturing reports, Wednesday’s ADP employment report, Thursday’s jobless claims and ISM services data and Friday’s August nonfarm payrolls report. For gold, the risk is that firm labor data would validate the rate repricing and keep real-yield pressure on bullion, while a material labor-market downside surprise would be the clearest path to a relief bounce.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-01/gold-price-hits-two-week-low-warsh-repricing-oil-shock-lift-yields-kitco-am",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:27b081768ad0abec",
+      "titleEn": "Nvidia stock analysis: top reasons why the shares may go parabolic soon",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/01/nvidia-stock-analysis-top-reasons-why-the-shares-may-go-parabolic-soon/",
+      "published": null
+    },
     {
       "id": "stockanalysis:623d10d32c9e7c95",
       "titleEn": "Broadcom stock falls to a key support: is it about to surge after earnings?",
@@ -22,57 +148,66 @@
       "published": null
     },
     {
-      "id": "stockanalysis:e9f958c0f4a3c1ef",
-      "titleEn": "Micron, SanDisk stocks slip premarket as a new China risk emerges",
+      "id": "stockanalysis:e6395f4d6248a2bd",
+      "titleEn": "Northern Trust Asset Management Appoints Amy Johnston as Head of Global Institutional Client Group",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/01/micron-sandisk-stocks-slip-premarket-as-a-new-china-risk-emerges/",
+      "link": "https://www.businesswire.com/news/home/20260901352538/en/Northern-Trust-Asset-Management-Appoints-Amy-Johnston-as-Head-of-Global-Institutional-Client-Group/",
       "published": null
     },
     {
-      "id": "stockanalysis:777122b49a2f947d",
-      "titleEn": "US regulator, 22 states accuse Amazon of 'manipulating' ad auctions: Lawsuit",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: The U.S. Federal Trade Commission (FTC) and 22 states sued Amazon on Monday for allegedly \"manipulating\" online auctions for digital advertising, resulting in more than $20 billion in overcharges for 1.2 million customers. Amazon \"has secretly and systematically overcharged its approximately 1.2 million advertising customers by manipulating the 'auctions' that it uses to set the price of ads on its platform,\" says the complaint, filed in federal court in Washington state.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-09-states-accuse-amazon-ad-auctions.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0d5f7b9e7965f50a",
-      "titleEn": "Why the S&amp;P 500 could defy the 'September Effect' this year",
+      "id": "stockanalysis:3c40b4ec493e511a",
+      "titleEn": "Interactive Brokers Group Reports Brokerage Metrics and Other Financial Information for August 2026, Includes Reg.-NMS Execution Statistics",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/01/why-the-sp-500-could-defy-the-september-effect-this-year/",
+      "link": "https://www.businesswire.com/news/home/20260901136483/en/Interactive-Brokers-Group-Reports-Brokerage-Metrics-and-Other-Financial-Information-for-August-2026-Includes-Reg.-NMS-Execution-Statistics/",
       "published": null
     },
     {
-      "id": "stockanalysis:da6dd453eceaee5a",
-      "titleEn": "Tesla stock jumps 5.5% ahead of Cybercab launch: can its $1.45T valuation hold?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/09/01/tesla-stock-jumps-5-5-ahead-of-cybercab-launch-can-its-1-45t-valuation-hold/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:14248c39f12ce2af",
-      "titleEn": "KOSPI rebounds as chip stocks recover while Nikkei 225 slides on bond shock",
+      "id": "stockanalysis:4aabec46b63930ec",
+      "titleEn": "Sweetgreen to Plant Roots in Salt Lake City with First Utah Location Opening September 8",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/01/kospi-rebounds-as-chip-stocks-recover-while-nikkei-225-slides-on-bond-shock/",
+      "link": "https://www.businesswire.com/news/home/20260901393318/en/Sweetgreen-to-Plant-Roots-in-Salt-Lake-City-with-First-Utah-Location-Opening-September-8/",
       "published": null
     },
     {
-      "id": "stockanalysis:2f4d6c7dc33e14bd",
-      "titleEn": "SK Hynix stock rebounds, but a new HBM4 risk is getting harder to ignore",
+      "id": "stockanalysis:cb50f410784ddc98",
+      "titleEn": "DigitalOcean to Participate in Goldman Sachs Communacopia + Technology Conference 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/01/sk-hynix-stock-rebounds-but-a-new-hbm4-risk-is-getting-harder-to-ignore/",
+      "link": "https://www.businesswire.com/news/home/20260901386689/en/DigitalOcean-to-Participate-in-Goldman-Sachs-Communacopia-Technology-Conference-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:63d7eec8e4ebef0a",
+      "titleEn": "Medincell Appoints Edna Venneker, MD, as Chief Medical Officer",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260901178231/en/Medincell-Appoints-Edna-Venneker-MD-as-Chief-Medical-Officer/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1cbd3624c60042fe",
+      "titleEn": "Knightscope Leaders to Take the Stage at GSX 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260901393998/en/Knightscope-Leaders-to-Take-the-Stage-at-GSX-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7e29d2338aec44f2",
+      "titleEn": "MapQuest Tops the Charts at No. 1 Overall Free App in the U.S. and Canada Apple App Stores",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260901921964/en/MapQuest-Tops-the-Charts-at-No.-1-Overall-Free-App-in-the-U.S.-and-Canada-Apple-App-Stores/",
       "published": null
     }
   ]
