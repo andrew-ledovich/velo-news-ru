@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-09-01T01:54:00.875651Z",
+  "generatedAt": "2026-09-01T06:55:58.564211Z",
   "sourceCount": 1,
-  "count": 7,
+  "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:14248c39f12ce2af",
+      "titleEn": "KOSPI rebounds as chip stocks recover while Nikkei 225 slides on bond shock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/01/kospi-rebounds-as-chip-stocks-recover-while-nikkei-225-slides-on-bond-shock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2f4d6c7dc33e14bd",
+      "titleEn": "SK Hynix stock rebounds, but a new HBM4 risk is getting harder to ignore",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/01/sk-hynix-stock-rebounds-but-a-new-hbm4-risk-is-getting-harder-to-ignore/",
+      "published": null
+    },
     {
       "id": "stockanalysis:9c65f12c5852cfbf",
       "titleEn": "Gold price slips as oil spike, Fed-hike odds hit risk appetite - Kitco PM Report",
@@ -49,21 +67,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:4179d0d0f1dd2141",
-      "titleEn": "Why is Micron stock gaining today",
+      "id": "stockanalysis:31c45a76c541c796",
+      "titleEn": "Payward and London Stock Exchange to Partner to Accelerate UK Equity Markets Through Tokenization",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/08/31/why-is-micron-stock-gaining-today/",
+      "link": "https://www.businesswire.com/news/home/20260831722008/en/Payward-and-London-Stock-Exchange-to-Partner-to-Accelerate-UK-Equity-Markets-Through-Tokenization/",
       "published": null
     },
     {
-      "id": "stockanalysis:94edb0bf738469fa",
-      "titleEn": "Coincheck Group and DFNS Announce Strategic Partnership to Bring Institutional-Grade Digital Asset Custody to Japan",
+      "id": "stockanalysis:39700c06abad689a",
+      "titleEn": "Fujifilm Announces Availability of FUJINON UA94x8.7BESM 4K Broadcast Zoom Lens",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260831667179/en/Coincheck-Group-and-DFNS-Announce-Strategic-Partnership-to-Bring-Institutional-Grade-Digital-Asset-Custody-to-Japan/",
+      "link": "https://www.businesswire.com/news/home/20260831241454/en/Fujifilm-Announces-Availability-of-FUJINON-UA94x8.7BESM-4K-Broadcast-Zoom-Lens/",
       "published": null
     }
   ]
