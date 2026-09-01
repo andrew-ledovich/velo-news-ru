@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-31T23:22:12.356773Z",
+  "generatedAt": "2026-09-01T01:54:00.875651Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 7,
   "items": [
     {
       "id": "stockanalysis:9c65f12c5852cfbf",
@@ -58,93 +58,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:8f979dffdad929fd",
-      "titleEn": "TD Touts Successful Tokenized Payments With Project Agorá",
-      "summaryEn": "TD says it has successfully completed a tokenized payments test on the Project Agorá platform. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The test case involved carrying out a tokenized payment between TD New York Branch (TD Securities LLC) and TD Bank, N.A., in partnership with Bank of New York (BNY), the bank announced Monday (Aug. 31).",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/payments-innovation/2026/td-touts-successful-tokenized-payments-with-project-agora/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:594c3ac6b0c42ba5",
-      "titleEn": "ChatGPT becomes first AI chatbot to face tougher EU rules",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: ChatGPT will have to comply with tougher safety rules after the EU added it Monday to a list of digital services subject to greater legal scrutiny in Europe, a first for an AI chatbot. Brussels also designated the Reddit forum and the popular gaming network Roblox as \"very large\" online platforms, a label that comes with additional obligations and oversight.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-08-chatgpt-ai-chatbot-tougher-eu.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c28b212902da921c",
-      "titleEn": "Gold price is going to $20,000 as the Fed is ‘powerless' to fight inflation, miners offer greatest upside - Crescat's Kevin Smith",
-      "summaryEn": "(Kitco News) - Despite all the volatility so far this year as gold suffered a significant correction from its record highs, one fund manager says the precious metal’s secular bull market remains firmly intact, with expanding global money supply and unsustainable government debt ultimately driving prices toward $20,000 an ounce. In an interview with Kitco News, Kevin Smith, founder and CEO of Crescat Capital, said that gold was looking overbought at the start of the year as prices rallied to an all-time high of $5,600; however, despite the months-long correction, he believes the fundamental monetary forces supporting the precious metal have only strengthened. “I think the gold market got a little bit ahead of itself earlier this year, January and February,” Smith said, adding that a pullback was natural after the strong rally.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-31/gold-price-going-20000-fed-powerless-fight-inflation-miners-offer-greatest",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:90141f4a7c18585c",
-      "titleEn": "Apple stock falls as Tim Cook signs off, Ternus faces AI and post-iPhone tests",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/08/31/apple-stock-falls-as-tim-cook-signs-off-ternus-faces-ai-and-post-iphone-tests/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1e5125b090b30f19",
-      "titleEn": "OpenAI Says Ad Business Reaches $1 Billion Run Rate",
-      "summaryEn": "OpenAI says its ChatGPT Ads business has reached $1 billion in annualized revenue run rate. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “The platform is now used by tens of thousands of advertisers and continues to expand globally,” the artificial intelligence (AI) startup announced Monday (Aug. 31). “Starting later today, advertisers can purchase ChatGPT ads directly via Ads Manager across India, Europe, the Middle East, and North Africa.”",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-says-ad-business-reaches-1-billion-run-rate/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8e165c05b810a7e0",
-      "titleEn": "Dabble Bets On Grafana Cloud and Grafana Assistant to Cut Incident Response Times",
+      "id": "stockanalysis:94edb0bf738469fa",
+      "titleEn": "Coincheck Group and DFNS Announce Strategic Partnership to Bring Institutional-Grade Digital Asset Custody to Japan",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260831220537/en/Dabble-Bets-On-Grafana-Cloud-and-Grafana-Assistant-to-Cut-Incident-Response-Times/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:71c8216e712fc863",
-      "titleEn": "Delek Welcomes Trump Administration Decisions on 2025 Small Refinery Exemptions",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260831538107/en/Delek-Welcomes-Trump-Administration-Decisions-on-2025-Small-Refinery-Exemptions/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ba5b0dace1a45f10",
-      "titleEn": "SABA Announces Notification of Sources of Distributions",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260831510802/en/SABA-Announces-Notification-of-Sources-of-Distributions/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b2ac1a0b204e193c",
-      "titleEn": "BRW Announces Notification of Sources of Distributions",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260831329314/en/BRW-Announces-Notification-of-Sources-of-Distributions/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e87117e356792618",
-      "titleEn": "Karman Space &amp; Defense to Participate in Upcoming Investor Conferences",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260831385979/en/Karman-Space-Defense-to-Participate-in-Upcoming-Investor-Conferences/",
+      "link": "https://www.businesswire.com/news/home/20260831667179/en/Coincheck-Group-and-DFNS-Announce-Strategic-Partnership-to-Bring-Institutional-Grade-Digital-Asset-Custody-to-Japan/",
       "published": null
     }
   ]
