@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-09-01T06:55:58.564211Z",
+  "generatedAt": "2026-09-01T12:14:37.605537Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 8,
   "items": [
+    {
+      "id": "stockanalysis:623d10d32c9e7c95",
+      "titleEn": "Broadcom stock falls to a key support: is it about to surge after earnings?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/01/broadcom-stock-falls-to-a-key-support-is-it-about-to-surge-after-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d5f32a3f2f0ae0ef",
+      "titleEn": "Meta stock looks undervalued: settlement and AI could unlock up to 40% upside",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/01/meta-stock-looks-undervalued-settlement-and-ai-could-unlock-up-to-40-upside/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e9f958c0f4a3c1ef",
+      "titleEn": "Micron, SanDisk stocks slip premarket as a new China risk emerges",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/01/micron-sandisk-stocks-slip-premarket-as-a-new-china-risk-emerges/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:777122b49a2f947d",
+      "titleEn": "US regulator, 22 states accuse Amazon of 'manipulating' ad auctions: Lawsuit",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: The U.S. Federal Trade Commission (FTC) and 22 states sued Amazon on Monday for allegedly \"manipulating\" online auctions for digital advertising, resulting in more than $20 billion in overcharges for 1.2 million customers. Amazon \"has secretly and systematically overcharged its approximately 1.2 million advertising customers by manipulating the 'auctions' that it uses to set the price of ads on its platform,\" says the complaint, filed in federal court in Washington state.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-09-states-accuse-amazon-ad-auctions.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0d5f7b9e7965f50a",
+      "titleEn": "Why the S&amp;P 500 could defy the 'September Effect' this year",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/01/why-the-sp-500-could-defy-the-september-effect-this-year/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:da6dd453eceaee5a",
+      "titleEn": "Tesla stock jumps 5.5% ahead of Cybercab launch: can its $1.45T valuation hold?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/09/01/tesla-stock-jumps-5-5-ahead-of-cybercab-launch-can-its-1-45t-valuation-hold/",
+      "published": null
+    },
     {
       "id": "stockanalysis:14248c39f12ce2af",
       "titleEn": "KOSPI rebounds as chip stocks recover while Nikkei 225 slides on bond shock",
@@ -19,69 +73,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/09/01/sk-hynix-stock-rebounds-but-a-new-hbm4-risk-is-getting-harder-to-ignore/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9c65f12c5852cfbf",
-      "titleEn": "Gold price slips as oil spike, Fed-hike odds hit risk appetite - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices are slightly lower and spot silver prices are modestly higher in late-afternoon U.S. trading Monday, as renewed U.S.-Iran military escalation lifted oil prices, pushed long-end Treasury yields higher and kept pressure on non-yielding metals after Friday’s hawkish Fed shock. At the time of writing, spot gold was trading near $4,446.50 an ounce, down 0.18%, while spot silver was trading at $66.360, up 0.16% on the session. North American equity markets closed lower as oil and yields rose. The S&P 500 fell 25.62 points, or 0.3%, to 7,686.14, the Dow Jones Industrial Average dropped 374.09 points, or 0.7%, to 53,185.90, the Nasdaq Composite slipped 31.53 points, or 0.1%, to 26,370.89 and the Russell 2000 fell 15.92 points, or 0.5%, to 2,956.45. European markets also finished lower, with the STOXX Europe 600 down 0.62% to 651.10. Germany’s DAX fell 1.17% to 26,258.11, France’s CAC 40 lost 0.79% to 8,334.50 and Italy’s FTSE MIB slipped 0.01% to 52,612.69. London was closed for a bank holiday. The latest positioning remains driven by the post-Jackson Hole rate repricing and the week’s labor-market calendar. Fed-funds futures priced a 66.1% probability of a September rate hike, up from 57% Friday, as traders treated Chair Kevin Warsh’s hawkish speech and Monday’s oil shock as reinforcing the Fed’s inflation problem. The two-year Treasury yield held near 4.34%, while the 10-year yield rose to 4.75% and the 30-year yield remained near the 5.25% area. The next catalysts are Tuesday’s JOLTS job openings and ISM manufacturing data, Wednesday’s ADP employment report and Beige Book, Thursday’s jobless claims and ISM services data, and Friday’s August nonfarm payrolls report. For gold, the setup remains defensive: a stronger rate-hike impulse and elevated yields cap rallies, but geopolitical stress and fiscal-risk demand have so far limited downside follow-through below Friday’s low.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-31/gold-price-slips-oil-spike-fed-hike-odds-hit-risk-appetite-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9f48076de89a6ea7",
-      "titleEn": "Treasury's ramped-up bond buybacks soften the U.S. dollar and boost the gold price – Julius Baer",
-      "summaryEn": "(Kitco News) – The Treasury Department’s doubling of planned U.S. debt buybacks has intensified debate about bond market intervention and has revived the USD debasement trade, with gold and silver benefiting from a renewed focus on the fiscal position of the United States, according to analysts at Julius Baer. The Swiss private bank said the recent U.S. Treasury announcement that it will at least double the amount of long-dated Treasuries it buys back as of September came as a surprise. “The idea is that if the government buys more bonds, bond prices should rise and their yields should fall,” the analysts said. “Lower yields would reduce borrowing costs across the economy.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-08-31/treasurys-ramped-bond-buybacks-soften-us-dollar-and-boost-gold-price-julius",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d4e278732fa16ee9",
-      "titleEn": "Gold, silver price corrections may create buying opportunities despite hawkish Fed, says analyst",
-      "summaryEn": "(Kitco News) - Federal Reserve Chair Kevin Warsh’s renewed focus on inflation has injected fresh volatility into precious metals, with gold prices dropping below $4,500 and silver testing support near $66 an ounce, but one market analyst says the hawkish shift in monetary policy expectations does not necessarily spell the end of the broader bull market in gold and silver. In comments to Kitco News, Simon-Peter Massabni, Head of Business Development at XS.com, said gold and silver are entering a potentially important corrective phase as investors reassess the outlook for U.S. interest rates following Warsh’s speech at the Federal Reserve’s annual central bank symposium in Jackson Hole, Wyoming. During Friday’s speech, Warsh reiterated his commitment to price stability. His comments pushed markets away from expectations for easier monetary policy and revived the possibility that the Federal Reserve could raise interest rates again if inflation remains stubbornly above its 2% target.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-08-31/gold-silver-price-corrections-may-create-buying-opportunities-despite",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f7e112d1e6ac3d25",
-      "titleEn": "Burlington Shrinks Clothing Prices Following $55 Million Tariff Refund",
-      "summaryEn": "Off-price clothing retailer Burlington is the latest company using tariff refunds to reduce prices. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “It feels like the right thing to do for our customers,” CEO Michael O’Sullivan said on the company’s earnings call last week.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/retail/2026/burlington-shrinks-clothing-prices-following-55-million-tariff-refund/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:79d33d9d76cc5f7c",
-      "titleEn": "Apple CEO Tim Cook gives nod to founder Steve Jobs in final memo",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Apple's chief executive Tim Cook bid farewell to the tech giant on Monday, paying tribute to founder Steve Jobs and praising staff as \"extraordinary\" as he passed the baton to incoming CEO John Ternus. Cook spent nearly three decades at Apple, which he has led as CEO since 2011. He took over just weeks before Jobs died from pancreatic cancer.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-08-apple-ceo-tim-cook-founder.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:31c45a76c541c796",
-      "titleEn": "Payward and London Stock Exchange to Partner to Accelerate UK Equity Markets Through Tokenization",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260831722008/en/Payward-and-London-Stock-Exchange-to-Partner-to-Accelerate-UK-Equity-Markets-Through-Tokenization/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:39700c06abad689a",
-      "titleEn": "Fujifilm Announces Availability of FUJINON UA94x8.7BESM 4K Broadcast Zoom Lens",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260831241454/en/Fujifilm-Announces-Availability-of-FUJINON-UA94x8.7BESM-4K-Broadcast-Zoom-Lens/",
       "published": null
     }
   ]
