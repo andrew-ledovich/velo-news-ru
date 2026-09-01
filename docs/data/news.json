@@ -1,8 +1,89 @@
 {
-  "generatedAt": "2026-09-01T16:40:28.149534Z",
+  "generatedAt": "2026-09-01T19:34:40.242165Z",
   "sourceCount": 1,
-  "count": 23,
+  "count": 21,
   "items": [
+    {
+      "id": "stockanalysis:ba368e06a303a88f",
+      "titleEn": "Stripe Adds Online Legal Services Firm Clerky to Its Fold",
+      "summaryEn": "Online legal services company Clerky says it is now part of payments giant Stripe . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The company announced the deal last week, though terms have not been disclosed. Launched more than a decade ago, Clerky provides startups and their lawyers with tools to automate legal paperwork for things like hiring, fundraising or incorporation.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/acquiring/2026/stripe-adds-online-legal-services-firm-clerky-to-its-fold/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dfa74fb7c7908ed5",
+      "titleEn": "Long-term gold price remains supported by commodity-led inflation - Saxo Bank's Hansen",
+      "summaryEn": "(Kitco News) - After seeing its biggest monthly gain since the start of the year, the gold market is starting September on the back foot as prices test support near $4,350 an ounce. Ole Hansen, Head of Commodity Strategy at Saxo Bank, said that gold is struggling as investors continue to focus on short-term inflation fears, which are being driven in part by rising commodity prices. Spot gold last traded at $4,356.60 an ounce, down more than 2% on the day. Overnight, West Texas Intermediate (WTI) crude oil prices pushed back to $90 a barrel as hostilities between the U.S. and Iran ratcheted up. At the same time, Hansen added that the ongoing war in Ukraine and poor weather conditions around the world are driving grain and soft commodity prices higher, led by sugar, wheat and corn.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-01/long-term-gold-price-remains-supported-commodity-led-inflation-saxo-banks",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7dae8955a92d21c0",
+      "titleEn": "Micron stock falls 3% as Taiwan unions threaten strike over bonuses",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/01/micron-stock-falls-3-as-taiwan-unions-threaten-strike-over-bonuses/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a9be250f77831769",
+      "titleEn": "Duolingo stock jumps as charts flash warning amid transition from growth to value",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/01/duolingo-stock-jumps-as-charts-flash-warning-amid-transition-from-growth-to-value/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e977d29e73fa8ca2",
+      "titleEn": "Tesla stock falls 3%: here's what's dragging the stock down today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/09/01/tesla-stock-falls-3-heres-whats-dragging-the-stock-down-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f23275bee8631da5",
+      "titleEn": "OpenAI Blames Apple for iPhone Maker's Trade Secret Lawsuit",
+      "summaryEn": "In July, Apple sued OpenAI , accusing its one-time partner of stealing trade secrets . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The legal battle continued this week, with Apple now alleging that an OpenAI employee has destroyed evidence in the case, and OpenAI saying Apple has no one to blame for the suit but itself.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-blames-apple-for-iphone-maker-trade-secret-lawsuit/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:811e6aefa8a348ab",
+      "titleEn": "Duolingo stock surges 5% as this analyst sees 42% upside",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/01/duolingo-stock-surges-5-as-this-analyst-sees-42-upside/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:66bc4b38b6eba081",
+      "titleEn": "Apple stock outlook under Ternus: AI is key, foldable iPhone a potential catalyst",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/01/apple-stock-outlook-under-ternus-ai-is-key-foldable-iphone-a-potential-catalyst/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c6cac1425658df35",
+      "titleEn": "Musk defends AI data centers, slams EU rules at G20",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Elon Musk on Tuesday urged the G20 to tread softly on regulating tech and AI, saying European-style rules inhibit innovation. Musk also defended building data centers to meet the needs of the AI revolution, amid a growing backlash against their construction in the United States ahead of midterm elections later this year.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-09-musk-defends-ai-centers-slams.html",
+      "published": null
+    },
     {
       "id": "stockanalysis:fea05e6749dd8a4f",
       "titleEn": "Why Oracle stock is down around 5% on Tuesday",
@@ -94,120 +175,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:7f946ad882083847",
-      "titleEn": "Amazon stock falls on FTC lawsuit but analysts bullish despite near-term pressure",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/01/amazon-stock-falls-on-ftc-lawsuit-but-analysts-bullish-despite-near-term-pressure/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2777b0d2951b18bc",
-      "titleEn": "Robinhood stock rises as Morgan Stanley upgrades HOOD to overweight",
+      "id": "stockanalysis:5dda59ec0cccc369",
+      "titleEn": "USHV Expands to Tennessee Through Partnership with Apex Vascular",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/01/robinhood-stock-rises-as-morgan-stanley-upgrades-hood-to-overweight/",
+      "link": "https://www.businesswire.com/news/home/20260901935184/en/USHV-Expands-to-Tennessee-Through-Partnership-with-Apex-Vascular/",
       "published": null
     },
     {
-      "id": "stockanalysis:5daa0066498ec1d0",
-      "titleEn": "Gold price hits two-week low as Warsh repricing, oil shock lift yields - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply lower in early U.S. trading Tuesday, pressured by a global bond selloff, firmer U.S. dollar and rising oil prices as traders priced a higher probability of a September Fed rate hike. At the time of writing, spot gold was trading near $4,370.80 an ounce, down 1.72%, while spot silver was trading at $64.600, down 2.73% on the session. The latest positioning remains centered on the post-Jackson Hole repricing and this week’s labor-market calendar. Markets were pricing roughly a 66% to 67.5% probability of a September rate hike after Fed Chair Kevin Warsh left the door open to further tightening if inflation fails to return toward the Fed’s 2% target. The 10-year Treasury yield rose to about 4.79%, its highest level since January 2025, while the two-year yield moved near 4.35%. The next tests are today’s JOLTS job-openings and ISM manufacturing reports, Wednesday’s ADP employment report, Thursday’s jobless claims and ISM services data and Friday’s August nonfarm payrolls report. For gold, the risk is that firm labor data would validate the rate repricing and keep real-yield pressure on bullion, while a material labor-market downside surprise would be the clearest path to a relief bounce.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-01/gold-price-hits-two-week-low-warsh-repricing-oil-shock-lift-yields-kitco-am",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:27b081768ad0abec",
-      "titleEn": "Nvidia stock analysis: top reasons why the shares may go parabolic soon",
+      "id": "stockanalysis:f221a16a33caf804",
+      "titleEn": "LP to Curtail OSB Production at Jasper, Texas Facility",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/01/nvidia-stock-analysis-top-reasons-why-the-shares-may-go-parabolic-soon/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:623d10d32c9e7c95",
-      "titleEn": "Broadcom stock falls to a key support: is it about to surge after earnings?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/01/broadcom-stock-falls-to-a-key-support-is-it-about-to-surge-after-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d5f32a3f2f0ae0ef",
-      "titleEn": "Meta stock looks undervalued: settlement and AI could unlock up to 40% upside",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/01/meta-stock-looks-undervalued-settlement-and-ai-could-unlock-up-to-40-upside/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e6395f4d6248a2bd",
-      "titleEn": "Northern Trust Asset Management Appoints Amy Johnston as Head of Global Institutional Client Group",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901352538/en/Northern-Trust-Asset-Management-Appoints-Amy-Johnston-as-Head-of-Global-Institutional-Client-Group/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3c40b4ec493e511a",
-      "titleEn": "Interactive Brokers Group Reports Brokerage Metrics and Other Financial Information for August 2026, Includes Reg.-NMS Execution Statistics",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901136483/en/Interactive-Brokers-Group-Reports-Brokerage-Metrics-and-Other-Financial-Information-for-August-2026-Includes-Reg.-NMS-Execution-Statistics/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4aabec46b63930ec",
-      "titleEn": "Sweetgreen to Plant Roots in Salt Lake City with First Utah Location Opening September 8",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901393318/en/Sweetgreen-to-Plant-Roots-in-Salt-Lake-City-with-First-Utah-Location-Opening-September-8/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cb50f410784ddc98",
-      "titleEn": "DigitalOcean to Participate in Goldman Sachs Communacopia + Technology Conference 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901386689/en/DigitalOcean-to-Participate-in-Goldman-Sachs-Communacopia-Technology-Conference-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:63d7eec8e4ebef0a",
-      "titleEn": "Medincell Appoints Edna Venneker, MD, as Chief Medical Officer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901178231/en/Medincell-Appoints-Edna-Venneker-MD-as-Chief-Medical-Officer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1cbd3624c60042fe",
-      "titleEn": "Knightscope Leaders to Take the Stage at GSX 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901393998/en/Knightscope-Leaders-to-Take-the-Stage-at-GSX-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7e29d2338aec44f2",
-      "titleEn": "MapQuest Tops the Charts at No. 1 Overall Free App in the U.S. and Canada Apple App Stores",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901921964/en/MapQuest-Tops-the-Charts-at-No.-1-Overall-Free-App-in-the-U.S.-and-Canada-Apple-App-Stores/",
+      "link": "https://www.businesswire.com/news/home/20260901597996/en/LP-to-Curtail-OSB-Production-at-Jasper-Texas-Facility/",
       "published": null
     }
   ]
