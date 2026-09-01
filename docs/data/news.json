@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-09-01T19:34:40.242165Z",
+  "generatedAt": "2026-09-01T22:00:09.149965Z",
   "sourceCount": 1,
-  "count": 21,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:c21e03ea0d86bf51",
+      "titleEn": "Gold tests $4,311 support as Fed-hike odds hold near 66% - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply lower in late-afternoon U.S. trading Tuesday, as a surge in crude oil prices and a global bond selloff pushed Treasury yields higher and reinforced expectations that the Fed may still raise rates this month. At the time of writing, spot gold was trading near $4,327.70 an ounce, down 2.68%, while spot silver was trading at $63.950, down 3.71% on the session. North American equity markets closed lower as higher oil prices and rising bond yields hit risk appetite. The S&P 500 fell 54.67 points, or 0.7%, to 7,631.47, the Dow Jones Industrial Average lost 419.02 points, or 0.8%, to 52,766.88, the Nasdaq Composite dropped 271.11 points, or 1.0%, to 26,099.77 and the Russell 2000 fell 36.32 points, or 1.2%, to 2,920.13. European markets also finished lower, with the STOXX Europe 600 down 0.56% to 647.46. London’s FTSE 100 fell 0.32% to 10,789.28, Germany’s DAX dropped 1.10% to 25,970.11, France’s CAC 40 lost 0.39% to 8,301.85 and Italy’s FTSE MIB declined 1.33% to 51,915.18. The latest positioning remains anchored in the post-Jackson Hole rate repricing and the week’s labor-market calendar. July job openings rose slightly to 7.3 million , while the August ISM manufacturing index slipped to 54.6 from 55.6 , a softer but still expansionary reading. The data were not weak enough to unwind the hawkish Fed trade. Markets continued to price roughly a 66% probability of a September rate hike, the two-year Treasury yield rose to 4.39% and the 10-year yield climbed to 4.79%. The next catalysts are Wednesday’s ADP employment report, Thursday’s jobless claims and ISM services data and Friday’s August nonfarm payrolls report. For gold, the setup is still rate-negative: a firm labor-market sequence would validate higher yields, while only a clear employment downside surprise would give bullion a cleaner relief path.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-01/gold-tests-4311-support-fed-hike-odds-hold-near-66-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a941423c65522273",
+      "titleEn": "ChatGPT Ads Hit $1 Billion Faster Than Google Ever Did",
+      "summaryEn": "ChatGPT Ads hit a $1 billion annualized pace in under 200 days, a climb that took Google’s ad business took roughly four years to make. The ads work differently than anything on Google or Facebook. Instead of guessing from a keyword or scroll history, they draw on an actual conversation where someone already explained what they want and what they can spend. ChatGPT’s share of consumer product research climbed from 2% to 30% over two years, according to PYMNTS Intelligence.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/chatgpt-ads-hit-1-billion-faster-than-google-ever-did/",
+      "published": null
+    },
     {
       "id": "stockanalysis:ba368e06a303a88f",
       "titleEn": "Stripe Adds Online Legal Services Firm Clerky to Its Fold",
@@ -76,120 +94,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c6cac1425658df35",
-      "titleEn": "Musk defends AI data centers, slams EU rules at G20",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Elon Musk on Tuesday urged the G20 to tread softly on regulating tech and AI, saying European-style rules inhibit innovation. Musk also defended building data centers to meet the needs of the AI revolution, amid a growing backlash against their construction in the United States ahead of midterm elections later this year.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-09-musk-defends-ai-centers-slams.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fea05e6749dd8a4f",
-      "titleEn": "Why Oracle stock is down around 5% on Tuesday",
+      "id": "stockanalysis:f08debf9139b02d1",
+      "titleEn": "Integer Holdings Corporation Investigated for Breaches of Fiduciary Duty - Contact the DJS Law Group to Discuss Your Rights – ITGR",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/01/why-oracle-stock-is-down-around-5-on-tuesday/",
+      "link": "https://www.businesswire.com/news/home/20260901555921/en/Integer-Holdings-Corporation-Investigated-for-Breaches-of-Fiduciary-Duty---Contact-the-DJS-Law-Group-to-Discuss-Your-Rights-%E2%80%93-ITGR/",
       "published": null
     },
     {
-      "id": "stockanalysis:4922ea0ae90e7016",
-      "titleEn": "Apple's new CEO, John Ternus, takes over from Tim Cook after 15 years",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Apple's new CEO John Ternus takes the helm of the iconic tech giant on Tuesday, ending Tim Cook's 15-year tenure during which the company's value skyrocket to $4.6 trillion thanks to the iPhone's enormous popularity. The transition to a new CEO comes at a pivotal time for Apple. Artificial intelligence has unleashed the greatest upheaval within the industry since Steve Jobs unveiled the first iPhone in 2007. Apple has gotten off to a rough start in AI after stumbling in its efforts to deliver new features built on the technology, as promised nearly two years ago.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-09-apple-ceo-john-ternus-tim.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c40e0b8f5aa6c486",
-      "titleEn": "Why are Intel and AMD stocks falling today",
+      "id": "stockanalysis:06e8ae6f62eef54b",
+      "titleEn": "Palantir to Deliver Eight TITAN Systems to the U.S. Army",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/01/why-are-intel-and-amd-stocks-falling-today/",
+      "link": "https://www.businesswire.com/news/home/20260901157594/en/Palantir-to-Deliver-Eight-TITAN-Systems-to-the-U.S.-Army/",
       "published": null
     },
     {
-      "id": "stockanalysis:b834585568cbabcc",
-      "titleEn": "CoreWeave stock flashes a warning sign despite strong revenue growth",
+      "id": "stockanalysis:87e1917dfcaf3829",
+      "titleEn": "NeuroPace to Participate in 2026 Cantor Global Healthcare Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/01/coreweave-stock-flashes-a-warning-sign-despite-strong-revenue-growth/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9f4aa86d066d4a74",
-      "titleEn": "Gold price slides as hike odds near 70%, testing strategist's key level from a day earlier",
-      "summaryEn": "(Kitco News) - Blue Line Futures&#x27; Phil Streible told Kitco News on Monday that a close below 4,350 would change his mind on gold . It touched 4,325 on Tuesday morning Gold fell to $4,325.50 an ounce Tuesday morning, going straight through two key levels a veteran futures strategist had marked out on this site less than 24 hours earlier. .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-01/gold-price-slides-hike-odds-near-70-testing-strategists-key-level-day",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0b17790f3eaca747",
-      "titleEn": "Dell stock falls before earnings: strong AI demand will not alone sustain 250% rally",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/01/dell-stock-falls-before-earnings-strong-ai-demand-will-not-alone-sustain-250-rally/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7d50938dd168f1b7",
-      "titleEn": "Gold price at risk of pullback to $4,215/oz as short-term momentum fades – World Gold Council",
-      "summaryEn": "(Kitco News) – The Treasury Department and the Federal Reserve are sending mixed signals to the market, but recent events have been net negative for gold on balance, with prices retreating and bond yields on the rise across the globe, according to the World Gold Council (WGC). “The US Treasury ‘appears’ to want lower yields. The Fed wants lower inflation. Neither wants to break the economy, which may be the blunt way to achieve both,” WGC analysts wrote on Tuesday. “Of the two, the Fed has more firepower. So, when Fed chair Warsh struck a hawkish tone last Friday, markets lurched. A sharp jolt to the 2-year yield, reflecting expected tightening ahead, saw gold retreat below its 200dma.” The analysts noted that the release of still-hot U.S. inflation data and Warsh’s hawkish speech at the Jackson Hole Symposium boosted bets on near-term Fed hikes, increasing gold’s perceived opportunity cost and reducing its appeal. “Meanwhile, global gold ETF inflows continued, albeit at a slower pace; futures net longs rose, while options’ aggregated bullish positioning pulled back slightly.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-01/gold-price-risk-pullback-4215oz-short-term-momentum-fades-world-gold",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e9bc308f5496c1d9",
-      "titleEn": "SCHD nears title of biggest dividend ETF, but technical risks loom",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/01/schd-nears-title-of-biggest-dividend-etf-but-technical-risks-loom/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6a0cef9d4f59aee5",
-      "titleEn": "Spot gold price at $4,366/oz after ISM Manufacturing PMI falls to 54.6",
-      "summaryEn": "(Kitco News) - Gold is coming off session lows after the latest data showed the U.S. manufacturing sector performing below expectations last month, while prices held steady in August. The Institute for Supply Management (ISM) announced on Tuesday that its Manufacturing Purchasing Managers Index fell to 54.6 in August, after posting a reading of 55.6 in July. The headline number was lower than expected, as consensus forecasts looked for a reading of 55.3. “In August, U.S. manufacturing activity remained in expansion territory, though it has lost ground in a number of key measures — namely, the New Orders, Backlog and Imports indexes,” said Susan Spence, Chair of the ISM Manufacturing Business Survey Committee. “Of the five subindexes that make up the PMI, the only one that grew faster than last month was Supplier Deliveries (up 0.4 percentage point), indicating a continuing slowdown of the supply chain.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-01/spot-gold-price-4366oz-after-ism-manufacturing-pmi-falls-546",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:342ae85927b67f4a",
-      "titleEn": "Gold prices remain down as U.S. JOLTS highlight ongoing weakness in labor market",
-      "summaryEn": "(Kitco News) - The gold market remains under pressure, testing support around $4,350 an ounce even as the U.S. labor market continues to lose momentum, with the number of available jobs remaining uninspiring. July job openings—a measure of labor demand—increased to 7.27 million, compared to June’s downwardly revised 7.18 million, according to the Labor Department’s monthly Job Openings and Labor Turnover Survey (JOLTS). The figure also came in slightly weaker than expected, as economists had forecast job openings of around 7.33 million. The gold market has been unable to find any traction on Tuesday despite the disappointing labor market data. The precious metal has struggled as tensions in the Middle East have picked up, with the U.S. and Iran exchanging fire overnight for the first time in more than a month. The ongoing conflict continues to support higher oil prices, which, in turn, are driving inflation fears and forcing the Federal Reserve to maintain a tightening bias.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-01/gold-prices-remain-down-us-jolts-highlight-ongoing-weakness-labor-market",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5dda59ec0cccc369",
-      "titleEn": "USHV Expands to Tennessee Through Partnership with Apex Vascular",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901935184/en/USHV-Expands-to-Tennessee-Through-Partnership-with-Apex-Vascular/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f221a16a33caf804",
-      "titleEn": "LP to Curtail OSB Production at Jasper, Texas Facility",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901597996/en/LP-to-Curtail-OSB-Production-at-Jasper-Texas-Facility/",
+      "link": "https://www.businesswire.com/news/home/20260901798004/en/NeuroPace-to-Participate-in-2026-Cantor-Global-Healthcare-Conference/",
       "published": null
     }
   ]
