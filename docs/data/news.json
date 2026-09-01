@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-01T22:00:09.149965Z",
+  "generatedAt": "2026-09-01T23:51:57.197084Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:c21e03ea0d86bf51",
@@ -76,48 +76,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:811e6aefa8a348ab",
-      "titleEn": "Duolingo stock surges 5% as this analyst sees 42% upside",
+      "id": "stockanalysis:2e665fa0e82c1914",
+      "titleEn": "The Law Offices of Frank R. Cruz Announces Investigation of Badger Meter, Inc. (BMI) on Behalf of Investors",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/01/duolingo-stock-surges-5-as-this-analyst-sees-42-upside/",
+      "link": "https://www.businesswire.com/news/home/20260901684017/en/The-Law-Offices-of-Frank-R.-Cruz-Announces-Investigation-of-Badger-Meter-Inc.-BMI-on-Behalf-of-Investors/",
       "published": null
     },
     {
-      "id": "stockanalysis:66bc4b38b6eba081",
-      "titleEn": "Apple stock outlook under Ternus: AI is key, foldable iPhone a potential catalyst",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/01/apple-stock-outlook-under-ternus-ai-is-key-foldable-iphone-a-potential-catalyst/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f08debf9139b02d1",
-      "titleEn": "Integer Holdings Corporation Investigated for Breaches of Fiduciary Duty - Contact the DJS Law Group to Discuss Your Rights – ITGR",
+      "id": "stockanalysis:9ca20886c9dbf991",
+      "titleEn": "KBRA Assigns Preliminary Ratings to Angel Oak Mortgage Trust 2026-5 (AOMT 2026-5)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901555921/en/Integer-Holdings-Corporation-Investigated-for-Breaches-of-Fiduciary-Duty---Contact-the-DJS-Law-Group-to-Discuss-Your-Rights-%E2%80%93-ITGR/",
+      "link": "https://www.businesswire.com/news/home/20260901401235/en/KBRA-Assigns-Preliminary-Ratings-to-Angel-Oak-Mortgage-Trust-2026-5-AOMT-2026-5/",
       "published": null
     },
     {
-      "id": "stockanalysis:06e8ae6f62eef54b",
-      "titleEn": "Palantir to Deliver Eight TITAN Systems to the U.S. Army",
+      "id": "stockanalysis:eb826b5ed4441a51",
+      "titleEn": "Everus Completes Acquisition of Epsilon Industries",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901157594/en/Palantir-to-Deliver-Eight-TITAN-Systems-to-the-U.S.-Army/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:87e1917dfcaf3829",
-      "titleEn": "NeuroPace to Participate in 2026 Cantor Global Healthcare Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901798004/en/NeuroPace-to-Participate-in-2026-Cantor-Global-Healthcare-Conference/",
+      "link": "https://www.businesswire.com/news/home/20260901715567/en/Everus-Completes-Acquisition-of-Epsilon-Industries/",
       "published": null
     }
   ]
