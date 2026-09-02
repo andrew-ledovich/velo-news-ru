@@ -1,96 +1,114 @@
 {
-  "generatedAt": "2026-09-02T11:42:49.161021Z",
+  "generatedAt": "2026-09-02T15:17:41.524393Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 12,
   "items": [
     {
-      "id": "stockanalysis:bf70c84ceb483c42",
-      "titleEn": "Here's why Rolls-Royce share price is falling and what may happen next",
+      "id": "stockanalysis:e4bbd5f501d1a2da",
+      "titleEn": "Gold looks cheap as debt, inflation and uncertainty threaten fiat currencies - Matthew Jones",
+      "summaryEn": "(Kitco News) - Gold prices may be struggling as investors focus on rising inflation and the prospect of higher interest rates, but one precious metals analyst says the market is missing the bigger picture — and that could make the current selloff one of the most compelling buying opportunities in years. In an interview with Kitco News, Matthew Jones, Co-Founder and Precious Metals Analyst at Britannia Bullion, said gold is increasingly distinguishing itself as money rather than simply another financial asset, particularly as governments continue to expand debt and erode the purchasing power of fiat currencies. However, Jones said investors appear overly focused on the first-order consequences of rising geopolitical tensions and higher energy prices while ignoring what could come next.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-02/gold-looks-cheap-debt-inflation-and-uncertainty-threaten-fiat-currencies",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:33b7d9148dfeb8eb",
+      "titleEn": "Why analysts see up to 100% upside for SpaceX stock",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/02/heres-why-rolls-royce-share-price-is-falling-and-what-may-happen-next/",
+      "link": "https://invezz.com/news/2026/09/02/why-analysts-see-up-to-100-upside-for-spacex-stock/",
       "published": null
     },
     {
-      "id": "stockanalysis:fe3cb25fdf2773f0",
-      "titleEn": "Why Microsoft stock could see upto 20% more upside despite gaining 30% since earnings",
+      "id": "stockanalysis:fbcdf3a228b71836",
+      "titleEn": "Credo Technology stock has slipped after earnings: how low can it get?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/02/why-microsoft-stock-could-see-upto-20-more-upside-despite-gaining-30-since-earnings/",
+      "link": "https://invezz.com/news/2026/09/02/credo-technology-stock-has-slipped-after-earnings-how-low-can-it-get/",
       "published": null
     },
     {
-      "id": "stockanalysis:82c056c06108c2e8",
-      "titleEn": "Broadcom options price a 7% earnings swing: will AVGO hit $400 or fall below $343?",
+      "id": "stockanalysis:b5e682834bca989a",
+      "titleEn": "Gold price hits CAD $6,087/oz after Bank of Canada holds rates, says ‘US tariffs and threats of further action pose risks'",
+      "summaryEn": "(Kitco News) - The Bank of Canada (BoC) maintained its key overnight rate at 2.25% on Wednesday, as expected, with the bank rate staying at 2.50% and the deposit rate remaining at 2.20%. The BoC said the ongoing conflict in the Middle East is keeping energy prices high. “As well, new US tariffs and Canadian counter-measures have been announced following the breakdown of trade talks between Canada and the United States,” they said. “Both situations remain fluid.” The Canadian dollar fell to session lows in the minutes after the announcement, with USD/CAD last trading at 1.3869 per U.S. dollar, down 0.19% on the session.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-02/gold-price-hits-cad-6087oz-after-bank-canada-holds-rates-says-us-tariffs",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:22327185a0412f9c",
+      "titleEn": "Why is MongoDB stock falling 13% despite strong Q2 results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/02/broadcom-options-price-a-7-earnings-swing-will-avgo-hit-400-or-fall-below-343/",
+      "link": "https://invezz.com/news/2026/09/02/why-is-mongodb-stock-falling-13-despite-strong-q2-results/",
       "published": null
     },
     {
-      "id": "stockanalysis:dc3da50a45c9483e",
-      "titleEn": "Dell stock soars on blowout earnings, outlook: why analysts see a major rerating",
+      "id": "stockanalysis:27469a7e73597d80",
+      "titleEn": "Snowflake stock forms bearish divergence as earnings loom: will it rise or crash?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/02/dell-stock-soars-on-blowout-earnings-outlook-why-analysts-see-a-major-rerating/",
+      "link": "https://invezz.com/news/2026/09/02/snowflake-stock-forms-bearish-divergence-as-earnings-loom-will-it-rise-or-crash/",
       "published": null
     },
     {
-      "id": "stockanalysis:fee02709f4ac8973",
-      "titleEn": "Why OpenAI's smartest new model could become a headache for Microsoft stock",
-      "summaryEn": null,
+      "id": "stockanalysis:5cb52778e311d69d",
+      "titleEn": "Gold, silver rebound as soft ADP tempers Fed-hike trade - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Wednesday, as softer-than-expected ADP private-payrolls data gave metals a relief bid after a two-session selloff driven by higher oil prices, rising Treasury yields and firmer Fed-hike expectations. At the time of writing, spot gold was trading near $4,340.70 an ounce, up 0.30%, while spot silver was trading at $64.410, up 0.71% on the session. The latest positioning remains centered on the labor-market sequence into Friday’s August nonfarm payrolls report. ADP said private employers added 38,000 jobs in August, below expectations and the slowest pace since January, giving gold a modest lift after Tuesday’s rout. The data were not enough to fully reverse the hawkish Fed trade, with markets still pricing roughly a 67% to 70% probability of a September rate hike as oil prices and global bond yields remain elevated. The 10-year Treasury yield is trading above 4.8%, while the 30-year yield is near 5.28%. The next catalysts are the Beige Book at 2 p.m. ET, Thursday’s weekly jobless claims and ISM services data, and Friday’s nonfarm payrolls report. For gold, weak labor data can trigger short-covering, but the rally will remain vulnerable unless yields and the dollar ease more decisively. Gold and silver remain under pressure in the broader technical structure despite the morning bounce. Gold is holding above Tuesday’s low and above the $4,263 to $4,221 demand zone identified in the latest technical work, but it remains below the broken $4,422 support area. Silver has stabilized after losing $65.37 support, but it remains below the same level and below the $67.21 resistance area. The short-term setup is therefore a relief bounce inside a damaged chart, with Friday’s payrolls report likely to decide whether the move becomes a base or another lower high.",
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/02/why-openais-smartest-new-model-could-become-a-headache-for-microsoft-stock/",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-02/gold-silver-rebound-soft-adp-tempers-fed-hike-trade-kitco-am-report",
       "published": null
     },
     {
-      "id": "stockanalysis:15de1463b178eded",
-      "titleEn": "Micron stock is booming, but Nvidia may have just put a date on the easy money",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/02/micron-stock-is-booming-but-nvidia-may-have-just-put-a-date-on-the-easy-money/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ecb8ce9394c146ac",
-      "titleEn": "Nikkei 225 Index analysis as Japan bond yields surge, Softbank stock plunges",
+      "id": "stockanalysis:a8bceded0245d266",
+      "titleEn": "Uber stock rises as company cuts 3,300 jobs: here's what investors should know",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/02/nikkei-225-index-analysis-as-japan-bond-yields-surge-softbank-stock-plunges/",
+      "link": "https://invezz.com/news/2026/09/02/uber-stock-rises-as-company-cuts-3300-jobs-heres-what-investors-should-know/",
       "published": null
     },
     {
-      "id": "stockanalysis:565cdace674abf53",
-      "titleEn": "KOSPI tumbles despite chip buybacks: how much support can they really provide?",
+      "id": "stockanalysis:52b4970cfe0c3b22",
+      "titleEn": "Can gold price catch a bid? US labor market continues to struggle as ADP says 38K jobs created in August",
+      "summaryEn": "(Kitco News) - After seeing significant selling pressure since the start of the week, the gold market is trying to find some solid ground as the private sector created fewer jobs than expected in August. Private-sector payroll processor ADP said Wednesday that 38,000 jobs were created in August, down from 46,000 in July. The data came in weaker than expected, as consensus estimates had forecast a gain of 47,000 jobs. The report said this was the slowest pace of job creation since January. The manufacturing sector led the broader economy in job losses, while professional services and information also shed workers.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-02/can-gold-price-catch-bid-us-labor-market-continues-struggle-adp-says-38k",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:67051d34e507bbdc",
+      "titleEn": "HPE stock forms rare cup-and-handle pattern as Dell earnings set up key catalyst",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/02/kospi-tumbles-despite-chip-buybacks-how-much-support-can-they-really-provide/",
+      "link": "https://invezz.com/news/2026/09/02/hpe-stock-forms-rare-cup-and-handle-pattern-as-dell-earnings-set-up-key-catalyst/",
       "published": null
     },
     {
-      "id": "stockanalysis:df9372c57cf13beb",
-      "titleEn": "Cathie Wood buys $31.6M of Rocket Lab stock: is she betting the selloff went too far?",
+      "id": "stockanalysis:48eb23c758481c7d",
+      "titleEn": "Vali Cyber Announces New Integration with CrowdStrike Falcon Next-Gen SIEM",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/02/cathie-wood-buys-31-6m-of-rocket-lab-stock-is-she-betting-the-selloff-went-too-far/",
+      "link": "https://www.businesswire.com/news/home/20260902891127/en/Vali-Cyber-Announces-New-Integration-with-CrowdStrike-Falcon-Next-Gen-SIEM/",
       "published": null
     },
     {
-      "id": "stockanalysis:191914f1db908617",
-      "titleEn": "Samsung, SK Hynix stocks sink 3% as a new risk hits the AI memory trade",
+      "id": "stockanalysis:89384788211a5c8b",
+      "titleEn": "Community Health Systems to Participate in the Wells Fargo 21st Annual Healthcare Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/02/samsung-sk-hynix-stocks-sink-3-as-a-new-risk-hits-the-ai-memory-trade/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260902767461/en/Community-Health-Systems-to-Participate-in-the-Wells-Fargo-21st-Annual-Healthcare-Conference/",
       "published": null
     }
   ]
