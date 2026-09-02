@@ -1,8 +1,80 @@
 {
-  "generatedAt": "2026-09-02T15:17:41.524393Z",
+  "generatedAt": "2026-09-02T18:49:39.229881Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:4cac556534fb8de9",
+      "titleEn": "Goldman Sachs sees gold price at $4,900/oz by year-end, but investors hedging through gold derivatives could drive it even higher",
+      "summaryEn": "(Kitco News) – Gold prices will rise to $4,900 per ounce by the end of 2026 amid strong demand from central banks seeking to diversify their foreign currency reserves, while investors using gold derivatives to hedge may be making the yellow metal more volatile, according to Goldman Sachs Research. “Gold is projected to extend its recent gains in the second half of 2026, even as growing use of some derivatives tied to the metal could be making gold prices more volatile,” according to Lina Thomas and Daan Struyven at Goldman Sachs Research. The firm forecasts the precious metal’s price will rise to $4,900 per ounce by the end of the year as central banks continue diversifying their reserves and markets scale back expectations for U.S. rate hikes in 2026.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-02/goldman-sachs-sees-gold-price-4900oz-year-end-investors-hedging-through",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:287c6337e3001b69",
+      "titleEn": "US judge rejects bid to break up Google's ad business",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: A U.S. federal judge on Wednesday refused to force Google to sell a division of its digital advertising business, rejecting the government's push to break up part of the company's ad empire. In a court order, U.S. District Court Judge Leonie Brinkema opted instead for a set of rules governing how Google must operate in the ad market.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-09-google-ad-business.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4b4cf2e390c85222",
+      "titleEn": "Palantir stock falls 6% as investors take profit after August rally",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/02/palantir-stock-falls-6-as-investors-take-profit-after-august-rally/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8e992a5a2a56ebca",
+      "titleEn": "GitLab stock jumps 13% as AI coding boosts growth outlook",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/02/gitlab-stock-jumps-13-as-ai-coding-boosts-growth-outlook/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3b167d95912f5c9a",
+      "titleEn": "Gold price will approach $5,000/oz in 2026, $5,300/oz in 2027 on ‘uncertainty, de-dollarization, and debasement concern' – RBC",
+      "summaryEn": "(Kitco News) – Gold’s recent price action has demonstrated that geopolitical instability, global de-dollarization and worries over U.S. dollar debasement are returning to the fore, and the yellow metal is now poised to resume its march above $5,000 per ounce, according to Christopher Louney, Director of Global Commodity Strategy and MENA Research at RBC Capital Markets. “We’ve stayed consistent this year, sticking with the forecasts we published back in December of last year, and for good reason,” Louney wrote in his latest commodity analysis. “[W]e have highlighted that while the underlying drivers for gold may have been on pause, they remained intact. Despite more than a lost quarter for ETP holdings, we thought that the return of uncertainty, de-dollarization, and debasement concern-driven allocations remained on the horizon, and that those flows would return to push gold prices higher— a view supported by gold’s early-August recovery, current pricing, and the pattern of inflows.” “We remain of the view that gold should spend most of its time in the $4500-5000/oz range for what remains of this year (a view unchanged and with high conviction), and we now specifically highlight our middle-to-high scenario range for Q3 and Q4 (as well as annual) for gold prices going forward,” he said. “By year-end, we are leaning towards our 2026 high scenario ($4929/oz), and similarly, in 2027, we favor our high of $5296/oz.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-02/gold-price-will-approach-5000oz-2026-5300oz-2027-uncertainty-de",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:92d5fedcee73d99d",
+      "titleEn": "Why is Nvidia stock up over 4% today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/02/why-is-nvidia-stock-up-over-4-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e53271eebb5b92c2",
+      "titleEn": "SpaceX stock: Top reasons why Elon Musk's SPCX is about to dive",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/02/spacex-stock-top-reasons-why-elon-musks-spcx-is-about-to-dive/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:09450edee2bccf8a",
+      "titleEn": "Palo Alto crushes earnings expectations: stock is down 8%- here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/02/palo-alto-crushes-earnings-expectations-stock-is-down-8-heres-why/",
+      "published": null
+    },
     {
       "id": "stockanalysis:e4bbd5f501d1a2da",
       "titleEn": "Gold looks cheap as debt, inflation and uncertainty threaten fiat currencies - Matthew Jones",
@@ -49,66 +121,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:27469a7e73597d80",
-      "titleEn": "Snowflake stock forms bearish divergence as earnings loom: will it rise or crash?",
+      "id": "stockanalysis:9240314f4881a619",
+      "titleEn": "CrowdStrike Announces 2026 Customer and Partner Award Winners: The Leaders Securing the Front Lines of AI",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260901394676/en/CrowdStrike-Announces-2026-Customer-and-Partner-Award-Winners-The-Leaders-Securing-the-Front-Lines-of-AI/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b319e3701468e7f6",
+      "titleEn": "PAR Technology Corporation to Participate at Goldman Sachs Communacopia + Technology Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/02/snowflake-stock-forms-bearish-divergence-as-earnings-loom-will-it-rise-or-crash/",
+      "link": "https://www.businesswire.com/news/home/20260902521684/en/PAR-Technology-Corporation-to-Participate-at-Goldman-Sachs-Communacopia-Technology-Conference/",
       "published": null
     },
     {
-      "id": "stockanalysis:5cb52778e311d69d",
-      "titleEn": "Gold, silver rebound as soft ADP tempers Fed-hike trade - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Wednesday, as softer-than-expected ADP private-payrolls data gave metals a relief bid after a two-session selloff driven by higher oil prices, rising Treasury yields and firmer Fed-hike expectations. At the time of writing, spot gold was trading near $4,340.70 an ounce, up 0.30%, while spot silver was trading at $64.410, up 0.71% on the session. The latest positioning remains centered on the labor-market sequence into Friday’s August nonfarm payrolls report. ADP said private employers added 38,000 jobs in August, below expectations and the slowest pace since January, giving gold a modest lift after Tuesday’s rout. The data were not enough to fully reverse the hawkish Fed trade, with markets still pricing roughly a 67% to 70% probability of a September rate hike as oil prices and global bond yields remain elevated. The 10-year Treasury yield is trading above 4.8%, while the 30-year yield is near 5.28%. The next catalysts are the Beige Book at 2 p.m. ET, Thursday’s weekly jobless claims and ISM services data, and Friday’s nonfarm payrolls report. For gold, weak labor data can trigger short-covering, but the rally will remain vulnerable unless yields and the dollar ease more decisively. Gold and silver remain under pressure in the broader technical structure despite the morning bounce. Gold is holding above Tuesday’s low and above the $4,263 to $4,221 demand zone identified in the latest technical work, but it remains below the broken $4,422 support area. Silver has stabilized after losing $65.37 support, but it remains below the same level and below the $67.21 resistance area. The short-term setup is therefore a relief bounce inside a damaged chart, with Friday’s payrolls report likely to decide whether the move becomes a base or another lower high.",
+      "id": "stockanalysis:419a7a6d4c88aa72",
+      "titleEn": "CrowdStrike Brings the Falcon Platform to the Anthropic Claude Marketplace",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-02/gold-silver-rebound-soft-adp-tempers-fed-hike-trade-kitco-am-report",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260902229511/en/CrowdStrike-Brings-the-Falcon-Platform-to-the-Anthropic-Claude-Marketplace/",
       "published": null
     },
     {
-      "id": "stockanalysis:a8bceded0245d266",
-      "titleEn": "Uber stock rises as company cuts 3,300 jobs: here's what investors should know",
+      "id": "stockanalysis:4f141cd58c4f2541",
+      "titleEn": "Marriott Vacations Worldwide Corporation Announces Quarterly Cash Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/02/uber-stock-rises-as-company-cuts-3300-jobs-heres-what-investors-should-know/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:52b4970cfe0c3b22",
-      "titleEn": "Can gold price catch a bid? US labor market continues to struggle as ADP says 38K jobs created in August",
-      "summaryEn": "(Kitco News) - After seeing significant selling pressure since the start of the week, the gold market is trying to find some solid ground as the private sector created fewer jobs than expected in August. Private-sector payroll processor ADP said Wednesday that 38,000 jobs were created in August, down from 46,000 in July. The data came in weaker than expected, as consensus estimates had forecast a gain of 47,000 jobs. The report said this was the slowest pace of job creation since January. The manufacturing sector led the broader economy in job losses, while professional services and information also shed workers.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-02/can-gold-price-catch-bid-us-labor-market-continues-struggle-adp-says-38k",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:67051d34e507bbdc",
-      "titleEn": "HPE stock forms rare cup-and-handle pattern as Dell earnings set up key catalyst",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/02/hpe-stock-forms-rare-cup-and-handle-pattern-as-dell-earnings-set-up-key-catalyst/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:48eb23c758481c7d",
-      "titleEn": "Vali Cyber Announces New Integration with CrowdStrike Falcon Next-Gen SIEM",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260902891127/en/Vali-Cyber-Announces-New-Integration-with-CrowdStrike-Falcon-Next-Gen-SIEM/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:89384788211a5c8b",
-      "titleEn": "Community Health Systems to Participate in the Wells Fargo 21st Annual Healthcare Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260902767461/en/Community-Health-Systems-to-Participate-in-the-Wells-Fargo-21st-Annual-Healthcare-Conference/",
+      "link": "https://www.businesswire.com/news/home/20260901533477/en/Marriott-Vacations-Worldwide-Corporation-Announces-Quarterly-Cash-Dividend/",
       "published": null
     }
   ]
