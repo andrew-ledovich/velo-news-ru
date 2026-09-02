@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-09-02T01:48:55.400499Z",
+  "generatedAt": "2026-09-02T06:34:34.668825Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:ecb8ce9394c146ac",
+      "titleEn": "Nikkei 225 Index analysis as Japan bond yields surge, Softbank stock plunges",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/02/nikkei-225-index-analysis-as-japan-bond-yields-surge-softbank-stock-plunges/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:565cdace674abf53",
+      "titleEn": "KOSPI tumbles despite chip buybacks: how much support can they really provide?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/02/kospi-tumbles-despite-chip-buybacks-how-much-support-can-they-really-provide/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:df9372c57cf13beb",
+      "titleEn": "Cathie Wood buys $31.6M of Rocket Lab stock: is she betting the selloff went too far?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/02/cathie-wood-buys-31-6m-of-rocket-lab-stock-is-she-betting-the-selloff-went-too-far/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:191914f1db908617",
+      "titleEn": "Samsung, SK Hynix stocks sink 3% as a new risk hits the AI memory trade",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/02/samsung-sk-hynix-stocks-sink-3-as-a-new-risk-hits-the-ai-memory-trade/",
+      "published": null
+    },
     {
       "id": "stockanalysis:c21e03ea0d86bf51",
       "titleEn": "Gold tests $4,311 support as Fed-hike odds hold near 66% - Kitco PM Report",
@@ -49,39 +85,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:dfa74fb7c7908ed5",
-      "titleEn": "Long-term gold price remains supported by commodity-led inflation - Saxo Bank's Hansen",
-      "summaryEn": "(Kitco News) - After seeing its biggest monthly gain since the start of the year, the gold market is starting September on the back foot as prices test support near $4,350 an ounce. Ole Hansen, Head of Commodity Strategy at Saxo Bank, said that gold is struggling as investors continue to focus on short-term inflation fears, which are being driven in part by rising commodity prices. Spot gold last traded at $4,356.60 an ounce, down more than 2% on the day. Overnight, West Texas Intermediate (WTI) crude oil prices pushed back to $90 a barrel as hostilities between the U.S. and Iran ratcheted up. At the same time, Hansen added that the ongoing war in Ukraine and poor weather conditions around the world are driving grain and soft commodity prices higher, led by sugar, wheat and corn.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-01/long-term-gold-price-remains-supported-commodity-led-inflation-saxo-banks",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7dae8955a92d21c0",
-      "titleEn": "Micron stock falls 3% as Taiwan unions threaten strike over bonuses",
+      "id": "stockanalysis:0e508768bf0eff7d",
+      "titleEn": "KKR Expands Global Credit &amp; Markets Platform with Senior Hires",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/01/micron-stock-falls-3-as-taiwan-unions-threaten-strike-over-bonuses/",
+      "link": "https://www.businesswire.com/news/home/20260901713285/en/KKR-Expands-Global-Credit-Markets-Platform-with-Senior-Hires/",
       "published": null
     },
     {
-      "id": "stockanalysis:a9be250f77831769",
-      "titleEn": "Duolingo stock jumps as charts flash warning amid transition from growth to value",
+      "id": "stockanalysis:097fcc6b812cf2d4",
+      "titleEn": "Iron Mountain Expands Footprint in the Middle East with Social Development Bank Partnership",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/01/duolingo-stock-jumps-as-charts-flash-warning-amid-transition-from-growth-to-value/",
+      "link": "https://www.businesswire.com/news/home/20260901766297/en/Iron-Mountain-Expands-Footprint-in-the-Middle-East-with-Social-Development-Bank-Partnership/",
       "published": null
     },
     {
-      "id": "stockanalysis:e977d29e73fa8ca2",
-      "titleEn": "Tesla stock falls 3%: here's what's dragging the stock down today",
+      "id": "stockanalysis:7172dd42bd1e6c21",
+      "titleEn": "Tottenham Hotspur and HPE Transform Digital Fan Experience and Stadium Operations",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/09/01/tesla-stock-falls-3-heres-whats-dragging-the-stock-down-today/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260901243159/en/Tottenham-Hotspur-and-HPE-Transform-Digital-Fan-Experience-and-Stadium-Operations/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c9850137eaf6c186",
+      "titleEn": "BW LPG Successfully Places a USD 300 Million Offering of Senior Unsecured Convertible Bonds",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260901550546/en/BW-LPG-Successfully-Places-a-USD-300-Million-Offering-of-Senior-Unsecured-Convertible-Bonds/",
       "published": null
     },
     {
@@ -100,33 +136,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260901390619/en/Ono-Pharma-Enters-into-a-Drug-Discovery-Partnership-with-Aitia-in-Neurological-Diseases/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:20bea20bb440b7d3",
-      "titleEn": "Faraday Future Announced that It has Entered Into Incremental Warrant Termination Agreements With Each March 2025 Financing Investor as It Continues to Make Progress in Reducing Its Debt and Improving Its Capital Structure",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901991778/en/Faraday-Future-Announced-that-It-has-Entered-Into-Incremental-Warrant-Termination-Agreements-With-Each-March-2025-Financing-Investor-as-It-Continues-to-Make-Progress-in-Reducing-Its-Debt-and-Improving-Its-Capital-Structure/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5bc53c0c06b0f549",
-      "titleEn": "Del Monte Corporation and Riverking Group Announce Joint Venture to Expand Fresh-Cut Fruit Business in China",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901903360/en/Del-Monte-Corporation-and-Riverking-Group-Announce-Joint-Venture-to-Expand-Fresh-Cut-Fruit-Business-in-China/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2e665fa0e82c1914",
-      "titleEn": "The Law Offices of Frank R. Cruz Announces Investigation of Badger Meter, Inc. (BMI) on Behalf of Investors",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901684017/en/The-Law-Offices-of-Frank-R.-Cruz-Announces-Investigation-of-Badger-Meter-Inc.-BMI-on-Behalf-of-Investors/",
       "published": null
     }
   ]
