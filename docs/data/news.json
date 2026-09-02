@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-09-02T06:34:34.668825Z",
+  "generatedAt": "2026-09-02T11:42:49.161021Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:bf70c84ceb483c42",
+      "titleEn": "Here's why Rolls-Royce share price is falling and what may happen next",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/02/heres-why-rolls-royce-share-price-is-falling-and-what-may-happen-next/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fe3cb25fdf2773f0",
+      "titleEn": "Why Microsoft stock could see upto 20% more upside despite gaining 30% since earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/02/why-microsoft-stock-could-see-upto-20-more-upside-despite-gaining-30-since-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:82c056c06108c2e8",
+      "titleEn": "Broadcom options price a 7% earnings swing: will AVGO hit $400 or fall below $343?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/02/broadcom-options-price-a-7-earnings-swing-will-avgo-hit-400-or-fall-below-343/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dc3da50a45c9483e",
+      "titleEn": "Dell stock soars on blowout earnings, outlook: why analysts see a major rerating",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/02/dell-stock-soars-on-blowout-earnings-outlook-why-analysts-see-a-major-rerating/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fee02709f4ac8973",
+      "titleEn": "Why OpenAI's smartest new model could become a headache for Microsoft stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/02/why-openais-smartest-new-model-could-become-a-headache-for-microsoft-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:15de1463b178eded",
+      "titleEn": "Micron stock is booming, but Nvidia may have just put a date on the easy money",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/02/micron-stock-is-booming-but-nvidia-may-have-just-put-a-date-on-the-easy-money/",
+      "published": null
+    },
     {
       "id": "stockanalysis:ecb8ce9394c146ac",
       "titleEn": "Nikkei 225 Index analysis as Japan bond yields surge, Softbank stock plunges",
@@ -37,105 +91,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/09/02/samsung-sk-hynix-stocks-sink-3-as-a-new-risk-hits-the-ai-memory-trade/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c21e03ea0d86bf51",
-      "titleEn": "Gold tests $4,311 support as Fed-hike odds hold near 66% - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply lower in late-afternoon U.S. trading Tuesday, as a surge in crude oil prices and a global bond selloff pushed Treasury yields higher and reinforced expectations that the Fed may still raise rates this month. At the time of writing, spot gold was trading near $4,327.70 an ounce, down 2.68%, while spot silver was trading at $63.950, down 3.71% on the session. North American equity markets closed lower as higher oil prices and rising bond yields hit risk appetite. The S&P 500 fell 54.67 points, or 0.7%, to 7,631.47, the Dow Jones Industrial Average lost 419.02 points, or 0.8%, to 52,766.88, the Nasdaq Composite dropped 271.11 points, or 1.0%, to 26,099.77 and the Russell 2000 fell 36.32 points, or 1.2%, to 2,920.13. European markets also finished lower, with the STOXX Europe 600 down 0.56% to 647.46. London’s FTSE 100 fell 0.32% to 10,789.28, Germany’s DAX dropped 1.10% to 25,970.11, France’s CAC 40 lost 0.39% to 8,301.85 and Italy’s FTSE MIB declined 1.33% to 51,915.18. The latest positioning remains anchored in the post-Jackson Hole rate repricing and the week’s labor-market calendar. July job openings rose slightly to 7.3 million , while the August ISM manufacturing index slipped to 54.6 from 55.6 , a softer but still expansionary reading. The data were not weak enough to unwind the hawkish Fed trade. Markets continued to price roughly a 66% probability of a September rate hike, the two-year Treasury yield rose to 4.39% and the 10-year yield climbed to 4.79%. The next catalysts are Wednesday’s ADP employment report, Thursday’s jobless claims and ISM services data and Friday’s August nonfarm payrolls report. For gold, the setup is still rate-negative: a firm labor-market sequence would validate higher yields, while only a clear employment downside surprise would give bullion a cleaner relief path.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-01/gold-tests-4311-support-fed-hike-odds-hold-near-66-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c5309890c5fdd73b",
-      "titleEn": "Anthropic Revises Enterprise Data Retention Policy After Customer Pushback",
-      "summaryEn": "Anthropic is changing a data retention policy for business customers following concerns from enterprise users about how their information would be stored and reviewed. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The company announced Tuesday (Sept. 1) it is introducing Enterprise Frontier Safeguards, a system that will give businesses greater control over how their data is reviewed, stored and managed. Anthropic said the system will also allow companies to conduct automated safety monitoring without requiring human review by Anthropic.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-revises-enterprise-data-retention-policy-after-customer-pushback/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f8ba993d8029e17a",
-      "titleEn": "OpenAI Brings Epic Health Records to ChatGPT for Clinicians",
-      "summaryEn": "OpenAI is connecting ChatGPT directly to Epic electronic health records, pushing the artificial intelligence bot deeper into the clinical workflow and giving healthcare workers a way to query patient information without manually assembling the medical history themselves. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Healthcare organizations can now connect their Epic environments to ChatGPT for Healthcare, OpenAI said on a Tuesday (Sept. 1) announcement . Clinicians can pull authorized information from appointment notes, laboratory results, medications and specialist documentation and ask questions across a patient’s record.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-brings-epic-health-records-to-chatgpt-for-clinicians/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a941423c65522273",
-      "titleEn": "ChatGPT Ads Hit $1 Billion Faster Than Google Ever Did",
-      "summaryEn": "ChatGPT Ads hit a $1 billion annualized pace in under 200 days, a climb that took Google’s ad business took roughly four years to make. The ads work differently than anything on Google or Facebook. Instead of guessing from a keyword or scroll history, they draw on an actual conversation where someone already explained what they want and what they can spend. ChatGPT’s share of consumer product research climbed from 2% to 30% over two years, according to PYMNTS Intelligence.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/chatgpt-ads-hit-1-billion-faster-than-google-ever-did/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ba368e06a303a88f",
-      "titleEn": "Stripe Adds Online Legal Services Firm Clerky to Its Fold",
-      "summaryEn": "Online legal services company Clerky says it is now part of payments giant Stripe . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The company announced the deal last week, though terms have not been disclosed. Launched more than a decade ago, Clerky provides startups and their lawyers with tools to automate legal paperwork for things like hiring, fundraising or incorporation.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/acquiring/2026/stripe-adds-online-legal-services-firm-clerky-to-its-fold/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0e508768bf0eff7d",
-      "titleEn": "KKR Expands Global Credit &amp; Markets Platform with Senior Hires",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901713285/en/KKR-Expands-Global-Credit-Markets-Platform-with-Senior-Hires/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:097fcc6b812cf2d4",
-      "titleEn": "Iron Mountain Expands Footprint in the Middle East with Social Development Bank Partnership",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901766297/en/Iron-Mountain-Expands-Footprint-in-the-Middle-East-with-Social-Development-Bank-Partnership/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7172dd42bd1e6c21",
-      "titleEn": "Tottenham Hotspur and HPE Transform Digital Fan Experience and Stadium Operations",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901243159/en/Tottenham-Hotspur-and-HPE-Transform-Digital-Fan-Experience-and-Stadium-Operations/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c9850137eaf6c186",
-      "titleEn": "BW LPG Successfully Places a USD 300 Million Offering of Senior Unsecured Convertible Bonds",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901550546/en/BW-LPG-Successfully-Places-a-USD-300-Million-Offering-of-Senior-Unsecured-Convertible-Bonds/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0efad94e8d419009",
-      "titleEn": "Resources Connection to Participate in Upcoming September Conferences",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901108501/en/Resources-Connection-to-Participate-in-Upcoming-September-Conferences/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4f961ef1698bc35f",
-      "titleEn": "Ono Pharma Enters into a Drug Discovery Partnership with Aitia in Neurological Diseases",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901390619/en/Ono-Pharma-Enters-into-a-Drug-Discovery-Partnership-with-Aitia-in-Neurological-Diseases/",
       "published": null
     }
   ]
