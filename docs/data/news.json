@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-02T21:25:30.416281Z",
+  "generatedAt": "2026-09-02T23:26:05.755407Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:d33c88e64a93ec56",
+      "titleEn": "Schroders turns bullish on gold as debt, inflation and currency risks outweigh elevated real yields",
+      "summaryEn": "(Kitco News) - After taking profits and moving to the sidelines in May, analysts at Schroders announced in late August that they had upgraded their view on gold , re-establishing a position in the precious metal. The London-based asset manager said it sees an increasingly attractive medium-term opportunity despite elevated real yields and gold’s recent rally. In its latest multi-asset outlook, Schroders upgraded gold to positive, highlighting a combination of strong structural demand, improved speculative positioning and persistent concerns surrounding inflation, sovereign debt and currency stability.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-02/schroders-turns-bullish-gold-debt-inflation-and-currency-risks-outweigh",
+      "published": null
+    },
     {
       "id": "stockanalysis:6159ad2ca6e15065",
       "titleEn": "Dutch central bank moves 86 tonnes of gold from U.S., Canada to London",
@@ -58,30 +67,66 @@
       "published": null
     },
     {
-      "id": "stockanalysis:4b4cf2e390c85222",
-      "titleEn": "Palantir stock falls 6% as investors take profit after August rally",
+      "id": "stockanalysis:55dc47d6a924627f",
+      "titleEn": "Walker &amp; Dunlop Arranges $390 Million Construction Financing for Park Tower in Jersey City",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/02/palantir-stock-falls-6-as-investors-take-profit-after-august-rally/",
+      "link": "https://www.businesswire.com/news/home/20260902297145/en/Walker-Dunlop-Arranges-390-Million-Construction-Financing-for-Park-Tower-in-Jersey-City/",
       "published": null
     },
     {
-      "id": "stockanalysis:4d72a12a5fe8f96b",
-      "titleEn": "Amkor Technology to Present at the Goldman Sachs Communacopia + Technology Conference",
+      "id": "stockanalysis:57efd350ad28dad0",
+      "titleEn": "Virtus Convertible &amp; Income Fund II Announces Quarterly Distribution: 5.500% Series A Cumulative Preferred Shares",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260902230347/en/Amkor-Technology-to-Present-at-the-Goldman-Sachs-Communacopia-Technology-Conference/",
+      "link": "https://www.businesswire.com/news/home/20260902497578/en/Virtus-Convertible-Income-Fund-II-Announces-Quarterly-Distribution-5.500-Series-A-Cumulative-Preferred-Shares/",
       "published": null
     },
     {
-      "id": "stockanalysis:e7bf3311370c6347",
-      "titleEn": "Allegion Declares Quarterly Dividend",
+      "id": "stockanalysis:fa6e80f21de26b6a",
+      "titleEn": "Ivonescimab Monotherapy Demonstrates Statistically Significant Overall Survival Benefit Compared to Pembrolizumab Monotherapy in PD-L1-Positive Advanced NSCLC in HARMONi-2 Study Conducted by Akeso in China",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260902022636/en/Allegion-Declares-Quarterly-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20260902840786/en/Ivonescimab-Monotherapy-Demonstrates-Statistically-Significant-Overall-Survival-Benefit-Compared-to-Pembrolizumab-Monotherapy-in-PD-L1-Positive-Advanced-NSCLC-in-HARMONi-2-Study-Conducted-by-Akeso-in-China/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ece9c26151302940",
+      "titleEn": "Virtus Convertible &amp; Income Fund Announces Quarterly Distribution: 5.625% Series A Cumulative Preferred Shares",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260902041418/en/Virtus-Convertible-Income-Fund-Announces-Quarterly-Distribution-5.625-Series-A-Cumulative-Preferred-Shares/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:043d26c08837ace1",
+      "titleEn": "Nu Holdings Announces Investor Day for December 8, 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260902257631/en/Nu-Holdings-Announces-Investor-Day-for-December-8-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fbc6c3c240a33494",
+      "titleEn": "Virtus Total Return Fund Inc. Announces Distributions",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260902417492/en/Virtus-Total-Return-Fund-Inc.-Announces-Distributions/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:85e45dc74d844d28",
+      "titleEn": "Virtus Global Multi-Sector Income Fund Announces Distributions",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260902490799/en/Virtus-Global-Multi-Sector-Income-Fund-Announces-Distributions/",
       "published": null
     }
   ]
