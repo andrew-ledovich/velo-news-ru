@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-01T23:51:57.197084Z",
+  "generatedAt": "2026-09-02T01:48:55.400499Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:c21e03ea0d86bf51",
@@ -10,6 +10,24 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-09-01/gold-tests-4311-support-fed-hike-odds-hold-near-66-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c5309890c5fdd73b",
+      "titleEn": "Anthropic Revises Enterprise Data Retention Policy After Customer Pushback",
+      "summaryEn": "Anthropic is changing a data retention policy for business customers following concerns from enterprise users about how their information would be stored and reviewed. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The company announced Tuesday (Sept. 1) it is introducing Enterprise Frontier Safeguards, a system that will give businesses greater control over how their data is reviewed, stored and managed. Anthropic said the system will also allow companies to conduct automated safety monitoring without requiring human review by Anthropic.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-revises-enterprise-data-retention-policy-after-customer-pushback/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f8ba993d8029e17a",
+      "titleEn": "OpenAI Brings Epic Health Records to ChatGPT for Clinicians",
+      "summaryEn": "OpenAI is connecting ChatGPT directly to Epic electronic health records, pushing the artificial intelligence bot deeper into the clinical workflow and giving healthcare workers a way to query patient information without manually assembling the medical history themselves. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Healthcare organizations can now connect their Epic environments to ChatGPT for Healthcare, OpenAI said on a Tuesday (Sept. 1) announcement . Clinicians can pull authorized information from appointment notes, laboratory results, medications and specialist documentation and ask questions across a patient’s record.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-brings-epic-health-records-to-chatgpt-for-clinicians/",
       "published": null
     },
     {
@@ -67,12 +85,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:f23275bee8631da5",
-      "titleEn": "OpenAI Blames Apple for iPhone Maker's Trade Secret Lawsuit",
-      "summaryEn": "In July, Apple sued OpenAI , accusing its one-time partner of stealing trade secrets . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The legal battle continued this week, with Apple now alleging that an OpenAI employee has destroyed evidence in the case, and OpenAI saying Apple has no one to blame for the suit but itself.",
+      "id": "stockanalysis:0efad94e8d419009",
+      "titleEn": "Resources Connection to Participate in Upcoming September Conferences",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-blames-apple-for-iphone-maker-trade-secret-lawsuit/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260901108501/en/Resources-Connection-to-Participate-in-Upcoming-September-Conferences/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4f961ef1698bc35f",
+      "titleEn": "Ono Pharma Enters into a Drug Discovery Partnership with Aitia in Neurological Diseases",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260901390619/en/Ono-Pharma-Enters-into-a-Drug-Discovery-Partnership-with-Aitia-in-Neurological-Diseases/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:20bea20bb440b7d3",
+      "titleEn": "Faraday Future Announced that It has Entered Into Incremental Warrant Termination Agreements With Each March 2025 Financing Investor as It Continues to Make Progress in Reducing Its Debt and Improving Its Capital Structure",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260901991778/en/Faraday-Future-Announced-that-It-has-Entered-Into-Incremental-Warrant-Termination-Agreements-With-Each-March-2025-Financing-Investor-as-It-Continues-to-Make-Progress-in-Reducing-Its-Debt-and-Improving-Its-Capital-Structure/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5bc53c0c06b0f549",
+      "titleEn": "Del Monte Corporation and Riverking Group Announce Joint Venture to Expand Fresh-Cut Fruit Business in China",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260901903360/en/Del-Monte-Corporation-and-Riverking-Group-Announce-Joint-Venture-to-Expand-Fresh-Cut-Fruit-Business-in-China/",
       "published": null
     },
     {
@@ -82,24 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260901684017/en/The-Law-Offices-of-Frank-R.-Cruz-Announces-Investigation-of-Badger-Meter-Inc.-BMI-on-Behalf-of-Investors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9ca20886c9dbf991",
-      "titleEn": "KBRA Assigns Preliminary Ratings to Angel Oak Mortgage Trust 2026-5 (AOMT 2026-5)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901401235/en/KBRA-Assigns-Preliminary-Ratings-to-Angel-Oak-Mortgage-Trust-2026-5-AOMT-2026-5/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:eb826b5ed4441a51",
-      "titleEn": "Everus Completes Acquisition of Epsilon Industries",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260901715567/en/Everus-Completes-Acquisition-of-Epsilon-Industries/",
       "published": null
     }
   ]
