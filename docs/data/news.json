@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-02T23:26:05.755407Z",
+  "generatedAt": "2026-09-03T01:15:43.343375Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:d33c88e64a93ec56",
@@ -19,6 +19,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-09-02/dutch-central-bank-moves-86-tonnes-gold-us-canada-london",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9a121a10ee2875e0",
+      "titleEn": "Gold, silver prices rebound as ADP miss cools Fed-hike trade - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in late-afternoon U.S. trading Wednesday, as softer U.S. private-payrolls data and an intraday pullback in Treasury yields helped precious metals recover from early-session lows. At the time of writing, spot gold was trading near $4,386.70 an ounce, up 1.36%, while spot silver was trading at $65.200, up 1.95% on the session. North American equity markets closed higher as technology shares recovered and bond yields eased from the day’s highs. The S&P 500 rose 35.13 points, or 0.5%, to 7,666.60, the Dow Jones Industrial Average gained 295.07 points, or 0.6%, to 53,061.95, the Nasdaq Composite added 118.05 points, or 0.5%, to 26,217.83, and the Russell 2000 rose 33.03 points, or 1.1%, to 2,953.17. European markets finished lower as elevated energy prices and bond yields weighed on risk appetite. The STOXX Europe 600 fell 0.24% to 645.94, the FTSE 100 declined 0.32% to 10,789, Germany’s DAX dropped 1.14% to 25,958, France’s CAC 40 lost 0.39% to 8,302, and Italy’s FTSE MIB fell 1.33% to 51,915. The latest positioning remains anchored in Friday’s August nonfarm payrolls report, but Wednesday’s data softened the hawkish edge. ADP said private employers added 38,000 jobs in August , below expectations and the weakest reading since January, while the Fed’s Beige Book showed modest economic growth, very slight employment gains and moderate price increases. Fed-hike odds slipped to about 64% from 67%, the two-year Treasury yield eased to 4.383% and the 10-year yield slipped to 4.793% after touching 4.814% earlier in the session. The data were not soft enough to break the September-hike trade, but they did force some short-covering in metals. The next tests are Thursday’s weekly jobless claims and ISM services data, followed by Friday’s payrolls report.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-02/gold-silver-prices-rebound-adp-miss-cools-fed-hike-trade-kitco-pm-report",
       "published": null
     },
     {
@@ -55,15 +64,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-09-02/goldman-sachs-sees-gold-price-4900oz-year-end-investors-hedging-through",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:287c6337e3001b69",
-      "titleEn": "US judge rejects bid to break up Google's ad business",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: A U.S. federal judge on Wednesday refused to force Google to sell a division of its digital advertising business, rejecting the government's push to break up part of the company's ad empire. In a court order, U.S. District Court Judge Leonie Brinkema instead opted for a set of rules governing how Google must operate in the ad market.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-09-google-ad-business.html",
       "published": null
     },
     {
@@ -109,24 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260902257631/en/Nu-Holdings-Announces-Investor-Day-for-December-8-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fbc6c3c240a33494",
-      "titleEn": "Virtus Total Return Fund Inc. Announces Distributions",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260902417492/en/Virtus-Total-Return-Fund-Inc.-Announces-Distributions/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:85e45dc74d844d28",
-      "titleEn": "Virtus Global Multi-Sector Income Fund Announces Distributions",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260902490799/en/Virtus-Global-Multi-Sector-Income-Fund-Announces-Distributions/",
       "published": null
     }
   ]
