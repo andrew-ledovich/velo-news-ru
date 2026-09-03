@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-03T20:59:41.218560Z",
+  "generatedAt": "2026-09-03T23:01:04.713878Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:76c515f1f8bf54a2",
+      "titleEn": "ACI Worldwide to Add Microservices Card Switching Through Cranium Acquisition",
+      "summaryEn": "ACI Worldwide has agreed to acquire Cranium Ventures , a privately held developer of cloud-native card payment switching technology, as it seeks to expand its card-processing capabilities. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); ACI said the acquisition will accelerate its existing roadmap for ACI Connetic for Cards and bring planned card-switching capabilities to market sooner. Its acquiring, issuing, ATM and self-service banking solutions process more than 300 billion card transactions annually, according to the company.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/payment-methods/2026/aci-worldwide-to-add-microservices-card-switching-through-cranium-acquisition/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d37dc39569449d42",
+      "titleEn": "U.S. Treasury's interventions show weakness: ‘Incredibly bullish for gold' – Adrian Day",
+      "summaryEn": "(Kitco News) – While the U.S. Treasury Department has made massive waves with their two recent interventions – one targeting the yen, and the other long-term yields – these did next to nothing to solve the real problems plaguing the dollar and the debt, and gold will be the inevitable beneficiary, according to Adrian Day, president of Adrian Day Asset Management. Day said that while Bessent’s announcement made headlines around the world, it had surprisingly little lasting impact in the one area it was supposed to. “It didn&#x27;t really do much for Treasuries at all, did it?” he said. “Just like the yen intervention at the end of July that didn&#x27;t really do much to the yen [beyond] a couple of days. And it&#x27;s interesting that August was bookended by those two interventions.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-03/us-treasurys-interventions-show-weakness-incredibly-bullish-gold-adrian-day",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c56c6ae86925e04c",
+      "titleEn": "Gold, silver rally as Fed's Waller cuts September hike odds - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply higher in late-afternoon U.S. trading Thursday, as Fed Governor Christopher Waller’s less-hawkish rate comments pulled Treasury yields lower, weakened the U.S. dollar and gave precious metals room to extend Wednesday’s rebound. At the time of writing, spot gold was trading near $4,471.10 an ounce, up 1.92%, while spot silver was trading at $66.830, up 2.49% on the session. North American equity markets closed sharply higher as technology shares led a broad risk rebound. The S&P 500 rose 81.11 points, or 1.1%, to 7,747.71, the Dow Jones Industrial Average gained 624.16 points, or 1.2%, to 53,686.11, and the Nasdaq Composite added 366.23 points, or 1.4%, to 26,584.06. European markets also finished higher, with the STOXX Europe 600 up 0.49% to 649.10. London’s FTSE 100 rose 0.70% to 10,831.52, Germany’s DAX gained 0.63% to 26,003.32, France’s CAC 40 added 0.07% to 8,286.40 and Italy’s FTSE MIB rose 0.88% to 52,245.47. The latest positioning shifted back toward a Fed pause after Waller said he would be inclined to keep rates unchanged if next week’s inflation data continue to cool. September hike odds fell to about 50.4% from 63.2% Wednesday, while the two-year Treasury yield slid to 4.34% and the 10-year yield dropped to 4.77%. The services data were not uniformly dovish: the ISM services index rose to 55.4 in August from 54.1, prices paid climbed to 72.6, the highest reading since October 2022, and employment remained in contraction at 47.8. That mix leaves Friday’s August nonfarm payrolls report and the Sept. 11 CPI release as the next two decisive inputs for Fed pricing. For gold, the signal is constructive but conditional: lower yields and a softer dollar support the rebound, while firm services demand and sticky input prices keep the inflation channel alive.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-03/gold-silver-rally-feds-waller-cuts-september-hike-odds-kitco-pm-report",
+      "published": null
+    },
     {
       "id": "stockanalysis:57abb1b48836aaf3",
       "titleEn": "Anthropic Built the Shopping Brain and Skipped the Wallet",
@@ -85,102 +112,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:3e32e4b9ed029a3a",
-      "titleEn": "US government sides with OpenAI in New York Times copyright lawsuit",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: In late 2023, The New York Times sued ChatGPT-maker OpenAI and Microsoft, its main investor, alleging that the companies' powerful artificial intelligence models used millions of articles for training without permission. The Justice Department said in a 20-page document that the \"creative possibilities and public benefits that (large language model) training advances far outweigh any competitive harm.\"",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-09-sides-openai-york-copyright-lawsuit.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:efb6b8065d97ee7c",
-      "titleEn": "Nvidia Pays $12.9 Billion to Buy and Expand Hugging Face",
-      "summaryEn": "Nvidia agreed to acquire artificial intelligence platform Hugging Face for $12.9 billion, according to a Thursday (Sept. 3) company blog post by Founder and CEO Jensen Huang . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “Together, we will scale Hugging Face’s platform, strengthen its infrastructure, and expand access to AI for developers and institutions worldwide,” the post said.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-pays-13-billion-dollars-buy-expand-hugging-face/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d50f5767c37ec7ba",
-      "titleEn": "Coinbase to Participate in Citi's 2026 Global TMT Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20260903196958/en/Coinbase-to-Participate-in-Citi%E2%80%99s-2026-Global-TMT-Conference/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:24c4c955dd3e1fea",
-      "titleEn": "The Estée Lauder Companies to Participate in the Barclays Global Consumer Conference",
+      "id": "stockanalysis:172d2a56c63f81de",
+      "titleEn": "GMR Solutions Inc. to Present at September Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903056315/en/The-Est%C3%A9e-Lauder-Companies-to-Participate-in-the-Barclays-Global-Consumer-Conference/",
+      "link": "https://www.businesswire.com/news/home/20260903215539/en/GMR-Solutions-Inc.-to-Present-at-September-Conference/",
       "published": null
     },
     {
-      "id": "stockanalysis:3cd3bafea6f9198a",
-      "titleEn": "Gold Reserve Announces Intention to Commence Normal Course Issuer Bid",
+      "id": "stockanalysis:a8664af2889ffbb9",
+      "titleEn": "Yum! Brands, Inc. to Participate in the Barclays Annual Global Consumer Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903759033/en/Gold-Reserve-Announces-Intention-to-Commence-Normal-Course-Issuer-Bid/",
+      "link": "https://www.businesswire.com/news/home/20260903656104/en/Yum%21-Brands-Inc.-to-Participate-in-the-Barclays-Annual-Global-Consumer-Conference/",
       "published": null
     },
     {
-      "id": "stockanalysis:aa550110e893d76b",
-      "titleEn": "ZoomInfo Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+      "id": "stockanalysis:81d4006ae5f4e8ab",
+      "titleEn": "Salesforce Announces Quarterly Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903140043/en/ZoomInfo-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4/",
+      "link": "https://www.businesswire.com/news/home/20260903824334/en/Salesforce-Announces-Quarterly-Dividend/",
       "published": null
     },
     {
-      "id": "stockanalysis:e2070cd5be3ef9c8",
-      "titleEn": "Franklin Templeton, Inc. Announces Preliminary Month-End Assets Under Management",
+      "id": "stockanalysis:88b2a6bcd73ff4b9",
+      "titleEn": "Veradermics to Present at Upcoming September Investor Conferences",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903392591/en/Franklin-Templeton-Inc.-Announces-Preliminary-Month-End-Assets-Under-Management/",
+      "link": "https://www.businesswire.com/news/home/20260903995774/en/Veradermics-to-Present-at-Upcoming-September-Investor-Conferences/",
       "published": null
     },
     {
-      "id": "stockanalysis:e676f3fedfba9d1a",
-      "titleEn": "Jefferies Financial Group Inc. to Host Annual Investor Meeting",
+      "id": "stockanalysis:e58c07e851f1a895",
+      "titleEn": "AIRO To Participate in H.C. Wainwright 28th Annual Global Investment Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903230887/en/Jefferies-Financial-Group-Inc.-to-Host-Annual-Investor-Meeting/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:440f35de4594807c",
-      "titleEn": "REPAY Appoints Charles Nabhan as New Head of Investor Relations",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903218172/en/REPAY-Appoints-Charles-Nabhan-as-New-Head-of-Investor-Relations/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:96f742f8631b76fe",
-      "titleEn": "Compass Pathways Announces New Employee Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260904438987/en/Compass-Pathways-Announces-New-Employee-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9f860d6904bb0086",
-      "titleEn": "bioAffinity Technologies to Participate in the H.C. Wainwright 28th Annual Global Investment Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903308081/en/bioAffinity-Technologies-to-Participate-in-the-H.C.-Wainwright-28th-Annual-Global-Investment-Conference/",
+      "link": "https://www.businesswire.com/news/home/20260903359193/en/AIRO-To-Participate-in-H.C.-Wainwright-28th-Annual-Global-Investment-Conference/",
       "published": null
     }
   ]
