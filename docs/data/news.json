@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-09-03T14:46:37.772579Z",
+  "generatedAt": "2026-09-03T18:11:48.443236Z",
   "sourceCount": 1,
-  "count": 7,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:e05adb2740748853",
+      "titleEn": "Amazon and Walmart Turn Fraud Prevention Into a Retail Product",
+      "summaryEn": "Amazon is moving fraud prevention upstream. Its new Alexa verification feature helps shoppers authenticate suspicious emails, texts and calls before they click, share credentials or send money. Walmart is connecting fraud signals across the shopping journey. By linking identity, transaction, returns and customer-contact data, it is treating fraud less as a payment event and more as a behavioral pattern. The bigger retail shift is from fraud prevention to trust infrastructure. As commerce spreads across more channels and interfaces, Amazon and Walmart are competing to reduce consumer doubt — making verification and safety part of the customer experience itself.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/retail/2026/amazon-and-walmart-turn-fraud-prevention-into-a-retail-product/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:91d9e3efd80ecf48",
+      "titleEn": "Walmart Teams With Dunkin' to Expand Restaurant Delivery",
+      "summaryEn": "Walmart has announced an addition to its three-month-old restaurant delivery service. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); After teaming with Subway on deliveries in June, the retail giant announced Thursday (Sept. 3) that it is expanding the program to include Inspire Brands, a restaurant company whose portfolio includes Dunkin ’.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/delivery/2026/walmart-teams-with-dunkin-to-expand-restaurant-delivery/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a98647869ae8bbfe",
+      "titleEn": "Central banks add 23 net tonnes of gold in July with China and Poland leading purchases – World Gold Council",
+      "summaryEn": "(Kitco News) – Central banks increased allocations to their gold reserves in July, with the Chinese and Polish central banks once again leading all sovereign buyers, according to Marissa Salim, Senior Research Lead, APAC at the World Gold Council (WGC). “Central banks continued their gold accumulation in July with net buying reported at 23t,” Salim wrote in the WGC’s latest update. “Emerging markets have also continued to accumulate gold this month with China (20t) and Poland (8t) taking the lead.” Other significant buyers in July included the Czech National Bank, which purchased two tonnes of gold for its 41st consecutive month of net buying, while the National Bank of Kazakhstan (NBK), Bank Negara Malaysia (BNM) and the Central Bank of Bolivia (CBB) each bought one tonne. “Kazakhstan’s gold holdings stand at 75% of its total reserves,” she noted.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-03/central-banks-add-23-net-tonnes-gold-july-china-and-poland-leading",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:73c0fa254dcf5818",
+      "titleEn": "Fed is ‘all talk, no action' as debt pressure sets stage for higher gold price - AuAg's Eric Strand",
+      "summaryEn": "(Kitco News) - Gold investors may have to endure more volatility as markets continue to wrestle with stubborn inflation and the prospect of higher interest rates, but one fund manager says the market is focused on the wrong question. In an interview with Kitco News, Eric Strand, Founder of AuAg Funds, said it is only a matter of time before gold resumes its long-term uptrend as investors recognize that higher interest rates will do little to address the forces actually driving inflation. Strand said markets have positioned themselves for higher interest rates, which has supported the U.S. dollar and created headwinds for gold. However, he argued that investors are simply reacting to elevated inflation without looking closely enough at what is causing prices to rise.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-03/fed-all-talk-no-action-debt-pressure-sets-stage-higher-gold-price-auags",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3e32e4b9ed029a3a",
+      "titleEn": "US government sides with OpenAI in New York Times copyright lawsuit",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: In late 2023, The New York Times sued ChatGPT-maker OpenAI and Microsoft, its main investor, alleging that the companies' powerful artificial intelligence models used millions of articles for training without permission. The Justice Department said in a 20-page document that the \"creative possibilities and public benefits that (large language model) training advances far outweigh any competitive harm.\"",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-09-sides-openai-york-copyright-lawsuit.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:efb6b8065d97ee7c",
+      "titleEn": "Nvidia Pays $12.9 Billion to Buy and Expand Hugging Face",
+      "summaryEn": "Nvidia agreed to acquire artificial intelligence platform Hugging Face for $12.9 billion, according to a Thursday (Sept. 3) company blog post by Founder and CEO Jensen Huang . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “Together, we will scale Hugging Face’s platform, strengthen its infrastructure, and expand access to AI for developers and institutions worldwide,” the post said.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-pays-13-billion-dollars-buy-expand-hugging-face/",
+      "published": null
+    },
     {
       "id": "stockanalysis:b490cefb76a94354",
       "titleEn": "Gold price at $4,463/oz after ISM Services PMI rises to 55.4 in August",
@@ -31,39 +85,66 @@
       "published": null
     },
     {
-      "id": "stockanalysis:2893e3e9dce0d9b4",
-      "titleEn": "Why is HPE stock falling despite stronger-than-expected results, raised guidance?",
+      "id": "stockanalysis:029e08694d7db403",
+      "titleEn": "Cushman &amp; Wakefield Releases 2026 Data Center Development Cost Guide, Citing 21% Rise in Per-MW Construction Costs",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/03/why-is-hpe-stock-falling-despite-stronger-than-expected-results-raised-guidance/",
+      "link": "https://www.businesswire.com/news/home/20260903969305/en/Cushman-Wakefield-Releases-2026-Data-Center-Development-Cost-Guide-Citing-21-Rise-in-Per-MW-Construction-Costs/",
       "published": null
     },
     {
-      "id": "stockanalysis:5353cd28e93cdfef",
-      "titleEn": "Broadcom's AI revenue surged 221%, so why did the stock tumble 5%?",
+      "id": "stockanalysis:2c9248339ab0e573",
+      "titleEn": "APFC Board Approves Audited FY26 Financials and Advances FY28 Budget Proposal",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260903803395/en/APFC-Board-Approves-Audited-FY26-Financials-and-Advances-FY28-Budget-Proposal/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5b754e4202449bea",
+      "titleEn": "Workato and Lenovo Announce Strategic Collaboration to Expand Lenovo Qira's Cross-App Capabilities",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260903978741/en/Workato-and-Lenovo-Announce-Strategic-Collaboration-to-Expand-Lenovo-Qiras-Cross-App-Capabilities/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0340783cc943b0d4",
+      "titleEn": "Roblox Creators Added $752 Million to the U.S. Economy in 2025, a 69% Increase From 2024",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260903230812/en/Roblox-Creators-Added-752-Million-to-the-U.S.-Economy-in-2025-a-69-Increase-From-2024%C2%A0/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2174977230410e86",
+      "titleEn": "Lenovo Advances Hybrid AI Across New Personal and Enterprise Technology",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/03/broadcoms-ai-revenue-surged-221-so-why-did-the-stock-tumble-5/",
+      "link": "https://www.businesswire.com/news/home/20260903555953/en/Lenovo-Advances-Hybrid-AI-Across-New-Personal-and-Enterprise-Technology/",
       "published": null
     },
     {
-      "id": "stockanalysis:2ce3a32dcb9aa766",
-      "titleEn": "Tractor Supply Recognizes 2026 Top Vendor Partners During Annual Partnership Conference",
+      "id": "stockanalysis:d6be3c4ce3f449db",
+      "titleEn": "MIND 24-7 Chooses Netsmart as Purpose-Built Technology Platform for Behavioral Health and Crisis Services",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903793966/en/Tractor-Supply-Recognizes-2026-Top-Vendor-Partners-During-Annual-Partnership-Conference/",
+      "link": "https://www.businesswire.com/news/home/20260903599569/en/MIND-24-7-Chooses-Netsmart-as-Purpose-Built-Technology-Platform-for-Behavioral-Health-and-Crisis-Services/",
       "published": null
     },
     {
-      "id": "stockanalysis:a95f6f2af29f5307",
-      "titleEn": "Mobix Labs Lands 1,500-Component Gulfstream Order",
+      "id": "stockanalysis:1cf84e4f3e874cdf",
+      "titleEn": "Dialpad Earns 2026 Great Place To Work Certification™",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903600029/en/Mobix-Labs-Lands-1500-Component-Gulfstream-Order/",
+      "link": "https://www.businesswire.com/news/home/20260820669253/en/Dialpad-Earns-2026-Great-Place-To-Work-Certification%E2%84%A2/",
       "published": null
     }
   ]
