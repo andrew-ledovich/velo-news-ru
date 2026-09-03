@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-09-03T01:15:43.343375Z",
+  "generatedAt": "2026-09-03T05:59:24.975102Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:2fae2045260c25dd",
+      "titleEn": "KOSPI jumps, Nikkei hesitates as Asia tests whether the bond rout is over",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/03/kospi-jumps-nikkei-hesitates-as-asia-tests-whether-the-bond-rout-is-over/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:34947c80419a3443",
+      "titleEn": "Dell stock looks stronger than ever, but one financial line is moving the other way",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/03/dell-stock-looks-stronger-than-ever-but-one-financial-line-is-moving-the-other-way/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a19fa05b27fdd67a",
+      "titleEn": "Samsung, SK Hynix rebound after selloff: why Dell's 16% surge matters",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/03/samsung-sk-hynix-rebound-after-selloff-why-dells-16-surge-matters/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b994455089ddba9d",
+      "titleEn": "John Ternus takes over as Apple enters era of AI, foldable phones",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: John Ternus took over as Apple's chief executive on Tuesday, inheriting a company that towers over the smartphone market but trails its rivals in artificial intelligence. One of his biggest challenges will be balancing the company's dependence on China while parrying acute political pressure from the White House.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-09-john-ternus-apple-era-ai.html",
+      "published": null
+    },
     {
       "id": "stockanalysis:d33c88e64a93ec56",
       "titleEn": "Schroders turns bullish on gold as debt, inflation and currency risks outweigh elevated real yields",
@@ -49,66 +85,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:9a78a9ad703102d1",
-      "titleEn": "AST SpaceMobile stock soars 11% as this analyst starts coverage",
+      "id": "stockanalysis:27b64c98a9422c8c",
+      "titleEn": "TiVo OS Unveils Major Platform Enhancements at IFA 2026, Expanding AI-Powered Discovery, Free Streaming, Live Sports and Interactive TV Experiences",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/02/ast-spacemobile-stock-soars-11-as-this-analyst-starts-coverage/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260902462819/en/TiVo-OS-Unveils-Major-Platform-Enhancements-at-IFA-2026-Expanding-AI-Powered-Discovery-Free-Streaming-Live-Sports-and-Interactive-TV-Experiences/",
       "published": null
     },
     {
-      "id": "stockanalysis:4cac556534fb8de9",
-      "titleEn": "Goldman Sachs sees gold price at $4,900/oz by year-end, but investors hedging through gold derivatives could drive it even higher",
-      "summaryEn": "(Kitco News) – Gold prices will rise to $4,900 per ounce by the end of 2026 amid strong demand from central banks seeking to diversify their foreign currency reserves, while investors using gold derivatives to hedge may be making the yellow metal more volatile, according to Goldman Sachs Research. “Gold is projected to extend its recent gains in the second half of 2026, even as growing use of some derivatives tied to the metal could be making gold prices more volatile,” according to Lina Thomas and Daan Struyven at Goldman Sachs Research. The firm forecasts the precious metal’s price will rise to $4,900 per ounce by the end of the year as central banks continue diversifying their reserves and markets scale back expectations for U.S. rate hikes in 2026.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-02/goldman-sachs-sees-gold-price-4900oz-year-end-investors-hedging-through",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:55dc47d6a924627f",
-      "titleEn": "Walker &amp; Dunlop Arranges $390 Million Construction Financing for Park Tower in Jersey City",
+      "id": "stockanalysis:5aac71039da3798b",
+      "titleEn": "Faraday Future Advances Its “Built in USA” Strategy, Participates in the FCC's Public-Comment Process, and Signs a U.S. Compliance and Localization Advisory Agreement with AIBOT",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260902297145/en/Walker-Dunlop-Arranges-390-Million-Construction-Financing-for-Park-Tower-in-Jersey-City/",
+      "link": "https://www.businesswire.com/news/home/20260902758653/en/Faraday-Future-Advances-Its-%E2%80%9CBuilt-in-USA%E2%80%9D-Strategy-Participates-in-the-FCC%E2%80%99s-Public-Comment-Process-and-Signs-a-U.S.-Compliance-and-Localization-Advisory-Agreement-with-AIBOT/",
       "published": null
     },
     {
-      "id": "stockanalysis:57efd350ad28dad0",
-      "titleEn": "Virtus Convertible &amp; Income Fund II Announces Quarterly Distribution: 5.500% Series A Cumulative Preferred Shares",
+      "id": "stockanalysis:e5c7afb5af1c2569",
+      "titleEn": "GeoPark Announces Major Strategic Entry Into Venezuela",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260902497578/en/Virtus-Convertible-Income-Fund-II-Announces-Quarterly-Distribution-5.500-Series-A-Cumulative-Preferred-Shares/",
+      "link": "https://www.businesswire.com/news/home/20260902615438/en/GeoPark-Announces-Major-Strategic-Entry-Into-Venezuela/",
       "published": null
     },
     {
-      "id": "stockanalysis:fa6e80f21de26b6a",
-      "titleEn": "Ivonescimab Monotherapy Demonstrates Statistically Significant Overall Survival Benefit Compared to Pembrolizumab Monotherapy in PD-L1-Positive Advanced NSCLC in HARMONi-2 Study Conducted by Akeso in China",
+      "id": "stockanalysis:a81f467fe005f5f7",
+      "titleEn": "BitGo Opens New Singapore Office, Deepening Commitment to Asia Pacific",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260902840786/en/Ivonescimab-Monotherapy-Demonstrates-Statistically-Significant-Overall-Survival-Benefit-Compared-to-Pembrolizumab-Monotherapy-in-PD-L1-Positive-Advanced-NSCLC-in-HARMONi-2-Study-Conducted-by-Akeso-in-China/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ece9c26151302940",
-      "titleEn": "Virtus Convertible &amp; Income Fund Announces Quarterly Distribution: 5.625% Series A Cumulative Preferred Shares",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260902041418/en/Virtus-Convertible-Income-Fund-Announces-Quarterly-Distribution-5.625-Series-A-Cumulative-Preferred-Shares/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:043d26c08837ace1",
-      "titleEn": "Nu Holdings Announces Investor Day for December 8, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260902257631/en/Nu-Holdings-Announces-Investor-Day-for-December-8-2026/",
+      "link": "https://www.businesswire.com/news/home/20260902319591/en/BitGo-Opens-New-Singapore-Office-Deepening-Commitment-to-Asia-Pacific/",
       "published": null
     }
   ]
