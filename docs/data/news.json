@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-03T10:46:38.823161Z",
+  "generatedAt": "2026-09-03T14:46:37.772579Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 7,
   "items": [
+    {
+      "id": "stockanalysis:b490cefb76a94354",
+      "titleEn": "Gold price at $4,463/oz after ISM Services PMI rises to 55.4 in August",
+      "summaryEn": "(Kitco News) – The U.S. service sector improved above expectations last month, according to the latest data from the Institute for Supply Management (ISM). The ISM announced on Thursday morning that its Services Purchasing Managers Index came in at 55.4 in August, up from 54.1 in July. The data was better than expected, as economists were looking for a reading of 54.3. Readings above 50 in such diffusion indexes signify economic growth and vice versa. The farther an indicator is above or below 50, the greater or smaller the rate of change.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-03/gold-price-4463oz-after-ism-services-pmi-rises-554-august",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2a0f96b8a7739e82",
+      "titleEn": "Gold price nears $4,500 as jobs data, Waller ease yield pressure - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Thursday, as softer labor-market signals, a pullback in Treasury yields and a less-hawkish tone from Fed Governor Christopher Waller helped precious metals extend Wednesday’s rebound. At the time of writing, spot gold was trading near $4,488.80 an ounce, up 2.28%, while spot silver was trading at $66.550, up 1.88% on the session. The latest positioning remains centered on whether Friday’s August employment report can confirm enough labor-market softness to challenge the September rate-hike trade. Weekly jobless claims rose to 206,000 from a revised 204,000 , while continuing claims rose to 1.779 million, keeping the labor market in a low-layoff but slow-hiring pattern. Waller said inflation remains meaningfully above the Fed’s 2% target, but added that he would support holding rates steady if disinflation continues in the data due over the next 2 weeks. The market is still pricing a roughly 60% to 65% chance of a September hike, down from the highs reached during this week’s oil-and-yield shock. The 10-year Treasury yield is trading near 4.77%, below Wednesday’s peak near 4.81%, while the two-year yield has eased to about 4.36%. The next tests are today’s ISM services report at 10 a.m. ET and Friday’s payrolls report at 8:30 a.m. ET. Gold and silver are trading as relief candidates after a sharp rates-driven selloff. Gold has rebounded from the $4,301 area and is pressing the $4,422 to $4,465 resistance zone identified in the latest technical work, while silver is trying to stabilize near the $66.00 decision level after Wednesday’s bounce from $63.70. The move is still conditional. A softer dollar and lower Treasury yields are helping, but the metals complex remains exposed if services activity is firm, payrolls surprise to the upside or oil keeps inflation expectations elevated.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-03/gold-price-nears-4500-jobs-data-waller-ease-yield-pressure-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a1ce9949763cf579",
+      "titleEn": "Gold price rally looks beyond stable U.S. weekly jobless claims",
+      "summaryEn": "(Kitco News) - Some stability in the U.S. labor market, as the number of American workers applying for first-time unemployment benefits remains relatively unchanged for the fourth consecutive week, is doing little to derail renewed momentum in the gold market. Initial claims for state unemployment benefits came in at a seasonally adjusted 206,000 for the week ending August 29, the Labor Department announced Thursday. The number was in line with expectations. The previous week’s figure was revised slightly higher to 204,000 claims, compared with the previously reported 203,000. After a slow start to the week, bullish momentum has started to pick up in the gold market after two disappointing employment reports raised concerns about the health of the labor market. Spot gold last traded at $4,466.90 an ounce, up nearly 2% on the day.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-03/gold-price-rally-looks-beyond-stable-us-weekly-jobless-claims",
+      "published": null
+    },
     {
       "id": "stockanalysis:2893e3e9dce0d9b4",
       "titleEn": "Why is HPE stock falling despite stronger-than-expected results, raised guidance?",
@@ -22,120 +49,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:93b7ba145d04562e",
-      "titleEn": "Why Jim Cramer thinks Nvidia needs an Apple-style $500 billion stock buyback",
+      "id": "stockanalysis:2ce3a32dcb9aa766",
+      "titleEn": "Tractor Supply Recognizes 2026 Top Vendor Partners During Annual Partnership Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/03/why-jim-cramer-thinks-nvidia-needs-an-apple-style-500-billion-stock-buyback/",
+      "link": "https://www.businesswire.com/news/home/20260903793966/en/Tractor-Supply-Recognizes-2026-Top-Vendor-Partners-During-Annual-Partnership-Conference/",
       "published": null
     },
     {
-      "id": "stockanalysis:2fae2045260c25dd",
-      "titleEn": "KOSPI jumps, Nikkei hesitates as Asia tests whether the bond rout is over",
+      "id": "stockanalysis:a95f6f2af29f5307",
+      "titleEn": "Mobix Labs Lands 1,500-Component Gulfstream Order",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/03/kospi-jumps-nikkei-hesitates-as-asia-tests-whether-the-bond-rout-is-over/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:34947c80419a3443",
-      "titleEn": "Dell stock looks stronger than ever, but one financial line is moving the other way",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/03/dell-stock-looks-stronger-than-ever-but-one-financial-line-is-moving-the-other-way/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a19fa05b27fdd67a",
-      "titleEn": "Samsung, SK Hynix rebound after selloff: why Dell's 16% surge matters",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/03/samsung-sk-hynix-rebound-after-selloff-why-dells-16-surge-matters/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b994455089ddba9d",
-      "titleEn": "John Ternus takes over as Apple enters era of AI, foldable phones",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: John Ternus took over as Apple's chief executive on Tuesday, inheriting a company that towers over the smartphone market but trails its rivals in artificial intelligence. One of his biggest challenges will be balancing the company's dependence on China while parrying acute political pressure from the White House.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-09-john-ternus-apple-era-ai.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d33c88e64a93ec56",
-      "titleEn": "Schroders turns bullish on gold as debt, inflation and currency risks outweigh elevated real yields",
-      "summaryEn": "(Kitco News) - After taking profits and moving to the sidelines in May, analysts at Schroders announced in late August that they had upgraded their view on gold , re-establishing a position in the precious metal. The London-based asset manager said it sees an increasingly attractive medium-term opportunity despite elevated real yields and gold’s recent rally. In its latest multi-asset outlook, Schroders upgraded gold to positive, highlighting a combination of strong structural demand, improved speculative positioning and persistent concerns surrounding inflation, sovereign debt and currency stability.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-02/schroders-turns-bullish-gold-debt-inflation-and-currency-risks-outweigh",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6159ad2ca6e15065",
-      "titleEn": "Dutch central bank moves 86 tonnes of gold from U.S., Canada to London",
-      "summaryEn": "(Kitco News) - Against a backdrop of growing economic and geopolitical uncertainty, including rising trade tensions between Canada and the U.S., one European central bank is taking steps to improve the liquidity and accessibility of its gold reserves, moving some of its holdings from New York and Ottawa to London. Wednesday, the Dutch central bank, De Nederlandsche Bank (DNB), said it has moved 86 of its 313 tonnes of gold from the U.S. and Canada to London. The DNB said it moved the gold to strengthen its crisis preparedness and improve the liquidity and tradability of its reserves. The central bank said that its gold reserves held in New York and Ottawa cannot be utilised as quickly and directly in such a situation.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-02/dutch-central-bank-moves-86-tonnes-gold-us-canada-london",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9a121a10ee2875e0",
-      "titleEn": "Gold, silver prices rebound as ADP miss cools Fed-hike trade - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in late-afternoon U.S. trading Wednesday, as softer U.S. private-payrolls data and an intraday pullback in Treasury yields helped precious metals recover from early-session lows. At the time of writing, spot gold was trading near $4,386.70 an ounce, up 1.36%, while spot silver was trading at $65.200, up 1.95% on the session. North American equity markets closed higher as technology shares recovered and bond yields eased from the day’s highs. The S&P 500 rose 35.13 points, or 0.5%, to 7,666.60, the Dow Jones Industrial Average gained 295.07 points, or 0.6%, to 53,061.95, the Nasdaq Composite added 118.05 points, or 0.5%, to 26,217.83, and the Russell 2000 rose 33.03 points, or 1.1%, to 2,953.17. European markets finished lower as elevated energy prices and bond yields weighed on risk appetite. The STOXX Europe 600 fell 0.24% to 645.94, the FTSE 100 declined 0.32% to 10,789, Germany’s DAX dropped 1.14% to 25,958, France’s CAC 40 lost 0.39% to 8,302, and Italy’s FTSE MIB fell 1.33% to 51,915. The latest positioning remains anchored in Friday’s August nonfarm payrolls report, but Wednesday’s data softened the hawkish edge. ADP said private employers added 38,000 jobs in August , below expectations and the weakest reading since January, while the Fed’s Beige Book showed modest economic growth, very slight employment gains and moderate price increases. Fed-hike odds slipped to about 64% from 67%, the two-year Treasury yield eased to 4.383% and the 10-year yield slipped to 4.793% after touching 4.814% earlier in the session. The data were not soft enough to break the September-hike trade, but they did force some short-covering in metals. The next tests are Thursday’s weekly jobless claims and ISM services data, followed by Friday’s payrolls report.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-02/gold-silver-prices-rebound-adp-miss-cools-fed-hike-trade-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:65d6991982db564b",
-      "titleEn": "Anthropic Gives Retailers Blueprint for AI Shopping Agents",
-      "summaryEn": "Anthropic is giving retailers a set of blueprints to build artificial intelligence agents that can help shoppers find products and assist merchants with tasks including inventory, pricing and marketing, as retailers prepare for the holiday shopping season. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The AI company announced the blueprint Wednesday (Sept. 2). Reuters reported that the initiative comes as shoppers increasingly use AI to compare prices, check product availability and get recommendations. Adobe Analytics said last month that visits to retail sites driven by artificial intelligence were converting at a 60% higher rate than traffic from other sources, according to Reuters.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-gives-retailers-blueprint-for-ai-shopping-agents/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:66f1feb6f5766773",
-      "titleEn": "Ermenegildo Zegna Group Reports First Half 2026 Revenues of €987 Million With Profit at €28 Million and Adjusted EBIT at €74 Million",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903532282/en/Ermenegildo-Zegna-Group-Reports-First-Half-2026-Revenues-of-%E2%82%AC987-Million-With-Profit-at-%E2%82%AC28-Million-and-Adjusted-EBIT-at-%E2%82%AC74-Million/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5625362ab1808631",
-      "titleEn": "American Healthcare REIT Acquires Eight Senior Housing Communities for $696 Million, Establishing East Coast Platform and New Partnership with LCB Senior Living",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903034725/en/American-Healthcare-REIT-Acquires-Eight-Senior-Housing-Communities-for-696-Million-Establishing-East-Coast-Platform-and-New-Partnership-with-LCB-Senior-Living/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:be37dc370bf7bbf8",
-      "titleEn": "Trane Technologies to Present at the Morgan Stanley Laguna Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903055960/en/Trane-Technologies-to-Present-at-the-Morgan-Stanley-Laguna-Conference/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:64b35aafd5d9efc6",
-      "titleEn": "VinFast VF 9 Is Ready for Canada's Summer Tradition",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903865392/en/VinFast-VF-9-Is-Ready-for-Canada%E2%80%99s-Summer-Tradition/",
+      "link": "https://www.businesswire.com/news/home/20260903600029/en/Mobix-Labs-Lands-1500-Component-Gulfstream-Order/",
       "published": null
     }
   ]
