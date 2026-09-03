@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-03T05:59:24.975102Z",
+  "generatedAt": "2026-09-03T10:46:38.823161Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:2893e3e9dce0d9b4",
+      "titleEn": "Why is HPE stock falling despite stronger-than-expected results, raised guidance?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/03/why-is-hpe-stock-falling-despite-stronger-than-expected-results-raised-guidance/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5353cd28e93cdfef",
+      "titleEn": "Broadcom's AI revenue surged 221%, so why did the stock tumble 5%?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/03/broadcoms-ai-revenue-surged-221-so-why-did-the-stock-tumble-5/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:93b7ba145d04562e",
+      "titleEn": "Why Jim Cramer thinks Nvidia needs an Apple-style $500 billion stock buyback",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/03/why-jim-cramer-thinks-nvidia-needs-an-apple-style-500-billion-stock-buyback/",
+      "published": null
+    },
     {
       "id": "stockanalysis:2fae2045260c25dd",
       "titleEn": "KOSPI jumps, Nikkei hesitates as Asia tests whether the bond rout is over",
@@ -76,48 +103,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:d7f93b80ac84583b",
-      "titleEn": "Uber says it is laying off 'about 10%' of its workforce worldwide",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Ride-hailing giant Uber will lay off about 10% of its staff as part of \"significant organizational changes,\" CEO Dara Khosrowshahi said in a message to employees released Wednesday. \"Today, we're making a number of significant organizational changes across Uber,\" Khosrowshahi said. \"As a result, we will be reducing the size of our team by about 10%.\"",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-09-uber-laying-workforce-worldwide.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:27b64c98a9422c8c",
-      "titleEn": "TiVo OS Unveils Major Platform Enhancements at IFA 2026, Expanding AI-Powered Discovery, Free Streaming, Live Sports and Interactive TV Experiences",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260902462819/en/TiVo-OS-Unveils-Major-Platform-Enhancements-at-IFA-2026-Expanding-AI-Powered-Discovery-Free-Streaming-Live-Sports-and-Interactive-TV-Experiences/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5aac71039da3798b",
-      "titleEn": "Faraday Future Advances Its “Built in USA” Strategy, Participates in the FCC's Public-Comment Process, and Signs a U.S. Compliance and Localization Advisory Agreement with AIBOT",
+      "id": "stockanalysis:66f1feb6f5766773",
+      "titleEn": "Ermenegildo Zegna Group Reports First Half 2026 Revenues of €987 Million With Profit at €28 Million and Adjusted EBIT at €74 Million",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260902758653/en/Faraday-Future-Advances-Its-%E2%80%9CBuilt-in-USA%E2%80%9D-Strategy-Participates-in-the-FCC%E2%80%99s-Public-Comment-Process-and-Signs-a-U.S.-Compliance-and-Localization-Advisory-Agreement-with-AIBOT/",
+      "link": "https://www.businesswire.com/news/home/20260903532282/en/Ermenegildo-Zegna-Group-Reports-First-Half-2026-Revenues-of-%E2%82%AC987-Million-With-Profit-at-%E2%82%AC28-Million-and-Adjusted-EBIT-at-%E2%82%AC74-Million/",
       "published": null
     },
     {
-      "id": "stockanalysis:e5c7afb5af1c2569",
-      "titleEn": "GeoPark Announces Major Strategic Entry Into Venezuela",
+      "id": "stockanalysis:5625362ab1808631",
+      "titleEn": "American Healthcare REIT Acquires Eight Senior Housing Communities for $696 Million, Establishing East Coast Platform and New Partnership with LCB Senior Living",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260902615438/en/GeoPark-Announces-Major-Strategic-Entry-Into-Venezuela/",
+      "link": "https://www.businesswire.com/news/home/20260903034725/en/American-Healthcare-REIT-Acquires-Eight-Senior-Housing-Communities-for-696-Million-Establishing-East-Coast-Platform-and-New-Partnership-with-LCB-Senior-Living/",
       "published": null
     },
     {
-      "id": "stockanalysis:a81f467fe005f5f7",
-      "titleEn": "BitGo Opens New Singapore Office, Deepening Commitment to Asia Pacific",
+      "id": "stockanalysis:be37dc370bf7bbf8",
+      "titleEn": "Trane Technologies to Present at the Morgan Stanley Laguna Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260902319591/en/BitGo-Opens-New-Singapore-Office-Deepening-Commitment-to-Asia-Pacific/",
+      "link": "https://www.businesswire.com/news/home/20260903055960/en/Trane-Technologies-to-Present-at-the-Morgan-Stanley-Laguna-Conference/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:64b35aafd5d9efc6",
+      "titleEn": "VinFast VF 9 Is Ready for Canada's Summer Tradition",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260903865392/en/VinFast-VF-9-Is-Ready-for-Canada%E2%80%99s-Summer-Tradition/",
       "published": null
     }
   ]
