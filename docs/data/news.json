@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-09-03T18:11:48.443236Z",
+  "generatedAt": "2026-09-03T20:59:41.218560Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 20,
   "items": [
+    {
+      "id": "stockanalysis:57abb1b48836aaf3",
+      "titleEn": "Anthropic Built the Shopping Brain and Skipped the Wallet",
+      "summaryEn": "Anthropic launched a blueprint that lets any retailer build an AI shopping agent on Claude. Shopify and Priceline already run live agents on the technology. The company says carts run up to 35% larger and shoppers are 60% more likely to complete a purchase. Those are the Anthropic’s own reported figures, not an independent benchmark. Anthropic built the shopping brain but skipped the wallet entirely. The blueprint carries no payment protocol, no checkout and no ad layer, leaving all of that to retailers and partners such as Visa and Mastercard.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-built-the-shopping-brain-and-skipped-the-wallet/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:476e4d58b1182939",
+      "titleEn": "Apple faces £2 billion lawsuit in UK over app privacy feature",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Apple faces a £2 billion ($2.7 billion) lawsuit brought by UK app developers who on Thursday accused the U.S. tech giant of giving its own advertising services an unfair advantage by imposing tougher privacy rules on third parties. The claim, filed with the Competition Appeal Tribunal by law firm Hausfeld, centers on Apple's App Tracking Transparency (ATT) system, which has also come under scrutiny in several European countries.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-09-apple-billion-lawsuit-uk-app.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:480486174f2b5a7b",
+      "titleEn": "It's time to get bullish on gold again, says SocGen",
+      "summaryEn": "(Kitco News) - The gold market is once again testing initial resistance at $4,500 an ounce, and one international investment bank believes that now is the time to get back into the market as they continue to see a gradual recovery from gold&#x27;s months-long correction. In their latest market report, analysts at Société Générale said that after decreasing their gold position in the first half of the year, the precious metal is looking attractive again. “ Gold has recently rebounded towards $4,500/oz following sharp corrections triggered by the US-Israel-Iran conflict and rising Fed rate hike expectations. At the same time, volatility has normalised, speculative positioning has recovered above its two-year average, and the GLD put/call ratio has fallen to a six-month low, signalling a renewal in bullish sentiment,” the analysts said.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-03/its-time-get-bullish-gold-again-says-socgen",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8eec5bcdec1010ea",
+      "titleEn": "FIS Debuts Embedded Finance Platform Geared Toward Banks",
+      "summaryEn": "Financial services technology company FIS has launched its embedded banking platform. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The platform is the company’s first embedded finance offering created especially for banks, letting lenders offer banking services directly within the business software used by corporate customers, FIS said in a Thursday (Sept. 3) news release .",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/fis-debuts-embedded-finance-platform-geared-toward-banks/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2bea73447a4e0960",
+      "titleEn": "Anthropic Breaks With Peers on Massachusetts AI Safety Bill",
+      "summaryEn": "Anthropic has reportedly broken with other tech giants over a new Massachusetts AI regulation. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The proposal before that state’s senate would require artificial intelligence (AI) developers to hire independent evaluators to assess their models for the potential catastrophic risks every four months, The Information reported Thursday (Sept. 3).",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-breaks-with-peers-on-massachusetts-ai-safety-bill/",
+      "published": null
+    },
     {
       "id": "stockanalysis:e05adb2740748853",
       "titleEn": "Amazon and Walmart Turn Fraud Prevention Into a Retail Product",
@@ -58,93 +103,84 @@
       "published": null
     },
     {
-      "id": "stockanalysis:b490cefb76a94354",
-      "titleEn": "Gold price at $4,463/oz after ISM Services PMI rises to 55.4 in August",
-      "summaryEn": "(Kitco News) – The U.S. service sector improved above expectations last month, according to the latest data from the Institute for Supply Management (ISM). The ISM announced on Thursday morning that its Services Purchasing Managers Index came in at 55.4 in August, up from 54.1 in July. The data was better than expected, as economists were looking for a reading of 54.3. Readings above 50 in such diffusion indexes signify economic growth and vice versa. The farther an indicator is above or below 50, the greater or smaller the rate of change.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-03/gold-price-4463oz-after-ism-services-pmi-rises-554-august",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2a0f96b8a7739e82",
-      "titleEn": "Gold price nears $4,500 as jobs data, Waller ease yield pressure - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Thursday, as softer labor-market signals, a pullback in Treasury yields and a less-hawkish tone from Fed Governor Christopher Waller helped precious metals extend Wednesday’s rebound. At the time of writing, spot gold was trading near $4,488.80 an ounce, up 2.28%, while spot silver was trading at $66.550, up 1.88% on the session. The latest positioning remains centered on whether Friday’s August employment report can confirm enough labor-market softness to challenge the September rate-hike trade. Weekly jobless claims rose to 206,000 from a revised 204,000 , while continuing claims rose to 1.779 million, keeping the labor market in a low-layoff but slow-hiring pattern. Waller said inflation remains meaningfully above the Fed’s 2% target, but added that he would support holding rates steady if disinflation continues in the data due over the next 2 weeks. The market is still pricing a roughly 60% to 65% chance of a September hike, down from the highs reached during this week’s oil-and-yield shock. The 10-year Treasury yield is trading near 4.77%, below Wednesday’s peak near 4.81%, while the two-year yield has eased to about 4.36%. The next tests are today’s ISM services report at 10 a.m. ET and Friday’s payrolls report at 8:30 a.m. ET. Gold and silver are trading as relief candidates after a sharp rates-driven selloff. Gold has rebounded from the $4,301 area and is pressing the $4,422 to $4,465 resistance zone identified in the latest technical work, while silver is trying to stabilize near the $66.00 decision level after Wednesday’s bounce from $63.70. The move is still conditional. A softer dollar and lower Treasury yields are helping, but the metals complex remains exposed if services activity is firm, payrolls surprise to the upside or oil keeps inflation expectations elevated.",
+      "id": "stockanalysis:d50f5767c37ec7ba",
+      "titleEn": "Coinbase to Participate in Citi's 2026 Global TMT Conference",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-03/gold-price-nears-4500-jobs-data-waller-ease-yield-pressure-kitco-am-report",
+      "link": "https://www.businesswire.com/news/home/20260903196958/en/Coinbase-to-Participate-in-Citi%E2%80%99s-2026-Global-TMT-Conference/",
       "published": null
     },
     {
-      "id": "stockanalysis:a1ce9949763cf579",
-      "titleEn": "Gold price rally looks beyond stable U.S. weekly jobless claims",
-      "summaryEn": "(Kitco News) - Some stability in the U.S. labor market, as the number of American workers applying for first-time unemployment benefits remains relatively unchanged for the fourth consecutive week, is doing little to derail renewed momentum in the gold market. Initial claims for state unemployment benefits came in at a seasonally adjusted 206,000 for the week ending August 29, the Labor Department announced Thursday. The number was in line with expectations. The previous week’s figure was revised slightly higher to 204,000 claims, compared with the previously reported 203,000. After a slow start to the week, bullish momentum has started to pick up in the gold market after two disappointing employment reports raised concerns about the health of the labor market. Spot gold last traded at $4,466.90 an ounce, up nearly 2% on the day.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-03/gold-price-rally-looks-beyond-stable-us-weekly-jobless-claims",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:029e08694d7db403",
-      "titleEn": "Cushman &amp; Wakefield Releases 2026 Data Center Development Cost Guide, Citing 21% Rise in Per-MW Construction Costs",
+      "id": "stockanalysis:24c4c955dd3e1fea",
+      "titleEn": "The Estée Lauder Companies to Participate in the Barclays Global Consumer Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903969305/en/Cushman-Wakefield-Releases-2026-Data-Center-Development-Cost-Guide-Citing-21-Rise-in-Per-MW-Construction-Costs/",
+      "link": "https://www.businesswire.com/news/home/20260903056315/en/The-Est%C3%A9e-Lauder-Companies-to-Participate-in-the-Barclays-Global-Consumer-Conference/",
       "published": null
     },
     {
-      "id": "stockanalysis:2c9248339ab0e573",
-      "titleEn": "APFC Board Approves Audited FY26 Financials and Advances FY28 Budget Proposal",
+      "id": "stockanalysis:3cd3bafea6f9198a",
+      "titleEn": "Gold Reserve Announces Intention to Commence Normal Course Issuer Bid",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903803395/en/APFC-Board-Approves-Audited-FY26-Financials-and-Advances-FY28-Budget-Proposal/",
+      "link": "https://www.businesswire.com/news/home/20260903759033/en/Gold-Reserve-Announces-Intention-to-Commence-Normal-Course-Issuer-Bid/",
       "published": null
     },
     {
-      "id": "stockanalysis:5b754e4202449bea",
-      "titleEn": "Workato and Lenovo Announce Strategic Collaboration to Expand Lenovo Qira's Cross-App Capabilities",
+      "id": "stockanalysis:aa550110e893d76b",
+      "titleEn": "ZoomInfo Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903978741/en/Workato-and-Lenovo-Announce-Strategic-Collaboration-to-Expand-Lenovo-Qiras-Cross-App-Capabilities/",
+      "link": "https://www.businesswire.com/news/home/20260903140043/en/ZoomInfo-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4/",
       "published": null
     },
     {
-      "id": "stockanalysis:0340783cc943b0d4",
-      "titleEn": "Roblox Creators Added $752 Million to the U.S. Economy in 2025, a 69% Increase From 2024",
+      "id": "stockanalysis:e2070cd5be3ef9c8",
+      "titleEn": "Franklin Templeton, Inc. Announces Preliminary Month-End Assets Under Management",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903230812/en/Roblox-Creators-Added-752-Million-to-the-U.S.-Economy-in-2025-a-69-Increase-From-2024%C2%A0/",
+      "link": "https://www.businesswire.com/news/home/20260903392591/en/Franklin-Templeton-Inc.-Announces-Preliminary-Month-End-Assets-Under-Management/",
       "published": null
     },
     {
-      "id": "stockanalysis:2174977230410e86",
-      "titleEn": "Lenovo Advances Hybrid AI Across New Personal and Enterprise Technology",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260903555953/en/Lenovo-Advances-Hybrid-AI-Across-New-Personal-and-Enterprise-Technology/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d6be3c4ce3f449db",
-      "titleEn": "MIND 24-7 Chooses Netsmart as Purpose-Built Technology Platform for Behavioral Health and Crisis Services",
+      "id": "stockanalysis:e676f3fedfba9d1a",
+      "titleEn": "Jefferies Financial Group Inc. to Host Annual Investor Meeting",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903599569/en/MIND-24-7-Chooses-Netsmart-as-Purpose-Built-Technology-Platform-for-Behavioral-Health-and-Crisis-Services/",
+      "link": "https://www.businesswire.com/news/home/20260903230887/en/Jefferies-Financial-Group-Inc.-to-Host-Annual-Investor-Meeting/",
       "published": null
     },
     {
-      "id": "stockanalysis:1cf84e4f3e874cdf",
-      "titleEn": "Dialpad Earns 2026 Great Place To Work Certification™",
+      "id": "stockanalysis:440f35de4594807c",
+      "titleEn": "REPAY Appoints Charles Nabhan as New Head of Investor Relations",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260820669253/en/Dialpad-Earns-2026-Great-Place-To-Work-Certification%E2%84%A2/",
+      "link": "https://www.businesswire.com/news/home/20260903218172/en/REPAY-Appoints-Charles-Nabhan-as-New-Head-of-Investor-Relations/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:96f742f8631b76fe",
+      "titleEn": "Compass Pathways Announces New Employee Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260904438987/en/Compass-Pathways-Announces-New-Employee-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9f860d6904bb0086",
+      "titleEn": "bioAffinity Technologies to Participate in the H.C. Wainwright 28th Annual Global Investment Conference",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260903308081/en/bioAffinity-Technologies-to-Participate-in-the-H.C.-Wainwright-28th-Annual-Global-Investment-Conference/",
       "published": null
     }
   ]
