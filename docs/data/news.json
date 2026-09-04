@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-09-04T09:46:07.498927Z",
+  "generatedAt": "2026-09-04T13:51:07.578622Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:f205f71214a0c508",
+      "titleEn": "USA Rare Earth stock rises as China shipments to US face fresh disruptions",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/04/usa-rare-earth-stock-rises-as-china-shipments-to-us-face-fresh-disruptions/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:df1df6fd9184cb95",
+      "titleEn": "Gold, silver sell off as strong payrolls revive Fed-hike trade - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply lower in early U.S. trading Friday, after a much stronger-than-expected August employment report lifted Treasury yields, firmed the U.S. dollar and revived expectations that the Federal Reserve could raise rates later this month. At the time of writing, spot gold was trading near $4,402.40 an ounce, down 1.56%, while spot silver was trading at $65.590, down 1.87% on the session. The latest positioning shifted back against precious metals after nonfarm payrolls rose by 162,000 in August, far above expectations near 53,000 to 55,000 , while the unemployment rate held at 4.1%. Revisions added 55,000 jobs to June and July, reversing the prior signal that July payrolls had contracted. The report undercuts the Waller-led pause trade that supported gold Thursday and gives the Fed more room to focus on inflation, especially with oil still elevated and next week’s CPI report due Sept. 11. September hike odds moved back toward the low-50% area, the 10-year Treasury yield remained near the 4.8% area and the dollar firmed after the release. For gold, the rate signal is negative: the labor data did not deliver the soft-growth confirmation bulls needed, and the next test is whether CPI keeps inflation risk high enough to validate the Fed-hike repricing. Gold and silver remain caught between safe-haven demand and the rates channel, but the morning’s payrolls print put yields back in control. Gold broke below $4,422 and briefly traded near $4,380, erasing much of Thursday’s Waller-driven rebound. Silver fell through the $66.00 area and moved back toward the $65.26 support level. The technical damage is not as severe as Tuesday’s selloff, but the setup has shifted from recovery to retest. Bulls need yields and the dollar to fade quickly or risk another push toward the lower support ladders.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-04/gold-silver-sell-strong-payrolls-revive-fed-hike-trade-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e6feb56b5c3acd03",
+      "titleEn": "Nvidia stock analysis as it evolves into a “central bank” of the AI industry",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/04/nvidia-stock-analysis-as-it-evolves-into-a-central-bank-of-the-ai-industry/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2760d0680c7dd3b4",
+      "titleEn": "Gold price hit with major selling as U.S. economy creates 162K jobs in August",
+      "summaryEn": "(Kitco News) - The gold market is seeing some robust selling pressure, with prices quickly dropping through initial support at $4,400 an ounce as the U.S. economy remains resilient, creating significantly more jobs than expected in August. After a week of disappointing labor market data, optimism has come roaring back, with the U.S. Labor Department saying that 162,000 jobs were created last month. Employment gains beat expectations, as consensus forecasts had called for job growth of 55,000. At the same time, the unemployment rate held steady at 4.1%, in line with market expectations.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-04/gold-price-hit-major-selling-us-economy-creates-162k-jobs-august",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d7782d26e4735b9c",
+      "titleEn": "DocuSign stock forms golden cross as Morgan Stanley boosts target",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/04/docusign-stock-forms-golden-cross-as-morgan-stanley-boosts-target/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ca5f4a57c9db71b2",
+      "titleEn": "Micron stock rises 2%, SanDisk gains 3%: why memory stocks are moving again",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/04/micron-stock-rises-2-sandisk-gains-3-why-memory-stocks-are-moving-again/",
+      "published": null
+    },
     {
       "id": "stockanalysis:a6992eb726e9b089",
       "titleEn": "Nvidia stock is leading a Mag Seven comeback: why these stocks deserve more attention",
@@ -40,84 +94,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:76c515f1f8bf54a2",
-      "titleEn": "ACI Worldwide to Add Microservices Card Switching Through Cranium Acquisition",
-      "summaryEn": "ACI Worldwide has agreed to acquire Cranium Ventures , a privately held developer of cloud-native card payment switching technology, as it seeks to expand its card-processing capabilities. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); ACI said the acquisition will accelerate its existing roadmap for ACI Connetic for Cards and bring planned card-switching capabilities to market sooner. Its acquiring, issuing, ATM and self-service banking solutions process more than 300 billion card transactions annually, according to the company.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/payment-methods/2026/aci-worldwide-to-add-microservices-card-switching-through-cranium-acquisition/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d37dc39569449d42",
-      "titleEn": "U.S. Treasury's interventions show weakness: ‘Incredibly bullish for gold' – Adrian Day",
-      "summaryEn": "(Kitco News) – While the U.S. Treasury Department has made massive waves with their two recent interventions – one targeting the yen, and the other long-term yields – these did next to nothing to solve the real problems plaguing the dollar and the debt, and gold will be the inevitable beneficiary, according to Adrian Day, president of Adrian Day Asset Management. Day said that while Bessent’s announcement made headlines around the world, it had surprisingly little lasting impact in the one area it was supposed to. “It didn&#x27;t really do much for Treasuries at all, did it?” he said. “Just like the yen intervention at the end of July that didn&#x27;t really do much to the yen [beyond] a couple of days. And it&#x27;s interesting that August was bookended by those two interventions.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-03/us-treasurys-interventions-show-weakness-incredibly-bullish-gold-adrian-day",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c56c6ae86925e04c",
-      "titleEn": "Gold, silver rally as Fed's Waller cuts September hike odds - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply higher in late-afternoon U.S. trading Thursday, as Fed Governor Christopher Waller’s less-hawkish rate comments pulled Treasury yields lower, weakened the U.S. dollar and gave precious metals room to extend Wednesday’s rebound. At the time of writing, spot gold was trading near $4,471.10 an ounce, up 1.92%, while spot silver was trading at $66.830, up 2.49% on the session. North American equity markets closed sharply higher as technology shares led a broad risk rebound. The S&P 500 rose 81.11 points, or 1.1%, to 7,747.71, the Dow Jones Industrial Average gained 624.16 points, or 1.2%, to 53,686.11, and the Nasdaq Composite added 366.23 points, or 1.4%, to 26,584.06. European markets also finished higher, with the STOXX Europe 600 up 0.49% to 649.10. London’s FTSE 100 rose 0.70% to 10,831.52, Germany’s DAX gained 0.63% to 26,003.32, France’s CAC 40 added 0.07% to 8,286.40 and Italy’s FTSE MIB rose 0.88% to 52,245.47. The latest positioning shifted back toward a Fed pause after Waller said he would be inclined to keep rates unchanged if next week’s inflation data continue to cool. September hike odds fell to about 50.4% from 63.2% Wednesday, while the two-year Treasury yield slid to 4.34% and the 10-year yield dropped to 4.77%. The services data were not uniformly dovish: the ISM services index rose to 55.4 in August from 54.1, prices paid climbed to 72.6, the highest reading since October 2022, and employment remained in contraction at 47.8. That mix leaves Friday’s August nonfarm payrolls report and the Sept. 11 CPI release as the next two decisive inputs for Fed pricing. For gold, the signal is constructive but conditional: lower yields and a softer dollar support the rebound, while firm services demand and sticky input prices keep the inflation channel alive.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-03/gold-silver-rally-feds-waller-cuts-september-hike-odds-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:57abb1b48836aaf3",
-      "titleEn": "Anthropic Built the Shopping Brain and Skipped the Wallet",
-      "summaryEn": "Anthropic launched a blueprint that lets any retailer build an AI shopping agent on Claude. Shopify and Priceline already run live agents on the technology. The company says carts run up to 35% larger and shoppers are 60% more likely to complete a purchase. Those are the Anthropic’s own reported figures, not an independent benchmark. Anthropic built the shopping brain but skipped the wallet entirely. The blueprint carries no payment protocol, no checkout and no ad layer, leaving all of that to retailers and partners such as Visa and Mastercard.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-built-the-shopping-brain-and-skipped-the-wallet/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4576a6d2ebd3c837",
-      "titleEn": "Teledyne Qioptiq Receives First Option from Germany for Additional PHOENIX-XR Cooled Thermal Weapon Sights Valued at More Than $21 Million",
+      "id": "stockanalysis:cb8c05e68725df64",
+      "titleEn": "Popular, Inc. Declares Dividend on Preferred Stock and Announces Distribution on Trust Preferred Securities",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260904556728/en/Teledyne-Qioptiq-Receives-First-Option-from-Germany-for-Additional-PHOENIX-XR-Cooled-Thermal-Weapon-Sights-Valued-at-More-Than-21-Million/",
+      "link": "https://www.businesswire.com/news/home/20260904742009/en/Popular-Inc.-Declares-Dividend-on-Preferred-Stock-and-Announces-Distribution-on-Trust-Preferred-Securities/",
       "published": null
     },
     {
-      "id": "stockanalysis:680cba02369e20f5",
-      "titleEn": "UMC Reports Sales for August 2026",
+      "id": "stockanalysis:78ac0a1f74f9a0bf",
+      "titleEn": "Unit Corporation Announces Payment and Record Dates for Third Quarter Cash Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903516473/en/UMC-Reports-Sales-for-August-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4698b97aefd8bc61",
-      "titleEn": "BEST and Luvata Announce Collaboration Agreement for Supply of High-Performance RRP® Superconductors for Magnetic Confinement Fusion",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903326152/en/BEST-and-Luvata-Announce-Collaboration-Agreement-for-Supply-of-High-Performance-RRP%C2%AE-Superconductors-for-Magnetic-Confinement-Fusion/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:64e51eae77c71f91",
-      "titleEn": "Nidec Announces Disclosure of Investigation Report and Nidec's Actions in Response to It",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903091492/en/Nidec-Announces-Disclosure-of-Investigation-Report-and-Nidec%E2%80%99s-Actions-in-Response-to-It/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:193af1c2463f8bc1",
-      "titleEn": "KKR Invests in Malaysian Healthcare Platform Avisena Healthcare",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903337108/en/KKR-Invests-in-Malaysian-Healthcare-Platform-Avisena-Healthcare/",
+      "link": "https://www.businesswire.com/news/home/20260904501962/en/Unit-Corporation-Announces-Payment-and-Record-Dates-for-Third-Quarter-Cash-Dividend/",
       "published": null
     }
   ]
