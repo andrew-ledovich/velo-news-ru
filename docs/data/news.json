@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-04T00:57:19.462787Z",
+  "generatedAt": "2026-09-04T05:22:30.976824Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:76c515f1f8bf54a2",
@@ -76,12 +76,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:e05adb2740748853",
-      "titleEn": "Amazon and Walmart Turn Fraud Prevention Into a Retail Product",
-      "summaryEn": "Amazon is moving fraud prevention upstream. Its new Alexa verification feature helps shoppers authenticate suspicious emails, texts and calls before they click, share credentials or send money. Walmart is connecting fraud signals across the shopping journey. By linking identity, transaction, returns and customer-contact data, it is treating fraud less as a payment event and more as a behavioral pattern. The bigger retail shift is from fraud prevention to trust infrastructure. As commerce spreads across more channels and interfaces, Amazon and Walmart are competing to reduce consumer doubt — making verification and safety part of the customer experience itself.",
+      "id": "stockanalysis:193af1c2463f8bc1",
+      "titleEn": "KKR Invests in Malaysian Healthcare Platform Avisena Healthcare",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/retail/2026/amazon-and-walmart-turn-fraud-prevention-into-a-retail-product/",
+      "link": "https://www.businesswire.com/news/home/20260903337108/en/KKR-Invests-in-Malaysian-Healthcare-Platform-Avisena-Healthcare/",
       "published": null
     },
     {
@@ -118,15 +118,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.businesswire.com/news/home/20260903362599/en/Abnormal-AI-Brings-OpenAI-Daybreak-Models-Into-AI-Cloud-Security-to-Protect-Against-Rogue-AI/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:172d2a56c63f81de",
-      "titleEn": "GMR Solutions Inc. to Present at September Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903215539/en/GMR-Solutions-Inc.-to-Present-at-September-Conference/",
       "published": null
     }
   ]
