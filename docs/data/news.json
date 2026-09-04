@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-09-04T13:51:07.578622Z",
+  "generatedAt": "2026-09-04T17:14:31.356523Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:c679c828554508e2",
+      "titleEn": "Gold never actually passed U.S. Treasuries as the world's preferred reserve asset – Fed's Weiss",
+      "summaryEn": "(Kitco News) – Even though central banks have been ramping up their bullion purchases in recent years, a simple comparison of the value of U.S. treasuries and gold in countries’ official reserves is misleading, as gold’s price appreciation has been driven largely by private demand, while most official gold reserves are still held by countries that haven’t purchased any in over 50 years, according to Colin Weiss, Principal Economist for Global Financial Flows at the Federal Reserve. “In 2025, world international reserves held in gold surpassed foreign official holdings of U.S. Treasury securities, a fact drawing attention from media and policymakers,” Weiss wrote in a Federal Reserve research note on Thursday. “Should this be interpreted as gold overtaking U.S. Treasury securities in its appeal as a reserve asset?” Weiss believes this is not the case, offering several reasons why “a comparison of world gold reserves and aggregate foreign official holdings of U.S. Treasury securities is problematic.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-04/gold-never-actually-passed-us-treasuries-worlds-preferred-reserve-asset",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3104ada392162c5f",
+      "titleEn": "AMD stock forecast: why this Nvidia rival is on the cusp of a breakout",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/04/amd-stock-forecast-why-this-nvidia-rival-is-on-the-cusp-of-a-breakout/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ef2c76e0e5192630",
+      "titleEn": "Adobe stock falls 7% as company announces new CEO amid leadership shakeup",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/04/adobe-stock-falls-7-as-company-announces-new-ceo-amid-leadership-shakeup/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b9d0769ddc2eb5f5",
+      "titleEn": "Blue Owl stock may short squeeze as golden cross emerges amid turnaround",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/04/blue-owl-stock-may-short-squeeze-as-golden-cross-emerges-amid-turnaround/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:622ae13b0b2ae3b1",
+      "titleEn": "Anthropic Expands Credit Facility to $15 Billion Ahead of Mega IPO",
+      "summaryEn": "Anthropic is preparing to finalize an expansion of its revolving credit facility to $15 billion, up from the $2.5 billion facility it secured last year, Bloomberg reported Friday (Sept. 4), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Companies typically finalize their revolving credit facility before notifying banks of their roles in the firm’s initial public offering, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-expands-credit-facility-to-15-billion-ahead-of-mega-ipo/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c264f7602a69d540",
+      "titleEn": "Why is AMC stock gaining today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/04/why-is-amc-stock-gaining-today/",
+      "published": null
+    },
     {
       "id": "stockanalysis:f205f71214a0c508",
       "titleEn": "USA Rare Earth stock rises as China shipments to US face fresh disruptions",
@@ -67,48 +121,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:b52cd8261178b7f7",
-      "titleEn": "Volkswagen stock jumps 7% after brutal job cuts: why investors are cheering",
+      "id": "stockanalysis:d99792eb9f755c4b",
+      "titleEn": "CoreWeave to Participate in the Goldman Sachs Communacopia + Technology Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/04/volkswagen-stock-jumps-7-after-brutal-job-cuts-why-investors-are-cheering/",
+      "link": "https://www.businesswire.com/news/home/20260904246950/en/CoreWeave-to-Participate-in-the-Goldman-Sachs-Communacopia-Technology-Conference/",
       "published": null
     },
     {
-      "id": "stockanalysis:1cd66849f515d9b0",
-      "titleEn": "Cathie Wood dumped $73 million of AMD and bought Nvidia stock: here's why",
+      "id": "stockanalysis:4bbbf3a35539eaa9",
+      "titleEn": "Business Insider Recognizes Vontier Among America's Most Innovative Businesses for 2027",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/04/cathie-wood-dumped-73-million-of-amd-and-bought-nvidia-stock-heres-why/",
+      "link": "https://www.businesswire.com/news/home/20260904523476/en/Business-Insider-Recognizes-Vontier-Among-Americas-Most-Innovative-Businesses-for-2027/",
       "published": null
     },
     {
-      "id": "stockanalysis:268e2706ccac151f",
-      "titleEn": "Why did Lululemon stock crash 20% after earnings, and is the brand in trouble?",
+      "id": "stockanalysis:22521feab8b41fb7",
+      "titleEn": "AM Best Removes From Under Review With Positive Implications and Upgrades Credit Ratings of Aspen Insurance Holdings Limited and its Rated Subsidiaries",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/04/why-did-lululemon-stock-crash-20-after-earnings-and-is-the-brand-in-trouble/",
+      "link": "https://www.businesswire.com/news/home/20260904189059/en/AM-Best-Removes-From-Under-Review-With-Positive-Implications-and-Upgrades-Credit-Ratings-of-Aspen-Insurance-Holdings-Limited-and-its-Rated-Subsidiaries/",
       "published": null
     },
     {
-      "id": "stockanalysis:cb8c05e68725df64",
-      "titleEn": "Popular, Inc. Declares Dividend on Preferred Stock and Announces Distribution on Trust Preferred Securities",
+      "id": "stockanalysis:57238f5ce6a6cec7",
+      "titleEn": "The Campbell's Company to Participate in a Fireside Chat at Barclays Global Consumer Staples Conference on September 9",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260904742009/en/Popular-Inc.-Declares-Dividend-on-Preferred-Stock-and-Announces-Distribution-on-Trust-Preferred-Securities/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:78ac0a1f74f9a0bf",
-      "titleEn": "Unit Corporation Announces Payment and Record Dates for Third Quarter Cash Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260904501962/en/Unit-Corporation-Announces-Payment-and-Record-Dates-for-Third-Quarter-Cash-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20260904424989/en/The-Campbell%E2%80%99s-Company-to-Participate-in-a-Fireside-Chat-at-Barclays-Global-Consumer-Staples-Conference-on-September-9/",
       "published": null
     }
   ]
