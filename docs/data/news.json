@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-09-04T19:35:56.165184Z",
+  "generatedAt": "2026-09-04T21:48:15.627995Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:30577f51a19ddf30",
+      "titleEn": "PicPay Launches Anthropic Claude Integration for Banking Inquiries",
+      "summaryEn": "Brazilian digital bank PicPay has begun rolling out an integration with Anthropic ’s Claude that enables PicPay customers to check financial information in Claude by using natural-language commands. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The experience is focused on financial inquiries and monitoring. It includes the ability to check account and savings balances, view outstanding bills, check investments, view active cards, access favorite Pix contacts, check recent transactions, view upcoming transactions, check credit card statement balances and view completed credit card transactions, according to the release.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/picpay-launches-anthropic-claude-integration-for-banking-inquiries/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:047636664917216a",
+      "titleEn": "Gold claws back from brutal jobs selloff as markets brace for key inflation data",
+      "summaryEn": "(Kitco News) - Gold bulls are not heading into the long weekend without a fight after stronger-than-expected employment data sparked a brutal selloff Friday morning. The U.S. Labor Department said that 162,000 jobs were created in August, up sharply from economists&#x27; expectations for job growth of around 55,000. The robust employment data pulled gold prices down more than $100 within the first 30 minutes after the report. Heading into the North American close ahead of the Labor Day long weekend, gold has managed to push back above a critical support level. Spot gold last traded at $4,423.10 an ounce, down less than 1% on the week.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-04/gold-claws-back-brutal-jobs-selloff-markets-brace-key-inflation-data",
+      "published": null
+    },
     {
       "id": "stockanalysis:71d2cb3c534e28b5",
       "titleEn": "Apple stock falls 2% as foldable iPhone production faces supply hurdles",
@@ -94,75 +112,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:f205f71214a0c508",
-      "titleEn": "USA Rare Earth stock rises as China shipments to US face fresh disruptions",
+      "id": "stockanalysis:e608abd755f53fb9",
+      "titleEn": "AARD Stockholders Have Rights – If You Lost Money Investing in Aardvark Therapeutics, Inc. Contact Robbins LLP for Information About Recovering Your Losses",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/04/usa-rare-earth-stock-rises-as-china-shipments-to-us-face-fresh-disruptions/",
+      "link": "https://www.businesswire.com/news/home/20260904304659/en/AARD-Stockholders-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-Aardvark-Therapeutics-Inc.-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
       "published": null
     },
     {
-      "id": "stockanalysis:df1df6fd9184cb95",
-      "titleEn": "Gold, silver sell off as strong payrolls revive Fed-hike trade - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply lower in early U.S. trading Friday, after a much stronger-than-expected August employment report lifted Treasury yields, firmed the U.S. dollar and revived expectations that the Federal Reserve could raise rates later this month. At the time of writing, spot gold was trading near $4,402.40 an ounce, down 1.56%, while spot silver was trading at $65.590, down 1.87% on the session. The latest positioning shifted back against precious metals after nonfarm payrolls rose by 162,000 in August, far above expectations near 53,000 to 55,000 , while the unemployment rate held at 4.1%. Revisions added 55,000 jobs to June and July, reversing the prior signal that July payrolls had contracted. The report undercuts the Waller-led pause trade that supported gold Thursday and gives the Fed more room to focus on inflation, especially with oil still elevated and next week’s CPI report due Sept. 11. September hike odds moved back toward the low-50% area, the 10-year Treasury yield remained near the 4.8% area and the dollar firmed after the release. For gold, the rate signal is negative: the labor data did not deliver the soft-growth confirmation bulls needed, and the next test is whether CPI keeps inflation risk high enough to validate the Fed-hike repricing. Gold and silver remain caught between safe-haven demand and the rates channel, but the morning’s payrolls print put yields back in control. Gold broke below $4,422 and briefly traded near $4,380, erasing much of Thursday’s Waller-driven rebound. Silver fell through the $66.00 area and moved back toward the $65.26 support level. The technical damage is not as severe as Tuesday’s selloff, but the setup has shifted from recovery to retest. Bulls need yields and the dollar to fade quickly or risk another push toward the lower support ladders.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-04/gold-silver-sell-strong-payrolls-revive-fed-hike-trade-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e6feb56b5c3acd03",
-      "titleEn": "Nvidia stock analysis as it evolves into a “central bank” of the AI industry",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/04/nvidia-stock-analysis-as-it-evolves-into-a-central-bank-of-the-ai-industry/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6057119f77371040",
-      "titleEn": "CauzzyAI and Unilever Prestige Partner to Accelerate AI Innovation Across Prestige Beauty",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260903913247/en/CauzzyAI-and-Unilever-Prestige-Partner-to-Accelerate-AI-Innovation-Across-Prestige-Beauty/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b25d2e4071c766a2",
-      "titleEn": "Murphy Oil Corporation to Participate in Upcoming Conference",
+      "id": "stockanalysis:44415a00b7ffbd47",
+      "titleEn": "Ionis partner Novartis announces Lp(a)HORIZON Phase 3 topline results for pelacarsen in patients with elevated Lp(a) and established cardiovascular disease (CVD)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260904028009/en/Murphy-Oil-Corporation-to-Participate-in-Upcoming-Conference/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e4850bdac0f0daf0",
-      "titleEn": "Culp, Inc. to Webcast First Quarter Fiscal 2027 Conference Call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260904972826/en/Culp-Inc.-to-Webcast-First-Quarter-Fiscal-2027-Conference-Call/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6cd5bff3767add34",
-      "titleEn": "Tredegar Provides Update on One Tredegar Transformation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260904023195/en/Tredegar-Provides-Update-on-One-Tredegar-Transformation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d99792eb9f755c4b",
-      "titleEn": "CoreWeave to Participate in the Goldman Sachs Communacopia + Technology Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260904246950/en/CoreWeave-to-Participate-in-the-Goldman-Sachs-Communacopia-Technology-Conference/",
+      "link": "https://www.businesswire.com/news/home/20260904799979/en/Ionis-partner-Novartis-announces-Lp-a-HORIZON-Phase-3-topline-results-for-pelacarsen-in-patients-with-elevated-Lp-a-and-established-cardiovascular-disease-CVD/",
       "published": null
     }
   ]
