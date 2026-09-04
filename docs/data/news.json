@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-09-04T05:22:30.976824Z",
+  "generatedAt": "2026-09-04T09:46:07.498927Z",
   "sourceCount": 1,
   "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:a6992eb726e9b089",
+      "titleEn": "Nvidia stock is leading a Mag Seven comeback: why these stocks deserve more attention",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/04/nvidia-stock-is-leading-a-mag-seven-comeback-why-these-stocks-deserve-more-attention/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b52cd8261178b7f7",
+      "titleEn": "Volkswagen stock jumps 7% after brutal job cuts: why investors are cheering",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/04/volkswagen-stock-jumps-7-after-brutal-job-cuts-why-investors-are-cheering/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1cd66849f515d9b0",
+      "titleEn": "Cathie Wood dumped $73 million of AMD and bought Nvidia stock: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/04/cathie-wood-dumped-73-million-of-amd-and-bought-nvidia-stock-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:268e2706ccac151f",
+      "titleEn": "Why did Lululemon stock crash 20% after earnings, and is the brand in trouble?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/04/why-did-lululemon-stock-crash-20-after-earnings-and-is-the-brand-in-trouble/",
+      "published": null
+    },
     {
       "id": "stockanalysis:76c515f1f8bf54a2",
       "titleEn": "ACI Worldwide to Add Microservices Card Switching Through Cranium Acquisition",
@@ -40,39 +76,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:476e4d58b1182939",
-      "titleEn": "Apple faces £2 billion lawsuit in UK over app privacy feature",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Apple faces a £2 billion ($2.7 billion) lawsuit brought by UK app developers who on Thursday accused the U.S. tech giant of giving its own advertising services an unfair advantage by imposing tougher privacy rules on third parties. The claim, filed with the Competition Appeal Tribunal by law firm Hausfeld, centers on Apple's App Tracking Transparency (ATT) system, which has also come under scrutiny in several European countries.",
+      "id": "stockanalysis:4576a6d2ebd3c837",
+      "titleEn": "Teledyne Qioptiq Receives First Option from Germany for Additional PHOENIX-XR Cooled Thermal Weapon Sights Valued at More Than $21 Million",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-09-apple-billion-lawsuit-uk-app.html",
+      "link": "https://www.businesswire.com/news/home/20260904556728/en/Teledyne-Qioptiq-Receives-First-Option-from-Germany-for-Additional-PHOENIX-XR-Cooled-Thermal-Weapon-Sights-Valued-at-More-Than-21-Million/",
       "published": null
     },
     {
-      "id": "stockanalysis:480486174f2b5a7b",
-      "titleEn": "It's time to get bullish on gold again, says SocGen",
-      "summaryEn": "(Kitco News) - The gold market is once again testing initial resistance at $4,500 an ounce, and one international investment bank believes that now is the time to get back into the market as they continue to see a gradual recovery from gold&#x27;s months-long correction. In their latest market report, analysts at Société Générale said that after decreasing their gold position in the first half of the year, the precious metal is looking attractive again. “ Gold has recently rebounded towards $4,500/oz following sharp corrections triggered by the US-Israel-Iran conflict and rising Fed rate hike expectations. At the same time, volatility has normalised, speculative positioning has recovered above its two-year average, and the GLD put/call ratio has fallen to a six-month low, signalling a renewal in bullish sentiment,” the analysts said.",
+      "id": "stockanalysis:680cba02369e20f5",
+      "titleEn": "UMC Reports Sales for August 2026",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-03/its-time-get-bullish-gold-again-says-socgen",
+      "link": "https://www.businesswire.com/news/home/20260903516473/en/UMC-Reports-Sales-for-August-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:8eec5bcdec1010ea",
-      "titleEn": "FIS Debuts Embedded Finance Platform Geared Toward Banks",
-      "summaryEn": "Financial services technology company FIS has launched its embedded banking platform. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The platform is the company’s first embedded finance offering created especially for banks, letting lenders offer banking services directly within the business software used by corporate customers, FIS said in a Thursday (Sept. 3) news release .",
+      "id": "stockanalysis:4698b97aefd8bc61",
+      "titleEn": "BEST and Luvata Announce Collaboration Agreement for Supply of High-Performance RRP® Superconductors for Magnetic Confinement Fusion",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/fis-debuts-embedded-finance-platform-geared-toward-banks/",
+      "link": "https://www.businesswire.com/news/home/20260903326152/en/BEST-and-Luvata-Announce-Collaboration-Agreement-for-Supply-of-High-Performance-RRP%C2%AE-Superconductors-for-Magnetic-Confinement-Fusion/",
       "published": null
     },
     {
-      "id": "stockanalysis:2bea73447a4e0960",
-      "titleEn": "Anthropic Breaks With Peers on Massachusetts AI Safety Bill",
-      "summaryEn": "Anthropic has reportedly broken with other tech giants over a new Massachusetts AI regulation. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The proposal before that state’s senate would require artificial intelligence (AI) developers to hire independent evaluators to assess their models for the potential catastrophic risks every four months, The Information reported Thursday (Sept. 3).",
+      "id": "stockanalysis:64e51eae77c71f91",
+      "titleEn": "Nidec Announces Disclosure of Investigation Report and Nidec's Actions in Response to It",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-breaks-with-peers-on-massachusetts-ai-safety-bill/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260903091492/en/Nidec-Announces-Disclosure-of-Investigation-Report-and-Nidec%E2%80%99s-Actions-in-Response-to-It/",
       "published": null
     },
     {
@@ -82,42 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260903337108/en/KKR-Invests-in-Malaysian-Healthcare-Platform-Avisena-Healthcare/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:adab65f6c6ffcafb",
-      "titleEn": "ZANVASTRO™ (zilganersen) approved by the FDA as the first and only disease modifying treatment for Alexander disease (AxD) in pediatric and adult patients",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903826844/en/ZANVASTRO%E2%84%A2-zilganersen-approved-by-the-FDA-as-the-first-and-only-disease-modifying-treatment-for-Alexander-disease-AxD-in-pediatric-and-adult-patients/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ae9020854876b85b",
-      "titleEn": "Douglas Emmett Declares Quarterly Cash Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903420079/en/Douglas-Emmett-Declares-Quarterly-Cash-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:68255e5b71c68ab2",
-      "titleEn": "IPA Capital Markets Arranges $40.3 Million Financing for 312-Unit Birwood Heights in San Antonio",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260903604376/en/IPA-Capital-Markets-Arranges-40.3-Million-Financing-for-312-Unit-Birwood-Heights-in-San-Antonio/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d8400ba45e46d9b3",
-      "titleEn": "Abnormal AI Brings OpenAI Daybreak Models Into AI Cloud Security to Protect Against Rogue AI",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260903362599/en/Abnormal-AI-Brings-OpenAI-Daybreak-Models-Into-AI-Cloud-Security-to-Protect-Against-Rogue-AI/",
       "published": null
     }
   ]
