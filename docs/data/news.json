@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-09-04T17:14:31.356523Z",
+  "generatedAt": "2026-09-04T19:35:56.165184Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:71d2cb3c534e28b5",
+      "titleEn": "Apple stock falls 2% as foldable iPhone production faces supply hurdles",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/04/apple-stock-falls-2-as-foldable-iphone-production-faces-supply-hurdles/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:02192df82ff52638",
+      "titleEn": "Rising gold price and spiking global yields reflect investor fears about skyrocketing debt levels – Invesco's Hamilton",
+      "summaryEn": "(Kitco News) – Investors are beginning to treat gold less as a tactical play and more as a strategic allocation as government debt levels continue to spiral higher, according to Christopher Hamilton, head of client solutions, Asia Pacific at Invesco. In an interview with CNBC on Thursday, Hamilton was asked what he thinks is behind the broad-based selloff in the global bond market. “One, at least from a U.S perspective, you see fairly resilient economic growth,” he said. “However, you also see concerns about inflation, and a re-emergence of the term premium we&#x27;ve seen off and on over the last 18 months, looking at some of the fiscal concerns coming out of the US.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-04/rising-gold-price-and-spiking-global-yields-reflect-investor-fears-about",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:745c44e009375acb",
+      "titleEn": "Tesla stock falls 6% as cybercab launch faces analyst, regulatory concerns",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/09/04/tesla-stock-falls-6-as-cybercab-launch-faces-analyst-regulatory-concerns/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:311dfd9650341975",
+      "titleEn": "OpenAI and Anthropic Get 80% of Revenue From 1% of Customers",
+      "summaryEn": "The top 1% of customers generate 80% of enterprise revenue at both OpenAI and Anthropic, a concentration that hasn’t eased even as more businesses start paying for generative AI. At Anthropic, two customers, Cursor and GitHub Copilot, account for close to a quarter of total revenue. That shows how usage-based pricing can turn a handful of accounts into an outsized share of a company’s business. Financial services could be next to develop this kind of concentrated spending, with 95% of firms already reporting broad AI use and none expecting to cut spending over the next year.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-and-anthropic-get-80percent-of-revenue-from-1percent-of-customers/",
+      "published": null
+    },
     {
       "id": "stockanalysis:c679c828554508e2",
       "titleEn": "Gold never actually passed U.S. Treasuries as the world's preferred reserve asset – Fed's Weiss",
@@ -85,39 +121,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:2760d0680c7dd3b4",
-      "titleEn": "Gold price hit with major selling as U.S. economy creates 162K jobs in August",
-      "summaryEn": "(Kitco News) - The gold market is seeing some robust selling pressure, with prices quickly dropping through initial support at $4,400 an ounce as the U.S. economy remains resilient, creating significantly more jobs than expected in August. After a week of disappointing labor market data, optimism has come roaring back, with the U.S. Labor Department saying that 162,000 jobs were created last month. Employment gains beat expectations, as consensus forecasts had called for job growth of 55,000. At the same time, the unemployment rate held steady at 4.1%, in line with market expectations.",
+      "id": "stockanalysis:6057119f77371040",
+      "titleEn": "CauzzyAI and Unilever Prestige Partner to Accelerate AI Innovation Across Prestige Beauty",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-04/gold-price-hit-major-selling-us-economy-creates-162k-jobs-august",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260903913247/en/CauzzyAI-and-Unilever-Prestige-Partner-to-Accelerate-AI-Innovation-Across-Prestige-Beauty/",
       "published": null
     },
     {
-      "id": "stockanalysis:d7782d26e4735b9c",
-      "titleEn": "DocuSign stock forms golden cross as Morgan Stanley boosts target",
+      "id": "stockanalysis:b25d2e4071c766a2",
+      "titleEn": "Murphy Oil Corporation to Participate in Upcoming Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/04/docusign-stock-forms-golden-cross-as-morgan-stanley-boosts-target/",
+      "link": "https://www.businesswire.com/news/home/20260904028009/en/Murphy-Oil-Corporation-to-Participate-in-Upcoming-Conference/",
       "published": null
     },
     {
-      "id": "stockanalysis:ca5f4a57c9db71b2",
-      "titleEn": "Micron stock rises 2%, SanDisk gains 3%: why memory stocks are moving again",
+      "id": "stockanalysis:e4850bdac0f0daf0",
+      "titleEn": "Culp, Inc. to Webcast First Quarter Fiscal 2027 Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/04/micron-stock-rises-2-sandisk-gains-3-why-memory-stocks-are-moving-again/",
+      "link": "https://www.businesswire.com/news/home/20260904972826/en/Culp-Inc.-to-Webcast-First-Quarter-Fiscal-2027-Conference-Call/",
       "published": null
     },
     {
-      "id": "stockanalysis:a6992eb726e9b089",
-      "titleEn": "Nvidia stock is leading a Mag Seven comeback: why these stocks deserve more attention",
+      "id": "stockanalysis:6cd5bff3767add34",
+      "titleEn": "Tredegar Provides Update on One Tredegar Transformation",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/04/nvidia-stock-is-leading-a-mag-seven-comeback-why-these-stocks-deserve-more-attention/",
+      "link": "https://www.businesswire.com/news/home/20260904023195/en/Tredegar-Provides-Update-on-One-Tredegar-Transformation/",
       "published": null
     },
     {
@@ -127,33 +163,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260904246950/en/CoreWeave-to-Participate-in-the-Goldman-Sachs-Communacopia-Technology-Conference/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4bbbf3a35539eaa9",
-      "titleEn": "Business Insider Recognizes Vontier Among America's Most Innovative Businesses for 2027",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260904523476/en/Business-Insider-Recognizes-Vontier-Among-Americas-Most-Innovative-Businesses-for-2027/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:22521feab8b41fb7",
-      "titleEn": "AM Best Removes From Under Review With Positive Implications and Upgrades Credit Ratings of Aspen Insurance Holdings Limited and its Rated Subsidiaries",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260904189059/en/AM-Best-Removes-From-Under-Review-With-Positive-Implications-and-Upgrades-Credit-Ratings-of-Aspen-Insurance-Holdings-Limited-and-its-Rated-Subsidiaries/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:57238f5ce6a6cec7",
-      "titleEn": "The Campbell's Company to Participate in a Fireside Chat at Barclays Global Consumer Staples Conference on September 9",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260904424989/en/The-Campbell%E2%80%99s-Company-to-Participate-in-a-Fireside-Chat-at-Barclays-Global-Consumer-Staples-Conference-on-September-9/",
       "published": null
     }
   ]
