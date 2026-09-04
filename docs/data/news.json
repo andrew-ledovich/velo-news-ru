@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-09-04T21:48:15.627995Z",
+  "generatedAt": "2026-09-04T23:31:49.393899Z",
   "sourceCount": 1,
   "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:7c74d8254a125f6b",
+      "titleEn": "Gold crosses a historic milestone, Fed says 'Yeah, but",
+      "summaryEn": "(Kitco News) - There’s an old saying that if you have to explain why something isn’t important, there is probably a reason people are paying attention to it. That aphorism comes to mind after reading the Federal Reserve’s latest research note attempting to contextualize an important milestone for gold: in 2025, the value of global official gold reserves surpassed foreign official holdings of U.S. Treasury securities. This achievement was first recognized by Tavi Costa, Founder of Azuria Capital LLC exactly one year ago. Since then, gold’s success has been recognized by major financial institutions including the International Monetary Fund. The timing of the Fed’s argument is particularly interesting, as the U.S. Treasury recently announced that it would double its purchases of longer-dated government bonds through its buyback program. Although these purchases are not formally recognized as yield-curve control, they shouldn&#x27;t be ignored. If there was sufficient private and institutional demand at the long end of the Treasury curve, the government would have no reason to step in and provide additional liquidity itself. Against that backdrop, gold&#x27;s growing prominence deserves more attention, not less. The Fed makes some legitimate points. It argues that gold’s rise above Treasuries was driven largely by higher prices rather than a dramatic acceleration in central bank purchases. It also notes that global reserves include massive legacy holdings accumulated during the Bretton Woods era. Those are important qualifications, but they don&#x27;t make the milestone irrelevant. Even after removing U.S. holdings, the Fed acknowledges that sovereign gold reserves were worth $4 trillion at the end of 2025, slightly more than the $3.9 trillion in Treasuries held by foreign official institutions. More importantly, central banks continue to demonstrate through their actions that gold matters. According to the World Gold Council&#x27;s 2026 Central Bank Gold Reserves Survey, central banks have purchased an average of roughly 1,000 tonnes annually during the past four years , double the average pace of the previous decade. A record 45% of respondents said they expect to increase their own gold reserves during the next 12 months, while 89% expect global central bank gold holdings to rise. Looking further out, 84% expect gold to represent a larger share of global reserves five years from now, while 74% expect the U.S. dollar&#x27;s share to decline. Those aren&#x27;t the responses of institutions treating gold merely as a Bretton Woods relic. None of this means the dollar is about to lose its dominant reserve-currency status. Nor does it mean Treasuries have suddenly become irrelevant. They remain among the world&#x27;s deepest and most liquid financial assets. But that isn&#x27;t really the point. The important development isn&#x27;t that gold has replaced the dollar. It&#x27;s that central banks increasingly see gold as a strategic monetary asset alongside—and, at the margin, instead of—traditional dollar reserves. The Fed can explain away the technical reasons that gold surpassed Treasuries, but it shouldn&#x27;t dismiss what the milestone represents. Gold has become an important monetary asset in global financial markets.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-04/gold-crosses-historic-milestone-fed-says-yeah",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1212319401752123",
+      "titleEn": "Wall Street indecisive after gold price rollercoaster ride, Main Street clings to bullish majority as CPI takes center stage",
+      "summaryEn": "(Kitco News) – Gold prices saw another volatile week, as a sharp midweek rebound driven by softer yields, a weaker U.S. dollar, and less-hawkish Fed commentary was largely erased on Friday after stronger-than-expected U.S. payrolls revived expectations for a September rate hike. Spot gold kicked off the week trading at $4,439.15 per ounce on Sunday evening, and the yellow metal initially came under pressure as traders continued to digest the prior week’s sharp selloff, elevated Treasury yields, and lingering inflation concerns tied to oil prices and the U.S.-Iran conflict. The decline accelerated Tuesday, with gold breaking below $4,300 overnight to set the weekly low of $4,282.61 per ounce before buyers emerged. Gold prices recovered Wednesday, and rallied sharply on Thursday after softer private-sector labor data, easing Treasury yields, and less hawkish comments from Fed Governor Christopher Waller helped traders trim expectations for an imminent Fed hike. The move carried spot prices back above $4,500, where gold set its weekly high at $4,511.08 per ounce on Thursday.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-04/wall-street-indecisive-after-gold-price-rollercoaster-ride-main-street",
+      "published": null
+    },
     {
       "id": "stockanalysis:30577f51a19ddf30",
       "titleEn": "PicPay Launches Anthropic Claude Integration for Banking Inquiries",
@@ -94,39 +112,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:622ae13b0b2ae3b1",
-      "titleEn": "Anthropic Expands Credit Facility to $15 Billion Ahead of Mega IPO",
-      "summaryEn": "Anthropic is preparing to finalize an expansion of its revolving credit facility to $15 billion, up from the $2.5 billion facility it secured last year, Bloomberg reported Friday (Sept. 4), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Companies typically finalize their revolving credit facility before notifying banks of their roles in the firm’s initial public offering, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-expands-credit-facility-to-15-billion-ahead-of-mega-ipo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c264f7602a69d540",
-      "titleEn": "Why is AMC stock gaining today?",
+      "id": "stockanalysis:76fe4ce0abea41b1",
+      "titleEn": "Guardant Health Announces Landmark FDA Approval of Guardant360® CDx as Companion Diagnostic for AstraZeneca's ETCAMAH™ (camizestrant) in Advanced Breast Cancer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/04/why-is-amc-stock-gaining-today/",
+      "link": "https://www.businesswire.com/news/home/20260904644799/en/Guardant-Health-Announces-Landmark-FDA-Approval-of-Guardant360%C2%AE-CDx-as-Companion-Diagnostic-for-AstraZeneca%E2%80%99s-ETCAMAH%E2%84%A2-camizestrant-in-Advanced-Breast-Cancer/",
       "published": null
     },
     {
-      "id": "stockanalysis:e608abd755f53fb9",
-      "titleEn": "AARD Stockholders Have Rights – If You Lost Money Investing in Aardvark Therapeutics, Inc. Contact Robbins LLP for Information About Recovering Your Losses",
+      "id": "stockanalysis:5171f3c27058d49f",
+      "titleEn": "Acadia Healthcare Investigation Continued: Kahn Swick &amp; Foti, LLC Continues to Investigate the Officers and Directors of Acadia Healthcare Company, Inc. - ACHC",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260904304659/en/AARD-Stockholders-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-Aardvark-Therapeutics-Inc.-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:44415a00b7ffbd47",
-      "titleEn": "Ionis partner Novartis announces Lp(a)HORIZON Phase 3 topline results for pelacarsen in patients with elevated Lp(a) and established cardiovascular disease (CVD)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260904799979/en/Ionis-partner-Novartis-announces-Lp-a-HORIZON-Phase-3-topline-results-for-pelacarsen-in-patients-with-elevated-Lp-a-and-established-cardiovascular-disease-CVD/",
+      "link": "https://www.businesswire.com/news/home/20260904203585/en/Acadia-Healthcare-Investigation-Continued-Kahn-Swick-Foti-LLC-Continues-to-Investigate-the-Officers-and-Directors-of-Acadia-Healthcare-Company-Inc.---ACHC/",
       "published": null
     }
   ]
