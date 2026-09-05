@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-05T09:41:30.019777Z",
+  "generatedAt": "2026-09-05T13:01:56.367926Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:2d08d5cbe6b3763f",
+      "titleEn": "Software stocks are back from the dead as AI fuels growth: can the rally continue?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/05/software-stocks-are-back-from-the-dead-as-ai-fuels-growth-can-the-rally-continue/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4ff179656356745d",
+      "titleEn": "GoPro stock soars 200% after Markiplier stake, $285M Starman deal",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/05/gopro-stock-soars-200-after-markiplier-stake-285m-starman-deal/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cbf2bb0c64ddffbc",
+      "titleEn": "SpaceX stock rally meets another lockup expiry test on September 9: what to expect",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/05/spacex-stock-rally-meets-another-lockup-expiry-test-on-september-9-what-to-expect/",
+      "published": null
+    },
     {
       "id": "stockanalysis:873978a86499bda3",
       "titleEn": "PayPal Pauses Venture Capital Portfolio Sale After Lowball Offers",
@@ -94,30 +121,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c679c828554508e2",
-      "titleEn": "Gold never actually passed U.S. Treasuries as the world's preferred reserve asset – Fed's Weiss",
-      "summaryEn": "(Kitco News) – Even though central banks have been ramping up their bullion purchases in recent years, a simple comparison of the value of U.S. treasuries and gold in countries’ official reserves is misleading, as gold’s price appreciation has been driven largely by private demand, while most official gold reserves are still held by countries that haven’t purchased any in over 50 years, according to Colin Weiss, Principal Economist for Global Financial Flows at the Federal Reserve. “In 2025, world international reserves held in gold surpassed foreign official holdings of U.S. Treasury securities, a fact drawing attention from media and policymakers,” Weiss wrote in a Federal Reserve research note on Thursday. “Should this be interpreted as gold overtaking U.S. Treasury securities in its appeal as a reserve asset?” Weiss believes this is not the case, offering several reasons why “a comparison of world gold reserves and aggregate foreign official holdings of U.S. Treasury securities is problematic.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-04/gold-never-actually-passed-us-treasuries-worlds-preferred-reserve-asset",
-      "published": null
-    },
-    {
       "id": "stockanalysis:e52e66e833a071cc",
       "titleEn": "Marcus &amp; Millichap's IPA Capital Markets Arranges $75.1 Million Recapitalization for The Monroe Hotel in Miami Beach's Faena District",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260904704037/en/Marcus-Millichap%E2%80%99s-IPA-Capital-Markets-Arranges-75.1-Million-Recapitalization-for-The-Monroe-Hotel-in-Miami-Beach%E2%80%99s-Faena-District/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:76fe4ce0abea41b1",
-      "titleEn": "Guardant Health Announces Landmark FDA Approval of Guardant360® CDx as Companion Diagnostic for AstraZeneca's ETCAMAH™ (camizestrant) in Advanced Breast Cancer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260904644799/en/Guardant-Health-Announces-Landmark-FDA-Approval-of-Guardant360%C2%AE-CDx-as-Companion-Diagnostic-for-AstraZeneca%E2%80%99s-ETCAMAH%E2%84%A2-camizestrant-in-Advanced-Breast-Cancer/",
       "published": null
     }
   ]
