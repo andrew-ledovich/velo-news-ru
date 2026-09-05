@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-04T23:31:49.393899Z",
+  "generatedAt": "2026-09-05T01:22:56.710843Z",
   "sourceCount": 1,
   "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:873978a86499bda3",
+      "titleEn": "PayPal Pauses Venture Capital Portfolio Sale After Lowball Offers",
+      "summaryEn": "PayPal has paused its planned sale of its venture capital portfolio after offers came in at no higher than 60 cents on the dollar, Seeking Alpha reported Friday (Sept. 4), citing a paywalled article by Axios that was based on unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The investments in PayPal’s portfolio include shopping app Tabby and crypto platform Anchorage , and the company’s attempt to sell the portfolio followed its decision earlier this year to wind down its venture capital arm, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/paypal-pauses-venture-capital-portfolio-sale-after-lowball-offers/",
+      "published": null
+    },
     {
       "id": "stockanalysis:7c74d8254a125f6b",
       "titleEn": "Gold crosses a historic milestone, Fed says 'Yeah, but",
@@ -103,12 +112,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:b9d0769ddc2eb5f5",
-      "titleEn": "Blue Owl stock may short squeeze as golden cross emerges amid turnaround",
+      "id": "stockanalysis:e52e66e833a071cc",
+      "titleEn": "Marcus &amp; Millichap's IPA Capital Markets Arranges $75.1 Million Recapitalization for The Monroe Hotel in Miami Beach's Faena District",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/04/blue-owl-stock-may-short-squeeze-as-golden-cross-emerges-amid-turnaround/",
+      "link": "https://www.businesswire.com/news/home/20260904704037/en/Marcus-Millichap%E2%80%99s-IPA-Capital-Markets-Arranges-75.1-Million-Recapitalization-for-The-Monroe-Hotel-in-Miami-Beach%E2%80%99s-Faena-District/",
       "published": null
     },
     {
@@ -118,15 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260904644799/en/Guardant-Health-Announces-Landmark-FDA-Approval-of-Guardant360%C2%AE-CDx-as-Companion-Diagnostic-for-AstraZeneca%E2%80%99s-ETCAMAH%E2%84%A2-camizestrant-in-Advanced-Breast-Cancer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5171f3c27058d49f",
-      "titleEn": "Acadia Healthcare Investigation Continued: Kahn Swick &amp; Foti, LLC Continues to Investigate the Officers and Directors of Acadia Healthcare Company, Inc. - ACHC",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260904203585/en/Acadia-Healthcare-Investigation-Continued-Kahn-Swick-Foti-LLC-Continues-to-Investigate-the-Officers-and-Directors-of-Acadia-Healthcare-Company-Inc.---ACHC/",
       "published": null
     }
   ]
