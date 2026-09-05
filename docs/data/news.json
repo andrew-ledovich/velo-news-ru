@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-05T01:22:56.710843Z",
+  "generatedAt": "2026-09-05T05:56:03.964238Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:873978a86499bda3",
@@ -28,6 +28,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-09-04/wall-street-indecisive-after-gold-price-rollercoaster-ride-main-street",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a5c5ffe333c23957",
+      "titleEn": "Gold, silver prices slide as strong payrolls revive Fed-hike trade - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in late-afternoon U.S. trading Friday, after a stronger-than-expected August employment report lifted Treasury yields, firmed the U.S. dollar and revived expectations that the Federal Reserve could raise rates at its Sept. 15-16 meeting. At the time of writing, spot gold was trading near $4,429.40 an ounce, down 0.96%, while spot silver was trading at $66.040, down 1.21% on the session. North American equity markets closed lower as the jobs report pushed rate risk back into focus. The S&P 500 fell 29.11 points, or 0.4%, to 7,718.60, the Dow Jones Industrial Average dropped 271.86 points, or 0.5%, to 53,414.25, the Nasdaq Composite lost 77.07 points, or 0.3%, to 26,506.99, and the Russell 2000 rose 7.38 points, or 0.2%, to 2,975.65. European markets finished mixed, with the STOXX Europe 600 up 0.12% to 649.88. London’s FTSE 100 was virtually unchanged at 10,831.09, Germany’s DAX rose 0.17% to 26,046.40, France’s CAC 40 slipped 0.09% to 8,278.77, and Italy’s FTSE MIB fell 0.28% to 52,100.43. The latest positioning turned back against precious metals after nonfarm payrolls rose by 162,000 in August, well above expectations , while June and July revisions added 55,000 jobs and the unemployment rate held at 4.1%. The two-year Treasury yield rose to about 4.37% to 4.38%, its highest level since January 2025, while the 10-year yield traded near 4.77% to 4.78%. Fed-hike pricing moved back into the 60% to 65% area, up from roughly coin-flip levels before the release. The next policy inputs are next week’s PPI and CPI reports, with CPI due Sept. 11. For gold, the jobs print shifted the market away from Thursday’s Waller-led pause trade and back toward the Warsh view that inflation remains the dominant risk.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-04/gold-silver-prices-slide-strong-payrolls-revive-fed-hike-trade-kitco-pm",
       "published": null
     },
     {
@@ -91,24 +100,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-09-04/gold-never-actually-passed-us-treasuries-worlds-preferred-reserve-asset",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3104ada392162c5f",
-      "titleEn": "AMD stock forecast: why this Nvidia rival is on the cusp of a breakout",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/04/amd-stock-forecast-why-this-nvidia-rival-is-on-the-cusp-of-a-breakout/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ef2c76e0e5192630",
-      "titleEn": "Adobe stock falls 7% as company announces new CEO amid leadership shakeup",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/04/adobe-stock-falls-7-as-company-announces-new-ceo-amid-leadership-shakeup/",
       "published": null
     },
     {
