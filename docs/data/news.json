@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-05T16:01:37.511763Z",
+  "generatedAt": "2026-09-05T18:14:21.447069Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:2d08d5cbe6b3763f",
@@ -109,15 +109,6 @@
       "source": "Stock Analysis",
       "topic": "EV",
       "link": "https://invezz.com/news/2026/09/04/tesla-stock-falls-6-as-cybercab-launch-faces-analyst-regulatory-concerns/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:311dfd9650341975",
-      "titleEn": "OpenAI and Anthropic Get 80% of Revenue From 1% of Customers",
-      "summaryEn": "The top 1% of customers generate 80% of enterprise revenue at both OpenAI and Anthropic, a concentration that hasn’t eased even as more businesses start paying for generative AI. At Anthropic, two customers, Cursor and GitHub Copilot, account for close to a quarter of total revenue. That shows how usage-based pricing can turn a handful of accounts into an outsized share of a company’s business. Financial services could be next to develop this kind of concentrated spending, with 95% of firms already reporting broad AI use and none expecting to cut spending over the next year.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-and-anthropic-get-80percent-of-revenue-from-1percent-of-customers/",
       "published": null
     },
     {
