@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-06T21:17:26.236370Z",
+  "generatedAt": "2026-09-06T22:56:13.353084Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:84c0d4cef18485bf",
+      "titleEn": "Anthropic Said to Postpone IPO to Just Before Midterms",
+      "summaryEn": "Anthropic is reportedly pushing back its initial public offering (IPO) to late October. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The artificial intelligence company had been expected to release its IPO prospectus as soon as this week, Reuters reported Friday (Sept. 4), citing sources familiar with the matter.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-said-to-postpone-ipo-to-just-before-midterms/",
+      "published": null
+    },
     {
       "id": "stockanalysis:5c65f48adb275588",
       "titleEn": "More details of the mega Anthropic IPO are coming out: here's what we know",
@@ -87,10 +96,19 @@
     {
       "id": "stockanalysis:047636664917216a",
       "titleEn": "Gold claws back from brutal jobs selloff as markets brace for key inflation data",
-      "summaryEn": "(Kitco News) - Gold bulls are not heading into the long weekend without a fight after stronger-than-expected employment data sparked a brutal selloff Friday morning. The U.S. Labor Department said that 162,000 jobs were created in August, up sharply from economists' expectations for job growth of around 55,000. The robust employment data pulled gold prices down more than $100 within the first 30 minutes after the report. Heading into the North American close ahead of the Labor Day long weekend, gold has managed to push back above a critical support level. Spot gold last traded at $4,423.10 an ounce, down less than 1% on the week. Analysts note that gold’s selloff, while dramatic, was not surprising, as a relatively healthy labor market gives the Federal Reserve room to focus on price stability and try to bring inflation pressures down.",
+      "summaryEn": "(Kitco News) - Gold bulls are not heading into the long weekend without a fight after stronger-than-expected employment data sparked a brutal selloff Friday morning. The U.S. Labor Department said that 162,000 jobs were created in August, up sharply from economists&#x27; expectations for job growth of around 55,000. The robust employment data pulled gold prices down more than $100 within the first 30 minutes after the report. Heading into the North American close ahead of the Labor Day long weekend, gold has managed to push back above a critical support level. Spot gold last traded at $4,423.10 an ounce, down less than 1% on the week.",
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-09-04/gold-claws-back-brutal-jobs-selloff-markets-brace-key-inflation-data",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:57f210078cb014de",
+      "titleEn": "TYGO Investors Have Opportunity to Join Tigo Energy, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260906094221/en/TYGO-Investors-Have-Opportunity-to-Join-Tigo-Energy-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
