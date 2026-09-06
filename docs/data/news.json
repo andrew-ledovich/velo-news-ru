@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-06T06:30:39.109668Z",
+  "generatedAt": "2026-09-06T11:19:46.718509Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:5c65f48adb275588",
+      "titleEn": "More details of the mega Anthropic IPO are coming out: here's what we know",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/06/more-details-of-the-mega-anthropic-ipo-are-coming-out-heres-what-we-know/",
+      "published": null
+    },
     {
       "id": "stockanalysis:2d08d5cbe6b3763f",
       "titleEn": "Software stocks are back from the dead as AI fuels growth: can the rally continue?",
