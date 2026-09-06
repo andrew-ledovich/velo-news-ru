@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-06T19:07:36.640554Z",
+  "generatedAt": "2026-09-06T21:17:26.236370Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:5c65f48adb275588",
@@ -87,19 +87,10 @@
     {
       "id": "stockanalysis:047636664917216a",
       "titleEn": "Gold claws back from brutal jobs selloff as markets brace for key inflation data",
-      "summaryEn": "(Kitco News) - Gold bulls are not heading into the long weekend without a fight after stronger-than-expected employment data sparked a brutal selloff Friday morning. The U.S. Labor Department said that 162,000 jobs were created in August, up sharply from economists&#x27; expectations for job growth of around 55,000. The robust employment data pulled gold prices down more than $100 within the first 30 minutes after the report. Heading into the North American close ahead of the Labor Day long weekend, gold has managed to push back above a critical support level. Spot gold last traded at $4,423.10 an ounce, down less than 1% on the week.",
+      "summaryEn": "(Kitco News) - Gold bulls are not heading into the long weekend without a fight after stronger-than-expected employment data sparked a brutal selloff Friday morning. The U.S. Labor Department said that 162,000 jobs were created in August, up sharply from economists' expectations for job growth of around 55,000. The robust employment data pulled gold prices down more than $100 within the first 30 minutes after the report. Heading into the North American close ahead of the Labor Day long weekend, gold has managed to push back above a critical support level. Spot gold last traded at $4,423.10 an ounce, down less than 1% on the week. Analysts note that gold’s selloff, while dramatic, was not surprising, as a relatively healthy labor market gives the Federal Reserve room to focus on price stability and try to bring inflation pressures down.",
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-09-04/gold-claws-back-brutal-jobs-selloff-markets-brace-key-inflation-data",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:71d2cb3c534e28b5",
-      "titleEn": "Apple stock falls 2% as foldable iPhone production faces supply hurdles",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/04/apple-stock-falls-2-as-foldable-iphone-production-faces-supply-hurdles/",
       "published": null
     },
     {
