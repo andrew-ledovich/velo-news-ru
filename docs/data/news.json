@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-09-07T10:14:37.761280Z",
+  "generatedAt": "2026-09-07T15:51:36.243804Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:9ac508c45861c9a8",
+      "titleEn": "Broadcom stock: Why the AI chipmaker's growth story is gaining steam",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/07/broadcom-stock-why-the-ai-chipmakers-growth-story-is-gaining-steam/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:83c9c8178c1c2a15",
+      "titleEn": "Is Oracle stock a buy before earnings as analysts turn bullish?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/07/is-oracle-stock-a-buy-before-earnings-as-analysts-turn-bullish/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1d9effa7ffdaa545",
+      "titleEn": "Apple to release folded iPhone this week: what to expect",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/07/apple-to-release-folded-iphone-this-week-what-to-expect/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:91ada2039a266b60",
+      "titleEn": "Micron stock: Could doubling HBM capacity create an oversupply headwind?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/07/micron-stock-could-doubling-hbm-capacity-create-an-oversupply-headwind/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:94f5ec20bc41702d",
+      "titleEn": "Lloyds share price forms a risky pattern as insiders sell, risky pattern forms",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/07/lloyds-share-price-forms-a-risky-pattern-as-insiders-sell-risky-pattern-forms/",
+      "published": null
+    },
     {
       "id": "stockanalysis:7d929481a0ce2931",
       "titleEn": "Vodafone share price: Technicals point to a jump to 135p as turnaround continues",
@@ -85,66 +130,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5c65f48adb275588",
-      "titleEn": "More details of the mega Anthropic IPO are coming out: here's what we know",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/06/more-details-of-the-mega-anthropic-ipo-are-coming-out-heres-what-we-know/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2d08d5cbe6b3763f",
-      "titleEn": "Software stocks are back from the dead as AI fuels growth: can the rally continue?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/05/software-stocks-are-back-from-the-dead-as-ai-fuels-growth-can-the-rally-continue/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4ff179656356745d",
-      "titleEn": "GoPro stock soars 200% after Markiplier stake, $285M Starman deal",
+      "id": "stockanalysis:39c2b2ae9c62f4eb",
+      "titleEn": "Eurofins Scientific: Director/PDMR Shareholding",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/05/gopro-stock-soars-200-after-markiplier-stake-285m-starman-deal/",
+      "link": "https://www.businesswire.com/news/home/20260907645056/en/Eurofins-Scientific-DirectorPDMR-Shareholding/",
       "published": null
     },
     {
-      "id": "stockanalysis:cbf2bb0c64ddffbc",
-      "titleEn": "SpaceX stock rally meets another lockup expiry test on September 9: what to expect",
+      "id": "stockanalysis:23a74a622664038b",
+      "titleEn": "Manta to Distribute Manga from KADOKAWA and Square Enix Globally",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/05/spacex-stock-rally-meets-another-lockup-expiry-test-on-september-9-what-to-expect/",
+      "link": "https://www.businesswire.com/news/home/20260907645816/en/Manta-to-Distribute-Manga-from-KADOKAWA-and-Square-Enix-Globally/",
       "published": null
     },
     {
-      "id": "stockanalysis:e7c88d4afdad8b9b",
-      "titleEn": "VinFast's Latest EV Signals the Return of the Microcar",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://www.businesswire.com/news/home/20260907369714/en/VinFasts-Latest-EV-Signals-the-Return-of-the-Microcar/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bf80f3e109eb7243",
-      "titleEn": "Berkshire Hathaway Specialty Insurance Names Katharina Rütz Head of Executive &amp; Professional Lines in Germany",
+      "id": "stockanalysis:58e41df4be01e7d2",
+      "titleEn": "Geely Holding Group Hosts CCC Plugfest #19 as Asia-Pacific Digital Key Ecosystem Expands",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260831840049/en/Berkshire-Hathaway-Specialty-Insurance-Names-Katharina-R%C3%BCtz-Head-of-Executive-Professional-Lines-in-Germany/",
+      "link": "https://www.businesswire.com/news/home/20260906813177/en/Geely-Holding-Group-Hosts-CCC-Plugfest-19-as-Asia-Pacific-Digital-Key-Ecosystem-Expands/",
       "published": null
     },
     {
-      "id": "stockanalysis:23f65da5e85a8819",
-      "titleEn": "Warwickshire Pension Fund Appoints Northern Trust as Asset Servicer",
+      "id": "stockanalysis:168f756505930e85",
+      "titleEn": "Capcom's Onimusha: Way of the Sword Sells Over 1 Million Units on Launch Day!",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260907575389/en/Warwickshire-Pension-Fund-Appoints-Northern-Trust-as-Asset-Servicer/",
+      "link": "https://www.businesswire.com/news/home/20260907554827/en/Capcom%E2%80%99s-Onimusha-Way-of-the-Sword-Sells-Over-1-Million-Units-on-Launch-Day%21/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b56ee7b26afd528a",
+      "titleEn": "Formentera Partners and Daly Waters Energy Achieve First Natural Gas Sales from the Beetaloo Basin",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260907534797/en/Formentera-Partners-and-Daly-Waters-Energy-Achieve-First-Natural-Gas-Sales-from-the-Beetaloo-Basin/",
       "published": null
     }
   ]
