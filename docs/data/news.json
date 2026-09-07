@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-06T22:56:13.353084Z",
+  "generatedAt": "2026-09-07T00:31:55.628395Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:84c0d4cef18485bf",
@@ -109,15 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260906094221/en/TYGO-Investors-Have-Opportunity-to-Join-Tigo-Energy-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e52e66e833a071cc",
-      "titleEn": "Marcus &amp; Millichap's IPA Capital Markets Arranges $75.1 Million Recapitalization for The Monroe Hotel in Miami Beach's Faena District",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260904704037/en/Marcus-Millichap%E2%80%99s-IPA-Capital-Markets-Arranges-75.1-Million-Recapitalization-for-The-Monroe-Hotel-in-Miami-Beach%E2%80%99s-Faena-District/",
       "published": null
     }
   ]
