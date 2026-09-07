@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-09-07T00:31:55.628395Z",
+  "generatedAt": "2026-09-07T05:12:05.948391Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:9ec7fc732e2ba211",
+      "titleEn": "KOSPI surges 3% as AI optimism returns and Goldman backs 12,000 target",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/07/kospi-surges-3-as-ai-optimism-returns-and-goldman-backs-12000-target/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1c4ccb4a99238c05",
+      "titleEn": "SK Hynix jumps 8%, Samsung 4%: why OpenAI's Astra is reigniting the memory trade",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/07/sk-hynix-jumps-8-samsung-4-why-openais-astra-is-reigniting-the-memory-trade/",
+      "published": null
+    },
     {
       "id": "stockanalysis:84c0d4cef18485bf",
       "titleEn": "Anthropic Said to Postpone IPO to Just Before Midterms",
@@ -91,15 +109,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/picpay-launches-anthropic-claude-integration-for-banking-inquiries/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:047636664917216a",
-      "titleEn": "Gold claws back from brutal jobs selloff as markets brace for key inflation data",
-      "summaryEn": "(Kitco News) - Gold bulls are not heading into the long weekend without a fight after stronger-than-expected employment data sparked a brutal selloff Friday morning. The U.S. Labor Department said that 162,000 jobs were created in August, up sharply from economists&#x27; expectations for job growth of around 55,000. The robust employment data pulled gold prices down more than $100 within the first 30 minutes after the report. Heading into the North American close ahead of the Labor Day long weekend, gold has managed to push back above a critical support level. Spot gold last traded at $4,423.10 an ounce, down less than 1% on the week.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-04/gold-claws-back-brutal-jobs-selloff-markets-brace-key-inflation-data",
       "published": null
     },
     {
