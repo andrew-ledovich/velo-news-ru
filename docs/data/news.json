@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-07T19:28:08.506241Z",
+  "generatedAt": "2026-09-07T22:11:06.385445Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:b0494db27891f30e",
+      "titleEn": "Why investors see more upside for SanDisk's 500% rally",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/07/why-investors-see-more-upside-for-sandisks-500-rally/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3fe1042ad8a0a3ee",
       "titleEn": "Citi and DBS Mark 1st Singapore-to-US Weekend Dollar Transaction",
@@ -130,30 +139,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1c4ccb4a99238c05",
-      "titleEn": "SK Hynix jumps 8%, Samsung 4%: why OpenAI's Astra is reigniting the memory trade",
+      "id": "stockanalysis:d980660daa00f9cd",
+      "titleEn": "Berkshire Hathaway Specialty Insurance Introduces Professional First Venture Capital Liability Policy in Australia",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/07/sk-hynix-jumps-8-samsung-4-why-openais-astra-is-reigniting-the-memory-trade/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c99debc6e19da9ae",
-      "titleEn": "Why Meta started losing in court - podcast",
-      "summaryEn": "Katy McQue, who has spent years reporting on Meta and the potential harms its platforms pose to children, explains the tactics being used by prosecutors For years, the investigative journalist Katy McQue has been reporting on the potential harms Meta’s platforms pose to children. Yet, as she explains to Annie Kelly , despite the mountain of evidence compiled by journalists, prosecutors, bereaved families and others, it has been nearly impossible to bring Meta and other social media companies to court.",
-      "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.theguardian.com/news/audio/2026/sep/07/why-meta-started-losing-in-court-podcast",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:84c0d4cef18485bf",
-      "titleEn": "Anthropic Said to Postpone IPO to Just Before Midterms",
-      "summaryEn": "Anthropic is reportedly pushing back its initial public offering (IPO) to late October. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The artificial intelligence company had been expected to release its IPO prospectus as soon as this week, Reuters reported Friday (Sept. 4), citing sources familiar with the matter.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-said-to-postpone-ipo-to-just-before-midterms/",
+      "link": "https://www.businesswire.com/news/home/20260907341345/en/Berkshire-Hathaway-Specialty-Insurance-Introduces-Professional-First-Venture-Capital-Liability-Policy-in-Australia/",
       "published": null
     }
   ]
