@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-09-07T05:12:05.948391Z",
+  "generatedAt": "2026-09-07T10:14:37.761280Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:7d929481a0ce2931",
+      "titleEn": "Vodafone share price: Technicals point to a jump to 135p as turnaround continues",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/07/vodafone-share-price-technicals-point-to-a-jump-to-135p-as-turnaround-continues/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:674a0c2fab06a77a",
+      "titleEn": "Jensen Huang sees AGI arriving with OpenAI's Astra: 3 stocks investors should watch",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/07/jensen-huang-sees-agi-arriving-with-openais-astra-3-stocks-investors-should-watch/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e351c3e35c7e9535",
+      "titleEn": "Nike to lose S&amp;P 100 place as stock sinks to 12-year low: what's ailing NKE?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/07/nike-to-lose-sp-100-place-as-stock-sinks-to-12-year-low-whats-ailing-nke/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c73a8d7749d4129d",
+      "titleEn": "Boomers Fueled Amazon and Walmart Summer Sales Crowds",
+      "summaryEn": "The summer’s biggest retail sales events did more than create a larger shopping crowd. Their overlap also changed who showed up, how much they spent and how consumers moved between retailers. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); A PYMNTS Intelligence report, “ The Overlap Effect: How Amazon and Walmart Expanded the Crowd and Shrank the Basket ,” examined the first-ever overlap between Amazon Prime Day and Walmart Deals in June 2026. Rather than simply dividing shoppers between the two events, the combined promotions drew millions of additional consumers into the market. At the same time, average spending per shopper declined at both retailers, suggesting that the larger audience included more consumers focused on finding specific deals rather than filling their carts.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/retail/2026/boomers-fueled-amazon-and-walmart-summer-sales-crowds/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:eaecd518d3153b85",
+      "titleEn": "Why Robinhood stock's fresh bullish upgrade could be a warning sign",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/07/why-robinhood-stocks-fresh-bullish-upgrade-could-be-a-warning-sign/",
+      "published": null
+    },
     {
       "id": "stockanalysis:9ec7fc732e2ba211",
       "titleEn": "KOSPI surges 3% as AI optimism returns and Goldman backs 12,000 target",
@@ -19,6 +64,15 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/09/07/sk-hynix-jumps-8-samsung-4-why-openais-astra-is-reigniting-the-memory-trade/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c99debc6e19da9ae",
+      "titleEn": "Why Meta started losing in court - podcast",
+      "summaryEn": "Katy McQue, who has spent years reporting on Meta and the potential harms its platforms pose to children, explains the tactics being used by prosecutors For years, the investigative journalist Katy McQue has been reporting on the potential harms Meta’s platforms pose to children. Yet, as she explains to Annie Kelly , despite the mountain of evidence compiled by journalists, prosecutors, bereaved families and others, it has been nearly impossible to bring Meta and other social media companies to court.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.theguardian.com/news/audio/2026/sep/07/why-meta-started-losing-in-court-podcast",
       "published": null
     },
     {
@@ -67,57 +121,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:873978a86499bda3",
-      "titleEn": "PayPal Pauses Venture Capital Portfolio Sale After Lowball Offers",
-      "summaryEn": "PayPal has paused its planned sale of its venture capital portfolio after offers came in at no higher than 60 cents on the dollar, Seeking Alpha reported Friday (Sept. 4), citing a paywalled article by Axios that was based on unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The investments in PayPal’s portfolio include shopping app Tabby and crypto platform Anchorage , and the company’s attempt to sell the portfolio followed its decision earlier this year to wind down its venture capital arm, according to the report.",
+      "id": "stockanalysis:e7c88d4afdad8b9b",
+      "titleEn": "VinFast's Latest EV Signals the Return of the Microcar",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/paypal-pauses-venture-capital-portfolio-sale-after-lowball-offers/",
+      "topic": "EV",
+      "link": "https://www.businesswire.com/news/home/20260907369714/en/VinFasts-Latest-EV-Signals-the-Return-of-the-Microcar/",
       "published": null
     },
     {
-      "id": "stockanalysis:7c74d8254a125f6b",
-      "titleEn": "Gold crosses a historic milestone, Fed says 'Yeah, but",
-      "summaryEn": "(Kitco News) - There’s an old saying that if you have to explain why something isn’t important, there is probably a reason people are paying attention to it. That aphorism comes to mind after reading the Federal Reserve’s latest research note attempting to contextualize an important milestone for gold: in 2025, the value of global official gold reserves surpassed foreign official holdings of U.S. Treasury securities. This achievement was first recognized by Tavi Costa, Founder of Azuria Capital LLC exactly one year ago. Since then, gold’s success has been recognized by major financial institutions including the International Monetary Fund. The timing of the Fed’s argument is particularly interesting, as the U.S. Treasury recently announced that it would double its purchases of longer-dated government bonds through its buyback program. Although these purchases are not formally recognized as yield-curve control, they shouldn&#x27;t be ignored. If there was sufficient private and institutional demand at the long end of the Treasury curve, the government would have no reason to step in and provide additional liquidity itself. Against that backdrop, gold&#x27;s growing prominence deserves more attention, not less. The Fed makes some legitimate points. It argues that gold’s rise above Treasuries was driven largely by higher prices rather than a dramatic acceleration in central bank purchases. It also notes that global reserves include massive legacy holdings accumulated during the Bretton Woods era. Those are important qualifications, but they don&#x27;t make the milestone irrelevant. Even after removing U.S. holdings, the Fed acknowledges that sovereign gold reserves were worth $4 trillion at the end of 2025, slightly more than the $3.9 trillion in Treasuries held by foreign official institutions. More importantly, central banks continue to demonstrate through their actions that gold matters. According to the World Gold Council&#x27;s 2026 Central Bank Gold Reserves Survey, central banks have purchased an average of roughly 1,000 tonnes annually during the past four years , double the average pace of the previous decade. A record 45% of respondents said they expect to increase their own gold reserves during the next 12 months, while 89% expect global central bank gold holdings to rise. Looking further out, 84% expect gold to represent a larger share of global reserves five years from now, while 74% expect the U.S. dollar&#x27;s share to decline. Those aren&#x27;t the responses of institutions treating gold merely as a Bretton Woods relic. None of this means the dollar is about to lose its dominant reserve-currency status. Nor does it mean Treasuries have suddenly become irrelevant. They remain among the world&#x27;s deepest and most liquid financial assets. But that isn&#x27;t really the point. The important development isn&#x27;t that gold has replaced the dollar. It&#x27;s that central banks increasingly see gold as a strategic monetary asset alongside—and, at the margin, instead of—traditional dollar reserves. The Fed can explain away the technical reasons that gold surpassed Treasuries, but it shouldn&#x27;t dismiss what the milestone represents. Gold has become an important monetary asset in global financial markets.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-04/gold-crosses-historic-milestone-fed-says-yeah",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1212319401752123",
-      "titleEn": "Wall Street indecisive after gold price rollercoaster ride, Main Street clings to bullish majority as CPI takes center stage",
-      "summaryEn": "(Kitco News) – Gold prices saw another volatile week, as a sharp midweek rebound driven by softer yields, a weaker U.S. dollar, and less-hawkish Fed commentary was largely erased on Friday after stronger-than-expected U.S. payrolls revived expectations for a September rate hike. Spot gold kicked off the week trading at $4,439.15 per ounce on Sunday evening, and the yellow metal initially came under pressure as traders continued to digest the prior week’s sharp selloff, elevated Treasury yields, and lingering inflation concerns tied to oil prices and the U.S.-Iran conflict. The decline accelerated Tuesday, with gold breaking below $4,300 overnight to set the weekly low of $4,282.61 per ounce before buyers emerged. Gold prices recovered Wednesday, and rallied sharply on Thursday after softer private-sector labor data, easing Treasury yields, and less hawkish comments from Fed Governor Christopher Waller helped traders trim expectations for an imminent Fed hike. The move carried spot prices back above $4,500, where gold set its weekly high at $4,511.08 per ounce on Thursday.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-04/wall-street-indecisive-after-gold-price-rollercoaster-ride-main-street",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a5c5ffe333c23957",
-      "titleEn": "Gold, silver prices slide as strong payrolls revive Fed-hike trade - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in late-afternoon U.S. trading Friday, after a stronger-than-expected August employment report lifted Treasury yields, firmed the U.S. dollar and revived expectations that the Federal Reserve could raise rates at its Sept. 15-16 meeting. At the time of writing, spot gold was trading near $4,429.40 an ounce, down 0.96%, while spot silver was trading at $66.040, down 1.21% on the session. North American equity markets closed lower as the jobs report pushed rate risk back into focus. The S&P 500 fell 29.11 points, or 0.4%, to 7,718.60, the Dow Jones Industrial Average dropped 271.86 points, or 0.5%, to 53,414.25, the Nasdaq Composite lost 77.07 points, or 0.3%, to 26,506.99, and the Russell 2000 rose 7.38 points, or 0.2%, to 2,975.65. European markets finished mixed, with the STOXX Europe 600 up 0.12% to 649.88. London’s FTSE 100 was virtually unchanged at 10,831.09, Germany’s DAX rose 0.17% to 26,046.40, France’s CAC 40 slipped 0.09% to 8,278.77, and Italy’s FTSE MIB fell 0.28% to 52,100.43. The latest positioning turned back against precious metals after nonfarm payrolls rose by 162,000 in August, well above expectations , while June and July revisions added 55,000 jobs and the unemployment rate held at 4.1%. The two-year Treasury yield rose to about 4.37% to 4.38%, its highest level since January 2025, while the 10-year yield traded near 4.77% to 4.78%. Fed-hike pricing moved back into the 60% to 65% area, up from roughly coin-flip levels before the release. The next policy inputs are next week’s PPI and CPI reports, with CPI due Sept. 11. For gold, the jobs print shifted the market away from Thursday’s Waller-led pause trade and back toward the Warsh view that inflation remains the dominant risk.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-04/gold-silver-prices-slide-strong-payrolls-revive-fed-hike-trade-kitco-pm",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:30577f51a19ddf30",
-      "titleEn": "PicPay Launches Anthropic Claude Integration for Banking Inquiries",
-      "summaryEn": "Brazilian digital bank PicPay has begun rolling out an integration with Anthropic ’s Claude that enables PicPay customers to check financial information in Claude by using natural-language commands. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The experience is focused on financial inquiries and monitoring. It includes the ability to check account and savings balances, view outstanding bills, check investments, view active cards, access favorite Pix contacts, check recent transactions, view upcoming transactions, check credit card statement balances and view completed credit card transactions, according to the release.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/picpay-launches-anthropic-claude-integration-for-banking-inquiries/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:57f210078cb014de",
-      "titleEn": "TYGO Investors Have Opportunity to Join Tigo Energy, Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:bf80f3e109eb7243",
+      "titleEn": "Berkshire Hathaway Specialty Insurance Names Katharina Rütz Head of Executive &amp; Professional Lines in Germany",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260906094221/en/TYGO-Investors-Have-Opportunity-to-Join-Tigo-Energy-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20260831840049/en/Berkshire-Hathaway-Specialty-Insurance-Names-Katharina-R%C3%BCtz-Head-of-Executive-Professional-Lines-in-Germany/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:23f65da5e85a8819",
+      "titleEn": "Warwickshire Pension Fund Appoints Northern Trust as Asset Servicer",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260907575389/en/Warwickshire-Pension-Fund-Appoints-Northern-Trust-as-Asset-Servicer/",
       "published": null
     }
   ]
