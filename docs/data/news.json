@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-07T15:51:36.243804Z",
+  "generatedAt": "2026-09-07T19:28:08.506241Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:3fe1042ad8a0a3ee",
+      "titleEn": "Citi and DBS Mark 1st Singapore-to-US Weekend Dollar Transaction",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The Saturday (Sept. 5) transaction was executed using tokenized deposits via the Swift Digital Ledger , the release said. Companies that transact in U.S. dollars across jurisdictions and time zones can now execute cross-border payments outside of regular banking hours, per the release.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/cross-border-payments/2026/citi-dbs-mark-1st-singapore-united-states-weekend-dollar-transaction/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4ee2d676823d8c02",
+      "titleEn": "Nvidia CEO: Artificial General Intelligence Has ‘Arrived' With New OpenAI Model",
+      "summaryEn": "Nvidia CEO Jensen Huang once again trumpeted the arrival of artificial general intelligence (AGI). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Huang congratulated OpenAI in a Sunday (Sept. 6) post on social platform X after the startup released its latest AI model, which was trained on Nvidia’s chips.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-ceo-artificial-general-intelligence-has-arrived-with-new-openai-model/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4260b86118368899",
+      "titleEn": "DRAM ETF gained 18% last month: can it continue its outperformance",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/09/07/dram-etf-gained-18-last-month-can-it-continue-its-outperformance/",
+      "published": null
+    },
     {
       "id": "stockanalysis:9ac508c45861c9a8",
       "titleEn": "Broadcom stock: Why the AI chipmaker's growth story is gaining steam",
@@ -127,51 +154,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-said-to-postpone-ipo-to-just-before-midterms/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:39c2b2ae9c62f4eb",
-      "titleEn": "Eurofins Scientific: Director/PDMR Shareholding",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260907645056/en/Eurofins-Scientific-DirectorPDMR-Shareholding/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:23a74a622664038b",
-      "titleEn": "Manta to Distribute Manga from KADOKAWA and Square Enix Globally",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260907645816/en/Manta-to-Distribute-Manga-from-KADOKAWA-and-Square-Enix-Globally/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:58e41df4be01e7d2",
-      "titleEn": "Geely Holding Group Hosts CCC Plugfest #19 as Asia-Pacific Digital Key Ecosystem Expands",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260906813177/en/Geely-Holding-Group-Hosts-CCC-Plugfest-19-as-Asia-Pacific-Digital-Key-Ecosystem-Expands/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:168f756505930e85",
-      "titleEn": "Capcom's Onimusha: Way of the Sword Sells Over 1 Million Units on Launch Day!",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260907554827/en/Capcom%E2%80%99s-Onimusha-Way-of-the-Sword-Sells-Over-1-Million-Units-on-Launch-Day%21/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b56ee7b26afd528a",
-      "titleEn": "Formentera Partners and Daly Waters Energy Achieve First Natural Gas Sales from the Beetaloo Basin",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260907534797/en/Formentera-Partners-and-Daly-Waters-Energy-Achieve-First-Natural-Gas-Sales-from-the-Beetaloo-Basin/",
       "published": null
     }
   ]
