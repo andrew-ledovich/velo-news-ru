@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-08T04:54:23.551652Z",
+  "generatedAt": "2026-09-08T09:13:34.977107Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:3196ad52697e811f",
+      "titleEn": "Novartis stock falls 10% after second drug setback in a week; analyst cuts PT",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/novartis-stock-falls-10-after-second-drug-setback-in-a-week-analyst-cuts-pt/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1ab721f5f178db92",
+      "titleEn": "Meta stock jumps 4% after Muse Spark 1.3: why BofA still sees 32% upside",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/meta-stock-muse-spark-1-3-bofa-32-upside/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:41fc3c79e84bba29",
+      "titleEn": "Apple's foldable iPhone could add $14 billion: why Wall Street still fears a selloff",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/apple-foldable-iphone-14-billion-wall-street-selloff-risk/",
+      "published": null
+    },
     {
       "id": "stockanalysis:7fe68e3fadb379f9",
       "titleEn": "Samsung, SK Hynix send KOSPI above 7,100 as Nikkei buckles under yen pressure",
@@ -94,93 +121,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:94f5ec20bc41702d",
-      "titleEn": "Lloyds share price forms a risky pattern as insiders sell, risky pattern forms",
+      "id": "stockanalysis:7cbb1d93091f17a0",
+      "titleEn": "Universal Electronics and Eneco Partner to Launch the Next-Generation Smart Thermostat, Enabling Richer Customer Engagement for Utilities",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/07/lloyds-share-price-forms-a-risky-pattern-as-insiders-sell-risky-pattern-forms/",
+      "link": "https://www.businesswire.com/news/home/20260908312501/en/Universal-Electronics-and-Eneco-Partner-to-Launch-the-Next-Generation-Smart-Thermostat-Enabling-Richer-Customer-Engagement-for-Utilities/",
       "published": null
     },
     {
-      "id": "stockanalysis:7d929481a0ce2931",
-      "titleEn": "Vodafone share price: Technicals point to a jump to 135p as turnaround continues",
+      "id": "stockanalysis:8c57d00adbe0cda3",
+      "titleEn": "Red Sea Global Unveils Nammos Resort AMAALA, Introducing Nammos' First Resort Hotel Globally",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/07/vodafone-share-price-technicals-point-to-a-jump-to-135p-as-turnaround-continues/",
+      "link": "https://www.businesswire.com/news/home/20260908621917/en/Red-Sea-Global-Unveils-Nammos-Resort-AMAALA-Introducing-Nammos%E2%80%99-First-Resort-Hotel-Globally/",
       "published": null
     },
     {
-      "id": "stockanalysis:674a0c2fab06a77a",
-      "titleEn": "Jensen Huang sees AGI arriving with OpenAI's Astra: 3 stocks investors should watch",
+      "id": "stockanalysis:f4ee02553065b3bc",
+      "titleEn": "Icon Solutions and MongoDB Benchmark Shows IPF Processing 6,000 Payments per Second with Zero Data Loss Under Failure",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260908361272/en/Icon-Solutions-and-MongoDB-Benchmark-Shows-IPF-Processing-6000-Payments-per-Second-with-Zero-Data-Loss-Under-Failure/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7d9703b20c5013d7",
+      "titleEn": "CIOs Carry the Blame for AI Failure, Often Without the Authority to Prevent It, 8x8 Survey Finds",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/07/jensen-huang-sees-agi-arriving-with-openais-astra-3-stocks-investors-should-watch/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e351c3e35c7e9535",
-      "titleEn": "Nike to lose S&amp;P 100 place as stock sinks to 12-year low: what's ailing NKE?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/07/nike-to-lose-sp-100-place-as-stock-sinks-to-12-year-low-whats-ailing-nke/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c73a8d7749d4129d",
-      "titleEn": "Boomers Fueled Amazon and Walmart Summer Sales Crowds",
-      "summaryEn": "The summer’s biggest retail sales events did more than create a larger shopping crowd. Their overlap also changed who showed up, how much they spent and how consumers moved between retailers. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); A PYMNTS Intelligence report, “ The Overlap Effect: How Amazon and Walmart Expanded the Crowd and Shrank the Basket ,” examined the first-ever overlap between Amazon Prime Day and Walmart Deals in June 2026. Rather than simply dividing shoppers between the two events, the combined promotions drew millions of additional consumers into the market. At the same time, average spending per shopper declined at both retailers, suggesting that the larger audience included more consumers focused on finding specific deals rather than filling their carts.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/retail/2026/boomers-fueled-amazon-and-walmart-summer-sales-crowds/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3150cca84c5bb641",
-      "titleEn": "Escape “Unglammy Valley” with e.l.f. Cosmetic's Soft Glam Satin Foundation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260907067540/en/Escape-%E2%80%9CUnglammy-Valley%E2%80%9D-with-e.l.f.-Cosmetic%E2%80%99s-Soft-Glam-Satin-Foundation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:39cf2bbdc7653506",
-      "titleEn": "QWEEN Launches Hyper-Realistic 3D Jewellery Virtual Try-On for Indian Shoppers with Perfect Corp.",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260906064783/en/QWEEN-Launches-Hyper-Realistic-3D-Jewellery-Virtual-Try-On-for-Indian-Shoppers-with-Perfect-Corp./",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a861361697512d29",
-      "titleEn": "Mitsubishi Electric to Aid Victims of Earthquake in Kumamoto Through In-house Donation Program",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260907664887/en/Mitsubishi-Electric-to-Aid-Victims-of-Earthquake-in-Kumamoto-Through-In-house-Donation-Program/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b67a5b5da7c6e3aa",
-      "titleEn": "EdgeCortix Signs Multi-Year, Multimillion-Dollar Agreement with Kawasaki Heavy Industries to Advance Next-Generation AI-Enabled Aerial Defense Systems",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260902820178/en/EdgeCortix-Signs-Multi-Year-Multimillion-Dollar-Agreement-with-Kawasaki-Heavy-Industries-to-Advance-Next-Generation-AI-Enabled-Aerial-Defense-Systems/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2041c407819b816a",
-      "titleEn": "Ngarlawangga Aboriginal Corporation and Rio Tinto sign Interim Modernised Agreement",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260907004218/en/Ngarlawangga-Aboriginal-Corporation-and-Rio-Tinto-sign-Interim-Modernised-Agreement/",
+      "link": "https://www.businesswire.com/news/home/20260908628074/en/CIOs-Carry-the-Blame-for-AI-Failure-Often-Without-the-Authority-to-Prevent-It-8x8-Survey-Finds/",
       "published": null
     }
   ]
