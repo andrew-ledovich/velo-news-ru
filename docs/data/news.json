@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-09-08T00:21:57.470939Z",
+  "generatedAt": "2026-09-08T04:54:23.551652Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 20,
   "items": [
+    {
+      "id": "stockanalysis:7fe68e3fadb379f9",
+      "titleEn": "Samsung, SK Hynix send KOSPI above 7,100 as Nikkei buckles under yen pressure",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/samsung-sk-hynix-send-kospi-above-7100-as-nikkei-buckles-under-yen-pressure/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f7995fc620a6025b",
+      "titleEn": "Michael Burry calls Lululemon his portfolio trickster: why he is buying the crash",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/michael-burry-calls-lululemon-his-portfolio-trickster-why-he-is-buying-the-crash/",
+      "published": null
+    },
     {
       "id": "stockanalysis:b0494db27891f30e",
       "titleEn": "Why investors see more upside for SanDisk's 500% rally",
@@ -121,21 +139,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:eaecd518d3153b85",
-      "titleEn": "Why Robinhood stock's fresh bullish upgrade could be a warning sign",
+      "id": "stockanalysis:3150cca84c5bb641",
+      "titleEn": "Escape “Unglammy Valley” with e.l.f. Cosmetic's Soft Glam Satin Foundation",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/07/why-robinhood-stocks-fresh-bullish-upgrade-could-be-a-warning-sign/",
+      "link": "https://www.businesswire.com/news/home/20260907067540/en/Escape-%E2%80%9CUnglammy-Valley%E2%80%9D-with-e.l.f.-Cosmetic%E2%80%99s-Soft-Glam-Satin-Foundation/",
       "published": null
     },
     {
-      "id": "stockanalysis:9ec7fc732e2ba211",
-      "titleEn": "KOSPI surges 3% as AI optimism returns and Goldman backs 12,000 target",
+      "id": "stockanalysis:39cf2bbdc7653506",
+      "titleEn": "QWEEN Launches Hyper-Realistic 3D Jewellery Virtual Try-On for Indian Shoppers with Perfect Corp.",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260906064783/en/QWEEN-Launches-Hyper-Realistic-3D-Jewellery-Virtual-Try-On-for-Indian-Shoppers-with-Perfect-Corp./",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a861361697512d29",
+      "titleEn": "Mitsubishi Electric to Aid Victims of Earthquake in Kumamoto Through In-house Donation Program",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260907664887/en/Mitsubishi-Electric-to-Aid-Victims-of-Earthquake-in-Kumamoto-Through-In-house-Donation-Program/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b67a5b5da7c6e3aa",
+      "titleEn": "EdgeCortix Signs Multi-Year, Multimillion-Dollar Agreement with Kawasaki Heavy Industries to Advance Next-Generation AI-Enabled Aerial Defense Systems",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/07/kospi-surges-3-as-ai-optimism-returns-and-goldman-backs-12000-target/",
+      "link": "https://www.businesswire.com/news/home/20260902820178/en/EdgeCortix-Signs-Multi-Year-Multimillion-Dollar-Agreement-with-Kawasaki-Heavy-Industries-to-Advance-Next-Generation-AI-Enabled-Aerial-Defense-Systems/",
       "published": null
     },
     {
@@ -145,33 +181,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260907004218/en/Ngarlawangga-Aboriginal-Corporation-and-Rio-Tinto-sign-Interim-Modernised-Agreement/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7a8eaac1a3434ab5",
-      "titleEn": "Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Sets August Monthly Sales Record of 158 Units; Makes Further Steps in Reducing Debt and Optimizing FF's Capital Structure; New Updates on “Built in USA” Acceleration Program",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260907690568/en/Faraday-Future-Founder-and-Global-CEO-YT-Jia-Shares-Weekly-Investor-Update-Sets-August-Monthly-Sales-Record-of-158-Units-Makes-Further-Steps-in-Reducing-Debt-and-Optimizing-FF%E2%80%99s-Capital-Structure-New-Updates-on-%E2%80%9CBuilt-in-USA%E2%80%9D-Acceleration-Program/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f0d6c1a97bea40fd",
-      "titleEn": "DigitalBridge Opens Tokyo Office to Expand Japan Platform",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260907010077/en/DigitalBridge-Opens-Tokyo-Office-to-Expand-Japan-Platform/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d980660daa00f9cd",
-      "titleEn": "Berkshire Hathaway Specialty Insurance Introduces Professional First Venture Capital Liability Policy in Australia",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260907341345/en/Berkshire-Hathaway-Specialty-Insurance-Introduces-Professional-First-Venture-Capital-Liability-Policy-in-Australia/",
       "published": null
     }
   ]
