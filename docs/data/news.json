@@ -1,8 +1,170 @@
 {
-  "generatedAt": "2026-09-08T13:38:12.802907Z",
+  "generatedAt": "2026-09-08T17:28:59.253145Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 27,
   "items": [
+    {
+      "id": "stockanalysis:351a38da8f579b07",
+      "titleEn": "Why is CoreWeave stock surging 16% today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/why-is-coreweave-stock-surging-16-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:092f406ca7ee94c3",
+      "titleEn": "Qualcomm stock jumps 4% as Amazon signs on for custom AI data center chips",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/08/qualcomm-stock-jumps-4-as-amazon-signs-on-for-custom-ai-data-center-chips/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6582a789ce0e38e6",
+      "titleEn": "Fifth Third Completes Comerica Integration to Become 9th Largest US Bank",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The conversion, which followed the Feb. 1 merger of Fifth Third and Comerica, brought Comerica consumer and commercial customers onto Fifth Third’s platforms and brought the two companies under the Fifth Third brand, according to the release. About 600,000 customer accounts and 293 banking centers in Arizona, California, Florida, Michigan and Texas were involved in the conversion, the release said.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/fifth-third-completes-comerica-integration-become-9th-largest-united-states-bank/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2158b29d445295a5",
+      "titleEn": "‘Synchronised build-up of physical, futures, and options exposure' to drive gold price higher - Société Générale",
+      "summaryEn": "(Kitco News) – ETFs, futures and options positioning all indicate that gold remains in a broad-based bull market in 2026, with multiple independent demand channels reinforcing one other, according to analysts at Société Générale. “Gold has entered a new phase of its 2026 bull run, one defined less by speculative momentum and more by broad-based, structural conviction across every category of market participant,” wrote Société Générale analysts Michael Haigh and Jeremy Sellem on Monday. “What began as a geopolitical shock, evolved over the following months into something far more durable: a synchronised build-up of physical, futures, and options exposure that now spans retail investors, professional money managers, and derivatives traders alike.” The analysts noted that last month’s gold ETF demand was historic in scale. “In August, gold ETFs registered a substantial 201 tonnes of net inflows, marking the third-largest monthly addition on record in tonnage terms after now famous world events: February 2009 and the stimulus package announced by the newly inaugurated Obama administration, and March 2020 with the start of the lockdown for Covid globally,” they said. “This month&#x27;s inflow surpassed the strong inflows recorded in March 2022 following Russia&#x27;s invasion of Ukraine and in September 2012 after the Federal Reserve&#x27;s announcement of QE3.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-08/synchronised-build-physical-futures-and-options-exposure-drive-gold-price",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7670da7b30759c3a",
+      "titleEn": "Marvell Technology stock faces more pain ahead despite solid revenue numbers",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/marvell-technology-stock-faces-more-pain-ahead-despite-solid-revenue-numbers/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:22fcfd0e7cf91f8b",
+      "titleEn": "Why is Oracle stock up nearly 4% today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/why-is-oracle-stock-up-nearly-4-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6b5af75e3866c940",
+      "titleEn": "EverBank-WaFd Deal Bridges Banking's Digital and Branch Divide",
+      "summaryEn": "EverBank’s national digital business and WaFd’s branch network put two different approaches to gathering deposits and serving customers inside one institution. Second-quarter bank earnings show that digital engagement is becoming closely connected with account acquisition, payments activity and broader customer relationships. Young consumers strengthen the case for digital access, but the EverBank and WaFd deal suggests banks need not treat physical and digital distribution as competing models.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/everbank-wafd-deal-bridges-banking-digital-branch-divide/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:db042ba8760c2b2a",
+      "titleEn": "Astera Labs stock is recovering: does it have more upside as growth continues?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/astera-labs-stock-is-recovering-does-it-have-more-upside-as-growth-continues/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:eed678c13d0ed606",
+      "titleEn": "Intel stock jumps 8% on report of 10% chip price hike in October",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/intel-stock-jumps-8-on-report-of-10-chip-price-hike-in-october/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:211e907e82dfe9c2",
+      "titleEn": "Why Nvidia stock is down over 1% today even as AI peers are surging",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/08/why-nvidia-stock-is-down-over-1-today-even-as-ai-peers-are-surging/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:febb4cfe85d3910c",
+      "titleEn": "China's central bank buys 20.2 tonnes of gold in August, largest purchase since 2023",
+      "summaryEn": "(Kitco News) – The People’s Bank of China (PBoC) added 20.2 metric tonnes of gold to its reserves in August, its largest monthly purchase since October 2023, the State Administration of Foreign Exchange (SAFE) announced on Monday. Last month’s purchases brought the country’s total official holdings to roughly 2,387 tonnes. China has now increased its gold reserves for 22 consecutive months, and has added approximately 80 tonnes of bullion during the first eight months of 2026. The valuation of China’s gold reserves has also increased significantly, rising from $306.35 billion at the end of July to $350.08 billion by the end of August—an increase of roughly $43.7 billion last month alone.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-08/chinas-central-bank-buys-202-tonnes-gold-august-largest-purchase-2023",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a985982181408b1d",
+      "titleEn": "Mistral Raises $3.5 Billion for AI Research in Record EU Funding Round",
+      "summaryEn": "France-based artificial intelligence startup Mistral raised a record 3 billion euros (about $3.5 billion) in funding, according to a Tuesday (Sept. 8) company blog post . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The company’s Series D is the largest equity fundraising round on record for a European tech company, per the post. The financing, which values Mistral at 21 billion euros (about $24 billion), will expand the 3-year-old company’s frontier research and infrastructure, while also scaling commercial growth.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/mistral-raises-3-billion-dollars-ai-research-record-european-union-funding-round/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e4b9d31937287cc9",
+      "titleEn": "SCHD ETF rally has stalled as a major risk emerges despite soaring inflows",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/09/08/schd-etf-rally-has-stalled-as-a-major-risk-emerges-despite-soaring-inflows/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:caafccbdf461fa11",
+      "titleEn": "Bloom Energy stock surges 8% as S&amp;P 500 inclusion boosts investor interest",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/bloom-energy-stock-surges-8-as-sp-500-inclusion-boosts-investor-interest/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0536398ee1b3fa80",
+      "titleEn": "ALLW: Is this Ray Dalio's All Weather fund a good ETF to buy today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/09/08/allw-is-this-ray-dalios-all-weather-fund-a-good-etf-to-buy-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:11c8cb127fa9616c",
+      "titleEn": "SpaceX stock could see massive buying on Nasdaq 100 rebalance: will SPCX rally?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/spacex-stock-could-see-massive-buying-on-nasdaq-100-rebalance-will-spcx-rally/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e1ae5490a6014c1f",
+      "titleEn": "Micron stock: a coiled spring ready to pounce ahead of earnings?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/micron-stock-a-coiled-spring-ready-to-pounce-ahead-of-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6277a636a7b8eda4",
+      "titleEn": "How Pinterest Built an AI Engine Users Actually Trust",
+      "summaryEn": "Pinterest is best known as a place where people go to find ideas, from home décor to weeknight dinners. Behind that simple experience sits one of the most complex artificial intelligence systems in social media. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Pinterest serves 600 million people every month and processes more than 500 petabytes of data, and it needed a way to recommend the right image out of billions of options in real time. The bigger challenge was doing this without becoming just another feed built to keep people scrolling. Pinterest wanted AI that pointed users toward genuine inspiration, not one designed to maximize time spent on the app. That meant building trust and safety into the technology from the start, not adding it later as a patch.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/how-pinterest-built-ai-engine-users-actually-trust/",
+      "published": null
+    },
     {
       "id": "stockanalysis:212f810271b66002",
       "titleEn": "Can the S&amp;P 500 rise further despite high valuations? HSBC says yes: here's why",
@@ -13,111 +175,75 @@
       "published": null
     },
     {
-      "id": "stockanalysis:90e92d30a4ae6ff5",
-      "titleEn": "Bombardier stock in focus as Trump threatens US sales ban that may not hold up",
+      "id": "stockanalysis:e069607a8562c486",
+      "titleEn": "Gilead Opens State-of-the-Art Research Center to Advance the Next Generation of Medicines",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/bombardier-stock-in-focus-as-trump-threatens-us-sales-ban-that-may-not-hold-up/",
+      "link": "https://www.businesswire.com/news/home/20260908951870/en/Gilead-Opens-State-of-the-Art-Research-Center-to-Advance-the-Next-Generation-of-Medicines/",
       "published": null
     },
     {
-      "id": "stockanalysis:6ceadae7c427837b",
-      "titleEn": "Gold, silver slip as oil spike keeps Fed-hike trade alive - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in early U.S. trading Tuesday, as rising oil prices and elevated Treasury yields kept pressure on non-yielding metals ahead of this week’s U.S. inflation reports. At the time of writing, spot gold was trading near $4,392.60 an ounce, down 0.28%, while spot silver was trading at $65.740, down 0.47% on the session. The latest positioning remains built around the strong August payrolls report and the final inflation tests before the Fed’s Sept. 15-16 meeting. Markets are pricing roughly a 60% probability of a September rate hike after last week’s 162,000 payroll gain, while traders now turn to Thursday’s Producer Price Index and Friday’s Consumer Price Index for confirmation on whether inflation is strong enough to validate that pricing. The two-year Treasury yield is trading near 4.36%, the 10-year yield is near 4.78% to 4.81%, and the 30-year yield is near 5.27%. For gold, the setup is rate-negative unless the inflation data cool materially: strong CPI or PPI would reinforce the hike case, lift yields and weigh on bullion, while softer inflation would revive the Waller-led pause argument and could trigger short-covering. Gold and silver remain caught between defensive demand and the rates channel. Gold is trying to hold above the $4,365 support level after repeated failures below the $4,422 to $4,465 resistance zone, while silver is compressing below $67.21 as the market waits for the next macro break. The weaker dollar is providing some support, but oil-led inflation pressure and elevated yields are still the dominant constraints. The short-term metals trade is therefore less about safe-haven demand alone and more about whether the inflation data break the current 60% Fed-hike pricing.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-08/gold-silver-slip-oil-spike-keeps-fed-hike-trade-alive-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:edc9957b411d5b1d",
-      "titleEn": "GameStop earnings preview: eBay gains set to mask a shrinking core business",
+      "id": "stockanalysis:3c8bce059b2bae57",
+      "titleEn": "PGT WinGuard Vinyl Line Named a Winner and Honorable Mention in Inaugural The Construction Specifier Readers' Choice Product Awards",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/gamestop-earnings-preview-ebay-gains-set-to-mask-a-shrinking-core-business/",
+      "link": "https://www.businesswire.com/news/home/20260908671135/en/PGT-WinGuard-Vinyl-Line-Named-a-Winner-and-Honorable-Mention-in-Inaugural-The-Construction-Specifier-Readers%E2%80%99-Choice-Product-Awards/",
       "published": null
     },
     {
-      "id": "stockanalysis:4db576afd3ef158b",
-      "titleEn": "S&amp;P 500 Index, VOO, SPY ETFs: Why US stocks are poised to surge further",
+      "id": "stockanalysis:82154672bcdde748",
+      "titleEn": "Moody's Revises Ellington Financial's Rating Outlook to Positive, Affirms Ba3 Corporate Family Rating",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/sp-500-index-voo-spy-etfs-why-us-stocks-are-poised-to-surge-further/",
+      "link": "https://www.businesswire.com/news/home/20260908041077/en/Moody%E2%80%99s-Revises-Ellington-Financial%E2%80%99s-Rating-Outlook-to-Positive-Affirms-Ba3-Corporate-Family-Rating/",
       "published": null
     },
     {
-      "id": "stockanalysis:3381d550e9785beb",
-      "titleEn": "Why is $100 oil becoming a bigger threat to the FTSE 100 than investors think?",
+      "id": "stockanalysis:dee8498faa9f99f2",
+      "titleEn": "Paramount+ and T-Mobile Arena Launch Paramount+ Plaza in New Multi-Year Partnership",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/why-is-100-oil-becoming-a-bigger-threat-to-the-ftse-100-than-investors-think/",
+      "link": "https://www.businesswire.com/news/home/20260908329834/en/Paramount-and-T-Mobile-Arena-Launch-Paramount-Plaza-in-New-Multi-Year-Partnership/",
       "published": null
     },
     {
-      "id": "stockanalysis:4b4bdad391ababab",
-      "titleEn": "Micron and SanDisk up nearly 2% premarket, but one risk is getting harder to ignore",
+      "id": "stockanalysis:b81cd6ffe29f29db",
+      "titleEn": "Schwab Trading Activity Index™: STAX Score Dips in August",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/micron-and-sandisk-up-nearly-2-premarket-but-one-risk-is-getting-harder-to-ignore/",
+      "link": "https://www.businesswire.com/news/home/20260908494686/en/Schwab-Trading-Activity-Index%E2%84%A2-STAX-Score-Dips-in-August/",
       "published": null
     },
     {
-      "id": "stockanalysis:ef7b2cfc7d33e05b",
-      "titleEn": "Anthropic Scuttles Plans to Acquire AI Company Decart",
-      "summaryEn": "Anthropic has reportedly walked away from a $6 billion deal to acquire AI startup Decart . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a report late Monday (Sept. 7) by Bloomberg News, citing sources familiar with the matter. Anthropic had been considering a deal and had conducted due diligence on Decart but ultimately chose not to pursue the acquisition, the sources said.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/acquiring/2026/anthropic-scuttles-plans-to-acquire-ai-company-decart/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3405c2ac2dec918b",
-      "titleEn": "ASML stock gains as Samsung, TSMC High NA EUV adoption boosts outlook",
+      "id": "stockanalysis:78f758dfdaa39d66",
+      "titleEn": "Better Home &amp; Finance Announces Leading Independent Proxy Advisor ISS Recommends Shareholders Oppose Vishal Garg's Campaign to Remove a Majority of the Board",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/asml-stock-gains-as-samsung-tsmc-high-na-euv-adoption-boosts-outlook/",
+      "link": "https://www.businesswire.com/news/home/20260908607806/en/Better-Home-Finance-Announces-Leading-Independent-Proxy-Advisor-ISS-Recommends-Shareholders-Oppose-Vishal-Garg%E2%80%99s-Campaign-to-Remove-a-Majority-of-the-Board/",
       "published": null
     },
     {
-      "id": "stockanalysis:2b659997dc0e580d",
-      "titleEn": "WaFd Merges With Digital Lender EverBank in $3.9 Billion Deal",
-      "summaryEn": "Seattle-based bank WaFd has agreed to merge with EverBank in a $3.9 billion deal. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The combination, announced Monday (Sept. 7), will see WaFd remain a publicly traded company, changing its name to EverBank Financial, and trading on the stock market under the ticker “EVBK.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/wafd-merges-with-digital-lender-everbank-in-3-9-billion-deal/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3196ad52697e811f",
-      "titleEn": "Novartis stock falls 10% after second drug setback in a week; analyst cuts PT",
+      "id": "stockanalysis:a49362d35a8fb391",
+      "titleEn": "How Exact Media Expanded Its Reachable Prospect Audience 20X Using ZoomInfo",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/novartis-stock-falls-10-after-second-drug-setback-in-a-week-analyst-cuts-pt/",
+      "link": "https://www.businesswire.com/news/home/20260908822864/en/How-Exact-Media-Expanded-Its-Reachable-Prospect-Audience-20X-Using-ZoomInfo/",
       "published": null
     },
     {
-      "id": "stockanalysis:1ab721f5f178db92",
-      "titleEn": "Meta stock jumps 4% after Muse Spark 1.3: why BofA still sees 32% upside",
+      "id": "stockanalysis:de392b0bf642026e",
+      "titleEn": "KBRA Assigns Preliminary Ratings to Barings Equipment Finance LLC 2026-B",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/meta-stock-muse-spark-1-3-bofa-32-upside/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ab6fb27974b5f598",
-      "titleEn": "Atlanta Wins. Papa Johns Delivers.",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908283024/en/Atlanta-Wins.-Papa-Johns-Delivers.-Papa-Johns-Named-Official-Pizza-Partner-of-the-Atlanta-Falcons-and-Atlanta-United/",
+      "link": "https://www.businesswire.com/news/home/20260908902030/en/KBRA-Assigns-Preliminary-Ratings-to-Barings-Equipment-Finance-LLC-2026-B/",
       "published": null
     }
   ]
