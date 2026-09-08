@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-09-08T17:28:59.253145Z",
+  "generatedAt": "2026-09-08T20:05:44.499238Z",
   "sourceCount": 1,
-  "count": 27,
+  "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:1b8ab45d09462c54",
+      "titleEn": "How Facebook's News Feed introduced the age of the algorithm 20 years ago",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: It has been two decades since Facebook introduced the News Feed —letting loose a world in which algorithms would shape ever more of our lives. In 2006, Facebook was facing something of a crisis. Its internal data suggested that for the first time since its launch two years earlier (as TheFacebook), the company had stopped growing. People weren't joining, and existing users weren't spending more time on the site.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-09-facebook-news-age-algorithm-years.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c04e7e88c218ddf5",
+      "titleEn": "AMD stock jumps 6% as AI market opportunity seen at $3T",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/08/amd-stock-jumps-6-as-ai-market-opportunity-seen-at-3t/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:30adc4d5cdf195a0",
+      "titleEn": "Here's why Nebius stock is soaring today and what to expect next",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/heres-why-nebius-stock-is-soaring-today-and-what-to-expect-next/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d8505b5b396d274a",
+      "titleEn": "Runway AI Hits $200 Million Revenue and Expands Robotics Capabilities",
+      "summaryEn": "Runway AI , a company building world models as well as platforms built on top of those models, has doubled its annual recurring revenue (ARR) since April, reaching $200 million, Co-Founder and Co-CEO Anastasis Germanidis said in a Tuesday (Sept. 8) post on LinkedIn. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The platforms Runway has built on top of its Real-World Intelligence models include Runway Creative for generating and editing video, images and audio; Runway Dev for accessing models and creative tooling; and Runway Robotics for running policy inference through photorealistic simulation, according to the company’s website.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/runway-ai-hits-200-million-revenue-and-expands-robotics-capabilities/",
+      "published": null
+    },
     {
       "id": "stockanalysis:351a38da8f579b07",
       "titleEn": "Why is CoreWeave stock surging 16% today",
@@ -121,129 +157,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:caafccbdf461fa11",
-      "titleEn": "Bloom Energy stock surges 8% as S&amp;P 500 inclusion boosts investor interest",
+      "id": "stockanalysis:24d5274613956388",
+      "titleEn": "CORRECTING and REPLACING Box to Present at Investor Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/bloom-energy-stock-surges-8-as-sp-500-inclusion-boosts-investor-interest/",
+      "link": "https://www.businesswire.com/news/home/20260826924287/en/CORRECTING-and-REPLACING-Box-to-Present-at-Investor-Conference/",
       "published": null
     },
     {
-      "id": "stockanalysis:0536398ee1b3fa80",
-      "titleEn": "ALLW: Is this Ray Dalio's All Weather fund a good ETF to buy today?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/08/allw-is-this-ray-dalios-all-weather-fund-a-good-etf-to-buy-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:11c8cb127fa9616c",
-      "titleEn": "SpaceX stock could see massive buying on Nasdaq 100 rebalance: will SPCX rally?",
+      "id": "stockanalysis:4a4f1c53527f157a",
+      "titleEn": "Valero Energy Corporation to Announce Third Quarter 2026 Earnings Results on October 22, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/spacex-stock-could-see-massive-buying-on-nasdaq-100-rebalance-will-spcx-rally/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e1ae5490a6014c1f",
-      "titleEn": "Micron stock: a coiled spring ready to pounce ahead of earnings?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/micron-stock-a-coiled-spring-ready-to-pounce-ahead-of-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6277a636a7b8eda4",
-      "titleEn": "How Pinterest Built an AI Engine Users Actually Trust",
-      "summaryEn": "Pinterest is best known as a place where people go to find ideas, from home décor to weeknight dinners. Behind that simple experience sits one of the most complex artificial intelligence systems in social media. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Pinterest serves 600 million people every month and processes more than 500 petabytes of data, and it needed a way to recommend the right image out of billions of options in real time. The bigger challenge was doing this without becoming just another feed built to keep people scrolling. Pinterest wanted AI that pointed users toward genuine inspiration, not one designed to maximize time spent on the app. That meant building trust and safety into the technology from the start, not adding it later as a patch.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/how-pinterest-built-ai-engine-users-actually-trust/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:212f810271b66002",
-      "titleEn": "Can the S&amp;P 500 rise further despite high valuations? HSBC says yes: here's why",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/can-the-sp-500-rise-further-despite-high-valuations-hsbc-says-yes-heres-why/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e069607a8562c486",
-      "titleEn": "Gilead Opens State-of-the-Art Research Center to Advance the Next Generation of Medicines",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908951870/en/Gilead-Opens-State-of-the-Art-Research-Center-to-Advance-the-Next-Generation-of-Medicines/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3c8bce059b2bae57",
-      "titleEn": "PGT WinGuard Vinyl Line Named a Winner and Honorable Mention in Inaugural The Construction Specifier Readers' Choice Product Awards",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908671135/en/PGT-WinGuard-Vinyl-Line-Named-a-Winner-and-Honorable-Mention-in-Inaugural-The-Construction-Specifier-Readers%E2%80%99-Choice-Product-Awards/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:82154672bcdde748",
-      "titleEn": "Moody's Revises Ellington Financial's Rating Outlook to Positive, Affirms Ba3 Corporate Family Rating",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908041077/en/Moody%E2%80%99s-Revises-Ellington-Financial%E2%80%99s-Rating-Outlook-to-Positive-Affirms-Ba3-Corporate-Family-Rating/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:dee8498faa9f99f2",
-      "titleEn": "Paramount+ and T-Mobile Arena Launch Paramount+ Plaza in New Multi-Year Partnership",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908329834/en/Paramount-and-T-Mobile-Arena-Launch-Paramount-Plaza-in-New-Multi-Year-Partnership/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b81cd6ffe29f29db",
-      "titleEn": "Schwab Trading Activity Index™: STAX Score Dips in August",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908494686/en/Schwab-Trading-Activity-Index%E2%84%A2-STAX-Score-Dips-in-August/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:78f758dfdaa39d66",
-      "titleEn": "Better Home &amp; Finance Announces Leading Independent Proxy Advisor ISS Recommends Shareholders Oppose Vishal Garg's Campaign to Remove a Majority of the Board",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908607806/en/Better-Home-Finance-Announces-Leading-Independent-Proxy-Advisor-ISS-Recommends-Shareholders-Oppose-Vishal-Garg%E2%80%99s-Campaign-to-Remove-a-Majority-of-the-Board/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a49362d35a8fb391",
-      "titleEn": "How Exact Media Expanded Its Reachable Prospect Audience 20X Using ZoomInfo",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908822864/en/How-Exact-Media-Expanded-Its-Reachable-Prospect-Audience-20X-Using-ZoomInfo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:de392b0bf642026e",
-      "titleEn": "KBRA Assigns Preliminary Ratings to Barings Equipment Finance LLC 2026-B",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908902030/en/KBRA-Assigns-Preliminary-Ratings-to-Barings-Equipment-Finance-LLC-2026-B/",
+      "link": "https://www.businesswire.com/news/home/20260908867465/en/Valero-Energy-Corporation-to-Announce-Third-Quarter-2026-Earnings-Results-on-October-22-2026/",
       "published": null
     }
   ]
