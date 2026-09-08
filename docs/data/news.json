@@ -1,8 +1,98 @@
 {
-  "generatedAt": "2026-09-08T09:13:34.977107Z",
+  "generatedAt": "2026-09-08T13:38:12.802907Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:212f810271b66002",
+      "titleEn": "Can the S&amp;P 500 rise further despite high valuations? HSBC says yes: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/can-the-sp-500-rise-further-despite-high-valuations-hsbc-says-yes-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:90e92d30a4ae6ff5",
+      "titleEn": "Bombardier stock in focus as Trump threatens US sales ban that may not hold up",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/bombardier-stock-in-focus-as-trump-threatens-us-sales-ban-that-may-not-hold-up/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6ceadae7c427837b",
+      "titleEn": "Gold, silver slip as oil spike keeps Fed-hike trade alive - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in early U.S. trading Tuesday, as rising oil prices and elevated Treasury yields kept pressure on non-yielding metals ahead of this week’s U.S. inflation reports. At the time of writing, spot gold was trading near $4,392.60 an ounce, down 0.28%, while spot silver was trading at $65.740, down 0.47% on the session. The latest positioning remains built around the strong August payrolls report and the final inflation tests before the Fed’s Sept. 15-16 meeting. Markets are pricing roughly a 60% probability of a September rate hike after last week’s 162,000 payroll gain, while traders now turn to Thursday’s Producer Price Index and Friday’s Consumer Price Index for confirmation on whether inflation is strong enough to validate that pricing. The two-year Treasury yield is trading near 4.36%, the 10-year yield is near 4.78% to 4.81%, and the 30-year yield is near 5.27%. For gold, the setup is rate-negative unless the inflation data cool materially: strong CPI or PPI would reinforce the hike case, lift yields and weigh on bullion, while softer inflation would revive the Waller-led pause argument and could trigger short-covering. Gold and silver remain caught between defensive demand and the rates channel. Gold is trying to hold above the $4,365 support level after repeated failures below the $4,422 to $4,465 resistance zone, while silver is compressing below $67.21 as the market waits for the next macro break. The weaker dollar is providing some support, but oil-led inflation pressure and elevated yields are still the dominant constraints. The short-term metals trade is therefore less about safe-haven demand alone and more about whether the inflation data break the current 60% Fed-hike pricing.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-08/gold-silver-slip-oil-spike-keeps-fed-hike-trade-alive-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:edc9957b411d5b1d",
+      "titleEn": "GameStop earnings preview: eBay gains set to mask a shrinking core business",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/gamestop-earnings-preview-ebay-gains-set-to-mask-a-shrinking-core-business/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4db576afd3ef158b",
+      "titleEn": "S&amp;P 500 Index, VOO, SPY ETFs: Why US stocks are poised to surge further",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/sp-500-index-voo-spy-etfs-why-us-stocks-are-poised-to-surge-further/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3381d550e9785beb",
+      "titleEn": "Why is $100 oil becoming a bigger threat to the FTSE 100 than investors think?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/why-is-100-oil-becoming-a-bigger-threat-to-the-ftse-100-than-investors-think/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4b4bdad391ababab",
+      "titleEn": "Micron and SanDisk up nearly 2% premarket, but one risk is getting harder to ignore",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/micron-and-sandisk-up-nearly-2-premarket-but-one-risk-is-getting-harder-to-ignore/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ef7b2cfc7d33e05b",
+      "titleEn": "Anthropic Scuttles Plans to Acquire AI Company Decart",
+      "summaryEn": "Anthropic has reportedly walked away from a $6 billion deal to acquire AI startup Decart . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a report late Monday (Sept. 7) by Bloomberg News, citing sources familiar with the matter. Anthropic had been considering a deal and had conducted due diligence on Decart but ultimately chose not to pursue the acquisition, the sources said.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/acquiring/2026/anthropic-scuttles-plans-to-acquire-ai-company-decart/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3405c2ac2dec918b",
+      "titleEn": "ASML stock gains as Samsung, TSMC High NA EUV adoption boosts outlook",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/08/asml-stock-gains-as-samsung-tsmc-high-na-euv-adoption-boosts-outlook/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2b659997dc0e580d",
+      "titleEn": "WaFd Merges With Digital Lender EverBank in $3.9 Billion Deal",
+      "summaryEn": "Seattle-based bank WaFd has agreed to merge with EverBank in a $3.9 billion deal. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The combination, announced Monday (Sept. 7), will see WaFd remain a publicly traded company, changing its name to EverBank Financial, and trading on the stock market under the ticker “EVBK.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/wafd-merges-with-digital-lender-everbank-in-3-9-billion-deal/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3196ad52697e811f",
       "titleEn": "Novartis stock falls 10% after second drug setback in a week; analyst cuts PT",
@@ -22,138 +112,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:41fc3c79e84bba29",
-      "titleEn": "Apple's foldable iPhone could add $14 billion: why Wall Street still fears a selloff",
+      "id": "stockanalysis:ab6fb27974b5f598",
+      "titleEn": "Atlanta Wins. Papa Johns Delivers.",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/apple-foldable-iphone-14-billion-wall-street-selloff-risk/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7fe68e3fadb379f9",
-      "titleEn": "Samsung, SK Hynix send KOSPI above 7,100 as Nikkei buckles under yen pressure",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/samsung-sk-hynix-send-kospi-above-7100-as-nikkei-buckles-under-yen-pressure/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f7995fc620a6025b",
-      "titleEn": "Michael Burry calls Lululemon his portfolio trickster: why he is buying the crash",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/michael-burry-calls-lululemon-his-portfolio-trickster-why-he-is-buying-the-crash/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b0494db27891f30e",
-      "titleEn": "Why investors see more upside for SanDisk's 500% rally",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/07/why-investors-see-more-upside-for-sandisks-500-rally/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3fe1042ad8a0a3ee",
-      "titleEn": "Citi and DBS Mark 1st Singapore-to-US Weekend Dollar Transaction",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The Saturday (Sept. 5) transaction was executed using tokenized deposits via the Swift Digital Ledger , the release said. Companies that transact in U.S. dollars across jurisdictions and time zones can now execute cross-border payments outside of regular banking hours, per the release.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/cross-border-payments/2026/citi-dbs-mark-1st-singapore-united-states-weekend-dollar-transaction/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4ee2d676823d8c02",
-      "titleEn": "Nvidia CEO: Artificial General Intelligence Has ‘Arrived' With New OpenAI Model",
-      "summaryEn": "Nvidia CEO Jensen Huang once again trumpeted the arrival of artificial general intelligence (AGI). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Huang congratulated OpenAI in a Sunday (Sept. 6) post on social platform X after the startup released its latest AI model, which was trained on Nvidia’s chips.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-ceo-artificial-general-intelligence-has-arrived-with-new-openai-model/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4260b86118368899",
-      "titleEn": "DRAM ETF gained 18% last month: can it continue its outperformance",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/07/dram-etf-gained-18-last-month-can-it-continue-its-outperformance/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9ac508c45861c9a8",
-      "titleEn": "Broadcom stock: Why the AI chipmaker's growth story is gaining steam",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/07/broadcom-stock-why-the-ai-chipmakers-growth-story-is-gaining-steam/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:83c9c8178c1c2a15",
-      "titleEn": "Is Oracle stock a buy before earnings as analysts turn bullish?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/07/is-oracle-stock-a-buy-before-earnings-as-analysts-turn-bullish/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1d9effa7ffdaa545",
-      "titleEn": "Apple to release folded iPhone this week: what to expect",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/07/apple-to-release-folded-iphone-this-week-what-to-expect/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:91ada2039a266b60",
-      "titleEn": "Micron stock: Could doubling HBM capacity create an oversupply headwind?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/07/micron-stock-could-doubling-hbm-capacity-create-an-oversupply-headwind/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7cbb1d93091f17a0",
-      "titleEn": "Universal Electronics and Eneco Partner to Launch the Next-Generation Smart Thermostat, Enabling Richer Customer Engagement for Utilities",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908312501/en/Universal-Electronics-and-Eneco-Partner-to-Launch-the-Next-Generation-Smart-Thermostat-Enabling-Richer-Customer-Engagement-for-Utilities/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8c57d00adbe0cda3",
-      "titleEn": "Red Sea Global Unveils Nammos Resort AMAALA, Introducing Nammos' First Resort Hotel Globally",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908621917/en/Red-Sea-Global-Unveils-Nammos-Resort-AMAALA-Introducing-Nammos%E2%80%99-First-Resort-Hotel-Globally/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f4ee02553065b3bc",
-      "titleEn": "Icon Solutions and MongoDB Benchmark Shows IPF Processing 6,000 Payments per Second with Zero Data Loss Under Failure",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908361272/en/Icon-Solutions-and-MongoDB-Benchmark-Shows-IPF-Processing-6000-Payments-per-Second-with-Zero-Data-Loss-Under-Failure/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7d9703b20c5013d7",
-      "titleEn": "CIOs Carry the Blame for AI Failure, Often Without the Authority to Prevent It, 8x8 Survey Finds",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260908628074/en/CIOs-Carry-the-Blame-for-AI-Failure-Often-Without-the-Authority-to-Prevent-It-8x8-Survey-Finds/",
+      "link": "https://www.businesswire.com/news/home/20260908283024/en/Atlanta-Wins.-Papa-Johns-Delivers.-Papa-Johns-Named-Official-Pizza-Partner-of-the-Atlanta-Falcons-and-Atlanta-United/",
       "published": null
     }
   ]
