@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-09-08T20:05:44.499238Z",
+  "generatedAt": "2026-09-08T22:37:07.584483Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:fcd7182f38935373",
+      "titleEn": "Gold price slides below $4,370 as Brent nears $100 - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in late-afternoon U.S. trading Tuesday, as rising crude oil prices, elevated Treasury yields and firmer Fed-hike expectations outweighed the safe-haven bid from renewed U.S.-Iran tensions. At the time of writing, spot gold was trading near $4,368.60 an ounce, down 0.83%, while spot silver was trading at $65.830, down 0.32% on the session. North American equity markets closed lower as higher oil prices revived inflation concerns. The S&P 500 fell 45.08 points, or 0.6%, to 7,673.52, the Dow Jones Industrial Average dropped 628.18 points, or 1.2%, to 52,786.07, the Nasdaq Composite lost 85.58 points, or 0.3%, to 26,421.41, and the Russell 2000 fell 15.44 points, or 0.5%, to 2,960.20. European markets finished narrowly mixed, with the STOXX Europe 600 down 0.05% to 649.60. London’s FTSE 100 fell 0.10% to 10,811.66, Germany’s DAX was flat at 26,007.63, France’s CAC 40 rose 0.14% to 8,317.98 and Italy’s FTSE MIB slipped 0.10% to 52,177.47. The latest positioning remains centered on this week’s inflation data and next week’s Fed decision. Markets are pricing about a 60% probability that the Fed raises rates at the Sept. 15-16 meeting, after last week’s strong payrolls report and the latest oil shock kept inflation risk in focus. The Producer Price Index is due Thursday and the Consumer Price Index is due Friday, with traders treating both releases as the final inflation inputs before the meeting. The 10-year Treasury yield rose to about 4.80%, near its highest level since autumn 2023, while the U.S. dollar recovered from earlier weakness. For gold, the setup remains rate-negative: a firm PPI or CPI print would validate the hike trade, while softer inflation would be needed to revive the Waller-led pause case.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-08/gold-price-slides-below-4370-brent-nears-100-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d3d9349f33494003",
+      "titleEn": "‘The bull trend will resume' and ‘you want to scale into a long position' as gold price nears $4,000 pre-FOMC – Goldman Sachs' Kim",
+      "summaryEn": "(Kitco News) – The gold market’s relative underperformance since February is not a failure of the bull market, but merely a pause, and the yellow metal has fresh all-time highs in its medium-term future, according to Anthony Kim, Global Head of Metals Trading at Goldman Sachs. Kim was asked on Goldman’s The Markets podcast whether gold’s all-time high of $5,589.38 per ounce in late January was the top of the current cycle. “From our perspective, this isn&#x27;t the end of the bull market,” he said. “It&#x27;s an elongated pause.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-08/bull-trend-will-resume-and-you-want-scale-long-position-gold-price-nears",
+      "published": null
+    },
     {
       "id": "stockanalysis:1b8ab45d09462c54",
       "titleEn": "How Facebook's News Feed introduced the age of the algorithm 20 years ago",
@@ -76,102 +94,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:7670da7b30759c3a",
-      "titleEn": "Marvell Technology stock faces more pain ahead despite solid revenue numbers",
+      "id": "stockanalysis:2b0b4a59ee774863",
+      "titleEn": "U.S. Bancorp Announces Quarterly Dividends",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/marvell-technology-stock-faces-more-pain-ahead-despite-solid-revenue-numbers/",
+      "link": "https://www.businesswire.com/news/home/20260908218327/en/U.S.-Bancorp-Announces-Quarterly-Dividends/",
       "published": null
     },
     {
-      "id": "stockanalysis:22fcfd0e7cf91f8b",
-      "titleEn": "Why is Oracle stock up nearly 4% today?",
+      "id": "stockanalysis:75e46edcd3fc42c3",
+      "titleEn": "Evommune Announces Top-line Results from EVO756 Phase 2b Trial in Moderate-to-Severe Atopic Dermatitis",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/why-is-oracle-stock-up-nearly-4-today/",
+      "link": "https://www.businesswire.com/news/home/20260908697408/en/Evommune-Announces-Top-line-Results-from-EVO756-Phase-2b-Trial-in-Moderate-to-Severe-Atopic-Dermatitis/",
       "published": null
     },
     {
-      "id": "stockanalysis:6b5af75e3866c940",
-      "titleEn": "EverBank-WaFd Deal Bridges Banking's Digital and Branch Divide",
-      "summaryEn": "EverBank’s national digital business and WaFd’s branch network put two different approaches to gathering deposits and serving customers inside one institution. Second-quarter bank earnings show that digital engagement is becoming closely connected with account acquisition, payments activity and broader customer relationships. Young consumers strengthen the case for digital access, but the EverBank and WaFd deal suggests banks need not treat physical and digital distribution as competing models.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/everbank-wafd-deal-bridges-banking-digital-branch-divide/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:db042ba8760c2b2a",
-      "titleEn": "Astera Labs stock is recovering: does it have more upside as growth continues?",
+      "id": "stockanalysis:eeb6c2a57cc81436",
+      "titleEn": "Camden Property Trust Announces Participation in Upcoming Real Estate Conferences and Provides Third Quarter 2026 Operating Update",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/astera-labs-stock-is-recovering-does-it-have-more-upside-as-growth-continues/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:eed678c13d0ed606",
-      "titleEn": "Intel stock jumps 8% on report of 10% chip price hike in October",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/08/intel-stock-jumps-8-on-report-of-10-chip-price-hike-in-october/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:211e907e82dfe9c2",
-      "titleEn": "Why Nvidia stock is down over 1% today even as AI peers are surging",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/08/why-nvidia-stock-is-down-over-1-today-even-as-ai-peers-are-surging/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:febb4cfe85d3910c",
-      "titleEn": "China's central bank buys 20.2 tonnes of gold in August, largest purchase since 2023",
-      "summaryEn": "(Kitco News) – The People’s Bank of China (PBoC) added 20.2 metric tonnes of gold to its reserves in August, its largest monthly purchase since October 2023, the State Administration of Foreign Exchange (SAFE) announced on Monday. Last month’s purchases brought the country’s total official holdings to roughly 2,387 tonnes. China has now increased its gold reserves for 22 consecutive months, and has added approximately 80 tonnes of bullion during the first eight months of 2026. The valuation of China’s gold reserves has also increased significantly, rising from $306.35 billion at the end of July to $350.08 billion by the end of August—an increase of roughly $43.7 billion last month alone.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-08/chinas-central-bank-buys-202-tonnes-gold-august-largest-purchase-2023",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a985982181408b1d",
-      "titleEn": "Mistral Raises $3.5 Billion for AI Research in Record EU Funding Round",
-      "summaryEn": "France-based artificial intelligence startup Mistral raised a record 3 billion euros (about $3.5 billion) in funding, according to a Tuesday (Sept. 8) company blog post . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The company’s Series D is the largest equity fundraising round on record for a European tech company, per the post. The financing, which values Mistral at 21 billion euros (about $24 billion), will expand the 3-year-old company’s frontier research and infrastructure, while also scaling commercial growth.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/mistral-raises-3-billion-dollars-ai-research-record-european-union-funding-round/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e4b9d31937287cc9",
-      "titleEn": "SCHD ETF rally has stalled as a major risk emerges despite soaring inflows",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/08/schd-etf-rally-has-stalled-as-a-major-risk-emerges-despite-soaring-inflows/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:24d5274613956388",
-      "titleEn": "CORRECTING and REPLACING Box to Present at Investor Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260826924287/en/CORRECTING-and-REPLACING-Box-to-Present-at-Investor-Conference/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4a4f1c53527f157a",
-      "titleEn": "Valero Energy Corporation to Announce Third Quarter 2026 Earnings Results on October 22, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908867465/en/Valero-Energy-Corporation-to-Announce-Third-Quarter-2026-Earnings-Results-on-October-22-2026/",
+      "link": "https://www.businesswire.com/news/home/20260908175115/en/Camden-Property-Trust-Announces-Participation-in-Upcoming-Real-Estate-Conferences-and-Provides-Third-Quarter-2026-Operating-Update/",
       "published": null
     }
   ]
