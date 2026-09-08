@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-07T22:11:06.385445Z",
+  "generatedAt": "2026-09-08T00:21:57.470939Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 19,
   "items": [
     {
       "id": "stockanalysis:b0494db27891f30e",
@@ -136,6 +136,33 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/09/07/kospi-surges-3-as-ai-optimism-returns-and-goldman-backs-12000-target/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2041c407819b816a",
+      "titleEn": "Ngarlawangga Aboriginal Corporation and Rio Tinto sign Interim Modernised Agreement",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260907004218/en/Ngarlawangga-Aboriginal-Corporation-and-Rio-Tinto-sign-Interim-Modernised-Agreement/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7a8eaac1a3434ab5",
+      "titleEn": "Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Sets August Monthly Sales Record of 158 Units; Makes Further Steps in Reducing Debt and Optimizing FF's Capital Structure; New Updates on “Built in USA” Acceleration Program",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260907690568/en/Faraday-Future-Founder-and-Global-CEO-YT-Jia-Shares-Weekly-Investor-Update-Sets-August-Monthly-Sales-Record-of-158-Units-Makes-Further-Steps-in-Reducing-Debt-and-Optimizing-FF%E2%80%99s-Capital-Structure-New-Updates-on-%E2%80%9CBuilt-in-USA%E2%80%9D-Acceleration-Program/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f0d6c1a97bea40fd",
+      "titleEn": "DigitalBridge Opens Tokyo Office to Expand Japan Platform",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260907010077/en/DigitalBridge-Opens-Tokyo-Office-to-Expand-Japan-Platform/",
       "published": null
     },
     {
