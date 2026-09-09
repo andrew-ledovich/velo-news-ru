@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-09T05:14:31.702257Z",
+  "generatedAt": "2026-09-09T09:46:28.972844Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:7680511ae77781bd",
+      "titleEn": "Anthropic researcher resigns over AI ‘gambling with lives'; extinction risk tops 10%",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/09/anthropic-researcher-resigns-over-ai-gambling-with-lives-extinction-risk-tops-10/",
+      "published": null
+    },
     {
       "id": "stockanalysis:f374d30a0e4c3315",
       "titleEn": "KOSPI rockets above 7,000 as AI stocks overpower yen and oil fears",
@@ -58,84 +67,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1b8ab45d09462c54",
-      "titleEn": "How Facebook's News Feed introduced the age of the algorithm 20 years ago",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: It has been two decades since Facebook introduced the News Feed —letting loose a world in which algorithms would shape ever more of our lives. In 2006, Facebook was facing something of a crisis. Its internal data suggested that for the first time since its launch two years earlier (as TheFacebook), the company had stopped growing. People weren't joining, and existing users weren't spending more time on the site.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-09-facebook-news-age-algorithm-years.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c04e7e88c218ddf5",
-      "titleEn": "AMD stock jumps 6% as AI market opportunity seen at $3T",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/08/amd-stock-jumps-6-as-ai-market-opportunity-seen-at-3t/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:814e64a68a2dedd2",
-      "titleEn": "Naturium Expands North American Retail Presence, Launching Exclusively at Sephora Mexico and With Expansion Into Sephora Canada",
+      "id": "stockanalysis:61fcd3703cd59516",
+      "titleEn": "Wolters Kluwer research reveals succession challenge facing Italy's tax and accounting profession as firms struggle to attract the next generation",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908186043/en/Naturium-Expands-North-American-Retail-Presence-Launching-Exclusively-at-Sephora-Mexico-and-With-Expansion-Into-Sephora-Canada/",
+      "link": "https://www.businesswire.com/news/home/20260909590095/en/Wolters-Kluwer-research-reveals-succession-challenge-facing-Italy%E2%80%99s-tax-and-accounting-profession-as-firms-struggle-to-attract-the-next-generation/",
       "published": null
     },
     {
-      "id": "stockanalysis:e95d5afc36cfd198",
-      "titleEn": "ABEO Investors Have Opportunity to Join Abeona Therapeutics Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:433e3dbbfe06d2fb",
+      "titleEn": "91% of EV Drivers Would Go Out of Their Way for a Recommended Charger, New Research Finds",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908712434/en/ABEO-Investors-Have-Opportunity-to-Join-Abeona-Therapeutics-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:83b9f713c5406b37",
-      "titleEn": "Ingram Micro Holding Corporation Announces Pricing of Secondary Offering of Common Stock by its Principal Stockholder and a Concurrent Stock Repurchase",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908548883/en/Ingram-Micro-Holding-Corporation-Announces-Pricing-of-Secondary-Offering-of-Common-Stock-by-its-Principal-Stockholder-and-a-Concurrent-Stock-Repurchase/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b22ec0e7bf4736ae",
-      "titleEn": "TSN Investors Have Opportunity to Join Tyson Foods, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908721421/en/TSN-Investors-Have-Opportunity-to-Join-Tyson-Foods-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:417bd7d8bb3f2fa7",
-      "titleEn": "Lomiko Metals Announces ISS and Glass Lewis Recommend Shareholders Vote FOR Proposed Arrangement and Corporate Update",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908707742/en/Lomiko-Metals-Announces-ISS-and-Glass-Lewis-Recommend-Shareholders-Vote-FOR-Proposed-Arrangement-and-Corporate-Update/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1bece3501839a4f5",
-      "titleEn": "Northern Trust Expands Retail Unit Trust Capabilities in Singapore",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908515660/en/Northern-Trust-Expands-Retail-Unit-Trust-Capabilities-in-Singapore/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:748d990bd0f2c2fd",
-      "titleEn": "Semtech Delivers 10G PON Chipset for Triple-Generation 50G OLT Modules",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908772887/en/Semtech-Delivers-10G-PON-Chipset-for-Triple-Generation-50G-OLT-Modules/",
+      "topic": "EV",
+      "link": "https://www.businesswire.com/news/home/20260908894683/en/91-of-EV-Drivers-Would-Go-Out-of-Their-Way-for-a-Recommended-Charger-New-Research-Finds/",
       "published": null
     }
   ]
