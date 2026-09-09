@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-09-09T20:09:19.191693Z",
+  "generatedAt": "2026-09-09T22:31:13.359927Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:68adb2a1c959b2bd",
+      "titleEn": "Independent Investigators Uncover Broader Rogue Activity by OpenAI Agents",
+      "summaryEn": "Independent investigators found that rogue activity by OpenAI agents was more extensive than previously disclosed, Reuters reported Wednesday (Sept. 9). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Six sets of independent investigators found that the agents used more than 10 previously undisclosed websites to communicate with each other during a test in which they were restricted from posting on the web, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/independent-investigators-uncover-broader-rogue-activity-openai-agents/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:647cb8bcf00ddac3",
+      "titleEn": "Gold, silver rise as dollar weakness offsets oil-driven rate risk - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in late-afternoon U.S. trading Wednesday, as a weaker U.S. dollar and safe-haven demand tied to the U.S.-Iran conflict outweighed higher Treasury yields and another surge in crude oil. At the time of writing, spot gold was trading near $4,396.40 an ounce, up 0.96%, while spot silver was trading at $67.080, up 2.20% on the session. North American equity markets closed lower as Brent crude moved back above $100 a barrel and Treasury yields rose. The S&P 500 fell 37.16 points, or 0.5%, to 7,636.36, the Dow Jones Industrial Average dropped 405.41 points, or 0.8%, to 52,380.66, the Nasdaq Composite lost 168.07 points, or 0.6%, to 26,253.34, and the Russell 2000 fell 38.97 points, or 1.3%, to 2,921.23. European markets also finished lower, with the STOXX Europe 600 down 1.41% to 640.41. London’s FTSE 100 fell 1.31% to 10,670.06, Germany’s DAX dropped 1.66% to 25,576.45, France’s CAC 40 lost 1.94% to 8,156.67 and Italy’s FTSE MIB slipped 0.58% to 51,875.24. The latest positioning remains centered on whether this week’s inflation data can confirm or reverse the market’s roughly 60% probability of a Fed rate hike at the Sept. 15-16 meeting. August PPI is due Thursday, followed by CPI on Friday, with the two reports now carrying more weight after Brent crude returned above $100 and pushed the 10-year Treasury yield near its highest level since October 2023. Gold’s recent support has come from dollar weakness, geopolitical demand and Treasury buyback volatility, but the rate backdrop remains a constraint. A firm PPI or CPI print would validate the hike trade and keep pressure on non-yielding metals, while a softer sequence would give the Waller-led pause argument a cleaner opening.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-09/gold-silver-rise-dollar-weakness-offsets-oil-driven-rate-risk-kitco-pm",
+      "published": null
+    },
     {
       "id": "stockanalysis:42294935910fa79d",
       "titleEn": "Why is AMD stock surging 3% today",
@@ -49,30 +67,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:e49bbb892c57e2bb",
-      "titleEn": "UnitedHealth sells WellMed to TPG: what it means for UNH stock",
+      "id": "stockanalysis:285918b5025abc3c",
+      "titleEn": "Public Storage Prices Public Offering of C$400 Million Senior Notes in its Inaugural Offering in the Canadian Market",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/09/unitedhealth-sells-wellmed-to-tpg-what-it-means-for-unh-stock/",
+      "link": "https://www.businesswire.com/news/home/20260909653598/en/Public-Storage-Prices-Public-Offering-of-C400-Million-Senior-Notes-in-its-Inaugural-Offering-in-the-Canadian-Market/",
       "published": null
     },
     {
-      "id": "stockanalysis:b32e533e9d00520d",
-      "titleEn": "Dell stock hits 52-week high as AI demand fuels growth",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/09/dell-stock-hits-52-week-high-as-ai-demand-fuels-growth/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:38a74210419f04eb",
-      "titleEn": "Apple stock: what a foldable iPhone really means for it",
+      "id": "stockanalysis:c4108d5236488af6",
+      "titleEn": "Xfinity Mobile, Comcast Business Mobile to Offer iPhone Duo, iPhone 18 Pro, and iPhone 18 Pro Max",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/09/apple-stock-what-a-foldable-iphone-really-means-for-it/",
+      "link": "https://www.businesswire.com/news/home/20260909612055/en/Xfinity-Mobile-Comcast-Business-Mobile-to-Offer-iPhone-Duo-iPhone-18-Pro-and-iPhone-18-Pro-Max/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b52fe6ad96c972f6",
+      "titleEn": "Alpha Cognition Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260909061312/en/Alpha-Cognition-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fb3d4851471e8547",
+      "titleEn": "Oaktree Specialty Lending Corporation Prices Public Offering of $300,000,000 7.000% Notes due 2031",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260909872235/en/Oaktree-Specialty-Lending-Corporation-Prices-Public-Offering-of-300000000-7.000-Notes-due-2031/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8078e6eb593201ec",
+      "titleEn": "Bioceres Crop Solutions to Host Fiscal Fourth Quarter and Full Year 2026 Financial Results Conference Call on Tuesday, September 15, 2026 at 8:30 a.m. Eastern Time",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260909791163/en/Bioceres-Crop-Solutions-to-Host-Fiscal-Fourth-Quarter-and-Full-Year-2026-Financial-Results-Conference-Call-on-Tuesday-September-15-2026-at-830-a.m.-Eastern-Time/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:903a57fe778ac799",
+      "titleEn": "AutoNation to Participate in the Morgan Stanley 14th Annual Laguna Conference on September 17, 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260909752628/en/AutoNation-to-Participate-in-the-Morgan-Stanley-14th-Annual-Laguna-Conference-on-September-17-2026/",
       "published": null
     }
   ]
