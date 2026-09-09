@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-09-09T17:48:01.353938Z",
+  "generatedAt": "2026-09-09T20:09:19.191693Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 8,
   "items": [
+    {
+      "id": "stockanalysis:42294935910fa79d",
+      "titleEn": "Why is AMD stock surging 3% today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/09/why-is-amd-stock-surging-3-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2ddb01546ba66f19",
+      "titleEn": "Apple unveils foldable iPhone, redefining flexible displays",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/09/apple-unveils-foldable-iphone-redefining-flexible-displays/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:658300826882f37f",
+      "titleEn": "Investors pour $18 billion into gold ETFs in August as sovereign debt concerns grow - WGC report",
+      "summaryEn": "(Kitco News) - Despite renewed threats of an imminent rate hike in September, gold’s price action during August shows just how much potential the precious metal has as a hedge against the unsustainable rise in global sovereign debt. Wednesday, the World Gold Council reported that investment demand in gold-backed exchange-traded funds saw its second-largest capital inflow on record. According to its monthly ETF data, the WGC said that $18 billion flowed into global gold ETFs – led by North American- and European-listed funds – in August. “Y-t-d, global gold ETF inflows totalled US$29bn, equivalent to a 160t increase in holdings. Asian-listed funds remained the largest contributor to global inflows over the period, followed by Europe,” the analysts said in the report. “Rising long-term yields and the US Treasury&#x27;s 19 August intervention heightened concerns around fiscal sustainability and dominance, while reviving fears of potential dollar debasement. As gold rallied and broke above key technical levels, price momentum likely attracted additional tactical and institutional demand.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-09/investors-pour-18-billion-gold-etfs-august-sovereign-debt-concerns-grow-wgc",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5c3be1359b2b7ff3",
+      "titleEn": "How could AI reshape the economy by 2030? Anthropic outlines 3 scenarios",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/09/how-could-ai-reshape-the-economy-by-2030-anthropic-outlines-3-scenarios/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a579c149296daf70",
+      "titleEn": "Apple shares fall 1.5% as iPhone 18 Pro launch comes with $100 price ike",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/09/apple-shares-fall-1-5-as-iphone-18-pro-launch-comes-with-100-price-ike/",
+      "published": null
+    },
     {
       "id": "stockanalysis:e49bbb892c57e2bb",
       "titleEn": "UnitedHealth sells WellMed to TPG: what it means for UNH stock",
@@ -28,141 +73,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/09/09/apple-stock-what-a-foldable-iphone-really-means-for-it/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3fe72b0ee938e023",
-      "titleEn": "Why SpaceX stock is slipping around 4% today",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/09/why-spacex-stock-is-slipping-around-4-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ffc409b2a40fcdc6",
-      "titleEn": "Apple stock falls to key support ahead of foldable iPhone launch: buy the dip?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/09/apple-stock-falls-to-key-support-ahead-of-foldable-iphone-launch-buy-the-dip/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4a5814601a644c18",
-      "titleEn": "Meta stock rises 5% as Muse AI agent boosts investor optimism",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/09/meta-stock-rises-5-as-muse-ai-agent-boosts-investor-optimism/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3bc4473f4b8a931e",
-      "titleEn": "Platinum could outperform gold price as debasement trade regains momentum – WPIC",
-      "summaryEn": "(Kitco News) - Inflation fears are driving expectations that the Federal Reserve will have to raise interest rates as early as next week, and they have taken their toll on the precious metals market, including platinum . However, despite the difficult macroeconomic environment, the World Platinum Investment Council (WPIC) said the platinum market’s underlying fundamentals remain relatively tight, with investment demand expected to improve through the second half of the year. In its latest Platinum Quarterly report, the WPIC said the precious metal is now expected to see a modest surplus of 265,000 ounces in 2026, a significant shift from its previous forecast for a 297,000-ounce deficit.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-09/platinum-could-outperform-gold-price-debasement-trade-regains-momentum-wpic",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:87c9976ea4d7135a",
-      "titleEn": "EU helps cities tighten screws on Airbnb, holiday rentals",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: European cities will gain more leeway to curb short-term rentals such as Airbnb under new EU plans that aim to bring down housing costs in tourism hotspots. The European Commission laid out conditions Wednesday under which local authorities can limit short-term rentals, under a proposal seeking to address Europe's \"housing crisis.\"",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-09-eu-cities-tighten-airbnb-holiday.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b95ee7815db62786",
-      "titleEn": "Gold is more than ‘a tactical expression of the next Fed decision' and pullbacks are opportunities to ‘build strategic exposure' – UBS",
-      "summaryEn": "(Kitco News) – Mounting fiscal concerns, elevated inflation and geopolitical uncertainty, and robust sovereign demand make a significant gold allocation a must-have in investor portfolios, according to commodity and currency analysts at UBS. “Gold has come under renewed pressure over the past two weeks amid rising US Treasury yields, hawkish comments from Federal Reserve Chair Kevin Warsh, and stronger-than-expected US payroll data,” the Swiss banking giant’s Chief Investment Office wrote in a note on Tuesday. “Following a 15% gain in the first three weeks of August, gold prices have since fallen 5.5%. “We now expect the Fed to raise policy rates by 50 basis points this year,” the analysts wrote. “The resulting pressure from higher real yields and a stronger US dollar is likely to remain a near-term headwind for gold. But just as we do not believe near-term Fed decisions undermine the medium-term outlook for global equities—which is supported by AI spending, resilient economic activity, and broad earnings growth—we do not think they diminish gold’s strategic role in a portfolio.”",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-09-09/gold-more-tactical-expression-next-fed-decision-and-pullbacks-are",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1a3acba666ffd8e3",
-      "titleEn": "Rocket Lab stock is down 56% from its yearly high: Is this a buying opportunity?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/09/rocket-lab-stock-is-down-56-from-its-yearly-high-is-this-a-buying-opportunity/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b9608f27f7682cf7",
-      "titleEn": "New Apple CEO to face first test with foldable iPhone launch",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Apple is expected to unveil a slew of new and updated devices, including a long-rumored foldable iPhone, when it holds its annual late-summer hardware event Wednesday in Cupertino, California. It will also be the first major event under new chief executive John Ternus, who took over from outgoing CEO Tim Cook on Sept. 1.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-09-apple-ceo-foldable-iphone.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7ae73452f470dbe1",
-      "titleEn": "Gold, silver prices rise as Hormuz risk offsets rate pressure - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Wednesday, as escalating U.S.-Iran strikes, Brent crude above $100 a barrel and a softer dollar supported defensive demand ahead of the week’s U.S. inflation reports. At the time of writing, spot gold was trading near $4,403.10 an ounce, up 1.11%, while spot silver was trading at $66.080, up 0.68% on the session. The latest positioning remains caught between geopolitical demand and a still-hawkish Fed setup. Markets are pricing about a 60% probability of a 25-basis-point rate hike at the Fed’s Sept. 15-16 meeting, while the 10-year Treasury yield is trading near 4.81%, its highest level since October 2023. The Producer Price Index is due Thursday and the Consumer Price Index is due Friday, with both releases now carrying more weight because the oil shock has revived inflation concerns. For gold, the balance is conflicted but constructive in the short term: higher crude and elevated yields raise the opportunity cost of holding bullion, but safe-haven flows, a softer dollar and concern over Gulf supply routes are offsetting the rate headwind. Gold and silver are rebounding, but neither metal has cleared the technical ceiling that would confirm a full trend repair. Gold has recovered from the $4,347 support area and is testing toward the $4,422 resistance level, while silver remains compressed below $67.21 after holding above the $64.73 support level. The price action suggests buyers are using geopolitical risk to defend dips, but the inflation data will decide whether the move extends or stalls under the Fed-rate channel.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-09/gold-silver-prices-rise-hormuz-risk-offsets-rate-pressure-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:02b841b28f65c50d",
-      "titleEn": "Verily Health Secures New Investment From NVIDIA and CU Healthcare Innovation Fund",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909933992/en/Verily-Health-Secures-New-Investment-From-NVIDIA-and-CU-Healthcare-Innovation-Fund/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ab8e3294357b1142",
-      "titleEn": "PPAI Releases Landmark Study Showing Branded Merchandise Supports a $472 Billion Global Economic Footprint",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909647041/en/PPAI-Releases-Landmark-Study-Showing-Branded-Merchandise-Supports-a-472-Billion-Global-Economic-Footprint/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:142dd30a30a6e17d",
-      "titleEn": "PureTech Founded Entity Seaport Therapeutics Reports Positive Topline Results from Phase 1 Driving Simulation Trial of GlyphAllo™ in Healthy Volunteers",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909957620/en/PureTech-Founded-Entity-Seaport-Therapeutics-Reports-Positive-Topline-Results-from-Phase-1-Driving-Simulation-Trial-of-GlyphAllo%E2%84%A2-in-Healthy-Volunteers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ba727608f86fb003",
-      "titleEn": "CHG Healthcare Introduces New Program to Help Healthcare Organizations Bridge Urgent and Transitional Workforce Needs",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909096122/en/CHG-Healthcare-Introduces-New-Program-to-Help-Healthcare-Organizations-Bridge-Urgent-and-Transitional-Workforce-Needs/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f971fb465ffd0017",
-      "titleEn": "Cintas Corporation Announces Webcast for First Quarter Fiscal Year 2027 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909223284/en/Cintas-Corporation-Announces-Webcast-for-First-Quarter-Fiscal-Year-2027-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:db1e2523854baab2",
-      "titleEn": "PPAI Releases Landmark Study Showing Branded Merchandise Supports $170 Billion in U.S. Economic Activity and 1.2 Million Jobs",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909107710/en/PPAI-Releases-Landmark-Study-Showing-Branded-Merchandise-Supports-170-Billion-in-U.S.-Economic-Activity-and-1.2-Million-Jobs/",
       "published": null
     }
   ]
