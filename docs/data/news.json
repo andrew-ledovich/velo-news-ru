@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-08T22:37:07.584483Z",
+  "generatedAt": "2026-09-09T00:35:52.466831Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:47698f060e21564a",
+      "titleEn": "Gold majors are out of debt and will have to start buying, Lundin says",
+      "summaryEn": "The biggest gold miners on earth are making more money than they know what to do with. They&#x27;ve paid off the debt. They&#x27;ve raised the dividend. They&#x27;ve bought back the stock. And they&#x27;re still swimming in cash. .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } \"I think that&#x27;s going to be the next big phase of this bull market, when we see the majors start to buy those big projects.\"",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-08/gold-majors-are-out-debt-and-will-have-start-buying-lundin-says",
+      "published": null
+    },
     {
       "id": "stockanalysis:fcd7182f38935373",
       "titleEn": "Gold price slides below $4,370 as Brent nears $100 - Kitco PM Report",
@@ -76,48 +85,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:6582a789ce0e38e6",
-      "titleEn": "Fifth Third Completes Comerica Integration to Become 9th Largest US Bank",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The conversion, which followed the Feb. 1 merger of Fifth Third and Comerica, brought Comerica consumer and commercial customers onto Fifth Third’s platforms and brought the two companies under the Fifth Third brand, according to the release. About 600,000 customer accounts and 293 banking centers in Arizona, California, Florida, Michigan and Texas were involved in the conversion, the release said.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/fifth-third-completes-comerica-integration-become-9th-largest-united-states-bank/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2158b29d445295a5",
-      "titleEn": "‘Synchronised build-up of physical, futures, and options exposure' to drive gold price higher - Société Générale",
-      "summaryEn": "(Kitco News) – ETFs, futures and options positioning all indicate that gold remains in a broad-based bull market in 2026, with multiple independent demand channels reinforcing one other, according to analysts at Société Générale. “Gold has entered a new phase of its 2026 bull run, one defined less by speculative momentum and more by broad-based, structural conviction across every category of market participant,” wrote Société Générale analysts Michael Haigh and Jeremy Sellem on Monday. “What began as a geopolitical shock, evolved over the following months into something far more durable: a synchronised build-up of physical, futures, and options exposure that now spans retail investors, professional money managers, and derivatives traders alike.” The analysts noted that last month’s gold ETF demand was historic in scale. “In August, gold ETFs registered a substantial 201 tonnes of net inflows, marking the third-largest monthly addition on record in tonnage terms after now famous world events: February 2009 and the stimulus package announced by the newly inaugurated Obama administration, and March 2020 with the start of the lockdown for Covid globally,” they said. “This month&#x27;s inflow surpassed the strong inflows recorded in March 2022 following Russia&#x27;s invasion of Ukraine and in September 2012 after the Federal Reserve&#x27;s announcement of QE3.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-08/synchronised-build-physical-futures-and-options-exposure-drive-gold-price",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2b0b4a59ee774863",
-      "titleEn": "U.S. Bancorp Announces Quarterly Dividends",
+      "id": "stockanalysis:dbd8788dac6e20f4",
+      "titleEn": "Semtech Sets Bar for 224G Optical Connectivity",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908218327/en/U.S.-Bancorp-Announces-Quarterly-Dividends/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:75e46edcd3fc42c3",
-      "titleEn": "Evommune Announces Top-line Results from EVO756 Phase 2b Trial in Moderate-to-Severe Atopic Dermatitis",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908697408/en/Evommune-Announces-Top-line-Results-from-EVO756-Phase-2b-Trial-in-Moderate-to-Severe-Atopic-Dermatitis/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:eeb6c2a57cc81436",
-      "titleEn": "Camden Property Trust Announces Participation in Upcoming Real Estate Conferences and Provides Third Quarter 2026 Operating Update",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260908175115/en/Camden-Property-Trust-Announces-Participation-in-Upcoming-Real-Estate-Conferences-and-Provides-Third-Quarter-2026-Operating-Update/",
+      "link": "https://www.businesswire.com/news/home/20260908403246/en/Semtech-Sets-Bar-for-224G-Optical-Connectivity/",
       "published": null
     }
   ]
