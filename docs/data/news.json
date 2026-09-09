@@ -1,87 +1,168 @@
 {
-  "generatedAt": "2026-09-09T14:00:16.984389Z",
+  "generatedAt": "2026-09-09T17:48:01.353938Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 18,
   "items": [
     {
-      "id": "stockanalysis:7680511ae77781bd",
-      "titleEn": "Anthropic researcher resigns over AI ‘gambling with lives'; extinction risk tops 10%",
+      "id": "stockanalysis:e49bbb892c57e2bb",
+      "titleEn": "UnitedHealth sells WellMed to TPG: what it means for UNH stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/09/unitedhealth-sells-wellmed-to-tpg-what-it-means-for-unh-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b32e533e9d00520d",
+      "titleEn": "Dell stock hits 52-week high as AI demand fuels growth",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/09/anthropic-researcher-resigns-over-ai-gambling-with-lives-extinction-risk-tops-10/",
+      "link": "https://invezz.com/news/2026/09/09/dell-stock-hits-52-week-high-as-ai-demand-fuels-growth/",
       "published": null
     },
     {
-      "id": "stockanalysis:f374d30a0e4c3315",
-      "titleEn": "KOSPI rockets above 7,000 as AI stocks overpower yen and oil fears",
+      "id": "stockanalysis:38a74210419f04eb",
+      "titleEn": "Apple stock: what a foldable iPhone really means for it",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/09/apple-stock-what-a-foldable-iphone-really-means-for-it/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3fe72b0ee938e023",
+      "titleEn": "Why SpaceX stock is slipping around 4% today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/09/why-spacex-stock-is-slipping-around-4-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ffc409b2a40fcdc6",
+      "titleEn": "Apple stock falls to key support ahead of foldable iPhone launch: buy the dip?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/09/apple-stock-falls-to-key-support-ahead-of-foldable-iphone-launch-buy-the-dip/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4a5814601a644c18",
+      "titleEn": "Meta stock rises 5% as Muse AI agent boosts investor optimism",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/09/kospi-rockets-above-7000-as-ai-stocks-overpower-yen-and-oil-fears/",
+      "link": "https://invezz.com/news/2026/09/09/meta-stock-rises-5-as-muse-ai-agent-boosts-investor-optimism/",
       "published": null
     },
     {
-      "id": "stockanalysis:7d9b0270e1a16d46",
-      "titleEn": "SoftBank stock jumps 5% while yen strengthens: why that combination is unusual",
+      "id": "stockanalysis:3bc4473f4b8a931e",
+      "titleEn": "Platinum could outperform gold price as debasement trade regains momentum – WPIC",
+      "summaryEn": "(Kitco News) - Inflation fears are driving expectations that the Federal Reserve will have to raise interest rates as early as next week, and they have taken their toll on the precious metals market, including platinum . However, despite the difficult macroeconomic environment, the World Platinum Investment Council (WPIC) said the platinum market’s underlying fundamentals remain relatively tight, with investment demand expected to improve through the second half of the year. In its latest Platinum Quarterly report, the WPIC said the precious metal is now expected to see a modest surplus of 265,000 ounces in 2026, a significant shift from its previous forecast for a 297,000-ounce deficit.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-09/platinum-could-outperform-gold-price-debasement-trade-regains-momentum-wpic",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:87c9976ea4d7135a",
+      "titleEn": "EU helps cities tighten screws on Airbnb, holiday rentals",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: European cities will gain more leeway to curb short-term rentals such as Airbnb under new EU plans that aim to bring down housing costs in tourism hotspots. The European Commission laid out conditions Wednesday under which local authorities can limit short-term rentals, under a proposal seeking to address Europe's \"housing crisis.\"",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-09-eu-cities-tighten-airbnb-holiday.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b95ee7815db62786",
+      "titleEn": "Gold is more than ‘a tactical expression of the next Fed decision' and pullbacks are opportunities to ‘build strategic exposure' – UBS",
+      "summaryEn": "(Kitco News) – Mounting fiscal concerns, elevated inflation and geopolitical uncertainty, and robust sovereign demand make a significant gold allocation a must-have in investor portfolios, according to commodity and currency analysts at UBS. “Gold has come under renewed pressure over the past two weeks amid rising US Treasury yields, hawkish comments from Federal Reserve Chair Kevin Warsh, and stronger-than-expected US payroll data,” the Swiss banking giant’s Chief Investment Office wrote in a note on Tuesday. “Following a 15% gain in the first three weeks of August, gold prices have since fallen 5.5%. “We now expect the Fed to raise policy rates by 50 basis points this year,” the analysts wrote. “The resulting pressure from higher real yields and a stronger US dollar is likely to remain a near-term headwind for gold. But just as we do not believe near-term Fed decisions undermine the medium-term outlook for global equities—which is supported by AI spending, resilient economic activity, and broad earnings growth—we do not think they diminish gold’s strategic role in a portfolio.”",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-09-09/gold-more-tactical-expression-next-fed-decision-and-pullbacks-are",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1a3acba666ffd8e3",
+      "titleEn": "Rocket Lab stock is down 56% from its yearly high: Is this a buying opportunity?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/09/softbank-stock-jumps-5-percent-yen-strengthens/",
+      "link": "https://invezz.com/news/2026/09/09/rocket-lab-stock-is-down-56-from-its-yearly-high-is-this-a-buying-opportunity/",
       "published": null
     },
     {
-      "id": "stockanalysis:b89588d5d8d88c48",
-      "titleEn": "Chime Inks $590 Million Deal to Buy Longtime Bank Partner Stride",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Chime signed a definitive agreement to acquire Stride for $590 million in cash, and the company expects the transaction to close in the first half of 2027, subject to regulatory approvals and other customary closing conditions, according to the release. Upon closing, Stride will become Chime Bank, N.A. and will operate as a wholly owned subsidiary of Chime. Stride is a nationally chartered bank and has been Chime’s bank partner for more than seven years, the release said.",
+      "id": "stockanalysis:b9608f27f7682cf7",
+      "titleEn": "New Apple CEO to face first test with foldable iPhone launch",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Apple is expected to unveil a slew of new and updated devices, including a long-rumored foldable iPhone, when it holds its annual late-summer hardware event Wednesday in Cupertino, California. It will also be the first major event under new chief executive John Ternus, who took over from outgoing CEO Tim Cook on Sept. 1.",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/chime-inks-590-million-deal-to-buy-longtime-bank-partner-stride/",
+      "link": "https://techxplore.com/news/2026-09-apple-ceo-foldable-iphone.html",
       "published": null
     },
     {
-      "id": "stockanalysis:47698f060e21564a",
-      "titleEn": "Gold majors are out of debt and will have to start buying, Lundin says",
-      "summaryEn": "The biggest gold miners on earth are making more money than they know what to do with. They&#x27;ve paid off the debt. They&#x27;ve raised the dividend. They&#x27;ve bought back the stock. And they&#x27;re still swimming in cash. .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } \"I think that&#x27;s going to be the next big phase of this bull market, when we see the majors start to buy those big projects.\"",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-08/gold-majors-are-out-debt-and-will-have-start-buying-lundin-says",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fcd7182f38935373",
-      "titleEn": "Gold price slides below $4,370 as Brent nears $100 - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in late-afternoon U.S. trading Tuesday, as rising crude oil prices, elevated Treasury yields and firmer Fed-hike expectations outweighed the safe-haven bid from renewed U.S.-Iran tensions. At the time of writing, spot gold was trading near $4,368.60 an ounce, down 0.83%, while spot silver was trading at $65.830, down 0.32% on the session. North American equity markets closed lower as higher oil prices revived inflation concerns. The S&P 500 fell 45.08 points, or 0.6%, to 7,673.52, the Dow Jones Industrial Average dropped 628.18 points, or 1.2%, to 52,786.07, the Nasdaq Composite lost 85.58 points, or 0.3%, to 26,421.41, and the Russell 2000 fell 15.44 points, or 0.5%, to 2,960.20. European markets finished narrowly mixed, with the STOXX Europe 600 down 0.05% to 649.60. London’s FTSE 100 fell 0.10% to 10,811.66, Germany’s DAX was flat at 26,007.63, France’s CAC 40 rose 0.14% to 8,317.98 and Italy’s FTSE MIB slipped 0.10% to 52,177.47. The latest positioning remains centered on this week’s inflation data and next week’s Fed decision. Markets are pricing about a 60% probability that the Fed raises rates at the Sept. 15-16 meeting, after last week’s strong payrolls report and the latest oil shock kept inflation risk in focus. The Producer Price Index is due Thursday and the Consumer Price Index is due Friday, with traders treating both releases as the final inflation inputs before the meeting. The 10-year Treasury yield rose to about 4.80%, near its highest level since autumn 2023, while the U.S. dollar recovered from earlier weakness. For gold, the setup remains rate-negative: a firm PPI or CPI print would validate the hike trade, while softer inflation would be needed to revive the Waller-led pause case.",
+      "id": "stockanalysis:7ae73452f470dbe1",
+      "titleEn": "Gold, silver prices rise as Hormuz risk offsets rate pressure - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Wednesday, as escalating U.S.-Iran strikes, Brent crude above $100 a barrel and a softer dollar supported defensive demand ahead of the week’s U.S. inflation reports. At the time of writing, spot gold was trading near $4,403.10 an ounce, up 1.11%, while spot silver was trading at $66.080, up 0.68% on the session. The latest positioning remains caught between geopolitical demand and a still-hawkish Fed setup. Markets are pricing about a 60% probability of a 25-basis-point rate hike at the Fed’s Sept. 15-16 meeting, while the 10-year Treasury yield is trading near 4.81%, its highest level since October 2023. The Producer Price Index is due Thursday and the Consumer Price Index is due Friday, with both releases now carrying more weight because the oil shock has revived inflation concerns. For gold, the balance is conflicted but constructive in the short term: higher crude and elevated yields raise the opportunity cost of holding bullion, but safe-haven flows, a softer dollar and concern over Gulf supply routes are offsetting the rate headwind. Gold and silver are rebounding, but neither metal has cleared the technical ceiling that would confirm a full trend repair. Gold has recovered from the $4,347 support area and is testing toward the $4,422 resistance level, while silver remains compressed below $67.21 after holding above the $64.73 support level. The price action suggests buyers are using geopolitical risk to defend dips, but the inflation data will decide whether the move extends or stalls under the Fed-rate channel.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-08/gold-price-slides-below-4370-brent-nears-100-kitco-pm-report",
+      "link": "https://www.kitco.com/news/article/2026-09-09/gold-silver-prices-rise-hormuz-risk-offsets-rate-pressure-kitco-am-report",
       "published": null
     },
     {
-      "id": "stockanalysis:d3d9349f33494003",
-      "titleEn": "‘The bull trend will resume' and ‘you want to scale into a long position' as gold price nears $4,000 pre-FOMC – Goldman Sachs' Kim",
-      "summaryEn": "(Kitco News) – The gold market’s relative underperformance since February is not a failure of the bull market, but merely a pause, and the yellow metal has fresh all-time highs in its medium-term future, according to Anthony Kim, Global Head of Metals Trading at Goldman Sachs. Kim was asked on Goldman’s The Markets podcast whether gold’s all-time high of $5,589.38 per ounce in late January was the top of the current cycle. “From our perspective, this isn&#x27;t the end of the bull market,” he said. “It&#x27;s an elongated pause.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-08/bull-trend-will-resume-and-you-want-scale-long-position-gold-price-nears",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:61fcd3703cd59516",
-      "titleEn": "Wolters Kluwer research reveals succession challenge facing Italy's tax and accounting profession as firms struggle to attract the next generation",
+      "id": "stockanalysis:02b841b28f65c50d",
+      "titleEn": "Verily Health Secures New Investment From NVIDIA and CU Healthcare Innovation Fund",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909590095/en/Wolters-Kluwer-research-reveals-succession-challenge-facing-Italy%E2%80%99s-tax-and-accounting-profession-as-firms-struggle-to-attract-the-next-generation/",
+      "link": "https://www.businesswire.com/news/home/20260909933992/en/Verily-Health-Secures-New-Investment-From-NVIDIA-and-CU-Healthcare-Innovation-Fund/",
       "published": null
     },
     {
-      "id": "stockanalysis:433e3dbbfe06d2fb",
-      "titleEn": "91% of EV Drivers Would Go Out of Their Way for a Recommended Charger, New Research Finds",
+      "id": "stockanalysis:ab8e3294357b1142",
+      "titleEn": "PPAI Releases Landmark Study Showing Branded Merchandise Supports a $472 Billion Global Economic Footprint",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://www.businesswire.com/news/home/20260908894683/en/91-of-EV-Drivers-Would-Go-Out-of-Their-Way-for-a-Recommended-Charger-New-Research-Finds/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260909647041/en/PPAI-Releases-Landmark-Study-Showing-Branded-Merchandise-Supports-a-472-Billion-Global-Economic-Footprint/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:142dd30a30a6e17d",
+      "titleEn": "PureTech Founded Entity Seaport Therapeutics Reports Positive Topline Results from Phase 1 Driving Simulation Trial of GlyphAllo™ in Healthy Volunteers",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260909957620/en/PureTech-Founded-Entity-Seaport-Therapeutics-Reports-Positive-Topline-Results-from-Phase-1-Driving-Simulation-Trial-of-GlyphAllo%E2%84%A2-in-Healthy-Volunteers/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ba727608f86fb003",
+      "titleEn": "CHG Healthcare Introduces New Program to Help Healthcare Organizations Bridge Urgent and Transitional Workforce Needs",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260909096122/en/CHG-Healthcare-Introduces-New-Program-to-Help-Healthcare-Organizations-Bridge-Urgent-and-Transitional-Workforce-Needs/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f971fb465ffd0017",
+      "titleEn": "Cintas Corporation Announces Webcast for First Quarter Fiscal Year 2027 Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260909223284/en/Cintas-Corporation-Announces-Webcast-for-First-Quarter-Fiscal-Year-2027-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:db1e2523854baab2",
+      "titleEn": "PPAI Releases Landmark Study Showing Branded Merchandise Supports $170 Billion in U.S. Economic Activity and 1.2 Million Jobs",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260909107710/en/PPAI-Releases-Landmark-Study-Showing-Branded-Merchandise-Supports-170-Billion-in-U.S.-Economic-Activity-and-1.2-Million-Jobs/",
       "published": null
     }
   ]
