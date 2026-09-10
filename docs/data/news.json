@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-09-10T17:22:48.863514Z",
+  "generatedAt": "2026-09-10T19:52:59.460498Z",
   "sourceCount": 1,
   "count": 23,
   "items": [
+    {
+      "id": "stockanalysis:304f2b0905ccd4e9",
+      "titleEn": "If these key gold price levels fail, expect accelerated near-term selling – TD Securities",
+      "summaryEn": "(Kitco News) – Gold is outperforming other precious metals despite the headwinds of higher energy prices and rising Fed hike expectations, but Commodity Trading Advisors (CTA) and major funds could become sellers if gold breaks key support levels, according to commodity analysts at TD Securities. In a Thursday note, TD Securities’ Ryan McKay and Bart Melek wrote that while gold has given up some of its recent gains, it continues to outperform the precious complex in relative terms. “The yellow metal has been able to hold support in the higher range, even as the market grapples with renewed energy upside and the near-term increase in Fed hike probabilities,” they said. “In the near-term, gold will have an elevated sensitivity to incoming data and headlines, with inflation data the next big catalyst.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-10/if-these-key-gold-price-levels-fail-expect-accelerated-near-term-selling-td",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f3878be8e271ae18",
+      "titleEn": "Gold's record prices are reshaping demand as investors replace jewelry buyers - Metals Focus",
+      "summaryEn": "(Kitco News) - Investment demand has been a critical pillar of support for gold in recent years and, while the unsustainable rise in global sovereign debt remains a key driver in the precious metal’s long-term uptrend, one research firm is warning investors to keep an eye on another pillar that has weakened. In a recent report, analysts at Metals Focus warned investors that record-high gold prices are taking a significant toll on global jewelry demand, with consumption expected to fall to its lowest level since the pandemic. The U.K.-based research firm forecasts that global gold jewelry consumption in 2026 will be more than one-third lower than in 2023. The decline is significant enough that jewelry is expected to lose its position as gold’s largest demand component, overtaken by bar and coin investment.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-10/golds-record-prices-are-reshaping-demand-investors-replace-jewelry-buyers",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5831ab83881e41c2",
+      "titleEn": "Walmart Expands Tap to Pay as Amazon Builds Its AI Capacity",
+      "summaryEn": "Walmart is loosening control at checkout to strengthen the broader customer relationship, betting that payments can become more open as long as identity, loyalty, data and engagement stay inside its ecosystem. Amazon is pushing retail competition upstream into AI infrastructure, where discovery, personalization, recommendations and agentic commerce may influence the purchase before a shopper ever reaches checkout. The bigger retail shift is from owning the transaction to owning the intelligence around it: payments, wallets and infrastructure are becoming easier to outsource, while customer data, decisioning and demand generation are becoming the real control points.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/retail/2026/walmart-expands-tap-to-pay-as-amazon-builds-its-ai-capacity/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dfbd0231561b86cf",
+      "titleEn": "Reddit stock rises 6% as August user growth hits 2026 high",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/reddit-stock-rises-6-as-august-user-growth-hits-2026-high/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:66b70c6bc3a93aa8",
+      "titleEn": "Walmart Adds Papa John's to Restaurant Delivery Partner List",
+      "summaryEn": "Walmart is reportedly expanding its restaurant delivery program with a new partnership with Papa John’s . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); As Bloomberg News reported Thursday (Sept. 10), Walmart says food from the pizza chain can be delivered in 30 minutes or less from the retailer’s website or app, either on their own or as part of larger orders from Walmart.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/delivery/2026/walmart-adds-papa-johns-to-restaurant-delivery-partner-list/",
+      "published": null
+    },
     {
       "id": "stockanalysis:a78291c3e9389329",
       "titleEn": "iPhone Duo: analyst explains how big of a revenue opportunity it really is",
@@ -121,93 +166,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:cb9fd15681dc0fcd",
-      "titleEn": "Here's where ORCL stock could head after earnings as options market signals big move",
+      "id": "stockanalysis:b36c0091822e7466",
+      "titleEn": "Barings Global Short Duration High Yield Fund Announces September 2026 Monthly Distribution of $0.1223 per Share",
       "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/10/heres-where-orcl-stock-could-head-after-earnings-as-options-market-signals-big-move/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d60aadf8a59719dc",
-      "titleEn": "Cloudflare stock analysis: bullish outlook, but key valuation risk remains",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/10/cloudflare-stock-analysis-bullish-outlook-but-key-valuation-risk-remains/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8b2af64e75566e22",
-      "titleEn": "Gold, silver prices tumble as hot PPI lifts Fed-hike risk - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply lower in early U.S. trading Thursday, after hotter U.S. wholesale inflation, steady jobless claims and a 25-basis-point ECB rate hike reinforced the global higher-for-longer rate trade. At the time of writing, spot gold was trading near $4,362.30 an ounce, down 0.87%, while spot silver was trading at $64.920, down 3.34% on the session. The latest positioning shifted against precious metals after August PPI rose 0.4% on the month and 5.4% from a year earlier , with core producer prices up 0.3% on the month and 4.7% year-over-year. Goods inflation did the damage, led by a 4.2% jump in energy and a 24.1% surge in diesel fuel. Weekly jobless claims fell to 206,000 from a revised 207,000 , and continuing claims slipped to 1.774 million, keeping the labor market firm enough to deny gold a growth-scare bid. The ECB also raised its benchmark rate by 25 basis points to 2.50%, citing energy-driven inflation pressure from the Iran war. Markets were still pricing roughly a 60% probability of a Fed hike at the Sept. 15-16 meeting, with the 10-year Treasury yield trading near the 4.8% area. Friday’s CPI report is now the final major inflation input before the Fed decision. Gold and silver are trading as a rates-and-dollar market, not a clean safe-haven market. Gold lost the $4,396 to $4,422 area and tested toward the $4,341 200-day EMA reference, while silver broke below the $65.718 200-day EMA and the $65.471 50-day EMA. The selloff shows that oil-driven inflation is now working against metals through the yield channel faster than it is supporting them through geopolitical demand. Bulls need Friday’s CPI to cool, or the next move risks being another downside test rather than a rebound.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-10/gold-silver-prices-tumble-hot-ppi-lifts-fed-hike-risk-kitco-am-report",
+      "link": "https://www.businesswire.com/news/home/20260903218075/en/Barings-Global-Short-Duration-High-Yield-Fund-Announces-September-2026-Monthly-Distribution-of-0.1223-per-Share/",
       "published": null
     },
     {
-      "id": "stockanalysis:d44eedac05aab408",
-      "titleEn": "AeroVironment stock forecast as its revenue and backlog jumps",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/10/aerovironment-stock-forecast-as-its-revenue-and-backlog-jumps/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:af4a8e32599163b3",
-      "titleEn": "Nvidia, Palantir team up to build ‘Sovereign AI' for supply chains",
+      "id": "stockanalysis:79c59c60e49259dc",
+      "titleEn": "Box Partners with OpenAI to Reimagine How AI and Content Power Enterprise Work",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/10/nvidia-palantir-team-up-to-build-sovereign-ai-for-supply-chains/",
+      "link": "https://www.businesswire.com/news/home/20260909093837/en/Box-Partners-with-OpenAI-to-Reimagine-How-AI-and-Content-Power-Enterprise-Work/",
       "published": null
     },
     {
-      "id": "stockanalysis:4452dc4f8147e989",
-      "titleEn": "Spot gold price slides to $4,340/oz after August PPI rises 0.4%, core PPI rises 0.2%",
-      "summaryEn": "(Kitco News) - The gold market is selling off after the latest data showed U.S. producers saw rising price pressures on balance last month. The headline Producer Price Index (PPI) posted a 0.4% increase in August, following July’s upwardly revised 0.1% reading, the U.S. Labor Department announced on Thursday. The latest headline data was in line with expectations, as economists looked for a 0.4% increase. In the last 12 months, headline wholesale inflation increased 5.4%, the report said, above the consensus for 5.3% and July’s upwardly revised 4.8% reading.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-10/spot-gold-price-slides-4340oz-after-august-ppi-rises-04-core-ppi-rises-02",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a3ba9d2c97d32a3a",
-      "titleEn": "Gold falls to session lows as weekly jobless claims holds steady at 206k",
-      "summaryEn": "(Kitco News) - The gold market is seeing renewed selling pressure, with prices trading at session lows after data showed a relatively stable labor market, as the number of American workers applying for first-time unemployment benefits held steady for another week. Initial claims for state unemployment benefits came in at a seasonally adjusted 206,000 for the week ending September 5, the Labor Department announced Thursday. The number was in line with expectations. The previous week’s figure was revised slightly higher to 207,000 claims, compared with the previously reported 206,000. Analysts note that a stable labor market gives the Federal Reserve room to raise interest rates at next week’s monetary policy meeting. Spot gold last traded at $4,331.40 an ounce, down more than 1% on the day.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-10/gold-falls-session-lows-weekly-jobless-claims-holds-steady-206k",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f891b0bdee24985b",
-      "titleEn": "Veritone to Showcase New Veritone Video Intelligence, Transforming How Media Organizations Search, Discover, and Monetize Video Content, at IBC2026 in Amsterdam",
+      "id": "stockanalysis:27fb0f804a1be174",
+      "titleEn": "Baron &amp; Budd Secures $380 Million Settlement With DuPont, Chemours, and Corteva Over North Carolina PFAS Contamination",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260910823812/en/Veritone-to-Showcase-New-Veritone-Video-Intelligence-Transforming-How-Media-Organizations-Search-Discover-and-Monetize-Video-Content-at-IBC2026-in-Amsterdam/",
+      "link": "https://www.businesswire.com/news/home/20260910356747/en/Baron-Budd-Secures-380-Million-Settlement-With-DuPont-Chemours-and-Corteva-Over-North-Carolina-PFAS-Contamination/",
       "published": null
     },
     {
-      "id": "stockanalysis:19f2176aa54d5c0b",
-      "titleEn": "Jack in the Box Brings The Simpsons Treehouse of Horror to the Drive-Thru with a Monstrous Menu for a Limited Time",
+      "id": "stockanalysis:083814400ea9dd9c",
+      "titleEn": "Constellation to Acquire Rhode Island State Energy Center (RISEC) from Shell",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260910696551/en/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time/",
+      "link": "https://www.businesswire.com/news/home/20260909301280/en/Constellation-to-Acquire-Rhode-Island-State-Energy-Center-RISEC-from-Shell/",
       "published": null
     },
     {
-      "id": "stockanalysis:f9c31436f3b3e0a7",
-      "titleEn": "Baseten Acquires Blaxel to Build the Infrastructure for AI Agents in Production",
+      "id": "stockanalysis:e71b5ac6f5f70bd3",
+      "titleEn": "Cushman &amp; Wakefield: U.S. Legal Sector Leasing Hits Record 7.3 Million Square Feet in Q2 2026 as Law Firms Expand Footprints",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260910783896/en/Baseten-Acquires-Blaxel-to-Build-the-Infrastructure-for-AI-Agents-in-Production/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260909035269/en/Cushman-Wakefield-U.S.-Legal-Sector-Leasing-Hits-Record-7.3-Million-Square-Feet-in-Q2-2026-as-Law-Firms-Expand-Footprints/",
       "published": null
     }
   ]
