@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-09-10T00:34:04.713071Z",
+  "generatedAt": "2026-09-10T05:14:31.794359Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:92ae8ae57c858702",
+      "titleEn": "KOSPI loses 7,000 in 24 hours as oil and yields hammer Korean stocks",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/kospi-loses-7000-in-24-hours-as-oil-and-yields-hammer-korean-stocks/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c2928555026d5737",
+      "titleEn": "Amazon's $40 billion Ohio AI bet faces a tax shock: what it means for the stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/10/amazons-40-billion-ohio-ai-bet-faces-a-tax-shock-what-it-means-for-the-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:38c3c5352cfd201e",
+      "titleEn": "Samsung stock plunges as Apple enters foldables: is its seven-year lead at risk",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/samsung-stock-plunges-as-apple-enters-foldables-is-its-seven-year-lead-at-risk/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8a089968469ed6c1",
+      "titleEn": "Anthropic Missed Fourth Claude Network Breakout",
+      "summaryEn": "Anthropic said in a Wednesday blog post that it discovered a fourth incident in which Claude models gained unauthorized access to third-party systems. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The incident occurred in January but was not discovered during Anthropic’s earlier scan of transcripts that uncovered three other incidents that the company disclosed on July 30, the company said in the post.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-missed-fourth-claude-network-breakout/",
+      "published": null
+    },
     {
       "id": "stockanalysis:03287cb8f20699c4",
       "titleEn": "Salesforce Eyes $2 Billion Acquisition of AI-Powered Platform Listen Labs",
@@ -49,66 +85,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:2ddb01546ba66f19",
-      "titleEn": "Apple unveils foldable iPhone, redefining flexible displays",
+      "id": "stockanalysis:32f81e1b49e3baa3",
+      "titleEn": "Tigo Energy Drives Growth for UK Installers With Training, Support, and 211GWh in Optimization",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/09/apple-unveils-foldable-iphone-redefining-flexible-displays/",
+      "link": "https://www.businesswire.com/news/home/20260909759533/en/Tigo-Energy-Drives-Growth-for-UK-Installers-With-Training-Support-and-211GWh-in-Optimization/",
       "published": null
     },
     {
-      "id": "stockanalysis:658300826882f37f",
-      "titleEn": "Investors pour $18 billion into gold ETFs in August as sovereign debt concerns grow - WGC report",
-      "summaryEn": "(Kitco News) - Despite renewed threats of an imminent rate hike in September, gold’s price action during August shows just how much potential the precious metal has as a hedge against the unsustainable rise in global sovereign debt. Wednesday, the World Gold Council reported that investment demand in gold-backed exchange-traded funds saw its second-largest capital inflow on record. According to its monthly ETF data, the WGC said that $18 billion flowed into global gold ETFs – led by North American- and European-listed funds – in August. “Y-t-d, global gold ETF inflows totalled US$29bn, equivalent to a 160t increase in holdings. Asian-listed funds remained the largest contributor to global inflows over the period, followed by Europe,” the analysts said in the report. “Rising long-term yields and the US Treasury&#x27;s 19 August intervention heightened concerns around fiscal sustainability and dominance, while reviving fears of potential dollar debasement. As gold rallied and broke above key technical levels, price momentum likely attracted additional tactical and institutional demand.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-09/investors-pour-18-billion-gold-etfs-august-sovereign-debt-concerns-grow-wgc",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5c3be1359b2b7ff3",
-      "titleEn": "How could AI reshape the economy by 2030? Anthropic outlines 3 scenarios",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/09/how-could-ai-reshape-the-economy-by-2030-anthropic-outlines-3-scenarios/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a579c149296daf70",
-      "titleEn": "Apple shares fall 1.5% as iPhone 18 Pro launch comes with $100 price ike",
+      "id": "stockanalysis:f7396670c0f4bc94",
+      "titleEn": "U.S. FDA Grants Accelerated Approval to Bayer's HYRNUO® (sevabertinib) as a First-Line Targeted Therapy for Patients with HER2-Mutated Non-Small Cell Lung Cancer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/09/apple-shares-fall-1-5-as-iphone-18-pro-launch-comes-with-100-price-ike/",
+      "link": "https://www.businesswire.com/news/home/20260909948789/en/U.S.-FDA-Grants-Accelerated-Approval-to-Bayer%E2%80%99s-HYRNUO%C2%AE-sevabertinib-as-a-First-Line-Targeted-Therapy-for-Patients-with-HER2-Mutated-Non-Small-Cell-Lung-Cancer/",
       "published": null
     },
     {
-      "id": "stockanalysis:6fcb1d86b3caaf1c",
-      "titleEn": "USA Compression Partners, LP Announces Pricing of $600 Million Offering of Senior Notes",
+      "id": "stockanalysis:92b88faf0beafa50",
+      "titleEn": "BKV Corporation Prices Upsized $500 Million Convertible Senior Notes Offering",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909602282/en/USA-Compression-Partners-LP-Announces-Pricing-of-600-Million-Offering-of-Senior-Notes/",
+      "link": "https://www.businesswire.com/news/home/20260909251091/en/BKV-Corporation-Prices-Upsized-500-Million-Convertible-Senior-Notes-Offering/",
       "published": null
     },
     {
-      "id": "stockanalysis:dbf79292469b58c8",
-      "titleEn": "Hawaiian Electric to Support Recovery Efforts on Kaua‘i",
+      "id": "stockanalysis:39b13ce2d9820b9e",
+      "titleEn": "Ant International, Mastercard and Visa Initiate Collaboration on Know-Your-Agent Interoperability to Scale Agentic Commerce",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909130318/en/Hawaiian-Electric-to-Support-Recovery-Efforts-on-Kaua%E2%80%98i/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6abb5352b8db7689",
-      "titleEn": "Andrew Grosso &amp; Associates Announces Settlement of Whistleblower Lawsuit Against the Sanmina Corporation and SCI Technology, Inc.",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909081867/en/Andrew-Grosso-Associates-Announces-Settlement-of-Whistleblower-Lawsuit-Against-the-Sanmina-Corporation-and-SCI-Technology-Inc./",
+      "link": "https://www.businesswire.com/news/home/20260909003891/en/Ant-International-Mastercard-and-Visa-Initiate-Collaboration-on-Know-Your-Agent-Interoperability-to-Scale-Agentic-Commerce/",
       "published": null
     }
   ]
