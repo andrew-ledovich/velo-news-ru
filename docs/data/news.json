@@ -1,8 +1,134 @@
 {
-  "generatedAt": "2026-09-10T13:50:40.760225Z",
+  "generatedAt": "2026-09-10T17:22:48.863514Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 23,
   "items": [
+    {
+      "id": "stockanalysis:a78291c3e9389329",
+      "titleEn": "iPhone Duo: analyst explains how big of a revenue opportunity it really is",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/iphone-duo-analyst-explains-how-big-of-a-revenue-opportunity-it-really-is/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a114682375410edb",
+      "titleEn": "Why Wall Street is split on Meta's Muse AI agent and stock outlook",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/10/why-wall-street-is-split-on-metas-muse-ai-agent-and-stock-outlook/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3dd2c0ac0b719d4d",
+      "titleEn": "Why a 'beat and raise' isn't driving Macy's stock higher?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/why-a-beat-and-raise-isnt-driving-macys-stock-higher/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dd89c1a315357237",
+      "titleEn": "Pinterest stock crashes below key price: Is it a bargain or a value trap?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/pinterest-stock-crashes-below-key-price-is-it-a-bargain-or-a-value-trap/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a3120d475cacd9c8",
+      "titleEn": "Why Nvidia stock is down over 2% on Thursday",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/why-nvidia-stock-is-down-over-2-on-thursday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1136e261d6f48a22",
+      "titleEn": "Why are Micron, SanDisk, SK Hynix and other memory stocks falling?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/why-are-micron-sandisk-sk-hynix-and-other-memory-stocks-falling/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:08179498a04a3d73",
+      "titleEn": "Central bank gold moves are about repatriation, not liquidation – StoneX's O'Connell",
+      "summaryEn": "(Kitco News) – While the recent headline may give the impression that central banks are selling off some of their gold reserves, the gold has merely changed location in response to the rising perceived risk of sanctions and seizure, according to Rhona O&#x27;Connell, Head of Market Analysis for EMEA & Asia at StoneX. “News headlines last week captured the public&#x27;s imagination with the reports of the Netherlands&#x27; central bank repatriating gold from North America into Europe,” wrote Rhona O&#x27;Connell, Head of Market Analysis for EMEA & Asia on Wednesday. O&#x27;Connell noted that between June 2025 and January 2026, the Banque de France sold 129 tonnes of its gold reserve in New York gold – representing less than 5% of its official sector holdings of 2,437 tonnes – before buying it back in Europe, effectively moving the gold to Paris.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-10/central-bank-gold-moves-are-about-repatriation-not-liquidation-stonexs",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9e8cddbfb9c0a68c",
+      "titleEn": "Stanley Druckenmiller sold Intel and Micron to buy these two stocks",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/stanley-druckenmiller-sold-intel-and-micron-to-buy-these-two-stocks/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ecb70003119f1d47",
+      "titleEn": "OpenAI's Hugging Face Hack Triggers Senate Probe",
+      "summaryEn": "Lawmakers in the United States are pushing for new rules to govern artificial intelligence, Reuters reported Thursday (Sept. 10). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The effort follows an incident in which OpenAI ’s agents hacked the company Hugging Face , as well as comments from Joshua Coxon, an Anthropic researcher worried about AI escaping human control, the report said.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-hugging-face-hack-triggers-senate-probe/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:27e48f5a6901f3d2",
+      "titleEn": "gold off its lows but largely ignores 2% drop in U.S. existing home sales",
+      "summaryEn": "(Kitco News) - The gold market is off its lows but remains under pressure as the U.S. housing market continues to stabilize, with existing-home sales falling to their lowest level since February. Total existing-home sales, including single-family homes, townhomes, condominiums and co-ops, fell 2% to a seasonally adjusted annual rate of 3.96 million in August, the National Association of Realtors (NAR) announced Thursday. NAR Chief Economist Lawrence Yun said that rising interest rates, which are driving mortgage rates higher, continue to have a significant impact on the U.S. housing sector.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-10/gold-its-lows-largely-ignores-2-drop-us-existing-home-sales",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:39b794a75ef6f45e",
+      "titleEn": "Apple stock rises as analysts expects iPhone Duo to fuel growth",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/apple-stock-rises-as-analysts-expects-iphone-duo-to-fuel-growth/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:17eb80952a995725",
+      "titleEn": "'Metal Gear' creator moves to Xbox after PlayStation cancellation",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Legendary Japanese video game creator Hideo Kojima said Thursday that he had partnered with Microsoft's Xbox for his next project after Sony canceled its development for the PlayStation console. Kojima, whose pioneering \"Metal Gear\" spy-soldier franchise has been a key element of PlayStation's success since the 1990s, has been working on a new project, \"Physint.\"",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-09-metal-gear-creator-xbox-playstation.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:459069598eecc77b",
+      "titleEn": "Why Intel stock is sinking around 6% on Thursday",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/why-intel-stock-is-sinking-around-6-on-thursday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cb9fd15681dc0fcd",
+      "titleEn": "Here's where ORCL stock could head after earnings as options market signals big move",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/heres-where-orcl-stock-could-head-after-earnings-as-options-market-signals-big-move/",
+      "published": null
+    },
     {
       "id": "stockanalysis:d60aadf8a59719dc",
       "titleEn": "Cloudflare stock analysis: bullish outlook, but key valuation risk remains",
@@ -58,102 +184,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:4cb3e7494d725c7e",
-      "titleEn": "Gold price down but weathering ECB's 25 basis point rate hike",
-      "summaryEn": "(Kitco News) - The gold market appears to be largely shrugging off the European Central Bank’s decision to raise interest rates, as selling pressure remains limited against the euro. Thursday, the ECB announced that it would raise its three key interest rates by 25 basis points. The interest rates on the deposit facility, the main refinancing operations and the marginal lending facility will increase to 2.50%, 2.65% and 2.90%, respectively. The central bank said it was forced to raise interest rates as inflation pressures remain well above its 2% target.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-10/gold-price-down-weathering-ecbs-25-basis-point-rate-hike",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:20f0062a05eec57b",
-      "titleEn": "What's next for the soaring Energy Transfer stock?",
+      "id": "stockanalysis:f891b0bdee24985b",
+      "titleEn": "Veritone to Showcase New Veritone Video Intelligence, Transforming How Media Organizations Search, Discover, and Monetize Video Content, at IBC2026 in Amsterdam",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/10/whats-next-for-the-soaring-energy-transfer-stock/",
+      "link": "https://www.businesswire.com/news/home/20260910823812/en/Veritone-to-Showcase-New-Veritone-Video-Intelligence-Transforming-How-Media-Organizations-Search-Discover-and-Monetize-Video-Content-at-IBC2026-in-Amsterdam/",
       "published": null
     },
     {
-      "id": "stockanalysis:cdbbcb8d3cea5043",
-      "titleEn": "AB Foods stock sinks 11% as Primark sales miss exposes deeper turnaround risk",
+      "id": "stockanalysis:19f2176aa54d5c0b",
+      "titleEn": "Jack in the Box Brings The Simpsons Treehouse of Horror to the Drive-Thru with a Monstrous Menu for a Limited Time",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/10/ab-foods-stock-sinks-11-as-primark-sales-miss-exposes-deeper-turnaround-risk/",
+      "link": "https://www.businesswire.com/news/home/20260910696551/en/Jack-in-the-Box-Brings-The-Simpsons-Treehouse-of-Horror-to-the-Drive-Thru-with-a-Monstrous-Menu-for-a-Limited-Time/",
       "published": null
     },
     {
-      "id": "stockanalysis:a0835448f80115a0",
-      "titleEn": "Grab Looks to Pick Up BNPL Firm Atome Financial",
-      "summaryEn": "Ride-hailing/food-delivery company Grab is reportedly in discussions to acquire Singapore-based buy-now-pay-later provider Atome Financial . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That deal could value Atome at more than $2 billion, Bloomberg News reported Thursday (Sept. 10), citing sources familiar with the talks.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/acquiring/2026/grab-looks-to-pick-up-bnpl-firm-atome-financial/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b2de41d5c84cbcd3",
-      "titleEn": "Why is American Eagle stock plunging over 11% despite crushing earnings?",
+      "id": "stockanalysis:f9c31436f3b3e0a7",
+      "titleEn": "Baseten Acquires Blaxel to Build the Infrastructure for AI Agents in Production",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/10/why-is-american-eagle-stock-plunging-over-11-despite-crushing-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:af2b8c6361b39ef4",
-      "titleEn": "Why is Cathie Wood buying Meta stock and selling Alphabet shares?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/10/why-is-cathie-wood-buying-meta-stock-and-selling-alphabet-shares/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2950446a86bf41b3",
-      "titleEn": "New Fortress Energy Inc. Announces Update on Reverse Stock Split",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260910059904/en/New-Fortress-Energy-Inc.-Announces-Update-on-Reverse-Stock-Split/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bbd2dfe7b75b9078",
-      "titleEn": "Wolters Kluwer advances connected compliance with the launch of Performance Analytics Wiz and expanded Wiz Suite",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260910884087/en/Wolters-Kluwer-advances-connected-compliance-with-the-launch-of-Performance-Analytics-Wiz-and-expanded-Wiz-Suite/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0ea63e19b8021353",
-      "titleEn": "USA Compression Partners, LP to Transfer Stock Exchange Listing to Texas Stock Exchange",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909309670/en/USA-Compression-Partners-LP-to-Transfer-Stock-Exchange-Listing-to-Texas-Stock-Exchange/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:af19a69b34d6b891",
-      "titleEn": "Sunoco LP and SunocoCorp LLC to Transfer Listings to the Texas Stock Exchange",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260910815267/en/Sunoco-LP-and-SunocoCorp-LLC-to-Transfer-Listings-to-the-Texas-Stock-Exchange/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5b103455f70cd3f1",
-      "titleEn": "Energy Transfer to Transfer Stock Exchange Listings to Texas Stock Exchange",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909489257/en/Energy-Transfer-to-Transfer-Stock-Exchange-Listings-to-Texas-Stock-Exchange/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260910783896/en/Baseten-Acquires-Blaxel-to-Build-the-Infrastructure-for-AI-Agents-in-Production/",
       "published": null
     }
   ]
