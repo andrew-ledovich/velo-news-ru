@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-10T05:14:31.794359Z",
+  "generatedAt": "2026-09-10T09:44:42.597229Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:af2b8c6361b39ef4",
+      "titleEn": "Why is Cathie Wood buying Meta stock and selling Alphabet shares?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/why-is-cathie-wood-buying-meta-stock-and-selling-alphabet-shares/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:66902ab236413db2",
+      "titleEn": "Adobe stock has fallen after 15 of its last 20 earnings: can AI finally change that",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/10/adobe-stock-has-fallen-after-15-of-its-last-20-earnings-can-ai-finally-change-that/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:08b8577d2d0abed6",
+      "titleEn": "CoreWeave cannot get enough Nvidia GPUs: why the stock still dropped 5%",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/coreweave-cannot-get-enough-nvidia-gpus-why-the-stock-still-dropped-5/",
+      "published": null
+    },
     {
       "id": "stockanalysis:92ae8ae57c858702",
       "titleEn": "KOSPI loses 7,000 in 24 hours as oil and yields hammer Korean stocks",
@@ -76,48 +103,66 @@
       "published": null
     },
     {
-      "id": "stockanalysis:42294935910fa79d",
-      "titleEn": "Why is AMD stock surging 3% today",
+      "id": "stockanalysis:6b6d036e32a4c507",
+      "titleEn": "Kyocera Asia Pacific to Showcase Advanced Technologies and Innovative Solutions at Electronica India 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/09/why-is-amd-stock-surging-3-today/",
+      "link": "https://www.businesswire.com/news/home/20260909726796/en/Kyocera-Asia-Pacific-to-Showcase-Advanced-Technologies-and-Innovative-Solutions-at-Electronica-India-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:32f81e1b49e3baa3",
-      "titleEn": "Tigo Energy Drives Growth for UK Installers With Training, Support, and 211GWh in Optimization",
+      "id": "stockanalysis:e9e92c4ff24bca6c",
+      "titleEn": "Method Security and Palantir Announce The Cardinal Program, Delivering Method's Autonomous Cyber Systems via Palantir's Ontology for Cybersecurity",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909759533/en/Tigo-Energy-Drives-Growth-for-UK-Installers-With-Training-Support-and-211GWh-in-Optimization/",
+      "link": "https://www.businesswire.com/news/home/20260910841511/en/Method-Security-and-Palantir-Announce-The-Cardinal-Program-Delivering-Method%E2%80%99s-Autonomous-Cyber-Systems-via-Palantir%E2%80%99s-Ontology-for-Cybersecurity/",
       "published": null
     },
     {
-      "id": "stockanalysis:f7396670c0f4bc94",
-      "titleEn": "U.S. FDA Grants Accelerated Approval to Bayer's HYRNUO® (sevabertinib) as a First-Line Targeted Therapy for Patients with HER2-Mutated Non-Small Cell Lung Cancer",
+      "id": "stockanalysis:027b2f15349f6b3c",
+      "titleEn": "Palantir and Fujitsu Deepen Partnership to Advance Enterprise AI Transformation, with Fujitsu Strengthening as a Global FDE Partner",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909948789/en/U.S.-FDA-Grants-Accelerated-Approval-to-Bayer%E2%80%99s-HYRNUO%C2%AE-sevabertinib-as-a-First-Line-Targeted-Therapy-for-Patients-with-HER2-Mutated-Non-Small-Cell-Lung-Cancer/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260910030879/en/Palantir-and-Fujitsu-Deepen-Partnership-to-Advance-Enterprise-AI-Transformation-with-Fujitsu-Strengthening-as-a-Global-FDE-Partner/",
       "published": null
     },
     {
-      "id": "stockanalysis:92b88faf0beafa50",
-      "titleEn": "BKV Corporation Prices Upsized $500 Million Convertible Senior Notes Offering",
+      "id": "stockanalysis:7c2f89b271cba104",
+      "titleEn": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909251091/en/BKV-Corporation-Prices-Upsized-500-Million-Convertible-Senior-Notes-Offering/",
+      "link": "https://www.businesswire.com/news/home/20260910834032/en/NVIDIA-and-Palantir-Bring-Sovereign-Intelligence-to-Critical-Supply-Chains/",
       "published": null
     },
     {
-      "id": "stockanalysis:39b13ce2d9820b9e",
-      "titleEn": "Ant International, Mastercard and Visa Initiate Collaboration on Know-Your-Agent Interoperability to Scale Agentic Commerce",
+      "id": "stockanalysis:b4d4a9a7b586ccb6",
+      "titleEn": "FreeCast Launches on Stocktwits with Enhanced Social Presence",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909003891/en/Ant-International-Mastercard-and-Visa-Initiate-Collaboration-on-Know-Your-Agent-Interoperability-to-Scale-Agentic-Commerce/",
+      "link": "https://www.businesswire.com/news/home/20260910346736/en/FreeCast-Launches-on-Stocktwits-with-Enhanced-Social-Presence/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a2845d3724041290",
+      "titleEn": "Palantir Customers Set New Standard for AI at AIPCon 11",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260910983546/en/Palantir-Customers-Set-New-Standard-for-AI-at-AIPCon-11/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:61fad32a621d12a0",
+      "titleEn": "WeRide, Uber and AVOMO Receive Spain's First National Operating Permit for Level 4 Autonomous Passenger Vehicles",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260910313154/en/WeRide-Uber-and-AVOMO-Receive-Spains-First-National-Operating-Permit-for-Level-4-Autonomous-Passenger-Vehicles/",
       "published": null
     }
   ]
