@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-09-10T19:52:59.460498Z",
+  "generatedAt": "2026-09-10T22:02:23.657959Z",
   "sourceCount": 1,
-  "count": 23,
+  "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:cc6251a18265ffb1",
+      "titleEn": "Gold, silver prices tumble as hot PPI, oil shock lift yields - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply lower in late-afternoon U.S. trading Thursday, as hotter wholesale inflation, a crude-oil surge and a jump in Treasury yields overwhelmed safe-haven demand tied to the U.S.-Iran war. At the time of writing, spot gold was trading near $4,317.10 an ounce, down 1.90%, while spot silver was trading at $63.500, down 5.46% on the session. North American equity markets closed lower as oil and yields rose. The S&P 500 fell 44.66 points, or 0.6%, to 7,591.70, the Dow Jones Industrial Average dropped 316.56 points, or 0.6%, to 52,064.10, the Nasdaq Composite lost 171.62 points, or 0.7%, to 26,081.72, and the Russell 2000 fell 30.29 points, or 1.0%, to 2,890.95. European markets also finished lower, with the STOXX Europe 600 down 0.69% to 635.97. London’s FTSE 100 fell 0.57% to 10,608.92, Germany’s DAX dropped 0.84% to 25,361.15, France’s CAC 40 lost 0.49% to 8,116.76, and Italy’s FTSE MIB slipped 0.13% to 51,807.40. The latest positioning shifted decisively against precious metals after August PPI rose 0.4% on the month and 5.4% from a year earlier , with energy and diesel costs driving the upside. Weekly jobless claims remained low , and the ECB raised its benchmark rate by 25 basis points to 2.50% to counter energy-driven inflation from the Iran war. By the close, Fed-funds futures priced a 71% probability that the Fed raises rates by 25 basis points next week, while the 10-year Treasury yield jumped to 4.943%, its highest settlement since October 2023. Friday’s CPI report is now the final major macro input before the Sept. 15-16 Fed meeting. For gold, the signal is rate-negative: unless CPI cools enough to challenge the hike trade, higher yields and a firmer dollar keep the opportunity cost of holding bullion elevated.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-10/gold-silver-prices-tumble-hot-ppi-oil-shock-lift-yields-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f94df7e104098f63",
+      "titleEn": "Experian Deploys Real-Time AI Decisioning Across Lending Marketplaces",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Experian Activate combines credit data, advanced analytics, AI capabilities, consumer-permissioned financial information and lender-specific underwriting criteria, according to the release. With these resources, Experian Activate helps consumers find offers they are more likely to qualify for and helps lenders reach qualified customers more efficiently, the release said.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/experian-deploys-real-time-ai-decisioning-across-lending-marketplaces/",
+      "published": null
+    },
     {
       "id": "stockanalysis:304f2b0905ccd4e9",
       "titleEn": "If these key gold price levels fail, expect accelerated near-term selling – TD Securities",
@@ -58,156 +76,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:a114682375410edb",
-      "titleEn": "Why Wall Street is split on Meta's Muse AI agent and stock outlook",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/10/why-wall-street-is-split-on-metas-muse-ai-agent-and-stock-outlook/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3dd2c0ac0b719d4d",
-      "titleEn": "Why a 'beat and raise' isn't driving Macy's stock higher?",
+      "id": "stockanalysis:5e191a9d4d9eddaf",
+      "titleEn": "Edwards Lifesciences Comments on TAVR National Coverage Decision",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/10/why-a-beat-and-raise-isnt-driving-macys-stock-higher/",
+      "link": "https://www.businesswire.com/news/home/20260910286048/en/Edwards-Lifesciences-Comments-on-TAVR-National-Coverage-Decision/",
       "published": null
     },
     {
-      "id": "stockanalysis:dd89c1a315357237",
-      "titleEn": "Pinterest stock crashes below key price: Is it a bargain or a value trap?",
+      "id": "stockanalysis:16daa016bc407229",
+      "titleEn": "BlackRock Capital Allocation Term Trust (BCAT) Announces Terms of Rights Offering to Pursue Compelling Real Yields and Secular Growth Themes at an Attractive Entry Point",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/10/pinterest-stock-crashes-below-key-price-is-it-a-bargain-or-a-value-trap/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a3120d475cacd9c8",
-      "titleEn": "Why Nvidia stock is down over 2% on Thursday",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/10/why-nvidia-stock-is-down-over-2-on-thursday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1136e261d6f48a22",
-      "titleEn": "Why are Micron, SanDisk, SK Hynix and other memory stocks falling?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/10/why-are-micron-sandisk-sk-hynix-and-other-memory-stocks-falling/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:08179498a04a3d73",
-      "titleEn": "Central bank gold moves are about repatriation, not liquidation – StoneX's O'Connell",
-      "summaryEn": "(Kitco News) – While the recent headline may give the impression that central banks are selling off some of their gold reserves, the gold has merely changed location in response to the rising perceived risk of sanctions and seizure, according to Rhona O&#x27;Connell, Head of Market Analysis for EMEA & Asia at StoneX. “News headlines last week captured the public&#x27;s imagination with the reports of the Netherlands&#x27; central bank repatriating gold from North America into Europe,” wrote Rhona O&#x27;Connell, Head of Market Analysis for EMEA & Asia on Wednesday. O&#x27;Connell noted that between June 2025 and January 2026, the Banque de France sold 129 tonnes of its gold reserve in New York gold – representing less than 5% of its official sector holdings of 2,437 tonnes – before buying it back in Europe, effectively moving the gold to Paris.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-10/central-bank-gold-moves-are-about-repatriation-not-liquidation-stonexs",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9e8cddbfb9c0a68c",
-      "titleEn": "Stanley Druckenmiller sold Intel and Micron to buy these two stocks",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/10/stanley-druckenmiller-sold-intel-and-micron-to-buy-these-two-stocks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ecb70003119f1d47",
-      "titleEn": "OpenAI's Hugging Face Hack Triggers Senate Probe",
-      "summaryEn": "Lawmakers in the United States are pushing for new rules to govern artificial intelligence, Reuters reported Thursday (Sept. 10). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The effort follows an incident in which OpenAI ’s agents hacked the company Hugging Face , as well as comments from Joshua Coxon, an Anthropic researcher worried about AI escaping human control, the report said.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-hugging-face-hack-triggers-senate-probe/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:27e48f5a6901f3d2",
-      "titleEn": "gold off its lows but largely ignores 2% drop in U.S. existing home sales",
-      "summaryEn": "(Kitco News) - The gold market is off its lows but remains under pressure as the U.S. housing market continues to stabilize, with existing-home sales falling to their lowest level since February. Total existing-home sales, including single-family homes, townhomes, condominiums and co-ops, fell 2% to a seasonally adjusted annual rate of 3.96 million in August, the National Association of Realtors (NAR) announced Thursday. NAR Chief Economist Lawrence Yun said that rising interest rates, which are driving mortgage rates higher, continue to have a significant impact on the U.S. housing sector.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-10/gold-its-lows-largely-ignores-2-drop-us-existing-home-sales",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:39b794a75ef6f45e",
-      "titleEn": "Apple stock rises as analysts expects iPhone Duo to fuel growth",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/10/apple-stock-rises-as-analysts-expects-iphone-duo-to-fuel-growth/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:17eb80952a995725",
-      "titleEn": "'Metal Gear' creator moves to Xbox after PlayStation cancellation",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Legendary Japanese video game creator Hideo Kojima said Thursday that he had partnered with Microsoft's Xbox for his next project after Sony canceled its development for the PlayStation console. Kojima, whose pioneering \"Metal Gear\" spy-soldier franchise has been a key element of PlayStation's success since the 1990s, has been working on a new project, \"Physint.\"",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-09-metal-gear-creator-xbox-playstation.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:459069598eecc77b",
-      "titleEn": "Why Intel stock is sinking around 6% on Thursday",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/10/why-intel-stock-is-sinking-around-6-on-thursday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b36c0091822e7466",
-      "titleEn": "Barings Global Short Duration High Yield Fund Announces September 2026 Monthly Distribution of $0.1223 per Share",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20260903218075/en/Barings-Global-Short-Duration-High-Yield-Fund-Announces-September-2026-Monthly-Distribution-of-0.1223-per-Share/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:79c59c60e49259dc",
-      "titleEn": "Box Partners with OpenAI to Reimagine How AI and Content Power Enterprise Work",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260909093837/en/Box-Partners-with-OpenAI-to-Reimagine-How-AI-and-Content-Power-Enterprise-Work/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:27fb0f804a1be174",
-      "titleEn": "Baron &amp; Budd Secures $380 Million Settlement With DuPont, Chemours, and Corteva Over North Carolina PFAS Contamination",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260910356747/en/Baron-Budd-Secures-380-Million-Settlement-With-DuPont-Chemours-and-Corteva-Over-North-Carolina-PFAS-Contamination/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:083814400ea9dd9c",
-      "titleEn": "Constellation to Acquire Rhode Island State Energy Center (RISEC) from Shell",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909301280/en/Constellation-to-Acquire-Rhode-Island-State-Energy-Center-RISEC-from-Shell/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e71b5ac6f5f70bd3",
-      "titleEn": "Cushman &amp; Wakefield: U.S. Legal Sector Leasing Hits Record 7.3 Million Square Feet in Q2 2026 as Law Firms Expand Footprints",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909035269/en/Cushman-Wakefield-U.S.-Legal-Sector-Leasing-Hits-Record-7.3-Million-Square-Feet-in-Q2-2026-as-Law-Firms-Expand-Footprints/",
+      "link": "https://www.businesswire.com/news/home/20260910377733/en/BlackRock-Capital-Allocation-Term-Trust-BCAT-Announces-Terms-of-Rights-Offering-to-Pursue-Compelling-Real-Yields-and-Secular-Growth-Themes-at-an-Attractive-Entry-Point/",
       "published": null
     }
   ]
