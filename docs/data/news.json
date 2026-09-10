@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-09-09T22:31:13.359927Z",
+  "generatedAt": "2026-09-10T00:34:04.713071Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:03287cb8f20699c4",
+      "titleEn": "Salesforce Eyes $2 Billion Acquisition of AI-Powered Platform Listen Labs",
+      "summaryEn": "Salesforce has been in talks to acquire Listen Labs , an artificial intelligence-powered customer research platform, for about $2 billion, Business Insider reported Wednesday (Sept. 9), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The talks are ongoing, and they may not result in a deal, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/salesforce-eyes-2-billion-acquisition-of-ai-powered-platform-listen-labs/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1feb546ca8f2d5fc",
+      "titleEn": "Ron Paul says the people should own the gold, not the government",
+      "summaryEn": "The US Treasury tried to calm the bond market on Wednesday, and the bond market declined the offer. .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } Treasury Secretary Scott Bessent tripled the ceiling on the government&#x27;s purchases of its own long-dated debt to as much as $6 billion. A buyback is the government repurchasing bonds it already issued, meant to make them easier to trade and take pressure off what Washington pays to borrow.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-09/ron-paul-says-people-should-own-gold-not-government",
+      "published": null
+    },
     {
       "id": "stockanalysis:68adb2a1c959b2bd",
       "titleEn": "Independent Investigators Uncover Broader Rogue Activity by OpenAI Agents",
@@ -67,57 +85,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:285918b5025abc3c",
-      "titleEn": "Public Storage Prices Public Offering of C$400 Million Senior Notes in its Inaugural Offering in the Canadian Market",
+      "id": "stockanalysis:6fcb1d86b3caaf1c",
+      "titleEn": "USA Compression Partners, LP Announces Pricing of $600 Million Offering of Senior Notes",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909653598/en/Public-Storage-Prices-Public-Offering-of-C400-Million-Senior-Notes-in-its-Inaugural-Offering-in-the-Canadian-Market/",
+      "link": "https://www.businesswire.com/news/home/20260909602282/en/USA-Compression-Partners-LP-Announces-Pricing-of-600-Million-Offering-of-Senior-Notes/",
       "published": null
     },
     {
-      "id": "stockanalysis:c4108d5236488af6",
-      "titleEn": "Xfinity Mobile, Comcast Business Mobile to Offer iPhone Duo, iPhone 18 Pro, and iPhone 18 Pro Max",
+      "id": "stockanalysis:dbf79292469b58c8",
+      "titleEn": "Hawaiian Electric to Support Recovery Efforts on Kaua‘i",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909612055/en/Xfinity-Mobile-Comcast-Business-Mobile-to-Offer-iPhone-Duo-iPhone-18-Pro-and-iPhone-18-Pro-Max/",
+      "link": "https://www.businesswire.com/news/home/20260909130318/en/Hawaiian-Electric-to-Support-Recovery-Efforts-on-Kaua%E2%80%98i/",
       "published": null
     },
     {
-      "id": "stockanalysis:b52fe6ad96c972f6",
-      "titleEn": "Alpha Cognition Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+      "id": "stockanalysis:6abb5352b8db7689",
+      "titleEn": "Andrew Grosso &amp; Associates Announces Settlement of Whistleblower Lawsuit Against the Sanmina Corporation and SCI Technology, Inc.",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909061312/en/Alpha-Cognition-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fb3d4851471e8547",
-      "titleEn": "Oaktree Specialty Lending Corporation Prices Public Offering of $300,000,000 7.000% Notes due 2031",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909872235/en/Oaktree-Specialty-Lending-Corporation-Prices-Public-Offering-of-300000000-7.000-Notes-due-2031/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8078e6eb593201ec",
-      "titleEn": "Bioceres Crop Solutions to Host Fiscal Fourth Quarter and Full Year 2026 Financial Results Conference Call on Tuesday, September 15, 2026 at 8:30 a.m. Eastern Time",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909791163/en/Bioceres-Crop-Solutions-to-Host-Fiscal-Fourth-Quarter-and-Full-Year-2026-Financial-Results-Conference-Call-on-Tuesday-September-15-2026-at-830-a.m.-Eastern-Time/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:903a57fe778ac799",
-      "titleEn": "AutoNation to Participate in the Morgan Stanley 14th Annual Laguna Conference on September 17, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909752628/en/AutoNation-to-Participate-in-the-Morgan-Stanley-14th-Annual-Laguna-Conference-on-September-17-2026/",
+      "link": "https://www.businesswire.com/news/home/20260909081867/en/Andrew-Grosso-Associates-Announces-Settlement-of-Whistleblower-Lawsuit-Against-the-Sanmina-Corporation-and-SCI-Technology-Inc./",
       "published": null
     }
   ]
