@@ -1,8 +1,107 @@
 {
-  "generatedAt": "2026-09-10T09:44:42.597229Z",
+  "generatedAt": "2026-09-10T13:50:40.760225Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:d60aadf8a59719dc",
+      "titleEn": "Cloudflare stock analysis: bullish outlook, but key valuation risk remains",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/cloudflare-stock-analysis-bullish-outlook-but-key-valuation-risk-remains/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8b2af64e75566e22",
+      "titleEn": "Gold, silver prices tumble as hot PPI lifts Fed-hike risk - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply lower in early U.S. trading Thursday, after hotter U.S. wholesale inflation, steady jobless claims and a 25-basis-point ECB rate hike reinforced the global higher-for-longer rate trade. At the time of writing, spot gold was trading near $4,362.30 an ounce, down 0.87%, while spot silver was trading at $64.920, down 3.34% on the session. The latest positioning shifted against precious metals after August PPI rose 0.4% on the month and 5.4% from a year earlier , with core producer prices up 0.3% on the month and 4.7% year-over-year. Goods inflation did the damage, led by a 4.2% jump in energy and a 24.1% surge in diesel fuel. Weekly jobless claims fell to 206,000 from a revised 207,000 , and continuing claims slipped to 1.774 million, keeping the labor market firm enough to deny gold a growth-scare bid. The ECB also raised its benchmark rate by 25 basis points to 2.50%, citing energy-driven inflation pressure from the Iran war. Markets were still pricing roughly a 60% probability of a Fed hike at the Sept. 15-16 meeting, with the 10-year Treasury yield trading near the 4.8% area. Friday’s CPI report is now the final major inflation input before the Fed decision. Gold and silver are trading as a rates-and-dollar market, not a clean safe-haven market. Gold lost the $4,396 to $4,422 area and tested toward the $4,341 200-day EMA reference, while silver broke below the $65.718 200-day EMA and the $65.471 50-day EMA. The selloff shows that oil-driven inflation is now working against metals through the yield channel faster than it is supporting them through geopolitical demand. Bulls need Friday’s CPI to cool, or the next move risks being another downside test rather than a rebound.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-10/gold-silver-prices-tumble-hot-ppi-lifts-fed-hike-risk-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d44eedac05aab408",
+      "titleEn": "AeroVironment stock forecast as its revenue and backlog jumps",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/aerovironment-stock-forecast-as-its-revenue-and-backlog-jumps/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:af4a8e32599163b3",
+      "titleEn": "Nvidia, Palantir team up to build ‘Sovereign AI' for supply chains",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/10/nvidia-palantir-team-up-to-build-sovereign-ai-for-supply-chains/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4452dc4f8147e989",
+      "titleEn": "Spot gold price slides to $4,340/oz after August PPI rises 0.4%, core PPI rises 0.2%",
+      "summaryEn": "(Kitco News) - The gold market is selling off after the latest data showed U.S. producers saw rising price pressures on balance last month. The headline Producer Price Index (PPI) posted a 0.4% increase in August, following July’s upwardly revised 0.1% reading, the U.S. Labor Department announced on Thursday. The latest headline data was in line with expectations, as economists looked for a 0.4% increase. In the last 12 months, headline wholesale inflation increased 5.4%, the report said, above the consensus for 5.3% and July’s upwardly revised 4.8% reading.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-10/spot-gold-price-slides-4340oz-after-august-ppi-rises-04-core-ppi-rises-02",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a3ba9d2c97d32a3a",
+      "titleEn": "Gold falls to session lows as weekly jobless claims holds steady at 206k",
+      "summaryEn": "(Kitco News) - The gold market is seeing renewed selling pressure, with prices trading at session lows after data showed a relatively stable labor market, as the number of American workers applying for first-time unemployment benefits held steady for another week. Initial claims for state unemployment benefits came in at a seasonally adjusted 206,000 for the week ending September 5, the Labor Department announced Thursday. The number was in line with expectations. The previous week’s figure was revised slightly higher to 207,000 claims, compared with the previously reported 206,000. Analysts note that a stable labor market gives the Federal Reserve room to raise interest rates at next week’s monetary policy meeting. Spot gold last traded at $4,331.40 an ounce, down more than 1% on the day.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-10/gold-falls-session-lows-weekly-jobless-claims-holds-steady-206k",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4cb3e7494d725c7e",
+      "titleEn": "Gold price down but weathering ECB's 25 basis point rate hike",
+      "summaryEn": "(Kitco News) - The gold market appears to be largely shrugging off the European Central Bank’s decision to raise interest rates, as selling pressure remains limited against the euro. Thursday, the ECB announced that it would raise its three key interest rates by 25 basis points. The interest rates on the deposit facility, the main refinancing operations and the marginal lending facility will increase to 2.50%, 2.65% and 2.90%, respectively. The central bank said it was forced to raise interest rates as inflation pressures remain well above its 2% target.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-10/gold-price-down-weathering-ecbs-25-basis-point-rate-hike",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:20f0062a05eec57b",
+      "titleEn": "What's next for the soaring Energy Transfer stock?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/whats-next-for-the-soaring-energy-transfer-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cdbbcb8d3cea5043",
+      "titleEn": "AB Foods stock sinks 11% as Primark sales miss exposes deeper turnaround risk",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/ab-foods-stock-sinks-11-as-primark-sales-miss-exposes-deeper-turnaround-risk/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a0835448f80115a0",
+      "titleEn": "Grab Looks to Pick Up BNPL Firm Atome Financial",
+      "summaryEn": "Ride-hailing/food-delivery company Grab is reportedly in discussions to acquire Singapore-based buy-now-pay-later provider Atome Financial . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That deal could value Atome at more than $2 billion, Bloomberg News reported Thursday (Sept. 10), citing sources familiar with the talks.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/acquiring/2026/grab-looks-to-pick-up-bnpl-firm-atome-financial/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b2de41d5c84cbcd3",
+      "titleEn": "Why is American Eagle stock plunging over 11% despite crushing earnings?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/10/why-is-american-eagle-stock-plunging-over-11-despite-crushing-earnings/",
+      "published": null
+    },
     {
       "id": "stockanalysis:af2b8c6361b39ef4",
       "titleEn": "Why is Cathie Wood buying Meta stock and selling Alphabet shares?",
@@ -13,156 +112,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:66902ab236413db2",
-      "titleEn": "Adobe stock has fallen after 15 of its last 20 earnings: can AI finally change that",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/10/adobe-stock-has-fallen-after-15-of-its-last-20-earnings-can-ai-finally-change-that/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:08b8577d2d0abed6",
-      "titleEn": "CoreWeave cannot get enough Nvidia GPUs: why the stock still dropped 5%",
+      "id": "stockanalysis:2950446a86bf41b3",
+      "titleEn": "New Fortress Energy Inc. Announces Update on Reverse Stock Split",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/10/coreweave-cannot-get-enough-nvidia-gpus-why-the-stock-still-dropped-5/",
+      "link": "https://www.businesswire.com/news/home/20260910059904/en/New-Fortress-Energy-Inc.-Announces-Update-on-Reverse-Stock-Split/",
       "published": null
     },
     {
-      "id": "stockanalysis:92ae8ae57c858702",
-      "titleEn": "KOSPI loses 7,000 in 24 hours as oil and yields hammer Korean stocks",
+      "id": "stockanalysis:bbd2dfe7b75b9078",
+      "titleEn": "Wolters Kluwer advances connected compliance with the launch of Performance Analytics Wiz and expanded Wiz Suite",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/10/kospi-loses-7000-in-24-hours-as-oil-and-yields-hammer-korean-stocks/",
+      "link": "https://www.businesswire.com/news/home/20260910884087/en/Wolters-Kluwer-advances-connected-compliance-with-the-launch-of-Performance-Analytics-Wiz-and-expanded-Wiz-Suite/",
       "published": null
     },
     {
-      "id": "stockanalysis:c2928555026d5737",
-      "titleEn": "Amazon's $40 billion Ohio AI bet faces a tax shock: what it means for the stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/10/amazons-40-billion-ohio-ai-bet-faces-a-tax-shock-what-it-means-for-the-stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:38c3c5352cfd201e",
-      "titleEn": "Samsung stock plunges as Apple enters foldables: is its seven-year lead at risk",
+      "id": "stockanalysis:0ea63e19b8021353",
+      "titleEn": "USA Compression Partners, LP to Transfer Stock Exchange Listing to Texas Stock Exchange",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/10/samsung-stock-plunges-as-apple-enters-foldables-is-its-seven-year-lead-at-risk/",
+      "link": "https://www.businesswire.com/news/home/20260909309670/en/USA-Compression-Partners-LP-to-Transfer-Stock-Exchange-Listing-to-Texas-Stock-Exchange/",
       "published": null
     },
     {
-      "id": "stockanalysis:8a089968469ed6c1",
-      "titleEn": "Anthropic Missed Fourth Claude Network Breakout",
-      "summaryEn": "Anthropic said in a Wednesday blog post that it discovered a fourth incident in which Claude models gained unauthorized access to third-party systems. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The incident occurred in January but was not discovered during Anthropic’s earlier scan of transcripts that uncovered three other incidents that the company disclosed on July 30, the company said in the post.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-missed-fourth-claude-network-breakout/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:03287cb8f20699c4",
-      "titleEn": "Salesforce Eyes $2 Billion Acquisition of AI-Powered Platform Listen Labs",
-      "summaryEn": "Salesforce has been in talks to acquire Listen Labs , an artificial intelligence-powered customer research platform, for about $2 billion, Business Insider reported Wednesday (Sept. 9), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The talks are ongoing, and they may not result in a deal, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/salesforce-eyes-2-billion-acquisition-of-ai-powered-platform-listen-labs/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1feb546ca8f2d5fc",
-      "titleEn": "Ron Paul says the people should own the gold, not the government",
-      "summaryEn": "The US Treasury tried to calm the bond market on Wednesday, and the bond market declined the offer. .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } Treasury Secretary Scott Bessent tripled the ceiling on the government&#x27;s purchases of its own long-dated debt to as much as $6 billion. A buyback is the government repurchasing bonds it already issued, meant to make them easier to trade and take pressure off what Washington pays to borrow.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-09/ron-paul-says-people-should-own-gold-not-government",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:68adb2a1c959b2bd",
-      "titleEn": "Independent Investigators Uncover Broader Rogue Activity by OpenAI Agents",
-      "summaryEn": "Independent investigators found that rogue activity by OpenAI agents was more extensive than previously disclosed, Reuters reported Wednesday (Sept. 9). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Six sets of independent investigators found that the agents used more than 10 previously undisclosed websites to communicate with each other during a test in which they were restricted from posting on the web, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/independent-investigators-uncover-broader-rogue-activity-openai-agents/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:647cb8bcf00ddac3",
-      "titleEn": "Gold, silver rise as dollar weakness offsets oil-driven rate risk - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in late-afternoon U.S. trading Wednesday, as a weaker U.S. dollar and safe-haven demand tied to the U.S.-Iran conflict outweighed higher Treasury yields and another surge in crude oil. At the time of writing, spot gold was trading near $4,396.40 an ounce, up 0.96%, while spot silver was trading at $67.080, up 2.20% on the session. North American equity markets closed lower as Brent crude moved back above $100 a barrel and Treasury yields rose. The S&P 500 fell 37.16 points, or 0.5%, to 7,636.36, the Dow Jones Industrial Average dropped 405.41 points, or 0.8%, to 52,380.66, the Nasdaq Composite lost 168.07 points, or 0.6%, to 26,253.34, and the Russell 2000 fell 38.97 points, or 1.3%, to 2,921.23. European markets also finished lower, with the STOXX Europe 600 down 1.41% to 640.41. London’s FTSE 100 fell 1.31% to 10,670.06, Germany’s DAX dropped 1.66% to 25,576.45, France’s CAC 40 lost 1.94% to 8,156.67 and Italy’s FTSE MIB slipped 0.58% to 51,875.24. The latest positioning remains centered on whether this week’s inflation data can confirm or reverse the market’s roughly 60% probability of a Fed rate hike at the Sept. 15-16 meeting. August PPI is due Thursday, followed by CPI on Friday, with the two reports now carrying more weight after Brent crude returned above $100 and pushed the 10-year Treasury yield near its highest level since October 2023. Gold’s recent support has come from dollar weakness, geopolitical demand and Treasury buyback volatility, but the rate backdrop remains a constraint. A firm PPI or CPI print would validate the hike trade and keep pressure on non-yielding metals, while a softer sequence would give the Waller-led pause argument a cleaner opening.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-09/gold-silver-rise-dollar-weakness-offsets-oil-driven-rate-risk-kitco-pm",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6b6d036e32a4c507",
-      "titleEn": "Kyocera Asia Pacific to Showcase Advanced Technologies and Innovative Solutions at Electronica India 2026",
+      "id": "stockanalysis:af19a69b34d6b891",
+      "titleEn": "Sunoco LP and SunocoCorp LLC to Transfer Listings to the Texas Stock Exchange",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260909726796/en/Kyocera-Asia-Pacific-to-Showcase-Advanced-Technologies-and-Innovative-Solutions-at-Electronica-India-2026/",
+      "link": "https://www.businesswire.com/news/home/20260910815267/en/Sunoco-LP-and-SunocoCorp-LLC-to-Transfer-Listings-to-the-Texas-Stock-Exchange/",
       "published": null
     },
     {
-      "id": "stockanalysis:e9e92c4ff24bca6c",
-      "titleEn": "Method Security and Palantir Announce The Cardinal Program, Delivering Method's Autonomous Cyber Systems via Palantir's Ontology for Cybersecurity",
+      "id": "stockanalysis:5b103455f70cd3f1",
+      "titleEn": "Energy Transfer to Transfer Stock Exchange Listings to Texas Stock Exchange",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260910841511/en/Method-Security-and-Palantir-Announce-The-Cardinal-Program-Delivering-Method%E2%80%99s-Autonomous-Cyber-Systems-via-Palantir%E2%80%99s-Ontology-for-Cybersecurity/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:027b2f15349f6b3c",
-      "titleEn": "Palantir and Fujitsu Deepen Partnership to Advance Enterprise AI Transformation, with Fujitsu Strengthening as a Global FDE Partner",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260910030879/en/Palantir-and-Fujitsu-Deepen-Partnership-to-Advance-Enterprise-AI-Transformation-with-Fujitsu-Strengthening-as-a-Global-FDE-Partner/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7c2f89b271cba104",
-      "titleEn": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260910834032/en/NVIDIA-and-Palantir-Bring-Sovereign-Intelligence-to-Critical-Supply-Chains/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b4d4a9a7b586ccb6",
-      "titleEn": "FreeCast Launches on Stocktwits with Enhanced Social Presence",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260910346736/en/FreeCast-Launches-on-Stocktwits-with-Enhanced-Social-Presence/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a2845d3724041290",
-      "titleEn": "Palantir Customers Set New Standard for AI at AIPCon 11",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260910983546/en/Palantir-Customers-Set-New-Standard-for-AI-at-AIPCon-11/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:61fad32a621d12a0",
-      "titleEn": "WeRide, Uber and AVOMO Receive Spain's First National Operating Permit for Level 4 Autonomous Passenger Vehicles",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260910313154/en/WeRide-Uber-and-AVOMO-Receive-Spains-First-National-Operating-Permit-for-Level-4-Autonomous-Passenger-Vehicles/",
+      "link": "https://www.businesswire.com/news/home/20260909489257/en/Energy-Transfer-to-Transfer-Stock-Exchange-Listings-to-Texas-Stock-Exchange/",
       "published": null
     }
   ]
