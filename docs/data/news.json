@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-11T00:06:16.419548Z",
+  "generatedAt": "2026-09-11T04:32:52.630900Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:4f8246f08015f80c",
+      "titleEn": "Anthropic Reports Chinese Labs Clone Claude Capabilities on Industrial Scale",
+      "summaryEn": "Seven labs based in China have targeted Anthropic ’s generally available Claude models in illicit distillation attacks, Anthropic said in a report released Thursday (Sept. 10). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Unauthorized labs use illicit distillation to extract and mimic capabilities from frontier models, without having to invest the time, computational power and cost it would take to develop them independently, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-reports-chinese-labs-clone-claude-capabilities-on-industrial-scale/",
+      "published": null
+    },
     {
       "id": "stockanalysis:cc6251a18265ffb1",
       "titleEn": "Gold, silver prices tumble as hot PPI, oil shock lift yields - Kitco PM Report",
@@ -58,21 +67,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:66b70c6bc3a93aa8",
-      "titleEn": "Walmart Adds Papa John's to Restaurant Delivery Partner List",
-      "summaryEn": "Walmart is reportedly expanding its restaurant delivery program with a new partnership with Papa John’s . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); As Bloomberg News reported Thursday (Sept. 10), Walmart says food from the pizza chain can be delivered in 30 minutes or less from the retailer’s website or app, either on their own or as part of larger orders from Walmart.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/delivery/2026/walmart-adds-papa-johns-to-restaurant-delivery-partner-list/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7bc9d75effd74d71",
-      "titleEn": "Peter Rauch Named President of Mountain Hardwear",
+      "id": "stockanalysis:1aea2671a96309e8",
+      "titleEn": "Redwood Trust Prices Upsized $185.0 Million Convertible Senior Notes Offering",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260910632667/en/Peter-Rauch-Named-President-of-Mountain-Hardwear/",
+      "link": "https://www.businesswire.com/news/home/20260910580066/en/Redwood-Trust-Prices-Upsized-185.0-Million-Convertible-Senior-Notes-Offering/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2a1f65d6e871bb51",
+      "titleEn": "Impinj Announces Exchange of 1.125% Convertible Senior Notes due 2027",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260910362858/en/Impinj-Announces-Exchange-of-1.125-Convertible-Senior-Notes-due-2027/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a9e2229790f8abeb",
+      "titleEn": "Yarrow Bioscience Announces Pricing of $150 Million Underwritten Public Offering",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260910667744/en/Yarrow-Bioscience-Announces-Pricing-of-150-Million-Underwritten-Public-Offering/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3348ec21b5d76d6c",
+      "titleEn": "JOYX and Hitch Interactive Form Strategic Partnership to Build the Real-to-Real Data Layer for Physical AI",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260910235094/en/JOYX-and-Hitch-Interactive-Form-Strategic-Partnership-to-Build-the-Real-to-Real-Data-Layer-for-Physical-AI/",
       "published": null
     }
   ]
