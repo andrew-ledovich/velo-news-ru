@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-11T13:30:46.885379Z",
+  "generatedAt": "2026-09-11T17:11:54.330387Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 20,
   "items": [
+    {
+      "id": "stockanalysis:da8447bfe85e5e60",
+      "titleEn": "Gold price holds near high after preliminary Consumer Sentiment falls to 47.8, inflation expectations spike",
+      "summaryEn": "(Kitco News) - The gold market is trading near session highs after the latest data showed consumer sentiment in the U.S. declining, with inflation expectations shooting higher. The University of Michigan announced on Friday that the preliminary reading of its Consumer Sentiment survey for September was 47.8. The data was far worse than expectations, as the consensus forecast of economists called for a reading of 51, and it was also well below August’’s final reading of 51.7. “Consumer sentiment receded less than 4 index points for the second consecutive month of decreases,” said Surveys of Consumers Director Joanne Hsu. “Democrats and Republicans alike posted sizable declines, while independents were little changed from August. Year-ahead expectations for both personal finances and business conditions plunged. With a resurgence in fuel prices and trade tensions, consumers anticipate greater pressures on their pocketbooks to come.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-11/gold-price-holds-near-high-after-preliminary-consumer-sentiment-falls-478",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:166c9c2223bdb037",
+      "titleEn": "Here's why the Enbridge stock is in a strong downward trend",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/11/heres-why-the-enbridge-stock-is-in-a-strong-downward-trend/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:64658c205aaa9bc7",
+      "titleEn": "Gold, silver prices whipsaw as core CPI keeps Fed hike in play - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply higher with extreme volatility in early U.S. trading Friday, after August core CPI rose more than expected and kept the Federal Reserve’s Sept. 15-16 rate decision tilted toward another hike. At the time of writing, spot gold was trading near $4,377.40 an ounce, up 1.38%, while spot silver was trading at $64.945, up 2.12% on the session. The latest positioning remains rate-negative for precious metals. Headline CPI held at 3.4% year-over-year in August, in line with expectations, but core CPI rose 0.3% on the month, above forecasts for a 0.2% gain , while the annual core rate eased only to 2.4% from 2.5%. The report follows Thursday’s 0.4% monthly PPI increase and the ECB’s 25-basis-point rate hike , leaving traders reluctant to fade the higher-for-longer trade. Fed-hike odds had already moved into the upper-60% to low-70% area before the CPI release, and the core surprise keeps that pricing alive. The two-year Treasury yield is firmer, the 10-year yield is holding near the 4.95% area and the dollar is supported. For gold, the signal is straightforward: CPI was not hot enough to create a fresh panic, but it was not cool enough to rescue the Waller pause case. Gold and silver are trading as a rates-and-dollar market, not as clean havens. Gold broke above the $4,341.10 200-day EMA reference after testing the lower end of the $4,315 to $4,288 support zone identified in the latest technical work. Silver is now outperforming gold after earlier losing the $65.60 to $65.718 moving-average band and breaking below $63.31. The geopolitical bid is still present, but the near-term driver is the real-rate channel into next week’s Fed decision.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-11/gold-silver-prices-whipsaw-core-cpi-keeps-fed-hike-play-kitco-am-report",
+      "published": null
+    },
     {
       "id": "stockanalysis:123b1b8a41427cbf",
       "titleEn": "Here's why the TripAdvisor stock has crashed to a record low",
@@ -24,18 +51,18 @@
     {
       "id": "stockanalysis:0f9d167db7d2d9f9",
       "titleEn": "Gold prices holding its ground following muted U.S. CPI data",
-      "summaryEn": "(Kitco News) - The gold market is struggling to find any solid direction on Friday as U.S. inflation pressures remain elevated but have not accelerated. However, analysts note that gold could face continued headwinds as the latest inflation data could force the Federal Reserve to raise interest rates next week. The Consumer Price Index (CPI) rose 0.4% in August, following a 0.1% increase in July, the U.S. Bureau of Labor Statistics announced Tuesday. The inflation data were in line with economists’ expectations.",
+      "summaryEn": "Editor&#x27;s Note: The article was updated to reflect higher gold prices following the U.S. CPI data. (Kitco News) - After a slow start, the gold market has managed to attract some buying momentum as U.S. inflation pressures remain elevated but have not accelerated. However, some analysts note that gold could face near-term headwinds as the latest inflation data could force the Federal Reserve to raise interest rates next week.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-09-11/gold-prices-holding-its-ground-following-muted-us-cpi-data",
       "published": null
     },
     {
       "id": "stockanalysis:48e269948127fbbf",
       "titleEn": "Gold prices holding steady following muted U.S. CPI data",
-      "summaryEn": "(Kitco News) - The gold market is struggling to find any solid direction on Friday as U.S. inflation pressures remain elevated but have not accelerated. However, analysts note that gold could face continued headwinds as the latest inflation data could force the Federal Reserve to raise interest rates next week. The Consumer Price Index (CPI) rose 0.4% in August, following a 0.1% increase in July, the U.S. Bureau of Labor Statistics announced Tuesday. The inflation data were in line with economists’ expectations.",
+      "summaryEn": "Editor&#x27;s Note: The article was updated to reflect higher gold prices following the U.S. CPI data. (Kitco News) - After a slow start, the gold market has managed to attract some buying momentum as U.S. inflation pressures remain elevated but have not accelerated. However, some analysts note that gold could face near-term headwinds as the latest inflation data could force the Federal Reserve to raise interest rates next week.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-09-11/gold-prices-holding-steady-following-muted-us-cpi-data",
       "published": null
     },
@@ -94,75 +121,66 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5c35591df4895375",
-      "titleEn": "US CPI today: 5 stocks that could explode if inflation delivers a surprise",
+      "id": "stockanalysis:a18d471b7d982d5e",
+      "titleEn": "AdaptHealth To Participate in Upcoming Investor Conferences",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/11/us-cpi-today-5-stocks-that-could-explode-if-inflation-delivers-a-surprise/",
+      "link": "https://www.businesswire.com/news/home/20260911341693/en/AdaptHealth-To-Participate-in-Upcoming-Investor-Conferences/",
       "published": null
     },
     {
-      "id": "stockanalysis:2c458642c40b2674",
-      "titleEn": "BP share price forecast: 600p target as technicals and oil align",
+      "id": "stockanalysis:3c175f8bdabdd269",
+      "titleEn": "$83 Million Sale of Two Oregon Multifamily Assets Brokered by Institutional Property Advisors",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/11/bp-share-price-forecast-600p-target-as-technicals-and-oil-align/",
+      "link": "https://www.businesswire.com/news/home/20260911849641/en/83-Million-Sale-of-Two-Oregon-Multifamily-Assets-Brokered-by-Institutional-Property-Advisors/",
       "published": null
     },
     {
-      "id": "stockanalysis:1e5c60acf7f35a3e",
-      "titleEn": "Yemen missiles to Taiwan attack plans: Anthropic flags Claude's alarming misuse cases",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/11/yemen-missiles-to-taiwan-attack-plans-anthropic-flags-claudes-alarming-misuse-cases/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2c84d3c3d846edab",
-      "titleEn": "Hang Seng Index slips as JD Logistics, Meituan, Kuaishou, Trip.com stocks dive",
+      "id": "stockanalysis:28ea8bb5ecc80927",
+      "titleEn": "MEDIPAL HOLDINGS CORPORATION and JCR Pharmaceuticals Dose First Patient in Global Phase I/II Trial of JR-446 for Mucopolysaccharidosis Type IIIB",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/11/hang-seng-index-slips-as-jd-logistics-meituan-kuaishou-trip-com-stocks-dive/",
+      "link": "https://www.businesswire.com/news/home/20260911075179/en/MEDIPAL-HOLDINGS-CORPORATION-and-JCR-Pharmaceuticals-Dose-First-Patient-in-Global-Phase-III-Trial-of-JR-446-for-Mucopolysaccharidosis-Type-IIIB/",
       "published": null
     },
     {
-      "id": "stockanalysis:6f1ccbb98c49ed25",
-      "titleEn": "Oil nears $110, yields near 5%: can KOSPI and Nikkei avoid a deeper rout?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/11/oil-nears-110-yields-near-5-can-kospi-and-nikkei-avoid-a-deeper-rout/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ae2e96e26cdeb5fb",
-      "titleEn": "Oracle stock could hit $400, but it's still not a top AI infrastructure pick",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/11/oracle-stock-could-hit-400-but-its-still-not-a-top-ai-infrastructure-pick/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f095f3034cf7a275",
-      "titleEn": "Eurofins Scientific: Director/PDMR Shareholding",
+      "id": "stockanalysis:ae5c6c075cee6952",
+      "titleEn": "Bloom Energy Hits the Road with ESPN College Football Campus Tour to Bring the Power Conversation to Communities Nationwide",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260911672852/en/Eurofins-Scientific-DirectorPDMR-Shareholding/",
+      "link": "https://www.businesswire.com/news/home/20260911233390/en/Bloom-Energy-Hits-the-Road-with-ESPN-College-Football-Campus-Tour-to-Bring-the-Power-Conversation-to-Communities-Nationwide/",
       "published": null
     },
     {
-      "id": "stockanalysis:4e351a9219ca6229",
-      "titleEn": "Salesforce Announces Upcoming Events at Dreamforce",
+      "id": "stockanalysis:ab037c374788f6a4",
+      "titleEn": "EA SPORTS™ NHL® 27 Now Available Worldwide With 32 Authentic Arena Atmospheres and True-to-Life Team Playbooks",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260911981753/en/Salesforce-Announces-Upcoming-Events-at-Dreamforce/",
+      "link": "https://www.businesswire.com/news/home/20260911742013/en/EA-SPORTS%E2%84%A2-NHL%C2%AE-27-Now-Available-Worldwide-With-32-Authentic-Arena-Atmospheres-and-True-to-Life-Team-Playbooks/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7275deea9c3f901d",
+      "titleEn": "EMCOR Group, Inc. Announces Participation in Upcoming Investor Event",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260911470913/en/EMCOR-Group-Inc.-Announces-Participation-in-Upcoming-Investor-Event/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fe845ef9bd091ab4",
+      "titleEn": "Cursor MCP Server Now Powered by ZoomInfo as the GTM Context Layer",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260911992328/en/Cursor-MCP-Server-Now-Powered-by-ZoomInfo-as-the-GTM-Context-Layer/",
       "published": null
     }
   ]
