@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-11T17:11:54.330387Z",
+  "generatedAt": "2026-09-11T19:40:40.885516Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:5acd0ee6cddc3bba",
+      "titleEn": "MoonPay Buys Rhythm in Latest Strategic Acquisition Move",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Rhythm’s technology and its three co-founders, including Joseph Murphy , James Miller and Lincoln Barnett III , have joined MoonPay, according to the release. Miller said in a Friday post on LinkedIn: “Happy to say that last July, after just 8 months of building, Rhythm was acquired by MoonPay. It was a crazy ride and an incredible effort by the entire team!”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/acquiring/2026/moonpay-buys-rhythm-in-latest-strategic-acquisition-move/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:964c07a6390dcec4",
+      "titleEn": "Why SpaceX stock is up around 1% on Friday",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/11/why-spacex-stock-is-up-around-1-on-friday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9d79f90edf56adcd",
+      "titleEn": "Analyst: Adobe stock's post-earnings dip isn't about AI disruption fears only",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/11/analyst-adobe-stocks-post-earnings-dip-isnt-about-ai-disruption-fears-only/",
+      "published": null
+    },
     {
       "id": "stockanalysis:da8447bfe85e5e60",
       "titleEn": "Gold price holds near high after preliminary Consumer Sentiment falls to 47.8, inflation expectations spike",
@@ -76,111 +103,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:41c5e431c88dd880",
-      "titleEn": "Piper Sandler names 2 stocks set to benefit from rising compute demand",
+      "id": "stockanalysis:4501be2a1d41b57c",
+      "titleEn": "Roblox Unveils New Ways to Play, Build, and Grow at the Roblox Developers Conference (RDC)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/11/piper-sandler-names-2-stocks-set-to-benefit-from-rising-compute-demand/",
+      "link": "https://www.businesswire.com/news/home/20260911312666/en/Roblox-Unveils-New-Ways-to-Play-Build-and-Grow-at-the-Roblox-Developers-Conference-RDC/",
       "published": null
     },
     {
-      "id": "stockanalysis:9634687cfb668f54",
-      "titleEn": "FTSE 100 snaps five-day losing streak: why the relief rally may be fragile",
+      "id": "stockanalysis:9b1f805dc8092d9a",
+      "titleEn": "Graco Inc. Appoints Richard B. Lewis to the Board of Directors",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/11/ftse-100-snaps-five-day-losing-streak-why-the-relief-rally-may-be-fragile/",
+      "link": "https://www.businesswire.com/news/home/20260911411616/en/Graco-Inc.-Appoints-Richard-B.-Lewis-to-the-Board-of-Directors/",
       "published": null
     },
     {
-      "id": "stockanalysis:e724776e60500283",
-      "titleEn": "AI memory chip boom turns into a pay bonanza for Micron, Samsung, SK Hynix workers",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/11/ai-memory-chip-boom-turns-into-a-pay-bonanza-for-micron-samsung-sk-hynix-workers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7ce360bb38a70a4e",
-      "titleEn": "Nvidia says every $1 it invests brings back $100: so why does the stock keep falling?",
+      "id": "stockanalysis:315e69c40f0a3bed",
+      "titleEn": "Natuzzi Announces the Filing of a Request for Review of the NYSE Delisting Determination and the Conversion of an Additional €5 Million of Shareholder Loans Into Equity",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:47260aaa589ac516",
-      "titleEn": "Why is Adobe stock falling despite a revenue and earnings beat?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/11/why-is-adobe-stock-falling-despite-a-revenue-and-earnings-beat/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a18d471b7d982d5e",
-      "titleEn": "AdaptHealth To Participate in Upcoming Investor Conferences",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260911341693/en/AdaptHealth-To-Participate-in-Upcoming-Investor-Conferences/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3c175f8bdabdd269",
-      "titleEn": "$83 Million Sale of Two Oregon Multifamily Assets Brokered by Institutional Property Advisors",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260911849641/en/83-Million-Sale-of-Two-Oregon-Multifamily-Assets-Brokered-by-Institutional-Property-Advisors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:28ea8bb5ecc80927",
-      "titleEn": "MEDIPAL HOLDINGS CORPORATION and JCR Pharmaceuticals Dose First Patient in Global Phase I/II Trial of JR-446 for Mucopolysaccharidosis Type IIIB",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260911075179/en/MEDIPAL-HOLDINGS-CORPORATION-and-JCR-Pharmaceuticals-Dose-First-Patient-in-Global-Phase-III-Trial-of-JR-446-for-Mucopolysaccharidosis-Type-IIIB/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ae5c6c075cee6952",
-      "titleEn": "Bloom Energy Hits the Road with ESPN College Football Campus Tour to Bring the Power Conversation to Communities Nationwide",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260911233390/en/Bloom-Energy-Hits-the-Road-with-ESPN-College-Football-Campus-Tour-to-Bring-the-Power-Conversation-to-Communities-Nationwide/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ab037c374788f6a4",
-      "titleEn": "EA SPORTS™ NHL® 27 Now Available Worldwide With 32 Authentic Arena Atmospheres and True-to-Life Team Playbooks",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260911742013/en/EA-SPORTS%E2%84%A2-NHL%C2%AE-27-Now-Available-Worldwide-With-32-Authentic-Arena-Atmospheres-and-True-to-Life-Team-Playbooks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7275deea9c3f901d",
-      "titleEn": "EMCOR Group, Inc. Announces Participation in Upcoming Investor Event",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260911470913/en/EMCOR-Group-Inc.-Announces-Participation-in-Upcoming-Investor-Event/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fe845ef9bd091ab4",
-      "titleEn": "Cursor MCP Server Now Powered by ZoomInfo as the GTM Context Layer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260911992328/en/Cursor-MCP-Server-Now-Powered-by-ZoomInfo-as-the-GTM-Context-Layer/",
+      "link": "https://www.businesswire.com/news/home/20260911119194/en/Natuzzi-Announces-the-Filing-of-a-Request-for-Review-of-the-NYSE-Delisting-Determination-and-the-Conversion-of-an-Additional-%E2%82%AC5-Million-of-Shareholder-Loans-Into-Equity/",
       "published": null
     }
   ]
