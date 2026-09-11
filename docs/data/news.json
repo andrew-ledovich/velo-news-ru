@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T22:02:23.657959Z",
+  "generatedAt": "2026-09-11T00:06:16.419548Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 8,
   "items": [
     {
       "id": "stockanalysis:cc6251a18265ffb1",
@@ -67,30 +67,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:a78291c3e9389329",
-      "titleEn": "iPhone Duo: analyst explains how big of a revenue opportunity it really is",
+      "id": "stockanalysis:7bc9d75effd74d71",
+      "titleEn": "Peter Rauch Named President of Mountain Hardwear",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/10/iphone-duo-analyst-explains-how-big-of-a-revenue-opportunity-it-really-is/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5e191a9d4d9eddaf",
-      "titleEn": "Edwards Lifesciences Comments on TAVR National Coverage Decision",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260910286048/en/Edwards-Lifesciences-Comments-on-TAVR-National-Coverage-Decision/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:16daa016bc407229",
-      "titleEn": "BlackRock Capital Allocation Term Trust (BCAT) Announces Terms of Rights Offering to Pursue Compelling Real Yields and Secular Growth Themes at an Attractive Entry Point",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260910377733/en/BlackRock-Capital-Allocation-Term-Trust-BCAT-Announces-Terms-of-Rights-Offering-to-Pursue-Compelling-Real-Yields-and-Secular-Growth-Themes-at-an-Attractive-Entry-Point/",
+      "link": "https://www.businesswire.com/news/home/20260910632667/en/Peter-Rauch-Named-President-of-Mountain-Hardwear/",
       "published": null
     }
   ]
