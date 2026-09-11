@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-11T21:54:08.147036Z",
+  "generatedAt": "2026-09-11T23:39:34.221867Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:4c8f9627baaee5d7",
+      "titleEn": "Rent the Runway Names Nordstrom Veteran Paige Thomas CEO",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Thomas joined the company as CCO in June. Before that, she served as chief merchant and product innovation officer at Signet Jewelers , president and CEO of Saks OFF 5th , and led Nordstrom Rack for five years during her decade with Nordstrom, according to the release. Thomas will assume her new role Monday (Sept. 14), succeeding Teri Bariquit , who has served as interim CEO and president since May. Bariquit will become non-executive chair of the board of directors, effective Monday, and Dhiren Fonseca will step down as executive chairman and continue as a member of the board, per the release.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/retail/2026/rent-the-runway-names-nordstrom-veteran-paige-thomas-ceo/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9f473821ad56cd8a",
+      "titleEn": "The next trillion matters more for gold than the next Fed rate hike",
+      "summaryEn": "(Kitco News) - Something incredible happened this week, and even if you weren’t paying attention, the gold market certainly was. The threat of a 25-basis-point hike next week continues to put pressure on gold, which makes sense, as rising interest rates push bond yields higher, raising the opportunity cost of holding non-yielding assets. However, in the grand scheme of things, the U.S. economy has much bigger problems than the direction of short-term interest rates. The U.S. government is starting to lose control of the bond market. This past week, the U.S. Treasury Department bought $5.1 billion in long-dated U.S. bonds, but instead of bringing down the long end of the curve, yields pushed higher. The 10-year yield ended the week at 4.97%, a three-year high. Many analysts expect it is only a matter of time before yields hit 5%, creating another major hurdle for the economy. Everyone is focused on the Federal Reserve’s monetary policy decision, but they need to pay more attention to America’s massive spending problem. Last week, U.S. sovereign debt surpassed $40 trillion . The government now has to spend more than $1 trillion annually just to service its debt, and the problem is only getting worse. The day before the Treasury launched its disappointing buyback, President Donald Trump promised that if Republicans win the midterm elections and maintain control of the Senate, every American adult would receive $5,000. The president’s promise would add another trillion dollars to the debt. Against this backdrop, investors should ask themselves how much higher interest rates can realistically go. Analysts have explained that the Federal Reserve can fight inflation, but its room to raise rates is constrained by the nation’s deteriorating fiscal position. The gold market is paying attention to all of this. While the threat of a rate hike is keeping some investors away, at some point, the risk of not holding a diversified monetary asset will outweigh the opportunity cost of owning one. That is why investors should stop obsessing over the next 25 basis points and start paying attention to the next $1 trillion of debt.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-11/next-trillion-matters-more-gold-next-fed-rate-hike",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2aef098a12b9265c",
+      "titleEn": "Wall Street turns bullish on gold price ahead of the Fed, Main Street clings to slim bullish majority despite weekly slide",
+      "summaryEn": "(Kitco News) – Gold prices saw another volatile week of trading, with early attempts to stabilize above $4,400 per ounce eventually overwhelmed by surging oil prices, higher Treasury yields, and rising expectations that the Federal Reserve will raise interest rates at next week’s policy meeting. Spot gold kicked off the week trading at $4,422.50 per ounce on Sunday evening, and the yellow metal initially tried to build on the prior week’s late recovery as traders monitored the U.S.-Iran conflict, the Strait of Hormuz, and renewed inflation risks from higher energy prices. The metal pushed higher into Tuesday, when spot prices set their weekly high at $4,442.98 per ounce, but the rally quickly faded as the dollar firmed and rate-hike expectations continued to build. Selling pressure accelerated Wednesday and Thursday after PPI showed U.S. producer prices rose in August, reinforcing concerns that energy costs and supply disruptions were feeding back into inflation. Gold broke below $4,350 as Treasury yields climbed and traders priced in a growing chance that the Fed would tighten policy again at its Sept. 15-16 meeting.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-11/wall-street-turns-bullish-gold-price-ahead-fed-main-street-clings-slim",
+      "published": null
+    },
     {
       "id": "stockanalysis:68fdcce65096064f",
       "titleEn": "Gold price holds $4,300 support as CPI lifts Fed-hike odds - Kitco PM Report",
@@ -19,6 +46,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-09-11/fed-can-hike-it-wont-derail-golds-long-term-bull-market-analysts",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3338e14c6a68dd6b",
+      "titleEn": "Nvidia Becomes the World's Most Active $100 Million-Plus VC Investor",
+      "summaryEn": "AI is collapsing the walls between venture capital and infrastructure finance. Nvidia’s rise to the top of the $100M-plus funding round leaderboard shows that startups are increasingly being financed alongside the compute, power and data centers they need to scale. The real shift is from funding companies to funding capacity. Corporate balance sheets, private credit, infrastructure funds and VC are converging around the same bottleneck: securing enough compute to turn AI demand into operating businesses. That creates a new kind of systemic risk. The AI buildout increasingly depends on long-duration capital financing assets that can become technologically obsolete quickly, raising the stakes if capital formation starts running ahead of durable demand.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-becomes-the-worlds-most-active-100-million-plus-vc-investor/",
       "published": null
     },
     {
@@ -49,57 +85,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:da8447bfe85e5e60",
-      "titleEn": "Gold price holds near high after preliminary Consumer Sentiment falls to 47.8, inflation expectations spike",
-      "summaryEn": "(Kitco News) - The gold market is trading near session highs after the latest data showed consumer sentiment in the U.S. declining, with inflation expectations shooting higher. The University of Michigan announced on Friday that the preliminary reading of its Consumer Sentiment survey for September was 47.8. The data was far worse than expectations, as the consensus forecast of economists called for a reading of 51, and it was also well below August’’s final reading of 51.7. “Consumer sentiment receded less than 4 index points for the second consecutive month of decreases,” said Surveys of Consumers Director Joanne Hsu. “Democrats and Republicans alike posted sizable declines, while independents were little changed from August. Year-ahead expectations for both personal finances and business conditions plunged. With a resurgence in fuel prices and trade tensions, consumers anticipate greater pressures on their pocketbooks to come.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-11/gold-price-holds-near-high-after-preliminary-consumer-sentiment-falls-478",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:166c9c2223bdb037",
-      "titleEn": "Here's why the Enbridge stock is in a strong downward trend",
+      "id": "stockanalysis:41e4b963f573449f",
+      "titleEn": "Scholar Rock Announces FDA Approval of ISEMBYLD™ (apitegromab-mstn), the First and Only Muscle-Targeted Treatment for Children and Adults with Spinal Muscular Atrophy (SMA)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/11/heres-why-the-enbridge-stock-is-in-a-strong-downward-trend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0d71c093cd53e30a",
-      "titleEn": "WealthStream Adds OpenAI's GPT-Live-1 to Practice, Launching at Future Proof",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260911918036/en/WealthStream-Adds-OpenAI%E2%80%99s-GPT-Live-1-to-Practice-Launching-at-Future-Proof/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e58537946d1022b6",
-      "titleEn": "GMR Solutions Inc. Secures Commitments for Term Loan Repricing; Plans $200 Million Debt Paydown",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260911197901/en/GMR-Solutions-Inc.-Secures-Commitments-for-Term-Loan-Repricing-Plans-200-Million-Debt-Paydown/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:32017d5aeed1b82b",
-      "titleEn": "TWO Announces Offer to Repurchase 9.375% Senior Notes due 2030 and Satisfaction and Discharge of the Related Indenture",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260911677831/en/TWO-Announces-Offer-to-Repurchase-9.375-Senior-Notes-due-2030-and-Satisfaction-and-Discharge-of-the-Related-Indenture/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:683c4e145eb9a8ea",
-      "titleEn": "Last Night, a Star-studded Evening Celebrating Moncler's Fifth Avenue Flagship Ushered in a New Chapter in the Brand's Enduring Love Story With New York",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260904757149/en/Last-Night-a-Star-studded-Evening-Celebrating-Moncler%E2%80%99s-Fifth-Avenue-Flagship-Ushered-in-a-New-Chapter-in-the-Brand%E2%80%99s-Enduring-Love-Story-With-New-York/",
+      "link": "https://www.businesswire.com/news/home/20260911564629/en/Scholar-Rock-Announces-FDA-Approval-of-ISEMBYLD%E2%84%A2-apitegromab-mstn-the-First-and-Only-Muscle-Targeted-Treatment-for-Children-and-Adults-with-Spinal-Muscular-Atrophy-SMA/",
       "published": null
     }
   ]
