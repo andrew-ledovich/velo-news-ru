@@ -1,8 +1,89 @@
 {
-  "generatedAt": "2026-09-11T09:07:03.759639Z",
+  "generatedAt": "2026-09-11T13:30:46.885379Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:123b1b8a41427cbf",
+      "titleEn": "Here's why the TripAdvisor stock has crashed to a record low",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/11/heres-why-the-tripadvisor-stock-has-crashed-to-a-record-low/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:871184fcf22e5073",
+      "titleEn": "Oracle stock outlook: analysts see more upside as AI growth gains momentum",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/11/oracle-stock-outlook-analysts-see-more-upside-as-ai-growth-gains-momentum/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0f9d167db7d2d9f9",
+      "titleEn": "Gold prices holding its ground following muted U.S. CPI data",
+      "summaryEn": "(Kitco News) - The gold market is struggling to find any solid direction on Friday as U.S. inflation pressures remain elevated but have not accelerated. However, analysts note that gold could face continued headwinds as the latest inflation data could force the Federal Reserve to raise interest rates next week. The Consumer Price Index (CPI) rose 0.4% in August, following a 0.1% increase in July, the U.S. Bureau of Labor Statistics announced Tuesday. The inflation data were in line with economists’ expectations.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-11/gold-prices-holding-its-ground-following-muted-us-cpi-data",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:48e269948127fbbf",
+      "titleEn": "Gold prices holding steady following muted U.S. CPI data",
+      "summaryEn": "(Kitco News) - The gold market is struggling to find any solid direction on Friday as U.S. inflation pressures remain elevated but have not accelerated. However, analysts note that gold could face continued headwinds as the latest inflation data could force the Federal Reserve to raise interest rates next week. The Consumer Price Index (CPI) rose 0.4% in August, following a 0.1% increase in July, the U.S. Bureau of Labor Statistics announced Tuesday. The inflation data were in line with economists’ expectations.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-11/gold-prices-holding-steady-following-muted-us-cpi-data",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dc130bb11aac1062",
+      "titleEn": "SpaceX just landed a $13 billion AI deal: could the stock surge 50% from here",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/11/spacex-just-landed-a-13-billion-ai-deal-could-the-stock-surge-50-from-here/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:41c5e431c88dd880",
+      "titleEn": "Piper Sandler names 2 stocks set to benefit from rising compute demand",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/11/piper-sandler-names-2-stocks-set-to-benefit-from-rising-compute-demand/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9634687cfb668f54",
+      "titleEn": "FTSE 100 snaps five-day losing streak: why the relief rally may be fragile",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/11/ftse-100-snaps-five-day-losing-streak-why-the-relief-rally-may-be-fragile/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e724776e60500283",
+      "titleEn": "AI memory chip boom turns into a pay bonanza for Micron, Samsung, SK Hynix workers",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/11/ai-memory-chip-boom-turns-into-a-pay-bonanza-for-micron-samsung-sk-hynix-workers/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7ce360bb38a70a4e",
+      "titleEn": "Nvidia says every $1 it invests brings back $100: so why does the stock keep falling?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+      "published": null
+    },
     {
       "id": "stockanalysis:47260aaa589ac516",
       "titleEn": "Why is Adobe stock falling despite a revenue and earnings beat?",
@@ -67,66 +148,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:4f8246f08015f80c",
-      "titleEn": "Anthropic Reports Chinese Labs Clone Claude Capabilities on Industrial Scale",
-      "summaryEn": "Seven labs based in China have targeted Anthropic ’s generally available Claude models in illicit distillation attacks, Anthropic said in a report released Thursday (Sept. 10). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Unauthorized labs use illicit distillation to extract and mimic capabilities from frontier models, without having to invest the time, computational power and cost it would take to develop them independently, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-reports-chinese-labs-clone-claude-capabilities-on-industrial-scale/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cc6251a18265ffb1",
-      "titleEn": "Gold, silver prices tumble as hot PPI, oil shock lift yields - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply lower in late-afternoon U.S. trading Thursday, as hotter wholesale inflation, a crude-oil surge and a jump in Treasury yields overwhelmed safe-haven demand tied to the U.S.-Iran war. At the time of writing, spot gold was trading near $4,317.10 an ounce, down 1.90%, while spot silver was trading at $63.500, down 5.46% on the session. North American equity markets closed lower as oil and yields rose. The S&P 500 fell 44.66 points, or 0.6%, to 7,591.70, the Dow Jones Industrial Average dropped 316.56 points, or 0.6%, to 52,064.10, the Nasdaq Composite lost 171.62 points, or 0.7%, to 26,081.72, and the Russell 2000 fell 30.29 points, or 1.0%, to 2,890.95. European markets also finished lower, with the STOXX Europe 600 down 0.69% to 635.97. London’s FTSE 100 fell 0.57% to 10,608.92, Germany’s DAX dropped 0.84% to 25,361.15, France’s CAC 40 lost 0.49% to 8,116.76, and Italy’s FTSE MIB slipped 0.13% to 51,807.40. The latest positioning shifted decisively against precious metals after August PPI rose 0.4% on the month and 5.4% from a year earlier , with energy and diesel costs driving the upside. Weekly jobless claims remained low , and the ECB raised its benchmark rate by 25 basis points to 2.50% to counter energy-driven inflation from the Iran war. By the close, Fed-funds futures priced a 71% probability that the Fed raises rates by 25 basis points next week, while the 10-year Treasury yield jumped to 4.943%, its highest settlement since October 2023. Friday’s CPI report is now the final major macro input before the Sept. 15-16 Fed meeting. For gold, the signal is rate-negative: unless CPI cools enough to challenge the hike trade, higher yields and a firmer dollar keep the opportunity cost of holding bullion elevated.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-10/gold-silver-prices-tumble-hot-ppi-oil-shock-lift-yields-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:10956d9872f146f1",
-      "titleEn": "Plastics Recycling: TotalEnergies Becomes the Sole Owner of the Grandpuits Advanced Plastics Recycling Plant",
+      "id": "stockanalysis:f095f3034cf7a275",
+      "titleEn": "Eurofins Scientific: Director/PDMR Shareholding",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260910537874/en/Plastics-Recycling-TotalEnergies-Becomes-the-Sole-Owner-of-the-Grandpuits-Advanced-Plastics-Recycling-Plant/",
+      "link": "https://www.businesswire.com/news/home/20260911672852/en/Eurofins-Scientific-DirectorPDMR-Shareholding/",
       "published": null
     },
     {
-      "id": "stockanalysis:2d01e522036ae4fb",
-      "titleEn": "Nano One Advances Development Company Project to Build LFP Cathode Production in Canada",
+      "id": "stockanalysis:4e351a9219ca6229",
+      "titleEn": "Salesforce Announces Upcoming Events at Dreamforce",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260911712077/en/Nano-One-Advances-Development-Company-Project-to-Build-LFP-Cathode-Production-in-Canada/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c8c757544e31f2df",
-      "titleEn": "TiVo Introduces Agent TiVo, a New Conversational AI Experience for Entertainment Discovery",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260910789962/en/TiVo-Introduces-Agent-TiVo-a-New-Conversational-AI-Experience-for-Entertainment-Discovery/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1b8ca4c6f88af1e3",
-      "titleEn": "SES Launches New Content Orchestration and Hybrid Delivery Platform",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260910825607/en/SES-Launches-New-Content-Orchestration-and-Hybrid-Delivery-Platform/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1aea2671a96309e8",
-      "titleEn": "Redwood Trust Prices Upsized $185.0 Million Convertible Senior Notes Offering",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260910580066/en/Redwood-Trust-Prices-Upsized-185.0-Million-Convertible-Senior-Notes-Offering/",
+      "link": "https://www.businesswire.com/news/home/20260911981753/en/Salesforce-Announces-Upcoming-Events-at-Dreamforce/",
       "published": null
     }
   ]
