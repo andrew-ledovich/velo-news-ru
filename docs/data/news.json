@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T14:04:31.907689Z",
+  "generatedAt": "2026-09-12T17:05:20.530345Z",
   "sourceCount": 1,
   "count": 11,
   "items": [
@@ -85,21 +85,21 @@
       "published": null
     },
     {
+      "id": "stockanalysis:a8ed95dd318326fc",
+      "titleEn": "ITC Federal Acquires Capgemini Government Solutions, Launching ITC Digital Solutions to Expand National Security and Digital Modernization Capabilities",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260912582617/en/ITC-Federal-Acquires-Capgemini-Government-Solutions-Launching-ITC-Digital-Solutions-to-Expand-National-Security-and-Digital-Modernization-Capabilities/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:0068a4c1834172fe",
       "titleEn": "FCPT Declares Fourth Quarter 2026 Monthly Dividends",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260911323286/en/FCPT-Declares-Fourth-Quarter-2026-Monthly-Dividends/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:41e4b963f573449f",
-      "titleEn": "Scholar Rock Announces FDA Approval of ISEMBYLD™ (apitegromab-mstn), the First and Only Muscle-Targeted Treatment for Children and Adults with Spinal Muscular Atrophy (SMA)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260911564629/en/Scholar-Rock-Announces-FDA-Approval-of-ISEMBYLD%E2%84%A2-apitegromab-mstn-the-First-and-Only-Muscle-Targeted-Treatment-for-Children-and-Adults-with-Spinal-Muscular-Atrophy-SMA/",
       "published": null
     }
   ]
