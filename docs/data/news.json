@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-11T23:39:34.221867Z",
+  "generatedAt": "2026-09-12T01:31:51.034810Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:4c8f9627baaee5d7",
@@ -82,6 +82,15 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/09/11/analyst-adobe-stocks-post-earnings-dip-isnt-about-ai-disruption-fears-only/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0068a4c1834172fe",
+      "titleEn": "FCPT Declares Fourth Quarter 2026 Monthly Dividends",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260911323286/en/FCPT-Declares-Fourth-Quarter-2026-Monthly-Dividends/",
       "published": null
     },
     {
