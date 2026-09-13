@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-12T23:19:35.411187Z",
+  "generatedAt": "2026-09-13T01:12:42.470885Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:4c8f9627baaee5d7",
@@ -64,15 +64,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.pymnts.com/news/acquiring/2026/moonpay-buys-rhythm-in-latest-strategic-acquisition-move/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:964c07a6390dcec4",
-      "titleEn": "Why SpaceX stock is up around 1% on Friday",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/11/why-spacex-stock-is-up-around-1-on-friday/",
       "published": null
     },
     {
