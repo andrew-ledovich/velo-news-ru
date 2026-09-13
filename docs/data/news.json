@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-13T11:45:14.229159Z",
+  "generatedAt": "2026-09-13T15:13:58.741211Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:c823f040b7ff64d6",
@@ -82,15 +82,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-becomes-the-worlds-most-active-100-million-plus-vc-investor/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5acd0ee6cddc3bba",
-      "titleEn": "MoonPay Buys Rhythm in Latest Strategic Acquisition Move",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Rhythm’s technology and its three co-founders, including Joseph Murphy , James Miller and Lincoln Barnett III , have joined MoonPay, according to the release. Miller said in a Friday post on LinkedIn: “Happy to say that last July, after just 8 months of building, Rhythm was acquired by MoonPay. It was a crazy ride and an incredible effort by the entire team!”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/acquiring/2026/moonpay-buys-rhythm-in-latest-strategic-acquisition-move/",
       "published": null
     },
     {
