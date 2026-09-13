@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-13T18:12:15.820910Z",
+  "generatedAt": "2026-09-13T20:47:30.631165Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:e81ec593bd2b6165",
@@ -15,7 +15,7 @@
     {
       "id": "stockanalysis:c823f040b7ff64d6",
       "titleEn": "Altman tells Fortune OpenAI will not go public in 2026",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: OpenAI will not go public this year, the company's chief executive, Sam Altman, said in an interview released Saturday, citing safety concerns over artificial intelligence. \"Given everything happening with safety, right now would be an ill-advised moment to go public, and we don't feel pressure on that,\" Altman told Fortune magazine Friday.",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: OpenAI will not go public this year, the company's chief executive, Sam Altman, said in an interview released Saturday, citing safety concerns over artificial intelligence. \"Given everything happening with safety, right now would be an ill-advised moment to go public, and we don't feel pressure on that,\" Altman told Fortune business magazine Friday.",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://techxplore.com/news/2026-09-altman-fortune-openai.html",
@@ -82,6 +82,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-09-11/fed-can-hike-it-wont-derail-golds-long-term-bull-market-analysts",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:889c14b4b7e261c2",
+      "titleEn": "SES's Final Three O3b mPOWER Satellites Successfully Launched",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260913914517/en/SES%E2%80%99s-Final-Three-O3b-mPOWER-Satellites-Successfully-Launched/",
       "published": null
     },
     {
