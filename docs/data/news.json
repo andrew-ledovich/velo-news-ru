@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-13T15:13:58.741211Z",
+  "generatedAt": "2026-09-13T18:12:15.820910Z",
   "sourceCount": 1,
   "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:e81ec593bd2b6165",
+      "titleEn": "Micron, Nvidia, AMD stocks at risk as Anthropic, OpenAI leads push to slow AI growth",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/13/micron-nvidia-amd-stocks-at-risk-as-anthropic-openai-leads-push-to-slow-ai-growth/",
+      "published": null
+    },
     {
       "id": "stockanalysis:c823f040b7ff64d6",
       "titleEn": "Altman tells Fortune OpenAI will not go public in 2026",
@@ -73,15 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-09-11/fed-can-hike-it-wont-derail-golds-long-term-bull-market-analysts",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3338e14c6a68dd6b",
-      "titleEn": "Nvidia Becomes the World's Most Active $100 Million-Plus VC Investor",
-      "summaryEn": "AI is collapsing the walls between venture capital and infrastructure finance. Nvidia’s rise to the top of the $100M-plus funding round leaderboard shows that startups are increasingly being financed alongside the compute, power and data centers they need to scale. The real shift is from funding companies to funding capacity. Corporate balance sheets, private credit, infrastructure funds and VC are converging around the same bottleneck: securing enough compute to turn AI demand into operating businesses. That creates a new kind of systemic risk. The AI buildout increasingly depends on long-duration capital financing assets that can become technologically obsolete quickly, raising the stakes if capital formation starts running ahead of durable demand.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-becomes-the-worlds-most-active-100-million-plus-vc-investor/",
       "published": null
     },
     {
