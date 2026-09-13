@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-13T06:07:31.285962Z",
+  "generatedAt": "2026-09-13T11:45:14.229159Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:c823f040b7ff64d6",
+      "titleEn": "Altman tells Fortune OpenAI will not go public in 2026",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: OpenAI will not go public this year, the company's chief executive, Sam Altman, said in an interview released Saturday, citing safety concerns over artificial intelligence. \"Given everything happening with safety, right now would be an ill-advised moment to go public, and we don't feel pressure on that,\" Altman told Fortune magazine Friday.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-09-altman-fortune-openai.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4f08aba373510d16",
+      "titleEn": "Oversight Board asks Meta not to replace fact-checking with Community Notes",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Meta's Oversight Board asked the company not to replace fact-checking with Community Notes, according to a statement seen by AFP overnight Friday, after it said it was testing the crowdsourcing system in Latin America. Facebook, Instagram and Threads users in 16 Spanish-speaking countries in the region have been able to sign up since Wednesday to provide context to online posts, which will remain invisible to others under the pilot program.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-09-oversight-board-meta-fact-community.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dbc17d586299bfb6",
+      "titleEn": "How will private credit and equity stocks react to Fed rate hikes?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/13/how-will-private-credit-and-equity-stocks-react-to-fed-rate-hikes/",
+      "published": null
+    },
     {
       "id": "stockanalysis:4c8f9627baaee5d7",
       "titleEn": "Rent the Runway Names Nordstrom Veteran Paige Thomas CEO",
@@ -64,6 +91,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.pymnts.com/news/acquiring/2026/moonpay-buys-rhythm-in-latest-strategic-acquisition-move/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0736f12031c77a7e",
+      "titleEn": "Ivonescimab Monotherapy Demonstrates a Statistically Significant &amp; Clinically Meaningful Benefit Compared to Pembrolizumab Monotherapy in PD-L1-Positive Advanced NSCLC in Akeso's HARMONi-2 Study Conducted in China",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260913549808/en/Ivonescimab-Monotherapy-Demonstrates-a-Statistically-Significant-Clinically-Meaningful-Benefit-Compared-to-Pembrolizumab-Monotherapy-in-PD-L1-Positive-Advanced-NSCLC-in-Akeso%E2%80%99s-HARMONi-2-Study-Conducted-in-China/",
       "published": null
     },
     {
