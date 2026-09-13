@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-13T20:47:30.631165Z",
+  "generatedAt": "2026-09-13T22:42:53.987526Z",
   "sourceCount": 1,
   "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:d867e67d51e18e9a",
+      "titleEn": "OpenAI Pauses IPO Plans Amid AI Safety Worries",
+      "summaryEn": "OpenAI has reportedly postponed plans to go public amid corporate concerns about artificial intelligence safety. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The AI startup’s initial public offering (IPO) will not take place in 2026, CEO Sam Altman said in an interview with Fortune on Friday (Sept. 11), saying that OpenAI has long insisted it is in no rush to list.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/2026/openai-pauses-ipo-plans-amid-ai-safety-worries/",
+      "published": null
+    },
     {
       "id": "stockanalysis:e81ec593bd2b6165",
       "titleEn": "Micron, Nvidia, AMD stocks at risk as Anthropic, OpenAI leads push to slow AI growth",
@@ -73,15 +82,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-09-11/gold-price-holds-4300-support-cpi-lifts-fed-hike-odds-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2490c6eddee2d979",
-      "titleEn": "The Fed can hike, but it won't derail gold's long-term bull market – analysts",
-      "summaryEn": "(Kitco News) - The gold market is ending another week in negative territory as investors prepare for the Federal Reserve to raise interest rates next week. However, according to some analysts, gold’s ability to hold new support at $4,300 an ounce is an indication that the threat of an imminent rate hike is losing its potency. Spot gold last traded at $4,354.90 an ounce, down 1.7% on the week. What some economists have described as the final nail in the coffin in favor of a rate hike next week was August’s Consumer Price Index, which showed core inflation, which strips out volatile food and energy prices, rising 2.4% over the last 12 months. Although consumer prices have not accelerated, they remain well above the Federal Reserve’s 2% target.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-11/fed-can-hike-it-wont-derail-golds-long-term-bull-market-analysts",
       "published": null
     },
     {
