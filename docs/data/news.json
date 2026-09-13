@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-13T01:12:42.470885Z",
+  "generatedAt": "2026-09-13T06:07:31.285962Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 9,
   "items": [
     {
       "id": "stockanalysis:4c8f9627baaee5d7",
@@ -82,15 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260912582617/en/ITC-Federal-Acquires-Capgemini-Government-Solutions-Launching-ITC-Digital-Solutions-to-Expand-National-Security-and-Digital-Modernization-Capabilities/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0068a4c1834172fe",
-      "titleEn": "FCPT Declares Fourth Quarter 2026 Monthly Dividends",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260911323286/en/FCPT-Declares-Fourth-Quarter-2026-Monthly-Dividends/",
       "published": null
     }
   ]
