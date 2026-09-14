@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-09-14T20:32:33.351739Z",
+  "generatedAt": "2026-09-14T23:27:07.848163Z",
   "sourceCount": 1,
   "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:85ac523dfde1dcd2",
+      "titleEn": "OpenAI Accelerates Device Plan With AI Camera Tech Acquisition",
+      "summaryEn": "OpenAI has acquired Glass Imaging , a startup founded by former Apple employees that is developing artificial intelligence-enhanced cameras for smartphones, The Wall Street Journal reported Monday (Sept. 14), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Glass Imaging is working on AI technology that enables smartphone cameras to produce image quality similar to that of DLSR cameras, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-accelerates-device-plan-with-ai-camera-tech-acquisition/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:49158fb97e3c6909",
+      "titleEn": "Pinterest Boosts AI-Powered Search Speed Sevenfold With Nvidia Tech",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The new infrastructure, which was built with Nvidia , will support visual search, content understanding, safety systems and other products that rely on both images and language, according to the release. In benchmark testing, the infrastructure delivered 85 times faster response startup and 7.3 times faster overall latency by using precomputed visual representations instead of repeatedly processing raw images, the release said.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/pinterest-boosts-ai-powered-search-speed-sevenfold-with-nvidia-tech/",
+      "published": null
+    },
     {
       "id": "stockanalysis:b12a775180553ee8",
       "titleEn": "Meta Faces Lawsuit Over Smart Glasses Facial Recognition",
@@ -94,48 +112,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c4cfc9b528240223",
-      "titleEn": "Nvidia stock: Should investors buy the dip amid AI slowdown fears?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/14/nvidia-stock-should-investors-buy-the-dip-amid-ai-slowdown-fears/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2161d49747b9cb88",
-      "titleEn": "Gold is the 'North Star' in a world drowning in debt - Sprott's Ryan McIntyre",
-      "summaryEn": "(Kitco News) - The gold market is starting the new trading week at a one-month low with prices dropping below $4,300 an ounce and the precious metal faces further downside risks as the Federal Reserve rate hike this week, but according to one fund manager, investors focused on the next 25-basis-point move are missing the much bigger picture. In an interview with Kitco News, Ryan McIntyre, President of Sprott Inc., said that in a world struggling with growing sovereign debt and deteriorating fiscal stability, gold remains the “North Star” of monetary assets. Although gold has already enjoyed a strong run this year, McIntyre said the precious metal remains significantly underowned, particularly among U.S. institutional investors. He added that gold’s performance during a period of rising geopolitical and fiscal uncertainty could finally force investors to reconsider its role as a portfolio diversifier.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-14/gold-north-star-world-drowning-debt-sprotts-ryan-mcintyre",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:30db9a6c9c436d7f",
-      "titleEn": "Why is Oracle stock falling 4% today?",
+      "id": "stockanalysis:92f45456a88261dd",
+      "titleEn": "Bioceres Crop Solutions Reports Fiscal Fourth Quarter and Full-Year 2026 Financial and Operating Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/14/why-is-oracle-stock-falling-4-today/",
+      "link": "https://www.businesswire.com/news/home/20260914032481/en/Bioceres-Crop-Solutions-Reports-Fiscal-Fourth-Quarter-and-Full-Year-2026-Financial-and-Operating-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:04e85854069293c2",
-      "titleEn": "Janus Living Declares Monthly Common Stock Cash Dividends for the Fourth Quarter of 2026",
+      "id": "stockanalysis:70e09e39cf3c8c1a",
+      "titleEn": "Western Alliance Bancorporation to Participate in Fireside Chat at Barclays Global Financial Services Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260914791029/en/Janus-Living-Declares-Monthly-Common-Stock-Cash-Dividends-for-the-Fourth-Quarter-of-2026/",
+      "link": "https://www.businesswire.com/news/home/20260914748348/en/Western-Alliance-Bancorporation-to-Participate-in-Fireside-Chat-at-Barclays-Global-Financial-Services-Conference/",
       "published": null
     },
     {
-      "id": "stockanalysis:d66485c33106cb6e",
-      "titleEn": "Apple Hospitality REIT Announces Dates for Third Quarter 2026 Earnings Release and Conference Call",
+      "id": "stockanalysis:4aa3ade180db50dd",
+      "titleEn": "Marcus &amp; Millichap Capital Corporation Arranges $53 Million Build-to-Rent Refinance in Northwest Arkansas",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260914760270/en/Apple-Hospitality-REIT-Announces-Dates-for-Third-Quarter-2026-Earnings-Release-and-Conference-Call/",
+      "link": "https://www.businesswire.com/news/home/20260914723699/en/Marcus-Millichap-Capital-Corporation-Arranges-53-Million-Build-to-Rent-Refinance-in-Northwest-Arkansas/",
       "published": null
     }
   ]
