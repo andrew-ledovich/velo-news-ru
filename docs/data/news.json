@@ -1,69 +1,159 @@
 {
-  "generatedAt": "2026-09-14T10:37:57.619956Z",
+  "generatedAt": "2026-09-14T16:32:47.948367Z",
   "sourceCount": 1,
-  "count": 7,
+  "count": 17,
   "items": [
     {
-      "id": "stockanalysis:702f01d929a24206",
-      "titleEn": "Palantir stock may win even if AI boom slows: why Wall Street sees 50% upside",
+      "id": "stockanalysis:c4cfc9b528240223",
+      "titleEn": "Nvidia stock: Should investors buy the dip amid AI slowdown fears?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/14/palantir-stock-may-win-even-if-ai-boom-slows-why-wall-street-sees-50-upside/",
+      "link": "https://invezz.com/news/2026/09/14/nvidia-stock-should-investors-buy-the-dip-amid-ai-slowdown-fears/",
       "published": null
     },
     {
-      "id": "stockanalysis:3de45e914f42f6a7",
-      "titleEn": "Anthropic Could Land Nvidia as $10 Billion IPO Investor",
-      "summaryEn": "Anthropic is reportedly in talks to have Nvidia invest in its landmark stock market listing. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The chipmaker would come on as an anchor investor for Anthropic’s initial public offering (IPO), Reuters reported Friday (Sept. 11), citing sources familiar with the matter.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-could-land-nvidia-as-10-billion-ipo-investor/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d867e67d51e18e9a",
-      "titleEn": "OpenAI Pauses IPO Plans Amid AI Safety Worries",
-      "summaryEn": "OpenAI has reportedly postponed plans to go public amid corporate concerns about artificial intelligence safety. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The AI startup’s initial public offering (IPO) will not take place in 2026, CEO Sam Altman said in an interview with Fortune on Friday (Sept. 11), saying that OpenAI has long insisted it is in no rush to list.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/2026/openai-pauses-ipo-plans-amid-ai-safety-worries/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e81ec593bd2b6165",
-      "titleEn": "Micron, Nvidia, AMD stocks at risk as Anthropic, OpenAI leads push to slow AI growth",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/13/micron-nvidia-amd-stocks-at-risk-as-anthropic-openai-leads-push-to-slow-ai-growth/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c823f040b7ff64d6",
-      "titleEn": "Altman tells Fortune OpenAI will not go public in 2026",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: OpenAI will not go public this year, the company's chief executive, Sam Altman, said in an interview released Saturday, citing safety concerns over artificial intelligence. \"Given everything happening with safety, right now would be an ill-advised moment to go public, and we don't feel pressure on that,\" Altman told Fortune business magazine Friday.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-09-altman-fortune-openai.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4f08aba373510d16",
-      "titleEn": "Oversight Board asks Meta not to replace fact-checking with Community Notes",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Meta's Oversight Board asked the company not to replace fact-checking with Community Notes, according to a statement seen by AFP overnight Friday, after it said it was testing the crowdsourcing system in Latin America. Facebook, Instagram and Threads users in 16 Spanish-speaking countries in the region have been able to sign up since Wednesday to provide context to online posts, which will remain invisible to others under the pilot program.",
+      "id": "stockanalysis:2161d49747b9cb88",
+      "titleEn": "Gold is the 'North Star' in a world drowning in debt - Sprott's Ryan McIntyre",
+      "summaryEn": "(Kitco News) - The gold market is starting the new trading week at a one-month low with prices dropping below $4,300 an ounce and the precious metal faces further downside risks as the Federal Reserve rate hike this week, but according to one fund manager, investors focused on the next 25-basis-point move are missing the much bigger picture. In an interview with Kitco News, Ryan McIntyre, President of Sprott Inc., said that in a world struggling with growing sovereign debt and deteriorating fiscal stability, gold remains the “North Star” of monetary assets. Although gold has already enjoyed a strong run this year, McIntyre said the precious metal remains significantly underowned, particularly among U.S. institutional investors. He added that gold’s performance during a period of rising geopolitical and fiscal uncertainty could finally force investors to reconsider its role as a portfolio diversifier.",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-09-oversight-board-meta-fact-community.html",
+      "link": "https://www.kitco.com/news/article/2026-09-14/gold-north-star-world-drowning-debt-sprotts-ryan-mcintyre",
       "published": null
     },
     {
-      "id": "stockanalysis:dbc17d586299bfb6",
-      "titleEn": "How will private credit and equity stocks react to Fed rate hikes?",
+      "id": "stockanalysis:30db9a6c9c436d7f",
+      "titleEn": "Why is Oracle stock falling 4% today?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/13/how-will-private-credit-and-equity-stocks-react-to-fed-rate-hikes/",
+      "link": "https://invezz.com/news/2026/09/14/why-is-oracle-stock-falling-4-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d9378f818144ce5f",
+      "titleEn": "Gold faces rising yield threat as 10-year Treasury approaches 5%, but debasement demand provides support",
+      "summaryEn": "(Kitco News) - Gold prices are facing growing near-term headwinds as surging U.S. bond yields and increasingly hawkish monetary policy expectations raise the opportunity cost of holding a non-yielding asset; however, one market strategist says the precious metal can still find solid support as the traditional relationship between gold , yields and the U.S. dollar continues to break down. In a commentary Friday, Adam Turnquist, Chief Technical Strategist at LPL Financial, said the benchmark 10-year Treasury yield is rapidly approaching the psychologically significant 5% level as inflation, geopolitical and fiscal concerns converge. Turnquist noted that yields have generally followed a “two-steps-forward, one-step-back” trajectory through much of the year, but the move has accelerated sharply during the past month.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-14/gold-faces-rising-yield-threat-10-year-treasury-approaches-5-debasement",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:007f33cbb83afccf",
+      "titleEn": "Dell stock dips amid the AI safety jitters: is the end of the bull run?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/14/dell-stock-dips-amid-the-ai-safety-jitters-is-the-end-of-the-bull-run/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3e402ea99bde50d5",
+      "titleEn": "Gold price fall nearly 2% as oil surge and near-5% Treasury yields bolster Fed rate-hike expectations - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are seeing significant selling pressure Monday morning as rising bond yields and surging energy prices strengthen expectations that the Federal Reserve will raise interest rates this week, overwhelming safe-haven demand generated by escalating geopolitical uncertainty in the Middle East. Spot gold last traded at $4,269.90 an ounce, down 1.80% on the day. Silver is also seeing significant selling pressure, with spot silver last trading at $62.75 an ounce, down 2.50% on the day. The precious metals continue to struggle as markets digest Friday&#x27;s hotter-than-expected inflation data. The Consumer Price Index rose 0.4% in August, while annual inflation held at 3.4% . At the same time, core CPI rose 0.3%, slightly hotter than economists&#x27; expectations for a 0.2% increase.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-14/gold-price-fall-nearly-2-oil-surge-and-near-5-treasury-yields-bolster-fed",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:41456cf5601c76a8",
+      "titleEn": "IREN, Nebius, CoreWeave: Here's why these neocloud stocks are falling",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/14/iren-nebius-coreweave-heres-why-these-neocloud-stocks-are-falling/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0caa84e9ae24396a",
+      "titleEn": "Arm stock falls 7% as AI selloff, valuation risks hit chip designer",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/14/arm-stock-falls-7-as-ai-selloff-valuation-risks-hit-chip-designer/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1ab83654463fadb1",
+      "titleEn": "VOO &amp; Chill: What's fueling the S&amp;P 500 ETF's relentless run?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/09/14/voo-chill-whats-fueling-the-sp-500-etfs-relentless-run/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a8f6c5c0539badad",
+      "titleEn": "RUM Group stock jumps on $13.7 billion Anthropic deal: will the gains hold?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/14/rum-group-stock-jumps-on-13-7-billion-anthropic-deal-will-the-gains-hold/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c1eec62a83508b05",
+      "titleEn": "These 3 under-the-radar stocks could rally if Fed raises rates this week",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/14/these-3-under-the-radar-stocks-could-rally-if-fed-raises-rates-this-week/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8b74a502a8176e58",
+      "titleEn": "Big AI wants to slow down AI research: Is it a safety pause or a strategic retreat?",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Recently, Anthropic chief executive Dario Amodei called for artificial intelligence (AI) companies, including his own, to slow down their work . Sam Altman and Elon Musk, heads of rivals OpenAI and xAI respectively, agreed . The move reflects concern across the AI industry and more broadly about the dangers of new, rapidly improving systems. Recent high-profile incidents, such as OpenAI's AI agents hacking another company and hijacking a public website , have shown that current systems can break out of safety confines—and even more capable systems are in development.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-09-big-ai-safety-strategic-retreat.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dd358acdf22eb9f3",
+      "titleEn": "Why Micron, SanDisk and SK Hynix are suddenly at the centre of the AI selloff",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/14/why-micron-sandisk-and-sk-hynix-are-suddenly-at-the-centre-of-the-ai-selloff/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ae26f6308be359be",
+      "titleEn": "SanDisk stock is at risk of a deep dive as alarming patterns emerge",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/14/sandisk-stock-is-at-risk-of-a-deep-dive-as-alarming-patterns-emerge/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a3a070921a16dcfd",
+      "titleEn": "Why is Meta stock gaining in premarket today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/14/why-is-meta-stock-gaining-in-premarket-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:463791c3ef816070",
+      "titleEn": "Charles Schwab and Anthropic to Bring Claude to Independent Registered Investment Advisors",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260914786358/en/Charles-Schwab-and-Anthropic-to-Bring-Claude-to-Independent-Registered-Investment-Advisors/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e13d22ab335bf58a",
+      "titleEn": "Orion Expands Anthropic Collaboration as Launch Partner for Claude for Financial Advisors",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260914255610/en/Orion-Expands-Anthropic-Collaboration-as-Launch-Partner-for-Claude-for-Financial-Advisors/",
       "published": null
     }
   ]
