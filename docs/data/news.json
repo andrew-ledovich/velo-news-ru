@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-14T00:26:51.471493Z",
+  "generatedAt": "2026-09-14T05:13:41.916961Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:3de45e914f42f6a7",
+      "titleEn": "Anthropic Could Land Nvidia as $10 Billion IPO Investor",
+      "summaryEn": "Anthropic is reportedly in talks to have Nvidia invest in its landmark stock market listing. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The chipmaker would come on as an anchor investor for Anthropic’s initial public offering (IPO), Reuters reported Friday (Sept. 11), citing sources familiar with the matter.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-could-land-nvidia-as-10-billion-ipo-investor/",
+      "published": null
+    },
     {
       "id": "stockanalysis:d867e67d51e18e9a",
       "titleEn": "OpenAI Pauses IPO Plans Amid AI Safety Worries",
@@ -49,30 +58,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:4c8f9627baaee5d7",
-      "titleEn": "Rent the Runway Names Nordstrom Veteran Paige Thomas CEO",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Thomas joined the company as CCO in June. Before that, she served as chief merchant and product innovation officer at Signet Jewelers , president and CEO of Saks OFF 5th , and led Nordstrom Rack for five years during her decade with Nordstrom, according to the release. Thomas will assume her new role Monday (Sept. 14), succeeding Teri Bariquit , who has served as interim CEO and president since May. Bariquit will become non-executive chair of the board of directors, effective Monday, and Dhiren Fonseca will step down as executive chairman and continue as a member of the board, per the release.",
+      "id": "stockanalysis:761125b8f4c4d694",
+      "titleEn": "Volkswagen Ranked Highest in 2026 Auto Industry Service Scheduling Effectiveness™ Study",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/retail/2026/rent-the-runway-names-nordstrom-veteran-paige-thomas-ceo/",
+      "link": "https://www.businesswire.com/news/home/20260913162934/en/Volkswagen-Ranked-Highest-in-2026-Auto-Industry-Service-Scheduling-Effectiveness%E2%84%A2-Study/",
       "published": null
     },
     {
-      "id": "stockanalysis:9f473821ad56cd8a",
-      "titleEn": "The next trillion matters more for gold than the next Fed rate hike",
-      "summaryEn": "(Kitco News) - Something incredible happened this week, and even if you weren’t paying attention, the gold market certainly was. The threat of a 25-basis-point hike next week continues to put pressure on gold, which makes sense, as rising interest rates push bond yields higher, raising the opportunity cost of holding non-yielding assets. However, in the grand scheme of things, the U.S. economy has much bigger problems than the direction of short-term interest rates. The U.S. government is starting to lose control of the bond market. This past week, the U.S. Treasury Department bought $5.1 billion in long-dated U.S. bonds, but instead of bringing down the long end of the curve, yields pushed higher. The 10-year yield ended the week at 4.97%, a three-year high. Many analysts expect it is only a matter of time before yields hit 5%, creating another major hurdle for the economy. Everyone is focused on the Federal Reserve’s monetary policy decision, but they need to pay more attention to America’s massive spending problem. Last week, U.S. sovereign debt surpassed $40 trillion . The government now has to spend more than $1 trillion annually just to service its debt, and the problem is only getting worse. The day before the Treasury launched its disappointing buyback, President Donald Trump promised that if Republicans win the midterm elections and maintain control of the Senate, every American adult would receive $5,000. The president’s promise would add another trillion dollars to the debt. Against this backdrop, investors should ask themselves how much higher interest rates can realistically go. Analysts have explained that the Federal Reserve can fight inflation, but its room to raise rates is constrained by the nation’s deteriorating fiscal position. The gold market is paying attention to all of this. While the threat of a rate hike is keeping some investors away, at some point, the risk of not holding a diversified monetary asset will outweigh the opportunity cost of owning one. That is why investors should stop obsessing over the next 25 basis points and start paying attention to the next $1 trillion of debt.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-11/next-trillion-matters-more-gold-next-fed-rate-hike",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2aef098a12b9265c",
-      "titleEn": "Wall Street turns bullish on gold price ahead of the Fed, Main Street clings to slim bullish majority despite weekly slide",
-      "summaryEn": "(Kitco News) – Gold prices saw another volatile week of trading, with early attempts to stabilize above $4,400 per ounce eventually overwhelmed by surging oil prices, higher Treasury yields, and rising expectations that the Federal Reserve will raise interest rates at next week’s policy meeting. Spot gold kicked off the week trading at $4,422.50 per ounce on Sunday evening, and the yellow metal initially tried to build on the prior week’s late recovery as traders monitored the U.S.-Iran conflict, the Strait of Hormuz, and renewed inflation risks from higher energy prices. The metal pushed higher into Tuesday, when spot prices set their weekly high at $4,442.98 per ounce, but the rally quickly faded as the dollar firmed and rate-hike expectations continued to build. Selling pressure accelerated Wednesday and Thursday after PPI showed U.S. producer prices rose in August, reinforcing concerns that energy costs and supply disruptions were feeding back into inflation. Gold broke below $4,350 as Treasury yields climbed and traders priced in a growing chance that the Fed would tighten policy again at its Sept. 15-16 meeting.",
+      "id": "stockanalysis:9b8af3c70cb4c650",
+      "titleEn": "Mitsubishi Electric's New Plate Heat Exchanger Delivers 3x Conventional Heat Transfer Performance",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-11/wall-street-turns-bullish-gold-price-ahead-fed-main-street-clings-slim",
+      "link": "https://www.businesswire.com/news/home/20260913021738/en/Mitsubishi-Electric%E2%80%99s-New-Plate-Heat-Exchanger-Delivers-3x-Conventional-Heat-Transfer-Performance/",
       "published": null
     },
     {
@@ -109,24 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260913549808/en/Ivonescimab-Monotherapy-Demonstrates-a-Statistically-Significant-Clinically-Meaningful-Benefit-Compared-to-Pembrolizumab-Monotherapy-in-PD-L1-Positive-Advanced-NSCLC-in-Akeso%E2%80%99s-HARMONi-2-Study-Conducted-in-China/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5cb497fb23dc3ae3",
-      "titleEn": "Calvin Klein Collection by Veronica Leoni Spring 2027 Runway Show Presented in New York City",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260912623744/en/Calvin-Klein-Collection-by-Veronica-Leoni-Spring-2027-Runway-Show-Presented-in-New-York-City/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a8ed95dd318326fc",
-      "titleEn": "ITC Federal Acquires Capgemini Government Solutions, Launching ITC Digital Solutions to Expand National Security and Digital Modernization Capabilities",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260912582617/en/ITC-Federal-Acquires-Capgemini-Government-Solutions-Launching-ITC-Digital-Solutions-to-Expand-National-Security-and-Digital-Modernization-Capabilities/",
       "published": null
     }
   ]
