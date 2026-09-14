@@ -1,8 +1,98 @@
 {
-  "generatedAt": "2026-09-14T16:32:47.948367Z",
+  "generatedAt": "2026-09-14T20:32:33.351739Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:b12a775180553ee8",
+      "titleEn": "Meta Faces Lawsuit Over Smart Glasses Facial Recognition",
+      "summaryEn": "Meta ’s still-unreleased smart glasses are reportedly the subject of a class action lawsuit. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); A group of parents and their children in California and Illinois filed the proposed class action suit, which relates to Meta’s leaked “NameTag” feature, WIRED reported Monday (Sept. 14).",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/wearables/2026/meta-faces-lawsuit-over-smart-glasses-facial-recognition/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8201ab30d73dcc45",
+      "titleEn": "TD Bank Commits $108 Billion to Canadian Infrastructure",
+      "summaryEn": "TD Bank has announced a five-year, $108 billion (150 billion Canadian dollars) commitment to Canada’s “investment supercycle.” &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The project is designed to prompt new lending, underwriting and other financial activities while promoting investment and critical sectors, the Toronto-based TD announced Monday Sept. 14.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/td-bank-commits-108-billion-to-canadian-infrastructure/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d41a865a583aa6b4",
+      "titleEn": "Fiserv Unifies Financial and Merchant Divisions to Unlock Growth Opportunities",
+      "summaryEn": "Fiserv aims to tap several growth opportunities by bringing together the capabilities of its Financial Solutions (FS) and Merchant Solutions (MS) segments, which have operated separately, and operating as one company, Fiserv CEO Takis Georgakopoulos said Thursday (Sept. 10). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Speaking at the Goldman Sachs 2026 Communacopia + Technology conference, Georgakopoulos said that by changing its previous structure and operating as one company, Fiserv can better serve parts of the business that were underused because they touch both FS and MS or they sat on one side of the business while primarily benefiting the other.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/payments-innovation/2026/fiserv-unifies-financial-merchant-divisions-unlock-growth-opportunities/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ed6502b0e6529a8a",
+      "titleEn": "HPE stock declines 8% on Monday: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/14/hpe-stock-declines-8-on-monday-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:991079e6e66319aa",
+      "titleEn": "Walmart+ Expands Gas Savings Program as Fuel Prices Surge",
+      "summaryEn": "Walmart + is expanding its Gas Savings benefit with a new partnership with Citgo . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The expansion of the company’s membership program adds more than 4,000 new gas stations where Walmart+ members can save 10 cents per gallon on gas, the retail colossus said in a Monday (Sept. 14) announcement .",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/retail/2026/walmart-expands-gas-savings-program-as-fuel-prices-surge/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:adb72733f2ba0ed9",
+      "titleEn": "CME's 24/7 silver futures debut with $15 million traded in first weekend",
+      "summaryEn": "(Kitco News) - In a world of heightened economic uncertainty, investors continue to embrace the ability to own and trade safe-haven assets 24 hours a day, seven days a week, as CME Group announces the successful launch of its 24/7 silver contract. The world&#x27;s largest derivatives exchange said Monday that 2,387 100-Ounce Silver futures contracts traded during its inaugural weekend of 24/7 trading, representing more than $15 million in notional value. Along with solid silver demand, CME said it continues to see strong demand for its 24/7 one-ounce gold contract, which was launched July 24.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-14/cmes-247-silver-futures-debut-15-million-traded-first-weekend",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2fa25fcdb93b0c94",
+      "titleEn": "Netflix stock rises as Evercore raises price target to $110",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/14/netflix-stock-rises-as-evercore-raises-price-target-to-110/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2c475e8c939f8b8a",
+      "titleEn": "Anthropic Makes $13.7 Compute Deal With Trump-Linked Rum Group",
+      "summaryEn": "Anthropic has reportedly signed a $13.7 billion deal with Rum Group , a social media/AI infrastructure company. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The six-year deal with Rum — which owns conservative-leaning video platform Rumble, and is linked to President Donald Trump’s administration — was reported Monday (Sept. 14) by The Information, which cited a source familiar with the matter.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-makes-13-7-compute-deal-with-trump-linked-rum-group/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:af9d2bc4ee06382a",
+      "titleEn": "Why Wedbush and BofA issued bullish notes on Roblox stock today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/14/why-wedbush-and-bofa-issued-bullish-notes-on-roblox-stock-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fc8844bbe3b00d62",
+      "titleEn": "AI panic triggers a rally in CrowdStrike stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/14/ai-panic-triggers-a-rally-in-crowdstrike-stock/",
+      "published": null
+    },
     {
       "id": "stockanalysis:c4cfc9b528240223",
       "titleEn": "Nvidia stock: Should investors buy the dip amid AI slowdown fears?",
@@ -31,129 +121,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:d9378f818144ce5f",
-      "titleEn": "Gold faces rising yield threat as 10-year Treasury approaches 5%, but debasement demand provides support",
-      "summaryEn": "(Kitco News) - Gold prices are facing growing near-term headwinds as surging U.S. bond yields and increasingly hawkish monetary policy expectations raise the opportunity cost of holding a non-yielding asset; however, one market strategist says the precious metal can still find solid support as the traditional relationship between gold , yields and the U.S. dollar continues to break down. In a commentary Friday, Adam Turnquist, Chief Technical Strategist at LPL Financial, said the benchmark 10-year Treasury yield is rapidly approaching the psychologically significant 5% level as inflation, geopolitical and fiscal concerns converge. Turnquist noted that yields have generally followed a “two-steps-forward, one-step-back” trajectory through much of the year, but the move has accelerated sharply during the past month.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-14/gold-faces-rising-yield-threat-10-year-treasury-approaches-5-debasement",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:007f33cbb83afccf",
-      "titleEn": "Dell stock dips amid the AI safety jitters: is the end of the bull run?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/14/dell-stock-dips-amid-the-ai-safety-jitters-is-the-end-of-the-bull-run/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3e402ea99bde50d5",
-      "titleEn": "Gold price fall nearly 2% as oil surge and near-5% Treasury yields bolster Fed rate-hike expectations - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are seeing significant selling pressure Monday morning as rising bond yields and surging energy prices strengthen expectations that the Federal Reserve will raise interest rates this week, overwhelming safe-haven demand generated by escalating geopolitical uncertainty in the Middle East. Spot gold last traded at $4,269.90 an ounce, down 1.80% on the day. Silver is also seeing significant selling pressure, with spot silver last trading at $62.75 an ounce, down 2.50% on the day. The precious metals continue to struggle as markets digest Friday&#x27;s hotter-than-expected inflation data. The Consumer Price Index rose 0.4% in August, while annual inflation held at 3.4% . At the same time, core CPI rose 0.3%, slightly hotter than economists&#x27; expectations for a 0.2% increase.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-14/gold-price-fall-nearly-2-oil-surge-and-near-5-treasury-yields-bolster-fed",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:41456cf5601c76a8",
-      "titleEn": "IREN, Nebius, CoreWeave: Here's why these neocloud stocks are falling",
+      "id": "stockanalysis:04e85854069293c2",
+      "titleEn": "Janus Living Declares Monthly Common Stock Cash Dividends for the Fourth Quarter of 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/14/iren-nebius-coreweave-heres-why-these-neocloud-stocks-are-falling/",
+      "link": "https://www.businesswire.com/news/home/20260914791029/en/Janus-Living-Declares-Monthly-Common-Stock-Cash-Dividends-for-the-Fourth-Quarter-of-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:0caa84e9ae24396a",
-      "titleEn": "Arm stock falls 7% as AI selloff, valuation risks hit chip designer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/14/arm-stock-falls-7-as-ai-selloff-valuation-risks-hit-chip-designer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1ab83654463fadb1",
-      "titleEn": "VOO &amp; Chill: What's fueling the S&amp;P 500 ETF's relentless run?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/14/voo-chill-whats-fueling-the-sp-500-etfs-relentless-run/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a8f6c5c0539badad",
-      "titleEn": "RUM Group stock jumps on $13.7 billion Anthropic deal: will the gains hold?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/14/rum-group-stock-jumps-on-13-7-billion-anthropic-deal-will-the-gains-hold/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c1eec62a83508b05",
-      "titleEn": "These 3 under-the-radar stocks could rally if Fed raises rates this week",
+      "id": "stockanalysis:d66485c33106cb6e",
+      "titleEn": "Apple Hospitality REIT Announces Dates for Third Quarter 2026 Earnings Release and Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/14/these-3-under-the-radar-stocks-could-rally-if-fed-raises-rates-this-week/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8b74a502a8176e58",
-      "titleEn": "Big AI wants to slow down AI research: Is it a safety pause or a strategic retreat?",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Recently, Anthropic chief executive Dario Amodei called for artificial intelligence (AI) companies, including his own, to slow down their work . Sam Altman and Elon Musk, heads of rivals OpenAI and xAI respectively, agreed . The move reflects concern across the AI industry and more broadly about the dangers of new, rapidly improving systems. Recent high-profile incidents, such as OpenAI's AI agents hacking another company and hijacking a public website , have shown that current systems can break out of safety confines—and even more capable systems are in development.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-09-big-ai-safety-strategic-retreat.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:dd358acdf22eb9f3",
-      "titleEn": "Why Micron, SanDisk and SK Hynix are suddenly at the centre of the AI selloff",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/14/why-micron-sandisk-and-sk-hynix-are-suddenly-at-the-centre-of-the-ai-selloff/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ae26f6308be359be",
-      "titleEn": "SanDisk stock is at risk of a deep dive as alarming patterns emerge",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/14/sandisk-stock-is-at-risk-of-a-deep-dive-as-alarming-patterns-emerge/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a3a070921a16dcfd",
-      "titleEn": "Why is Meta stock gaining in premarket today",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/14/why-is-meta-stock-gaining-in-premarket-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:463791c3ef816070",
-      "titleEn": "Charles Schwab and Anthropic to Bring Claude to Independent Registered Investment Advisors",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260914786358/en/Charles-Schwab-and-Anthropic-to-Bring-Claude-to-Independent-Registered-Investment-Advisors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e13d22ab335bf58a",
-      "titleEn": "Orion Expands Anthropic Collaboration as Launch Partner for Claude for Financial Advisors",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260914255610/en/Orion-Expands-Anthropic-Collaboration-as-Launch-Partner-for-Claude-for-Financial-Advisors/",
+      "link": "https://www.businesswire.com/news/home/20260914760270/en/Apple-Hospitality-REIT-Announces-Dates-for-Third-Quarter-2026-Earnings-Release-and-Conference-Call/",
       "published": null
     }
   ]
