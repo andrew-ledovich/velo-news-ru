@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-14T05:13:41.916961Z",
+  "generatedAt": "2026-09-14T10:37:57.619956Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 7,
   "items": [
+    {
+      "id": "stockanalysis:702f01d929a24206",
+      "titleEn": "Palantir stock may win even if AI boom slows: why Wall Street sees 50% upside",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/14/palantir-stock-may-win-even-if-ai-boom-slows-why-wall-street-sees-50-upside/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3de45e914f42f6a7",
       "titleEn": "Anthropic Could Land Nvidia as $10 Billion IPO Investor",
@@ -55,60 +64,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/09/13/how-will-private-credit-and-equity-stocks-react-to-fed-rate-hikes/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:761125b8f4c4d694",
-      "titleEn": "Volkswagen Ranked Highest in 2026 Auto Industry Service Scheduling Effectiveness™ Study",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260913162934/en/Volkswagen-Ranked-Highest-in-2026-Auto-Industry-Service-Scheduling-Effectiveness%E2%84%A2-Study/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9b8af3c70cb4c650",
-      "titleEn": "Mitsubishi Electric's New Plate Heat Exchanger Delivers 3x Conventional Heat Transfer Performance",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260913021738/en/Mitsubishi-Electric%E2%80%99s-New-Plate-Heat-Exchanger-Delivers-3x-Conventional-Heat-Transfer-Performance/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3357d528b5fd0af8",
-      "titleEn": "Zipalertinib Plus Chemotherapy Demonstrates 6-Month Median Progression-Free Survival Benefit in REZILIENT3 Phase 3 Trial in First-Line EGFR Exon 20 Insertion Mutation Non-Small Cell Lung Cancer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260913390932/en/Zipalertinib-Plus-Chemotherapy-Demonstrates-6-Month-Median-Progression-Free-Survival-Benefit-in-REZILIENT3-Phase-3-Trial-in-First-Line-EGFR-Exon-20-Insertion-Mutation-Non-Small-Cell-Lung-Cancer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:40e939d6e104600e",
-      "titleEn": "Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Previews the Upcoming 9/19 Event; Highlights FF's EAI Robotics' Autonomous Perception and 3D Scanning Technology; Adds a New Senior Advisor Focused on Govt. Procurement",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260913091795/en/Faraday-Future-Founder-and-Global-CEO-YT-Jia-Shares-Weekly-Investor-Update-Previews-the-Upcoming-919-Event-Highlights-FF%E2%80%99s-EAI-Robotics-Autonomous-Perception-and-3D-Scanning-Technology-Adds-a-New-Senior-Advisor-Focused-on-Govt.-Procurement/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:889c14b4b7e261c2",
-      "titleEn": "SES's Final Three O3b mPOWER Satellites Successfully Launched",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260913914517/en/SES%E2%80%99s-Final-Three-O3b-mPOWER-Satellites-Successfully-Launched/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0736f12031c77a7e",
-      "titleEn": "Ivonescimab Monotherapy Demonstrates a Statistically Significant &amp; Clinically Meaningful Benefit Compared to Pembrolizumab Monotherapy in PD-L1-Positive Advanced NSCLC in Akeso's HARMONi-2 Study Conducted in China",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260913549808/en/Ivonescimab-Monotherapy-Demonstrates-a-Statistically-Significant-Clinically-Meaningful-Benefit-Compared-to-Pembrolizumab-Monotherapy-in-PD-L1-Positive-Advanced-NSCLC-in-Akeso%E2%80%99s-HARMONi-2-Study-Conducted-in-China/",
       "published": null
     }
   ]
