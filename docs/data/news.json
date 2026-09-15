@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-15T01:38:42.490244Z",
+  "generatedAt": "2026-09-15T06:40:45.191437Z",
   "sourceCount": 1,
   "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:e789935b12843909",
+      "titleEn": "KOSPI vs Nikkei: Asia's AI trade fractures ahead of Fed and BOJ decisions",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/15/kospi-vs-nikkei-asias-ai-trade-fractures-ahead-of-fed-and-boj-decisions/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:925747101004d18e",
+      "titleEn": "Why calls to slow AI may actually be good news for ServiceNow stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/15/why-calls-to-slow-ai-may-actually-be-good-news-for-servicenow-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f1306236ab3538aa",
+      "titleEn": "Samsung and SK Hynix defy a 6% US chip rout: what is Korea seeing differently",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/15/samsung-and-sk-hynix-defy-a-6-us-chip-rout-what-is-korea-seeing-differently/",
+      "published": null
+    },
     {
       "id": "stockanalysis:932e9b275e6f44dd",
       "titleEn": "Paymentus Scales Bill Payment Platform Across Additional Sectors",
@@ -76,57 +103,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:adb72733f2ba0ed9",
-      "titleEn": "CME's 24/7 silver futures debut with $15 million traded in first weekend",
-      "summaryEn": "(Kitco News) - In a world of heightened economic uncertainty, investors continue to embrace the ability to own and trade safe-haven assets 24 hours a day, seven days a week, as CME Group announces the successful launch of its 24/7 silver contract. The world&#x27;s largest derivatives exchange said Monday that 2,387 100-Ounce Silver futures contracts traded during its inaugural weekend of 24/7 trading, representing more than $15 million in notional value. Along with solid silver demand, CME said it continues to see strong demand for its 24/7 one-ounce gold contract, which was launched July 24.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-14/cmes-247-silver-futures-debut-15-million-traded-first-weekend",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2fa25fcdb93b0c94",
-      "titleEn": "Netflix stock rises as Evercore raises price target to $110",
+      "id": "stockanalysis:b63e454b1e564dd4",
+      "titleEn": "Teledyne e2v Expands 3D Imaging Portfolio with New Perciva ToF Camera",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/14/netflix-stock-rises-as-evercore-raises-price-target-to-110/",
+      "link": "https://www.businesswire.com/news/home/20260914975094/en/Teledyne-e2v-Expands-3D-Imaging-Portfolio-with-New-Perciva-ToF-Camera/",
       "published": null
     },
     {
-      "id": "stockanalysis:2c475e8c939f8b8a",
-      "titleEn": "Anthropic Makes $13.7 Compute Deal With Trump-Linked Rum Group",
-      "summaryEn": "Anthropic has reportedly signed a $13.7 billion deal with Rum Group , a social media/AI infrastructure company. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The six-year deal with Rum — which owns conservative-leaning video platform Rumble, and is linked to President Donald Trump’s administration — was reported Monday (Sept. 14) by The Information, which cited a source familiar with the matter.",
+      "id": "stockanalysis:c3790b59c045eecf",
+      "titleEn": "TotalEnergies Announces a Partnership with Mistral to Develop Frontier AI Models for Reservoir Exploration and Engineering",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-makes-13-7-compute-deal-with-trump-linked-rum-group/",
+      "link": "https://www.businesswire.com/news/home/20260914891101/en/TotalEnergies-Announces-a-Partnership-with-Mistral-to-Develop-Frontier-AI-Models-for-Reservoir-Exploration-and-Engineering/",
       "published": null
     },
     {
-      "id": "stockanalysis:a1fd41fff980d057",
-      "titleEn": "NIQ Expands Shopper Intelligence Capabilities in Singapore and Hong Kong Through Enhanced Homescan Coverage",
+      "id": "stockanalysis:e523a3add071342f",
+      "titleEn": "Teradyne Opens Office in India, Deepening Commitment to the Country's Growing Semiconductor Ecosystem",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260914423428/en/NIQ-Expands-Shopper-Intelligence-Capabilities-in-Singapore-and-Hong-Kong-Through-Enhanced-Homescan-Coverage/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:19a5e4f0a31e412f",
-      "titleEn": "Moody's to Acquire Minority Stake in Philippine Rating Services Corporation (PhilRatings)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260914620177/en/Moody%E2%80%99s-to-Acquire-Minority-Stake-in-Philippine-Rating-Services-Corporation-PhilRatings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:92f45456a88261dd",
-      "titleEn": "Bioceres Crop Solutions Reports Fiscal Fourth Quarter and Full-Year 2026 Financial and Operating Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260914032481/en/Bioceres-Crop-Solutions-Reports-Fiscal-Fourth-Quarter-and-Full-Year-2026-Financial-and-Operating-Results/",
+      "link": "https://www.businesswire.com/news/home/20260914246448/en/Teradyne-Opens-Office-in-India-Deepening-Commitment-to-the-Country%E2%80%99s-Growing-Semiconductor-Ecosystem/",
       "published": null
     }
   ]
