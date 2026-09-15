@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-15T19:54:11.881477Z",
+  "generatedAt": "2026-09-15T22:30:57.515861Z",
   "sourceCount": 1,
-  "count": 22,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:48dce836ac7774e6",
+      "titleEn": "OpenAI Defies Antitrust Concerns to Join Rivals on AI Safety",
+      "summaryEn": "OpenAI Global Policy Chief Chris Lehane said Tuesday (Sept. 15) that OpenAI, Anthropic and Google DeepMind have been working together for several weeks to address artificial intelligence safety issues, Bloomberg reported. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Speaking at a briefing in Washington, Lehane said OpenAI does not see any need for an antitrust waiver to coordinate safety efforts. He said there are precedents for such cooperation, such as in the airline industry, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-defies-antitrust-concerns-join-rivals-ai-safety/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:18cc80a6935abf9e",
+      "titleEn": "Gold, silver prices settle lower as Fed hike looks locked in - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices settled lower in late-afternoon U.S. trading Tuesday, as elevated crude oil prices, a firmer U.S. dollar and a 10-year Treasury yield near 5% kept pressure on non-yielding metals ahead of Wednesday’s Federal Reserve decision. Front-month Comex gold settled at $4,291.60 an ounce, down 0.43%, while front-month silver settled at $63.236 an ounce, down 0.4%. North American equity markets closed lower as oil and yields weighed on risk appetite. The S&P 500 fell 34.25 points, or 0.4%, to 7,585.73, the Dow Jones Industrial Average dropped 328.09 points, or 0.6%, to 52,093.11, the Nasdaq Composite lost 204.84 points, or 0.8%, to 25,981.57, and the Russell 2000 fell 21.95 points, or 0.8%, to 2,870.29. European markets also finished in the red, with the STOXX Europe 600 down 0.28% to 634.18. London’s FTSE 100 fell 0.37% to 10,658.13, Germany’s DAX lost 0.15% to 25,402.28, France’s CAC 40 declined 0.34% to 8,090.28, and Italy’s FTSE MIB slipped 0.14% to 51,555.19. The latest positioning remains dominated by last week’s CPI and PPI prints , the oil shock and Wednesday’s Fed decision. Futures markets are pricing a roughly 90% probability of a 25-basis-point hike, a sharp shift from one week ago, while the 10-year Treasury yield briefly touched 5.04% overnight before ending near 5.00%. The expected hike itself is now largely discounted. The market risk is the guidance: if Chair Kevin Warsh signals that this week’s move begins a broader tightening cycle, gold faces another real-yield headwind; if he frames the hike as insurance against oil-driven inflation, bullion could stabilize on reduced terminal-rate risk. The Fed’s updated rate projections will matter as much as the statement.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-15/gold-silver-prices-settle-lower-fed-hike-looks-locked-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5a6e071aa455bf47",
+      "titleEn": "Strategy (MSTR) stock falls 5% as Clarity Act stalls",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/15/strategy-mstr-stock-falls-5-as-clarity-act-stalls/",
+      "published": null
+    },
     {
       "id": "stockanalysis:d595ee02e23846ce",
       "titleEn": "Gold prices could rally a little on a Fed hike, but a lot on a hold, with $5,000/oz back on the table – Jesse Columbo",
@@ -85,120 +112,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:576349fa05348bff",
-      "titleEn": "Why is Vera Therapeutics stock reversing its premarket gains?",
+      "id": "stockanalysis:09e9f70c9715a0d6",
+      "titleEn": "Texas Family Care Network Names Rocky Hensarling CEO as Organization Expands Community-Based Care Leadership",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/15/why-is-vera-therapeutics-stock-reversing-its-premarket-gains/",
+      "link": "https://www.businesswire.com/news/home/20260915615946/en/Texas-Family-Care-Network-Names-Rocky-Hensarling-CEO-as-Organization-Expands-Community-Based-Care-Leadership/",
       "published": null
     },
     {
-      "id": "stockanalysis:fa2b2a014dd34bae",
-      "titleEn": "Visa and Circle Back Stablecoin Payments Platform Velocity",
-      "summaryEn": "Stablecoin payments and treasury platform Velocity has raised $10 million in new funding. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The financing will support Velocity’s work to provide stablecoin infrastructure to issuers, acquirers, payment providers, financial institutions and merchants, the company said in a news release Tuesday (Sept. 15).",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/visa-and-circle-back-stablecoin-payments-platform-velocity/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ee2227375cc25af2",
-      "titleEn": "Apple stock falls as analysts assess iPhone 18 pro and foldable demand",
+      "id": "stockanalysis:726161f37f4fdfcd",
+      "titleEn": "AVEX Stockholders Have Rights – If You Lost Money Investing in AEVEX Corp. Contact Robbins LLP for Information About Recovering Your Losses",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/15/apple-stock-falls-as-analysts-assess-iphone-18-pro-and-foldable-demand/",
+      "link": "https://www.businesswire.com/news/home/20260915113192/en/AVEX-Stockholders-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-AEVEX-Corp.-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
       "published": null
     },
     {
-      "id": "stockanalysis:b00b2966148ae3da",
-      "titleEn": "OpenAI confirms it's working with Anthropic, Google to address AI risks",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/15/openai-confirms-its-working-with-anthropic-google-to-address-ai-risks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:82af98c30fd5d926",
-      "titleEn": "Tilray stock has slumped 55% this year: is it a golden opportunity to buy?",
+      "id": "stockanalysis:ac65dbe24c00d426",
+      "titleEn": "Halliburton Third Quarter 2026 Earnings Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/15/tilray-stock-has-slumped-55-this-year-is-it-a-golden-opportunity-to-buy/",
+      "link": "https://www.businesswire.com/news/home/20260915021156/en/Halliburton-Third-Quarter-2026-Earnings-Conference-Call/",
       "published": null
     },
     {
-      "id": "stockanalysis:e3cbeec9778e1a29",
-      "titleEn": "Coinbase stock on edge as CLARITY Act odds of passing dip despite Trump concessions",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/15/coinbase-stock-on-edge-as-clarity-act-odds-of-passing-dip-despite-trump-concessions/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2191c6286565b260",
-      "titleEn": "Meta stock outlook: can Muse AI and legal relief push shares above $700?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/15/meta-stock-outlook-can-muse-ai-and-legal-relief-push-shares-above-700/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c1df0843245ceb0d",
-      "titleEn": "Here's why Bank of America stock is slipping today",
+      "id": "stockanalysis:c3804f101bce2b68",
+      "titleEn": "KBRA Assigns Preliminary Ratings to Sequoia Mortgage Trust 2026-12 (SEMT 2026-12)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/15/heres-why-bank-of-america-stock-is-slipping-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4ce53d3cb47a20b3",
-      "titleEn": "Why Joby Aviation stock is falling as it nears a major inflection point",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/15/why-joby-aviation-stock-is-falling-as-it-nears-a-major-inflection-point/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5a5567d5471c24b6",
-      "titleEn": "Applebee's® and IHOP® Continue Nationwide Growth With New Dual-Branded Restaurant in San Antonio, TX",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260915503593/en/Applebee%E2%80%99s%C2%AE-and-IHOP%C2%AE-Continue-Nationwide-Growth-With-New-Dual-Branded-Restaurant-in-San-Antonio-TX/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ce50a3567957c164",
-      "titleEn": "New Mexico Cybersecurity Firm “CyberSandia” Discusses Public Sector Cyberthreats with State Cybersecurity Leaders",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260915073116/en/New-Mexico-Cybersecurity-Firm-%E2%80%9CCyberSandia%E2%80%9D-Discusses-Public-Sector-Cyberthreats-with-State-Cybersecurity-Leaders/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3466fa0d105c619b",
-      "titleEn": "AGBT Announces 2026 Precision Health Next Gen Leadership Award Recipients",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260915778485/en/AGBT-Announces-2026-Precision-Health-Next-Gen-Leadership-Award-Recipients/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c96ec7ae9ffa47b8",
-      "titleEn": "Elastic Security Achieves the Only Perfect Score in the 2026 AV-Comparatives Endpoint Prevention and Response Test",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260915214066/en/Elastic-Security-Achieves-the-Only-Perfect-Score-in-the-2026-AV-Comparatives-Endpoint-Prevention-and-Response-Test/",
+      "link": "https://www.businesswire.com/news/home/20260915803366/en/KBRA-Assigns-Preliminary-Ratings-to-Sequoia-Mortgage-Trust-2026-12-SEMT-2026-12/",
       "published": null
     }
   ]
