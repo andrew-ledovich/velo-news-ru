@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-15T06:40:45.191437Z",
+  "generatedAt": "2026-09-15T12:06:04.240576Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 8,
   "items": [
+    {
+      "id": "stockanalysis:ca87643ad92cda4d",
+      "titleEn": "TLT ETF slumps, inflows jump as US Treasury yields soar",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/09/15/tlt-etf-slumps-inflows-jump-as-us-treasury-yields-soar/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6bffbd919fb888c2",
+      "titleEn": "AI development slowdown: what it means for Nvidia, Micron and other chip stocks",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/15/ai-development-slowdown-what-it-means-for-nvidia-micron-and-other-chip-stocks/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8bc72aa2fb903373",
+      "titleEn": "FTSE 100 tumbles as oil shock sends UK borrowing costs back to 1998",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/15/ftse-100-tumbles-as-oil-shock-sends-uk-borrowing-costs-back-to-1998/",
+      "published": null
+    },
     {
       "id": "stockanalysis:e789935b12843909",
       "titleEn": "KOSPI vs Nikkei: Asia's AI trade fractures ahead of Fed and BOJ decisions",
@@ -46,87 +73,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-accelerates-device-plan-with-ai-camera-tech-acquisition/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:49158fb97e3c6909",
-      "titleEn": "Pinterest Boosts AI-Powered Search Speed Sevenfold With Nvidia Tech",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The new infrastructure, which was built with Nvidia , will support visual search, content understanding, safety systems and other products that rely on both images and language, according to the release. In benchmark testing, the infrastructure delivered 85 times faster response startup and 7.3 times faster overall latency by using precomputed visual representations instead of repeatedly processing raw images, the release said.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/pinterest-boosts-ai-powered-search-speed-sevenfold-with-nvidia-tech/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b12a775180553ee8",
-      "titleEn": "Meta Faces Lawsuit Over Smart Glasses Facial Recognition",
-      "summaryEn": "Meta ’s still-unreleased smart glasses are reportedly the subject of a class action lawsuit. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); A group of parents and their children in California and Illinois filed the proposed class action suit, which relates to Meta’s leaked “NameTag” feature, WIRED reported Monday (Sept. 14).",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/wearables/2026/meta-faces-lawsuit-over-smart-glasses-facial-recognition/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8201ab30d73dcc45",
-      "titleEn": "TD Bank Commits $108 Billion to Canadian Infrastructure",
-      "summaryEn": "TD Bank has announced a five-year, $108 billion (150 billion Canadian dollars) commitment to Canada’s “investment supercycle.” &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The project is designed to prompt new lending, underwriting and other financial activities while promoting investment and critical sectors, the Toronto-based TD announced Monday Sept. 14.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/td-bank-commits-108-billion-to-canadian-infrastructure/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d41a865a583aa6b4",
-      "titleEn": "Fiserv Unifies Financial and Merchant Divisions to Unlock Growth Opportunities",
-      "summaryEn": "Fiserv aims to tap several growth opportunities by bringing together the capabilities of its Financial Solutions (FS) and Merchant Solutions (MS) segments, which have operated separately, and operating as one company, Fiserv CEO Takis Georgakopoulos said Thursday (Sept. 10). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Speaking at the Goldman Sachs 2026 Communacopia + Technology conference, Georgakopoulos said that by changing its previous structure and operating as one company, Fiserv can better serve parts of the business that were underused because they touch both FS and MS or they sat on one side of the business while primarily benefiting the other.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/payments-innovation/2026/fiserv-unifies-financial-merchant-divisions-unlock-growth-opportunities/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ed6502b0e6529a8a",
-      "titleEn": "HPE stock declines 8% on Monday: here's why",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/14/hpe-stock-declines-8-on-monday-heres-why/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:991079e6e66319aa",
-      "titleEn": "Walmart+ Expands Gas Savings Program as Fuel Prices Surge",
-      "summaryEn": "Walmart + is expanding its Gas Savings benefit with a new partnership with Citgo . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The expansion of the company’s membership program adds more than 4,000 new gas stations where Walmart+ members can save 10 cents per gallon on gas, the retail colossus said in a Monday (Sept. 14) announcement .",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/retail/2026/walmart-expands-gas-savings-program-as-fuel-prices-surge/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b63e454b1e564dd4",
-      "titleEn": "Teledyne e2v Expands 3D Imaging Portfolio with New Perciva ToF Camera",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260914975094/en/Teledyne-e2v-Expands-3D-Imaging-Portfolio-with-New-Perciva-ToF-Camera/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c3790b59c045eecf",
-      "titleEn": "TotalEnergies Announces a Partnership with Mistral to Develop Frontier AI Models for Reservoir Exploration and Engineering",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260914891101/en/TotalEnergies-Announces-a-Partnership-with-Mistral-to-Develop-Frontier-AI-Models-for-Reservoir-Exploration-and-Engineering/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e523a3add071342f",
-      "titleEn": "Teradyne Opens Office in India, Deepening Commitment to the Country's Growing Semiconductor Ecosystem",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260914246448/en/Teradyne-Opens-Office-in-India-Deepening-Commitment-to-the-Country%E2%80%99s-Growing-Semiconductor-Ecosystem/",
       "published": null
     }
   ]
