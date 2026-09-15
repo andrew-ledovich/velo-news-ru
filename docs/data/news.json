@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-14T23:27:07.848163Z",
+  "generatedAt": "2026-09-15T01:38:42.490244Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:932e9b275e6f44dd",
+      "titleEn": "Paymentus Scales Bill Payment Platform Across Additional Sectors",
+      "summaryEn": "Paymentus executives emphasized the company’s position as a specialized technology provider navigating bill payment modernization, agentic artificial intelligence and expansion into additional verticals during the Goldman Sachs 2026 Communacopia + Technology conference. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Paymentus CEO Dushyant Sharma framed bill presentment and payment processing as a technology platform play rather than a transactional or financial exercise. Sharma noted that consumer bill payments account for 60% of average household spend across 16 billion to 17 billion U.S. bills annually.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/payments-innovation/2026/paymentus-scales-bill-payment-platform-across-additional-sectors/",
+      "published": null
+    },
     {
       "id": "stockanalysis:85ac523dfde1dcd2",
       "titleEn": "OpenAI Accelerates Device Plan With AI Camera Tech Acquisition",
@@ -94,21 +103,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:af9d2bc4ee06382a",
-      "titleEn": "Why Wedbush and BofA issued bullish notes on Roblox stock today",
+      "id": "stockanalysis:a1fd41fff980d057",
+      "titleEn": "NIQ Expands Shopper Intelligence Capabilities in Singapore and Hong Kong Through Enhanced Homescan Coverage",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/14/why-wedbush-and-bofa-issued-bullish-notes-on-roblox-stock-today/",
+      "link": "https://www.businesswire.com/news/home/20260914423428/en/NIQ-Expands-Shopper-Intelligence-Capabilities-in-Singapore-and-Hong-Kong-Through-Enhanced-Homescan-Coverage/",
       "published": null
     },
     {
-      "id": "stockanalysis:fc8844bbe3b00d62",
-      "titleEn": "AI panic triggers a rally in CrowdStrike stock",
+      "id": "stockanalysis:19a5e4f0a31e412f",
+      "titleEn": "Moody's to Acquire Minority Stake in Philippine Rating Services Corporation (PhilRatings)",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/14/ai-panic-triggers-a-rally-in-crowdstrike-stock/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260914620177/en/Moody%E2%80%99s-to-Acquire-Minority-Stake-in-Philippine-Rating-Services-Corporation-PhilRatings/",
       "published": null
     },
     {
@@ -118,24 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260914032481/en/Bioceres-Crop-Solutions-Reports-Fiscal-Fourth-Quarter-and-Full-Year-2026-Financial-and-Operating-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:70e09e39cf3c8c1a",
-      "titleEn": "Western Alliance Bancorporation to Participate in Fireside Chat at Barclays Global Financial Services Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260914748348/en/Western-Alliance-Bancorporation-to-Participate-in-Fireside-Chat-at-Barclays-Global-Financial-Services-Conference/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4aa3ade180db50dd",
-      "titleEn": "Marcus &amp; Millichap Capital Corporation Arranges $53 Million Build-to-Rent Refinance in Northwest Arkansas",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260914723699/en/Marcus-Millichap-Capital-Corporation-Arranges-53-Million-Build-to-Rent-Refinance-in-Northwest-Arkansas/",
       "published": null
     }
   ]
