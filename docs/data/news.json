@@ -1,8 +1,152 @@
 {
-  "generatedAt": "2026-09-15T12:06:04.240576Z",
+  "generatedAt": "2026-09-15T16:54:08.900665Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 22,
   "items": [
+    {
+      "id": "stockanalysis:f7ac4a94a0b60760",
+      "titleEn": "Why SpaceX stock is down around 3% on Tuesday",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/15/why-spacex-stock-is-down-around-3-on-tuesday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:daea7479e2458e24",
+      "titleEn": "Qualcomm stock rises 3.9% as AWS deal boosts data center outlook",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/15/qualcomm-stock-rises-3-9-as-aws-deal-boosts-data-center-outlook/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:576349fa05348bff",
+      "titleEn": "Why is Vera Therapeutics stock reversing its premarket gains?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/15/why-is-vera-therapeutics-stock-reversing-its-premarket-gains/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fa2b2a014dd34bae",
+      "titleEn": "Visa and Circle Back Stablecoin Payments Platform Velocity",
+      "summaryEn": "Stablecoin payments and treasury platform Velocity has raised $10 million in new funding. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The financing will support Velocity’s work to provide stablecoin infrastructure to issuers, acquirers, payment providers, financial institutions and merchants, the company said in a news release Tuesday (Sept. 15).",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/visa-and-circle-back-stablecoin-payments-platform-velocity/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ee2227375cc25af2",
+      "titleEn": "Apple stock falls as analysts assess iPhone 18 pro and foldable demand",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/15/apple-stock-falls-as-analysts-assess-iphone-18-pro-and-foldable-demand/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b00b2966148ae3da",
+      "titleEn": "OpenAI confirms it's working with Anthropic, Google to address AI risks",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/15/openai-confirms-its-working-with-anthropic-google-to-address-ai-risks/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:82af98c30fd5d926",
+      "titleEn": "Tilray stock has slumped 55% this year: is it a golden opportunity to buy?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/15/tilray-stock-has-slumped-55-this-year-is-it-a-golden-opportunity-to-buy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e3cbeec9778e1a29",
+      "titleEn": "Coinbase stock on edge as CLARITY Act odds of passing dip despite Trump concessions",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/09/15/coinbase-stock-on-edge-as-clarity-act-odds-of-passing-dip-despite-trump-concessions/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2191c6286565b260",
+      "titleEn": "Meta stock outlook: can Muse AI and legal relief push shares above $700?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/15/meta-stock-outlook-can-muse-ai-and-legal-relief-push-shares-above-700/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c1df0843245ceb0d",
+      "titleEn": "Here's why Bank of America stock is slipping today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/15/heres-why-bank-of-america-stock-is-slipping-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4ce53d3cb47a20b3",
+      "titleEn": "Why Joby Aviation stock is falling as it nears a major inflection point",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/15/why-joby-aviation-stock-is-falling-as-it-nears-a-major-inflection-point/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c8dc02cb589ad75c",
+      "titleEn": "Silver price steadies, gold price falls as oil shock lifts rate pressure - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices are lower and spot silver prices are modestly higher in early U.S. trading Tuesday, as the Federal Reserve begins its two-day policy meeting with oil prices elevated, Treasury yields near multiyear highs and markets heavily positioned for a 25-basis-point rate hike. At the time of writing, spot gold was trading near $4,279.30 an ounce, down 0.44%, while spot silver was trading at $63.70, up 0.93% on the session. The latest positioning remains dominated by the post-CPI and post-PPI rate repricing. Last week’s producer and consumer inflation reports did not give the market enough evidence to challenge the Fed-hike trade, and the latest oil shock has pushed that bias further. Interest-rate futures are pricing an 86% to 93% probability of a 25-basis-point hike at this week’s Fed meeting, while the 10-year Treasury yield briefly reached 5.04%, its highest level since 2007, before easing back toward the 5% area. The key issue for gold is no longer only whether the Fed raises rates Wednesday, but whether Chair Kevin Warsh signals that the move is the start of a broader tightening cycle. That guidance would matter more for bullion than the expected hike itself because it would determine whether real-yield pressure extends into the fourth quarter. Gold and silver are trading as rate-sensitive assets first and safe havens second. Gold is hovering near the $4,283 support level from the latest technical setup, while silver is trying to stabilize above $62.34 after another round of yield-driven selling. Defensive demand from the Middle East is still present, but the stronger dollar, higher energy prices and the 5% Treasury-yield backdrop are keeping the metals complex under pressure. The short-term metals trade therefore depends on Fed guidance: a one-and-done hike would allow a relief bounce, while any signal of a longer tightening cycle would keep rallies capped.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-15/silver-price-steadies-gold-price-falls-oil-shock-lifts-rate-pressure-kitco",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4a109ec7e63e9aca",
+      "titleEn": "Etsy stock rebounds as Oppenheimer turns bullish: is it a safe buy now?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/15/etsy-stock-rebounds-as-oppenheimer-turns-bullish-is-it-a-safe-buy-now/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ed4b49b8826e3453",
+      "titleEn": "UBS cuts PT, analysts flag turnaround risks after Dave &amp; Buster's stock plunges",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/15/ubs-cuts-pt-analysts-flag-turnaround-risks-after-dave-busters-stock-plunges/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:172994cf6422793b",
+      "titleEn": "Gold price struggling to catch a bid as New York Fed's Empire State survey drops to 7.6",
+      "summaryEn": "(Kitco News) - Although gold prices are off their session lows, the market is struggling to attract safe-haven interest even as the U.S. manufacturing sector continues to struggle, according to the latest report from the New York Federal Reserve. The regional central bank reported Tuesday that its Empire State Manufacturing Survey dropped to a reading of 7.6, down sharply from August’s reading of 20.6. According to consensus estimates, economists were expecting a reading of 14.8. “On the heels of strong growth in August, New York State manufacturing activity continued to pick up modestly in September. Employment grew at a solid pace, while pricing pressures intensified,” said Richard Deitz, Economic Research Advisor at the New York Fed.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-15/gold-price-struggling-catch-bid-new-york-feds-empire-state-survey-drops-76",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:109f714ab77bbe3d",
+      "titleEn": "Three crypto stocks poised to benefit from CLARITY Act",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/09/15/three-crypto-stocks-poised-to-benefit-from-clarity-act/",
+      "published": null
+    },
     {
       "id": "stockanalysis:ca87643ad92cda4d",
       "titleEn": "TLT ETF slumps, inflows jump as US Treasury yields soar",
@@ -31,48 +175,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:e789935b12843909",
-      "titleEn": "KOSPI vs Nikkei: Asia's AI trade fractures ahead of Fed and BOJ decisions",
+      "id": "stockanalysis:52d97cc6ea5acc4a",
+      "titleEn": "Expensify Becomes One of the First Expense Management Tools Available in Claude for Small Business",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/15/kospi-vs-nikkei-asias-ai-trade-fractures-ahead-of-fed-and-boj-decisions/",
+      "link": "https://www.businesswire.com/news/home/20260915731546/en/Expensify-Becomes-One-of-the-First-Expense-Management-Tools-Available-in-Claude-for-Small-Business/",
       "published": null
     },
     {
-      "id": "stockanalysis:925747101004d18e",
-      "titleEn": "Why calls to slow AI may actually be good news for ServiceNow stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/15/why-calls-to-slow-ai-may-actually-be-good-news-for-servicenow-stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f1306236ab3538aa",
-      "titleEn": "Samsung and SK Hynix defy a 6% US chip rout: what is Korea seeing differently",
+      "id": "stockanalysis:151bc5e9f2f83242",
+      "titleEn": "General Mills Named to 3BL's 2026 100 Best Corporate Citizens List for 18th Consecutive Year",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/15/samsung-and-sk-hynix-defy-a-6-us-chip-rout-what-is-korea-seeing-differently/",
+      "link": "https://www.businesswire.com/news/home/20260915280887/en/General-Mills-Named-to-3BL%E2%80%99s-2026-100-Best-Corporate-Citizens-List-for-18th-Consecutive-Year/",
       "published": null
     },
     {
-      "id": "stockanalysis:932e9b275e6f44dd",
-      "titleEn": "Paymentus Scales Bill Payment Platform Across Additional Sectors",
-      "summaryEn": "Paymentus executives emphasized the company’s position as a specialized technology provider navigating bill payment modernization, agentic artificial intelligence and expansion into additional verticals during the Goldman Sachs 2026 Communacopia + Technology conference. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Paymentus CEO Dushyant Sharma framed bill presentment and payment processing as a technology platform play rather than a transactional or financial exercise. Sharma noted that consumer bill payments account for 60% of average household spend across 16 billion to 17 billion U.S. bills annually.",
+      "id": "stockanalysis:fbb3e6ab3d438eab",
+      "titleEn": "Interactive Brokers Integrates with X Cashtags",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/payments-innovation/2026/paymentus-scales-bill-payment-platform-across-additional-sectors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:85ac523dfde1dcd2",
-      "titleEn": "OpenAI Accelerates Device Plan With AI Camera Tech Acquisition",
-      "summaryEn": "OpenAI has acquired Glass Imaging , a startup founded by former Apple employees that is developing artificial intelligence-enhanced cameras for smartphones, The Wall Street Journal reported Monday (Sept. 14), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Glass Imaging is working on AI technology that enables smartphone cameras to produce image quality similar to that of DLSR cameras, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-accelerates-device-plan-with-ai-camera-tech-acquisition/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260914020547/en/Interactive-Brokers-Integrates-with-X-Cashtags/",
       "published": null
     }
   ]
