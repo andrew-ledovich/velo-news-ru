@@ -1,8 +1,71 @@
 {
-  "generatedAt": "2026-09-15T16:54:08.900665Z",
+  "generatedAt": "2026-09-15T19:54:11.881477Z",
   "sourceCount": 1,
   "count": 22,
   "items": [
+    {
+      "id": "stockanalysis:d595ee02e23846ce",
+      "titleEn": "Gold prices could rally a little on a Fed hike, but a lot on a hold, with $5,000/oz back on the table – Jesse Columbo",
+      "summaryEn": "(Kitco News) – If the Federal Reserve hikes interest rates by 25 basis points as expected on Wednesday afternoon, gold could still see a mild relief rally on the removal of lingering uncertainty. But if the central bank ignores market expectations and votes to hold rates steady, gold prices could surge higher as they begin a march back to $5000, according to Jesse Colombo, independent precious metals analyst and founder of the BubbleBubble Report. Columbo said investors were overly bearish last week in the runup to Friday’s August CPI release, and gold paid the price. “They were bracing for a very hot CPI number, and I think they went overboard with selling gold,” he said. “It came in a little hotter than expected – not as hot as it could be – but I think investors were too pessimistic going to the CPI report. Not that I blame them, of course, because you just don&#x27;t know how it&#x27;s going to play out. But there was an excessive amount of pessimism, and gold immediately had a sigh of relief. Then what happened was it became overbought pretty quickly, and oftentimes when that happens, it&#x27;ll take a breather, which is what we saw in the ensuing few hours.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-15/gold-prices-could-rally-little-fed-hike-lot-hold-5000oz-back-table-jesse",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6fd1c12c8a0bfe91",
+      "titleEn": "Why is AMD stock gaining today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/15/why-is-amd-stock-gaining-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:48213469505e8b0a",
+      "titleEn": "Enova Scraps Grasshopper Bank Acquisition After Pressure From State AGs",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Enova withdrew its applications with the Office of the Comptroller of the Currency (OCC) and the Federal Reserve Board of Governors , according to the release. The company said in the release that throughout the process, it worked constructively and transparently with regulators.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/enova-scraps-grasshopper-bank-acquisition-after-pressure-from-state-ags/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e7063aa2da7d699f",
+      "titleEn": "Wells Fargo cuts S&amp;P 500 target as AI worries mount in tech",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/15/wells-fargo-cuts-sp-500-target-as-ai-worries-mount-in-tech/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c14a1670be0b01bd",
+      "titleEn": "Why is Alphabet (GOOG) stock falling today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/15/why-is-alphabet-goog-stock-falling-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0941f31ea8db46b8",
+      "titleEn": "Gold could do well as Trump admin and Fed face a reckoning over interest rates - Commerzbank",
+      "summaryEn": "(Kitco News) - The gold market continues to see solid selling as U.S. bond yields push to their highest levels in nearly two decades, driven in part by expectations that persistent inflation pressures are forcing the Federal Reserve to raise interest rates. However, one international bank suggests that despite the selling pressure, the gold market remains fairly resilient and is attracting some underlying support. “Markets are now pricing in roughly a 90% probability of a Federal Reserve rate hike this week. Moreover, the renewed tensions in the Middle East have pushed up oil prices and, consequently, interest rate expectations more broadly, not just in the United States. Against this backdrop, it is somewhat surprising that gold prices have not come under more significant pressure so far,” said Thu Lan Nguyen, Head of Commodity Research at Commerzbank, in her latest research note.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-15/gold-could-do-well-trump-admin-and-fed-face-reckoning-over-interest-rates",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a61db353a303e0a3",
+      "titleEn": "Dan Niles admits 10-year could hit 6%: stay bullish on Meta stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/15/dan-niles-admits-10-year-could-hit-6-stay-bullish-on-meta-stock/",
+      "published": null
+    },
     {
       "id": "stockanalysis:f7ac4a94a0b60760",
       "titleEn": "Why SpaceX stock is down around 3% on Tuesday",
@@ -103,102 +166,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c8dc02cb589ad75c",
-      "titleEn": "Silver price steadies, gold price falls as oil shock lifts rate pressure - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices are lower and spot silver prices are modestly higher in early U.S. trading Tuesday, as the Federal Reserve begins its two-day policy meeting with oil prices elevated, Treasury yields near multiyear highs and markets heavily positioned for a 25-basis-point rate hike. At the time of writing, spot gold was trading near $4,279.30 an ounce, down 0.44%, while spot silver was trading at $63.70, up 0.93% on the session. The latest positioning remains dominated by the post-CPI and post-PPI rate repricing. Last week’s producer and consumer inflation reports did not give the market enough evidence to challenge the Fed-hike trade, and the latest oil shock has pushed that bias further. Interest-rate futures are pricing an 86% to 93% probability of a 25-basis-point hike at this week’s Fed meeting, while the 10-year Treasury yield briefly reached 5.04%, its highest level since 2007, before easing back toward the 5% area. The key issue for gold is no longer only whether the Fed raises rates Wednesday, but whether Chair Kevin Warsh signals that the move is the start of a broader tightening cycle. That guidance would matter more for bullion than the expected hike itself because it would determine whether real-yield pressure extends into the fourth quarter. Gold and silver are trading as rate-sensitive assets first and safe havens second. Gold is hovering near the $4,283 support level from the latest technical setup, while silver is trying to stabilize above $62.34 after another round of yield-driven selling. Defensive demand from the Middle East is still present, but the stronger dollar, higher energy prices and the 5% Treasury-yield backdrop are keeping the metals complex under pressure. The short-term metals trade therefore depends on Fed guidance: a one-and-done hike would allow a relief bounce, while any signal of a longer tightening cycle would keep rallies capped.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-15/silver-price-steadies-gold-price-falls-oil-shock-lifts-rate-pressure-kitco",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4a109ec7e63e9aca",
-      "titleEn": "Etsy stock rebounds as Oppenheimer turns bullish: is it a safe buy now?",
+      "id": "stockanalysis:5a5567d5471c24b6",
+      "titleEn": "Applebee's® and IHOP® Continue Nationwide Growth With New Dual-Branded Restaurant in San Antonio, TX",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/15/etsy-stock-rebounds-as-oppenheimer-turns-bullish-is-it-a-safe-buy-now/",
+      "link": "https://www.businesswire.com/news/home/20260915503593/en/Applebee%E2%80%99s%C2%AE-and-IHOP%C2%AE-Continue-Nationwide-Growth-With-New-Dual-Branded-Restaurant-in-San-Antonio-TX/",
       "published": null
     },
     {
-      "id": "stockanalysis:ed4b49b8826e3453",
-      "titleEn": "UBS cuts PT, analysts flag turnaround risks after Dave &amp; Buster's stock plunges",
+      "id": "stockanalysis:ce50a3567957c164",
+      "titleEn": "New Mexico Cybersecurity Firm “CyberSandia” Discusses Public Sector Cyberthreats with State Cybersecurity Leaders",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/15/ubs-cuts-pt-analysts-flag-turnaround-risks-after-dave-busters-stock-plunges/",
+      "link": "https://www.businesswire.com/news/home/20260915073116/en/New-Mexico-Cybersecurity-Firm-%E2%80%9CCyberSandia%E2%80%9D-Discusses-Public-Sector-Cyberthreats-with-State-Cybersecurity-Leaders/",
       "published": null
     },
     {
-      "id": "stockanalysis:172994cf6422793b",
-      "titleEn": "Gold price struggling to catch a bid as New York Fed's Empire State survey drops to 7.6",
-      "summaryEn": "(Kitco News) - Although gold prices are off their session lows, the market is struggling to attract safe-haven interest even as the U.S. manufacturing sector continues to struggle, according to the latest report from the New York Federal Reserve. The regional central bank reported Tuesday that its Empire State Manufacturing Survey dropped to a reading of 7.6, down sharply from August’s reading of 20.6. According to consensus estimates, economists were expecting a reading of 14.8. “On the heels of strong growth in August, New York State manufacturing activity continued to pick up modestly in September. Employment grew at a solid pace, while pricing pressures intensified,” said Richard Deitz, Economic Research Advisor at the New York Fed.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-15/gold-price-struggling-catch-bid-new-york-feds-empire-state-survey-drops-76",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:109f714ab77bbe3d",
-      "titleEn": "Three crypto stocks poised to benefit from CLARITY Act",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/15/three-crypto-stocks-poised-to-benefit-from-clarity-act/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ca87643ad92cda4d",
-      "titleEn": "TLT ETF slumps, inflows jump as US Treasury yields soar",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/15/tlt-etf-slumps-inflows-jump-as-us-treasury-yields-soar/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6bffbd919fb888c2",
-      "titleEn": "AI development slowdown: what it means for Nvidia, Micron and other chip stocks",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/15/ai-development-slowdown-what-it-means-for-nvidia-micron-and-other-chip-stocks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8bc72aa2fb903373",
-      "titleEn": "FTSE 100 tumbles as oil shock sends UK borrowing costs back to 1998",
+      "id": "stockanalysis:3466fa0d105c619b",
+      "titleEn": "AGBT Announces 2026 Precision Health Next Gen Leadership Award Recipients",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/15/ftse-100-tumbles-as-oil-shock-sends-uk-borrowing-costs-back-to-1998/",
+      "link": "https://www.businesswire.com/news/home/20260915778485/en/AGBT-Announces-2026-Precision-Health-Next-Gen-Leadership-Award-Recipients/",
       "published": null
     },
     {
-      "id": "stockanalysis:52d97cc6ea5acc4a",
-      "titleEn": "Expensify Becomes One of the First Expense Management Tools Available in Claude for Small Business",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260915731546/en/Expensify-Becomes-One-of-the-First-Expense-Management-Tools-Available-in-Claude-for-Small-Business/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:151bc5e9f2f83242",
-      "titleEn": "General Mills Named to 3BL's 2026 100 Best Corporate Citizens List for 18th Consecutive Year",
+      "id": "stockanalysis:c96ec7ae9ffa47b8",
+      "titleEn": "Elastic Security Achieves the Only Perfect Score in the 2026 AV-Comparatives Endpoint Prevention and Response Test",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260915280887/en/General-Mills-Named-to-3BL%E2%80%99s-2026-100-Best-Corporate-Citizens-List-for-18th-Consecutive-Year/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fbb3e6ab3d438eab",
-      "titleEn": "Interactive Brokers Integrates with X Cashtags",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260914020547/en/Interactive-Brokers-Integrates-with-X-Cashtags/",
+      "link": "https://www.businesswire.com/news/home/20260915214066/en/Elastic-Security-Achieves-the-Only-Perfect-Score-in-the-2026-AV-Comparatives-Endpoint-Prevention-and-Response-Test/",
       "published": null
     }
   ]
