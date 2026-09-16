@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-09-16T05:26:51.236165Z",
+  "generatedAt": "2026-09-16T10:07:57.344790Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:9533a1b828b3a4e1",
+      "titleEn": "Is Oracle stock a buy after its 14% decline in the last five sessions?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/16/is-oracle-stock-a-buy-after-its-14-decline-in-the-last-five-sessions/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:40032d6d26739e7d",
+      "titleEn": "Intel stock jumps 5% as SK Hynix talks put its foundry revival back in play",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/16/intel-stock-jumps-5-as-sk-hynix-talks-put-its-foundry-revival-back-in-play/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bbb3a948b6bf3874",
+      "titleEn": "Micron, Intel, two other stocks to lead pack as BofA sees $3.2T semis market by 2030",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/16/micron-intel-two-other-stocks-to-lead-pack-as-bofa-sees-3-2t-semis-market-by-2030/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5f6196d83949ad99",
+      "titleEn": "Here's why Micron stock looks unusually cheap before its next earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/16/heres-why-micron-stock-looks-unusually-cheap-before-its-next-earnings/",
+      "published": null
+    },
     {
       "id": "stockanalysis:8c7145432e59d369",
       "titleEn": "Samsung stock is ignoring a $16.5 billion Tesla catalyst: should investors worry",
@@ -49,111 +85,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:d595ee02e23846ce",
-      "titleEn": "Gold prices could rally a little on a Fed hike, but a lot on a hold, with $5,000/oz back on the table – Jesse Columbo",
-      "summaryEn": "(Kitco News) – If the Federal Reserve hikes interest rates by 25 basis points as expected on Wednesday afternoon, gold could still see a mild relief rally on the removal of lingering uncertainty. But if the central bank ignores market expectations and votes to hold rates steady, gold prices could surge higher as they begin a march back to $5000, according to Jesse Colombo, independent precious metals analyst and founder of the BubbleBubble Report. Columbo said investors were overly bearish last week in the runup to Friday’s August CPI release, and gold paid the price. “They were bracing for a very hot CPI number, and I think they went overboard with selling gold,” he said. “It came in a little hotter than expected – not as hot as it could be – but I think investors were too pessimistic going to the CPI report. Not that I blame them, of course, because you just don&#x27;t know how it&#x27;s going to play out. But there was an excessive amount of pessimism, and gold immediately had a sigh of relief. Then what happened was it became overbought pretty quickly, and oftentimes when that happens, it&#x27;ll take a breather, which is what we saw in the ensuing few hours.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-15/gold-prices-could-rally-little-fed-hike-lot-hold-5000oz-back-table-jesse",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6fd1c12c8a0bfe91",
-      "titleEn": "Why is AMD stock gaining today?",
+      "id": "stockanalysis:aafc1db9bbfc3d98",
+      "titleEn": "WisdomTree Announces Exchange-Traded Fund (ETF) Share Split",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/15/why-is-amd-stock-gaining-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:48213469505e8b0a",
-      "titleEn": "Enova Scraps Grasshopper Bank Acquisition After Pressure From State AGs",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Enova withdrew its applications with the Office of the Comptroller of the Currency (OCC) and the Federal Reserve Board of Governors , according to the release. The company said in the release that throughout the process, it worked constructively and transparently with regulators.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/enova-scraps-grasshopper-bank-acquisition-after-pressure-from-state-ags/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e7063aa2da7d699f",
-      "titleEn": "Wells Fargo cuts S&amp;P 500 target as AI worries mount in tech",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/15/wells-fargo-cuts-sp-500-target-as-ai-worries-mount-in-tech/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b8bc64f7cc3031b9",
-      "titleEn": "Galderma's Restylane® Volyme™ Demonstrates High Effectiveness, Satisfaction and a Robust Safety Profile in Chinese Patients With Temple Hollowing",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260915734207/en/Galderma%E2%80%99s-Restylane%C2%AE-Volyme%E2%84%A2-Demonstrates-High-Effectiveness-Satisfaction-and-a-Robust-Safety-Profile-in-Chinese-Patients-With-Temple-Hollowing/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f118f98b6a78f83c",
-      "titleEn": "Semtech SurgeSwitch Protects Cobots from Surge and ESD",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260915242022/en/Semtech-SurgeSwitch-Protects-Cobots-from-Surge-and-ESD/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0028ef01b98801dd",
-      "titleEn": "FUJIFILM Business Innovation Recognizes 42 Global Achievements in Print Excellence at the Innovation Print Awards 2026 Global",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260915245944/en/FUJIFILM-Business-Innovation-Recognizes-42-Global-Achievements-in-Print-Excellence-at-the-Innovation-Print-Awards-2026-Global/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6c871c704c67da97",
-      "titleEn": "American Savings Bank Announces Pricing of Upsized Initial Public Offering",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260915451689/en/American-Savings-Bank-Announces-Pricing-of-Upsized-Initial-Public-Offering/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0423d2a5491364be",
-      "titleEn": "8x8 Names Fazpass 2026 CPaaS Partner of the Year as Six-Year Alliance Powers Authentication for 50+ Enterprises",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260915647699/en/8x8-Names-Fazpass-2026-CPaaS-Partner-of-the-Year-as-Six-Year-Alliance-Powers-Authentication-for-50-Enterprises/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:73928c0aad12d617",
-      "titleEn": "Nippon Electric Glass's IR Transmitting Glass “FI-02” Adopted for Heimann Sensor Lens Unit, Enabling a 120° × 68° Field of View",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260915332579/en/Nippon-Electric-Glass%E2%80%99s-IR-Transmitting-Glass-%E2%80%9CFI-02%E2%80%9D-Adopted-for-Heimann-Sensor-Lens-Unit-Enabling-a-120%C2%B0-%C3%97-68%C2%B0-Field-of-View/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4d5d3dbe789fa0d9",
-      "titleEn": "Interactive Brokers Introduces a More Cost-Efficient Approach to Margin Trading in Japan",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260915888234/en/Interactive-Brokers-Introduces-a-More-Cost-Efficient-Approach-to-Margin-Trading-in-Japan/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cb9323c7b8d0ced6",
-      "titleEn": "BWIN Investors Have Opportunity to Join The Baldwin Insurance Group, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260915456885/en/BWIN-Investors-Have-Opportunity-to-Join-The-Baldwin-Insurance-Group-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "topic": "CRYPTO",
+      "link": "https://www.businesswire.com/news/home/20260916031389/en/WisdomTree-Announces-Exchange-Traded-Fund-ETF-Share-Split/",
       "published": null
     }
   ]
