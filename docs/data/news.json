@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-16T21:41:40.145339Z",
+  "generatedAt": "2026-09-16T23:50:16.669866Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:69e2fc0c563e7086",
+      "titleEn": "Gold, silver prices fall as Warsh signals more tightening ahead - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in late-afternoon U.S. trading Wednesday, after the Federal Reserve raised interest rates for the first time since 2023 and signaled that more tightening may be needed to contain inflation. At the time of writing, spot gold was trading near $4,261.80 an ounce, down 0.72%, while spot silver was trading at $62.82, down 1.16% on the session. North American equity markets closed lower after Fed Chair Kevin Warsh’s press conference pushed yields and the dollar higher. The S&P 500 fell 33.92 points, or 0.4%, to 7,551.81, the Dow Jones Industrial Average dropped 631.21 points, or 1.2%, to 51,461.90, the Nasdaq Composite slipped 3.15 points, or less than 0.1%, to 25,978.42, and the Russell 2000 fell 11.47 points, or 0.4%, to 2,858.81. European markets finished higher before the Fed decision, with the STOXX Europe 600 up 0.46% to 637.09. London’s FTSE 100 rose 0.28% to 10,688.47, Germany’s DAX gained 0.61% to 25,558.88, France’s CAC 40 added 0.62% to 8,140.59, and Italy’s FTSE MIB climbed 0.80% to 51,969.12. The latest positioning shifted back against precious metals after the Fed raised the target range for the federal funds rate by 25 basis points to 3.75% to 4.00% and the updated projections showed 16 of 18 officials saw at least one more hike by year-end. Warsh said inflation remains too high, and the market read the decision as more than a one-and-done response to oil-driven price pressure. The two-year Treasury yield rose to about 4.734%, the 10-year yield moved back to 5.00%, and the dollar index climbed to 100.25. Thursday’s jobless claims, Philadelphia Fed manufacturing index and housing starts now become the next checks on whether the economy is strong enough to absorb tighter policy. For gold, the message is rate-negative: the expected hike was priced, but the dot plot and Warsh’s tone kept the real-yield channel in control.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-16/gold-silver-prices-fall-warsh-signals-more-tightening-ahead-kitco-pm-report",
+      "published": null
+    },
     {
       "id": "stockanalysis:cc8106615f5637f0",
       "titleEn": "Anthropic Consolidates Specialized Apps Into One Unified Claude Platform",
@@ -94,48 +103,66 @@
       "published": null
     },
     {
-      "id": "stockanalysis:616a488f50fa3a97",
-      "titleEn": "Nvidia and Google Launch Energy Alliance to Prevent AI Grid Overload",
-      "summaryEn": "Nvidia , Google and Emerald AI launched an alliance dedicated to promoting flexible artificial intelligence data centers , Nvidia said in a Wednesday (Sept. 16) blog post. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); In addition to the founding members, the AI Energy Management Alliance (AEMA) will include partners from across the computing and power ecosystem, including AI platforms, infrastructure providers, data center operators, technology companies, power producers, utilities and regional grid operators, according to the post.",
+      "id": "stockanalysis:cb8bfb811aa3dd9a",
+      "titleEn": "SPECS Make Computing More Human with New Experiences, Partnerships, and SPECS Intelligence",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260916827043/en/SPECS-Make-Computing-More-Human-with-New-Experiences-Partnerships-and-SPECS-Intelligence/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d1a4eb3cc94e5a56",
+      "titleEn": "Snap Inc. Introduces SPECS Intelligence, an Anticipatory AI Service",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-google-launch-energy-alliance-prevent-ai-grid-overload/",
+      "link": "https://www.businesswire.com/news/home/20260916422165/en/Snap-Inc.-Introduces-SPECS-Intelligence-an-Anticipatory-AI-Service/",
       "published": null
     },
     {
-      "id": "stockanalysis:2fff09ddf6da2de9",
-      "titleEn": "Rick Rule says gold stocks are cheap, but higher prices bring new risks",
-      "summaryEn": "(Kitco News) - Rick Rule still sees value in gold stocks. He is less convinced that investors are doing enough work to separate that value from a rising market. Speaking with Kitco Mining on Sept. 9, the President and CEO of Rule Investment Media said gold equities remain unusually cheap compared with the metal, even after a stronger bid returned to the mining sector. Rule said that with gold prices moving higher, “gold companies are selling at the greatest discount to net present value relative to the gold price than they ever have.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-16/rick-rule-says-gold-stocks-are-cheap-higher-prices-bring-new-risks",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5acd7c21d6b04e20",
-      "titleEn": "Why are Intel and AMD stocks rising on Wednesday?",
+      "id": "stockanalysis:9a3a0d96350eece0",
+      "titleEn": "GUTS Stockholders Have Rights – If you Lost Money Investing in Fractyl Health, Inc. Contact Robbins LLP for Information About Recovering Your Losses",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/16/why-are-intel-and-amd-stocks-rising-on-wednesday/",
+      "link": "https://www.businesswire.com/news/home/20260916265777/en/GUTS-Stockholders-Have-Rights-%E2%80%93-If-you-Lost-Money-Investing-in-Fractyl-Health-Inc.-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
       "published": null
     },
     {
-      "id": "stockanalysis:7cf60aa6a55b99d5",
-      "titleEn": "AN2 Therapeutics, Inc. Reports Inducement Grants under Listing Rule 5635(c)(4)",
+      "id": "stockanalysis:a172efaf1c0b6c03",
+      "titleEn": "CORRECTING and REPLACING Agilent Announces Cash Dividend of 25.5 Cents per Share",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260916973446/en/AN2-Therapeutics-Inc.-Reports-Inducement-Grants-under-Listing-Rule-5635-c-4/",
+      "link": "https://www.businesswire.com/news/home/20260916777704/en/CORRECTING-and-REPLACING-Agilent-Announces-Cash-Dividend-of-25.5-Cents-per-Share/",
       "published": null
     },
     {
-      "id": "stockanalysis:b5e99e5c462e4035",
-      "titleEn": "Pan American Silver Reports Mineral Reserves and Mineral Resources as at June 30, 2026",
+      "id": "stockanalysis:0b78570174901471",
+      "titleEn": "Mechanics Bank Completes Sale of Substantial Majority of Runoff Auto Loan Portfolio to Bank of America",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260916541276/en/Pan-American-Silver-Reports-Mineral-Reserves-and-Mineral-Resources-as-at-June-30-2026/",
+      "link": "https://www.businesswire.com/news/home/20260916320600/en/Mechanics-Bank-Completes-Sale-of-Substantial-Majority-of-Runoff-Auto-Loan-Portfolio-to-Bank-of-America/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:832e339e10e143bc",
+      "titleEn": "30 Organizations, 7 Nations, 1 Problem: My Normative Enters Next Phase to Address the Trillion Dollar Global Women's Health Equity Gap",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260916608428/en/30-Organizations-7-Nations-1-Problem-My-Normative-Enters-Next-Phase-to-Address-the-Trillion-Dollar-Global-Women%E2%80%99s-Health-Equity-Gap/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fcfc32d898bf8f0c",
+      "titleEn": "GDDY Stockholders Have Rights – If You Lost Money Investing in GoDaddy Inc. Contact Robbins LLP for Information About Recovering Your Losses",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260916953613/en/GDDY-Stockholders-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-GoDaddy-Inc.-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
       "published": null
     }
   ]
