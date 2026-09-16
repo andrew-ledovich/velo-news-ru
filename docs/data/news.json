@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-16T00:46:51.568782Z",
+  "generatedAt": "2026-09-16T05:26:51.236165Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:8c7145432e59d369",
+      "titleEn": "Samsung stock is ignoring a $16.5 billion Tesla catalyst: should investors worry",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/09/16/samsung-stock-is-ignoring-a-16-5-billion-tesla-catalyst-should-investors-worry/",
+      "published": null
+    },
     {
       "id": "stockanalysis:6b9e35c2dd56ba1e",
       "titleEn": "Nike's S&amp;P Exit Is a Warning for Every Consumer Brand",
@@ -76,48 +85,75 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c14a1670be0b01bd",
-      "titleEn": "Why is Alphabet (GOOG) stock falling today?",
+      "id": "stockanalysis:b8bc64f7cc3031b9",
+      "titleEn": "Galderma's Restylane® Volyme™ Demonstrates High Effectiveness, Satisfaction and a Robust Safety Profile in Chinese Patients With Temple Hollowing",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/15/why-is-alphabet-goog-stock-falling-today/",
+      "link": "https://www.businesswire.com/news/home/20260915734207/en/Galderma%E2%80%99s-Restylane%C2%AE-Volyme%E2%84%A2-Demonstrates-High-Effectiveness-Satisfaction-and-a-Robust-Safety-Profile-in-Chinese-Patients-With-Temple-Hollowing/",
       "published": null
     },
     {
-      "id": "stockanalysis:0941f31ea8db46b8",
-      "titleEn": "Gold could do well as Trump admin and Fed face a reckoning over interest rates - Commerzbank",
-      "summaryEn": "(Kitco News) - The gold market continues to see solid selling as U.S. bond yields push to their highest levels in nearly two decades, driven in part by expectations that persistent inflation pressures are forcing the Federal Reserve to raise interest rates. However, one international bank suggests that despite the selling pressure, the gold market remains fairly resilient and is attracting some underlying support. “Markets are now pricing in roughly a 90% probability of a Federal Reserve rate hike this week. Moreover, the renewed tensions in the Middle East have pushed up oil prices and, consequently, interest rate expectations more broadly, not just in the United States. Against this backdrop, it is somewhat surprising that gold prices have not come under more significant pressure so far,” said Thu Lan Nguyen, Head of Commodity Research at Commerzbank, in her latest research note.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-15/gold-could-do-well-trump-admin-and-fed-face-reckoning-over-interest-rates",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a61db353a303e0a3",
-      "titleEn": "Dan Niles admits 10-year could hit 6%: stay bullish on Meta stock",
+      "id": "stockanalysis:f118f98b6a78f83c",
+      "titleEn": "Semtech SurgeSwitch Protects Cobots from Surge and ESD",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/15/dan-niles-admits-10-year-could-hit-6-stay-bullish-on-meta-stock/",
+      "link": "https://www.businesswire.com/news/home/20260915242022/en/Semtech-SurgeSwitch-Protects-Cobots-from-Surge-and-ESD/",
       "published": null
     },
     {
-      "id": "stockanalysis:cf09cc46eeb5b73b",
-      "titleEn": "First Solar Recalibrates TOPCon IP Enforcement Strategy Following Section 232 Action",
+      "id": "stockanalysis:0028ef01b98801dd",
+      "titleEn": "FUJIFILM Business Innovation Recognizes 42 Global Achievements in Print Excellence at the Innovation Print Awards 2026 Global",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260915179005/en/First-Solar-Recalibrates-TOPCon-IP-Enforcement-Strategy-Following-Section-232-Action/",
+      "link": "https://www.businesswire.com/news/home/20260915245944/en/FUJIFILM-Business-Innovation-Recognizes-42-Global-Achievements-in-Print-Excellence-at-the-Innovation-Print-Awards-2026-Global/",
       "published": null
     },
     {
-      "id": "stockanalysis:1819635a24b8c2f3",
-      "titleEn": "Choice Properties Real Estate Investment Trust Announces Issuance of $300 million of Series Y Senior Unsecured Debentures",
+      "id": "stockanalysis:6c871c704c67da97",
+      "titleEn": "American Savings Bank Announces Pricing of Upsized Initial Public Offering",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260914577690/en/Choice-Properties-Real-Estate-Investment-Trust-Announces-Issuance-of-300-million-of-Series-Y-Senior-Unsecured-Debentures/",
+      "link": "https://www.businesswire.com/news/home/20260915451689/en/American-Savings-Bank-Announces-Pricing-of-Upsized-Initial-Public-Offering/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0423d2a5491364be",
+      "titleEn": "8x8 Names Fazpass 2026 CPaaS Partner of the Year as Six-Year Alliance Powers Authentication for 50+ Enterprises",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260915647699/en/8x8-Names-Fazpass-2026-CPaaS-Partner-of-the-Year-as-Six-Year-Alliance-Powers-Authentication-for-50-Enterprises/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:73928c0aad12d617",
+      "titleEn": "Nippon Electric Glass's IR Transmitting Glass “FI-02” Adopted for Heimann Sensor Lens Unit, Enabling a 120° × 68° Field of View",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260915332579/en/Nippon-Electric-Glass%E2%80%99s-IR-Transmitting-Glass-%E2%80%9CFI-02%E2%80%9D-Adopted-for-Heimann-Sensor-Lens-Unit-Enabling-a-120%C2%B0-%C3%97-68%C2%B0-Field-of-View/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4d5d3dbe789fa0d9",
+      "titleEn": "Interactive Brokers Introduces a More Cost-Efficient Approach to Margin Trading in Japan",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260915888234/en/Interactive-Brokers-Introduces-a-More-Cost-Efficient-Approach-to-Margin-Trading-in-Japan/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cb9323c7b8d0ced6",
+      "titleEn": "BWIN Investors Have Opportunity to Join The Baldwin Insurance Group, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260915456885/en/BWIN-Investors-Have-Opportunity-to-Join-The-Baldwin-Insurance-Group-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
