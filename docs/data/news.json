@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-15T22:30:57.515861Z",
+  "generatedAt": "2026-09-16T00:46:51.568782Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:6b9e35c2dd56ba1e",
+      "titleEn": "Nike's S&amp;P Exit Is a Warning for Every Consumer Brand",
+      "summaryEn": "Nike’s decline shows consumers are harder to own. More brands and channels are fragmenting discretionary spending. AI and payments are accelerating the shift. Better discovery and frictionless checkout make switching brands easier. Retail competition is moving upstream. Brands increasingly need to win AI-driven discovery before they can win the transaction.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/retail/2026/nikes-sp-exit-is-a-warning-for-every-consumer-brand/",
+      "published": null
+    },
     {
       "id": "stockanalysis:48dce836ac7774e6",
       "titleEn": "OpenAI Defies Antitrust Concerns to Join Rivals on AI Safety",
@@ -94,57 +103,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:f7ac4a94a0b60760",
-      "titleEn": "Why SpaceX stock is down around 3% on Tuesday",
+      "id": "stockanalysis:cf09cc46eeb5b73b",
+      "titleEn": "First Solar Recalibrates TOPCon IP Enforcement Strategy Following Section 232 Action",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/15/why-spacex-stock-is-down-around-3-on-tuesday/",
+      "link": "https://www.businesswire.com/news/home/20260915179005/en/First-Solar-Recalibrates-TOPCon-IP-Enforcement-Strategy-Following-Section-232-Action/",
       "published": null
     },
     {
-      "id": "stockanalysis:daea7479e2458e24",
-      "titleEn": "Qualcomm stock rises 3.9% as AWS deal boosts data center outlook",
+      "id": "stockanalysis:1819635a24b8c2f3",
+      "titleEn": "Choice Properties Real Estate Investment Trust Announces Issuance of $300 million of Series Y Senior Unsecured Debentures",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/15/qualcomm-stock-rises-3-9-as-aws-deal-boosts-data-center-outlook/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:09e9f70c9715a0d6",
-      "titleEn": "Texas Family Care Network Names Rocky Hensarling CEO as Organization Expands Community-Based Care Leadership",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260915615946/en/Texas-Family-Care-Network-Names-Rocky-Hensarling-CEO-as-Organization-Expands-Community-Based-Care-Leadership/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:726161f37f4fdfcd",
-      "titleEn": "AVEX Stockholders Have Rights – If You Lost Money Investing in AEVEX Corp. Contact Robbins LLP for Information About Recovering Your Losses",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260915113192/en/AVEX-Stockholders-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-AEVEX-Corp.-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ac65dbe24c00d426",
-      "titleEn": "Halliburton Third Quarter 2026 Earnings Conference Call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260915021156/en/Halliburton-Third-Quarter-2026-Earnings-Conference-Call/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c3804f101bce2b68",
-      "titleEn": "KBRA Assigns Preliminary Ratings to Sequoia Mortgage Trust 2026-12 (SEMT 2026-12)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260915803366/en/KBRA-Assigns-Preliminary-Ratings-to-Sequoia-Mortgage-Trust-2026-12-SEMT-2026-12/",
+      "link": "https://www.businesswire.com/news/home/20260914577690/en/Choice-Properties-Real-Estate-Investment-Trust-Announces-Issuance-of-300-million-of-Series-Y-Senior-Unsecured-Debentures/",
       "published": null
     }
   ]
