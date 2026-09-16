@@ -1,8 +1,98 @@
 {
-  "generatedAt": "2026-09-16T10:07:57.344790Z",
+  "generatedAt": "2026-09-16T14:55:47.311541Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:c87a2fb5890062d0",
+      "titleEn": "Anthropic IPO will benefit these two mega-cap stocks",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/16/anthropic-ipo-will-benefit-these-two-mega-cap-stocks/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:24040739967f99dc",
+      "titleEn": "India's gold imports fall 58% in August, silver imports rise 127%",
+      "summaryEn": "(Kitco News) – India’s gold imports fell dramatically last month even as silver shipments surged, the Ministry of Commerce announced on Tuesday. Gold imports dropped by 57.75% to $2.3 billion in August, the data showed. However, silver imports actually rose by 127% to $1.02 billion during the month. In May, the Indian government increased import duties on precious metals from 6% to 15%. Cumulatively during April-August 2026-27, gold imports grew by 3.38% to $17.47 billion, while silver imports declined 8.81% to $1.74 billion.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-16/indias-gold-imports-fall-58-august-silver-imports-rise-127",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fed08a317f423f10",
+      "titleEn": "Amazon Plans Same-Day Delivery Hubs Near 80% of US Prime Members",
+      "summaryEn": "Amazon plans to increase its number of same-day delivery hubs from 85 to more than 1,000 by 2031, Seeking Alpha reported Wednesday (Sept. 16), citing a paywalled article by Business Insider . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Amazon internal planning documents show that the initiative, dubbed Project Mercury, would place same-day delivery hubs within 10 miles of 80% of U.S. Prime subscribers, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.pymnts.com/news/delivery/2026/amazon-plans-same-day-delivery-hubs-near-80percent-united-states-prime-members/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:67d2c0050e0fc23d",
+      "titleEn": "SK Hynix says 'no plans have been confirmed' for deal with Intel",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/16/sk-hynix-says-no-plans-have-been-confirmed-for-deal-with-intel/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5c0ce76b2f0c4321",
+      "titleEn": "Gold, silver prices rise as oil eases before Fed decision - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Wednesday, as softer crude oil prices and a modest easing in Treasury-yield pressure helped precious metals recover ahead of the Federal Reserve’s rate decision. At the time of writing, spot gold was trading near $4,342.50 an ounce, up 1.16%, while spot silver was trading at $64.58, up 1.62% on the session. The latest positioning remains centered on the Fed’s 2 p.m. ET policy decision, Chair Kevin Warsh’s press conference and the updated rate projections. August retail sales rose 1.2%, above expectations for a 0.7% gain, while the control group rose 1.4%, keeping the consumer side of the economy firmer than expected. The data reinforce the case for a 25-basis-point hike today, but that move is already largely priced, with markets showing roughly 90% to 93% odds of an increase. The more important risk for gold is the path beyond today. A one-and-done hike would ease some real-yield pressure, while a signal that additional hikes are likely would keep the 10-year Treasury yield near the 5% area and cap rallies in non-yielding metals. The NAHB housing market index at 10 a.m. ET is the remaining data point before the Fed announcement. Gold and silver are trading better because oil and yields have stopped rising for now, not because the rate risk has disappeared. Gold has rebounded from the $4,283 support zone and is pressing toward the $4,354 resistance level, while silver has reclaimed the $64.40 area and is testing the next upside band near $65.28. The metals complex remains exposed to Warsh’s tone. If the Fed frames today’s expected hike as a limited response to oil-driven inflation, gold and silver can extend the relief move. If the updated projections imply a broader tightening cycle, the dollar and yields will likely regain control.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-16/gold-silver-prices-rise-oil-eases-fed-decision-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8b065c83a2ebf312",
+      "titleEn": "SpaceX stock outlook: where will SPCX be in the next five years?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/16/spacex-stock-outlook-where-will-spcx-be-in-the-next-five-years/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5a0031c57aa7d0e3",
+      "titleEn": "Gold price trades at $4,340/oz after retail sales rise 1.2% in August",
+      "summaryEn": "(Kitco News) - The gold market is trading near session highs after the latest data showed American consumers’ spending rising more than expected last month. U.S. retail sales rose 1.2% in August following an unrevised reading of -0.6% in July, the U.S. Commerce Department announced on Wednesday. The data was better than expectations, as the consensus of economists projected a 0.8% increase in August’s headline number.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-16/gold-price-trades-4340oz-after-retail-sales-rise-12-august",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:369409cfef5d35ad",
+      "titleEn": "Transocean stock jumps as it strikes a new $80M deal: is it a good buy?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/16/transocean-stock-jumps-as-it-strikes-a-new-80m-deal-is-it-a-good-buy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:660dc2e1c12ceb9f",
+      "titleEn": "Nvidia, SanDisk, AMD stocks rebound: is AI panic trade already cracking",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/16/nvidia-sandisk-amd-stocks-rebound-is-ai-panic-trade-already-cracking/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e2c414c32f59481b",
+      "titleEn": "OpenAI Eyes $1.2 Trillion Valuation in Pre-IPO Funding Round",
+      "summaryEn": "OpenAI is reportedly weighing a funding round at a $1.2 trillion valuation before going public. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The artificial intelligence (AI) startup has held early discussions with investors about a private funding round ahead of its planned initial public offering (IPO), according to a Financial Times (FT) report Tuesday (Sept. 15) citing sources familiar with the matter.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-eyes-1-2-trillion-valuation-in-pre-ipo-funding-round/",
+      "published": null
+    },
     {
       "id": "stockanalysis:9533a1b828b3a4e1",
       "titleEn": "Is Oracle stock a buy after its 14% decline in the last five sessions?",
@@ -22,75 +112,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:bbb3a948b6bf3874",
-      "titleEn": "Micron, Intel, two other stocks to lead pack as BofA sees $3.2T semis market by 2030",
+      "id": "stockanalysis:d2c33c54807535e4",
+      "titleEn": "Light &amp; Wonder Announces Transition of SciPlay CEO",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/16/micron-intel-two-other-stocks-to-lead-pack-as-bofa-sees-3-2t-semis-market-by-2030/",
+      "link": "https://www.businesswire.com/news/home/20260916184852/en/Light-Wonder-Announces-Transition-of-SciPlay-CEO/",
       "published": null
     },
     {
-      "id": "stockanalysis:5f6196d83949ad99",
-      "titleEn": "Here's why Micron stock looks unusually cheap before its next earnings",
+      "id": "stockanalysis:264ed8dbd8a508b0",
+      "titleEn": "SmartCentres Declares Distribution for September 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/16/heres-why-micron-stock-looks-unusually-cheap-before-its-next-earnings/",
+      "link": "https://www.businesswire.com/news/home/20260914840991/en/SmartCentres-Declares-Distribution-for-September-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:8c7145432e59d369",
-      "titleEn": "Samsung stock is ignoring a $16.5 billion Tesla catalyst: should investors worry",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/09/16/samsung-stock-is-ignoring-a-16-5-billion-tesla-catalyst-should-investors-worry/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6b9e35c2dd56ba1e",
-      "titleEn": "Nike's S&amp;P Exit Is a Warning for Every Consumer Brand",
-      "summaryEn": "Nike’s decline shows consumers are harder to own. More brands and channels are fragmenting discretionary spending. AI and payments are accelerating the shift. Better discovery and frictionless checkout make switching brands easier. Retail competition is moving upstream. Brands increasingly need to win AI-driven discovery before they can win the transaction.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/retail/2026/nikes-sp-exit-is-a-warning-for-every-consumer-brand/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:48dce836ac7774e6",
-      "titleEn": "OpenAI Defies Antitrust Concerns to Join Rivals on AI Safety",
-      "summaryEn": "OpenAI Global Policy Chief Chris Lehane said Tuesday (Sept. 15) that OpenAI, Anthropic and Google DeepMind have been working together for several weeks to address artificial intelligence safety issues, Bloomberg reported. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Speaking at a briefing in Washington, Lehane said OpenAI does not see any need for an antitrust waiver to coordinate safety efforts. He said there are precedents for such cooperation, such as in the airline industry, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-defies-antitrust-concerns-join-rivals-ai-safety/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:18cc80a6935abf9e",
-      "titleEn": "Gold, silver prices settle lower as Fed hike looks locked in - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices settled lower in late-afternoon U.S. trading Tuesday, as elevated crude oil prices, a firmer U.S. dollar and a 10-year Treasury yield near 5% kept pressure on non-yielding metals ahead of Wednesday’s Federal Reserve decision. Front-month Comex gold settled at $4,291.60 an ounce, down 0.43%, while front-month silver settled at $63.236 an ounce, down 0.4%. North American equity markets closed lower as oil and yields weighed on risk appetite. The S&P 500 fell 34.25 points, or 0.4%, to 7,585.73, the Dow Jones Industrial Average dropped 328.09 points, or 0.6%, to 52,093.11, the Nasdaq Composite lost 204.84 points, or 0.8%, to 25,981.57, and the Russell 2000 fell 21.95 points, or 0.8%, to 2,870.29. European markets also finished in the red, with the STOXX Europe 600 down 0.28% to 634.18. London’s FTSE 100 fell 0.37% to 10,658.13, Germany’s DAX lost 0.15% to 25,402.28, France’s CAC 40 declined 0.34% to 8,090.28, and Italy’s FTSE MIB slipped 0.14% to 51,555.19. The latest positioning remains dominated by last week’s CPI and PPI prints , the oil shock and Wednesday’s Fed decision. Futures markets are pricing a roughly 90% probability of a 25-basis-point hike, a sharp shift from one week ago, while the 10-year Treasury yield briefly touched 5.04% overnight before ending near 5.00%. The expected hike itself is now largely discounted. The market risk is the guidance: if Chair Kevin Warsh signals that this week’s move begins a broader tightening cycle, gold faces another real-yield headwind; if he frames the hike as insurance against oil-driven inflation, bullion could stabilize on reduced terminal-rate risk. The Fed’s updated rate projections will matter as much as the statement.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-15/gold-silver-prices-settle-lower-fed-hike-looks-locked-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5a6e071aa455bf47",
-      "titleEn": "Strategy (MSTR) stock falls 5% as Clarity Act stalls",
+      "id": "stockanalysis:45b037f00e123174",
+      "titleEn": "Conti Kight JV Awarded $74.9M Contract for B-21 RF Hangar at Whiteman AFB",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/15/strategy-mstr-stock-falls-5-as-clarity-act-stalls/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:aafc1db9bbfc3d98",
-      "titleEn": "WisdomTree Announces Exchange-Traded Fund (ETF) Share Split",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20260916031389/en/WisdomTree-Announces-Exchange-Traded-Fund-ETF-Share-Split/",
+      "link": "https://www.businesswire.com/news/home/20260916387382/en/Conti-Kight-JV-Awarded-74.9M-Contract-for-B-21-RF-Hangar-at-Whiteman-AFB/",
       "published": null
     }
   ]
