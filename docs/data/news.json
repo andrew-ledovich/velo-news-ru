@@ -1,8 +1,134 @@
 {
-  "generatedAt": "2026-09-17T12:46:36.547466Z",
+  "generatedAt": "2026-09-17T17:20:59.383589Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 23,
   "items": [
+    {
+      "id": "stockanalysis:ae9719320be9422c",
+      "titleEn": "Why Nvidia stock is up over 2% on Thursday",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/17/why-nvidia-stock-is-up-over-2-on-thursday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5ad271148465462b",
+      "titleEn": "Ciena stock rises as analysts lift target after $14B FY29 revenue outlook",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/17/ciena-stock-rises-as-analysts-lift-target-after-14b-fy29-revenue-outlook/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:73b45c8d4a514ee7",
+      "titleEn": "SMCI stock rallies 9% as Goldman Sachs flags expanding addressable market",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/17/smci-stock-rallies-9-as-goldman-sachs-flags-expanding-addressable-market/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e49ed06fa79bcecb",
+      "titleEn": "Fluence Energy stock is now deeply oversold: time to buy?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/17/fluence-energy-stock-is-now-deeply-oversold-time-to-buy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d28d2c1dc729ee20",
+      "titleEn": "Why are Micron, SK Hynix, and SanDisk stocks jumping on Thursday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/17/why-are-micron-sk-hynix-and-sandisk-stocks-jumping-on-thursday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0b99ba85e75c9720",
+      "titleEn": "Arm stock jumps 7% as CEO signals confidence in $2B CPU demand",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/17/arm-stock-jumps-7-as-ceo-signals-confidence-in-2b-cpu-demand/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d975d5cf087dd886",
+      "titleEn": "CoreWeave stock sinks on debt offering: buy the dip?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/17/coreweave-stock-sinks-on-debt-offering-buy-the-dip/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:86760b08a5865609",
+      "titleEn": "Chinese AI models soar in value but make just 10% of OpenAI and Anthropic's revenue",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/17/chinese-ai-models-soar-in-value-but-make-just-10-of-openai-and-anthropics-revenue/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b8be7537eed73554",
+      "titleEn": "Gold price holding near session highs as US pending home sales rise 0.3%",
+      "summaryEn": "(Kitco News) - The gold market continues to trade near its session highs, solidly above $4,300 an ounce, and could see further safe-haven demand as the U.S. housing sector remains extremely fragile, with the number of consumers starting the process of buying a new home stalling, according to the latest report from the National Association of Realtors (NAR). The U.S. Pending Home Sales Index rose 0.3% in August, the NAR announced Thursday. The data were better than expected, as consensus estimates were calling for a 0.2% decline. Meanwhile, July’s contract data were revised down to show a decline of 2.6%, compared with the initial estimate of 2.3%. For the year, the Pending Home Sales Index fell 4.7%. The U.S. housing market has struggled in recent months as the Federal Reserve has established a new monetary policy tightening bias.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-17/gold-price-holding-near-session-highs-us-pending-home-sales-rise-03",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f5f315ebddd1b6f7",
+      "titleEn": "What next for Medical Properties Trust stock amid asset sales?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/17/what-next-for-medical-properties-trust-stock-amid-asset-sales/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2ec52785ef90fe00",
+      "titleEn": "Credo Technology stock is slumping despite its strong revenue growth: what next?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/17/credo-technology-stock-is-slumping-despite-its-strong-revenue-growth-what-next/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9f69e8e9c5ff387a",
+      "titleEn": "Gold, silver rise as yields ease after Warsh's Fed hike - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Thursday, as lower crude oil prices and a modest pullback in Treasury yields helped precious metals recover after the Federal Reserve delivered its first rate hike in three years and signaled that more tightening may still be needed. At the time of writing, spot gold was trading near $4,372.30 an ounce, while spot silver was trading near $65.477. The latest positioning remains dominated by Wednesday’s Fed decision and the market’s read-through on the next move. The Fed raised the target range for the federal funds rate by 25 basis points to 3.75% to 4.00% , and its updated projections pointed to the possibility of another increase toward 4.1%. Chair Kevin Warsh framed the move around still-elevated inflation, resilient domestic demand and a labor market that has not deteriorated enough to force a pause. Initial jobless claims fell to 196,000, the lowest level since mid-July, reinforcing the view that layoffs remain rare. The two-year Treasury yield eased to about 4.72%, the 10-year yield traded near 5.00%, and the dollar softened slightly. For gold, the message is mixed: the rate path remains a headwind, but lower oil and a pullback in yields have allowed a short-covering bounce. Gold and silver are trading as tactical relief candidates, not confirmed trend reversals. Gold remains below the $4,354 resistance level from the latest technical setup, and a close above $4,403 would be needed to improve the chart. Silver has recovered above $64.40 in the latest FXEmpire framework, but the metal still needs to clear $65.28 to confirm a stronger recovery. The metals complex remains exposed to the next inflation and labor-market prints because Warsh’s Fed has left policy explicitly data-dependent.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-17/gold-silver-rise-yields-ease-after-warshs-fed-hike-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8ec944952dcff4b8",
+      "titleEn": "Gold price at $4,370/oz after U.S. weekly jobless claims fall to 196k",
+      "summaryEn": "(Kitco News) - Gold prices are trading near session highs on Thursday morning following the release of better than expected labor market data after the number of Americans filing new claims for unemployment benefits came in below economists’ forecasts. Initial claims for state unemployment benefits came in at seasonally adjusted 196,000 for the week ending September 12, the Labor Department announced on Thursday. The number was below expectations, as consensus estimates forecasted a reading of 208,000 claims. The previous week’s figure was unrevised at 206,000. Spot gold was setting fresh session highs shortly before the 8:30 am ET data release, and last traded at $4,370.58 per ounce for a gain of 2.50% on the daily chart.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-17/gold-price-4370oz-after-us-weekly-jobless-claims-fall-196k",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:701439ce3b6d1832",
+      "titleEn": "Gold price near high after U.S. housing starts fall 2.6%, building permits fall 2.7% in August",
+      "summaryEn": "(Kitco News) - Gold prices are trading near session highs this morning after the latest data showed the U.S. housing market delivering a weaker-than-expected performance last month. Housing starts fell 2.6% in July to a seasonally adjusted annual rate of 1.275 million units, the Commerce Department announced on Thursday. The data was worse than expected as economists looked for a rise to 1.310 million units. July’s number was also revised down to 1.309 million units. The report said that building permits for future homebuilding fell 2.7% to a rate of 1.394 million in August, which was worse than the consensus expectation for 1.410 million permits, while July&#x27;s figure was unrevised at 1.433 million.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-17/gold-price-near-high-after-us-housing-starts-fall-26-building-permits-fall",
+      "published": null
+    },
     {
       "id": "stockanalysis:404e55e0613b87cc",
       "titleEn": "Philly Fed survey can't derail gold's momentum",
@@ -31,138 +157,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:2fe60ab3c02272ca",
-      "titleEn": "Gold catches a bid as BoE leaves interest rates unchanged",
-      "summaryEn": "(Kitco News) - The gold market is trading just off its session highs after the Bank of England decided to leave interest rates unchanged following its September monetary policy meeting. In a much-anticipated move, the BoE said Thursday that it would maintain the Bank Rate at 3.75%. Even the vote breakdown fell in line with expectations, as three committee members voted for a 25-basis-point hike. The central bank acknowledged persistent inflation pressures. The committee also noted that much of the increase is due to the war in Iran, which has created a significant global energy crisis.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-17/gold-catches-bid-boe-leaves-interest-rates-unchanged",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:178e2d9028fd14cf",
-      "titleEn": "Nvidia, AMD, Intel stocks rise after Fed hike: why obvious bearish case is failing",
+      "id": "stockanalysis:bd45c7fb97b6ee9e",
+      "titleEn": "Grindr's Award-Winning Podcast, Who's the A**hole? Is Back for a Fifth Round",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/17/nvidia-amd-intel-stocks-rise-after-fed-hike-why-obvious-bearish-case-is-failing/",
+      "link": "https://www.businesswire.com/news/home/20260917167413/en/Grindr%E2%80%99s-Award-Winning-Podcast-Who%E2%80%99s-the-A**hole-Is-Back-for-a-Fifth-Round/",
       "published": null
     },
     {
-      "id": "stockanalysis:2b4aaa12f73d32ba",
-      "titleEn": "OpenAI says AI cannot keep scaling at ‘maximum speed' after six concerning incidents",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/17/openai-says-ai-cannot-keep-scaling-at-maximum-speed-after-six-concerning-incidents/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:27be4c15af81e8ae",
-      "titleEn": "Generac stock jumps 34% on Amazon deal: the catch is hidden in the contract",
+      "id": "stockanalysis:ad83c85639659673",
+      "titleEn": "Oregon Bancorp Announces Quarterly Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/17/generac-stock-jumps-34-on-amazon-deal-the-catch-is-hidden-in-the-contract/",
+      "link": "https://www.businesswire.com/news/home/20260917363464/en/Oregon-Bancorp-Announces-Quarterly-Dividend/",
       "published": null
     },
     {
-      "id": "stockanalysis:775f2eaeb55652c3",
-      "titleEn": "Micron stock: could a valuation rerating drive MU shares to $1,600?",
+      "id": "stockanalysis:fd273082c46b85e9",
+      "titleEn": "Armstrong World Industries Foundation Awards More Than $600,000 in 2026 Better Building Grants",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/17/micron-stock-could-a-valuation-rerating-drive-mu-shares-to-1600/",
+      "link": "https://www.businesswire.com/news/home/20260917557862/en/Armstrong-World-Industries-Foundation-Awards-More-Than-600000-in-2026-Better-Building-Grants/",
       "published": null
     },
     {
-      "id": "stockanalysis:6b9fa08ac1ed7060",
-      "titleEn": "Here's why Hong Kong's Hang Seng Index is tumbling today (Sep. 17)",
+      "id": "stockanalysis:1aaeab1bb5515a92",
+      "titleEn": "Marsh to Host Third Quarter Earnings Investor Call on October 15",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/17/heres-why-hong-kongs-hang-seng-index-is-tumbling-today-sep-17/",
+      "link": "https://www.businesswire.com/news/home/20260917799763/en/Marsh-to-Host-Third-Quarter-Earnings-Investor-Call-on-October-15/",
       "published": null
     },
     {
-      "id": "stockanalysis:4192de08fbf73ffe",
-      "titleEn": "Samsung stock gives up post-Fed gains but Goldman still sees 93% upside",
+      "id": "stockanalysis:d6124b81720bb0bd",
+      "titleEn": "Greenland Resources Concludes Successful Summer Field Program",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/17/samsung-stock-gives-up-post-fed-gains-but-goldman-still-sees-93-upside/",
+      "link": "https://www.businesswire.com/news/home/20260917212166/en/Greenland-Resources-Concludes-Successful-Summer-Field-Program/",
       "published": null
     },
     {
-      "id": "stockanalysis:f59121662782483c",
-      "titleEn": "McGraw Hill Acquires TeachFX, Expanding Commitment to Great Teaching with AI Coaching Tool Designed by Educators",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260916061867/en/McGraw-Hill-Acquires-TeachFX-Expanding-Commitment-to-Great-Teaching-with-AI-Coaching-Tool-Designed-by-Educators/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0c9fbd5d3a1aed0c",
-      "titleEn": "Niagen Bioscience Engages Veteran Pharmaceutical Executives and Biotechnology Experts to Support Drug Development Program and Strategic Business Growth",
+      "id": "stockanalysis:f38063a5a8a2e3a6",
+      "titleEn": "T-Mobile to Host Q3 2026 Earnings Call on October 28, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917959565/en/Niagen-Bioscience-Engages-Veteran-Pharmaceutical-Executives-and-Biotechnology-Experts-to-Support-Drug-Development-Program-and-Strategic-Business-Growth/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6ff7908b1f97209f",
-      "titleEn": "TRWD Develops Licensing-Led Expansion Strategy to Complement Acquisition Model and Expand Beyond 100+ Venue Goal",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917662891/en/TRWD-Develops-Licensing-Led-Expansion-Strategy-to-Complement-Acquisition-Model-and-Expand-Beyond-100-Venue-Goal/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2a9826a164953abc",
-      "titleEn": "EVI Industries to Participate at 25th Annual D.A. Davidson Diversified Industrials &amp; Services Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917340152/en/EVI-Industries-to-Participate-at-25th-Annual-D.A.-Davidson-Diversified-Industrials-Services-Conference/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3d9bee390d6855af",
-      "titleEn": "Schrödinger Reports Inducement Grants under Nasdaq Listing Rule 5635(c)(4)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917851027/en/Schr%C3%B6dinger-Reports-Inducement-Grants-under-Nasdaq-Listing-Rule-5635-c-4/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c8caf29ac3a5dd86",
-      "titleEn": "QT Imaging Appoints Imaging Industry Veteran Dr. Mark Winkler as Chief Medical Officer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917547793/en/QT-Imaging-Appoints-Imaging-Industry-Veteran-Dr.-Mark-Winkler-as-Chief-Medical-Officer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:71e79d40a61e23b8",
-      "titleEn": "INNIO Secures 450 MW Order to Power Next-Generation Data Centers",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917646026/en/INNIO-Secures-450-MW-Order-to-Power-Next-Generation-Data-Centers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5758a5fff4bc26ec",
-      "titleEn": "Pagaya Appoints Payments Pioneer Jason Gardner to Board of Directors",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917459804/en/Pagaya-Appoints-Payments-Pioneer-Jason-Gardner-to-Board-of-Directors/",
+      "link": "https://www.businesswire.com/news/home/20260917015300/en/T-Mobile-to-Host-Q3-2026-Earnings-Call-on-October-28-2026/",
       "published": null
     }
   ]
