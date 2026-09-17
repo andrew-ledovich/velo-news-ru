@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-16T23:50:16.669866Z",
+  "generatedAt": "2026-09-17T02:13:32.030591Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:cc8d2a069612f981",
+      "titleEn": "OpenAI Tests Sponsored AI Agents in ChatGPT Ads",
+      "summaryEn": "OpenAI is testing business-sponsored artificial intelligence agents that will have conversations with people who click on an ad in ChatGPT , the company said in a Wednesday (Sept. 16) blog post . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); These Sponsored Agents are being tested with select advertisers in the United States, and their conversations will be separate from the original conversation in ChatGPT and from ChatGPT’s independent answers, according to the post.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-tests-sponsored-ai-agents-in-chatgpt-ads/",
+      "published": null
+    },
     {
       "id": "stockanalysis:69e2fc0c563e7086",
       "titleEn": "Gold, silver prices fall as Warsh signals more tightening ahead - Kitco PM Report",
@@ -76,30 +85,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:142ecabba0fff93e",
-      "titleEn": "Costco and Uber Eats Scale Delivery Across 47 States",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The expansion enables Costco members in 47 states to order fresh produce, bulk groceries, household essentials and other goods from their local Costco, with on-demand or scheduled delivery via Uber Eats, according to the release. Costco does not have warehouses in three states, including Rhode Island, West Virginia and Wyoming, according to the company’s website.",
+      "id": "stockanalysis:2970cf57c8d6beb8",
+      "titleEn": "Quanterix Corporation Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/delivery/2026/costco-uber-eats-scale-delivery-across-47-states/",
+      "link": "https://www.businesswire.com/news/home/20260916210688/en/Quanterix-Corporation-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4/",
       "published": null
     },
     {
-      "id": "stockanalysis:ffde17d9ed24c1ce",
-      "titleEn": "This AI stock experienced a 5x rally on Wednesday",
+      "id": "stockanalysis:ebbb2248c03c780b",
+      "titleEn": "Faraday Future to Unveil Nine New AI-Powered Robots and Four Industry Solutions at Its Annual 919 Launch Event, Completing Its \"One-Brain Multi-Form Multi-Capability\" Robot World 2.0",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/16/this-ai-stock-experienced-a-5x-rally-on-wednesday/",
+      "link": "https://www.businesswire.com/news/home/20260916196720/en/Faraday-Future-to-Unveil-Nine-New-AI-Powered-Robots-and-Four-Industry-Solutions-at-Its-Annual-919-Launch-Event-Completing-Its-One-Brain-Multi-Form-Multi-Capability-Robot-World-2.0/",
       "published": null
     },
     {
-      "id": "stockanalysis:6a9a064bf21767f0",
-      "titleEn": "Salesforce stock falls service outage hits during crucial conference",
+      "id": "stockanalysis:719ffd4ce5b42317",
+      "titleEn": "D-Wave to Host Qubits Asia 2026 Quantum Computing User Conference in Seoul",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/16/salesforce-stock-falls-service-outage-hits-during-crucial-conference/",
+      "link": "https://www.businesswire.com/news/home/20260916154826/en/D-Wave-to-Host-Qubits-Asia-2026-Quantum-Computing-User-Conference-in-Seoul/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:460373812af75ac7",
+      "titleEn": "IDEX Corporation Declares Regular Quarterly Cash Dividend",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260916262173/en/IDEX-Corporation-Declares-Regular-Quarterly-Cash-Dividend/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:793aafee1e77a12f",
+      "titleEn": "BEAM Investors Have Opportunity to Join Beam Therapeutics Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260916494642/en/BEAM-Investors-Have-Opportunity-to-Join-Beam-Therapeutics-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0186529cc76bb5cf",
+      "titleEn": "PHAT Investors Have Opportunity to Join Phathom Pharmaceuticals, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260916273255/en/PHAT-Investors-Have-Opportunity-to-Join-Phathom-Pharmaceuticals-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
@@ -136,33 +172,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260916777704/en/CORRECTING-and-REPLACING-Agilent-Announces-Cash-Dividend-of-25.5-Cents-per-Share/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0b78570174901471",
-      "titleEn": "Mechanics Bank Completes Sale of Substantial Majority of Runoff Auto Loan Portfolio to Bank of America",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260916320600/en/Mechanics-Bank-Completes-Sale-of-Substantial-Majority-of-Runoff-Auto-Loan-Portfolio-to-Bank-of-America/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:832e339e10e143bc",
-      "titleEn": "30 Organizations, 7 Nations, 1 Problem: My Normative Enters Next Phase to Address the Trillion Dollar Global Women's Health Equity Gap",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260916608428/en/30-Organizations-7-Nations-1-Problem-My-Normative-Enters-Next-Phase-to-Address-the-Trillion-Dollar-Global-Women%E2%80%99s-Health-Equity-Gap/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fcfc32d898bf8f0c",
-      "titleEn": "GDDY Stockholders Have Rights – If You Lost Money Investing in GoDaddy Inc. Contact Robbins LLP for Information About Recovering Your Losses",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260916953613/en/GDDY-Stockholders-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-GoDaddy-Inc.-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
       "published": null
     }
   ]
