@@ -1,8 +1,80 @@
 {
-  "generatedAt": "2026-09-17T07:38:50.600780Z",
+  "generatedAt": "2026-09-17T12:46:36.547466Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:404e55e0613b87cc",
+      "titleEn": "Philly Fed survey can't derail gold's momentum",
+      "summaryEn": "(Kitco News) - The gold market is once again holding its own above critical near-term support, even as the U.S. manufacturing sector appears to be more resilient than economists had expected, according to the latest regional data from the Philadelphia Federal Reserve. The regional central bank said Thursday that its Manufacturing Business Outlook Survey for September came in at 37.8, down from last month’s five-year high of 47.4. The data were better than expected, as economists were looking for a reading of 31.3. “Responses to the September Manufacturing Business Outlook Survey suggest overall expansion in the region’s manufacturing activity,” the report said. “The survey’s broad indicators for future activity continued to suggest expectations for growth over the next six months.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-17/philly-fed-survey-cant-derail-golds-momentum",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:54823f44f02858b6",
+      "titleEn": "Nebius stock outlook: is the ongoing NBIS crash a buying opportunity?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/17/nebius-stock-outlook-is-the-ongoing-nbis-crash-a-buying-opportunity/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b598699a8262b08f",
+      "titleEn": "Broadcom stock has slumped amid AI safety panic: a golden time to buy?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/17/broadcom-stock-has-slumped-amid-ai-safety-panic-a-golden-time-to-buy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2fe60ab3c02272ca",
+      "titleEn": "Gold catches a bid as BoE leaves interest rates unchanged",
+      "summaryEn": "(Kitco News) - The gold market is trading just off its session highs after the Bank of England decided to leave interest rates unchanged following its September monetary policy meeting. In a much-anticipated move, the BoE said Thursday that it would maintain the Bank Rate at 3.75%. Even the vote breakdown fell in line with expectations, as three committee members voted for a 25-basis-point hike. The central bank acknowledged persistent inflation pressures. The committee also noted that much of the increase is due to the war in Iran, which has created a significant global energy crisis.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-17/gold-catches-bid-boe-leaves-interest-rates-unchanged",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:178e2d9028fd14cf",
+      "titleEn": "Nvidia, AMD, Intel stocks rise after Fed hike: why obvious bearish case is failing",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/17/nvidia-amd-intel-stocks-rise-after-fed-hike-why-obvious-bearish-case-is-failing/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2b4aaa12f73d32ba",
+      "titleEn": "OpenAI says AI cannot keep scaling at ‘maximum speed' after six concerning incidents",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/17/openai-says-ai-cannot-keep-scaling-at-maximum-speed-after-six-concerning-incidents/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:27be4c15af81e8ae",
+      "titleEn": "Generac stock jumps 34% on Amazon deal: the catch is hidden in the contract",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/17/generac-stock-jumps-34-on-amazon-deal-the-catch-is-hidden-in-the-contract/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:775f2eaeb55652c3",
+      "titleEn": "Micron stock: could a valuation rerating drive MU shares to $1,600?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/17/micron-stock-could-a-valuation-rerating-drive-mu-shares-to-1600/",
+      "published": null
+    },
     {
       "id": "stockanalysis:6b9fa08ac1ed7060",
       "titleEn": "Here's why Hong Kong's Hang Seng Index is tumbling today (Sep. 17)",
@@ -22,93 +94,75 @@
       "published": null
     },
     {
-      "id": "stockanalysis:cc8d2a069612f981",
-      "titleEn": "OpenAI Tests Sponsored AI Agents in ChatGPT Ads",
-      "summaryEn": "OpenAI is testing business-sponsored artificial intelligence agents that will have conversations with people who click on an ad in ChatGPT , the company said in a Wednesday (Sept. 16) blog post . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); These Sponsored Agents are being tested with select advertisers in the United States, and their conversations will be separate from the original conversation in ChatGPT and from ChatGPT’s independent answers, according to the post.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-tests-sponsored-ai-agents-in-chatgpt-ads/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:69e2fc0c563e7086",
-      "titleEn": "Gold, silver prices fall as Warsh signals more tightening ahead - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are lower in late-afternoon U.S. trading Wednesday, after the Federal Reserve raised interest rates for the first time since 2023 and signaled that more tightening may be needed to contain inflation. At the time of writing, spot gold was trading near $4,261.80 an ounce, down 0.72%, while spot silver was trading at $62.82, down 1.16% on the session. North American equity markets closed lower after Fed Chair Kevin Warsh’s press conference pushed yields and the dollar higher. The S&P 500 fell 33.92 points, or 0.4%, to 7,551.81, the Dow Jones Industrial Average dropped 631.21 points, or 1.2%, to 51,461.90, the Nasdaq Composite slipped 3.15 points, or less than 0.1%, to 25,978.42, and the Russell 2000 fell 11.47 points, or 0.4%, to 2,858.81. European markets finished higher before the Fed decision, with the STOXX Europe 600 up 0.46% to 637.09. London’s FTSE 100 rose 0.28% to 10,688.47, Germany’s DAX gained 0.61% to 25,558.88, France’s CAC 40 added 0.62% to 8,140.59, and Italy’s FTSE MIB climbed 0.80% to 51,969.12. The latest positioning shifted back against precious metals after the Fed raised the target range for the federal funds rate by 25 basis points to 3.75% to 4.00% and the updated projections showed 16 of 18 officials saw at least one more hike by year-end. Warsh said inflation remains too high, and the market read the decision as more than a one-and-done response to oil-driven price pressure. The two-year Treasury yield rose to about 4.734%, the 10-year yield moved back to 5.00%, and the dollar index climbed to 100.25. Thursday’s jobless claims, Philadelphia Fed manufacturing index and housing starts now become the next checks on whether the economy is strong enough to absorb tighter policy. For gold, the message is rate-negative: the expected hike was priced, but the dot plot and Warsh’s tone kept the real-yield channel in control.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-16/gold-silver-prices-fall-warsh-signals-more-tightening-ahead-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cc8106615f5637f0",
-      "titleEn": "Anthropic Consolidates Specialized Apps Into One Unified Claude Platform",
-      "summaryEn": "Anthropic has begun merging Claude Cowork and chat into “ one Claude” so that users don’t have to choose which tool to use for a task, the company said in a Wednesday (Sept. 16) blog post . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Anthropic is rolling out “one Claude” on Pro and Max plans over the next few weeks; will extend it to Team and Free plans soon; and will expand it to Enterprise plans after notifying the plans’ administrators at least 30 days ahead of the change, according to the post.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-consolidates-specialized-apps-into-one-unified-claude-platform/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ed269c4adac4338d",
-      "titleEn": "Gold price buckles under Warsh's inflation fixation as Fed hikes rates",
-      "summaryEn": "(Kitco News) - The gold market was able to withstand an expected rate hike and forecasts for additional tightening later this year; however, the precious metal took a bruising as Federal Reserve Chair Kevin Warsh came out swinging hard during his press conference. Following its monetary policy meeting Wednesday, the Federal Reserve announced a 25-basis-point rate hike, pushing the federal funds rate to a range of 3.75% to 4.00%. At the same time, the committee’s updated economic projections, also known as the dot plot, showed a year-end rate of 4.1%, suggesting at least one more rate hike this year. Despite the hawkish positioning, gold prices managed to hold support above $4,300 an ounce.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-16/gold-price-buckles-under-warshs-inflation-fixation-fed-hikes-rates",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0316a2b0c440fae8",
-      "titleEn": "American Express Escalates Business Banking War With High-Yield Savings Launch",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The high-yield Business Savings account offers an annual percentage yield (APY) of 2.95%, as of Tuesday, together with no minimum balance, no monthly maintenance fees, and the ability to make and receive transfers online or through the Amex App . The APY can change at any time before or after the account is opened, according to the release. Please add us to your preferred sources list so our news, data and interviews show up in your feed. Thanks!",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.pymnts.com/news/banking/2026/american-express-escalates-business-banking-war-with-high-yield-savings-launch/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ab71b324b2c4d927",
-      "titleEn": "CoreWeave stock gains as Nvidia Rubin cluster boosts AI cloud capacity",
+      "id": "stockanalysis:f59121662782483c",
+      "titleEn": "McGraw Hill Acquires TeachFX, Expanding Commitment to Great Teaching with AI Coaching Tool Designed by Educators",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/16/coreweave-stock-gains-as-nvidia-rubin-cluster-boosts-ai-cloud-capacity/",
+      "link": "https://www.businesswire.com/news/home/20260916061867/en/McGraw-Hill-Acquires-TeachFX-Expanding-Commitment-to-Great-Teaching-with-AI-Coaching-Tool-Designed-by-Educators/",
       "published": null
     },
     {
-      "id": "stockanalysis:4599dc414a7c3fda",
-      "titleEn": "IDEXX Expands Faecal Dx Antigen Testing Platform in the United Kingdom with Taeniid Tapeworm Detection",
+      "id": "stockanalysis:0c9fbd5d3a1aed0c",
+      "titleEn": "Niagen Bioscience Engages Veteran Pharmaceutical Executives and Biotechnology Experts to Support Drug Development Program and Strategic Business Growth",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917879004/en/IDEXX-Expands-Faecal-Dx-Antigen-Testing-Platform-in-the-United-Kingdom-with-Taeniid-Tapeworm-Detection/",
+      "link": "https://www.businesswire.com/news/home/20260917959565/en/Niagen-Bioscience-Engages-Veteran-Pharmaceutical-Executives-and-Biotechnology-Experts-to-Support-Drug-Development-Program-and-Strategic-Business-Growth/",
       "published": null
     },
     {
-      "id": "stockanalysis:b91a94dd58da585e",
-      "titleEn": "Bayer's KERENDIA® (finerenone) Receives FDA Approval as the First New Treatment in 30 Years for Adults with Chronic Kidney Disease (CKD) and Type 1 Diabetes",
+      "id": "stockanalysis:6ff7908b1f97209f",
+      "titleEn": "TRWD Develops Licensing-Led Expansion Strategy to Complement Acquisition Model and Expand Beyond 100+ Venue Goal",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260916814212/en/Bayer%E2%80%99s-KERENDIA%C2%AE-finerenone-Receives-FDA-Approval-as-the-First-New-Treatment-in-30-Years-for-Adults-with-Chronic-Kidney-Disease-CKD-and-Type-1-Diabetes/",
+      "link": "https://www.businesswire.com/news/home/20260917662891/en/TRWD-Develops-Licensing-Led-Expansion-Strategy-to-Complement-Acquisition-Model-and-Expand-Beyond-100-Venue-Goal/",
       "published": null
     },
     {
-      "id": "stockanalysis:efa25baac14eee38",
-      "titleEn": "Vantor Selects EnduroSat and CACI to Build High-Revisit Pulse Satellite Fleet",
+      "id": "stockanalysis:2a9826a164953abc",
+      "titleEn": "EVI Industries to Participate at 25th Annual D.A. Davidson Diversified Industrials &amp; Services Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260916532623/en/Vantor-Selects-EnduroSat-and-CACI-to-Build-High-Revisit-Pulse-Satellite-Fleet/",
+      "link": "https://www.businesswire.com/news/home/20260917340152/en/EVI-Industries-to-Participate-at-25th-Annual-D.A.-Davidson-Diversified-Industrials-Services-Conference/",
       "published": null
     },
     {
-      "id": "stockanalysis:2a7702fd9e766457",
-      "titleEn": "NCR Atleos Selected by Bank Pekao S.A. to Modernize Card Payment Processing Infrastructure with Authentic Switch",
+      "id": "stockanalysis:3d9bee390d6855af",
+      "titleEn": "Schrödinger Reports Inducement Grants under Nasdaq Listing Rule 5635(c)(4)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260916140094/en/NCR-Atleos-Selected-by-Bank-Pekao-S.A.-to-Modernize-Card-Payment-Processing-Infrastructure-with-Authentic-Switch/",
+      "link": "https://www.businesswire.com/news/home/20260917851027/en/Schr%C3%B6dinger-Reports-Inducement-Grants-under-Nasdaq-Listing-Rule-5635-c-4/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c8caf29ac3a5dd86",
+      "titleEn": "QT Imaging Appoints Imaging Industry Veteran Dr. Mark Winkler as Chief Medical Officer",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260917547793/en/QT-Imaging-Appoints-Imaging-Industry-Veteran-Dr.-Mark-Winkler-as-Chief-Medical-Officer/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:71e79d40a61e23b8",
+      "titleEn": "INNIO Secures 450 MW Order to Power Next-Generation Data Centers",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260917646026/en/INNIO-Secures-450-MW-Order-to-Power-Next-Generation-Data-Centers/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5758a5fff4bc26ec",
+      "titleEn": "Pagaya Appoints Payments Pioneer Jason Gardner to Board of Directors",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260917459804/en/Pagaya-Appoints-Payments-Pioneer-Jason-Gardner-to-Board-of-Directors/",
       "published": null
     }
   ]
