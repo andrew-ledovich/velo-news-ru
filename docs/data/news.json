@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-17T20:25:20.880085Z",
+  "generatedAt": "2026-09-17T22:56:14.923169Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:072f6a4df494c30f",
+      "titleEn": "Gold price rebounds above $4,340 as lower oil eases rate pressure - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply higher in late-afternoon U.S. trading Thursday, as a softer U.S. dollar, lower crude oil prices and easing Treasury yields helped precious metals extend their rebound after the Federal Reserve’s first rate hike in more than 3 years. At the time of writing, spot gold was trading near $4,341.20 an ounce, up 1.83%, while spot silver was trading at $65.12, up 3.59% on the session. North American equity markets closed higher as lower oil prices and easing pressure from the bond market helped stocks recover from Wednesday’s post-Fed selloff. The S&P 500 rose 85.95 points, or 1.1%, to 7,637.76, the Dow Jones Industrial Average gained 316.14 points, or 0.6%, to 51,778.04, the Nasdaq Composite jumped 439.87 points, or 1.7%, to 26,418.30, and the Russell 2000 rose 15.82 points, or 0.6%, to 2,874.63. European markets also finished higher, with the STOXX Europe 600 up 0.86% to 642.60. London’s FTSE 100 rose 1.19% to 10,816.14, Germany’s DAX gained 0.70% to 25,716.71, France’s CAC 40 added 0.57% to 8,186.93, and Italy’s FTSE MIB climbed 0.80% to 52,385.50. The latest positioning remains defined by the Fed’s Sept. 16 hike, but Thursday’s market action showed the difference between a priced-in hike and a fresh tightening shock. The Fed raised the target range by 25 basis points to 3.75% to 4.00%, and officials’ projections still point to at least one more increase this year. That keeps the medium-term rate backdrop restrictive for gold. However, lower oil and a retreat in Treasury yields changed the day’s trade: the 10-year yield fell to 4.93% from 5.01% late Wednesday, while the dollar eased after its Fed-driven jump. Pending home sales rose 0.3%, a small gain that did not alter the broader view that housing remains under pressure from mortgage rates near 7%. For gold, the day’s message is constructive but conditional: the metal can rally when oil and yields ease, but Fed guidance still caps the upside unless inflation pressure fades further.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-17/gold-price-rebounds-above-4340-lower-oil-eases-rate-pressure-kitco-pm",
+      "published": null
+    },
     {
       "id": "stockanalysis:94ee06d685c119b1",
       "titleEn": "Gold is the ‘truth teller' as U.S. debt spirals; buy gold with your $5,000 check - Jeff Sarti",
@@ -67,75 +76,75 @@
       "published": null
     },
     {
-      "id": "stockanalysis:73b45c8d4a514ee7",
-      "titleEn": "SMCI stock rallies 9% as Goldman Sachs flags expanding addressable market",
+      "id": "stockanalysis:b21b9f32cbaa4c95",
+      "titleEn": "Clean Harbors Prices Offering of Senior Notes Due 2034",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/17/smci-stock-rallies-9-as-goldman-sachs-flags-expanding-addressable-market/",
+      "link": "https://www.businesswire.com/news/home/20260917040366/en/Clean-Harbors-Prices-Offering-of-Senior-Notes-Due-2034/",
       "published": null
     },
     {
-      "id": "stockanalysis:e49ed06fa79bcecb",
-      "titleEn": "Fluence Energy stock is now deeply oversold: time to buy?",
+      "id": "stockanalysis:863bb84fa87c2169",
+      "titleEn": "Latin America's PAHO-Gilead HIV Prevention Deal Is a Victory for Civil Society, says AHF",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/17/fluence-energy-stock-is-now-deeply-oversold-time-to-buy/",
+      "link": "https://www.businesswire.com/news/home/20260917065835/en/Latin-America%E2%80%99s-PAHO-Gilead-HIV-Prevention-Deal-Is-a-Victory-for-Civil-Society-says-AHF/",
       "published": null
     },
     {
-      "id": "stockanalysis:d28d2c1dc729ee20",
-      "titleEn": "Why are Micron, SK Hynix, and SanDisk stocks jumping on Thursday?",
+      "id": "stockanalysis:403f5e291eae0050",
+      "titleEn": "Walker &amp; Dunlop Arranges $300 Million Refinancing for Mixed-Use Property in Manhattan's Meatpacking District",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/17/why-are-micron-sk-hynix-and-sandisk-stocks-jumping-on-thursday/",
+      "link": "https://www.businesswire.com/news/home/20260917599591/en/Walker-Dunlop-Arranges-300-Million-Refinancing-for-Mixed-Use-Property-in-Manhattan%E2%80%99s-Meatpacking-District/",
       "published": null
     },
     {
-      "id": "stockanalysis:0b99ba85e75c9720",
-      "titleEn": "Arm stock jumps 7% as CEO signals confidence in $2B CPU demand",
+      "id": "stockanalysis:45bfc4e7cb9fd218",
+      "titleEn": "Simulations Plus Expands FDA Adoption of ADMET Predictor® with New Licenses for the Cosmetics Regulatory Science Branch",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/17/arm-stock-jumps-7-as-ceo-signals-confidence-in-2b-cpu-demand/",
+      "link": "https://www.businesswire.com/news/home/20260917938732/en/Simulations-Plus-Expands-FDA-Adoption-of-ADMET-Predictor%C2%AE-with-New-Licenses-for-the-Cosmetics-Regulatory-Science-Branch/",
       "published": null
     },
     {
-      "id": "stockanalysis:d975d5cf087dd886",
-      "titleEn": "CoreWeave stock sinks on debt offering: buy the dip?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/17/coreweave-stock-sinks-on-debt-offering-buy-the-dip/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:86760b08a5865609",
-      "titleEn": "Chinese AI models soar in value but make just 10% of OpenAI and Anthropic's revenue",
+      "id": "stockanalysis:156285cc9a31567d",
+      "titleEn": "Paradium.AI Signs 10-Year Strategic Platform Agreement with Roundtable (Nasdaq: RTB)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/17/chinese-ai-models-soar-in-value-but-make-just-10-of-openai-and-anthropics-revenue/",
+      "link": "https://www.businesswire.com/news/home/20260917149677/en/Paradium.AI-Signs-10-Year-Strategic-Platform-Agreement-with-Roundtable-Nasdaq-RTB/",
       "published": null
     },
     {
-      "id": "stockanalysis:b8be7537eed73554",
-      "titleEn": "Gold price holding near session highs as US pending home sales rise 0.3%",
-      "summaryEn": "(Kitco News) - The gold market continues to trade near its session highs, solidly above $4,300 an ounce, and could see further safe-haven demand as the U.S. housing sector remains extremely fragile, with the number of consumers starting the process of buying a new home stalling, according to the latest report from the National Association of Realtors (NAR). The U.S. Pending Home Sales Index rose 0.3% in August, the NAR announced Thursday. The data were better than expected, as consensus estimates were calling for a 0.2% decline. Meanwhile, July’s contract data were revised down to show a decline of 2.6%, compared with the initial estimate of 2.3%. For the year, the Pending Home Sales Index fell 4.7%. The U.S. housing market has struggled in recent months as the Federal Reserve has established a new monetary policy tightening bias.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-17/gold-price-holding-near-session-highs-us-pending-home-sales-rise-03",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f5f315ebddd1b6f7",
-      "titleEn": "What next for Medical Properties Trust stock amid asset sales?",
+      "id": "stockanalysis:078d20005305fdaa",
+      "titleEn": "Rainwater Crossing Celebrates Opening of Whispering Grove and Unveiling of Scout's Tree",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/17/what-next-for-medical-properties-trust-stock-amid-asset-sales/",
+      "link": "https://www.businesswire.com/news/home/20260917561135/en/Rainwater-Crossing-Celebrates-Opening-of-Whispering-Grove-and-Unveiling-of-Scouts-Tree/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:69ffd3bf1ffcc12f",
+      "titleEn": "AM Best Upgrades Credit Ratings of Bupa Insurance Company",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260917676090/en/AM-Best-Upgrades-Credit-Ratings-of-Bupa-Insurance-Company/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6488af938e774f6b",
+      "titleEn": "Brown-Forman Announces $500 Million Debt Offering",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260917090355/en/Brown-Forman-Announces-500-Million-Debt-Offering/",
       "published": null
     }
   ]
