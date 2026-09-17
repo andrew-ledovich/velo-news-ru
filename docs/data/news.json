@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-09-17T02:13:32.030591Z",
+  "generatedAt": "2026-09-17T07:38:50.600780Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:6b9fa08ac1ed7060",
+      "titleEn": "Here's why Hong Kong's Hang Seng Index is tumbling today (Sep. 17)",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/17/heres-why-hong-kongs-hang-seng-index-is-tumbling-today-sep-17/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4192de08fbf73ffe",
+      "titleEn": "Samsung stock gives up post-Fed gains but Goldman still sees 93% upside",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/17/samsung-stock-gives-up-post-fed-gains-but-goldman-still-sees-93-upside/",
+      "published": null
+    },
     {
       "id": "stockanalysis:cc8d2a069612f981",
       "titleEn": "OpenAI Tests Sponsored AI Agents in ChatGPT Ads",
@@ -58,120 +76,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:7c0fb3ec8d8860f1",
-      "titleEn": "Gold price drops to $4,310/oz as Fed votes 12-0 in favor of 25 bps rate hike, with 16 of 18 policymakers seeing another hike in 2026",
-      "summaryEn": "(Kitco News) – The Federal Reserve announced on Wednesday that the Federal Open Market Committee (FOMC) voted unanimously in favor of a quarter-point rate hike, as expected by the market consensus, while the latest economic projections showed all but two policymakers believe another rate hike will be warranted in 2026. “The Committee decided to raise the target range for the federal funds rate by 1/4 percentage point to 3-3/4 to 4 percent, in support of the Federal Reserve&#x27;s dual mandate,” the Federal Reserve said in their statement. “The Committee is continuing its policy of maintaining ample reserves in the banking system.” “Economic activity is expanding at a solid pace,” the central bank said. “While uncertainty remains elevated owing, in part, to geopolitical developments, domestic spending has been resilient. Productivity growth is strong, and capital investment is robust. Job gains have kept pace with the workforce, and the unemployment rate has changed little.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-16/gold-price-drops-4310oz-fed-votes-12-0-favor-25-bps-rate-hike-16-18",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fe0f831c7490eadd",
-      "titleEn": "It's no longer a debate: Hold both gold and Bitcoin as global sovereign debt drives demand for alternatives - 3iQ's Mancuso",
-      "summaryEn": "(Kitco News) - Persistent fiscal deficits, ballooning sovereign debt and rising geopolitical fragmentation are forcing investors to rethink what constitutes a safe-haven asset, and one digital asset executive says the answer increasingly includes both gold and Bitcoin . In an exclusive commentary for Kitco News, Tommaso Mancuso, President and Chief Investment Officer at global digital asset investment manager 3iQ, said the long-running debate over whether Bitcoin can replace gold has become outdated. Instead, institutional investors should view the two assets as complementary components of a broader hard-asset allocation. Mancuso noted that central banks accumulated an average of roughly 1,000 tonnes of gold annually between 2022 and 2025, about twice the average pace of the previous decade. At the same time, Bitcoin has moved deeper into mainstream finance through spot exchange-traded funds, corporate treasury adoption and increased institutional participation.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-16/its-no-longer-debate-hold-both-gold-and-bitcoin-global-sovereign-debt",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a884f11ac6f014a1",
-      "titleEn": "Lumentum stock rises as Wall Street bets on AI optical networks",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/16/lumentum-stock-rises-as-wall-street-bets-on-ai-optical-networks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2970cf57c8d6beb8",
-      "titleEn": "Quanterix Corporation Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+      "id": "stockanalysis:4599dc414a7c3fda",
+      "titleEn": "IDEXX Expands Faecal Dx Antigen Testing Platform in the United Kingdom with Taeniid Tapeworm Detection",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260916210688/en/Quanterix-Corporation-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4/",
+      "link": "https://www.businesswire.com/news/home/20260917879004/en/IDEXX-Expands-Faecal-Dx-Antigen-Testing-Platform-in-the-United-Kingdom-with-Taeniid-Tapeworm-Detection/",
       "published": null
     },
     {
-      "id": "stockanalysis:ebbb2248c03c780b",
-      "titleEn": "Faraday Future to Unveil Nine New AI-Powered Robots and Four Industry Solutions at Its Annual 919 Launch Event, Completing Its \"One-Brain Multi-Form Multi-Capability\" Robot World 2.0",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260916196720/en/Faraday-Future-to-Unveil-Nine-New-AI-Powered-Robots-and-Four-Industry-Solutions-at-Its-Annual-919-Launch-Event-Completing-Its-One-Brain-Multi-Form-Multi-Capability-Robot-World-2.0/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:719ffd4ce5b42317",
-      "titleEn": "D-Wave to Host Qubits Asia 2026 Quantum Computing User Conference in Seoul",
+      "id": "stockanalysis:b91a94dd58da585e",
+      "titleEn": "Bayer's KERENDIA® (finerenone) Receives FDA Approval as the First New Treatment in 30 Years for Adults with Chronic Kidney Disease (CKD) and Type 1 Diabetes",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260916154826/en/D-Wave-to-Host-Qubits-Asia-2026-Quantum-Computing-User-Conference-in-Seoul/",
+      "link": "https://www.businesswire.com/news/home/20260916814212/en/Bayer%E2%80%99s-KERENDIA%C2%AE-finerenone-Receives-FDA-Approval-as-the-First-New-Treatment-in-30-Years-for-Adults-with-Chronic-Kidney-Disease-CKD-and-Type-1-Diabetes/",
       "published": null
     },
     {
-      "id": "stockanalysis:460373812af75ac7",
-      "titleEn": "IDEX Corporation Declares Regular Quarterly Cash Dividend",
+      "id": "stockanalysis:efa25baac14eee38",
+      "titleEn": "Vantor Selects EnduroSat and CACI to Build High-Revisit Pulse Satellite Fleet",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260916262173/en/IDEX-Corporation-Declares-Regular-Quarterly-Cash-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20260916532623/en/Vantor-Selects-EnduroSat-and-CACI-to-Build-High-Revisit-Pulse-Satellite-Fleet/",
       "published": null
     },
     {
-      "id": "stockanalysis:793aafee1e77a12f",
-      "titleEn": "BEAM Investors Have Opportunity to Join Beam Therapeutics Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:2a7702fd9e766457",
+      "titleEn": "NCR Atleos Selected by Bank Pekao S.A. to Modernize Card Payment Processing Infrastructure with Authentic Switch",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260916494642/en/BEAM-Investors-Have-Opportunity-to-Join-Beam-Therapeutics-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0186529cc76bb5cf",
-      "titleEn": "PHAT Investors Have Opportunity to Join Phathom Pharmaceuticals, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260916273255/en/PHAT-Investors-Have-Opportunity-to-Join-Phathom-Pharmaceuticals-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cb8bfb811aa3dd9a",
-      "titleEn": "SPECS Make Computing More Human with New Experiences, Partnerships, and SPECS Intelligence",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260916827043/en/SPECS-Make-Computing-More-Human-with-New-Experiences-Partnerships-and-SPECS-Intelligence/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d1a4eb3cc94e5a56",
-      "titleEn": "Snap Inc. Introduces SPECS Intelligence, an Anticipatory AI Service",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260916422165/en/Snap-Inc.-Introduces-SPECS-Intelligence-an-Anticipatory-AI-Service/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9a3a0d96350eece0",
-      "titleEn": "GUTS Stockholders Have Rights – If you Lost Money Investing in Fractyl Health, Inc. Contact Robbins LLP for Information About Recovering Your Losses",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260916265777/en/GUTS-Stockholders-Have-Rights-%E2%80%93-If-you-Lost-Money-Investing-in-Fractyl-Health-Inc.-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a172efaf1c0b6c03",
-      "titleEn": "CORRECTING and REPLACING Agilent Announces Cash Dividend of 25.5 Cents per Share",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260916777704/en/CORRECTING-and-REPLACING-Agilent-Announces-Cash-Dividend-of-25.5-Cents-per-Share/",
+      "link": "https://www.businesswire.com/news/home/20260916140094/en/NCR-Atleos-Selected-by-Bank-Pekao-S.A.-to-Modernize-Card-Payment-Processing-Infrastructure-with-Authentic-Switch/",
       "published": null
     }
   ]
