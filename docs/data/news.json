@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-09-17T17:20:59.383589Z",
+  "generatedAt": "2026-09-17T20:25:20.880085Z",
   "sourceCount": 1,
-  "count": 23,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:94ee06d685c119b1",
+      "titleEn": "Gold is the ‘truth teller' as U.S. debt spirals; buy gold with your $5,000 check - Jeff Sarti",
+      "summaryEn": "(Kitco News) - The Federal Reserve’s commitment to bring inflation down to its 2% target is creating some much-needed confidence in the long end of the yield curve as 10-year bond yields fall back below 5.00%; however, according to one fund manager, gold remains the ultimate safe-haven insurance play. In an interview with Kitco News, Jeff Sarti, CEO of Morton Wealth, said that if he had a choice between buying gold and investing in 10-year bonds, “I would pick gold all day long.” He explained that in an environment of persistent inflation and rising economic uncertainty, a return of 5% over the next 10 years is not attractive. Sarti said investors make a mistake when they simply compare gold, a non-yielding asset, with the return offered by U.S. government debt. While Treasury bonds are designed to generate income, he said gold serves a fundamentally different role in a portfolio.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-17/gold-truth-teller-us-debt-spirals-buy-gold-your-5000-check-jeff-sarti",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8f8bb890d956b7b1",
+      "titleEn": "SpaceX stock gains even as Starship Flight 14 gets new launch date",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/17/spacex-stock-gains-even-as-starship-flight-14-gets-new-launch-date/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bbfe5507adc5d8ac",
+      "titleEn": "Moderna stock rises 8%: can it continue its cancer vaccine success rally?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/17/moderna-stock-rises-8-can-it-continue-its-cancer-vaccine-success-rally/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:11bedd4a2f542a5d",
+      "titleEn": "Amazon Is Spending $6.8 Billion to Manufacture Walmart's Geography Advantage",
+      "summaryEn": "Amazon’s more than 1,000 same-day hubs could put fast-moving inventory within 10 miles of 80% of Prime members, taking aim at Walmart’s local delivery edge. Walmart’s 5,000 stores have become a fulfillment weapon. They already handle the last mile for 80% of its eCommerce orders, helping Walmart deliver 70% of online orders the same day. The next retail battleground is who owns inventory closest to the customer. Amazon is betting that smaller hubs, smarter inventory placement and automation can replicate the local advantage Walmart gets from physical stores.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/retail/2026/amazon-is-spending-6-8-billion-to-manufacture-walmarts-geography-advantage/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cab6187ce9c3b79a",
+      "titleEn": "Why is Oracle stock gaining 4% today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/17/why-is-oracle-stock-gaining-4-today/",
+      "published": null
+    },
     {
       "id": "stockanalysis:ae9719320be9422c",
       "titleEn": "Why Nvidia stock is up over 2% on Thursday",
@@ -91,123 +136,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/09/17/what-next-for-medical-properties-trust-stock-amid-asset-sales/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2ec52785ef90fe00",
-      "titleEn": "Credo Technology stock is slumping despite its strong revenue growth: what next?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/17/credo-technology-stock-is-slumping-despite-its-strong-revenue-growth-what-next/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9f69e8e9c5ff387a",
-      "titleEn": "Gold, silver rise as yields ease after Warsh's Fed hike - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Thursday, as lower crude oil prices and a modest pullback in Treasury yields helped precious metals recover after the Federal Reserve delivered its first rate hike in three years and signaled that more tightening may still be needed. At the time of writing, spot gold was trading near $4,372.30 an ounce, while spot silver was trading near $65.477. The latest positioning remains dominated by Wednesday’s Fed decision and the market’s read-through on the next move. The Fed raised the target range for the federal funds rate by 25 basis points to 3.75% to 4.00% , and its updated projections pointed to the possibility of another increase toward 4.1%. Chair Kevin Warsh framed the move around still-elevated inflation, resilient domestic demand and a labor market that has not deteriorated enough to force a pause. Initial jobless claims fell to 196,000, the lowest level since mid-July, reinforcing the view that layoffs remain rare. The two-year Treasury yield eased to about 4.72%, the 10-year yield traded near 5.00%, and the dollar softened slightly. For gold, the message is mixed: the rate path remains a headwind, but lower oil and a pullback in yields have allowed a short-covering bounce. Gold and silver are trading as tactical relief candidates, not confirmed trend reversals. Gold remains below the $4,354 resistance level from the latest technical setup, and a close above $4,403 would be needed to improve the chart. Silver has recovered above $64.40 in the latest FXEmpire framework, but the metal still needs to clear $65.28 to confirm a stronger recovery. The metals complex remains exposed to the next inflation and labor-market prints because Warsh’s Fed has left policy explicitly data-dependent.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-17/gold-silver-rise-yields-ease-after-warshs-fed-hike-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8ec944952dcff4b8",
-      "titleEn": "Gold price at $4,370/oz after U.S. weekly jobless claims fall to 196k",
-      "summaryEn": "(Kitco News) - Gold prices are trading near session highs on Thursday morning following the release of better than expected labor market data after the number of Americans filing new claims for unemployment benefits came in below economists’ forecasts. Initial claims for state unemployment benefits came in at seasonally adjusted 196,000 for the week ending September 12, the Labor Department announced on Thursday. The number was below expectations, as consensus estimates forecasted a reading of 208,000 claims. The previous week’s figure was unrevised at 206,000. Spot gold was setting fresh session highs shortly before the 8:30 am ET data release, and last traded at $4,370.58 per ounce for a gain of 2.50% on the daily chart.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-17/gold-price-4370oz-after-us-weekly-jobless-claims-fall-196k",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:701439ce3b6d1832",
-      "titleEn": "Gold price near high after U.S. housing starts fall 2.6%, building permits fall 2.7% in August",
-      "summaryEn": "(Kitco News) - Gold prices are trading near session highs this morning after the latest data showed the U.S. housing market delivering a weaker-than-expected performance last month. Housing starts fell 2.6% in July to a seasonally adjusted annual rate of 1.275 million units, the Commerce Department announced on Thursday. The data was worse than expected as economists looked for a rise to 1.310 million units. July’s number was also revised down to 1.309 million units. The report said that building permits for future homebuilding fell 2.7% to a rate of 1.394 million in August, which was worse than the consensus expectation for 1.410 million permits, while July&#x27;s figure was unrevised at 1.433 million.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-17/gold-price-near-high-after-us-housing-starts-fall-26-building-permits-fall",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:404e55e0613b87cc",
-      "titleEn": "Philly Fed survey can't derail gold's momentum",
-      "summaryEn": "(Kitco News) - The gold market is once again holding its own above critical near-term support, even as the U.S. manufacturing sector appears to be more resilient than economists had expected, according to the latest regional data from the Philadelphia Federal Reserve. The regional central bank said Thursday that its Manufacturing Business Outlook Survey for September came in at 37.8, down from last month’s five-year high of 47.4. The data were better than expected, as economists were looking for a reading of 31.3. “Responses to the September Manufacturing Business Outlook Survey suggest overall expansion in the region’s manufacturing activity,” the report said. “The survey’s broad indicators for future activity continued to suggest expectations for growth over the next six months.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-17/philly-fed-survey-cant-derail-golds-momentum",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:54823f44f02858b6",
-      "titleEn": "Nebius stock outlook: is the ongoing NBIS crash a buying opportunity?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/17/nebius-stock-outlook-is-the-ongoing-nbis-crash-a-buying-opportunity/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b598699a8262b08f",
-      "titleEn": "Broadcom stock has slumped amid AI safety panic: a golden time to buy?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/17/broadcom-stock-has-slumped-amid-ai-safety-panic-a-golden-time-to-buy/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bd45c7fb97b6ee9e",
-      "titleEn": "Grindr's Award-Winning Podcast, Who's the A**hole? Is Back for a Fifth Round",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917167413/en/Grindr%E2%80%99s-Award-Winning-Podcast-Who%E2%80%99s-the-A**hole-Is-Back-for-a-Fifth-Round/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ad83c85639659673",
-      "titleEn": "Oregon Bancorp Announces Quarterly Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917363464/en/Oregon-Bancorp-Announces-Quarterly-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fd273082c46b85e9",
-      "titleEn": "Armstrong World Industries Foundation Awards More Than $600,000 in 2026 Better Building Grants",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917557862/en/Armstrong-World-Industries-Foundation-Awards-More-Than-600000-in-2026-Better-Building-Grants/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1aaeab1bb5515a92",
-      "titleEn": "Marsh to Host Third Quarter Earnings Investor Call on October 15",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917799763/en/Marsh-to-Host-Third-Quarter-Earnings-Investor-Call-on-October-15/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d6124b81720bb0bd",
-      "titleEn": "Greenland Resources Concludes Successful Summer Field Program",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917212166/en/Greenland-Resources-Concludes-Successful-Summer-Field-Program/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f38063a5a8a2e3a6",
-      "titleEn": "T-Mobile to Host Q3 2026 Earnings Call on October 28, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917015300/en/T-Mobile-to-Host-Q3-2026-Earnings-Call-on-October-28-2026/",
       "published": null
     }
   ]
