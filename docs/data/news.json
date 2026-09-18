@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-09-18T17:28:20.105938Z",
+  "generatedAt": "2026-09-18T19:51:25.577426Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:b4b09419dd0c825a",
+      "titleEn": "Micron stock rises as RBC sees AI memory demand supporting valuation",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/18/micron-stock-rises-as-rbc-sees-ai-memory-demand-supporting-valuation/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b4bca8331b09f85f",
+      "titleEn": "Accenture stock falls 4% today: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/18/accenture-stock-falls-4-today-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:52eb5c085cb00b63",
+      "titleEn": "BitMine stock is stuck in neutral: here's why it is about to pump hard",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/18/bitmine-stock-is-stuck-in-neutral-heres-why-it-is-about-to-pump-hard/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:27a73055a84cb696",
+      "titleEn": "Why is SanDisk stock gaining 8% today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/18/why-is-sandisk-stock-gaining-8-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8cc238af0fefce4a",
+      "titleEn": "Socgen remains bullish on gold price in Q4 as central banks won't get ahead of inflation",
+      "summaryEn": "(Kitco News) - Central banks are just getting started with interest rate hikes, but despite this new tightening cycle, they are unlikely to get in front of the inflation curve, which means there is still a solid reason to own gold , according to one international investment bank. Market analysts at Société Générale said they remain overweight equities and commodities, with a specific focus on gold and copper heading into the final quarter of 2026. The French bank said it is maintaining a 10% position in gold and a 10% position in broader commodities, unchanged from the third quarter. At the same time, it increased its equity allocation to 58% from 55% while reducing its exposure to government bonds to 12% from 15%.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-18/socgen-remains-bullish-gold-price-q4-central-banks-wont-get-ahead-inflation",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f388a6de7625bbfc",
+      "titleEn": "BMO recommends betting on a recovery in this semiconductor stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/18/bmo-recommends-betting-on-a-recovery-in-this-semiconductor-stock/",
+      "published": null
+    },
     {
       "id": "stockanalysis:0b97760ecccc88c0",
       "titleEn": "Volkswagen stock plunges after slashing 2026 profit outlook after €10B hit",
@@ -40,84 +94,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:eaabd81409391908",
-      "titleEn": "Apple stock: Analysts see upside as iPhone 18 Pro sales begin",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/18/apple-stock-analysts-see-upside-as-iphone-18-pro-sales-begin/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1f340d7b9ac0c60e",
-      "titleEn": "Dow opens 90 pts lower as Buffett steps down, Netflix stock slides 5%",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/18/dow-opens-90-pts-lower-as-buffett-steps-down-netflix-stock-slides-5/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0fe9388a440ed267",
-      "titleEn": "PURR stock: Here's why Hyperliquid Strategies is soaring today",
+      "id": "stockanalysis:785cebfc6cda63be",
+      "titleEn": "Generation Mining Agrees to a Term Sheet with the Ontario Government for Funding to Support Construction of the Marathon Processing Facility",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/18/purr-stock-heres-why-hyperliquid-strategies-is-soaring-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:568eede5300dab18",
-      "titleEn": "Tempus AI stock is soaring: does it have more upside to go?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/18/tempus-ai-stock-is-soaring-does-it-have-more-upside-to-go/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a0ac8325e655af29",
-      "titleEn": "Gold, silver extend rebound as oil, yields ease after Fed hike - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Friday, as lower crude oil prices, easing Treasury yields and a softer dollar helped precious metals extend their post-Fed rebound. At the time of writing, spot gold was trading near $4,371.33 an ounce, up 0.67%, while spot silver was trading at $66.35, up 1.92% on the session. The latest positioning remains defined by the market’s reassessment of Wednesday’s Fed hike and the next leg of policy guidance. The Fed raised its target range by 25 basis points to 3.75% to 4.00% this week and signaled that another increase remains possible, but the immediate rate shock has faded as oil prices and Treasury yields pull back. The 10-year Treasury yield is trading around 4.93% to 4.94%, down from this week’s 5.04% high, while the dollar has stalled after its post-Fed advance. Thursday’s jobless-claims drop to 196,000 kept the labor market firm enough to preserve the Fed’s tightening bias. For gold, the setup is constructive but not clean: lower yields and oil support the rebound, while Warsh’s Fed has not removed the risk of another hike. Gold and silver are recovering because the oil-yield-dollar chain that pressured metals earlier in the week is running in reverse. Gold has reclaimed its 10-day moving-average area and is testing the $4,381 breakout level identified in the latest technical work. Silver is the stronger tape, with the metal recovering from the $62.98 support cluster and pressing toward the $66.97 to $68.33 resistance ladder. The rebound is still conditional. If crude stabilizes near current levels and the 10-year yield stays below 5%, metals can extend the recovery. If oil or yields reverse higher, the Fed-hike argument comes back quickly.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-18/gold-silver-extend-rebound-oil-yields-ease-after-fed-hike-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:21b2605b73f0a4ca",
-      "titleEn": "Anthropic, OpenAI quietly chase smaller AI data centre deals: report",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/18/anthropic-openai-quietly-chase-smaller-ai-data-centre-deals-report/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e095cf69f7e76b21",
-      "titleEn": "After 7% Rally in SOL, Solmate CEO Believes The Token Is Still Undervalued",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20260918266331/en/After-7-Rally-in-SOL-Solmate-CEO-Believes-The-Token-Is-Still-Undervalued/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a90afe6a58d4aa0d",
-      "titleEn": "The Walt Disney Company Names Karandeep Anand to Newly Created Role of Chief Technology Officer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260918458816/en/The-Walt-Disney-Company-Names-Karandeep-Anand-to-Newly-Created-Role-of-Chief-Technology-Officer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2d935e03c42c33a1",
-      "titleEn": "Omega Announces Third Quarter Earnings Release Date and Conference Call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260918624775/en/Omega-Announces-Third-Quarter-Earnings-Release-Date-and-Conference-Call/",
+      "link": "https://www.businesswire.com/news/home/20260918103846/en/Generation-Mining-Agrees-to-a-Term-Sheet-with-the-Ontario-Government-for-Funding-to-Support-Construction-of-the-Marathon-Processing-Facility/",
       "published": null
     }
   ]
