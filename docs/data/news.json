@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-09-18T19:51:25.577426Z",
+  "generatedAt": "2026-09-18T22:00:47.377849Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:f67a3a100bdf453d",
+      "titleEn": "Gold, silver prices hold weekly gains as oil drops, yields return to 5% - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in late-afternoon U.S. trading Friday, with both metals holding weekly gains as lower oil prices offset part of the pressure from a rebound in Treasury yields and a firmer U.S. dollar. At the time of writing, spot gold was trading near $4,382.38 an ounce, up 0.85%, while spot silver was trading at $66.13, up 1.58% on the session. North American equity markets finished mixed as higher Treasury yields capped the relief rally from Thursday. The S&P 500 rose 12.74 points, or 0.2%, to 7,650.50, the Dow Jones Industrial Average fell 95.40 points, or 0.2%, to 51,682.64, the Nasdaq Composite gained 104.25 points, or 0.4%, to 26,522.55, and the Russell 2000 fell 14.23 points, or 0.5%, to 2,860.40. European markets closed lower across the board, with the STOXX Europe 600 down 1.11% to 635.45. London’s FTSE 100 fell 1.45% to 10,659.13, Germany’s DAX lost 1.60% to 25,304.06, France’s CAC 40 declined 1.49% to 8,065.02, Italy’s FTSE MIB fell 1.60% to 51,545.25, and Spain’s IBEX 35 dropped 1.60% to 19,513.80. The latest positioning remains a tug of war between lower energy prices and a still-hawkish rates market. The Federal Reserve raised the target range for the federal funds rate by 25 basis points to 3.75% to 4.00% this week, and futures markets are now pricing a 58% chance of another rate hike in October. The 10-year Treasury yield climbed back to 5.00% from 4.94% late Thursday, while the two-year yield touched 4.744%, its highest intraday level since July 2024. For gold, the day’s setup is constructive but crowded: lower crude reduces the near-term inflation shock, but sticky Fed-hike pricing and 5% Treasury yields continue to limit the upside.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-18/gold-silver-prices-hold-weekly-gains-oil-drops-yields-return-5-kitco-pm",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:07a8a55a058bab16",
+      "titleEn": "SpaceX stock forecast after hitting a $946 million NASA deal",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/18/spacex-stock-forecast-after-hitting-a-946-million-nasa-deal/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9b1c383e7648ef94",
+      "titleEn": "Gold shrugs off Fed rate hike as deeper forces drive safe-haven demand",
+      "summaryEn": "(Kitco News) - A lot more appears to be going on in the gold market than monetary policy alone can explain, as prices continue to hold critical support heading into the weekend, even after the Federal Reserve raised interest rates and signaled further tightening by year-end. Analysts note that gold’s resilience is particularly notable given the traditional headwinds facing the precious metal. The Federal Reserve raised the federal funds rate by 25 basis points on Wednesday, while Fed Chair Kevin Warsh maintained a hawkish tone as the central bank continues its fight against persistent inflation. At the same time, U.S. bond yields remain elevated, with the 10-year Treasury yield hovering near the psychologically important 5% level.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-18/gold-shrugs-fed-rate-hike-deeper-forces-drive-safe-haven-demand",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:127ba02e44a34135",
+      "titleEn": "OpenAI Targets Legal Tech Market With Astra for Law",
+      "summaryEn": "OpenAI has launched an artificial intelligence foundation designed to be used by law firms and legal technology companies to build AI products and workflows, the company said in a Thursday (Sept. 17) blog post . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The new Astra for Law combines OpenAI’s latest and most powerful model, GPT-6 Astra, with settings, tools and context tailored for professional legal work, the AI company said. As OpenAI’s frontier models advance, the company will bring these legal capabilities to its latest models, according to the post.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-targets-legal-tech-market-with-astra-for-law/",
+      "published": null
+    },
     {
       "id": "stockanalysis:b4b09419dd0c825a",
       "titleEn": "Micron stock rises as RBC sees AI memory demand supporting valuation",
@@ -67,39 +103,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:326fe10e4ad74fc3",
-      "titleEn": "Strategy (MSTR), Coinbase as Bitcoin hits $80k again, SEC eases tokenized trading",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/18/strategy-mstr-coinbase-as-bitcoin-hits-80k-again-sec-eases-tokenized-trading/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b97ec37f1ea4a30d",
-      "titleEn": "DraftKings stock is losing to prediction markets despite CEO reassurances",
+      "id": "stockanalysis:2bc9b80c27947c33",
+      "titleEn": "Marcus &amp; Millichap's IPA Capital Markets Arranges $43 Million Construction Financing for Multifamily Property in Greater Miami",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/18/draftkings-stock-is-losing-to-prediction-markets-despite-ceo-reassurances/",
+      "link": "https://www.businesswire.com/news/home/20260918353566/en/Marcus-Millichap%E2%80%99s-IPA-Capital-Markets-Arranges-43-Million-Construction-Financing-for-Multifamily-Property-in-Greater-Miami/",
       "published": null
     },
     {
-      "id": "stockanalysis:3578986828896d3f",
-      "titleEn": "India's festive season starts cautiously amid price volatility, gold ETFs and futures stay strong in August – WGC's Chacko",
-      "summaryEn": "(Kitco News) – Indian jewelry buying was resilient and physical investment demand remained steady despite August’s gold price volatility, while ETF demand remained positive and gold futures volumes hit a five-month high, according to Kavita Chacko, Research Head for India at the World Gold Council (WGC). In the latest WGC India update, Chacko wrote that both international and domestic gold prices surged in August, while domestic discounts widened. “Strong investment flows and a softer US dollar were key drivers of the rally,” she said. “Domestic gold prices broadly mirrored the global trend, rising 12% during the month to INR158,854/10g, although gains were slightly tempered by the marginal appreciation of the INR. Both international and domestic prices have pulled back in September, declining 3.9% and 4.6% respectively, amid shifting expectations around Fed policy and softer global gold ETF flows.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-18/indias-festive-season-starts-cautiously-amid-price-volatility-gold-etfs-and",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:785cebfc6cda63be",
-      "titleEn": "Generation Mining Agrees to a Term Sheet with the Ontario Government for Funding to Support Construction of the Marathon Processing Facility",
+      "id": "stockanalysis:a52f132ccbe9fae4",
+      "titleEn": "Power Integrations Reports Inducement Grants under Nasdaq Listing Rule 5635(c)(4)",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20260918103846/en/Generation-Mining-Agrees-to-a-Term-Sheet-with-the-Ontario-Government-for-Funding-to-Support-Construction-of-the-Marathon-Processing-Facility/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260918879722/en/Power-Integrations-Reports-Inducement-Grants-under-Nasdaq-Listing-Rule-5635-c-4/",
       "published": null
     }
   ]
