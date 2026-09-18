@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-09-18T05:22:59.556169Z",
+  "generatedAt": "2026-09-18T09:55:35.774828Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:098516235814df4a",
+      "titleEn": "Could GOOG stock rise by up to 40%? Search strength, AI push could make it possible",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/18/could-goog-stock-rise-by-up-to-40-search-strength-ai-push-could-make-it-possible/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0d2c819f885f644e",
+      "titleEn": "Oversight Board blasts 'inadequate' Meta safeguards for AI deepfakes",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Meta on Thursday moved to remove AI-generated videos targeting two women, including a British politician, after the tech giant's Oversight Board blasted its \"fundamentally inadequate\" safeguards against proliferating deepfakes. The Oversight Board, the quasi-independent body the company funds to review its moderation decisions, earlier Thursday demanded that Meta remove the fabricated videos from its platforms, saying the cases undermined its own policies on hate speech, misinformation and harassment.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-09-oversight-board-blasts-inadequate-meta.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ca591f5ca6515356",
+      "titleEn": "NYT alleges Microsoft, OpenAI knew using news content was theft",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: OpenAI committed \"an astonishing theft of unprecedented proportions\" when it used millions of news articles to train its artificial intelligence models, The New York Times alleged in a court document unsealed Thursday. The San Francisco-based artificial intelligence lab scraped content from more than 10 million articles, nearly a third of which came from The New York Times alone.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-09-nyt-alleges-microsoft-openai-knew.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0596ae0dcf1581f6",
+      "titleEn": "Claude helped hackers get inside OpenAI, but the real shock came next",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/18/claude-helped-hackers-get-inside-openai-but-the-real-shock-came-next/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c3a9aefba26d82be",
+      "titleEn": "KOSPI jumps 2% as Nikkei rises: why investors are looking past the BoJ hike",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/18/kospi-jumps-2-as-nikkei-rises-why-investors-are-looking-past-the-boj-hike/",
+      "published": null
+    },
     {
       "id": "stockanalysis:5045ef72ffcf086e",
       "titleEn": "SK Hynix jumps 5% Samsung rises 3% as Intel warning challenges peak memory fears",
@@ -31,66 +76,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:8f8bb890d956b7b1",
-      "titleEn": "SpaceX stock gains even as Starship Flight 14 gets new launch date",
+      "id": "stockanalysis:b0d87cb5a9779c5b",
+      "titleEn": "U.K. Public Sector Adopts Platform-Based Delivery Approach",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/17/spacex-stock-gains-even-as-starship-flight-14-gets-new-launch-date/",
+      "link": "https://www.businesswire.com/news/home/20260918857513/en/U.K.-Public-Sector-Adopts-Platform-Based-Delivery-Approach/",
       "published": null
     },
     {
-      "id": "stockanalysis:bbfe5507adc5d8ac",
-      "titleEn": "Moderna stock rises 8%: can it continue its cancer vaccine success rally?",
+      "id": "stockanalysis:2618ba236855572c",
+      "titleEn": "Tesco Partners with Vontier to Elevate Forecourt Automation and Integration",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/17/moderna-stock-rises-8-can-it-continue-its-cancer-vaccine-success-rally/",
+      "link": "https://www.businesswire.com/news/home/20260918042774/en/Tesco-Partners-with-Vontier-to-Elevate-Forecourt-Automation-and-Integration/",
       "published": null
     },
     {
-      "id": "stockanalysis:11bedd4a2f542a5d",
-      "titleEn": "Amazon Is Spending $6.8 Billion to Manufacture Walmart's Geography Advantage",
-      "summaryEn": "Amazon’s more than 1,000 same-day hubs could put fast-moving inventory within 10 miles of 80% of Prime members, taking aim at Walmart’s local delivery edge. Walmart’s 5,000 stores have become a fulfillment weapon. They already handle the last mile for 80% of its eCommerce orders, helping Walmart deliver 70% of online orders the same day. The next retail battleground is who owns inventory closest to the customer. Amazon is betting that smaller hubs, smarter inventory placement and automation can replicate the local advantage Walmart gets from physical stores.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/retail/2026/amazon-is-spending-6-8-billion-to-manufacture-walmarts-geography-advantage/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:37abc2949334d8ad",
-      "titleEn": "Takeda Employees Select Four New Global Corporate Social Responsibility Collaborations to Advance Climate-Resilient Health Systems",
+      "id": "stockanalysis:5e5b4abaf08e2bd3",
+      "titleEn": "LEO Pharma Announces FDA Acceptance of Dersimelagon NDA with Priority Review and Closes Acquisition from Tanabe Pharma",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917571464/en/Takeda-Employees-Select-Four-New-Global-Corporate-Social-Responsibility-Collaborations-to-Advance-Climate-Resilient-Health-Systems/",
+      "link": "https://www.businesswire.com/news/home/20260918178750/en/LEO-Pharma-Announces-FDA-Acceptance-of-Dersimelagon-NDA-with-Priority-Review-and-Closes-Acquisition-from-Tanabe-Pharma/",
       "published": null
     },
     {
-      "id": "stockanalysis:ec6022e69572be96",
-      "titleEn": "Sopra Steria Group: Financial Calendar 2027",
+      "id": "stockanalysis:1edb4795317407f8",
+      "titleEn": "TotalEnergies Signs an Agreement with GIP on African Energy Infrastructure Assets",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917995794/en/Sopra-Steria-Group-Financial-Calendar-2027/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:39438769e582b731",
-      "titleEn": "Uber Ordered to Pay $40 Million to Parents of Young Woman Killed After Uber Driver Abandoned Her on Freeway During Ride Home — Panish | Shea | Ravipudi LLP",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917028213/en/Uber-Ordered-to-Pay-40-Million-to-Parents-of-Young-Woman-Killed-After-Uber-Driver-Abandoned-Her-on-Freeway-During-Ride-Home-%E2%80%94-Panish-Shea-Ravipudi-LLP/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c1214289556e0706",
-      "titleEn": "SEGA Selects Logitech G as Official Steering Wheel Partner for Crazy Taxi: World Tour",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917522054/en/SEGA-Selects-Logitech-G-as-Official-Steering-Wheel-Partner-for-Crazy-Taxi-World-Tour/",
+      "link": "https://www.businesswire.com/news/home/20260917390944/en/TotalEnergies-Signs-an-Agreement-with-GIP-on-African-Energy-Infrastructure-Assets/",
       "published": null
     }
   ]
