@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-17T22:56:14.923169Z",
+  "generatedAt": "2026-09-18T00:54:33.808933Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:072f6a4df494c30f",
@@ -58,21 +58,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ae9719320be9422c",
-      "titleEn": "Why Nvidia stock is up over 2% on Thursday",
+      "id": "stockanalysis:87d9a4ef2c63577e",
+      "titleEn": "ASUS and Poesis Team Up on Autonomous Trading Agents Powered by NVIDIA Technologies",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/17/why-nvidia-stock-is-up-over-2-on-thursday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5ad271148465462b",
-      "titleEn": "Ciena stock rises as analysts lift target after $14B FY29 revenue outlook",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/17/ciena-stock-rises-as-analysts-lift-target-after-14b-fy29-revenue-outlook/",
+      "link": "https://www.businesswire.com/news/home/20260917983330/en/ASUS-and-Poesis-Team-Up-on-Autonomous-Trading-Agents-Powered-by-NVIDIA-Technologies/",
       "published": null
     },
     {
@@ -100,51 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260917599591/en/Walker-Dunlop-Arranges-300-Million-Refinancing-for-Mixed-Use-Property-in-Manhattan%E2%80%99s-Meatpacking-District/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:45bfc4e7cb9fd218",
-      "titleEn": "Simulations Plus Expands FDA Adoption of ADMET Predictor® with New Licenses for the Cosmetics Regulatory Science Branch",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917938732/en/Simulations-Plus-Expands-FDA-Adoption-of-ADMET-Predictor%C2%AE-with-New-Licenses-for-the-Cosmetics-Regulatory-Science-Branch/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:156285cc9a31567d",
-      "titleEn": "Paradium.AI Signs 10-Year Strategic Platform Agreement with Roundtable (Nasdaq: RTB)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260917149677/en/Paradium.AI-Signs-10-Year-Strategic-Platform-Agreement-with-Roundtable-Nasdaq-RTB/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:078d20005305fdaa",
-      "titleEn": "Rainwater Crossing Celebrates Opening of Whispering Grove and Unveiling of Scout's Tree",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917561135/en/Rainwater-Crossing-Celebrates-Opening-of-Whispering-Grove-and-Unveiling-of-Scouts-Tree/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:69ffd3bf1ffcc12f",
-      "titleEn": "AM Best Upgrades Credit Ratings of Bupa Insurance Company",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917676090/en/AM-Best-Upgrades-Credit-Ratings-of-Bupa-Insurance-Company/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6488af938e774f6b",
-      "titleEn": "Brown-Forman Announces $500 Million Debt Offering",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917090355/en/Brown-Forman-Announces-500-Million-Debt-Offering/",
       "published": null
     }
   ]
