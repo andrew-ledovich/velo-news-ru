@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-09-18T13:58:12.673791Z",
+  "generatedAt": "2026-09-18T17:28:20.105938Z",
   "sourceCount": 1,
   "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:0b97760ecccc88c0",
+      "titleEn": "Volkswagen stock plunges after slashing 2026 profit outlook after €10B hit",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/18/volkswagen-stock-plunges-after-slashing-2026-profit-outlook-after-e10b-hit/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:326fe10e4ad74fc3",
+      "titleEn": "Strategy (MSTR), Coinbase as Bitcoin hits $80k again, SEC eases tokenized trading",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/09/18/strategy-mstr-coinbase-as-bitcoin-hits-80k-again-sec-eases-tokenized-trading/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b97ec37f1ea4a30d",
+      "titleEn": "DraftKings stock is losing to prediction markets despite CEO reassurances",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/18/draftkings-stock-is-losing-to-prediction-markets-despite-ceo-reassurances/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3578986828896d3f",
+      "titleEn": "India's festive season starts cautiously amid price volatility, gold ETFs and futures stay strong in August – WGC's Chacko",
+      "summaryEn": "(Kitco News) – Indian jewelry buying was resilient and physical investment demand remained steady despite August’s gold price volatility, while ETF demand remained positive and gold futures volumes hit a five-month high, according to Kavita Chacko, Research Head for India at the World Gold Council (WGC). In the latest WGC India update, Chacko wrote that both international and domestic gold prices surged in August, while domestic discounts widened. “Strong investment flows and a softer US dollar were key drivers of the rally,” she said. “Domestic gold prices broadly mirrored the global trend, rising 12% during the month to INR158,854/10g, although gains were slightly tempered by the marginal appreciation of the INR. Both international and domestic prices have pulled back in September, declining 3.9% and 4.6% respectively, amid shifting expectations around Fed policy and softer global gold ETF flows.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-18/indias-festive-season-starts-cautiously-amid-price-volatility-gold-etfs-and",
+      "published": null
+    },
     {
       "id": "stockanalysis:eaabd81409391908",
       "titleEn": "Apple stock: Analysts see upside as iPhone 18 Pro sales begin",
@@ -58,66 +94,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:098516235814df4a",
-      "titleEn": "Could GOOG stock rise by up to 40%? Search strength, AI push could make it possible",
+      "id": "stockanalysis:e095cf69f7e76b21",
+      "titleEn": "After 7% Rally in SOL, Solmate CEO Believes The Token Is Still Undervalued",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/18/could-goog-stock-rise-by-up-to-40-search-strength-ai-push-could-make-it-possible/",
+      "topic": "CRYPTO",
+      "link": "https://www.businesswire.com/news/home/20260918266331/en/After-7-Rally-in-SOL-Solmate-CEO-Believes-The-Token-Is-Still-Undervalued/",
       "published": null
     },
     {
-      "id": "stockanalysis:0d2c819f885f644e",
-      "titleEn": "Oversight Board blasts 'inadequate' Meta safeguards for AI deepfakes",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Meta on Thursday moved to remove AI-generated videos targeting two women, including a British politician, after the tech giant's Oversight Board blasted its \"fundamentally inadequate\" safeguards against proliferating deepfakes. The Oversight Board, the quasi-independent body the company funds to review its moderation decisions, earlier Thursday demanded that Meta remove the fabricated videos from its platforms, saying the cases undermined its own policies on hate speech, misinformation and harassment.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-09-oversight-board-blasts-inadequate-meta.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ca591f5ca6515356",
-      "titleEn": "NYT alleges Microsoft, OpenAI knew using news content was theft",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: OpenAI committed \"an astonishing theft of unprecedented proportions\" when it used millions of news articles to train its artificial intelligence models, The New York Times alleged in a court document unsealed Thursday. The San Francisco-based artificial intelligence lab scraped content from more than 10 million articles, nearly a third of which came from The New York Times alone.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-09-nyt-alleges-microsoft-openai-knew.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0596ae0dcf1581f6",
-      "titleEn": "Claude helped hackers get inside OpenAI, but the real shock came next",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/18/claude-helped-hackers-get-inside-openai-but-the-real-shock-came-next/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c3a9aefba26d82be",
-      "titleEn": "KOSPI jumps 2% as Nikkei rises: why investors are looking past the BoJ hike",
+      "id": "stockanalysis:a90afe6a58d4aa0d",
+      "titleEn": "The Walt Disney Company Names Karandeep Anand to Newly Created Role of Chief Technology Officer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/18/kospi-jumps-2-as-nikkei-rises-why-investors-are-looking-past-the-boj-hike/",
+      "link": "https://www.businesswire.com/news/home/20260918458816/en/The-Walt-Disney-Company-Names-Karandeep-Anand-to-Newly-Created-Role-of-Chief-Technology-Officer/",
       "published": null
     },
     {
-      "id": "stockanalysis:a0b3474ec9ecf81c",
-      "titleEn": "AM Best Upgrades Credit Ratings of Enact Holdings, Inc. and Certain Operating Subsidiaries",
+      "id": "stockanalysis:2d935e03c42c33a1",
+      "titleEn": "Omega Announces Third Quarter Earnings Release Date and Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260918279979/en/AM-Best-Upgrades-Credit-Ratings-of-Enact-Holdings-Inc.-and-Certain-Operating-Subsidiaries/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5fb616fa0a9d9199",
-      "titleEn": "Afya Limited Announces Medical Seats Increase in AFYA Cruzeiro do Sul",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260918664028/en/Afya-Limited-Announces-Medical-Seats-Increase-in-AFYA-Cruzeiro-do-Sul/",
+      "link": "https://www.businesswire.com/news/home/20260918624775/en/Omega-Announces-Third-Quarter-Earnings-Release-Date-and-Conference-Call/",
       "published": null
     }
   ]
