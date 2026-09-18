@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-18T00:54:33.808933Z",
+  "generatedAt": "2026-09-18T05:22:59.556169Z",
   "sourceCount": 1,
   "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:5045ef72ffcf086e",
+      "titleEn": "SK Hynix jumps 5% Samsung rises 3% as Intel warning challenges peak memory fears",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/18/sk-hynix-jumps-5-samsung-rises-3-as-intel-warning-challenges-peak-memory-fears/",
+      "published": null
+    },
     {
       "id": "stockanalysis:072f6a4df494c30f",
       "titleEn": "Gold price rebounds above $4,340 as lower oil eases rate pressure - Kitco PM Report",
@@ -49,48 +58,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:cab6187ce9c3b79a",
-      "titleEn": "Why is Oracle stock gaining 4% today?",
+      "id": "stockanalysis:37abc2949334d8ad",
+      "titleEn": "Takeda Employees Select Four New Global Corporate Social Responsibility Collaborations to Advance Climate-Resilient Health Systems",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/17/why-is-oracle-stock-gaining-4-today/",
+      "link": "https://www.businesswire.com/news/home/20260917571464/en/Takeda-Employees-Select-Four-New-Global-Corporate-Social-Responsibility-Collaborations-to-Advance-Climate-Resilient-Health-Systems/",
       "published": null
     },
     {
-      "id": "stockanalysis:87d9a4ef2c63577e",
-      "titleEn": "ASUS and Poesis Team Up on Autonomous Trading Agents Powered by NVIDIA Technologies",
+      "id": "stockanalysis:ec6022e69572be96",
+      "titleEn": "Sopra Steria Group: Financial Calendar 2027",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917983330/en/ASUS-and-Poesis-Team-Up-on-Autonomous-Trading-Agents-Powered-by-NVIDIA-Technologies/",
+      "link": "https://www.businesswire.com/news/home/20260917995794/en/Sopra-Steria-Group-Financial-Calendar-2027/",
       "published": null
     },
     {
-      "id": "stockanalysis:b21b9f32cbaa4c95",
-      "titleEn": "Clean Harbors Prices Offering of Senior Notes Due 2034",
+      "id": "stockanalysis:39438769e582b731",
+      "titleEn": "Uber Ordered to Pay $40 Million to Parents of Young Woman Killed After Uber Driver Abandoned Her on Freeway During Ride Home — Panish | Shea | Ravipudi LLP",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917040366/en/Clean-Harbors-Prices-Offering-of-Senior-Notes-Due-2034/",
+      "link": "https://www.businesswire.com/news/home/20260917028213/en/Uber-Ordered-to-Pay-40-Million-to-Parents-of-Young-Woman-Killed-After-Uber-Driver-Abandoned-Her-on-Freeway-During-Ride-Home-%E2%80%94-Panish-Shea-Ravipudi-LLP/",
       "published": null
     },
     {
-      "id": "stockanalysis:863bb84fa87c2169",
-      "titleEn": "Latin America's PAHO-Gilead HIV Prevention Deal Is a Victory for Civil Society, says AHF",
+      "id": "stockanalysis:c1214289556e0706",
+      "titleEn": "SEGA Selects Logitech G as Official Steering Wheel Partner for Crazy Taxi: World Tour",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917065835/en/Latin-America%E2%80%99s-PAHO-Gilead-HIV-Prevention-Deal-Is-a-Victory-for-Civil-Society-says-AHF/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:403f5e291eae0050",
-      "titleEn": "Walker &amp; Dunlop Arranges $300 Million Refinancing for Mixed-Use Property in Manhattan's Meatpacking District",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917599591/en/Walker-Dunlop-Arranges-300-Million-Refinancing-for-Mixed-Use-Property-in-Manhattan%E2%80%99s-Meatpacking-District/",
+      "link": "https://www.businesswire.com/news/home/20260917522054/en/SEGA-Selects-Logitech-G-as-Official-Steering-Wheel-Partner-for-Crazy-Taxi-World-Tour/",
       "published": null
     }
   ]
