@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-19T18:40:05.174807Z",
+  "generatedAt": "2026-09-19T20:59:05.758528Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:2c83c9bbd0138856",
@@ -73,6 +73,24 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-targets-legal-tech-market-with-astra-for-law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bd8c46f0f8e787c9",
+      "titleEn": "AIRS Investors Have Opportunity to Join AirSculpt Technologies, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260919019110/en/AIRS-Investors-Have-Opportunity-to-Join-AirSculpt-Technologies-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bc38bd7f86d78afc",
+      "titleEn": "MG Investors Have Opportunity to Join Mistras Group, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260919263009/en/MG-Investors-Have-Opportunity-to-Join-Mistras-Group-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
