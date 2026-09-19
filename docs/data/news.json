@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-19T09:02:52.161124Z",
+  "generatedAt": "2026-09-19T13:06:26.032292Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:2c83c9bbd0138856",
@@ -82,24 +82,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/09/18/micron-stock-rises-as-rbc-sees-ai-memory-demand-supporting-valuation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b4bca8331b09f85f",
-      "titleEn": "Accenture stock falls 4% today: here's why",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/18/accenture-stock-falls-4-today-heres-why/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:52eb5c085cb00b63",
-      "titleEn": "BitMine stock is stuck in neutral: here's why it is about to pump hard",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/18/bitmine-stock-is-stuck-in-neutral-heres-why-it-is-about-to-pump-hard/",
       "published": null
     },
     {
