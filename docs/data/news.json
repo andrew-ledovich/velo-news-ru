@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-09-18T22:00:47.377849Z",
+  "generatedAt": "2026-09-19T00:16:16.221679Z",
   "sourceCount": 1,
   "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:2c83c9bbd0138856",
+      "titleEn": "Anthropic Targets November IPO as Revenue Surges",
+      "summaryEn": "Anthropic plans to launch its initial public offering in November, later than the October debut many investors had expected, The Wall Street Journal reported Friday (Sept. 18), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The November date may have been chosen to allow Anthropic to share its third-quarter financials, which are expected to show strong results. The date was chosen before the recent debate about whether artificial intelligence is developing too quickly, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/anthropic-targets-november-ipo-revenue-surges/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e4ff102762d99001",
+      "titleEn": "The Fed raised rates and gold didn't break: Here's why",
+      "summaryEn": "(Kitco News) - Last week we argued that gold investors should stop obsessing over limited US monetary policy moves and start paying attention to the next $1 trillion of U.S. debt. The Federal Reserve raised interest rates by 25 basis points Wednesday and Chair Kevin Warsh made it clear that policymakers remain committed to bringing inflation back under control. Despite this hawkish rhetoric, the gold market did not break. Instead, gold is holding critical support above $4,300 an ounce while snapping a three-week losing streak.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-18/fed-raised-rates-and-gold-didnt-break-heres-why",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e63bd200943d37dd",
+      "titleEn": "Wall Street goes full bull on gold price after post-hike gains, Main Street bolsters bullish majority as gold holds $4,300",
+      "summaryEn": "(Kitco News) – Gold prices rebounded during a wild week, as an early selloff driven by surging oil prices, near-5% Treasury yields, and expectations for a Federal Reserve rate hike gave way to a sharp recovery after the hike was delivered and oil and yield pressure eased. Spot gold kicked off the week trading at $4,340 per ounce on Sunday evening, and that yellow metal quickly came under pressure as traders priced in stronger inflation risks from higher crude prices and renewed U.S.-Iran tensions. The selling accelerated through Monday and Tuesday, with gold dropping to a more than one-month low near $4,279.30 per ounce on Tuesday as markets treated this week’s Fed hike as increasingly locked in. Gold attempted to stabilize Wednesday ahead of the Fed decision, but the rebound failed after the FOMC voted 12-0 to raise rates by 25 basis points to a 3.75% to 4.00% target range, while the updated projections showed 16 of 18 policymakers still expected another hike before year-end. Spot gold fell back after the announcement and set its weekly low near $4,261.80 per ounce on Wednesday afternoon.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-18/wall-street-goes-full-bull-gold-price-after-post-hike-gains-main-street",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:00e8dc740d361880",
+      "titleEn": "Chewy Puts a $50 Million Price Tag on AI Productivity",
+      "summaryEn": "Chewy executives said they expect AI to take about $50 million out of its costs in fiscal 2027, up from the low tens of millions this fiscal year. CEO Sumit Singh told analysts he has high confidence in both figures. Most of the savings come from tools customers never see. AI pulls answers together for service agents, checks pharmacy data and books appointments at Chewy’s vet clinics. Chewy spent several quarters getting its data right before it launched an AI assistant. Its new customer assistant, Cai, already resolves about 30% of chats without a human agent.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/chewy-puts-50-million-dollar-price-tag-ai-productivity/",
+      "published": null
+    },
     {
       "id": "stockanalysis:f67a3a100bdf453d",
       "titleEn": "Gold, silver prices hold weekly gains as oil drops, yields return to 5% - Kitco PM Report",
@@ -82,42 +118,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-09-18/socgen-remains-bullish-gold-price-q4-central-banks-wont-get-ahead-inflation",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f388a6de7625bbfc",
-      "titleEn": "BMO recommends betting on a recovery in this semiconductor stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/18/bmo-recommends-betting-on-a-recovery-in-this-semiconductor-stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0b97760ecccc88c0",
-      "titleEn": "Volkswagen stock plunges after slashing 2026 profit outlook after €10B hit",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/18/volkswagen-stock-plunges-after-slashing-2026-profit-outlook-after-e10b-hit/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2bc9b80c27947c33",
-      "titleEn": "Marcus &amp; Millichap's IPA Capital Markets Arranges $43 Million Construction Financing for Multifamily Property in Greater Miami",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260918353566/en/Marcus-Millichap%E2%80%99s-IPA-Capital-Markets-Arranges-43-Million-Construction-Financing-for-Multifamily-Property-in-Greater-Miami/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a52f132ccbe9fae4",
-      "titleEn": "Power Integrations Reports Inducement Grants under Nasdaq Listing Rule 5635(c)(4)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260918879722/en/Power-Integrations-Reports-Inducement-Grants-under-Nasdaq-Listing-Rule-5635-c-4/",
       "published": null
     }
   ]
