@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-19T20:59:05.758528Z",
+  "generatedAt": "2026-09-19T22:41:28.304385Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 15,
   "items": [
     {
       "id": "stockanalysis:2c83c9bbd0138856",
@@ -73,6 +73,33 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-targets-legal-tech-market-with-astra-for-law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:227f0d48a4b4af5e",
+      "titleEn": "SEDG Investors Have Opportunity to Join SolarEdge Technologies, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260919549481/en/SEDG-Investors-Have-Opportunity-to-Join-SolarEdge-Technologies-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:25704ea0dec2e21b",
+      "titleEn": "KLAR Investors Have Opportunity to Join Klarna Group plc Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260919070337/en/KLAR-Investors-Have-Opportunity-to-Join-Klarna-Group-plc-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a05de1e3993258f8",
+      "titleEn": "BBW Investors Have Opportunity to Join Build-A-Bear Workshop, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260919502218/en/BBW-Investors-Have-Opportunity-to-Join-Build-A-Bear-Workshop-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
