@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-19T22:41:28.304385Z",
+  "generatedAt": "2026-09-20T00:22:53.589384Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 16,
   "items": [
     {
       "id": "stockanalysis:2c83c9bbd0138856",
@@ -73,6 +73,15 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-targets-legal-tech-market-with-astra-for-law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:91775880d167fbb7",
+      "titleEn": "CLLS Investors Have Opportunity to Join Cellectis S.A. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260919446999/en/CLLS-Investors-Have-Opportunity-to-Join-Cellectis-S.A.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
