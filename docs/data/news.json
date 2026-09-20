@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-20T05:04:50.092897Z",
+  "generatedAt": "2026-09-20T09:45:47.510404Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 17,
   "items": [
     {
       "id": "stockanalysis:2c83c9bbd0138856",
@@ -64,15 +64,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-09-18/gold-shrugs-fed-rate-hike-deeper-forces-drive-safe-haven-demand",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:127ba02e44a34135",
-      "titleEn": "OpenAI Targets Legal Tech Market With Astra for Law",
-      "summaryEn": "OpenAI has launched an artificial intelligence foundation designed to be used by law firms and legal technology companies to build AI products and workflows, the company said in a Thursday (Sept. 17) blog post . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The new Astra for Law combines OpenAI’s latest and most powerful model, GPT-6 Astra, with settings, tools and context tailored for professional legal work, the AI company said. As OpenAI’s frontier models advance, the company will bring these legal capabilities to its latest models, according to the post.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-targets-legal-tech-market-with-astra-for-law/",
       "published": null
     },
     {
