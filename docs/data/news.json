@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-20T13:47:13.261707Z",
+  "generatedAt": "2026-09-20T17:04:48.330203Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:a43111c2773ec312",
+      "titleEn": "Oracle stock at risk as a major $18 billion headwind emerges",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/20/oracle-stock-at-risk-as-a-major-18-billion-headwind-emerges/",
+      "published": null
+    },
     {
       "id": "stockanalysis:2c83c9bbd0138856",
       "titleEn": "Anthropic Targets November IPO as Revenue Surges",
@@ -55,6 +64,42 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/09/18/spacex-stock-forecast-after-hitting-a-946-million-nasa-deal/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3eabb54a84c8dddf",
+      "titleEn": "SMR Investors Have Opportunity to Join NuScale Power Corporation Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260920541256/en/SMR-Investors-Have-Opportunity-to-Join-NuScale-Power-Corporation-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:68f4a471120fe777",
+      "titleEn": "GLW Investors Have Opportunity to Join Corning Incorporated Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260920169514/en/GLW-Investors-Have-Opportunity-to-Join-Corning-Incorporated-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:61d0a7449312c485",
+      "titleEn": "FLNC Investors Have Opportunity to Join Fluence Energy, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260920618043/en/FLNC-Investors-Have-Opportunity-to-Join-Fluence-Energy-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:42fc13dc825251f7",
+      "titleEn": "SECZ Investors Have Opportunity to Join Securitize Corp. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260920547337/en/SECZ-Investors-Have-Opportunity-to-Join-Securitize-Corp.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
@@ -127,33 +172,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260919502218/en/BBW-Investors-Have-Opportunity-to-Join-Build-A-Bear-Workshop-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bd8c46f0f8e787c9",
-      "titleEn": "AIRS Investors Have Opportunity to Join AirSculpt Technologies, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260919019110/en/AIRS-Investors-Have-Opportunity-to-Join-AirSculpt-Technologies-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bc38bd7f86d78afc",
-      "titleEn": "MG Investors Have Opportunity to Join Mistras Group, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260919263009/en/MG-Investors-Have-Opportunity-to-Join-Mistras-Group-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f96f9df62987df1c",
-      "titleEn": "LRN Launches Catalyst Policy to Transform Global Corporate Policy Governance",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260919962738/en/LRN-Launches-Catalyst-Policy-to-Transform-Global-Corporate-Policy-Governance/",
       "published": null
     }
   ]
