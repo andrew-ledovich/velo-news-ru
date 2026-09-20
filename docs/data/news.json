@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-20T17:04:48.330203Z",
+  "generatedAt": "2026-09-20T19:25:25.051994Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 18,
   "items": [
     {
       "id": "stockanalysis:a43111c2773ec312",
@@ -55,15 +55,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-09-18/gold-silver-prices-hold-weekly-gains-oil-drops-yields-return-5-kitco-pm",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:07a8a55a058bab16",
-      "titleEn": "SpaceX stock forecast after hitting a $946 million NASA deal",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/18/spacex-stock-forecast-after-hitting-a-946-million-nasa-deal/",
       "published": null
     },
     {
