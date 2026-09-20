@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-20T21:41:21.358235Z",
+  "generatedAt": "2026-09-20T23:30:41.035507Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 15,
   "items": [
     {
       "id": "stockanalysis:a43111c2773ec312",
@@ -55,6 +55,15 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-09-18/gold-silver-prices-hold-weekly-gains-oil-drops-yields-return-5-kitco-pm",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:64b1cc70052242ec",
+      "titleEn": "Faraday Future Founder and Global CEO YT Jia Weekly Investor Update: Shares Details from FF's 919 FF EAI Robotics “Four-Core Full-Stack AI” Ecosystem New Product Series Launch; Four Industry Productivity Solutions, Nine New EAI Devices Unveiled",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260920309558/en/Faraday-Future-Founder-and-Global-CEO-YT-Jia-Weekly-Investor-Update-Shares-Details-from-FF%E2%80%99s-919-FF-EAI-Robotics-%E2%80%9CFour-Core-Full-Stack-AI%E2%80%9D-Ecosystem-New-Product-Series-Launch-Four-Industry-Productivity-Solutions-Nine-New-EAI-Devices-Unveiled/",
       "published": null
     },
     {
@@ -127,33 +136,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260919657129/en/Faraday-Future-Launches-Four-Industry-Productivity-Solutions-Nine-New-EAI-Devices-at-Its-919-Event-Building-Its-%E2%80%9COne-Brain-Multi-Form-Multi-Capability%E2%80%9D-FF-EAI-Robot-World-2.0-All-New-Futurist-Now-on-Sale-and-Master-Mini-Starts-at-9990/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:91775880d167fbb7",
-      "titleEn": "CLLS Investors Have Opportunity to Join Cellectis S.A. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260919446999/en/CLLS-Investors-Have-Opportunity-to-Join-Cellectis-S.A.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:227f0d48a4b4af5e",
-      "titleEn": "SEDG Investors Have Opportunity to Join SolarEdge Technologies, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260919549481/en/SEDG-Investors-Have-Opportunity-to-Join-SolarEdge-Technologies-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:25704ea0dec2e21b",
-      "titleEn": "KLAR Investors Have Opportunity to Join Klarna Group plc Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260919070337/en/KLAR-Investors-Have-Opportunity-to-Join-Klarna-Group-plc-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
