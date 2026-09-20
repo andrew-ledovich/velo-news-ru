@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-20T19:25:25.051994Z",
+  "generatedAt": "2026-09-20T21:41:21.358235Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 17,
   "items": [
     {
       "id": "stockanalysis:a43111c2773ec312",
@@ -154,15 +154,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260919070337/en/KLAR-Investors-Have-Opportunity-to-Join-Klarna-Group-plc-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a05de1e3993258f8",
-      "titleEn": "BBW Investors Have Opportunity to Join Build-A-Bear Workshop, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260919502218/en/BBW-Investors-Have-Opportunity-to-Join-Build-A-Bear-Workshop-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
