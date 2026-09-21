@@ -1,150 +1,222 @@
 {
-  "generatedAt": "2026-09-21T14:02:15.403066Z",
+  "generatedAt": "2026-09-21T19:22:50.120757Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 24,
   "items": [
     {
-      "id": "stockanalysis:f94e397ccb3e0922",
-      "titleEn": "Marvell stock rises as company showcases 2nm optical technologies",
+      "id": "stockanalysis:51808b8e3e70a05b",
+      "titleEn": "Coinbase stock rises as exchange launches IPO access for retail traders",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/09/21/coinbase-stock-rises-as-exchange-launches-ipo-access-for-retail-traders/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:866f6765df3290d4",
+      "titleEn": "Coinbase Gives US Retail Traders Access to IPOs",
+      "summaryEn": "Coinbase said it is expanding access to primary financial markets by bringing initial public offering (IPO) allocations to retail traders in the U.S. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Starting with Oura ’s IPO this week, eligible customers can request shares at the offer price before the beginning of open-market trading, the digital assets platform announced in a Monday (Sept. 21) blog post .",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/coinbase-gives-us-retail-traders-access-to-ipos/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:13d8a237aff6c926",
+      "titleEn": "CoreWeave stock jumps, but a risky pattern points to a reversal",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/21/marvell-stock-rises-as-company-showcases-2nm-optical-technologies/",
+      "link": "https://invezz.com/news/2026/09/21/coreweave-stock-jumps-but-a-risky-pattern-points-to-a-reversal/",
       "published": null
     },
     {
-      "id": "stockanalysis:bc0f78c5313863fb",
-      "titleEn": "Paramount Skydance stock in Focus as odds of Warner Bros deal closing rise",
+      "id": "stockanalysis:7aa3e2d5a4e88b2b",
+      "titleEn": "Why is HP stock falling today? PC market outlook offers a hint",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/21/paramount-skydance-stock-in-focus-as-odds-of-warner-bros-deal-closing-rise/",
+      "link": "https://invezz.com/news/2026/09/21/why-is-hp-stock-falling-today-pc-market-outlook-offers-a-hint/",
       "published": null
     },
     {
-      "id": "stockanalysis:3a642de4c3a3fa1d",
-      "titleEn": "Google fined $463M by Irish regulator over location data tracking",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/21/google-fined-463m-by-irish-regulator-over-location-data-tracking/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9dfc9a8966031a31",
-      "titleEn": "Gold steadies above $4,300 as oil eases and yields stay high - Kitco AM Report",
-      "summaryEn": "Kitco NewsWire) - Spot gold prices are modestly lower and spot silver prices are firmer in early U.S. trading Monday, as elevated Treasury yields and a firmer dollar offset safe-haven demand tied to U.S.-Iran tensions and constrained traffic through the Strait of Hormuz. At the time of writing, spot gold was trading near $4,354.10 an ounce, down 0.52%, while spot silver was trading at $66.410, up 0.43% on the session. Friday’s data mix gave bullion some fundamental support without changing the policy constraint. Recent economic data point to softer industrial momentum and weaker forward demand signals, but they do not yet overwhelm the Fed’s inflation concern. Chicago Fed President Austan Goolsbee said Monday morning that supply shocks may force a “painful trade-off” between employment and inflation, keeping the rates market focused on whether oil, services inflation and AI-related demand are extending the tightening cycle. The latest market positioning still leans defensive but less one-sided than the price action earlier this month suggested. Managed-money accounts remained net long 133,116 COMEX gold futures contracts in the latest CFTC positioning snapshot, down 1,856 contracts on the week, while managed-money silver positioning stood at a smaller 13,124-contract net long. That leaves gold with a more crowded long base than silver after Friday’s softer U.S. production and leading-index data, but the macro reaction has been dominated by Fed repricing rather than growth concern. The FOMC raised the target range for the federal funds rate by 25 basis points to 3.75% to 4.00% last week, and rate futures have been pricing roughly a 53% probability of another hike in October. That has kept short-end yields firm, supporting the dollar and limiting gold’s ability to convert weaker growth data into a clean upside breakout.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-09-21/gold-steadies-above-4300-oil-eases-and-yields-stay-high-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:630bb8331e85dedd",
-      "titleEn": "Instacart Gives Merchants and Brands New Views of Store Shelves",
-      "summaryEn": "Instacart has unveiled software designed to let grocers and brands digitally view store shelves in real time. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The new solutions, announced Monday (Sept. 21), will “map the entire store down to individual products on shelves,” letting grocers and consumer packaged goods (CPG) brands virtually comb through aisles, understand what’s taking place and act in real time.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/retail/2026/instacart-gives-merchants-and-brands-new-views-of-store-shelves/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:27fa490d2cb202c1",
-      "titleEn": "Top S&amp;P 500 stocks to watch as Trump and Xi Jinping meet on Thursday",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/21/top-sp-500-stocks-to-watch-as-trump-and-xi-jinping-meet-on-thursday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:83e2d8bb678bc5b2",
-      "titleEn": "Morgan Stanley warns of a 7% S&amp;P 500 dip as rebound catalysts emerge",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/21/morgan-stanley-warns-of-a-7-sp-500-dip-as-rebound-catalysts-emerge/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e9e34fa63f4c8d10",
-      "titleEn": "Novo stock falls 6%: new blockbuster drugs plan, $23B sales target fails to impress",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/21/novo-stock-falls-6-new-blockbuster-drugs-plan-23b-sales-target-fails-to-impress/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f5b5278f0b94da3d",
-      "titleEn": "Volkswagen share price under pressure as Stoxx 50 exit adds to headwinds",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/21/volkswagen-share-price-under-pressure-as-stoxx-50-exit-adds-to-headwinds/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d988feff3f78b0de",
-      "titleEn": "Micron, SanDisk stocks face a new test today: CXMT may have found the pressure point",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/21/micron-sandisk-stocks-face-a-new-test-today-cxmt-may-have-found-the-pressure-point/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:dc9955e583834b40",
-      "titleEn": "Amazon stock could see 25% upside, Palantir stock another top AI pick, UBS says",
+      "id": "stockanalysis:9f448e8095d16655",
+      "titleEn": "OpenAI, Anthropic were negotiating deal to stress-test each other's AI models",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/21/amazon-stock-could-see-25-upside-palantir-stock-another-top-ai-pick-ubs-says/",
+      "link": "https://invezz.com/news/2026/09/21/openai-anthropic-were-negotiating-deal-to-stress-test-each-others-ai-models/",
       "published": null
     },
     {
-      "id": "stockanalysis:afeadd06e1261b76",
-      "titleEn": "Thinking of buying Nvidia stock: one $108 billion number should be on your radar",
+      "id": "stockanalysis:a9c57d2fc2459af7",
+      "titleEn": "Mastercard Helps Danske Bank With Denmark-First Agentic Transaction",
+      "summaryEn": "Mastercard said it has helped Denmark’s Danske Bank reach an agentic payments milestone. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Using Mastercard’s Agent Pay, Danske was able to complete a transaction in which an artificial intelligence (AI) agent made both the purchase and payment on a customers’ behalf, the payments giant announced Monday (Sept. 21).",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/payments-innovation/2026/mastercard-helps-danske-bank-with-denmark-first-agentic-transaction/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5b9e77d777d8c41e",
+      "titleEn": "Blackberry earnings preview: options pricing is bullish for BB stock",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/21/thinking-of-buying-nvidia-stock-one-108-billion-number-should-be-on-your-radar/",
+      "link": "https://invezz.com/news/2026/09/21/blackberry-earnings-preview-options-pricing-is-bullish-for-bb-stock/",
       "published": null
     },
     {
-      "id": "stockanalysis:357c87326fdc0d89",
-      "titleEn": "PPG appoints Alex Lopez vice president, investor relations, operational finance",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260921871675/en/PPG-appoints-Alex-Lopez-vice-president-investor-relations-operational-finance/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bde898cdcd01070b",
-      "titleEn": "Harbor Capital Advisors Celebrates 5-Year Anniversary as Issuer of ETFs",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260921893623/en/Harbor-Capital-Advisors-Celebrates-5-Year-Anniversary-as-Issuer-of-ETFs/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:155978a4ff21ec1a",
-      "titleEn": "Dream Office REIT Announces September 2026 Monthly Distribution",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260917471534/en/Dream-Office-REIT-Announces-September-2026-Monthly-Distribution/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0bdbda8a3c2a97eb",
-      "titleEn": "Dell Technologies Introduces XPS Googlebook: The First XPS Laptop Built for Gemini Intelligence",
+      "id": "stockanalysis:8eb384eafdcc2aa5",
+      "titleEn": "Qualcomm stock (QCOM) jumps 8% as AI rally returns ahead of Snapdragon Summit",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260921653290/en/Dell-Technologies-Introduces-XPS-Googlebook-The-First-XPS-Laptop-Built-for-Gemini-Intelligence/",
+      "link": "https://invezz.com/news/2026/09/21/qualcomm-stock-qcom-jumps-8-as-ai-rally-returns-ahead-of-snapdragon-summit/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b4c78819639b421f",
+      "titleEn": "Meta stock jumps 9% today: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/21/meta-stock-jumps-9-today-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4c1aa193e253696c",
+      "titleEn": "Why is Micron stock gaining today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/21/why-is-micron-stock-gaining-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:36829e7782888632",
+      "titleEn": "Google hit with $463 million fine for EU location data rule breach",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Google has been fined 403 million euros ($463 million) for breaching the European Union's strict privacy rules because it mishandled users' location data, the bloc's data privacy watchdog said Monday. Ireland's Data Protection Commission said its investigation found Google did not lawfully or fairly process location data in users' Web & App Activity, a Google setting that tracks browsing and search history, and in their Location History, a service that maps places they've been with their mobile phones.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-09-google-million-fine-eu-breach.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4acc79b226eed5ef",
+      "titleEn": "Why is ARM stock surging 15% on Monday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/21/why-is-arm-stock-surging-15-on-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:07b370756cb6b124",
+      "titleEn": "Higher rates aren't breaking gold as structural forces provide a solid floor - Standard Chartered",
+      "summaryEn": "(Kitco News) - Gold ’s traditional relationship with real interest rates is weakening, and while higher U.S. rates and a potentially stronger U.S. dollar could keep prices volatile in the near term, Standard Chartered sees structural forces providing a solid floor under the precious metal. In her latest precious metals report, Suki Cooper, Global Head of Commodities Research at Standard Chartered Bank, noted that gold has already recovered from its losses following the Federal Reserve’s 25-basis-point rate hike last week and is looking for technical support around its 50-day moving average. Cooper said the market’s focus appears to be shifting away from short-term monetary policy toward broader concerns surrounding de-dollarization, currency debasement and the risk of market intervention. While gold remains volatile, she said official-sector demand continues to provide consistent downside support and that structural drivers remain in place to push prices higher, although potentially at a slower pace.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-21/higher-rates-arent-breaking-gold-structural-forces-provide-solid-floor",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ce3df8ad3f476ab8",
+      "titleEn": "Why is Critical Metals stock soaring and what comes next?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/21/why-is-critical-metals-stock-soaring-and-what-comes-next/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:feb20e509cce298e",
+      "titleEn": "Why SpaceX stock is up over 2% on Monday",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/21/why-spacex-stock-is-up-over-2-on-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2f0df31ecec6dd1a",
+      "titleEn": "Amazon Bars Meta's Muse AI Agent From eCommerce Marketplace",
+      "summaryEn": "Amazon blocked Meta ’s new personal artificial intelligence agent , Muse , from its eCommerce site, GeekWire reported Sunday (Sept. 20). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Meta never informed Amazon that its Muse agent would access the online marketplace, the report said. In addition, the agent does not identify itself as it browses, and it seems to capture and store customer credentials, which Amazon said could create privacy and security risks.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-bars-meta-muse-ai-agent-from-ecommerce-marketplace/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2b3463304cc88740",
+      "titleEn": "Docusign Processes 1 Million Contracts a Day on Small AI Models",
+      "summaryEn": "Docusign reads more than 1 million contracts a day and found the frontier model bill was its biggest infrastructure line. Small task-specific models now do the work at 90% lower cost and 8 times the throughput. The trick was matching the model to the job: cheap trained models handle routine extraction; the frontier model is saved for judgment calls and only the passages that matter get sent at all. The new Iris assistant and agents, unveiled in May to automate contract work across sales, HR, procurement and legal, run on the data the small models extract first, so every agent inherits the lower bill.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/docusign-processes-1-million-contracts-a-day-on-small-ai-models/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ae7d2df97fb96be7",
+      "titleEn": "Strategy stock jumps 8% as company resumes Bitcoin purchases",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/09/21/strategy-stock-jumps-8-as-company-resumes-bitcoin-purchases/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ed78b8f0ba8537a1",
+      "titleEn": "FKT Stockholders Have Rights – If You Lost Money Investing in Flotek Industries, Inc. Contact Robbins LLP for Information About Recovering Your Losses",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260921273518/en/FKT-Stockholders-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-Flotek-Industries-Inc.-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dfafac098998f690",
+      "titleEn": "South Carolina Court Finds ESAB and Altrad Entities Are Responsible in Landmark Cape Asbestos Litigation",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260921299063/en/South-Carolina-Court-Finds-ESAB-and-Altrad-Entities-Are-Responsible-in-Landmark-Cape-Asbestos-Litigation/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:da2299ff1bd9eb3a",
+      "titleEn": "KBRA Assigns Preliminary Ratings to Pagaya AI Debt Grantor Trust 2026-6 and Pagaya AI Debt Trust 2026-6",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260921054403/en/KBRA-Assigns-Preliminary-Ratings-to-Pagaya-AI-Debt-Grantor-Trust-2026-6-and-Pagaya-AI-Debt-Trust-2026-6/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:90ec7133e93af29a",
+      "titleEn": "INV Stockholders Have Rights – If You Lost Money Investing in Innventure, Inc. Contact Robbins LLP for Information About Recovering Your Losses",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260921633129/en/INV-Stockholders-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-Innventure-Inc.-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cc0ab73507822a3e",
+      "titleEn": "YSS Stockholders Have Rights – If you Lost Money Investing in York Space Systems Inc. Contact Robbins LLP Information About Recovering Your Losses",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260921230934/en/YSS-Stockholders-Have-Rights-%E2%80%93-If-you-Lost-Money-Investing-in-York-Space-Systems-Inc.-Contact-Robbins-LLP-Information-About-Recovering-Your-Losses/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cbae4b929102b7ab",
+      "titleEn": "Doug Bergeron Comments on Ethan Allen's Reactionary “Succession Plan”",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260921560817/en/Doug-Bergeron-Comments-on-Ethan-Allen%E2%80%99s-Reactionary-%E2%80%9CSuccession-Plan%E2%80%9D/",
       "published": null
     }
   ]
