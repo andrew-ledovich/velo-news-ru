@@ -1,132 +1,150 @@
 {
-  "generatedAt": "2026-09-21T07:07:55.545944Z",
+  "generatedAt": "2026-09-21T14:02:15.403066Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 16,
   "items": [
     {
-      "id": "stockanalysis:a65db88562cd428c",
-      "titleEn": "SoftBank doubles down on OpenAI with $11 billion debt: what it means for the stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/21/softbank-doubles-down-on-openai-with-11-billion-debt-what-it-means-for-the-stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b1b1ebaf131a994c",
-      "titleEn": "Samsung and SK Hynix stocks are ripping higher today: here's what changed",
+      "id": "stockanalysis:f94e397ccb3e0922",
+      "titleEn": "Marvell stock rises as company showcases 2nm optical technologies",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/21/samsung-and-sk-hynix-stocks-are-ripping-higher-today-heres-what-changed/",
+      "link": "https://invezz.com/news/2026/09/21/marvell-stock-rises-as-company-showcases-2nm-optical-technologies/",
       "published": null
     },
     {
-      "id": "stockanalysis:0298f373443722d5",
-      "titleEn": "OpenAI's Cash Burn Could Approach $280 Billion by 2030",
-      "summaryEn": "OpenAI has reportedly forecast that it will burn through nearly $280 billion by the end of 2030. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That projection spotlights the artificial intelligence company’s significant long-term funding needs as it targets a valuation of more than $1.2 trillion in new investment talks, the Financial Times (FT) reported Friday (Sept. 18).",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openais-cash-burn-could-approach-280-billion-by-2030/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:83aad039638fa9e2",
-      "titleEn": "Anthropic Mulls New AI Model Amid Investors' Pre-IPO Worries",
-      "summaryEn": "Anthropic is reportedly considering the launch of a new artificial intelligence model before it goes public. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a Friday (Sept. 18) report by Reuters, citing three sources familiar with the matter. The report noted that a new AI model could offset the momentum OpenAI has enjoyed since debuting its GPT-Astra.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-mulls-new-ai-model-amid-investors-pre-ipo-worries/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a43111c2773ec312",
-      "titleEn": "Oracle stock at risk as a major $18 billion headwind emerges",
+      "id": "stockanalysis:bc0f78c5313863fb",
+      "titleEn": "Paramount Skydance stock in Focus as odds of Warner Bros deal closing rise",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/20/oracle-stock-at-risk-as-a-major-18-billion-headwind-emerges/",
+      "link": "https://invezz.com/news/2026/09/21/paramount-skydance-stock-in-focus-as-odds-of-warner-bros-deal-closing-rise/",
       "published": null
     },
     {
-      "id": "stockanalysis:2c83c9bbd0138856",
-      "titleEn": "Anthropic Targets November IPO as Revenue Surges",
-      "summaryEn": "Anthropic plans to launch its initial public offering in November, later than the October debut many investors had expected, The Wall Street Journal reported Friday (Sept. 18), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The November date may have been chosen to allow Anthropic to share its third-quarter financials, which are expected to show strong results. The date was chosen before the recent debate about whether artificial intelligence is developing too quickly, according to the report.",
+      "id": "stockanalysis:3a642de4c3a3fa1d",
+      "titleEn": "Google fined $463M by Irish regulator over location data tracking",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/21/google-fined-463m-by-irish-regulator-over-location-data-tracking/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9dfc9a8966031a31",
+      "titleEn": "Gold steadies above $4,300 as oil eases and yields stay high - Kitco AM Report",
+      "summaryEn": "Kitco NewsWire) - Spot gold prices are modestly lower and spot silver prices are firmer in early U.S. trading Monday, as elevated Treasury yields and a firmer dollar offset safe-haven demand tied to U.S.-Iran tensions and constrained traffic through the Strait of Hormuz. At the time of writing, spot gold was trading near $4,354.10 an ounce, down 0.52%, while spot silver was trading at $66.410, up 0.43% on the session. Friday’s data mix gave bullion some fundamental support without changing the policy constraint. Recent economic data point to softer industrial momentum and weaker forward demand signals, but they do not yet overwhelm the Fed’s inflation concern. Chicago Fed President Austan Goolsbee said Monday morning that supply shocks may force a “painful trade-off” between employment and inflation, keeping the rates market focused on whether oil, services inflation and AI-related demand are extending the tightening cycle. The latest market positioning still leans defensive but less one-sided than the price action earlier this month suggested. Managed-money accounts remained net long 133,116 COMEX gold futures contracts in the latest CFTC positioning snapshot, down 1,856 contracts on the week, while managed-money silver positioning stood at a smaller 13,124-contract net long. That leaves gold with a more crowded long base than silver after Friday’s softer U.S. production and leading-index data, but the macro reaction has been dominated by Fed repricing rather than growth concern. The FOMC raised the target range for the federal funds rate by 25 basis points to 3.75% to 4.00% last week, and rate futures have been pricing roughly a 53% probability of another hike in October. That has kept short-end yields firm, supporting the dollar and limiting gold’s ability to convert weaker growth data into a clean upside breakout.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/anthropic-targets-november-ipo-revenue-surges/",
+      "link": "https://www.kitco.com/news/article/2026-09-21/gold-steadies-above-4300-oil-eases-and-yields-stay-high-kitco-am-report",
       "published": null
     },
     {
-      "id": "stockanalysis:ae8b48fe5c785b99",
-      "titleEn": "Semtech Enables 50G Optical Transition for AI-Driven 5G-Advanced",
+      "id": "stockanalysis:630bb8331e85dedd",
+      "titleEn": "Instacart Gives Merchants and Brands New Views of Store Shelves",
+      "summaryEn": "Instacart has unveiled software designed to let grocers and brands digitally view store shelves in real time. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The new solutions, announced Monday (Sept. 21), will “map the entire store down to individual products on shelves,” letting grocers and consumer packaged goods (CPG) brands virtually comb through aisles, understand what’s taking place and act in real time.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/retail/2026/instacart-gives-merchants-and-brands-new-views-of-store-shelves/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:27fa490d2cb202c1",
+      "titleEn": "Top S&amp;P 500 stocks to watch as Trump and Xi Jinping meet on Thursday",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/21/top-sp-500-stocks-to-watch-as-trump-and-xi-jinping-meet-on-thursday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:83e2d8bb678bc5b2",
+      "titleEn": "Morgan Stanley warns of a 7% S&amp;P 500 dip as rebound catalysts emerge",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/21/morgan-stanley-warns-of-a-7-sp-500-dip-as-rebound-catalysts-emerge/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e9e34fa63f4c8d10",
+      "titleEn": "Novo stock falls 6%: new blockbuster drugs plan, $23B sales target fails to impress",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/21/novo-stock-falls-6-new-blockbuster-drugs-plan-23b-sales-target-fails-to-impress/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f5b5278f0b94da3d",
+      "titleEn": "Volkswagen share price under pressure as Stoxx 50 exit adds to headwinds",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/21/volkswagen-share-price-under-pressure-as-stoxx-50-exit-adds-to-headwinds/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d988feff3f78b0de",
+      "titleEn": "Micron, SanDisk stocks face a new test today: CXMT may have found the pressure point",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/21/micron-sandisk-stocks-face-a-new-test-today-cxmt-may-have-found-the-pressure-point/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dc9955e583834b40",
+      "titleEn": "Amazon stock could see 25% upside, Palantir stock another top AI pick, UBS says",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260920077196/en/Semtech-Enables-50G-Optical-Transition-for-AI-Driven-5G-Advanced/",
+      "link": "https://invezz.com/news/2026/09/21/amazon-stock-could-see-25-upside-palantir-stock-another-top-ai-pick-ubs-says/",
       "published": null
     },
     {
-      "id": "stockanalysis:e1a457bcd408de75",
-      "titleEn": "KMS Technology Introduces Troy Cantrell as Field CTO to Advance Enterprise Execution",
+      "id": "stockanalysis:afeadd06e1261b76",
+      "titleEn": "Thinking of buying Nvidia stock: one $108 billion number should be on your radar",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260918794730/en/KMS-Technology-Introduces-Troy-Cantrell-as-Field-CTO-to-Advance-Enterprise-Execution/",
+      "link": "https://invezz.com/news/2026/09/21/thinking-of-buying-nvidia-stock-one-108-billion-number-should-be-on-your-radar/",
       "published": null
     },
     {
-      "id": "stockanalysis:b67d62f2d10beae8",
-      "titleEn": "Teradyne Introduces Iris 100: Production-Proven Test System for MicroLED Devices",
+      "id": "stockanalysis:357c87326fdc0d89",
+      "titleEn": "PPG appoints Alex Lopez vice president, investor relations, operational finance",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260920750507/en/Teradyne-Introduces-Iris-100-Production-Proven-Test-System-for-MicroLED-Devices/",
+      "link": "https://www.businesswire.com/news/home/20260921871675/en/PPG-appoints-Alex-Lopez-vice-president-investor-relations-operational-finance/",
       "published": null
     },
     {
-      "id": "stockanalysis:0420b13c0171ee9c",
-      "titleEn": "Medincell's Partner Teva Presented New Data on Investigational Olanzapine LAI and UZEDY® at Psych Congress 2026",
+      "id": "stockanalysis:bde898cdcd01070b",
+      "titleEn": "Harbor Capital Advisors Celebrates 5-Year Anniversary as Issuer of ETFs",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260920569762/en/Medincells-Partner-Teva-Presented-New-Data-on-Investigational-Olanzapine-LAI-and-UZEDY%C2%AE-at-Psych-Congress-2026/",
+      "link": "https://www.businesswire.com/news/home/20260921893623/en/Harbor-Capital-Advisors-Celebrates-5-Year-Anniversary-as-Issuer-of-ETFs/",
       "published": null
     },
     {
-      "id": "stockanalysis:218ef65abd881e38",
-      "titleEn": "Semtech Advances Next-Gen AI Optical Interconnects for XPO",
+      "id": "stockanalysis:155978a4ff21ec1a",
+      "titleEn": "Dream Office REIT Announces September 2026 Monthly Distribution",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260917471534/en/Dream-Office-REIT-Announces-September-2026-Monthly-Distribution/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0bdbda8a3c2a97eb",
+      "titleEn": "Dell Technologies Introduces XPS Googlebook: The First XPS Laptop Built for Gemini Intelligence",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260920495629/en/Semtech-Advances-Next-Gen-AI-Optical-Interconnects-for-XPO/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f323f2033910a0f4",
-      "titleEn": "PureTech Announces Successful End-of-Phase 1 Meeting with U.S. Food and Drug Administration (FDA) and Receipt of Fast Track Designation for LYT-200 in Relapsed/Refractory (R/R) High-Risk Myelodysplastic Syndromes (HR-MDS)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260920743286/en/PureTech-Announces-Successful-End-of-Phase-1-Meeting-with-U.S.-Food-and-Drug-Administration-FDA-and-Receipt-of-Fast-Track-Designation-for-LYT-200-in-RelapsedRefractory-RR-High-Risk-Myelodysplastic-Syndromes-HR-MDS/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9e0a5eb5a6a42d92",
-      "titleEn": "TeraSignal and Keysight to Demonstrate CMIS Link Training at OIF Booth #2126 During ECOC 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260920299085/en/TeraSignal-and-Keysight-to-Demonstrate-CMIS-Link-Training-at-OIF-Booth-2126-During-ECOC-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:09e8c30db1553ceb",
-      "titleEn": "Marvell to Showcase Industry-First 2nm Optical Technology Demos for AI Data Center Infrastructure at ECOC 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260920935708/en/Marvell-to-Showcase-Industry-First-2nm-Optical-Technology-Demos-for-AI-Data-Center-Infrastructure-at-ECOC-2026/",
+      "link": "https://www.businesswire.com/news/home/20260921653290/en/Dell-Technologies-Introduces-XPS-Googlebook-The-First-XPS-Laptop-Built-for-Gemini-Intelligence/",
       "published": null
     }
   ]
