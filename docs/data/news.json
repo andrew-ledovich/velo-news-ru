@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-21T19:22:50.120757Z",
+  "generatedAt": "2026-09-21T22:39:29.671314Z",
   "sourceCount": 1,
-  "count": 24,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:51808b8e3e70a05b",
@@ -28,6 +28,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/09/21/coreweave-stock-jumps-but-a-risky-pattern-points-to-a-reversal/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:04c4eb34b7d7a14b",
+      "titleEn": "Don't give up your gold: disciplined monetary policy can't fix fiscal risk - Axel Merk",
+      "summaryEn": "(Kitco News) - The Federal Reserve has embarked on a new tightening cycle; however, gold investors may have less to fear from a more disciplined central bank than they think, as improving monetary policy cannot fix Washington’s deteriorating fiscal position, according to one prominent fund manager. In an interview with Kitco News, Axel Merk, founder of Merk Investments, said Federal Reserve Chair Kevin Warsh has made significant progress in restoring discipline at the central bank. However, he argued that even good monetary policy can only go so far when the government continues to show little fiscal restraint. “If you have bad fiscal policy, good monetary policy can only do so much,” Merk said. “With bad monetary policy combined with bad fiscal policy, you can make things dramatically worse.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-21/dont-give-your-gold-disciplined-monetary-policy-cant-fix-fiscal-risk-axel",
       "published": null
     },
     {
@@ -67,156 +76,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:8eb384eafdcc2aa5",
-      "titleEn": "Qualcomm stock (QCOM) jumps 8% as AI rally returns ahead of Snapdragon Summit",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/21/qualcomm-stock-qcom-jumps-8-as-ai-rally-returns-ahead-of-snapdragon-summit/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b4c78819639b421f",
-      "titleEn": "Meta stock jumps 9% today: here's why",
+      "id": "stockanalysis:11249c8c39772b59",
+      "titleEn": "IonQ and SDT Announce the First Strategic Partnership to Bring Both Advanced Quantum Computing and Quantum Networking to the Asia-Pacific Region",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/21/meta-stock-jumps-9-today-heres-why/",
+      "link": "https://www.businesswire.com/news/home/20260921645183/en/IonQ-and-SDT-Announce-the-First-Strategic-Partnership-to-Bring-Both-Advanced-Quantum-Computing-and-Quantum-Networking-to-the-Asia-Pacific-Region/",
       "published": null
     },
     {
-      "id": "stockanalysis:4c1aa193e253696c",
-      "titleEn": "Why is Micron stock gaining today?",
+      "id": "stockanalysis:2e85f3718ba5ee74",
+      "titleEn": "Wabtec and La Compagnie du TransGuinéen Sign a $700 Million plus Rail Services Agreement",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/21/why-is-micron-stock-gaining-today/",
+      "link": "https://www.businesswire.com/news/home/20260921240100/en/Wabtec-and-La-Compagnie-du-TransGuin%C3%A9en-Sign-a-700-Million-plus-Rail-Services-Agreement/",
       "published": null
     },
     {
-      "id": "stockanalysis:36829e7782888632",
-      "titleEn": "Google hit with $463 million fine for EU location data rule breach",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Google has been fined 403 million euros ($463 million) for breaching the European Union's strict privacy rules because it mishandled users' location data, the bloc's data privacy watchdog said Monday. Ireland's Data Protection Commission said its investigation found Google did not lawfully or fairly process location data in users' Web & App Activity, a Google setting that tracks browsing and search history, and in their Location History, a service that maps places they've been with their mobile phones.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-09-google-million-fine-eu-breach.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4acc79b226eed5ef",
-      "titleEn": "Why is ARM stock surging 15% on Monday?",
+      "id": "stockanalysis:c1e3412a5acca0ba",
+      "titleEn": "BrightSpire Capital Announces Pricing of $960 Million BRSP 2026-FL4 Commercial Real Estate CLO and the Redemption of BRSP 2024-FL2",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/21/why-is-arm-stock-surging-15-on-monday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:07b370756cb6b124",
-      "titleEn": "Higher rates aren't breaking gold as structural forces provide a solid floor - Standard Chartered",
-      "summaryEn": "(Kitco News) - Gold ’s traditional relationship with real interest rates is weakening, and while higher U.S. rates and a potentially stronger U.S. dollar could keep prices volatile in the near term, Standard Chartered sees structural forces providing a solid floor under the precious metal. In her latest precious metals report, Suki Cooper, Global Head of Commodities Research at Standard Chartered Bank, noted that gold has already recovered from its losses following the Federal Reserve’s 25-basis-point rate hike last week and is looking for technical support around its 50-day moving average. Cooper said the market’s focus appears to be shifting away from short-term monetary policy toward broader concerns surrounding de-dollarization, currency debasement and the risk of market intervention. While gold remains volatile, she said official-sector demand continues to provide consistent downside support and that structural drivers remain in place to push prices higher, although potentially at a slower pace.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-21/higher-rates-arent-breaking-gold-structural-forces-provide-solid-floor",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ce3df8ad3f476ab8",
-      "titleEn": "Why is Critical Metals stock soaring and what comes next?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/21/why-is-critical-metals-stock-soaring-and-what-comes-next/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:feb20e509cce298e",
-      "titleEn": "Why SpaceX stock is up over 2% on Monday",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/21/why-spacex-stock-is-up-over-2-on-monday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2f0df31ecec6dd1a",
-      "titleEn": "Amazon Bars Meta's Muse AI Agent From eCommerce Marketplace",
-      "summaryEn": "Amazon blocked Meta ’s new personal artificial intelligence agent , Muse , from its eCommerce site, GeekWire reported Sunday (Sept. 20). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Meta never informed Amazon that its Muse agent would access the online marketplace, the report said. In addition, the agent does not identify itself as it browses, and it seems to capture and store customer credentials, which Amazon said could create privacy and security risks.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-bars-meta-muse-ai-agent-from-ecommerce-marketplace/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2b3463304cc88740",
-      "titleEn": "Docusign Processes 1 Million Contracts a Day on Small AI Models",
-      "summaryEn": "Docusign reads more than 1 million contracts a day and found the frontier model bill was its biggest infrastructure line. Small task-specific models now do the work at 90% lower cost and 8 times the throughput. The trick was matching the model to the job: cheap trained models handle routine extraction; the frontier model is saved for judgment calls and only the passages that matter get sent at all. The new Iris assistant and agents, unveiled in May to automate contract work across sales, HR, procurement and legal, run on the data the small models extract first, so every agent inherits the lower bill.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/docusign-processes-1-million-contracts-a-day-on-small-ai-models/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ae7d2df97fb96be7",
-      "titleEn": "Strategy stock jumps 8% as company resumes Bitcoin purchases",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/21/strategy-stock-jumps-8-as-company-resumes-bitcoin-purchases/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ed78b8f0ba8537a1",
-      "titleEn": "FKT Stockholders Have Rights – If You Lost Money Investing in Flotek Industries, Inc. Contact Robbins LLP for Information About Recovering Your Losses",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260921273518/en/FKT-Stockholders-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-Flotek-Industries-Inc.-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:dfafac098998f690",
-      "titleEn": "South Carolina Court Finds ESAB and Altrad Entities Are Responsible in Landmark Cape Asbestos Litigation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260921299063/en/South-Carolina-Court-Finds-ESAB-and-Altrad-Entities-Are-Responsible-in-Landmark-Cape-Asbestos-Litigation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:da2299ff1bd9eb3a",
-      "titleEn": "KBRA Assigns Preliminary Ratings to Pagaya AI Debt Grantor Trust 2026-6 and Pagaya AI Debt Trust 2026-6",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260921054403/en/KBRA-Assigns-Preliminary-Ratings-to-Pagaya-AI-Debt-Grantor-Trust-2026-6-and-Pagaya-AI-Debt-Trust-2026-6/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:90ec7133e93af29a",
-      "titleEn": "INV Stockholders Have Rights – If You Lost Money Investing in Innventure, Inc. Contact Robbins LLP for Information About Recovering Your Losses",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260921633129/en/INV-Stockholders-Have-Rights-%E2%80%93-If-You-Lost-Money-Investing-in-Innventure-Inc.-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cc0ab73507822a3e",
-      "titleEn": "YSS Stockholders Have Rights – If you Lost Money Investing in York Space Systems Inc. Contact Robbins LLP Information About Recovering Your Losses",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260921230934/en/YSS-Stockholders-Have-Rights-%E2%80%93-If-you-Lost-Money-Investing-in-York-Space-Systems-Inc.-Contact-Robbins-LLP-Information-About-Recovering-Your-Losses/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cbae4b929102b7ab",
-      "titleEn": "Doug Bergeron Comments on Ethan Allen's Reactionary “Succession Plan”",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260921560817/en/Doug-Bergeron-Comments-on-Ethan-Allen%E2%80%99s-Reactionary-%E2%80%9CSuccession-Plan%E2%80%9D/",
+      "link": "https://www.businesswire.com/news/home/20260921295821/en/BrightSpire-Capital-Announces-Pricing-of-960-Million-BRSP-2026-FL4-Commercial-Real-Estate-CLO-and-the-Redemption-of-BRSP-2024-FL2/",
       "published": null
     }
   ]
