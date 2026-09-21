@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-09-20T23:30:41.035507Z",
+  "generatedAt": "2026-09-21T01:38:58.029895Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:0298f373443722d5",
+      "titleEn": "OpenAI's Cash Burn Could Approach $280 Billion by 2030",
+      "summaryEn": "OpenAI has reportedly forecast that it will burn through nearly $280 billion by the end of 2030. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That projection spotlights the artificial intelligence company’s significant long-term funding needs as it targets a valuation of more than $1.2 trillion in new investment talks, the Financial Times (FT) reported Friday (Sept. 18).",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openais-cash-burn-could-approach-280-billion-by-2030/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:83aad039638fa9e2",
+      "titleEn": "Anthropic Mulls New AI Model Amid Investors' Pre-IPO Worries",
+      "summaryEn": "Anthropic is reportedly considering the launch of a new artificial intelligence model before it goes public. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a Friday (Sept. 18) report by Reuters, citing three sources familiar with the matter. The report noted that a new AI model could offset the momentum OpenAI has enjoyed since debuting its GPT-Astra.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-mulls-new-ai-model-amid-investors-pre-ipo-worries/",
+      "published": null
+    },
     {
       "id": "stockanalysis:a43111c2773ec312",
       "titleEn": "Oracle stock at risk as a major $18 billion headwind emerges",
@@ -49,12 +67,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:f67a3a100bdf453d",
-      "titleEn": "Gold, silver prices hold weekly gains as oil drops, yields return to 5% - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are higher in late-afternoon U.S. trading Friday, with both metals holding weekly gains as lower oil prices offset part of the pressure from a rebound in Treasury yields and a firmer U.S. dollar. At the time of writing, spot gold was trading near $4,382.38 an ounce, up 0.85%, while spot silver was trading at $66.13, up 1.58% on the session. North American equity markets finished mixed as higher Treasury yields capped the relief rally from Thursday. The S&P 500 rose 12.74 points, or 0.2%, to 7,650.50, the Dow Jones Industrial Average fell 95.40 points, or 0.2%, to 51,682.64, the Nasdaq Composite gained 104.25 points, or 0.4%, to 26,522.55, and the Russell 2000 fell 14.23 points, or 0.5%, to 2,860.40. European markets closed lower across the board, with the STOXX Europe 600 down 1.11% to 635.45. London’s FTSE 100 fell 1.45% to 10,659.13, Germany’s DAX lost 1.60% to 25,304.06, France’s CAC 40 declined 1.49% to 8,065.02, Italy’s FTSE MIB fell 1.60% to 51,545.25, and Spain’s IBEX 35 dropped 1.60% to 19,513.80. The latest positioning remains a tug of war between lower energy prices and a still-hawkish rates market. The Federal Reserve raised the target range for the federal funds rate by 25 basis points to 3.75% to 4.00% this week, and futures markets are now pricing a 58% chance of another rate hike in October. The 10-year Treasury yield climbed back to 5.00% from 4.94% late Thursday, while the two-year yield touched 4.744%, its highest intraday level since July 2024. For gold, the day’s setup is constructive but crowded: lower crude reduces the near-term inflation shock, but sticky Fed-hike pricing and 5% Treasury yields continue to limit the upside.",
+      "id": "stockanalysis:7c46acba4811acef",
+      "titleEn": "UVJC to Launch NovaJet at WESEMiBAY as Semiconductor Industry Looks Beyond Traditional Scaling",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-18/gold-silver-prices-hold-weekly-gains-oil-drops-yields-return-5-kitco-pm",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260920318239/en/UVJC-to-Launch-NovaJet-at-WESEMiBAY-as-Semiconductor-Industry-Looks-Beyond-Traditional-Scaling/",
       "published": null
     },
     {
@@ -109,33 +127,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.businesswire.com/news/home/20260909494458/en/Keysight-to-Demonstrate-End-to-End-Solutions-for-Scaling-AI-Infrastructure-at-ECOC-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d287e03b70e12798",
-      "titleEn": "RENT Investors Have Opportunity to Join Rent the Runway, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260919188012/en/RENT-Investors-Have-Opportunity-to-Join-Rent-the-Runway-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0e3e107a307a2508",
-      "titleEn": "ENVA Investors Have Opportunity to Join Enova International, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260919930235/en/ENVA-Investors-Have-Opportunity-to-Join-Enova-International-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b7d3adea0e692941",
-      "titleEn": "Faraday Future Launches Four Industry Productivity Solutions, Nine New EAI Devices at Its 919 Event, Building Its “One-Brain Multi-Form Multi-Capability” FF EAI Robot World 2.0; All-New Futurist Now on Sale and Master Mini Starts at $9,990",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260919657129/en/Faraday-Future-Launches-Four-Industry-Productivity-Solutions-Nine-New-EAI-Devices-at-Its-919-Event-Building-Its-%E2%80%9COne-Brain-Multi-Form-Multi-Capability%E2%80%9D-FF-EAI-Robot-World-2.0-All-New-Futurist-Now-on-Sale-and-Master-Mini-Starts-at-9990/",
       "published": null
     }
   ]
