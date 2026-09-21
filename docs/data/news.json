@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-09-21T01:38:58.029895Z",
+  "generatedAt": "2026-09-21T07:07:55.545944Z",
   "sourceCount": 1,
   "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:a65db88562cd428c",
+      "titleEn": "SoftBank doubles down on OpenAI with $11 billion debt: what it means for the stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/21/softbank-doubles-down-on-openai-with-11-billion-debt-what-it-means-for-the-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b1b1ebaf131a994c",
+      "titleEn": "Samsung and SK Hynix stocks are ripping higher today: here's what changed",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/21/samsung-and-sk-hynix-stocks-are-ripping-higher-today-heres-what-changed/",
+      "published": null
+    },
     {
       "id": "stockanalysis:0298f373443722d5",
       "titleEn": "OpenAI's Cash Burn Could Approach $280 Billion by 2030",
@@ -40,93 +58,75 @@
       "published": null
     },
     {
-      "id": "stockanalysis:e4ff102762d99001",
-      "titleEn": "The Fed raised rates and gold didn't break: Here's why",
-      "summaryEn": "(Kitco News) - Last week we argued that gold investors should stop obsessing over limited US monetary policy moves and start paying attention to the next $1 trillion of U.S. debt. The Federal Reserve raised interest rates by 25 basis points Wednesday and Chair Kevin Warsh made it clear that policymakers remain committed to bringing inflation back under control. Despite this hawkish rhetoric, the gold market did not break. Instead, gold is holding critical support above $4,300 an ounce while snapping a three-week losing streak.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-18/fed-raised-rates-and-gold-didnt-break-heres-why",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e63bd200943d37dd",
-      "titleEn": "Wall Street goes full bull on gold price after post-hike gains, Main Street bolsters bullish majority as gold holds $4,300",
-      "summaryEn": "(Kitco News) – Gold prices rebounded during a wild week, as an early selloff driven by surging oil prices, near-5% Treasury yields, and expectations for a Federal Reserve rate hike gave way to a sharp recovery after the hike was delivered and oil and yield pressure eased. Spot gold kicked off the week trading at $4,340 per ounce on Sunday evening, and that yellow metal quickly came under pressure as traders priced in stronger inflation risks from higher crude prices and renewed U.S.-Iran tensions. The selling accelerated through Monday and Tuesday, with gold dropping to a more than one-month low near $4,279.30 per ounce on Tuesday as markets treated this week’s Fed hike as increasingly locked in. Gold attempted to stabilize Wednesday ahead of the Fed decision, but the rebound failed after the FOMC voted 12-0 to raise rates by 25 basis points to a 3.75% to 4.00% target range, while the updated projections showed 16 of 18 policymakers still expected another hike before year-end. Spot gold fell back after the announcement and set its weekly low near $4,261.80 per ounce on Wednesday afternoon.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-18/wall-street-goes-full-bull-gold-price-after-post-hike-gains-main-street",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:00e8dc740d361880",
-      "titleEn": "Chewy Puts a $50 Million Price Tag on AI Productivity",
-      "summaryEn": "Chewy executives said they expect AI to take about $50 million out of its costs in fiscal 2027, up from the low tens of millions this fiscal year. CEO Sumit Singh told analysts he has high confidence in both figures. Most of the savings come from tools customers never see. AI pulls answers together for service agents, checks pharmacy data and books appointments at Chewy’s vet clinics. Chewy spent several quarters getting its data right before it launched an AI assistant. Its new customer assistant, Cai, already resolves about 30% of chats without a human agent.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/chewy-puts-50-million-dollar-price-tag-ai-productivity/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7c46acba4811acef",
-      "titleEn": "UVJC to Launch NovaJet at WESEMiBAY as Semiconductor Industry Looks Beyond Traditional Scaling",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260920318239/en/UVJC-to-Launch-NovaJet-at-WESEMiBAY-as-Semiconductor-Industry-Looks-Beyond-Traditional-Scaling/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:64b1cc70052242ec",
-      "titleEn": "Faraday Future Founder and Global CEO YT Jia Weekly Investor Update: Shares Details from FF's 919 FF EAI Robotics “Four-Core Full-Stack AI” Ecosystem New Product Series Launch; Four Industry Productivity Solutions, Nine New EAI Devices Unveiled",
+      "id": "stockanalysis:ae8b48fe5c785b99",
+      "titleEn": "Semtech Enables 50G Optical Transition for AI-Driven 5G-Advanced",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260920309558/en/Faraday-Future-Founder-and-Global-CEO-YT-Jia-Weekly-Investor-Update-Shares-Details-from-FF%E2%80%99s-919-FF-EAI-Robotics-%E2%80%9CFour-Core-Full-Stack-AI%E2%80%9D-Ecosystem-New-Product-Series-Launch-Four-Industry-Productivity-Solutions-Nine-New-EAI-Devices-Unveiled/",
+      "link": "https://www.businesswire.com/news/home/20260920077196/en/Semtech-Enables-50G-Optical-Transition-for-AI-Driven-5G-Advanced/",
       "published": null
     },
     {
-      "id": "stockanalysis:3eabb54a84c8dddf",
-      "titleEn": "SMR Investors Have Opportunity to Join NuScale Power Corporation Fraud Investigation with SBS Law",
+      "id": "stockanalysis:e1a457bcd408de75",
+      "titleEn": "KMS Technology Introduces Troy Cantrell as Field CTO to Advance Enterprise Execution",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260920541256/en/SMR-Investors-Have-Opportunity-to-Join-NuScale-Power-Corporation-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20260918794730/en/KMS-Technology-Introduces-Troy-Cantrell-as-Field-CTO-to-Advance-Enterprise-Execution/",
       "published": null
     },
     {
-      "id": "stockanalysis:68f4a471120fe777",
-      "titleEn": "GLW Investors Have Opportunity to Join Corning Incorporated Fraud Investigation with SBS Law",
+      "id": "stockanalysis:b67d62f2d10beae8",
+      "titleEn": "Teradyne Introduces Iris 100: Production-Proven Test System for MicroLED Devices",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260920169514/en/GLW-Investors-Have-Opportunity-to-Join-Corning-Incorporated-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20260920750507/en/Teradyne-Introduces-Iris-100-Production-Proven-Test-System-for-MicroLED-Devices/",
       "published": null
     },
     {
-      "id": "stockanalysis:61d0a7449312c485",
-      "titleEn": "FLNC Investors Have Opportunity to Join Fluence Energy, Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:0420b13c0171ee9c",
+      "titleEn": "Medincell's Partner Teva Presented New Data on Investigational Olanzapine LAI and UZEDY® at Psych Congress 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260920618043/en/FLNC-Investors-Have-Opportunity-to-Join-Fluence-Energy-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20260920569762/en/Medincells-Partner-Teva-Presented-New-Data-on-Investigational-Olanzapine-LAI-and-UZEDY%C2%AE-at-Psych-Congress-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:42fc13dc825251f7",
-      "titleEn": "SECZ Investors Have Opportunity to Join Securitize Corp. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260920547337/en/SECZ-Investors-Have-Opportunity-to-Join-Securitize-Corp.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:49767ae2e319a8e2",
-      "titleEn": "Keysight to Demonstrate End-to-End Solutions for Scaling AI Infrastructure at ECOC 2026",
+      "id": "stockanalysis:218ef65abd881e38",
+      "titleEn": "Semtech Advances Next-Gen AI Optical Interconnects for XPO",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260909494458/en/Keysight-to-Demonstrate-End-to-End-Solutions-for-Scaling-AI-Infrastructure-at-ECOC-2026/",
+      "link": "https://www.businesswire.com/news/home/20260920495629/en/Semtech-Advances-Next-Gen-AI-Optical-Interconnects-for-XPO/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f323f2033910a0f4",
+      "titleEn": "PureTech Announces Successful End-of-Phase 1 Meeting with U.S. Food and Drug Administration (FDA) and Receipt of Fast Track Designation for LYT-200 in Relapsed/Refractory (R/R) High-Risk Myelodysplastic Syndromes (HR-MDS)",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260920743286/en/PureTech-Announces-Successful-End-of-Phase-1-Meeting-with-U.S.-Food-and-Drug-Administration-FDA-and-Receipt-of-Fast-Track-Designation-for-LYT-200-in-RelapsedRefractory-RR-High-Risk-Myelodysplastic-Syndromes-HR-MDS/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9e0a5eb5a6a42d92",
+      "titleEn": "TeraSignal and Keysight to Demonstrate CMIS Link Training at OIF Booth #2126 During ECOC 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260920299085/en/TeraSignal-and-Keysight-to-Demonstrate-CMIS-Link-Training-at-OIF-Booth-2126-During-ECOC-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:09e8c30db1553ceb",
+      "titleEn": "Marvell to Showcase Industry-First 2nm Optical Technology Demos for AI Data Center Infrastructure at ECOC 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260920935708/en/Marvell-to-Showcase-Industry-First-2nm-Optical-Technology-Demos-for-AI-Data-Center-Infrastructure-at-ECOC-2026/",
       "published": null
     }
   ]
