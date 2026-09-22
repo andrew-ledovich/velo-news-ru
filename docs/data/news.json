@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-09-22T15:40:20.932389Z",
+  "generatedAt": "2026-09-22T19:07:54.814086Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:2bac605d2c6117a2",
+      "titleEn": "ETF flows show gold price decoupled from real yields as fiscal concerns now drive investor demand – Saxo Bank's Hansen",
+      "summaryEn": "(Kitco News) – Gold -backed ETF holdings continue to rise even as 10-year real yields hit 20-year highs, showing that fiscal concerns are changing the yield–gold relationship, according to Ole Hansen, Head of Commodity Strategy at Saxo Bank. “US 10-year real yields hit their highest level in more than 20 years on Friday at 2.63%, a 76-basis point increase since the start of the year, while total gold-backed ETF holdings continued to recover following a drop in H1 2026,” Hansen wrote in his latest gold analysis. “The divergence highlights an increasingly notable disconnect between gold demand and what historically has been a strong inverse relationship with real yields.” The real yield is the return an investor earns on a bond after accounting for inflation. “Historically, it has been regarded as key to determining the direction of gold, as the yellow metal and other hard assets such as silver and platinum do not pay interest or dividends, so higher real yields can make bonds more attractive relative to holding gold,” he said. “When real yields rise, gold has traditionally faced pressure.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-22/etf-flows-show-gold-price-decoupled-real-yields-fiscal-concerns-now-drive",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:292cb6a5a3a34fd7",
+      "titleEn": "Gold's investment case has fundamentally changed, and rising yields are no longer a dealbreaker - FTSE Russell's De",
+      "summaryEn": "(Kitco News) - Rising bond yields are creating a significant headwind for gol d, but investors should be careful about applying the precious metal’s traditional relationship with interest rates too rigidly, as structural changes in global demand continue to support elevated prices, according to FTSE Russell. In an interview with Kitco News, Indrani De, Head of Global Investment Research at FTSE Russell, said both nominal and real yields are moving higher, which traditionally increases the opportunity cost of holding a non-yielding asset like gold. However, she said the gold market has undergone a fundamental shift as central banks have become increasingly important buyers. De explained the growing influence of central-bank demand is a significant reason why gold has become somewhat less sensitive to rising real yields. She noted that central banks were net sellers of gold from 2000 until the Global Financial Crisis, before becoming net buyers. More recently, the pace of purchases has accelerated substantially.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-22/golds-investment-case-has-fundamentally-changed-and-rising-yields-are-no",
+      "published": null
+    },
     {
       "id": "stockanalysis:3249b77226aadf01",
       "titleEn": "Why are Micron, SK Hynix, SanDisk stocks rising today?",
@@ -67,120 +85,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:e3766896eeb5a89d",
-      "titleEn": "Apple's new watches are always listening",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: The latest Apple Watch models have some new features : they can listen to the sounds around you all day, transcribe snippets of conversation on demand and write up summaries of everything they heard. This kind of ambient, always-on surveillance raises privacy concerns, which Apple addresses well . The company says audio is never \"recorded\" or stored, nothing is attributed to any speaker, and all content is encrypted so even Apple cannot read it.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-09-apple.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2299669817dca09f",
-      "titleEn": "Meta stock crosses $700 mark on Muse hype: can the rally last?",
+      "id": "stockanalysis:2129cb95476b563a",
+      "titleEn": "BIOQUAL Presents Financial Results for Fiscal Year 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/22/meta-stock-crosses-700-mark-on-muse-hype-can-the-rally-last/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260922682992/en/BIOQUAL-Presents-Financial-Results-for-Fiscal-Year-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:1428af37f52f3e11",
-      "titleEn": "UK lawmakers summon Meta, Google, OpenAI and Anthropic over AI safety",
+      "id": "stockanalysis:7e91b05a20857337",
+      "titleEn": "AM Best Revises Outlooks to Positive for FMH Insurance Group's Members",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260922688394/en/AM-Best-Revises-Outlooks-to-Positive-for-FMH-Insurance-Group%E2%80%99s-Members/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a2dbc26dbd4bfeac",
+      "titleEn": "ISG Announces OneSource Provider Intelligence Platform",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260922844629/en/ISG-Announces-OneSource-Provider-Intelligence-Platform/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:427bded2b9e8ac8b",
+      "titleEn": "Atropos Health Scales Federated Evidence Network with Multimodal Data Partners to Accelerate Health Analytics and AI Model Development",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/22/uk-lawmakers-summon-meta-google-openai-and-anthropic-over-ai-safety/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:109f6b249189a641",
-      "titleEn": "Why are Nvidia, AMD, Intel stocks falling in premarket after Monday's AI surge",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/22/why-are-nvidia-amd-intel-stocks-falling-in-premarket-after-mondays-ai-surge/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9ed626f8e0e187e9",
-      "titleEn": "proteanTecs and GUC Expand Collaboration to Provide Lifecycle Health and Performance Monitoring for Custom SoCs",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922745899/en/proteanTecs-and-GUC-Expand-Collaboration-to-Provide-Lifecycle-Health-and-Performance-Monitoring-for-Custom-SoCs/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b6bb2dee2074f19f",
-      "titleEn": "FORTÉ Names Christopher Mounts Global Chief Executive Officer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922562891/en/FORT%C3%89-Names-Christopher-Mounts-Global-Chief-Executive-Officer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2f0c33f3ad357b94",
-      "titleEn": "Utz Turns Up the Flavor With Three New Snack Innovations",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922301155/en/Utz-Turns-Up-the-Flavor-With-Three-New-Snack-Innovations/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7863e0914a334d25",
-      "titleEn": "New Triumph Analysis Suggests Freight Market Is Entering an Era of \"Defensible Capacity\"",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922238436/en/New-Triumph-Analysis-Suggests-Freight-Market-Is-Entering-an-Era-of-Defensible-Capacity/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:065a623855e8dd66",
-      "titleEn": "DigitalOcean Launches Managed Agents, Bringing Agent Execution, Tool Access, and Inference Together on One Cloud",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260922295615/en/DigitalOcean-Launches-Managed-Agents-Bringing-Agent-Execution-Tool-Access-and-Inference-Together-on-One-Cloud/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9ebd91aa9a8d5e19",
-      "titleEn": "Union Pacific Railroad and Norfolk Southern Combination Gains Additional Momentum",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922238619/en/Union-Pacific-Railroad-and-Norfolk-Southern-Combination-Gains-Additional-Momentum/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:799eaa03363d50e4",
-      "titleEn": "Orbia Announces Conference Call For Its Third Quarter 2026 Earnings Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922784322/en/Orbia-Announces-Conference-Call-For-Its-Third-Quarter-2026-Earnings-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3b20690b60ffab55",
-      "titleEn": "UGG Season Returns This Fall, Bringing the Rituals That Make Fall Feel Like Fall to Life Across North America",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922097181/en/UGG-Season-Returns-This-Fall-Bringing-the-Rituals-That-Make-Fall-Feel-Like-Fall-to-Life-Across-North-America/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2463c70adeb11dae",
-      "titleEn": "Patrick Gorman Joins Ericsson Federal as Chief Technology Officer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922961533/en/Patrick-Gorman-Joins-Ericsson-Federal-as-Chief-Technology-Officer/",
+      "link": "https://www.businesswire.com/news/home/20260922102002/en/Atropos-Health-Scales-Federated-Evidence-Network-with-Multimodal-Data-Partners-to-Accelerate-Health-Analytics-and-AI-Model-Development/",
       "published": null
     }
   ]
