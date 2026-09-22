@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-21T22:39:29.671314Z",
+  "generatedAt": "2026-09-22T01:08:02.752359Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:51808b8e3e70a05b",
@@ -67,12 +67,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5b9e77d777d8c41e",
-      "titleEn": "Blackberry earnings preview: options pricing is bullish for BB stock",
+      "id": "stockanalysis:8458ebe6739c5825",
+      "titleEn": "Elastic Introduces jina-ocr-v1: End-to-End Document Processing in a Single Frontier-Grade Model",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/21/blackberry-earnings-preview-options-pricing-is-bullish-for-bb-stock/",
+      "link": "https://www.businesswire.com/news/home/20260921248036/en/Elastic-Introduces-jina-ocr-v1-End-to-End-Document-Processing-in-a-Single-Frontier-Grade-Model/",
       "published": null
     },
     {
@@ -85,21 +85,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:2e85f3718ba5ee74",
-      "titleEn": "Wabtec and La Compagnie du TransGuinéen Sign a $700 Million plus Rail Services Agreement",
+      "id": "stockanalysis:920b907142383dc6",
+      "titleEn": "Sonendo Achieves Milestone of Two Million Patients Treated with the GentleWave® Procedure",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260921240100/en/Wabtec-and-La-Compagnie-du-TransGuin%C3%A9en-Sign-a-700-Million-plus-Rail-Services-Agreement/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c1e3412a5acca0ba",
-      "titleEn": "BrightSpire Capital Announces Pricing of $960 Million BRSP 2026-FL4 Commercial Real Estate CLO and the Redemption of BRSP 2024-FL2",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260921295821/en/BrightSpire-Capital-Announces-Pricing-of-960-Million-BRSP-2026-FL4-Commercial-Real-Estate-CLO-and-the-Redemption-of-BRSP-2024-FL2/",
+      "link": "https://www.businesswire.com/news/home/20260921529965/en/Sonendo-Achieves-Milestone-of-Two-Million-Patients-Treated-with-the-GentleWave%C2%AE-Procedure/",
       "published": null
     }
   ]
