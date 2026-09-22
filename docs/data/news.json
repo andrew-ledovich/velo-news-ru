@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-22T01:08:02.752359Z",
+  "generatedAt": "2026-09-22T06:09:07.815452Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 8,
   "items": [
+    {
+      "id": "stockanalysis:bd69e134c7916a57",
+      "titleEn": "Gold, silver ease as stocks rally, Hormuz risk premium fades - Kitco PM Report",
+      "summaryEn": "(Kitco News) - Spot gold and silver prices were also softer after the U.S. close on Monday, as a sharp equity rebound, weaker oil and a modest retreat in Treasury yields reduced safe-haven demand while Fed-rate expectations stayed restrictive. At the time of writing, spot gold was trading near $4,337.20 an ounce, down 0.95%, while spot silver was trading near $66.080, down 0.44% on the session. North American equity markets closed broadly higher. The S&P 500 rose 1.5% to 7,764.70, the Nasdaq Composite gained 2.3% to 27,122.09 and the Dow Jones Industrial Average advanced 0.7% to 52,048.83. The Russell 2000 added 0.5% to 2,875.36. European bourses also finished firmer, with the STOXX Europe 600 up 1.0%, Germany’s DAX up 1.1%, the Euro Stoxx 50 up 1.3%, France’s CAC 40 up 0.9% and London’s FTSE 100 up 0.8%. The latest positioning remains centered on a market that has accepted last week’s 25-basis-point Fed hike but has not priced out further tightening. The FOMC lifted the target range to 3.75% to 4.00% on Sept. 16, and the median projection still points to 4.1% by year-end. August retail sales rose 1.2%, initial jobless claims fell to 196,000 and traders were pricing an 88% probability of another U.S. rate hike in December. That mix left gold caught between lower oil-led inflation pressure and a still-hawkish rates path, with 10-year Treasury yields easing to 4.95% to 4.96% but staying close to the psychologically important 5% area.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-21/gold-silver-ease-stocks-rally-hormuz-risk-premium-fades-kitco-pm-report",
+      "published": null
+    },
     {
       "id": "stockanalysis:51808b8e3e70a05b",
       "titleEn": "Coinbase stock rises as exchange launches IPO access for retail traders",
@@ -49,48 +58,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:9f448e8095d16655",
-      "titleEn": "OpenAI, Anthropic were negotiating deal to stress-test each other's AI models",
+      "id": "stockanalysis:8360d6acbd63f7ee",
+      "titleEn": "Semtech's LoRa Plus LR2021 Transceiver Wins 2026 EDGE Award",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260921701241/en/Semtech%E2%80%99s-LoRa-Plus-LR2021-Transceiver-Wins-2026-EDGE-Award/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fb022c40720599ed",
+      "titleEn": "Bureau Veritas Confirms LEAP | 28 Ambition, Upgrades Total Revenue Growth to Double-Digit in 2027 – 20281 and Targets EUR1 Billion Revenue in AI-Driven Markets and Services by 2030",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/21/openai-anthropic-were-negotiating-deal-to-stress-test-each-others-ai-models/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a9c57d2fc2459af7",
-      "titleEn": "Mastercard Helps Danske Bank With Denmark-First Agentic Transaction",
-      "summaryEn": "Mastercard said it has helped Denmark’s Danske Bank reach an agentic payments milestone. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Using Mastercard’s Agent Pay, Danske was able to complete a transaction in which an artificial intelligence (AI) agent made both the purchase and payment on a customers’ behalf, the payments giant announced Monday (Sept. 21).",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/payments-innovation/2026/mastercard-helps-danske-bank-with-denmark-first-agentic-transaction/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8458ebe6739c5825",
-      "titleEn": "Elastic Introduces jina-ocr-v1: End-to-End Document Processing in a Single Frontier-Grade Model",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260921248036/en/Elastic-Introduces-jina-ocr-v1-End-to-End-Document-Processing-in-a-Single-Frontier-Grade-Model/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:11249c8c39772b59",
-      "titleEn": "IonQ and SDT Announce the First Strategic Partnership to Bring Both Advanced Quantum Computing and Quantum Networking to the Asia-Pacific Region",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260921645183/en/IonQ-and-SDT-Announce-the-First-Strategic-Partnership-to-Bring-Both-Advanced-Quantum-Computing-and-Quantum-Networking-to-the-Asia-Pacific-Region/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:920b907142383dc6",
-      "titleEn": "Sonendo Achieves Milestone of Two Million Patients Treated with the GentleWave® Procedure",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260921529965/en/Sonendo-Achieves-Milestone-of-Two-Million-Patients-Treated-with-the-GentleWave%C2%AE-Procedure/",
+      "link": "https://www.businesswire.com/news/home/20260921010375/en/Bureau-Veritas-Confirms-LEAP-28-Ambition-Upgrades-Total-Revenue-Growth-to-Double-Digit-in-2027-%E2%80%93-20281-and-Targets-EUR1-Billion-Revenue-in-AI-Driven-Markets-and-Services-by-2030/",
       "published": null
     }
   ]
