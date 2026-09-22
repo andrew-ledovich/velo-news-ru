@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-22T06:09:07.815452Z",
+  "generatedAt": "2026-09-22T11:31:02.250521Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 2,
   "items": [
     {
       "id": "stockanalysis:bd69e134c7916a57",
@@ -13,66 +13,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:51808b8e3e70a05b",
-      "titleEn": "Coinbase stock rises as exchange launches IPO access for retail traders",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/21/coinbase-stock-rises-as-exchange-launches-ipo-access-for-retail-traders/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:866f6765df3290d4",
-      "titleEn": "Coinbase Gives US Retail Traders Access to IPOs",
-      "summaryEn": "Coinbase said it is expanding access to primary financial markets by bringing initial public offering (IPO) allocations to retail traders in the U.S. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Starting with Oura ’s IPO this week, eligible customers can request shares at the offer price before the beginning of open-market trading, the digital assets platform announced in a Monday (Sept. 21) blog post .",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/coinbase-gives-us-retail-traders-access-to-ipos/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:13d8a237aff6c926",
-      "titleEn": "CoreWeave stock jumps, but a risky pattern points to a reversal",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/21/coreweave-stock-jumps-but-a-risky-pattern-points-to-a-reversal/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:04c4eb34b7d7a14b",
-      "titleEn": "Don't give up your gold: disciplined monetary policy can't fix fiscal risk - Axel Merk",
-      "summaryEn": "(Kitco News) - The Federal Reserve has embarked on a new tightening cycle; however, gold investors may have less to fear from a more disciplined central bank than they think, as improving monetary policy cannot fix Washington’s deteriorating fiscal position, according to one prominent fund manager. In an interview with Kitco News, Axel Merk, founder of Merk Investments, said Federal Reserve Chair Kevin Warsh has made significant progress in restoring discipline at the central bank. However, he argued that even good monetary policy can only go so far when the government continues to show little fiscal restraint. “If you have bad fiscal policy, good monetary policy can only do so much,” Merk said. “With bad monetary policy combined with bad fiscal policy, you can make things dramatically worse.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-21/dont-give-your-gold-disciplined-monetary-policy-cant-fix-fiscal-risk-axel",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7aa3e2d5a4e88b2b",
-      "titleEn": "Why is HP stock falling today? PC market outlook offers a hint",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/21/why-is-hp-stock-falling-today-pc-market-outlook-offers-a-hint/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8360d6acbd63f7ee",
-      "titleEn": "Semtech's LoRa Plus LR2021 Transceiver Wins 2026 EDGE Award",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260921701241/en/Semtech%E2%80%99s-LoRa-Plus-LR2021-Transceiver-Wins-2026-EDGE-Award/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fb022c40720599ed",
-      "titleEn": "Bureau Veritas Confirms LEAP | 28 Ambition, Upgrades Total Revenue Growth to Double-Digit in 2027 – 20281 and Targets EUR1 Billion Revenue in AI-Driven Markets and Services by 2030",
+      "id": "stockanalysis:a0b10a70d4fd3fd6",
+      "titleEn": "Xapien Partners With ServiceNow to Bring AI-Native Due Diligence Into Enterprise Workflows",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260921010375/en/Bureau-Veritas-Confirms-LEAP-28-Ambition-Upgrades-Total-Revenue-Growth-to-Double-Digit-in-2027-%E2%80%93-20281-and-Targets-EUR1-Billion-Revenue-in-AI-Driven-Markets-and-Services-by-2030/",
+      "link": "https://www.businesswire.com/news/home/20260922938563/en/Xapien-Partners-With-ServiceNow-to-Bring-AI-Native-Due-Diligence-Into-Enterprise-Workflows/",
       "published": null
     }
   ]
