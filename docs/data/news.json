@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-22T22:03:56.491379Z",
+  "generatedAt": "2026-09-23T00:27:14.290483Z",
   "sourceCount": 1,
   "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:05c01dc77c91f996",
+      "titleEn": "Silver leads metals higher as dollar strength caps gold after Fed rate repricing - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices were modestly firmer and spot silver prices were sharply higher in late U.S. trading Tuesday, as lower oil prices eased the immediate inflation shock from the Strait of Hormuz while Treasury yields and a firm U.S. dollar kept gold’s upside contained. At the time of writing, spot gold was trading near $4,356.80 an ounce, up 0.32% on the session, while spot silver was trading near $66.970, up 1.63%. U.S. equities finished mixed after Monday’s AI-led rally. The S&P 500 slipped 0.06 point, less than 0.1%, to 7,764.64, leaving the benchmark about 0.4% below its record high. The Dow Jones Industrial Average fell 185.14 points, or 0.4%, to 51,863.69. The Nasdaq Composite rose 122.18 points, or 0.5%, to 27,244.28, a record close, while the Russell 2000 gained 14.56 points, or 0.5%, to 2,889.92. European markets were mixed to slightly firmer, with the pan-European Stoxx 600 up 0.13% at 642.78. Germany’s DAX ended nearly flat, up 0.02% at 25,578.85, while France’s CAC 40 rose 0.20% to 8,154.91. The U.K. FTSE 100 fell 0.29% to 10,708.33, and Italy’s FTSE MIB lost 0.53% to 52,371.54.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-09-22/silver-leads-metals-higher-dollar-strength-caps-gold-after-fed-rate",
+      "published": null
+    },
     {
       "id": "stockanalysis:aca4d97586b72fae",
       "titleEn": "‘Gold is worth around $5k' as the yellow metal ‘has gone from a pure play on real rates to a pure play on liquidity' – Fidelity's Timmer",
@@ -49,57 +58,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:3249b77226aadf01",
-      "titleEn": "Why are Micron, SK Hynix, SanDisk stocks rising today?",
+      "id": "stockanalysis:38c74eeeddf1452e",
+      "titleEn": "Vecima Declares Quarterly Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/22/why-are-micron-sk-hynix-sandisk-stocks-rising-today/",
+      "link": "https://www.businesswire.com/news/home/20260922672584/en/Vecima-Declares-Quarterly-Dividend/",
       "published": null
     },
     {
-      "id": "stockanalysis:8423b84f60118625",
-      "titleEn": "Netflix stock falls as HSBC flags YouTube competition and weak engagement",
+      "id": "stockanalysis:5e96cadd4423d7b1",
+      "titleEn": "Sensormatic Solutions Predicts 2026's Busiest Holiday Shopping Days in Asia Pacific",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/22/netflix-stock-falls-as-hsbc-flags-youtube-competition-and-weak-engagement/",
+      "link": "https://www.businesswire.com/news/home/20260922180527/en/Sensormatic-Solutions-Predicts-2026%E2%80%99s-Busiest-Holiday-Shopping-Days-in-Asia-Pacific/",
       "published": null
     },
     {
-      "id": "stockanalysis:3638904b7305b765",
-      "titleEn": "China's gold imports approach 1,200 tonnes in 2026 as local premiums and strong yuan drive investment demand",
-      "summaryEn": "(Kitco News) – China’s gold imports hit a monthly high in August, with the standout performance helping to push the country’s gold imports to a record high over 1,100 tonnes year-to-date, China’s General Administration of Customs announced on Tuesday. Imports of gold bullion through August surpassed the total for the whole of 2025, the latest customs data showed, marking the highest rate of imports since at least 2017. Zijie Wu, an analyst at Jinrui Futures Co, told Bloomberg that strong investment demand has pushed mainland prices above the world benchmark price, making increased imports attractive for wholesalers.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-22/chinas-gold-imports-approach-1200-tonnes-2026-local-premiums-and-strong",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:71187e2cb9d3253c",
-      "titleEn": "GE HealthCare announces cash dividend increase for third quarter of 2026",
+      "id": "stockanalysis:7aac83430805090f",
+      "titleEn": "Millrose Properties, Inc. Announces Pricing of $1.0 Billion Senior Notes Offering",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922850951/en/GE-HealthCare-announces-cash-dividend-increase-for-third-quarter-of-2026/",
+      "link": "https://www.businesswire.com/news/home/20260922915849/en/Millrose-Properties-Inc.-Announces-Pricing-of-1.0-Billion-Senior-Notes-Offering/",
       "published": null
     },
     {
-      "id": "stockanalysis:6957e85633ad8c3d",
-      "titleEn": "Dynex Capital, Inc. Announces Pricing of Public Offering of Series D Fixed-Rate Cumulative Redeemable Preferred Stock",
+      "id": "stockanalysis:6578260a7b25dc2e",
+      "titleEn": "Doximity Named Leading Clinical AI Benchmark in Fireworks' Cross-Industry Index",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922645153/en/Dynex-Capital-Inc.-Announces-Pricing-of-Public-Offering-of-Series-D-Fixed-Rate-Cumulative-Redeemable-Preferred-Stock/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260922780582/en/Doximity-Named-Leading-Clinical-AI-Benchmark-in-Fireworks%E2%80%99-Cross-Industry-Index/",
       "published": null
     },
     {
-      "id": "stockanalysis:019f050bf9f9835e",
-      "titleEn": "Solaris Energy Infrastructure Announces Pricing of Upsized Offering of $1.25 Billion of 7.000% Senior Notes due 2032",
+      "id": "stockanalysis:96a102563bafd656",
+      "titleEn": "KBRA Assigns Preliminary Ratings to GCAT 2026-CES1 Trust",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922847796/en/Solaris-Energy-Infrastructure-Announces-Pricing-of-Upsized-Offering-of-1.25-Billion-of-7.000-Senior-Notes-due-2032/",
+      "link": "https://www.businesswire.com/news/home/20260922155022/en/KBRA-Assigns-Preliminary-Ratings-to-GCAT-2026-CES1-Trust/",
       "published": null
     }
   ]
