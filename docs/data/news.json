@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-09-23T04:57:34.137484Z",
+  "generatedAt": "2026-09-23T09:41:57.641253Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:a1275f0d40a455ab",
+      "titleEn": "Meta acts against 3.7 million scammers' accounts with Singapore police help",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Meta has disrupted more than 3.7 million scam-linked accounts, pages and other content this year based on information provided by Singapore police, the company said Wednesday. The social media giant said the Singapore Police Force (SPF) has been helping Meta's investigators \"identify and dismantle entire ecosystems of scammers\" through an information-sharing collaboration in place for the past two years.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-09-meta-million-scammers-accounts-singapore.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:36952a197f02a2cd",
+      "titleEn": "Apple stock flirts with $5T again: can iPhone Duo put it alongside Nvidia?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/apple-stock-flirts-with-5t-again-can-iphone-duo-put-it-alongside-nvidia/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5471ae521be99e5e",
+      "titleEn": "Top FTSE 100 shares forecasts: Vodafone, Lloyds Bank, Rolls-Royce, Glencore",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/top-ftse-100-shares-forecasts-vodafone-lloyds-bank-rolls-royce-glencore/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d2f8c4fb24dac0b4",
+      "titleEn": "Novo wants to change how Wall Street owns its stock: why now",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/novo-wants-to-change-how-wall-street-owns-its-stock-why-now/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cec0e7082a359f2d",
+      "titleEn": "KOSPI jumps 2% then loses almost all of it: why 7,000 remains a battle",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/kospi-jumps-2-then-loses-almost-all-of-it-why-7000-remains-a-battle/",
+      "published": null
+    },
     {
       "id": "stockanalysis:6b86614aaa250bbe",
       "titleEn": "Samsung and SK Hynix stocks are losing a major buyer: who steps in next",
@@ -49,93 +94,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:e701884ac5506420",
-      "titleEn": "Visa and Mastercard Help Moov Launch P2P Payment Solution",
-      "summaryEn": "Moov has announced Moov Money, a real-time, person-to-person (P2P) payment solution. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Created in collaboration with Visa and Mastercard , Moov Money lets consumers send and receive funds through their digital banking provider with just an eligible debit card and a trusted mobile phone connection, the company announced Tuesday (Sept. 22).",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/payments-innovation/2026/visa-and-mastercard-help-moov-launch-p2p-payment-solution/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:443f4130288e96e0",
-      "titleEn": "Why has Berkshire Hathaway invested in this homebuilder's stock",
+      "id": "stockanalysis:b465ddd414203c7f",
+      "titleEn": "Impossible Foods Teams Up with Tesco for Long-Anticipated Entry into U.K. Supermarkets, Launches Four All-New Products",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/22/why-has-berkshire-hathaway-invested-in-this-house-construction-companys-stock/",
+      "link": "https://www.businesswire.com/news/home/20260923070058/en/Impossible-Foods-Teams-Up-with-Tesco-for-Long-Anticipated-Entry-into-U.K.-Supermarkets-Launches-Four-All-New-Products/",
       "published": null
     },
     {
-      "id": "stockanalysis:aff7f49ddbd0ed65",
-      "titleEn": "Cisco Systems stock just slumped to a bear market: is it safe to buy the dip?",
+      "id": "stockanalysis:10d0d5b4ed9308a1",
+      "titleEn": "Nigeria: TotalEnergies Launches the Ima Gas Development to Supply Nigeria LNG Liquefaction Plant",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/22/cisco-systems-stock-just-slumped-to-a-bear-market-is-it-safe-to-buy-the-dip/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:46ef34ff775edd32",
-      "titleEn": "On Holding stock gains 8% as sportswear maker targets 2029 growth",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/22/on-holding-stock-gains-8-as-sportswear-maker-targets-2029-growth/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8612a543b0f3ab4b",
-      "titleEn": "MAGS: Top Magnificent 7 ETF inflows surge as Meta, AAPL stocks surge",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/22/mags-top-magnificent-7-etf-inflows-surge-as-meta-aapl-stocks-surge/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2bac605d2c6117a2",
-      "titleEn": "ETF flows show gold price decoupled from real yields as fiscal concerns now drive investor demand – Saxo Bank's Hansen",
-      "summaryEn": "(Kitco News) – Gold -backed ETF holdings continue to rise even as 10-year real yields hit 20-year highs, showing that fiscal concerns are changing the yield–gold relationship, according to Ole Hansen, Head of Commodity Strategy at Saxo Bank. “US 10-year real yields hit their highest level in more than 20 years on Friday at 2.63%, a 76-basis point increase since the start of the year, while total gold-backed ETF holdings continued to recover following a drop in H1 2026,” Hansen wrote in his latest gold analysis. “The divergence highlights an increasingly notable disconnect between gold demand and what historically has been a strong inverse relationship with real yields.” The real yield is the return an investor earns on a bond after accounting for inflation. “Historically, it has been regarded as key to determining the direction of gold, as the yellow metal and other hard assets such as silver and platinum do not pay interest or dividends, so higher real yields can make bonds more attractive relative to holding gold,” he said. “When real yields rise, gold has traditionally faced pressure.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-22/etf-flows-show-gold-price-decoupled-real-yields-fiscal-concerns-now-drive",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fbc20299489a9901",
-      "titleEn": "Can Viking Therapeutics stock retain today's gains?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/22/can-viking-therapeutics-stock-retain-todays-gains/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:835e1b5501e45be3",
-      "titleEn": "XENE Investors Have Opportunity to Join Xenon Pharmaceuticals Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922922322/en/XENE-Investors-Have-Opportunity-to-Join-Xenon-Pharmaceuticals-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d23537f199a9e086",
-      "titleEn": "PLCE Investors Have Opportunity to Join The Children's Place Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922453367/en/PLCE-Investors-Have-Opportunity-to-Join-The-Childrens-Place-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:38c74eeeddf1452e",
-      "titleEn": "Vecima Declares Quarterly Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922672584/en/Vecima-Declares-Quarterly-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20260922759851/en/Nigeria-TotalEnergies-Launches-the-Ima-Gas-Development-to-Supply-Nigeria-LNG-Liquefaction-Plant/",
       "published": null
     }
   ]
