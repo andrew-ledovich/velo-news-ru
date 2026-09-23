@@ -1,8 +1,107 @@
 {
-  "generatedAt": "2026-09-23T09:41:57.641253Z",
+  "generatedAt": "2026-09-23T14:25:43.239401Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:0d78ef58fd1d7b9a",
+      "titleEn": "Spot gold drops to $4,280/oz as flash S&amp;P composite PMI improves to 58.4 in September",
+      "summaryEn": "(Kitco News) - The gold market is selling off after the latest U.S. data showed the services sector improving beyond expectations this month, while the manufacturing sector also strengthened. S&P Global reported on Wednesday that its flash Composite Purchasing Managers Index (PMI) rose to 58.4 in September, up from August’s reading of 56. The number was above expectations, as economists had forecasted a reading of 55.2. “US business activity growth accelerated for a fourth successive month in September to reach the fastest rate for over five years,” the report noted. “A further surge in service sector business activity was accompanied by a renewed improvement in manufacturing output growth.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-23/spot-gold-drops-4280oz-flash-sp-composite-pmi-improves-584-september",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0defc16fe74b9fca",
+      "titleEn": "Microsoft stock gains as this analyst sees 15% upside",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/microsoft-stock-gains-as-this-analyst-sees-15-upside/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b756bb74867eef8a",
+      "titleEn": "Josh Brown says these 3 cybersecurity stocks remain attractive",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/josh-brown-says-these-3-cybersecurity-stocks-remain-attractive/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:aab2287287f30fdc",
+      "titleEn": "How Google Discover turns online activity into a personalized content feed",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: If you're one of Google Discover's millions of daily users, you've doubtless come across all manner of content without actively searching for it. A Spanish user, for instance, might see headlines promising to reveal the secret recipes of avant-garde chef Ferran Adrià, what time 46-year-old TV presenter Pilar Rubio goes to bed, the latest unmissable deals from Lidl or the new car that will allow them to say \"adiós\" to annual inspections. We still tend to think of Google as a search engine first and foremost. The iconic search bar on a white background—part of Alphabet's flagship product, which underpins its substantial advertising revenue—has long been part of our vocabulary. Google is both a noun and a verb that can have the final say in contentious debates.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-09-google-online-personalized-content.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:30e6ecda1156f4e9",
+      "titleEn": "Here's why quantum computing stocks IonQ, RGTI, QBTS, INFQ are rising",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/heres-why-quantum-computing-stocks-ionq-rgti-qbts-infq-are-rising/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f9e801437acff116",
+      "titleEn": "Gold, silver slide as dollar rallies and Fed hike bets firm - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply lower in early U.S. trading Wednesday, as a stronger U.S. dollar, elevated Treasury yields and renewed Fed tightening expectations offset the latest pullback in oil prices. At the time of writing, spot gold was trading near $4,308.40 an ounce, down 1.12% on the session, while spot silver was trading near $65.000, down 2.88%. The dollar rose to its strongest level in about two months as markets continued to price the Fed’s September rate increase as part of a renewed tightening cycle, not a one-off adjustment. The dollar index was near 100.79 in early European trade, while the 10-year Treasury yield held near the 5.0% area. The next immediate test is the September flash U.S. PMI release at 9:45 a.m. ET, followed by weekly jobless claims Thursday at 8:30 a.m. ET and August durable goods orders and final September consumer sentiment Friday at 8:30 a.m. ET and 10:00 a.m. ET, respectively. Stronger activity data or firmer price components would reinforce the higher-for-longer trade, keeping pressure on gold through real yields and the dollar. Softer data would give bullion a clearer path to stabilize above $4,300. The Strait of Hormuz risk premium is being marked lower, but not removed. Oil prices extended their decline after Saudi Arabia restarted operations at its East-West Pipeline and traders weighed the possibility of U.S.-Iran diplomacy around the United Nations General Assembly. Brent crude was near $98.16 a barrel and WTI was near $89.01 in early trade, with both benchmarks around two-week lows after six straight declines. Lower crude reduces the immediate inflation impulse that had supported gold earlier in the conflict, but the unresolved U.S.-Iran backdrop still leaves a geopolitical bid under bullion and keeps energy-price risk inside the Fed reaction function.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-23/gold-silver-slide-dollar-rallies-and-fed-hike-bets-firm-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:92d52922742c0f04",
+      "titleEn": "Goldman Sachs stock is falling amid Palmer Square buyout rumors: what next?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/goldman-sachs-stock-is-falling-amid-palmer-square-buyout-rumors-what-next/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:063aced2b461d225",
+      "titleEn": "Apollo Global at risk as private credit redemptions continue",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/apollo-global-at-risk-as-private-credit-redemptions-continue/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0f68a5e012c5959f",
+      "titleEn": "JPMorgan Weighs Opening Card Business to Private Credit",
+      "summaryEn": "J.P. Morgan Chase is reportedly exploring whether other funding sources could approve some of the cards it rejects. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That&#8217;s according to a report late Tuesday (Sept. 22) by The Wall Street Journal (WSJ), which notes that the banking giant&#8217;s plan could give the private credit space access to a new slice of consumer debt.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/2026/jpmorgan-weighs-opening-card-business-to-private-credit/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b478e421bc4fd9c1",
+      "titleEn": "Anthropic and OpenEvidence Team to Expand Reach of Medical AI",
+      "summaryEn": "Anthropic has reportedly launched a partnership with artificial intelligence (AI)-powered medical search engine provider OpenEvidence . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); This collaboration is designed to bring AI-driven clinical decisioning help to doctors in places that can&#8217;t access the technology, the companies told Reuters Tuesday (Sept. 22).",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-openevidence-team-to-expand-reach-of-medical-ai/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:872fb134b56df23f",
+      "titleEn": "Why are Micron and SanDisk stocks down today after Tuesday's sharp gains?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/why-are-micron-and-sandisk-stocks-down-today-after-tuesdays-sharp-gains/",
+      "published": null
+    },
     {
       "id": "stockanalysis:a1275f0d40a455ab",
       "titleEn": "Meta acts against 3.7 million scammers' accounts with Singapore police help",
@@ -13,102 +112,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:36952a197f02a2cd",
-      "titleEn": "Apple stock flirts with $5T again: can iPhone Duo put it alongside Nvidia?",
+      "id": "stockanalysis:b100716719aa925d",
+      "titleEn": "Europe stocks rise on cheaper oil: why are investors still buying defence",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/apple-stock-flirts-with-5t-again-can-iphone-duo-put-it-alongside-nvidia/",
+      "link": "https://invezz.com/news/2026/09/23/europe-stocks-rise-on-cheaper-oil-why-are-investors-still-buying-defence/",
       "published": null
     },
     {
-      "id": "stockanalysis:5471ae521be99e5e",
-      "titleEn": "Top FTSE 100 shares forecasts: Vodafone, Lloyds Bank, Rolls-Royce, Glencore",
+      "id": "stockanalysis:a130394873ff002a",
+      "titleEn": "Papa Johns The Works Pizza: Seven Premium Toppings in One Perfect Bite",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/top-ftse-100-shares-forecasts-vodafone-lloyds-bank-rolls-royce-glencore/",
+      "link": "https://www.businesswire.com/news/home/20260923616600/en/Papa-Johns-The-Works-Pizza-Seven-Premium-Toppings-in-One-Perfect-Bite/",
       "published": null
     },
     {
-      "id": "stockanalysis:d2f8c4fb24dac0b4",
-      "titleEn": "Novo wants to change how Wall Street owns its stock: why now",
+      "id": "stockanalysis:55a87618fe17166d",
+      "titleEn": "IFI Techsolutions achieves Agentic DevOps with Microsoft Azure and GitHub Specialization",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/novo-wants-to-change-how-wall-street-owns-its-stock-why-now/",
+      "link": "https://www.businesswire.com/news/home/20260922557588/en/IFI-Techsolutions-achieves-Agentic-DevOps-with-Microsoft-Azure-and-GitHub-Specialization/",
       "published": null
     },
     {
-      "id": "stockanalysis:cec0e7082a359f2d",
-      "titleEn": "KOSPI jumps 2% then loses almost all of it: why 7,000 remains a battle",
+      "id": "stockanalysis:f131bb089d2f3a2d",
+      "titleEn": "Northern Trust Expands Municipal Bond ETF Lineup with New York and California Tax-Exempt ETFs",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.businesswire.com/news/home/20260921016896/en/Northern-Trust-Expands-Municipal-Bond-ETF-Lineup-with-New-York-and-California-Tax-Exempt-ETFs/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5b776f6f2501dd7c",
+      "titleEn": "CHG Healthcare Names Pete LaBore Executive Vice President of Sales Operations",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/kospi-jumps-2-then-loses-almost-all-of-it-why-7000-remains-a-battle/",
+      "link": "https://www.businesswire.com/news/home/20260923965700/en/CHG-Healthcare-Names-Pete-LaBore-Executive-Vice-President-of-Sales-Operations/",
       "published": null
     },
     {
-      "id": "stockanalysis:6b86614aaa250bbe",
-      "titleEn": "Samsung and SK Hynix stocks are losing a major buyer: who steps in next",
+      "id": "stockanalysis:43c6fe8300b7338e",
+      "titleEn": "Xfinity and Comcast Business Reliable, High-Speed Internet Now Available in Milton and New Durham, New Hampshire",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/samsung-and-sk-hynix-stocks-are-losing-a-major-buyer-who-steps-in-next/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:05c01dc77c91f996",
-      "titleEn": "Silver leads metals higher as dollar strength caps gold after Fed rate repricing - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were modestly firmer and spot silver prices were sharply higher in late U.S. trading Tuesday, as lower oil prices eased the immediate inflation shock from the Strait of Hormuz while Treasury yields and a firm U.S. dollar kept gold’s upside contained. At the time of writing, spot gold was trading near $4,356.80 an ounce, up 0.32% on the session, while spot silver was trading near $66.970, up 1.63%. U.S. equities finished mixed after Monday’s AI-led rally. The S&P 500 slipped 0.06 point, less than 0.1%, to 7,764.64, leaving the benchmark about 0.4% below its record high. The Dow Jones Industrial Average fell 185.14 points, or 0.4%, to 51,863.69. The Nasdaq Composite rose 122.18 points, or 0.5%, to 27,244.28, a record close, while the Russell 2000 gained 14.56 points, or 0.5%, to 2,889.92. European markets were mixed to slightly firmer, with the pan-European Stoxx 600 up 0.13% at 642.78. Germany’s DAX ended nearly flat, up 0.02% at 25,578.85, while France’s CAC 40 rose 0.20% to 8,154.91. The U.K. FTSE 100 fell 0.29% to 10,708.33, and Italy’s FTSE MIB lost 0.53% to 52,371.54.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-09-22/silver-leads-metals-higher-dollar-strength-caps-gold-after-fed-rate",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:aca4d97586b72fae",
-      "titleEn": "‘Gold is worth around $5k' as the yellow metal ‘has gone from a pure play on real rates to a pure play on liquidity' – Fidelity's Timmer",
-      "summaryEn": "(Kitco News) – Gold ’s fair value has already reached $5,000 per ounce as the yellow metal has transitioned from a rate-based to a liquidity-based trade, according to Jurrien Timmer, Director of Global Macro at Fidelity Investments. “[Gold] gained ground last week as the global liquidity profile has started to recover,” Timmer wrote in a LinkedIn analysis on Monday. “Based on my Gold & Liquidity regression between global M2 and gold, gold is worth around $5k.” Timmer shared a chart which he said “illustrates how gold has gone from a pure play on real rates to a pure play on liquidity,” with his model showing gold already worth $5,000 per ounce.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-22/gold-worth-around-5k-yellow-metal-has-gone-pure-play-real-rates-pure-play",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c42ee8212421fd3f",
-      "titleEn": "OpenAI Hands Banks a Shortcut Around Billion-Dollar Core Rewrites",
-      "summaryEn": "Replacing a bank’s core system can take five years and hundreds of millions of dollars, which is why decades-old terminals still sit next to modern web forms. Computer-use AI operates those old screens the way an employee does, reading what is displayed and adjusting when it changes, something scripted software robots never could. OpenAI’s new GPT-6 Astra model finishes a screen task in about half the time of its predecessor, yet the best AI still completes fewer than a third of long, realistic jobs from start to end.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/banking/2026/openai-hands-banks-a-shortcut-around-billion-dollar-core-rewrites/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:98bfb942504156ec",
-      "titleEn": "New York Times stock is slumping: here's why and what to expect",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/22/new-york-times-stock-is-slumping-heres-why-and-what-to-expect/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b465ddd414203c7f",
-      "titleEn": "Impossible Foods Teams Up with Tesco for Long-Anticipated Entry into U.K. Supermarkets, Launches Four All-New Products",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260923070058/en/Impossible-Foods-Teams-Up-with-Tesco-for-Long-Anticipated-Entry-into-U.K.-Supermarkets-Launches-Four-All-New-Products/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:10d0d5b4ed9308a1",
-      "titleEn": "Nigeria: TotalEnergies Launches the Ima Gas Development to Supply Nigeria LNG Liquefaction Plant",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922759851/en/Nigeria-TotalEnergies-Launches-the-Ima-Gas-Development-to-Supply-Nigeria-LNG-Liquefaction-Plant/",
+      "link": "https://www.businesswire.com/news/home/20260923164907/en/Xfinity-and-Comcast-Business-Reliable-High-Speed-Internet-Now-Available-in-Milton-and-New-Durham-New-Hampshire/",
       "published": null
     }
   ]
