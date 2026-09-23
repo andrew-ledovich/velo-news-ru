@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-09-23T18:28:36.255685Z",
+  "generatedAt": "2026-09-23T21:38:58.477861Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:6f3f81696ffdfe7f",
+      "titleEn": "Here's why Securitize stock is rising and the potential risks",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/heres-why-securitize-stock-is-rising-and-the-potential-risks/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:105dc6f9736515cb",
+      "titleEn": "Should you sell AppLovin stock as Edgewater issues growth ceiling warning",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/should-you-sell-applovin-stock-as-edgewater-issues-growth-ceiling-warning/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:47d6139ab750d291",
+      "titleEn": "Is Muse Really the Answer to Meta's AI Woes?",
+      "summaryEn": "Muse gave Meta the App Store win its earlier AI apps never managed, but it launched despite internal concerns about how the agent handles the sensitive data it needs to work. Amazon has locked Muse out while PayPal, Shopify, Stripe and Ticketmaster let it in, and OpenAI’s shuttered Instant Checkout shows that lining up merchants doesn’t mean shoppers will buy inside an agent. Muse is costlier to run than a chatbot, and Meta expects most users to stay on the free tier, so the compute bill lands on a $100 plan and merchant commissions few have tested.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/is-muse-really-the-answer-to-metas-ai-woes/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1431181f2b9aa79c",
+      "titleEn": "Gold's bull run isn't over: TD Securities sees next leg above $5,000",
+      "summaryEn": "(Kitco News) - Gold continues to struggle as prices fall below critical support at $4,300 an ounce; however, one bank sees limited downside for the precious metal as the environment looks ripe for a renewed drive above $5,000 an ounce. In his latest market commentary, Ryan McKay, Senior Commodity Strategist at TD Securities, said that although gold continues to face headwinds from higher interest rates, underlying investment demand remains resilient and is starting to strengthen across several important segments of the market. “The time is coming for the next leg higher in gold,” McKay said. “The yellow metal has shown the ability to hold strong despite Fed hikes, and with investor and central bank appetite growing again, gold looks poised to make a renewed run at prices north of $5,000/oz into 2027.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-23/golds-bull-run-isnt-over-td-securities-sees-next-leg-above-5000",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5e37417383b5da26",
+      "titleEn": "Micron stock falls 2% on Wednesday: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/micron-stock-falls-2-on-wednesday-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:376988d00708fc73",
+      "titleEn": "Alphabet stock falls 3% as Meta's Muse AI raises competition",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/23/alphabet-stock-falls-3-as-metas-muse-ai-raises-competition/",
+      "published": null
+    },
     {
       "id": "stockanalysis:ce2d4303c99468e8",
       "titleEn": "MoonPay Boosts Tokenization Business With North Capital Deal",
@@ -76,102 +130,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:2da7200a6924ea4a",
-      "titleEn": "Why are Intel, AMD, Broadcom (AVGO) stocks down on Wednsday?",
+      "id": "stockanalysis:72cb1714fbd67484",
+      "titleEn": "Oceaneering Schedules Third Quarter 2026 Earnings Release and Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/why-are-intel-amd-broadcom-avgo-stocks-down-on-wednsday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f1fa927a1a0b7e2a",
-      "titleEn": "Why is Palantir stock gaining 3% today?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/why-is-palantir-stock-gaining-3-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a943f34fa90d23a8",
-      "titleEn": "Why Toms Capital wants Devon Energy to consider a sale",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/why-toms-capital-wants-devon-energy-to-consider-a-sale/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:27ac65ef13170f39",
-      "titleEn": "Are JEPI, SPYI, and GPIX ETFs good buys as their inflows jump?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/are-jepi-spyi-and-gpix-etfs-good-buys-as-their-inflows-jump/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:424a5c2c07ae40ed",
-      "titleEn": "Revolut and Nubank Face Steep Climb in Scaling US Banking",
-      "summaryEn": "Revolut and Nubank , the world’s two most-valued digital banks , want to conquer the United States, the Financial Times reported Wednesday (Sept. 23). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Both companies obtained conditional approval for U.S. banking charters this year, and Brazil-based Nubank officially debuted its offering this month. However, the two FinTechs face challenges in cracking the highly competitive U.S. banking market, the report said.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/revolut-nubank-face-steep-climb-scaling-united-states-banking/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0d78ef58fd1d7b9a",
-      "titleEn": "Spot gold drops to $4,280/oz as flash S&amp;P composite PMI improves to 58.4 in September",
-      "summaryEn": "(Kitco News) - The gold market is selling off after the latest U.S. data showed the services sector improving beyond expectations this month, while the manufacturing sector also strengthened. S&P Global reported on Wednesday that its flash Composite Purchasing Managers Index (PMI) rose to 58.4 in September, up from August’s reading of 56. The number was above expectations, as economists had forecasted a reading of 55.2. “US business activity growth accelerated for a fourth successive month in September to reach the fastest rate for over five years,” the report noted. “A further surge in service sector business activity was accompanied by a renewed improvement in manufacturing output growth.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-23/spot-gold-drops-4280oz-flash-sp-composite-pmi-improves-584-september",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0defc16fe74b9fca",
-      "titleEn": "Microsoft stock gains as this analyst sees 15% upside",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/microsoft-stock-gains-as-this-analyst-sees-15-upside/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b756bb74867eef8a",
-      "titleEn": "Josh Brown says these 3 cybersecurity stocks remain attractive",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/josh-brown-says-these-3-cybersecurity-stocks-remain-attractive/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c26d4be5e3f21cc2",
-      "titleEn": "New 3Sixty Insights Analysis Reinforces the Importance of Insperity's HRScale Service-Enabled HR Solution",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260923704367/en/New-3Sixty-Insights-Analysis-Reinforces-the-Importance-of-Insperitys-HRScale-Service-Enabled-HR-Solution/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ff50f4ad932ba0cb",
-      "titleEn": "PRTH Stock Notification: Priority Technology Holdings, Inc. is Being Investigated after $8.05 per share Merger Deal Disclosed – Investors are Alerted to Contact BFA Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260923099039/en/PRTH-Stock-Notification-Priority-Technology-Holdings-Inc.-is-Being-Investigated-after-8.05-per-share-Merger-Deal-Disclosed-%E2%80%93-Investors-are-Alerted-to-Contact-BFA-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:661602dc784cf3c5",
-      "titleEn": "iA Financial Group Announces the Appointment of Nicolas Coulombe as Executive Vice-President, Information Technology (CIO)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260923852619/en/iA-Financial-Group-Announces-the-Appointment-of-Nicolas-Coulombe-as-Executive-Vice-President-Information-Technology-CIO/",
+      "link": "https://www.businesswire.com/news/home/20260923975546/en/Oceaneering-Schedules-Third-Quarter-2026-Earnings-Release-and-Conference-Call/",
       "published": null
     }
   ]
