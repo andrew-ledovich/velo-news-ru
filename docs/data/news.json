@@ -1,8 +1,125 @@
 {
-  "generatedAt": "2026-09-23T14:25:43.239401Z",
+  "generatedAt": "2026-09-23T18:28:36.255685Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:ce2d4303c99468e8",
+      "titleEn": "MoonPay Boosts Tokenization Business With North Capital Deal",
+      "summaryEn": "MoonPay is continuing its acquisition spree by merging with private markets infrastructure platform North Capital . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The acquisition is designed to bring regulated private markets infrastructure directly to MoonPay’s platform, rather than requiring MoonPay to develop it from scratch, the company said in its announcement Wednesday (Sept. 23).",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/acquiring/2026/moonpay-boosts-tokenization-business-with-north-capital-deal/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:049693d3dd803692",
+      "titleEn": "Paramount weighs adding Musk to investor group backing Warner deal: report",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/paramount-weighs-adding-musk-to-investor-group-backing-warner-deal-report/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:375ba429fcd77aea",
+      "titleEn": "Why Nvidia stock is down around 2% after a six-day rally",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/why-nvidia-stock-is-down-around-2-after-a-six-day-rally/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7c1ecc48eb5fbb4f",
+      "titleEn": "Gold price battles $4,300 support, but BMO sees underlying demand strengthening",
+      "summaryEn": "(Kitco News) - Gold prices are struggling to hold gains above critical near-term support at $4,300 an ounce as renewed momentum in the U.S. dollar and elevated bond yields continue to take their toll on the precious metal. Gold prices have dropped below $4,300 and are currently trading at $4,279.80 an ounce, down close to 2% on the day. Despite the renewed selling pressures, one bank continues to see underlying resilience in gold even as the yellow metal faces rising opportunity costs after the Federal Reserve embarked on a new tightening cycle last week.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-23/gold-price-battles-4300-support-bmo-sees-underlying-demand-strengthening",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:48fd2050ac8e350a",
+      "titleEn": "Gold price will hit $4,900/oz in 2026 on strong sovereign demand as China buys 75% more than reported in July – Goldman Sachs",
+      "summaryEn": "(Kitco News) – Central bank gold purchases remained strong through July, and China appears to be buying far more bullion than official reports have disclosed, supporting a year-end price target of $4,900 per ounce, according to Goldman Sachs Research. “Our GS nowcast estimates central bank purchases of 44 tonnes in July (vs. a pre-2022 average of 17 tonnes), with a large contribution from China,” wrote Lina Thomas and Daan Struyven in a recent research note. “On a 3-month seasonally adjusted basis, the trend stands at 91 tonnes/month.” Goldman continues to see “net upside risk” to its $4,900 per ounce year-end gold forecast, but the analysts also warned of greater two-sided volatility along the way.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-23/gold-price-will-hit-4900oz-2026-strong-sovereign-demand-china-buys-75-more",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7fcc72d64126e93e",
+      "titleEn": "What drove McDonald's stock to a fresh 52-week low today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/what-drove-mcdonalds-stock-to-a-fresh-52-week-low-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:10fd983180f42506",
+      "titleEn": "DoorDash Hands Brands Live Shelf Data and Retail Insights",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); With this information, the new Brand Center delivers insights into on-shelf availability and out-of-stock trends, the choices shoppers make when an item is unavailable, and how products are listed and presented across retailers on DoorDash, according to the release. Brand Center also gives eligible brands direct control over product images, descriptions and categories to help these brands keep information accurate and complete across retailers on DoorDash, the release said.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/retail/2026/doordash-hands-brands-live-shelf-data-retail-insights/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fa616a06c0ee962b",
+      "titleEn": "Barclays says oil and rates, not midterms, will decide equities this fall",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/barclays-says-oil-and-rates-not-midterms-will-decide-equities-this-fall/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2da7200a6924ea4a",
+      "titleEn": "Why are Intel, AMD, Broadcom (AVGO) stocks down on Wednsday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/why-are-intel-amd-broadcom-avgo-stocks-down-on-wednsday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f1fa927a1a0b7e2a",
+      "titleEn": "Why is Palantir stock gaining 3% today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/why-is-palantir-stock-gaining-3-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a943f34fa90d23a8",
+      "titleEn": "Why Toms Capital wants Devon Energy to consider a sale",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/why-toms-capital-wants-devon-energy-to-consider-a-sale/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:27ac65ef13170f39",
+      "titleEn": "Are JEPI, SPYI, and GPIX ETFs good buys as their inflows jump?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/are-jepi-spyi-and-gpix-etfs-good-buys-as-their-inflows-jump/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:424a5c2c07ae40ed",
+      "titleEn": "Revolut and Nubank Face Steep Climb in Scaling US Banking",
+      "summaryEn": "Revolut and Nubank , the world’s two most-valued digital banks , want to conquer the United States, the Financial Times reported Wednesday (Sept. 23). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Both companies obtained conditional approval for U.S. banking charters this year, and Brazil-based Nubank officially debuted its offering this month. However, the two FinTechs face challenges in cracking the highly competitive U.S. banking market, the report said.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/revolut-nubank-face-steep-climb-scaling-united-states-banking/",
+      "published": null
+    },
     {
       "id": "stockanalysis:0d78ef58fd1d7b9a",
       "titleEn": "Spot gold drops to $4,280/oz as flash S&amp;P composite PMI improves to 58.4 in September",
@@ -31,138 +148,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:aab2287287f30fdc",
-      "titleEn": "How Google Discover turns online activity into a personalized content feed",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: If you're one of Google Discover's millions of daily users, you've doubtless come across all manner of content without actively searching for it. A Spanish user, for instance, might see headlines promising to reveal the secret recipes of avant-garde chef Ferran Adrià, what time 46-year-old TV presenter Pilar Rubio goes to bed, the latest unmissable deals from Lidl or the new car that will allow them to say \"adiós\" to annual inspections. We still tend to think of Google as a search engine first and foremost. The iconic search bar on a white background—part of Alphabet's flagship product, which underpins its substantial advertising revenue—has long been part of our vocabulary. Google is both a noun and a verb that can have the final say in contentious debates.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-09-google-online-personalized-content.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:30e6ecda1156f4e9",
-      "titleEn": "Here's why quantum computing stocks IonQ, RGTI, QBTS, INFQ are rising",
+      "id": "stockanalysis:c26d4be5e3f21cc2",
+      "titleEn": "New 3Sixty Insights Analysis Reinforces the Importance of Insperity's HRScale Service-Enabled HR Solution",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/heres-why-quantum-computing-stocks-ionq-rgti-qbts-infq-are-rising/",
+      "link": "https://www.businesswire.com/news/home/20260923704367/en/New-3Sixty-Insights-Analysis-Reinforces-the-Importance-of-Insperitys-HRScale-Service-Enabled-HR-Solution/",
       "published": null
     },
     {
-      "id": "stockanalysis:f9e801437acff116",
-      "titleEn": "Gold, silver slide as dollar rallies and Fed hike bets firm - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices are sharply lower in early U.S. trading Wednesday, as a stronger U.S. dollar, elevated Treasury yields and renewed Fed tightening expectations offset the latest pullback in oil prices. At the time of writing, spot gold was trading near $4,308.40 an ounce, down 1.12% on the session, while spot silver was trading near $65.000, down 2.88%. The dollar rose to its strongest level in about two months as markets continued to price the Fed’s September rate increase as part of a renewed tightening cycle, not a one-off adjustment. The dollar index was near 100.79 in early European trade, while the 10-year Treasury yield held near the 5.0% area. The next immediate test is the September flash U.S. PMI release at 9:45 a.m. ET, followed by weekly jobless claims Thursday at 8:30 a.m. ET and August durable goods orders and final September consumer sentiment Friday at 8:30 a.m. ET and 10:00 a.m. ET, respectively. Stronger activity data or firmer price components would reinforce the higher-for-longer trade, keeping pressure on gold through real yields and the dollar. Softer data would give bullion a clearer path to stabilize above $4,300. The Strait of Hormuz risk premium is being marked lower, but not removed. Oil prices extended their decline after Saudi Arabia restarted operations at its East-West Pipeline and traders weighed the possibility of U.S.-Iran diplomacy around the United Nations General Assembly. Brent crude was near $98.16 a barrel and WTI was near $89.01 in early trade, with both benchmarks around two-week lows after six straight declines. Lower crude reduces the immediate inflation impulse that had supported gold earlier in the conflict, but the unresolved U.S.-Iran backdrop still leaves a geopolitical bid under bullion and keeps energy-price risk inside the Fed reaction function.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-23/gold-silver-slide-dollar-rallies-and-fed-hike-bets-firm-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:92d52922742c0f04",
-      "titleEn": "Goldman Sachs stock is falling amid Palmer Square buyout rumors: what next?",
+      "id": "stockanalysis:ff50f4ad932ba0cb",
+      "titleEn": "PRTH Stock Notification: Priority Technology Holdings, Inc. is Being Investigated after $8.05 per share Merger Deal Disclosed – Investors are Alerted to Contact BFA Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/goldman-sachs-stock-is-falling-amid-palmer-square-buyout-rumors-what-next/",
+      "link": "https://www.businesswire.com/news/home/20260923099039/en/PRTH-Stock-Notification-Priority-Technology-Holdings-Inc.-is-Being-Investigated-after-8.05-per-share-Merger-Deal-Disclosed-%E2%80%93-Investors-are-Alerted-to-Contact-BFA-Law/",
       "published": null
     },
     {
-      "id": "stockanalysis:063aced2b461d225",
-      "titleEn": "Apollo Global at risk as private credit redemptions continue",
+      "id": "stockanalysis:661602dc784cf3c5",
+      "titleEn": "iA Financial Group Announces the Appointment of Nicolas Coulombe as Executive Vice-President, Information Technology (CIO)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/apollo-global-at-risk-as-private-credit-redemptions-continue/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0f68a5e012c5959f",
-      "titleEn": "JPMorgan Weighs Opening Card Business to Private Credit",
-      "summaryEn": "J.P. Morgan Chase is reportedly exploring whether other funding sources could approve some of the cards it rejects. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That&#8217;s according to a report late Tuesday (Sept. 22) by The Wall Street Journal (WSJ), which notes that the banking giant&#8217;s plan could give the private credit space access to a new slice of consumer debt.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/2026/jpmorgan-weighs-opening-card-business-to-private-credit/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b478e421bc4fd9c1",
-      "titleEn": "Anthropic and OpenEvidence Team to Expand Reach of Medical AI",
-      "summaryEn": "Anthropic has reportedly launched a partnership with artificial intelligence (AI)-powered medical search engine provider OpenEvidence . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); This collaboration is designed to bring AI-driven clinical decisioning help to doctors in places that can&#8217;t access the technology, the companies told Reuters Tuesday (Sept. 22).",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-openevidence-team-to-expand-reach-of-medical-ai/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:872fb134b56df23f",
-      "titleEn": "Why are Micron and SanDisk stocks down today after Tuesday's sharp gains?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/why-are-micron-and-sandisk-stocks-down-today-after-tuesdays-sharp-gains/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a1275f0d40a455ab",
-      "titleEn": "Meta acts against 3.7 million scammers' accounts with Singapore police help",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Meta has disrupted more than 3.7 million scam-linked accounts, pages and other content this year based on information provided by Singapore police, the company said Wednesday. The social media giant said the Singapore Police Force (SPF) has been helping Meta's investigators \"identify and dismantle entire ecosystems of scammers\" through an information-sharing collaboration in place for the past two years.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-09-meta-million-scammers-accounts-singapore.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b100716719aa925d",
-      "titleEn": "Europe stocks rise on cheaper oil: why are investors still buying defence",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/europe-stocks-rise-on-cheaper-oil-why-are-investors-still-buying-defence/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a130394873ff002a",
-      "titleEn": "Papa Johns The Works Pizza: Seven Premium Toppings in One Perfect Bite",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260923616600/en/Papa-Johns-The-Works-Pizza-Seven-Premium-Toppings-in-One-Perfect-Bite/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:55a87618fe17166d",
-      "titleEn": "IFI Techsolutions achieves Agentic DevOps with Microsoft Azure and GitHub Specialization",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922557588/en/IFI-Techsolutions-achieves-Agentic-DevOps-with-Microsoft-Azure-and-GitHub-Specialization/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f131bb089d2f3a2d",
-      "titleEn": "Northern Trust Expands Municipal Bond ETF Lineup with New York and California Tax-Exempt ETFs",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20260921016896/en/Northern-Trust-Expands-Municipal-Bond-ETF-Lineup-with-New-York-and-California-Tax-Exempt-ETFs/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5b776f6f2501dd7c",
-      "titleEn": "CHG Healthcare Names Pete LaBore Executive Vice President of Sales Operations",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260923965700/en/CHG-Healthcare-Names-Pete-LaBore-Executive-Vice-President-of-Sales-Operations/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:43c6fe8300b7338e",
-      "titleEn": "Xfinity and Comcast Business Reliable, High-Speed Internet Now Available in Milton and New Durham, New Hampshire",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260923164907/en/Xfinity-and-Comcast-Business-Reliable-High-Speed-Internet-Now-Available-in-Milton-and-New-Durham-New-Hampshire/",
+      "link": "https://www.businesswire.com/news/home/20260923852619/en/iA-Financial-Group-Announces-the-Appointment-of-Nicolas-Coulombe-as-Executive-Vice-President-Information-Technology-CIO/",
       "published": null
     }
   ]
