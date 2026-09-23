@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-23T00:27:14.290483Z",
+  "generatedAt": "2026-09-23T04:57:34.137484Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:6b86614aaa250bbe",
+      "titleEn": "Samsung and SK Hynix stocks are losing a major buyer: who steps in next",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/23/samsung-and-sk-hynix-stocks-are-losing-a-major-buyer-who-steps-in-next/",
+      "published": null
+    },
     {
       "id": "stockanalysis:05c01dc77c91f996",
       "titleEn": "Silver leads metals higher as dollar strength caps gold after Fed rate repricing - Kitco PM Report",
@@ -31,12 +40,57 @@
       "published": null
     },
     {
+      "id": "stockanalysis:98bfb942504156ec",
+      "titleEn": "New York Times stock is slumping: here's why and what to expect",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/22/new-york-times-stock-is-slumping-heres-why-and-what-to-expect/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:e701884ac5506420",
       "titleEn": "Visa and Mastercard Help Moov Launch P2P Payment Solution",
       "summaryEn": "Moov has announced Moov Money, a real-time, person-to-person (P2P) payment solution. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Created in collaboration with Visa and Mastercard , Moov Money lets consumers send and receive funds through their digital banking provider with just an eligible debit card and a trusted mobile phone connection, the company announced Tuesday (Sept. 22).",
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.pymnts.com/news/payments-innovation/2026/visa-and-mastercard-help-moov-launch-p2p-payment-solution/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:443f4130288e96e0",
+      "titleEn": "Why has Berkshire Hathaway invested in this homebuilder's stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/22/why-has-berkshire-hathaway-invested-in-this-house-construction-companys-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:aff7f49ddbd0ed65",
+      "titleEn": "Cisco Systems stock just slumped to a bear market: is it safe to buy the dip?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/22/cisco-systems-stock-just-slumped-to-a-bear-market-is-it-safe-to-buy-the-dip/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:46ef34ff775edd32",
+      "titleEn": "On Holding stock gains 8% as sportswear maker targets 2029 growth",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/22/on-holding-stock-gains-8-as-sportswear-maker-targets-2029-growth/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8612a543b0f3ab4b",
+      "titleEn": "MAGS: Top Magnificent 7 ETF inflows surge as Meta, AAPL stocks surge",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/09/22/mags-top-magnificent-7-etf-inflows-surge-as-meta-aapl-stocks-surge/",
       "published": null
     },
     {
@@ -49,12 +103,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:292cb6a5a3a34fd7",
-      "titleEn": "Gold's investment case has fundamentally changed, and rising yields are no longer a dealbreaker - FTSE Russell's De",
-      "summaryEn": "(Kitco News) - Rising bond yields are creating a significant headwind for gol d, but investors should be careful about applying the precious metal’s traditional relationship with interest rates too rigidly, as structural changes in global demand continue to support elevated prices, according to FTSE Russell. In an interview with Kitco News, Indrani De, Head of Global Investment Research at FTSE Russell, said both nominal and real yields are moving higher, which traditionally increases the opportunity cost of holding a non-yielding asset like gold. However, she said the gold market has undergone a fundamental shift as central banks have become increasingly important buyers. De explained the growing influence of central-bank demand is a significant reason why gold has become somewhat less sensitive to rising real yields. She noted that central banks were net sellers of gold from 2000 until the Global Financial Crisis, before becoming net buyers. More recently, the pace of purchases has accelerated substantially.",
+      "id": "stockanalysis:fbc20299489a9901",
+      "titleEn": "Can Viking Therapeutics stock retain today's gains?",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-22/golds-investment-case-has-fundamentally-changed-and-rising-yields-are-no",
+      "link": "https://invezz.com/news/2026/09/22/can-viking-therapeutics-stock-retain-todays-gains/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:835e1b5501e45be3",
+      "titleEn": "XENE Investors Have Opportunity to Join Xenon Pharmaceuticals Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260922922322/en/XENE-Investors-Have-Opportunity-to-Join-Xenon-Pharmaceuticals-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d23537f199a9e086",
+      "titleEn": "PLCE Investors Have Opportunity to Join The Children's Place Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260922453367/en/PLCE-Investors-Have-Opportunity-to-Join-The-Childrens-Place-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
@@ -64,42 +136,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260922672584/en/Vecima-Declares-Quarterly-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5e96cadd4423d7b1",
-      "titleEn": "Sensormatic Solutions Predicts 2026's Busiest Holiday Shopping Days in Asia Pacific",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922180527/en/Sensormatic-Solutions-Predicts-2026%E2%80%99s-Busiest-Holiday-Shopping-Days-in-Asia-Pacific/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7aac83430805090f",
-      "titleEn": "Millrose Properties, Inc. Announces Pricing of $1.0 Billion Senior Notes Offering",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922915849/en/Millrose-Properties-Inc.-Announces-Pricing-of-1.0-Billion-Senior-Notes-Offering/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6578260a7b25dc2e",
-      "titleEn": "Doximity Named Leading Clinical AI Benchmark in Fireworks' Cross-Industry Index",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260922780582/en/Doximity-Named-Leading-Clinical-AI-Benchmark-in-Fireworks%E2%80%99-Cross-Industry-Index/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:96a102563bafd656",
-      "titleEn": "KBRA Assigns Preliminary Ratings to GCAT 2026-CES1 Trust",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922155022/en/KBRA-Assigns-Preliminary-Ratings-to-GCAT-2026-CES1-Trust/",
       "published": null
     }
   ]
