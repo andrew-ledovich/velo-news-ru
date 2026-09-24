@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-09-24T07:48:08.210182Z",
+  "generatedAt": "2026-09-24T12:58:52.253353Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:13be0061a60fa262",
+      "titleEn": "Gold under pressure as jobless claims remain below 200K, supporting further rate hikes",
+      "summaryEn": "(Kitco News) - The gold market remains under pressure and could face further losses as the U.S. labor market remains fairly resilient, with the number of American workers applying for first-time unemployment benefits remaining below a critical level. Initial claims for state unemployment benefits came in at a seasonally adjusted 197,000 for the week ending September 19, the Labor Department announced on Thursday. The number was slightly below expectations, as consensus estimates forecast a reading of 201,000 claims. The previous week’s figure was revised slightly higher to 198,000 claims. The gold market is not seeing much reaction to the latest employment data. Spot gold last traded at $4,264.40 an ounce, down 0.50% on the day. The precious metal continues to struggle below $4,300 an ounce as the U.S. 10-year Treasury yield rises to 5.11%, its highest level in 20 years.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-24/gold-under-pressure-jobless-claims-remain-below-200k-supporting-further",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b96e77074e6df08c",
+      "titleEn": "Three dividend stocks that can still work despite 5% 10-year yield",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/09/24/three-dividend-stocks-that-can-still-work-despite-5-10-year-yield/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:30606265884fff4b",
+      "titleEn": "SpaceX stock falls as 328 million shares unlock: is more selling coming?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/24/spacex-stock-falls-as-328-million-shares-unlock-is-more-selling-coming/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:66b448f913ef0a4c",
+      "titleEn": "Nvidia, AMD and Intel stocks plunge before open: are 5% yields breaking the AI trade?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/24/nvidia-amd-and-intel-stocks-plunge-before-open-are-5-yields-breaking-the-ai-trade/",
+      "published": null
+    },
     {
       "id": "stockanalysis:bd9b9bc613483e60",
       "titleEn": "Boeing stock loses a China catalyst, but investors are watching this bigger threat",
@@ -22,84 +58,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:f28c0189d5435c7f",
-      "titleEn": "Gold breaks $4,300 as Fed hike odds jump after PMI - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower after the U.S. close Wednesday, as a stronger-than-expected U.S. PMI print lifted Treasury yields, strengthened the dollar and pushed traders to price a higher probability of another Fed rate hike in October. At the time of writing, spot gold was trading near $4,286.00 an ounce, down 1.63% on the session, while spot silver was trading near $64.330, down 3.88%. The U.S. equity session closed lower as the bond selloff tightened financial conditions across risk assets. The S&P 500 fell 58.61 points, or 0.8%, to 7,706.03. The Dow Jones Industrial Average lost 352.10 points, or 0.7%, to 51,511.59. The Nasdaq Composite dropped 308.24 points, or 1.1%, to 26,936.04, while the Russell 2000 fell 51.26 points, or 1.8%, to 2,838.66. European equities also finished lower as oil rebounded and government bond yields rose. The Stoxx Europe 600 fell 0.37% to 640.39. Germany’s DAX lost 0.66% to 25,410.63, France’s CAC 40 fell 0.39% to 8,123.41 and the U.K. FTSE 100 slipped 0.03% to 10,705.26. The Euro Stoxx 50 declined 0.31% to 6,305.08 and Italy’s FTSE MIB fell 0.21% to 51,987.49.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-23/gold-breaks-4300-fed-hike-odds-jump-after-pmi-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:46bac9522c9769d4",
-      "titleEn": "Dollar General Expands Same-Day Delivery Through Instacart",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The partnership gives customers access to the discount retailer’s food, household goods, health and beauty products and other everyday essentials through Instacart’s app and website, the release said. It will begin as a pilot at about 7,000 Dollar General and pOpshelf stores across six states in the coming weeks. The plan is to then expand the service to about 20,000 stores across 48 states this fall. Please add us to your preferred sources list so our news, data and interviews show up in your feed. Thanks!",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/delivery/2026/dollar-general-expands-same-day-delivery-through-instacart/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6f3f81696ffdfe7f",
-      "titleEn": "Here's why Securitize stock is rising and the potential risks",
+      "id": "stockanalysis:8f7a0795d86e3da1",
+      "titleEn": "Glucotrack, Inc. Announces Pricing of $3 Million Public Offering",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/heres-why-securitize-stock-is-rising-and-the-potential-risks/",
+      "link": "https://www.businesswire.com/news/home/20260924826643/en/Glucotrack-Inc.-Announces-Pricing-of-3-Million-Public-Offering/",
       "published": null
     },
     {
-      "id": "stockanalysis:105dc6f9736515cb",
-      "titleEn": "Should you sell AppLovin stock as Edgewater issues growth ceiling warning",
+      "id": "stockanalysis:a3046a9cffa8a1b5",
+      "titleEn": "The Elmet Group to Acquire 4.99% Stake in Masan High-Tech Materials and Enter Multi-Year Tungsten Supply Partnership for the U.S. Market",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/should-you-sell-applovin-stock-as-edgewater-issues-growth-ceiling-warning/",
+      "link": "https://www.businesswire.com/news/home/20260924219797/en/The-Elmet-Group-to-Acquire-4.99-Stake-in-Masan-High-Tech-Materials-and-Enter-Multi-Year-Tungsten-Supply-Partnership-for-the-U.S.-Market/",
       "published": null
     },
     {
-      "id": "stockanalysis:47d6139ab750d291",
-      "titleEn": "Is Muse Really the Answer to Meta's AI Woes?",
-      "summaryEn": "Muse gave Meta the App Store win its earlier AI apps never managed, but it launched despite internal concerns about how the agent handles the sensitive data it needs to work. Amazon has locked Muse out while PayPal, Shopify, Stripe and Ticketmaster let it in, and OpenAI’s shuttered Instant Checkout shows that lining up merchants doesn’t mean shoppers will buy inside an agent. Muse is costlier to run than a chatbot, and Meta expects most users to stay on the free tier, so the compute bill lands on a $100 plan and merchant commissions few have tested.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/is-muse-really-the-answer-to-metas-ai-woes/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ef9e07e61f693e18",
-      "titleEn": "Wolters Kluwer integrates Libra AI workflows into monKEY for Belgian tax professionals",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260924570197/en/Wolters-Kluwer-integrates-Libra-AI-workflows-into-monKEY-for-Belgian-tax-professionals/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a74c462db2755297",
-      "titleEn": "SES Advances Satellite Manufacturing Facility in Luxembourg",
+      "id": "stockanalysis:f6d42308e9074915",
+      "titleEn": "Floor &amp; Decor Announces New Store Opening in Fredericksburg, VA",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260923560183/en/SES-Advances-Satellite-Manufacturing-Facility-in-Luxembourg/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:25e34403f395ee17",
-      "titleEn": "HAFNIA LIMITED: Acquisition of an Additional 1.7 Million TORM Shares",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260923401791/en/HAFNIA-LIMITED-Acquisition-of-an-Additional-1.7-Million-TORM-Shares/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:31052a641b9f1ad6",
-      "titleEn": "Voyager Technologies, Inc. Prices $350.0 Million Convertible Senior Notes Offering",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260923729932/en/Voyager-Technologies-Inc.-Prices-350.0-Million-Convertible-Senior-Notes-Offering/",
+      "link": "https://www.businesswire.com/news/home/20260924916678/en/Floor-Decor-Announces-New-Store-Opening-in-Fredericksburg-VA/",
       "published": null
     }
   ]
