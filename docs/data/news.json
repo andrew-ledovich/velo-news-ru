@@ -1,87 +1,213 @@
 {
-  "generatedAt": "2026-09-24T12:58:52.253353Z",
+  "generatedAt": "2026-09-24T17:44:39.651300Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 23,
   "items": [
     {
-      "id": "stockanalysis:13be0061a60fa262",
-      "titleEn": "Gold under pressure as jobless claims remain below 200K, supporting further rate hikes",
-      "summaryEn": "(Kitco News) - The gold market remains under pressure and could face further losses as the U.S. labor market remains fairly resilient, with the number of American workers applying for first-time unemployment benefits remaining below a critical level. Initial claims for state unemployment benefits came in at a seasonally adjusted 197,000 for the week ending September 19, the Labor Department announced on Thursday. The number was slightly below expectations, as consensus estimates forecast a reading of 201,000 claims. The previous week’s figure was revised slightly higher to 198,000 claims. The gold market is not seeing much reaction to the latest employment data. Spot gold last traded at $4,264.40 an ounce, down 0.50% on the day. The precious metal continues to struggle below $4,300 an ounce as the U.S. 10-year Treasury yield rises to 5.11%, its highest level in 20 years.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-24/gold-under-pressure-jobless-claims-remain-below-200k-supporting-further",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b96e77074e6df08c",
-      "titleEn": "Three dividend stocks that can still work despite 5% 10-year yield",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/24/three-dividend-stocks-that-can-still-work-despite-5-10-year-yield/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:30606265884fff4b",
-      "titleEn": "SpaceX stock falls as 328 million shares unlock: is more selling coming?",
+      "id": "stockanalysis:a0c5bd439bd15e13",
+      "titleEn": "Why are Intel and AMD stocks rising on Thursday?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/24/spacex-stock-falls-as-328-million-shares-unlock-is-more-selling-coming/",
+      "link": "https://invezz.com/news/2026/09/24/why-are-intel-and-amd-stocks-rising-on-thursday/",
       "published": null
     },
     {
-      "id": "stockanalysis:66b448f913ef0a4c",
-      "titleEn": "Nvidia, AMD and Intel stocks plunge before open: are 5% yields breaking the AI trade?",
+      "id": "stockanalysis:e821040e5d48085a",
+      "titleEn": "Has First Solar stock found a bottom yet?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/24/has-first-solar-stock-found-a-bottom-yet/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8740a31384f5208f",
+      "titleEn": "Meta Bets a Tamagotchi-Style Device Can Sell Personal AI",
+      "summaryEn": "Meta’s Muse Charm is a keychain-sized device that gives the company’s AI agent a body that is always on, no phone required. It is expected to ship by December. The device only pays off once a person hands it their logins and cards, and Oppenheimer found that just 8% of U.S. consumers would trust Meta with their passwords, half the share that would trust ChatGPT. Meta got a dedicated AI device to market first, while OpenAI’s pocket gadget with Jony Ive is yet to be released.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/meta-bets-tamagotchi-style-device-can-sell-personal-ai/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9b56a292b7e8f666",
+      "titleEn": "Here's why the debasement trade is boosting bitcoin price more than gold price – StoneX's Cincotta",
+      "summaryEn": "(Kitco News) – Bitcoin&#x27;s recent breakout coincided with the U.S. Treasury’s bond buyback announcement, and while gold ETF demand remains strong, higher-for-longer Fed rate expectations are capping the non-yielding metal’s gains, according to Fiona Cincotta, Senior Market Analyst at StoneX. “August the 19th was an important turning point for bitcoin, coinciding with the US Treasury Department announcing plans to increase buybacks for long dated government bonds,” Cincotta said in a recent video analysis. “Bitcoin&#x27;s fortunes appeared to change dramatically around the same time. On that date the price broke above $65,000, subsequently rising to this week&#x27;s high of $87,000. That&#x27;s a 35% increase.” Cincotta also pointed out that over the same period, U.S. bitcoin ETFs also saw around $4.6 billion in net inflows, pushing bitcoin ETFs into positive territory for the year. “Bitcoin is up 44% so far this quarter,” she said. “This contrasts with other major assets quite sharply. Stocks have gained around 3.5% across the same period, whilst gold is up only 8%.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-24/heres-why-debasement-trade-boosting-bitcoin-price-more-gold-price-stonexs",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:01e06524a2ac0b53",
+      "titleEn": "Gold will continue to feel the pain as 10-year bond yields hit 5.15% - Forex.com's Razaqzada",
+      "summaryEn": "(Kitco News) - The gold market continues to struggle as bond yields across the curve push to their highest levels in 20 years, and one market strategist is warning investors that the precious metal has room to fall further. In his latest precious metals note, Fawad Razaqzada, Market Analyst at FOREX.com, said it could be difficult for precious metals to rally as elevated oil prices drive inflation pressures higher, fueling market expectations that the Federal Reserve will have to raise interest rates beyond current projections. According to the CME FedWatch Tool, markets see a 56% chance of a 50-basis-point rate hike in December. These expectations have pushed U.S. 10-year Treasury yields to 5.15%.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-24/gold-will-continue-feel-pain-10-year-bond-yields-hit-515-forexcoms",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:98287035ce23d7ec",
+      "titleEn": "Google to launch its first AI chip into space next week under Project Suncatcher",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/24/nvidia-amd-and-intel-stocks-plunge-before-open-are-5-yields-breaking-the-ai-trade/",
+      "link": "https://invezz.com/news/2026/09/24/google-to-launch-its-first-ai-chip-into-space-next-week-under-project-suncatcher/",
       "published": null
     },
     {
-      "id": "stockanalysis:bd9b9bc613483e60",
-      "titleEn": "Boeing stock loses a China catalyst, but investors are watching this bigger threat",
+      "id": "stockanalysis:bab2661842d9442c",
+      "titleEn": "BlackBerry stock: why isn't a beat-and-raise driving it higher?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/24/boeing-stock-loses-a-china-catalyst-but-investors-are-watching-this-bigger-threat/",
+      "link": "https://invezz.com/news/2026/09/24/blackberry-stock-why-isnt-a-beat-and-raise-driving-it-higher/",
       "published": null
     },
     {
-      "id": "stockanalysis:e0007fcbc5bb8fe4",
-      "titleEn": "SoftBank stock jumped 7% then gave it back: why the OpenAI rally faded",
+      "id": "stockanalysis:2bc082e3340d2b6c",
+      "titleEn": "Airbnb stock plunges amid Muse AI agent risks: will it rebound?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/24/softbank-stock-jumped-7-then-gave-it-back-why-the-openai-rally-faded/",
+      "link": "https://invezz.com/news/2026/09/24/airbnb-stock-plunges-amid-muse-ai-agent-risks-will-it-rebound/",
       "published": null
     },
     {
-      "id": "stockanalysis:8f7a0795d86e3da1",
-      "titleEn": "Glucotrack, Inc. Announces Pricing of $3 Million Public Offering",
+      "id": "stockanalysis:147493169e86949f",
+      "titleEn": "Fastly stock is soaring, but key risks remain in focus",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924826643/en/Glucotrack-Inc.-Announces-Pricing-of-3-Million-Public-Offering/",
+      "link": "https://invezz.com/news/2026/09/24/fastly-stock-is-soaring-but-key-risks-remain-in-focus/",
       "published": null
     },
     {
-      "id": "stockanalysis:a3046a9cffa8a1b5",
-      "titleEn": "The Elmet Group to Acquire 4.99% Stake in Masan High-Tech Materials and Enter Multi-Year Tungsten Supply Partnership for the U.S. Market",
+      "id": "stockanalysis:730c63ac52132d02",
+      "titleEn": "Palantir stock is surging: will it retest its all-time high or reverse?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924219797/en/The-Elmet-Group-to-Acquire-4.99-Stake-in-Masan-High-Tech-Materials-and-Enter-Multi-Year-Tungsten-Supply-Partnership-for-the-U.S.-Market/",
+      "link": "https://invezz.com/news/2026/09/24/palantir-stock-is-surging-will-it-retest-its-all-time-high-or-reverse/",
       "published": null
     },
     {
-      "id": "stockanalysis:f6d42308e9074915",
-      "titleEn": "Floor &amp; Decor Announces New Store Opening in Fredericksburg, VA",
+      "id": "stockanalysis:676f2a94f43f1853",
+      "titleEn": "Realty Stock has crashed for 19 straight days: is it a buy as it gets oversold?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924916678/en/Floor-Decor-Announces-New-Store-Opening-in-Fredericksburg-VA/",
+      "link": "https://invezz.com/news/2026/09/24/realty-stock-has-crashed-for-19-straight-days-is-it-a-buy-as-it-gets-oversold/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8a575a21d9cd086d",
+      "titleEn": "Why is Oracle stock slumping 5% today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/24/why-is-oracle-stock-slumping-5-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f26240e7acc8b0e9",
+      "titleEn": "Meta stock rises as analysts raise PTs; JPMorgan likens Muse potential to ChatGPT",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/24/meta-stock-rises-as-analysts-raise-pts-jpmorgan-likens-muse-potential-to-chatgpt/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:90c7c43dc6e91fcd",
+      "titleEn": "Lowe's Tests 20-Minute Drone Delivery With DoorDash and Alphabet's Wing",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); This offering is powered by Wing and DoorDash , companies that already offer drone delivery operations in the area and serve other brands as well, according to the release. Lowe’s customers can order products through the DoorDash app and have them delivered by Wing drones, the release said.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/delivery/2026/lowes-tests-20-minute-drone-delivery-with-doordash-and-alphabets-wing/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5960db0f57ebe784",
+      "titleEn": "Gold price dips to $4,268/oz as U.S. new home sales rise 6.4% in August",
+      "summaryEn": "(Kitco News) - Spot gold is trading near session lows on Thursday morning after the latest data showed the U.S. housing market improving beyond expectations in August. New home sales rose 6.4% last month, double the expected 3.2% increase, the U.S. Census Bureau and the U.S. Department of Housing and Urban Development announced. New home sales came in at a seasonally adjusted annualized rate of 684,000 in August. The numbers were better than forecasts, as the market consensus expected sales of 620,000 units. July’s sales were also revised up to 643,000 from 607,000 units.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-24/gold-price-dips-4268oz-us-new-home-sales-rise-64-august",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ff1bc46677f4bb4e",
+      "titleEn": "Tesla stock at risk despite rising EV sales amid rising gasoline prices",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/09/24/tesla-stock-at-risk-despite-rising-ev-sales-amid-rising-gasoline-prices/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8175c584928fcdd5",
+      "titleEn": "Why is Meta stock down on Thursday despite analysts raising PTs post Meta Connect?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/24/why-is-meta-stock-down-on-thursday-despite-analysts-raising-pts-post-meta-connect/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6c0a51f7d336a37f",
+      "titleEn": "Gold price breaks 50-day support as oil rebound lifts inflation pressure - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices were modestly lower and spot silver prices were under heavier pressure in early U.S. trading Thursday, as rising oil prices, elevated Treasury yields and firmer Fed rate-hike expectations offset safe-haven demand tied to the U.S.-Iran conflict. At the time of writing, spot gold was trading near $4,265.30 an ounce, down 0.48% on the session, while spot silver was trading near $63.470, down 1.34%. Market positioning hardened after Wednesday’s September flash PMI release showed the strongest U.S. private-sector growth in more than five years , with input-cost pressure intensifying as energy costs rose. Thursday’s weekly jobless claims then fell to 197,000, below expectations near 204,000 , keeping the labor-market baseline firm enough to support hawkish Fed pricing. Rate futures now imply roughly a 70% chance of another 25-basis-point increase in October, while the dollar index is holding near 101.05 and the 10-year Treasury yield is trading near the 5.1% area. New-home sales are due at 10:00 a.m. ET Thursday, followed by August durable goods orders at 8:30 a.m. ET Friday and final September consumer sentiment at 10:00 a.m. ET Friday. Stronger housing, orders or inflation-expectations data would keep pressure on gold through yields and the dollar; softer readings would test whether the latest metals selloff has over-discounted the Fed path. The Strait of Hormuz risk premium is back in crude after U.S.-Iran talks showed little sign of progress. Iran is reviewing Washington’s response to proposals that prioritize lifting the U.S. naval blockade on Iranian ports and reopening the Strait of Hormuz, while Iranian security officials have said the strait will not reopen until Tehran’s conditions are met. Brent crude traded near $104.71 a barrel, while WTI was near $93.53, with the rebound in oil adding to the inflation impulse that is pushing yields higher. Gold is still receiving geopolitical support, but the current market transmission is running mainly through oil, inflation expectations, Treasuries and the dollar.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-24/gold-price-breaks-50-day-support-oil-rebound-lifts-inflation-pressure-kitco",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:42146cdd4a7dce9c",
+      "titleEn": "Boise Cascade Surpasses $1 Million in Support for St. Jude Children's Research Hospital",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260924324714/en/Boise-Cascade-Surpasses-1-Million-in-Support-for-St.-Jude-Childrens-Research-Hospital/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b0838bb71584a401",
+      "titleEn": "Knife River Reiterates Focus on Disciplined Execution and Shareholder Value Creation",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260924977925/en/Knife-River-Reiterates-Focus-on-Disciplined-Execution-and-Shareholder-Value-Creation/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:15f9cf03b1abeb89",
+      "titleEn": "Belden Demonstrates Early Progress on RUCKUS Integration and Value Creation",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260924134122/en/Belden-Demonstrates-Early-Progress-on-RUCKUS-Integration-and-Value-Creation/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:782facd3c5f18d7e",
+      "titleEn": "The Mutual Group Selects Nativeorange to Power Next Generation Underwriting Workbench Built with Google Cloud",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260924718331/en/The-Mutual-Group-Selects-Nativeorange-to-Power-Next-Generation-Underwriting-Workbench-Built-with-Google-Cloud/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:09642c37ca922be4",
+      "titleEn": "Orthopedic Care Partners Names Alex Dashe President of Arizona Division",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260924515866/en/Orthopedic-Care-Partners-Names-Alex-Dashe-President-of-Arizona-Division/",
       "published": null
     }
   ]
