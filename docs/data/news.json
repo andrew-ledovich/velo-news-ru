@@ -1,8 +1,71 @@
 {
-  "generatedAt": "2026-09-24T17:44:39.651300Z",
+  "generatedAt": "2026-09-24T20:47:13.147646Z",
   "sourceCount": 1,
-  "count": 23,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:76714aad801c4530",
+      "titleEn": "Warby Parker stock is jumping today, but growth and valuation risks remain",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/24/warby-parker-stock-is-jumping-today-but-growth-and-valuation-risks-remain/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9fb7439126b6ace7",
+      "titleEn": "OpenAI, Google and Anthropic Join Forces to Set AI Safety Standards",
+      "summaryEn": "Anthropic , Google and OpenAI aim to launch a standards body focused on artificial intelligence (AI) by the end of this year or early next year, The Information reported Thursday (Sept. 24), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The three AI companies are working to create an organization in which builders of frontier AI models would regulate themselves, without government oversight. They initially aimed to form a public-private partnership, but that effort stalled in the Trump administration, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-google-and-anthropic-join-forces-to-set-ai-safety-standards/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ce259d90b820037d",
+      "titleEn": "OpenAI Brings in Patreon's Founders to Build a Creator Business",
+      "summaryEn": "OpenAI hired Patreon Co-Founder Sam Yam and two of his former deputies to run a new Creator Product division, with the first tools due to launch at DevDay on Sept. 29. Patreon’s team knows how to turn an audience into recurring revenue, with more than $10 billion paid to creators since 2013, something none of OpenAI’s creator tools have done. The move comes as ChatGPT’s share of AI prompts fell from 70% to 50% in six months and OpenAI shut down its AI video generator Sora.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-brings-in-patreons-founders-to-build-a-creator-business/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c7797b93cb011e3a",
+      "titleEn": "Why this data storage company jumped 13% and become S&amp;P 500's top gainer today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/24/why-this-data-storage-company-jumped-13-and-become-sp-500s-top-gainer-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:31bb8174ce65006f",
+      "titleEn": "Bank of America Expands Apprenticeship Programs With 1,000 Additional Hires",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The bank will also invest $150 million in workforce development across the United States, building on the nearly $40 million it invested in 2025, according to the release. “This is one more way for us to do what we can to help create a skilled American workforce for tomorrow,” Bank of America Chair and CEO Brian Moynihan said in the release. “Our apprenticeship and workforce development programs underscore our continued commitment to expanding opportunity and helping talented individuals develop the skills to succeed.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/bank-of-america-expands-apprenticeship-programs-with-1000-additional-hires/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c6ef66248c2b767f",
+      "titleEn": "Amazon Wants to Run Merchants' Businesses Beyond Amazon",
+      "summaryEn": "Amazon is moving from owning the transaction to owning the merchant workflow. Bringing Walmart, Shopify, eBay and TikTok orders into Seller Central turns Amazon from one sales channel into a potential operating layer across them all. Seller AI is graduating from answering questions to running the business between questions. Seller Assistant can continuously monitor inventory, pricing, advertising and demand, shifting AI’s value from automating tasks to automating managerial attention. In agentic commerce, the real moat may be infrastructure, not the chatbot. Amazon is willing to let outside AI interfaces access its seller capabilities, betting that the valuable layer is the data, permissions and execution plumbing that lets an agent actually do something.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/retail/2026/amazon-wants-to-run-merchants-businesses-beyond-amazon/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:aa7018e85704e856",
+      "titleEn": "Why is Nebius stock soaring 9% today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/24/why-is-nebius-stock-soaring-8-today/",
+      "published": null
+    },
     {
       "id": "stockanalysis:a0c5bd439bd15e13",
       "titleEn": "Why are Intel and AMD stocks rising on Thursday?",
@@ -100,114 +163,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/09/24/realty-stock-has-crashed-for-19-straight-days-is-it-a-buy-as-it-gets-oversold/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8a575a21d9cd086d",
-      "titleEn": "Why is Oracle stock slumping 5% today",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/24/why-is-oracle-stock-slumping-5-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f26240e7acc8b0e9",
-      "titleEn": "Meta stock rises as analysts raise PTs; JPMorgan likens Muse potential to ChatGPT",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/24/meta-stock-rises-as-analysts-raise-pts-jpmorgan-likens-muse-potential-to-chatgpt/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:90c7c43dc6e91fcd",
-      "titleEn": "Lowe's Tests 20-Minute Drone Delivery With DoorDash and Alphabet's Wing",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); This offering is powered by Wing and DoorDash , companies that already offer drone delivery operations in the area and serve other brands as well, according to the release. Lowe’s customers can order products through the DoorDash app and have them delivered by Wing drones, the release said.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/delivery/2026/lowes-tests-20-minute-drone-delivery-with-doordash-and-alphabets-wing/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5960db0f57ebe784",
-      "titleEn": "Gold price dips to $4,268/oz as U.S. new home sales rise 6.4% in August",
-      "summaryEn": "(Kitco News) - Spot gold is trading near session lows on Thursday morning after the latest data showed the U.S. housing market improving beyond expectations in August. New home sales rose 6.4% last month, double the expected 3.2% increase, the U.S. Census Bureau and the U.S. Department of Housing and Urban Development announced. New home sales came in at a seasonally adjusted annualized rate of 684,000 in August. The numbers were better than forecasts, as the market consensus expected sales of 620,000 units. July’s sales were also revised up to 643,000 from 607,000 units.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-24/gold-price-dips-4268oz-us-new-home-sales-rise-64-august",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ff1bc46677f4bb4e",
-      "titleEn": "Tesla stock at risk despite rising EV sales amid rising gasoline prices",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/09/24/tesla-stock-at-risk-despite-rising-ev-sales-amid-rising-gasoline-prices/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8175c584928fcdd5",
-      "titleEn": "Why is Meta stock down on Thursday despite analysts raising PTs post Meta Connect?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/24/why-is-meta-stock-down-on-thursday-despite-analysts-raising-pts-post-meta-connect/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6c0a51f7d336a37f",
-      "titleEn": "Gold price breaks 50-day support as oil rebound lifts inflation pressure - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were modestly lower and spot silver prices were under heavier pressure in early U.S. trading Thursday, as rising oil prices, elevated Treasury yields and firmer Fed rate-hike expectations offset safe-haven demand tied to the U.S.-Iran conflict. At the time of writing, spot gold was trading near $4,265.30 an ounce, down 0.48% on the session, while spot silver was trading near $63.470, down 1.34%. Market positioning hardened after Wednesday’s September flash PMI release showed the strongest U.S. private-sector growth in more than five years , with input-cost pressure intensifying as energy costs rose. Thursday’s weekly jobless claims then fell to 197,000, below expectations near 204,000 , keeping the labor-market baseline firm enough to support hawkish Fed pricing. Rate futures now imply roughly a 70% chance of another 25-basis-point increase in October, while the dollar index is holding near 101.05 and the 10-year Treasury yield is trading near the 5.1% area. New-home sales are due at 10:00 a.m. ET Thursday, followed by August durable goods orders at 8:30 a.m. ET Friday and final September consumer sentiment at 10:00 a.m. ET Friday. Stronger housing, orders or inflation-expectations data would keep pressure on gold through yields and the dollar; softer readings would test whether the latest metals selloff has over-discounted the Fed path. The Strait of Hormuz risk premium is back in crude after U.S.-Iran talks showed little sign of progress. Iran is reviewing Washington’s response to proposals that prioritize lifting the U.S. naval blockade on Iranian ports and reopening the Strait of Hormuz, while Iranian security officials have said the strait will not reopen until Tehran’s conditions are met. Brent crude traded near $104.71 a barrel, while WTI was near $93.53, with the rebound in oil adding to the inflation impulse that is pushing yields higher. Gold is still receiving geopolitical support, but the current market transmission is running mainly through oil, inflation expectations, Treasuries and the dollar.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-24/gold-price-breaks-50-day-support-oil-rebound-lifts-inflation-pressure-kitco",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:42146cdd4a7dce9c",
-      "titleEn": "Boise Cascade Surpasses $1 Million in Support for St. Jude Children's Research Hospital",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924324714/en/Boise-Cascade-Surpasses-1-Million-in-Support-for-St.-Jude-Childrens-Research-Hospital/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b0838bb71584a401",
-      "titleEn": "Knife River Reiterates Focus on Disciplined Execution and Shareholder Value Creation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924977925/en/Knife-River-Reiterates-Focus-on-Disciplined-Execution-and-Shareholder-Value-Creation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:15f9cf03b1abeb89",
-      "titleEn": "Belden Demonstrates Early Progress on RUCKUS Integration and Value Creation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924134122/en/Belden-Demonstrates-Early-Progress-on-RUCKUS-Integration-and-Value-Creation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:782facd3c5f18d7e",
-      "titleEn": "The Mutual Group Selects Nativeorange to Power Next Generation Underwriting Workbench Built with Google Cloud",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924718331/en/The-Mutual-Group-Selects-Nativeorange-to-Power-Next-Generation-Underwriting-Workbench-Built-with-Google-Cloud/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:09642c37ca922be4",
-      "titleEn": "Orthopedic Care Partners Names Alex Dashe President of Arizona Division",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924515866/en/Orthopedic-Care-Partners-Names-Alex-Dashe-President-of-Arizona-Division/",
       "published": null
     }
   ]
