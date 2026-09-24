@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-24T20:47:13.147646Z",
+  "generatedAt": "2026-09-24T23:38:19.548297Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:31c392a82f6cd3e1",
+      "titleEn": "Metals stay defensive as Hormuz talks stall, equities close mixed - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were weaker in late U.S. trading Thursday, as elevated Treasury yields, a firmer U.S. dollar and renewed oil-price strength kept pressure on non-yielding metals. At the time of writing, spot gold was trading near $4,274.70 an ounce, down 0.26% on the session, while spot silver was trading near $63.670, down 1.02%. North American equities finished roughly flat after a volatile session. The S&P 500 fell 1.90 points, or less than 0.1%, to 7,704.13. The Dow Jones Industrial Average fell 161.61 points, or 0.3%, to 51,349.98. The Nasdaq Composite rose 3.34 points, or less than 0.1%, to 26,939.37, while the Russell 2000 lost 3.09 points, or 0.1%, to 2,835.57. European equities closed lower as rising oil prices and higher bond yields weighed on risk appetite. The Stoxx Europe 600 fell 0.55% to 636.43. Germany’s DAX lost 0.57% to 25,266.53, France’s CAC 40 fell 0.52% to 8,081.43, the U.K. FTSE 100 declined 0.24% to 10,679.99 and Italy’s FTSE MIB dropped 0.85% to 51,543.45.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-24/metals-stay-defensive-hormuz-talks-stall-equities-close-mixed-kitco-pm",
+      "published": null
+    },
     {
       "id": "stockanalysis:76714aad801c4530",
       "titleEn": "Warby Parker stock is jumping today, but growth and valuation risks remain",
@@ -112,57 +121,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:98287035ce23d7ec",
-      "titleEn": "Google to launch its first AI chip into space next week under Project Suncatcher",
+      "id": "stockanalysis:0796943754b20cca",
+      "titleEn": "50-Acre Puget Sound Multifamily Asset Sale Brokered by Institutional Property Advisors",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260924705930/en/50-Acre-Puget-Sound-Multifamily-Asset-Sale-Brokered-by-Institutional-Property-Advisors/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9cf3cc6abbf2a109",
+      "titleEn": "Faraday Future Announces Details for Its FF EAI “Built in USA” Upstream &amp; Downstream Business Partner Conference Part Two Upstream Partner Session &amp; Industry Ecosystem Co-Creation Session to be Held on Sept. 29",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260924635672/en/Faraday-Future-Announces-Details-for-Its-FF-EAI-%E2%80%9CBuilt-in-USA%E2%80%9D-Upstream-Downstream-Business-Partner-Conference-Part-Two-Upstream-Partner-Session-Industry-Ecosystem-Co-Creation-Session-to-be-Held-on-Sept.-29/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:619c7deeccfecb6f",
+      "titleEn": "LTK Reimagines Shopping Discovery, Bringing AI and Real Creator Recommendations Together in One Experience",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/24/google-to-launch-its-first-ai-chip-into-space-next-week-under-project-suncatcher/",
+      "link": "https://www.businesswire.com/news/home/20260924057631/en/LTK-Reimagines-Shopping-Discovery-Bringing-AI-and-Real-Creator-Recommendations-Together-in-One-Experience/",
       "published": null
     },
     {
-      "id": "stockanalysis:bab2661842d9442c",
-      "titleEn": "BlackBerry stock: why isn't a beat-and-raise driving it higher?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/24/blackberry-stock-why-isnt-a-beat-and-raise-driving-it-higher/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2bc082e3340d2b6c",
-      "titleEn": "Airbnb stock plunges amid Muse AI agent risks: will it rebound?",
+      "id": "stockanalysis:18aa03ab37ebbf5a",
+      "titleEn": "ACM Queue Publishes CAFE(S): A Framework for Improving AI Coding Agent Effectiveness",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/24/airbnb-stock-plunges-amid-muse-ai-agent-risks-will-it-rebound/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:147493169e86949f",
-      "titleEn": "Fastly stock is soaring, but key risks remain in focus",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/24/fastly-stock-is-soaring-but-key-risks-remain-in-focus/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:730c63ac52132d02",
-      "titleEn": "Palantir stock is surging: will it retest its all-time high or reverse?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/24/palantir-stock-is-surging-will-it-retest-its-all-time-high-or-reverse/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:676f2a94f43f1853",
-      "titleEn": "Realty Stock has crashed for 19 straight days: is it a buy as it gets oversold?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/24/realty-stock-has-crashed-for-19-straight-days-is-it-a-buy-as-it-gets-oversold/",
+      "link": "https://www.businesswire.com/news/home/20260924579757/en/ACM-Queue-Publishes-CAFE-S-A-Framework-for-Improving-AI-Coding-Agent-Effectiveness/",
       "published": null
     }
   ]
