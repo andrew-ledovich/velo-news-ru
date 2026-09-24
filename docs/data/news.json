@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-09-24T02:33:10.256634Z",
+  "generatedAt": "2026-09-24T07:48:08.210182Z",
   "sourceCount": 1,
   "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:bd9b9bc613483e60",
+      "titleEn": "Boeing stock loses a China catalyst, but investors are watching this bigger threat",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/24/boeing-stock-loses-a-china-catalyst-but-investors-are-watching-this-bigger-threat/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e0007fcbc5bb8fe4",
+      "titleEn": "SoftBank stock jumped 7% then gave it back: why the OpenAI rally faded",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/24/softbank-stock-jumped-7-then-gave-it-back-why-the-openai-rally-faded/",
+      "published": null
+    },
     {
       "id": "stockanalysis:f28c0189d5435c7f",
       "titleEn": "Gold breaks $4,300 as Fed hike odds jump after PMI - Kitco PM Report",
@@ -49,57 +67,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1431181f2b9aa79c",
-      "titleEn": "Gold's bull run isn't over: TD Securities sees next leg above $5,000",
-      "summaryEn": "(Kitco News) - Gold continues to struggle as prices fall below critical support at $4,300 an ounce; however, one bank sees limited downside for the precious metal as the environment looks ripe for a renewed drive above $5,000 an ounce. In his latest market commentary, Ryan McKay, Senior Commodity Strategist at TD Securities, said that although gold continues to face headwinds from higher interest rates, underlying investment demand remains resilient and is starting to strengthen across several important segments of the market. “The time is coming for the next leg higher in gold,” McKay said. “The yellow metal has shown the ability to hold strong despite Fed hikes, and with investor and central bank appetite growing again, gold looks poised to make a renewed run at prices north of $5,000/oz into 2027.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-23/golds-bull-run-isnt-over-td-securities-sees-next-leg-above-5000",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5e37417383b5da26",
-      "titleEn": "Micron stock falls 2% on Wednesday: here's why",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/micron-stock-falls-2-on-wednesday-heres-why/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3831a8fbe040fe86",
-      "titleEn": "Fortune Again Recognizes Cemex as a Company That Is Changing the World",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260923359473/en/Fortune-Again-Recognizes-Cemex-as-a-Company-That-Is-Changing-the-World/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3c74eb3d07f067e2",
-      "titleEn": "Afya Limited and Yduqs Participações S.A. Enter Into Merger Agreement",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260923952840/en/Afya-Limited-and-Yduqs-Participa%C3%A7%C3%B5es-S.A.-Enter-Into-Merger-Agreement/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fba0e0a2db89f285",
-      "titleEn": "Better Home &amp; Finance Opens Investigation into Serious Allegations of Breach of Fiduciary Duty by Director and Former CEO Vishal Garg",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260923777017/en/Better-Home-Finance-Opens-Investigation-into-Serious-Allegations-of-Breach-of-Fiduciary-Duty-by-Director-and-Former-CEO-Vishal-Garg/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:423f736a3ce5368c",
-      "titleEn": "Asia Pacific Firms Focus on AI for Application Modernization",
+      "id": "stockanalysis:ef9e07e61f693e18",
+      "titleEn": "Wolters Kluwer integrates Libra AI workflows into monKEY for Belgian tax professionals",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260923070921/en/Asia-Pacific-Firms-Focus-on-AI-for-Application-Modernization/",
+      "link": "https://www.businesswire.com/news/home/20260924570197/en/Wolters-Kluwer-integrates-Libra-AI-workflows-into-monKEY-for-Belgian-tax-professionals/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a74c462db2755297",
+      "titleEn": "SES Advances Satellite Manufacturing Facility in Luxembourg",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260923560183/en/SES-Advances-Satellite-Manufacturing-Facility-in-Luxembourg/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:25e34403f395ee17",
+      "titleEn": "HAFNIA LIMITED: Acquisition of an Additional 1.7 Million TORM Shares",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260923401791/en/HAFNIA-LIMITED-Acquisition-of-an-Additional-1.7-Million-TORM-Shares/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:31052a641b9f1ad6",
+      "titleEn": "Voyager Technologies, Inc. Prices $350.0 Million Convertible Senior Notes Offering",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260923729932/en/Voyager-Technologies-Inc.-Prices-350.0-Million-Convertible-Senior-Notes-Offering/",
       "published": null
     }
   ]
