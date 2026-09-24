@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-23T23:56:36.249736Z",
+  "generatedAt": "2026-09-24T02:33:10.256634Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:f28c0189d5435c7f",
@@ -67,93 +67,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:376988d00708fc73",
-      "titleEn": "Alphabet stock falls 3% as Meta's Muse AI raises competition",
+      "id": "stockanalysis:3831a8fbe040fe86",
+      "titleEn": "Fortune Again Recognizes Cemex as a Company That Is Changing the World",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260923359473/en/Fortune-Again-Recognizes-Cemex-as-a-Company-That-Is-Changing-the-World/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3c74eb3d07f067e2",
+      "titleEn": "Afya Limited and Yduqs Participações S.A. Enter Into Merger Agreement",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260923952840/en/Afya-Limited-and-Yduqs-Participa%C3%A7%C3%B5es-S.A.-Enter-Into-Merger-Agreement/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fba0e0a2db89f285",
+      "titleEn": "Better Home &amp; Finance Opens Investigation into Serious Allegations of Breach of Fiduciary Duty by Director and Former CEO Vishal Garg",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260923777017/en/Better-Home-Finance-Opens-Investigation-into-Serious-Allegations-of-Breach-of-Fiduciary-Duty-by-Director-and-Former-CEO-Vishal-Garg/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:423f736a3ce5368c",
+      "titleEn": "Asia Pacific Firms Focus on AI for Application Modernization",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/23/alphabet-stock-falls-3-as-metas-muse-ai-raises-competition/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ce2d4303c99468e8",
-      "titleEn": "MoonPay Boosts Tokenization Business With North Capital Deal",
-      "summaryEn": "MoonPay is continuing its acquisition spree by merging with private markets infrastructure platform North Capital . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The acquisition is designed to bring regulated private markets infrastructure directly to MoonPay’s platform, rather than requiring MoonPay to develop it from scratch, the company said in its announcement Wednesday (Sept. 23).",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/acquiring/2026/moonpay-boosts-tokenization-business-with-north-capital-deal/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:049693d3dd803692",
-      "titleEn": "Paramount weighs adding Musk to investor group backing Warner deal: report",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/paramount-weighs-adding-musk-to-investor-group-backing-warner-deal-report/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:375ba429fcd77aea",
-      "titleEn": "Why Nvidia stock is down around 2% after a six-day rally",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/23/why-nvidia-stock-is-down-around-2-after-a-six-day-rally/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7c1ecc48eb5fbb4f",
-      "titleEn": "Gold price battles $4,300 support, but BMO sees underlying demand strengthening",
-      "summaryEn": "(Kitco News) - Gold prices are struggling to hold gains above critical near-term support at $4,300 an ounce as renewed momentum in the U.S. dollar and elevated bond yields continue to take their toll on the precious metal. Gold prices have dropped below $4,300 and are currently trading at $4,279.80 an ounce, down close to 2% on the day. Despite the renewed selling pressures, one bank continues to see underlying resilience in gold even as the yellow metal faces rising opportunity costs after the Federal Reserve embarked on a new tightening cycle last week.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-23/gold-price-battles-4300-support-bmo-sees-underlying-demand-strengthening",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5efc16fe6e3c8126",
-      "titleEn": "Faraday Future Announces FF EAI Robotics' Employee Incentive Plan to Allocate Approximately 25% of Its Outstanding Shares for Stock Options for Its Core Team, Aiming to Establish an Industry-First Partnership Model",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260923017255/en/Faraday-Future-Announces-FF-EAI-Robotics%E2%80%99-Employee-Incentive-Plan-to-Allocate-Approximately-25-of-Its-Outstanding-Shares-for-Stock-Options-for-Its-Core-Team-Aiming-to-Establish-an-Industry-First-Partnership-Model/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b41f84e736525724",
-      "titleEn": "FCPT Announces Acquisition via Sale-Leaseback of an Automotive Service Property for $3.5 Million",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260923834834/en/FCPT-Announces-Acquisition-via-Sale-Leaseback-of-an-Automotive-Service-Property-for-3.5-Million/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:09687bb37f2c928c",
-      "titleEn": "Resources Connection to Announce First Quarter Fiscal 2027 Results on October 7, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260923494801/en/Resources-Connection-to-Announce-First-Quarter-Fiscal-2027-Results-on-October-7-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b757dbe3c4a44f4d",
-      "titleEn": "AMC Entertainment Holdings, Inc. Announces Pricing of First Lien Notes and New 1L Term Loan Facility",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260923844578/en/AMC-Entertainment-Holdings-Inc.-Announces-Pricing-of-First-Lien-Notes-and-New-1L-Term-Loan-Facility/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:107d134113b427ae",
-      "titleEn": "The Law Offices of Frank R. Cruz Continues Its Investigation of Ecopetrol S.A.",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260923415024/en/The-Law-Offices-of-Frank-R.-Cruz-Continues-Its-Investigation-of-Ecopetrol-S.A.-EC-on-Behalf-of-Investors/",
+      "link": "https://www.businesswire.com/news/home/20260923070921/en/Asia-Pacific-Firms-Focus-on-AI-for-Application-Modernization/",
       "published": null
     }
   ]
