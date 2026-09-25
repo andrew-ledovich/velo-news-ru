@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-25T17:22:06.229731Z",
+  "generatedAt": "2026-09-25T20:35:04.411523Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:7f0855428f80ddc6",
+      "titleEn": "Gold's $4,300 support faces another test next week as bond yields surge and jobs data looms",
+      "summaryEn": "(Kitco News) - Gold is ending another week in negative territory as the market continues to fight for support around $4,300 an ounce. Despite significant downside risks, analysts note that prices remain fairly resilient. Gold ’s selloff has been limited this past week, even as yields on U.S. 10-year notes have pushed to a two-decade high of 5.20%. At the same time, spot gold last traded at $4,292 an ounce, down more than 2% from last Friday. “The market is increasingly pricing in earlier-than-expected interest rate hikes in the US, which is pushing up US bond yields and, consequently, real interest rates,” said Barbara Lambrecht, Commodity Analyst at Commerzbank. “This increases the opportunity cost of holding gold.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-25/golds-4300-support-faces-another-test-next-week-bond-yields-surge-and-jobs",
+      "published": null
+    },
     {
       "id": "stockanalysis:081ddb8f47587c46",
       "titleEn": "Why is Microsoft stock rallying 4% today?",
@@ -58,66 +67,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:b89e55c2d7549a28",
-      "titleEn": "Metals bounce as Hormuz diplomacy cools crude, yields stay elevated - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were firmer and spot silver prices were sharply higher in early U.S. trading Friday, as oil prices slipped on renewed U.S.-Iran truce hopes while elevated Treasury yields and Fed rate-hike expectations kept bullion on track for a weekly loss. At the time of writing, spot gold was trading near $4,300.00 an ounce, up 0.62% on the session, while spot silver was trading near $64.760, up 1.62%. Market positioning remains tilted toward tighter policy after this week’s stronger U.S. activity data, lower jobless claims and firmer housing figures reinforced the view that the Fed’s September rate increase may not be the end of the cycle. Traders are pricing about a 71% probability of another 25-basis-point increase in October, while the dollar index is near 101.2 after touching a two-month high and the 10-year Treasury yield remains near the 5.1% area. August durable-goods orders were virtually unchanged after a downwardly revised 0.9% increase in July, beating expectations for a 0.4% decline, while orders excluding transportation rose 0.3% after a 0.7% July gain. The firmer-than-expected headline print keeps the rates channel pointed against gold ahead of the 10:00 a.m. ET final consumer sentiment and inflation-expectations data, with the market still focused on whether stronger goods demand gives the Fed more room to keep policy tight. The Strait of Hormuz and U.S.-Iran situation is still the central oil-market risk, but the latest price action shows diplomacy is partially offsetting supply fears. U.S. and Iranian negotiators in New York are exploring a phased path out of the war that would involve Tehran reopening the Strait of Hormuz and Washington lifting its economic blockade on Iran, while Houthi attacks against Saudi Arabia continue to threaten regional supply. Brent crude was near $105.26 a barrel, down 1.3%, while WTI was near $92.78, down 1.9%. Lower crude reduces the immediate inflation impulse supporting yields and the dollar, which is gold-positive at the margin, but the unresolved shipping-risk premium continues to support defensive demand for bullion.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-25/metals-bounce-hormuz-diplomacy-cools-crude-yields-stay-elevated-kitco-am",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bbad34c12e8e3491",
-      "titleEn": "Gold holding its own around $4,300 as US durable goods remains resilient",
-      "summaryEn": "(Kitco News) - Gold continues to hold the line around $4,300 an ounce but could continue to face some headwinds as the U.S. manufacturing sector remains fairly resilient. The Commerce Department announced Friday that U.S. durable goods orders were virtually unchanged in August, following July’s revised increase of 0.9%. The data was slightly stronger than expected, as the consensus view among economists called for a decline of 0.3%. However, core durable goods orders, which strip out the volatile transportation sector, rose 0.3% last month, compared to July’s increase of 0.4%. According to consensus estimates, economists were expecting a 0.4% increase.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-25/gold-holding-its-own-around-4300-us-durable-goods-remains-resilient",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f0b8073a02f79809",
-      "titleEn": "Is Elon Musk's SpaceX stock a golden opportunity after its 34% pullback?",
+      "id": "stockanalysis:0f542890398cb0d5",
+      "titleEn": "HAFNIA LIMITED: Public Filing of Prospectus Supplement in Connection with the Offering",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/25/is-elon-musks-spacex-stock-a-golden-opportunity-after-its-34-pullback/",
+      "link": "https://www.businesswire.com/news/home/20260925827686/en/HAFNIA-LIMITED-Public-Filing-of-Prospectus-Supplement-in-Connection-with-the-Offering/",
       "published": null
     },
     {
-      "id": "stockanalysis:6639d991e8340d61",
-      "titleEn": "Akamai stock surges 23% on $12B Anthropic AI cloud deal: why it could double",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/25/akamai-stock-surges-23-on-12b-anthropic-ai-cloud-deal-why-it-could-double/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ce85b0408a1748ab",
-      "titleEn": "Honeywell Technologies Announces Quarterly Dividend",
+      "id": "stockanalysis:bb3d9135040d0ac4",
+      "titleEn": "The Coca-Cola Company Names Rob Gehring President of North America Operating Unit",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260925740546/en/Honeywell-Technologies-Announces-Quarterly-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:80da80ae054b915c",
-      "titleEn": "Baseten Names Sheila Vashee Chief Marketing Officer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260925326384/en/Baseten-Names-Sheila-Vashee-Chief-Marketing-Officer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b7a3d0b2d03db685",
-      "titleEn": "War Heroes on Water Presented by loanDepot Brings Together Southern California's Sportfishing Community and 130 Combat-Wounded Veterans for Ninth Annual Event",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260925714904/en/War-Heroes-on-Water-Presented-by-loanDepot-Brings-Together-Southern-California%E2%80%99s-Sportfishing-Community-and-130-Combat-Wounded-Veterans-for-Ninth-Annual-Event/",
+      "link": "https://www.businesswire.com/news/home/20260925081299/en/The-Coca-Cola-Company-Names-Rob-Gehring-President-of-North-America-Operating-Unit/",
       "published": null
     }
   ]
