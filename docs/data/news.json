@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-09-25T06:48:05.705416Z",
+  "generatedAt": "2026-09-25T12:23:39.736586Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:6639d991e8340d61",
+      "titleEn": "Akamai stock surges 23% on $12B Anthropic AI cloud deal: why it could double",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/25/akamai-stock-surges-23-on-12b-anthropic-ai-cloud-deal-why-it-could-double/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ce6e3dc410e09bc6",
+      "titleEn": "Meta stock surges 36% in September on Muse AI boom: can it breach the $2T mark?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/25/meta-stock-surges-36-in-september-on-muse-ai-boom-can-it-breach-the-2t-mark/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2d135e71e08dcc42",
+      "titleEn": "Meta shares soar after launch of Muse AI",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Meta shares bounced back to their summer 2025 highs this week, riding a wave of investor excitement about Muse, the social media giant's AI agent, which presents an opportunity to generate revenue beyond advertising. The stock gained 4.5% on Thursday after jumping more than 11% on Monday, its biggest single-day rise since April 2025.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-09-meta-soar-muse-ai.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:df9d017e541ca009",
+      "titleEn": "Micron stock outlook: here's how high shares could climb over the next year",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/25/micron-stock-outlook-heres-how-high-shares-could-climb-over-the-next-year/",
+      "published": null
+    },
     {
       "id": "stockanalysis:277ef9c96e059f97",
       "titleEn": "Oracle Japan stock jumps 8% as US parent falls: why investors see them differently",
@@ -40,111 +76,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:76714aad801c4530",
-      "titleEn": "Warby Parker stock is jumping today, but growth and valuation risks remain",
+      "id": "stockanalysis:14b0a7f52a3dc716",
+      "titleEn": "BLOCS Welcomes John Steinmetz to Board of Directors",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/24/warby-parker-stock-is-jumping-today-but-growth-and-valuation-risks-remain/",
+      "link": "https://www.businesswire.com/news/home/20260924954871/en/BLOCS-Welcomes-John-Steinmetz-to-Board-of-Directors/",
       "published": null
     },
     {
-      "id": "stockanalysis:9fb7439126b6ace7",
-      "titleEn": "OpenAI, Google and Anthropic Join Forces to Set AI Safety Standards",
-      "summaryEn": "Anthropic , Google and OpenAI aim to launch a standards body focused on artificial intelligence (AI) by the end of this year or early next year, The Information reported Thursday (Sept. 24), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The three AI companies are working to create an organization in which builders of frontier AI models would regulate themselves, without government oversight. They initially aimed to form a public-private partnership, but that effort stalled in the Trump administration, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-google-and-anthropic-join-forces-to-set-ai-safety-standards/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ce259d90b820037d",
-      "titleEn": "OpenAI Brings in Patreon's Founders to Build a Creator Business",
-      "summaryEn": "OpenAI hired Patreon Co-Founder Sam Yam and two of his former deputies to run a new Creator Product division, with the first tools due to launch at DevDay on Sept. 29. Patreon’s team knows how to turn an audience into recurring revenue, with more than $10 billion paid to creators since 2013, something none of OpenAI’s creator tools have done. The move comes as ChatGPT’s share of AI prompts fell from 70% to 50% in six months and OpenAI shut down its AI video generator Sora.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-brings-in-patreons-founders-to-build-a-creator-business/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c7797b93cb011e3a",
-      "titleEn": "Why this data storage company jumped 13% and become S&amp;P 500's top gainer today",
+      "id": "stockanalysis:cf0ac0cfe317f167",
+      "titleEn": "Shark Beauty Launches Limited Edition Celestial Skies Collection in Partnership with Actress and CYKLAR Founder Claudia Sulewski, Available Exclusively at Sephora",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/24/why-this-data-storage-company-jumped-13-and-become-sp-500s-top-gainer-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:31bb8174ce65006f",
-      "titleEn": "Bank of America Expands Apprenticeship Programs With 1,000 Additional Hires",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The bank will also invest $150 million in workforce development across the United States, building on the nearly $40 million it invested in 2025, according to the release. “This is one more way for us to do what we can to help create a skilled American workforce for tomorrow,” Bank of America Chair and CEO Brian Moynihan said in the release. “Our apprenticeship and workforce development programs underscore our continued commitment to expanding opportunity and helping talented individuals develop the skills to succeed.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/bank-of-america-expands-apprenticeship-programs-with-1000-additional-hires/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c6ef66248c2b767f",
-      "titleEn": "Amazon Wants to Run Merchants' Businesses Beyond Amazon",
-      "summaryEn": "Amazon is moving from owning the transaction to owning the merchant workflow. Bringing Walmart, Shopify, eBay and TikTok orders into Seller Central turns Amazon from one sales channel into a potential operating layer across them all. Seller AI is graduating from answering questions to running the business between questions. Seller Assistant can continuously monitor inventory, pricing, advertising and demand, shifting AI’s value from automating tasks to automating managerial attention. In agentic commerce, the real moat may be infrastructure, not the chatbot. Amazon is willing to let outside AI interfaces access its seller capabilities, betting that the valuable layer is the data, permissions and execution plumbing that lets an agent actually do something.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/retail/2026/amazon-wants-to-run-merchants-businesses-beyond-amazon/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:79d39522d5e16938",
-      "titleEn": "The Board of Directors of TotalEnergies Reaffirms the Relevance of the Company's Strategy and Its Confidence in the Governance &amp; Management to Continue Its Implementation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924470801/en/The-Board-of-Directors-of-TotalEnergies-Reaffirms-the-Relevance-of-the-Company%E2%80%99s-Strategy-and-Its-Confidence-in-the-Governance-Management-to-Continue-Its-Implementation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:44e66314f5ab9cc8",
-      "titleEn": "Assured Guaranty Statement Regarding Brightline Florida Financial Restructuring",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924260072/en/Assured-Guaranty-Statement-Regarding-Brightline-Florida-Financial-Restructuring/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:24a1d92a8751d419",
-      "titleEn": "Payward Services Unlocks Ōura IPO Access Through xStocks",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924162160/en/Payward-Services-Unlocks-%C5%8Cura-IPO-Access-Through-xStocks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fa1269a3c61b095e",
-      "titleEn": "Delek US Holdings, Inc. Announces Pricing of $400 Million of Convertible Senior Notes",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924386580/en/Delek-US-Holdings-Inc.-Announces-Pricing-of-400-Million-of-Convertible-Senior-Notes/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9f3c1dce3b4f61ac",
-      "titleEn": "KKR Sells Four Points Flex by Sheraton Portfolio in Japan",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924735656/en/KKR-Sells-Four-Points-Flex-by-Sheraton-Portfolio-in-Japan/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6b3a4c36d81eac20",
-      "titleEn": "CBB Bancorp, Inc. Announces Appointment of Jeffrey D. Green to Board of Directors and Audit Committee Chair Role",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924403957/en/CBB-Bancorp-Inc.-Announces-Appointment-of-Jeffrey-D.-Green-to-Board-of-Directors-and-Audit-Committee-Chair-Role/",
+      "link": "https://www.businesswire.com/news/home/20260925926333/en/Shark-Beauty-Launches-Limited-Edition-Celestial-Skies-Collection-in-Partnership-with-Actress-and-CYKLAR-Founder-Claudia-Sulewski-Available-Exclusively-at-Sephora/",
       "published": null
     }
   ]
