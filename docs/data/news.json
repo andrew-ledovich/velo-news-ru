@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-25T01:52:57.583642Z",
+  "generatedAt": "2026-09-25T06:48:05.705416Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:277ef9c96e059f97",
+      "titleEn": "Oracle Japan stock jumps 8% as US parent falls: why investors see them differently",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/25/oracle-japan-stock-jumps-8-as-us-parent-falls-why-investors-see-them-differently/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fe0f1a0d2ec8b921",
+      "titleEn": "Silver's tight supply creates yield opportunity as Theo launches new tokenized product",
+      "summaryEn": "(Kitco News) - Silver has traditionally been viewed as a non-yielding asset, but one financial technology company is looking to change that narrative by opening the metal’s historically opaque lease market to a broader range of investors and making it more accessible through tokenization on the blockchain. Theo, an onchain finance platform, has launched thSLVR, a tokenized silver product that gives investors exposure to physical silver while capturing income from leasing the metal to industrial users. The company said the product launched with more than $50 million in silver leases already generating income. Unlike some existing tokenized precious metals products, Theo said thSLVR’s yield is generated directly from leasing physical silver rather than from platform trading fees.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-24/silvers-tight-supply-creates-yield-opportunity-theo-launches-new-tokenized",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:420a6aac1d33befc",
+      "titleEn": "TripAdvisor stock is in a freefall as headwinds mount: can it hit $5?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/24/tripadvisor-stock-is-in-a-freefall-as-headwinds-mount-can-it-hit-5/",
+      "published": null
+    },
     {
       "id": "stockanalysis:31c392a82f6cd3e1",
       "titleEn": "Metals stay defensive as Hormuz talks stall, equities close mixed - Kitco PM Report",
@@ -67,48 +94,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:aa7018e85704e856",
-      "titleEn": "Why is Nebius stock soaring 9% today",
+      "id": "stockanalysis:79d39522d5e16938",
+      "titleEn": "The Board of Directors of TotalEnergies Reaffirms the Relevance of the Company's Strategy and Its Confidence in the Governance &amp; Management to Continue Its Implementation",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/24/why-is-nebius-stock-soaring-8-today/",
+      "link": "https://www.businesswire.com/news/home/20260924470801/en/The-Board-of-Directors-of-TotalEnergies-Reaffirms-the-Relevance-of-the-Company%E2%80%99s-Strategy-and-Its-Confidence-in-the-Governance-Management-to-Continue-Its-Implementation/",
       "published": null
     },
     {
-      "id": "stockanalysis:a0c5bd439bd15e13",
-      "titleEn": "Why are Intel and AMD stocks rising on Thursday?",
+      "id": "stockanalysis:44e66314f5ab9cc8",
+      "titleEn": "Assured Guaranty Statement Regarding Brightline Florida Financial Restructuring",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/24/why-are-intel-and-amd-stocks-rising-on-thursday/",
+      "link": "https://www.businesswire.com/news/home/20260924260072/en/Assured-Guaranty-Statement-Regarding-Brightline-Florida-Financial-Restructuring/",
       "published": null
     },
     {
-      "id": "stockanalysis:e821040e5d48085a",
-      "titleEn": "Has First Solar stock found a bottom yet?",
+      "id": "stockanalysis:24a1d92a8751d419",
+      "titleEn": "Payward Services Unlocks Ōura IPO Access Through xStocks",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/24/has-first-solar-stock-found-a-bottom-yet/",
+      "link": "https://www.businesswire.com/news/home/20260924162160/en/Payward-Services-Unlocks-%C5%8Cura-IPO-Access-Through-xStocks/",
       "published": null
     },
     {
-      "id": "stockanalysis:8740a31384f5208f",
-      "titleEn": "Meta Bets a Tamagotchi-Style Device Can Sell Personal AI",
-      "summaryEn": "Meta’s Muse Charm is a keychain-sized device that gives the company’s AI agent a body that is always on, no phone required. It is expected to ship by December. The device only pays off once a person hands it their logins and cards, and Oppenheimer found that just 8% of U.S. consumers would trust Meta with their passwords, half the share that would trust ChatGPT. Meta got a dedicated AI device to market first, while OpenAI’s pocket gadget with Jony Ive is yet to be released.",
+      "id": "stockanalysis:fa1269a3c61b095e",
+      "titleEn": "Delek US Holdings, Inc. Announces Pricing of $400 Million of Convertible Senior Notes",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/meta-bets-tamagotchi-style-device-can-sell-personal-ai/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260924386580/en/Delek-US-Holdings-Inc.-Announces-Pricing-of-400-Million-of-Convertible-Senior-Notes/",
       "published": null
     },
     {
-      "id": "stockanalysis:9b56a292b7e8f666",
-      "titleEn": "Here's why the debasement trade is boosting bitcoin price more than gold price – StoneX's Cincotta",
-      "summaryEn": "(Kitco News) – Bitcoin&#x27;s recent breakout coincided with the U.S. Treasury’s bond buyback announcement, and while gold ETF demand remains strong, higher-for-longer Fed rate expectations are capping the non-yielding metal’s gains, according to Fiona Cincotta, Senior Market Analyst at StoneX. “August the 19th was an important turning point for bitcoin, coinciding with the US Treasury Department announcing plans to increase buybacks for long dated government bonds,” Cincotta said in a recent video analysis. “Bitcoin&#x27;s fortunes appeared to change dramatically around the same time. On that date the price broke above $65,000, subsequently rising to this week&#x27;s high of $87,000. That&#x27;s a 35% increase.” Cincotta also pointed out that over the same period, U.S. bitcoin ETFs also saw around $4.6 billion in net inflows, pushing bitcoin ETFs into positive territory for the year. “Bitcoin is up 44% so far this quarter,” she said. “This contrasts with other major assets quite sharply. Stocks have gained around 3.5% across the same period, whilst gold is up only 8%.”",
+      "id": "stockanalysis:9f3c1dce3b4f61ac",
+      "titleEn": "KKR Sells Four Points Flex by Sheraton Portfolio in Japan",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-24/heres-why-debasement-trade-boosting-bitcoin-price-more-gold-price-stonexs",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260924735656/en/KKR-Sells-Four-Points-Flex-by-Sheraton-Portfolio-in-Japan/",
       "published": null
     },
     {
@@ -118,42 +145,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260924403957/en/CBB-Bancorp-Inc.-Announces-Appointment-of-Jeffrey-D.-Green-to-Board-of-Directors-and-Audit-Committee-Chair-Role/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ae1cf6d039f71e41",
-      "titleEn": "CenterPoint Energy Declares Regular Common Stock Dividend of $0.2400",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924206135/en/CenterPoint-Energy-Declares-Regular-Common-Stock-Dividend-of-0.2400/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bc6d49da15c9c8d0",
-      "titleEn": "e.l.f. Cosmetics Drops Second Original Album, “Mirror Mix,” to Champion Next Generation of Breakthrough Artists",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924669574/en/e.l.f.-Cosmetics-Drops-Second-Original-Album-%E2%80%9CMirror-Mix%E2%80%9D-to-Champion-Next-Generation-of-Breakthrough-Artists/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:26313612d10aa83b",
-      "titleEn": "PLAYSTUDIOS Announces 1-for-10 Reverse Stock Split and Provides an Update on Stock Repurchases",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924261474/en/PLAYSTUDIOS-Announces-1-for-10-Reverse-Stock-Split-and-Provides-an-Update-on-Stock-Repurchases/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9ac8efd1171396d2",
-      "titleEn": "LibertyStream Announces CFO Transition",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924912042/en/LibertyStream-Announces-CFO-Transition/",
       "published": null
     }
   ]
