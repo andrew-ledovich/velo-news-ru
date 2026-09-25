@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-09-25T20:35:04.411523Z",
+  "generatedAt": "2026-09-25T23:31:10.191780Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:b41d7d2e909a5633",
+      "titleEn": "Gold is throwing out the old rulebook",
+      "summaryEn": "(Kitco News) - By almost every traditional correlation, gold should be substantially lower than it is today – and the fact that it isn’t is telling us something loud and clear. The Federal Reserve is tightening monetary policy, the U.S. dollar is strengthening and the 10-year Treasury yield has surged to around 5.2%, its highest level in 20 years. World Gold Council modeling suggests that, all else being equal, every 25-basis-point increase in the U.S. 10-year Treasury yield translates into roughly a 1.75% decline in gold. With yields surging higher, gold prices should be well below $4,000 an ounce.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-25/gold-throwing-out-old-rulebook",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:45d69fadc7f46c0b",
+      "titleEn": "Nike stock still hasn't bottomed, analyst warns",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/25/nike-stock-still-hasnt-bottomed-analyst-warns/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:604db207ad3cc748",
+      "titleEn": "Wall Street split on gold price path after drop below $4,300, Main Street maintains bullish majority as jobs take center stage",
+      "summaryEn": "(Kitco News) – Gold prices survived another difficult week as early attempts to stabilize above $4,350 were overwhelmed by higher Treasury yields, hawkish Federal Reserve expectations, and persistent inflation concerns tied to energy prices and the U.S.-Iran conflict. Spot gold kicked off the week trading at $4,383.44 per ounce on Sunday evening, and the yellow metal briefly pushed higher as traders continued to monitor Middle East diplomacy and the risk premium around the Strait of Hormuz. The move quickly stalled, however, with gold setting its weekly high at $4,387.51 per ounce on Sunday evening before sellers regained control. The metal came under renewed pressure Monday and Tuesday as a rally in equities, higher yields, and a firmer dollar reduced demand for safe-haven assets. Gold attempted to stabilize midweek, but hawkish Fed commentary and sticky inflation concerns kept traders focused on the likelihood of additional rate hikes after last week’s 25-basis-point increase.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-25/wall-street-split-gold-price-path-after-drop-below-4300-main-street",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:acee7ad0fe26a555",
+      "titleEn": "Gold caps weekly loss as Fed bets, 5.2% yields limit rebound - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices were firmer and spot silver prices were higher in late U.S. trading Friday, as oil prices fell on renewed U.S.-Iran diplomacy hopes while rising Treasury yields and firm Fed rate-hike expectations capped bullion’s rebound. At the time of writing, spot gold was trading near $4,289.70 an ounce, up 0.38% on the session, while spot silver was trading near $64.170, up 0.69%. North American equities finished higher as lower oil prices helped ease part of the pressure from the week’s yield shock. The S&P 500 rose 39.28 points, or 0.5%, to 7,743.41. The Dow Jones Industrial Average gained 478.64 points, or 0.9%, to 51,828.62. The Nasdaq Composite added 129.34 points, or 0.5%, to 27,068.72, while the Russell 2000 edged up 1.98 points, or 0.1%, to 2,837.55. European equities also recovered as crude retreated. The Stoxx Europe 600 rose 0.35% to 638.65, Germany’s DAX gained 0.56% to 25,408.64, Italy’s FTSE MIB rose 0.63% to 51,866.93 and the U.K. FTSE 100 added 0.14% to 10,695.25. France’s CAC 40 was the main laggard, slipping 0.04% to 8,077.80.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-25/gold-caps-weekly-loss-fed-bets-52-yields-limit-rebound-kitco-pm-report",
+      "published": null
+    },
     {
       "id": "stockanalysis:7f0855428f80ddc6",
       "titleEn": "Gold's $4,300 support faces another test next week as bond yields surge and jobs data looms",
@@ -10,6 +46,24 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-09-25/golds-4300-support-faces-another-test-next-week-bond-yields-surge-and-jobs",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2bbc832a30fe21ab",
+      "titleEn": "OpenAI Builds New Security Gateway to Deploy GPT-6 Cyber",
+      "summaryEn": "OpenAI is preparing to release its latest cybersecurity-focused model, GPT-6 Cyber, as well as a new product that helps users deploy that model, Fortune reported Thursday (Sept. 24), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The new product will enable users to access the cybersecurity model via a gateway, as is done with ChatGPT , will help customers create automated workflows and patch vulnerabilities, and will allow OpenAI to better monitor for safety by seeing how its artificial intelligence models are being used, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-builds-new-security-gateway-to-deploy-gpt-6-cyber/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9914dbc5ae0a0818",
+      "titleEn": "Microsoft Cedes the Chatbot Race and Doubles Down on Enterprise",
+      "summaryEn": "Microsoft is walking away from the personal chatbot race it entered two years ago, folding consumer Copilot into a work product. The new Copilot puts full Word, Excel and PowerPoint inside the app and lets employees spin up always-on agents that live in their company’s Microsoft 365 platform. Fewer than 7% of Microsoft’s 450 million commercial seats pay for Copilot today, and the company is now metering agent work by usage, so the bet is that enterprise budgets will fund what consumer attention never did.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-cedes-the-chatbot-race-and-doubles-down-on-enterprise/",
       "published": null
     },
     {
@@ -22,66 +76,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c0292fda87b9b571",
-      "titleEn": "Costco stock: why a special dividend may be coming soon",
+      "id": "stockanalysis:e5bedd6d97dcb77c",
+      "titleEn": "Mirum Pharmaceuticals and Incyte Announce U.S. FDA Approval of Atebrioz™ (zilurgisertib) for Adult and Pediatric Patients with Fibrodysplasia Ossificans Progressiva",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/25/costco-stock-why-a-special-dividend-may-be-coming-soon/",
+      "link": "https://www.businesswire.com/news/home/20260925436454/en/Mirum-Pharmaceuticals-and-Incyte-Announce-U.S.-FDA-Approval-of-Atebrioz%E2%84%A2-zilurgisertib-for-Adult-and-Pediatric-Patients-with-Fibrodysplasia-Ossificans-Progressiva/",
       "published": null
     },
     {
-      "id": "stockanalysis:a55dcff1ff260b2f",
-      "titleEn": "Gold price hits low of $4,254/oz after final Consumer Sentiment rises to 48.1, inflation expectations spike",
-      "summaryEn": "(Kitco News) - The gold market is trading near session lows after the latest data showed consumer sentiment in the U.S. ticking higher, with inflation expectations shooting up. The University of Michigan announced on Friday that the final reading of its Consumer Sentiment survey for September was 48.1. The data was slightly better than the preliminary reading of 47.8 and the expectation of 47.6, but still well below August’’s final reading of 51.7. “Consumer sentiment ticked down less than four index points in September, reaching the lowest reading in four months and down 15% from January 2026,” said Surveys of Consumers Director Joanne Hsu. “﻿Views of current and year-ahead expected personal finances both weakened about 10% this month, with concerns over high prices continuing to climb. Buying conditions for durables improved a bit, in part due to a perception that completing such purchases now would help consumers avoid higher prices in the future.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-25/gold-price-hits-low-4254oz-after-final-consumer-sentiment-rises-481",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:59a29c996eeabab4",
-      "titleEn": "The higher-for-longer trade is creating a tech divide",
+      "id": "stockanalysis:6cc3e118dcd87fa7",
+      "titleEn": "Masco Corporation Chairman Emeritus, Richard Manoogian, Passes at the Age of 90",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/25/the-higher-for-longer-trade-is-creating-a-tech-divide/",
+      "link": "https://www.businesswire.com/news/home/20260925825143/en/Masco-Corporation-Chairman-Emeritus-Richard-Manoogian-Passes-at-the-Age-of-90/",
       "published": null
     },
     {
-      "id": "stockanalysis:c414072d0f11357d",
-      "titleEn": "Bloom Energy stock forms island reversal amid Project Jupiter risks",
+      "id": "stockanalysis:78e5cabc46da34ef",
+      "titleEn": "$58 Million Multifamily Asset Sale Closed by Institutional Property Advisors in North Phoenix",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/25/bloom-energy-stock-forms-island-reversal-amid-project-jupiter-risks/",
+      "link": "https://www.businesswire.com/news/home/20260925555703/en/58-Million-Multifamily-Asset-Sale-Closed-by-Institutional-Property-Advisors-in-North-Phoenix/",
       "published": null
     },
     {
-      "id": "stockanalysis:0fa484d4ffeb6817",
-      "titleEn": "Elon Musk says xAI's Colossus 2 could more than double Nvidia chip count by year-end",
+      "id": "stockanalysis:46775107b87d2ed5",
+      "titleEn": "Merchants &amp; Marine Bancorp, Inc. Announces TownBridge Bank as New Name of Bank Subsidiary",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/25/elon-musk-says-xais-colossus-2-could-more-than-double-nvidia-chip-count-by-year-end/",
+      "link": "https://www.businesswire.com/news/home/20260925857654/en/%C2%A0Merchants-Marine-Bancorp-Inc.-Announces-TownBridge-Bank-as-New-Name-of-Bank-Subsidiary/",
       "published": null
     },
     {
-      "id": "stockanalysis:0f542890398cb0d5",
-      "titleEn": "HAFNIA LIMITED: Public Filing of Prospectus Supplement in Connection with the Offering",
+      "id": "stockanalysis:881488c81b4d0dfa",
+      "titleEn": "CDW Completes Acquisition of Lovelytics",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260925827686/en/HAFNIA-LIMITED-Public-Filing-of-Prospectus-Supplement-in-Connection-with-the-Offering/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bb3d9135040d0ac4",
-      "titleEn": "The Coca-Cola Company Names Rob Gehring President of North America Operating Unit",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260925081299/en/The-Coca-Cola-Company-Names-Rob-Gehring-President-of-North-America-Operating-Unit/",
+      "link": "https://www.businesswire.com/news/home/20260924759441/en/CDW-Completes-Acquisition-of-Lovelytics/",
       "published": null
     }
   ]
