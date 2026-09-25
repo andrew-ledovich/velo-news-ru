@@ -1,8 +1,89 @@
 {
-  "generatedAt": "2026-09-25T12:23:39.736586Z",
+  "generatedAt": "2026-09-25T17:22:06.229731Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:081ddb8f47587c46",
+      "titleEn": "Why is Microsoft stock rallying 4% today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/25/why-is-microsoft-stock-rallying-4-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c0292fda87b9b571",
+      "titleEn": "Costco stock: why a special dividend may be coming soon",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/25/costco-stock-why-a-special-dividend-may-be-coming-soon/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a55dcff1ff260b2f",
+      "titleEn": "Gold price hits low of $4,254/oz after final Consumer Sentiment rises to 48.1, inflation expectations spike",
+      "summaryEn": "(Kitco News) - The gold market is trading near session lows after the latest data showed consumer sentiment in the U.S. ticking higher, with inflation expectations shooting up. The University of Michigan announced on Friday that the final reading of its Consumer Sentiment survey for September was 48.1. The data was slightly better than the preliminary reading of 47.8 and the expectation of 47.6, but still well below August’’s final reading of 51.7. “Consumer sentiment ticked down less than four index points in September, reaching the lowest reading in four months and down 15% from January 2026,” said Surveys of Consumers Director Joanne Hsu. “﻿Views of current and year-ahead expected personal finances both weakened about 10% this month, with concerns over high prices continuing to climb. Buying conditions for durables improved a bit, in part due to a perception that completing such purchases now would help consumers avoid higher prices in the future.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-25/gold-price-hits-low-4254oz-after-final-consumer-sentiment-rises-481",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:59a29c996eeabab4",
+      "titleEn": "The higher-for-longer trade is creating a tech divide",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/25/the-higher-for-longer-trade-is-creating-a-tech-divide/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c414072d0f11357d",
+      "titleEn": "Bloom Energy stock forms island reversal amid Project Jupiter risks",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/25/bloom-energy-stock-forms-island-reversal-amid-project-jupiter-risks/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0fa484d4ffeb6817",
+      "titleEn": "Elon Musk says xAI's Colossus 2 could more than double Nvidia chip count by year-end",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/25/elon-musk-says-xais-colossus-2-could-more-than-double-nvidia-chip-count-by-year-end/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b89e55c2d7549a28",
+      "titleEn": "Metals bounce as Hormuz diplomacy cools crude, yields stay elevated - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices were firmer and spot silver prices were sharply higher in early U.S. trading Friday, as oil prices slipped on renewed U.S.-Iran truce hopes while elevated Treasury yields and Fed rate-hike expectations kept bullion on track for a weekly loss. At the time of writing, spot gold was trading near $4,300.00 an ounce, up 0.62% on the session, while spot silver was trading near $64.760, up 1.62%. Market positioning remains tilted toward tighter policy after this week’s stronger U.S. activity data, lower jobless claims and firmer housing figures reinforced the view that the Fed’s September rate increase may not be the end of the cycle. Traders are pricing about a 71% probability of another 25-basis-point increase in October, while the dollar index is near 101.2 after touching a two-month high and the 10-year Treasury yield remains near the 5.1% area. August durable-goods orders were virtually unchanged after a downwardly revised 0.9% increase in July, beating expectations for a 0.4% decline, while orders excluding transportation rose 0.3% after a 0.7% July gain. The firmer-than-expected headline print keeps the rates channel pointed against gold ahead of the 10:00 a.m. ET final consumer sentiment and inflation-expectations data, with the market still focused on whether stronger goods demand gives the Fed more room to keep policy tight. The Strait of Hormuz and U.S.-Iran situation is still the central oil-market risk, but the latest price action shows diplomacy is partially offsetting supply fears. U.S. and Iranian negotiators in New York are exploring a phased path out of the war that would involve Tehran reopening the Strait of Hormuz and Washington lifting its economic blockade on Iran, while Houthi attacks against Saudi Arabia continue to threaten regional supply. Brent crude was near $105.26 a barrel, down 1.3%, while WTI was near $92.78, down 1.9%. Lower crude reduces the immediate inflation impulse supporting yields and the dollar, which is gold-positive at the margin, but the unresolved shipping-risk premium continues to support defensive demand for bullion.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-25/metals-bounce-hormuz-diplomacy-cools-crude-yields-stay-elevated-kitco-am",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bbad34c12e8e3491",
+      "titleEn": "Gold holding its own around $4,300 as US durable goods remains resilient",
+      "summaryEn": "(Kitco News) - Gold continues to hold the line around $4,300 an ounce but could continue to face some headwinds as the U.S. manufacturing sector remains fairly resilient. The Commerce Department announced Friday that U.S. durable goods orders were virtually unchanged in August, following July’s revised increase of 0.9%. The data was slightly stronger than expected, as the consensus view among economists called for a decline of 0.3%. However, core durable goods orders, which strip out the volatile transportation sector, rose 0.3% last month, compared to July’s increase of 0.4%. According to consensus estimates, economists were expecting a 0.4% increase.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-25/gold-holding-its-own-around-4300-us-durable-goods-remains-resilient",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f0b8073a02f79809",
+      "titleEn": "Is Elon Musk's SpaceX stock a golden opportunity after its 34% pullback?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/25/is-elon-musks-spacex-stock-a-golden-opportunity-after-its-34-pullback/",
+      "published": null
+    },
     {
       "id": "stockanalysis:6639d991e8340d61",
       "titleEn": "Akamai stock surges 23% on $12B Anthropic AI cloud deal: why it could double",
@@ -13,84 +94,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ce6e3dc410e09bc6",
-      "titleEn": "Meta stock surges 36% in September on Muse AI boom: can it breach the $2T mark?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/25/meta-stock-surges-36-in-september-on-muse-ai-boom-can-it-breach-the-2t-mark/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2d135e71e08dcc42",
-      "titleEn": "Meta shares soar after launch of Muse AI",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Meta shares bounced back to their summer 2025 highs this week, riding a wave of investor excitement about Muse, the social media giant's AI agent, which presents an opportunity to generate revenue beyond advertising. The stock gained 4.5% on Thursday after jumping more than 11% on Monday, its biggest single-day rise since April 2025.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-09-meta-soar-muse-ai.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:df9d017e541ca009",
-      "titleEn": "Micron stock outlook: here's how high shares could climb over the next year",
+      "id": "stockanalysis:ce85b0408a1748ab",
+      "titleEn": "Honeywell Technologies Announces Quarterly Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/25/micron-stock-outlook-heres-how-high-shares-could-climb-over-the-next-year/",
+      "link": "https://www.businesswire.com/news/home/20260925740546/en/Honeywell-Technologies-Announces-Quarterly-Dividend/",
       "published": null
     },
     {
-      "id": "stockanalysis:277ef9c96e059f97",
-      "titleEn": "Oracle Japan stock jumps 8% as US parent falls: why investors see them differently",
+      "id": "stockanalysis:80da80ae054b915c",
+      "titleEn": "Baseten Names Sheila Vashee Chief Marketing Officer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/25/oracle-japan-stock-jumps-8-as-us-parent-falls-why-investors-see-them-differently/",
+      "link": "https://www.businesswire.com/news/home/20260925326384/en/Baseten-Names-Sheila-Vashee-Chief-Marketing-Officer/",
       "published": null
     },
     {
-      "id": "stockanalysis:fe0f1a0d2ec8b921",
-      "titleEn": "Silver's tight supply creates yield opportunity as Theo launches new tokenized product",
-      "summaryEn": "(Kitco News) - Silver has traditionally been viewed as a non-yielding asset, but one financial technology company is looking to change that narrative by opening the metal’s historically opaque lease market to a broader range of investors and making it more accessible through tokenization on the blockchain. Theo, an onchain finance platform, has launched thSLVR, a tokenized silver product that gives investors exposure to physical silver while capturing income from leasing the metal to industrial users. The company said the product launched with more than $50 million in silver leases already generating income. Unlike some existing tokenized precious metals products, Theo said thSLVR’s yield is generated directly from leasing physical silver rather than from platform trading fees.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-24/silvers-tight-supply-creates-yield-opportunity-theo-launches-new-tokenized",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:420a6aac1d33befc",
-      "titleEn": "TripAdvisor stock is in a freefall as headwinds mount: can it hit $5?",
+      "id": "stockanalysis:b7a3d0b2d03db685",
+      "titleEn": "War Heroes on Water Presented by loanDepot Brings Together Southern California's Sportfishing Community and 130 Combat-Wounded Veterans for Ninth Annual Event",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/24/tripadvisor-stock-is-in-a-freefall-as-headwinds-mount-can-it-hit-5/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:31c392a82f6cd3e1",
-      "titleEn": "Metals stay defensive as Hormuz talks stall, equities close mixed - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were weaker in late U.S. trading Thursday, as elevated Treasury yields, a firmer U.S. dollar and renewed oil-price strength kept pressure on non-yielding metals. At the time of writing, spot gold was trading near $4,274.70 an ounce, down 0.26% on the session, while spot silver was trading near $63.670, down 1.02%. North American equities finished roughly flat after a volatile session. The S&P 500 fell 1.90 points, or less than 0.1%, to 7,704.13. The Dow Jones Industrial Average fell 161.61 points, or 0.3%, to 51,349.98. The Nasdaq Composite rose 3.34 points, or less than 0.1%, to 26,939.37, while the Russell 2000 lost 3.09 points, or 0.1%, to 2,835.57. European equities closed lower as rising oil prices and higher bond yields weighed on risk appetite. The Stoxx Europe 600 fell 0.55% to 636.43. Germany’s DAX lost 0.57% to 25,266.53, France’s CAC 40 fell 0.52% to 8,081.43, the U.K. FTSE 100 declined 0.24% to 10,679.99 and Italy’s FTSE MIB dropped 0.85% to 51,543.45.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-24/metals-stay-defensive-hormuz-talks-stall-equities-close-mixed-kitco-pm",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:14b0a7f52a3dc716",
-      "titleEn": "BLOCS Welcomes John Steinmetz to Board of Directors",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924954871/en/BLOCS-Welcomes-John-Steinmetz-to-Board-of-Directors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cf0ac0cfe317f167",
-      "titleEn": "Shark Beauty Launches Limited Edition Celestial Skies Collection in Partnership with Actress and CYKLAR Founder Claudia Sulewski, Available Exclusively at Sephora",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260925926333/en/Shark-Beauty-Launches-Limited-Edition-Celestial-Skies-Collection-in-Partnership-with-Actress-and-CYKLAR-Founder-Claudia-Sulewski-Available-Exclusively-at-Sephora/",
+      "link": "https://www.businesswire.com/news/home/20260925714904/en/War-Heroes-on-Water-Presented-by-loanDepot-Brings-Together-Southern-California%E2%80%99s-Sportfishing-Community-and-130-Combat-Wounded-Veterans-for-Ninth-Annual-Event/",
       "published": null
     }
   ]
