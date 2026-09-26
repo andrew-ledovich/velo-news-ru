@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-26T07:00:37.066336Z",
+  "generatedAt": "2026-09-26T12:11:53.430492Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:086bf71ebe60f832",
+      "titleEn": "Jury finds Meta liable in Cambridge Analytica case",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: A jury in New Mexico on Friday found that Facebook's parent company, Meta, deceived users about privacy protections in a case linked to the Cambridge Analytica scandal, U.S. media reported. Cambridge Analytica was a political consulting firm found to have improperly harvested personal data from millions of Facebook users for targeted political advertising, particularly during the 2016 U.S. election and Brexit referendum.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-09-jury-meta-liable-cambridge-analytica.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4d1ae1b945358dba",
+      "titleEn": "US court sides with Pentagon in Anthropic AI ban",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: A U.S. appeals court on Friday upheld the Pentagon's decision to exclude Anthropic from its supply chain after the AI startup refused to remove certain safeguards on its Claude model. The conflict began in February when Defense Secretary Pete Hegseth demanded that Anthropic remove restrictions on the use of Claude for fully autonomous lethal weapons and mass domestic surveillance of Americans.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-09-court-sides-pentagon-anthropic-ai.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b5f1aa625f139c61",
+      "titleEn": "TikTok agrees to teen limits in US settlement following Meta",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: TikTok on Friday agreed to pay Alabama at least $100 million and enact time limits and other restrictions for teen users, avoiding a trial with a settlement modeled on Instagram owner Meta's recent agreement with U.S. states. The trial had been set to begin Monday over Alabama's claims that TikTok misled parents about tools meant to shield children from harmful content.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-09-tiktok-teen-limits-settlement-meta.html",
+      "published": null
+    },
     {
       "id": "stockanalysis:b41d7d2e909a5633",
       "titleEn": "Gold is throwing out the old rulebook",
@@ -67,21 +94,21 @@
       "published": null
     },
     {
+      "id": "stockanalysis:2cb45a98318b9152",
+      "titleEn": "Azerbaijan: TotalEnergies Announces Final Investment Decision for Absheron Full Field Development",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260926705230/en/Azerbaijan-TotalEnergies-Announces-Final-Investment-Decision-for-Absheron-Full-Field-Development/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:1c87f83ab6587a0b",
       "titleEn": "Deep Fission Rejects Distortions in Short-Seller Report",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260925350200/en/Deep-Fission-Rejects-Distortions-in-Short-Seller-Report/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6571cb4c608b692b",
-      "titleEn": "CORRECTING and REPLACING PHOTO Planet's Pelican-12 Satellite Arrives at Launch Site",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260925502401/en/CORRECTING-and-REPLACING-PHOTO-Planet%E2%80%99s-Pelican-12-Satellite-Arrives-at-Launch-Site/",
       "published": null
     }
   ]
