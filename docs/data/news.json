@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-25T23:31:10.191780Z",
+  "generatedAt": "2026-09-26T01:57:46.123784Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:b41d7d2e909a5633",
@@ -67,12 +67,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:081ddb8f47587c46",
-      "titleEn": "Why is Microsoft stock rallying 4% today?",
+      "id": "stockanalysis:1c87f83ab6587a0b",
+      "titleEn": "Deep Fission Rejects Distortions in Short-Seller Report",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/25/why-is-microsoft-stock-rallying-4-today/",
+      "link": "https://www.businesswire.com/news/home/20260925350200/en/Deep-Fission-Rejects-Distortions-in-Short-Seller-Report/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6571cb4c608b692b",
+      "titleEn": "CORRECTING and REPLACING PHOTO Planet's Pelican-12 Satellite Arrives at Launch Site",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260925502401/en/CORRECTING-and-REPLACING-PHOTO-Planet%E2%80%99s-Pelican-12-Satellite-Arrives-at-Launch-Site/",
       "published": null
     },
     {
@@ -100,24 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260925555703/en/58-Million-Multifamily-Asset-Sale-Closed-by-Institutional-Property-Advisors-in-North-Phoenix/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:46775107b87d2ed5",
-      "titleEn": "Merchants &amp; Marine Bancorp, Inc. Announces TownBridge Bank as New Name of Bank Subsidiary",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260925857654/en/%C2%A0Merchants-Marine-Bancorp-Inc.-Announces-TownBridge-Bank-as-New-Name-of-Bank-Subsidiary/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:881488c81b4d0dfa",
-      "titleEn": "CDW Completes Acquisition of Lovelytics",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924759441/en/CDW-Completes-Acquisition-of-Lovelytics/",
       "published": null
     }
   ]
