@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-26T01:57:46.123784Z",
+  "generatedAt": "2026-09-26T07:00:37.066336Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 9,
   "items": [
     {
       "id": "stockanalysis:b41d7d2e909a5633",
@@ -82,33 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260925502401/en/CORRECTING-and-REPLACING-PHOTO-Planet%E2%80%99s-Pelican-12-Satellite-Arrives-at-Launch-Site/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e5bedd6d97dcb77c",
-      "titleEn": "Mirum Pharmaceuticals and Incyte Announce U.S. FDA Approval of Atebrioz™ (zilurgisertib) for Adult and Pediatric Patients with Fibrodysplasia Ossificans Progressiva",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260925436454/en/Mirum-Pharmaceuticals-and-Incyte-Announce-U.S.-FDA-Approval-of-Atebrioz%E2%84%A2-zilurgisertib-for-Adult-and-Pediatric-Patients-with-Fibrodysplasia-Ossificans-Progressiva/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6cc3e118dcd87fa7",
-      "titleEn": "Masco Corporation Chairman Emeritus, Richard Manoogian, Passes at the Age of 90",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260925825143/en/Masco-Corporation-Chairman-Emeritus-Richard-Manoogian-Passes-at-the-Age-of-90/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:78e5cabc46da34ef",
-      "titleEn": "$58 Million Multifamily Asset Sale Closed by Institutional Property Advisors in North Phoenix",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260925555703/en/58-Million-Multifamily-Asset-Sale-Closed-by-Institutional-Property-Advisors-in-North-Phoenix/",
       "published": null
     }
   ]
