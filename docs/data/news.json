@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-27T15:26:02.603772Z",
+  "generatedAt": "2026-09-27T19:06:42.663018Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:086bf71ebe60f832",
@@ -85,21 +85,30 @@
       "published": null
     },
     {
+      "id": "stockanalysis:9a81f3f1ef92f379",
+      "titleEn": "War Heroes on Water Presented by loanDepot Underway as 130 Combat-wounded Veterans Fish Southern California Waters",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260927118037/en/War-Heroes-on-Water-Presented-by-loanDepot-Underway-as-130-Combat-wounded-Veterans-Fish-Southern-California-Waters/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:621c9d0f3bd6dd23",
+      "titleEn": "Sun Nuclear Announces Validated Adaptive QA Solution in Support of New Radiotherapy System, Accela, by Siemens Healthineers",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260927962745/en/Sun-Nuclear-Announces-Validated-Adaptive-QA-Solution-in-Support-of-New-Radiotherapy-System-Accela-by-Siemens-Healthineers/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:2cb45a98318b9152",
       "titleEn": "Azerbaijan: TotalEnergies Announces Final Investment Decision for Absheron Full Field Development",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260926705230/en/Azerbaijan-TotalEnergies-Announces-Final-Investment-Decision-for-Absheron-Full-Field-Development/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1c87f83ab6587a0b",
-      "titleEn": "Deep Fission Rejects Distortions in Short-Seller Report",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260925350200/en/Deep-Fission-Rejects-Distortions-in-Short-Seller-Report/",
       "published": null
     }
   ]
