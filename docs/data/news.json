@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-27T05:43:40.364687Z",
+  "generatedAt": "2026-09-27T10:45:45.900177Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:086bf71ebe60f832",
@@ -19,6 +19,15 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://techxplore.com/news/2026-09-court-sides-pentagon-anthropic-ai.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1541c726b971ddec",
+      "titleEn": "Is $2 trillion for Anthropic believable? Three analysts pull apart the number",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/26/is-2-trillion-for-anthropic-believable-three-analysts-pull-apart-the-number/",
       "published": null
     },
     {
