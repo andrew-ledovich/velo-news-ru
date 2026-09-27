@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-27T00:32:24.612490Z",
+  "generatedAt": "2026-09-27T05:43:40.364687Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:086bf71ebe60f832",
@@ -73,15 +73,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-09-25/golds-4300-support-faces-another-test-next-week-bond-yields-surge-and-jobs",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2bbc832a30fe21ab",
-      "titleEn": "OpenAI Builds New Security Gateway to Deploy GPT-6 Cyber",
-      "summaryEn": "OpenAI is preparing to release its latest cybersecurity-focused model, GPT-6 Cyber, as well as a new product that helps users deploy that model, Fortune reported Thursday (Sept. 24), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The new product will enable users to access the cybersecurity model via a gateway, as is done with ChatGPT , will help customers create automated workflows and patch vulnerabilities, and will allow OpenAI to better monitor for safety by seeing how its artificial intelligence models are being used, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-builds-new-security-gateway-to-deploy-gpt-6-cyber/",
       "published": null
     },
     {
