@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-28T19:44:44.666285Z",
+  "generatedAt": "2026-09-28T23:56:55.409700Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:30f36bccb8f64b24",
+      "titleEn": "Gold, silver sink as oil, yields keep Fed pressure in focus - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices were sharply lower and spot silver prices were under heavy pressure in late U.S. trading Monday, as a renewed Strait of Hormuz risk premium lifted oil prices, pushed Treasury yields higher and reinforced expectations for another Federal Reserve rate increase. At the time of writing, spot gold was trading near $4,131.00 an ounce, down about 3.8% on the session, while spot silver was trading near $61.020, down about 5.0%. North American equities closed lower as the yield shock offset support from selected AI names. The S&P 500 fell 59.72 points, or 0.8%, to 7,683.69. The Dow Jones Industrial Average lost 347.11 points, or 0.7%, to 51,481.51. The Nasdaq Composite dropped 248.34 points, or 0.9%, to 26,820.38, while the Russell 2000 fell 19.64 points, or 0.7%, to 2,817.91. European equities were flat to lower as oil-and-gas strength offset weakness in basic resources and telecoms. The Stoxx Europe 600 closed flat at 638.68. Germany’s DAX fell 0.13% to 25,374.42, France’s CAC 40 slipped 0.04% to 8,078, the U.K. FTSE 100 declined 0.10% to 10,684.88 and Italy’s FTSE MIB lost 0.21% to 51,759.90.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-09-28/gold-silver-sink-oil-yields-keep-fed-pressure-focus-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:243bba6b5d3ec042",
+      "titleEn": "Why SpaceX stock fell even after starship reaching orbit",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/28/why-spacex-stock-fell-even-after-starship-reaching-orbit/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c54fa646a17513b2",
+      "titleEn": "Mortgage rates could hit 9%: three stocks that will be hit hard",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/28/mortgage-rates-could-hit-9-three-stocks-that-will-be-hit-hard/",
+      "published": null
+    },
     {
       "id": "stockanalysis:546e5b9f747f056d",
       "titleEn": "Rising bond yields could push gold price to $4,000, but State Street's Doshi still sees $5,000 by Q2 2027",
@@ -22,120 +49,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:0b1bdfdfab06d561",
-      "titleEn": "Needham says buy Nu stock as it sinks on acquisition reports",
+      "id": "stockanalysis:2910d1c4ab55012f",
+      "titleEn": "APFC Releases 2026 Annual Report: What Alaska Built",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/28/needham-says-buy-nu-stock-as-it-sinks-on-acquisition-reports/",
+      "link": "https://www.businesswire.com/news/home/20260928166128/en/APFC-Releases-2026-Annual-Report-What-Alaska-Built/",
       "published": null
     },
     {
-      "id": "stockanalysis:bc1d72c0d7b3d864",
-      "titleEn": "Why is Oracle stock falling 2% today?",
+      "id": "stockanalysis:3b08554066022e3b",
+      "titleEn": "Samsung Commits $1 Billion to Helix Digital Infrastructure to Support Global AI Infrastructure Buildout",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260928688153/en/Samsung-Commits-1-Billion-to-Helix-Digital-Infrastructure-to-Support-Global-AI-Infrastructure-Buildout/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:82f0afbeedacb2e8",
+      "titleEn": "KBRA Assigns Preliminary Ratings to Upstart Securitization Trust 2026-4",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/28/why-is-oracle-stock-falling-2-today/",
+      "link": "https://www.businesswire.com/news/home/20260928628031/en/KBRA-Assigns-Preliminary-Ratings-to-Upstart-Securitization-Trust-2026-4/",
       "published": null
     },
     {
-      "id": "stockanalysis:cb252f9722603171",
-      "titleEn": "Nvidia stock forms a diamond reversal pattern ahead of Micron earnings",
+      "id": "stockanalysis:2c0ac835aa5c64ef",
+      "titleEn": "Enhanced Group Announces Proposed 1-for-10 Reverse Stock Split",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/28/nvidia-stock-forms-a-diamond-reversal-pattern-ahead-of-micron-earnings/",
+      "link": "https://www.businesswire.com/news/home/20260928832141/en/Enhanced-Group-Announces-Proposed-1-for-10-Reverse-Stock-Split/",
       "published": null
     },
     {
-      "id": "stockanalysis:b44dd45ff6de9ffe",
-      "titleEn": "Micron stock falls 4%, why this analyst sees 40% upside for the stock?",
+      "id": "stockanalysis:a90aee054572ee14",
+      "titleEn": "Genentech Breaks Ground on $750 Million Manufacturing Expansion in Hillsboro, Oregon",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/28/micron-stock-falls-4-why-this-analyst-sees-40-upside-for-the-stock/",
+      "link": "https://www.businesswire.com/news/home/20260928061898/en/Genentech-Breaks-Ground-on-750-Million-Manufacturing-Expansion-in-Hillsboro-Oregon/",
       "published": null
     },
     {
-      "id": "stockanalysis:221fbc29ad5a60f4",
-      "titleEn": "Tesla stock: why the upcoming delivery report may not matter much",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/09/28/tesla-stock-why-the-upcoming-delivery-report-may-not-matter-much/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:62e696054f0cee70",
-      "titleEn": "Why are Intel and AMD stocks falling on Monday?",
+      "id": "stockanalysis:2aefb45ddd2e5d1c",
+      "titleEn": "Orion Digital Regains Compliance with Nasdaq's Minimum Bid Price Requirement",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/28/why-are-intel-and-amd-stocks-falling-on-monday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8b1783b508ff791e",
-      "titleEn": "China on pace to import 1,700 tonnes of gold in 2026, silver price faces key test near $60/oz – Heraeus",
-      "summaryEn": "(Kitco News) – China’s 2026 gold imports could be double those of last year, and will set the high-water mark for the 2020s to date, while silver prices are approaching a key test that could determine the gray metal’s near-term direction, according to precious metals analysts at Heraeus. In their latest update, the analysts noted that China’s gold imports have already exceeded 2025 totals in 2026. “China imported 142 tonnes of gold in August, taking imports during the first eight months of the year to 1,141 tonnes, 72% higher than the 663 tonnes imported over the same period last year, and higher than the 940 tonnes imported during the whole of 2025,” they wrote. “The strong inflows come despite historically high gold prices and reflect continued investment demand, while Chinese jewellery demand remains comparatively weak. These non-monetary imports are separate from purchases by the People’s Bank of China, which added a further 20 tonnes to its official reserves in August.” “If Chinese gold imports maintain this pace through the rest of 2026, they will total ~1,700 tonnes, which would represent the highest amount this decade.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-28/china-pace-import-1700-tonnes-gold-2026-silver-price-faces-key-test-near",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e3af32b83adb7981",
-      "titleEn": "Meta just triggered a crash in MongoDB stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/28/meta-just-triggered-a-crash-in-mongodb-stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:38e8d09744fbe846",
-      "titleEn": "Strategy (MSTR) stock falls even as company adds 1,665 BTC",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/28/strategy-mstr-stock-falls-even-as-company-adds-1665-btc/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c8dac2ed99ce293a",
-      "titleEn": "DRAM ETF outflows jump as traders brace for key Micron, SK Hynix news",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/28/dram-etf-outflows-jump-as-traders-brace-for-key-micron-sk-hynix-news/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c62ed45601b9eab6",
-      "titleEn": "Archer by Marsh Launches to Help Life and Annuity Insurers and Asset Managers Build and Operate Reinsurance Businesses",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260928653942/en/Archer-by-Marsh-Launches-to-Help-Life-and-Annuity-Insurers-and-Asset-Managers-Build-and-Operate-Reinsurance-Businesses/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3d35d866e81d6c73",
-      "titleEn": "Molina Healthcare of Michigan and The MolinaCares Accord Award $160,000 in Grants to Genesee County-Area Organizations Addressing Social Determinants of Health",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260928237353/en/Molina-Healthcare-of-Michigan-and-The-MolinaCares-Accord-Award-160000-in-Grants-to-Genesee-County-Area-Organizations-Addressing-Social-Determinants-of-Health/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4e867518e084136a",
-      "titleEn": "ASTH Investors Have Opportunity to Join Astrana Health, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260928814648/en/ASTH-Investors-Have-Opportunity-to-Join-Astrana-Health-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20260928084444/en/Orion-Digital-Regains-Compliance-with-Nasdaq%E2%80%99s-Minimum-Bid-Price-Requirement/",
       "published": null
     }
   ]
