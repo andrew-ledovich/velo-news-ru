@@ -1,87 +1,141 @@
 {
-  "generatedAt": "2026-09-28T12:15:29.639508Z",
+  "generatedAt": "2026-09-28T19:44:44.666285Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 15,
   "items": [
     {
-      "id": "stockanalysis:b3d329725aff37fe",
-      "titleEn": "Blue Owl stock has slumped from the August high of $12.7 to the current $9.32.",
+      "id": "stockanalysis:546e5b9f747f056d",
+      "titleEn": "Rising bond yields could push gold price to $4,000, but State Street's Doshi still sees $5,000 by Q2 2027",
+      "summaryEn": "(Kitco News) - Rising interest rate expectations and surging bond yields have the potential to push gold prices back toward $4,000 an ounce within the next week; however, one strategist expects that floor to hold, and while the path higher has become more challenging, prices could still reach $5,000 within the next six months. In an interview with Kitco News, Aakash Doshi, Head of Gold Strategy at State Street Investment Management, said gold is facing significant tactical headwinds as markets price in a more aggressive Federal Reserve and the U.S. dollar strengthens. However, despite the downside risks, there is still a “structural bid” in the marketplace. Doshi said the selloff in gold is not surprising given how dramatically interest rate expectations have shifted. He explained that markets have priced in two additional rate hikes since mid-August, while expectations further out on the curve have also shifted significantly. He said gold is effectively reacting to “peak market hawkishness,” with higher nominal and real yields and a stronger U.S. dollar weighing on the precious metal.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-28/rising-bond-yields-could-push-gold-price-4000-state-streets-doshi-still",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7c81371d64e52159",
+      "titleEn": "Gold price slide below 200-DMA brings critical support level into focus – SocGen",
+      "summaryEn": "(Kitco News) – Gold ’s failure to sustain gains above its 200-day moving average has reinforced its downward momentum, and the precious metal is approaching a crucial support level, according to analysts at Société Générale. “Gold has struggled to establish itself above the 200-DMA during its recent rebound attempt, highlighting the persistence of downward momentum,” the analysts wrote in their latest research note. “If Gold fails to reclaim the recent pivot high near $4,315, the decline may extend.” “The next supports are located around the projection of $4,095 and the June/July troughs at 3,960/3,940, which is a crucial zone,” they warned.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-28/gold-price-slide-below-200-dma-brings-critical-support-level-focus-socgen",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0b1bdfdfab06d561",
+      "titleEn": "Needham says buy Nu stock as it sinks on acquisition reports",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/28/blue-owl-stock-has-slumped-from-the-august-high-of-12-7-to-the-current-9-32/",
+      "link": "https://invezz.com/news/2026/09/28/needham-says-buy-nu-stock-as-it-sinks-on-acquisition-reports/",
       "published": null
     },
     {
-      "id": "stockanalysis:1cb69eebce621b52",
-      "titleEn": "Nvidia launches AI safety platform to stop agents before they escape limits",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/28/nvidia-launches-ai-safety-platform-to-stop-agents-before-they-escape-limits/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2a5729005835f1af",
-      "titleEn": "Why Micron may overtake Nvidia as biggest S&amp;P 500 earnings growth driver",
+      "id": "stockanalysis:bc1d72c0d7b3d864",
+      "titleEn": "Why is Oracle stock falling 2% today?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/28/why-micron-may-overtake-nvidia-as-biggest-sp-500-earnings-growth-driver/",
+      "link": "https://invezz.com/news/2026/09/28/why-is-oracle-stock-falling-2-today/",
       "published": null
     },
     {
-      "id": "stockanalysis:f471d414e95e183f",
-      "titleEn": "FTSE 100 rises as 2.5% deposit plan sends UK housebuilders up 16%",
+      "id": "stockanalysis:cb252f9722603171",
+      "titleEn": "Nvidia stock forms a diamond reversal pattern ahead of Micron earnings",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/28/ftse-100-rises-as-2-5-deposit-plan-sends-uk-housebuilders-up-16/",
+      "link": "https://invezz.com/news/2026/09/28/nvidia-stock-forms-a-diamond-reversal-pattern-ahead-of-micron-earnings/",
       "published": null
     },
     {
-      "id": "stockanalysis:5ee1fa64e72317ec",
-      "titleEn": "Nike stock is near a 12-year low: here's why earnings could change the story",
+      "id": "stockanalysis:b44dd45ff6de9ffe",
+      "titleEn": "Micron stock falls 4%, why this analyst sees 40% upside for the stock?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/28/micron-stock-falls-4-why-this-analyst-sees-40-upside-for-the-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:221fbc29ad5a60f4",
+      "titleEn": "Tesla stock: why the upcoming delivery report may not matter much",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/09/28/tesla-stock-why-the-upcoming-delivery-report-may-not-matter-much/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:62e696054f0cee70",
+      "titleEn": "Why are Intel and AMD stocks falling on Monday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/28/why-are-intel-and-amd-stocks-falling-on-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8b1783b508ff791e",
+      "titleEn": "China on pace to import 1,700 tonnes of gold in 2026, silver price faces key test near $60/oz – Heraeus",
+      "summaryEn": "(Kitco News) – China’s 2026 gold imports could be double those of last year, and will set the high-water mark for the 2020s to date, while silver prices are approaching a key test that could determine the gray metal’s near-term direction, according to precious metals analysts at Heraeus. In their latest update, the analysts noted that China’s gold imports have already exceeded 2025 totals in 2026. “China imported 142 tonnes of gold in August, taking imports during the first eight months of the year to 1,141 tonnes, 72% higher than the 663 tonnes imported over the same period last year, and higher than the 940 tonnes imported during the whole of 2025,” they wrote. “The strong inflows come despite historically high gold prices and reflect continued investment demand, while Chinese jewellery demand remains comparatively weak. These non-monetary imports are separate from purchases by the People’s Bank of China, which added a further 20 tonnes to its official reserves in August.” “If Chinese gold imports maintain this pace through the rest of 2026, they will total ~1,700 tonnes, which would represent the highest amount this decade.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-28/china-pace-import-1700-tonnes-gold-2026-silver-price-faces-key-test-near",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e3af32b83adb7981",
+      "titleEn": "Meta just triggered a crash in MongoDB stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/28/meta-just-triggered-a-crash-in-mongodb-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:38e8d09744fbe846",
+      "titleEn": "Strategy (MSTR) stock falls even as company adds 1,665 BTC",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/28/nike-stock-is-near-a-12-year-low-heres-why-earnings-could-change-the-story/",
+      "link": "https://invezz.com/news/2026/09/28/strategy-mstr-stock-falls-even-as-company-adds-1665-btc/",
       "published": null
     },
     {
-      "id": "stockanalysis:eaeefe373fd1de34",
-      "titleEn": "Delta stock enters Monday with two shocks: investors may be watching the wrong one",
+      "id": "stockanalysis:c8dac2ed99ce293a",
+      "titleEn": "DRAM ETF outflows jump as traders brace for key Micron, SK Hynix news",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/28/delta-stock-enters-monday-with-two-shocks-investors-may-be-watching-the-wrong-one/",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/09/28/dram-etf-outflows-jump-as-traders-brace-for-key-micron-sk-hynix-news/",
       "published": null
     },
     {
-      "id": "stockanalysis:aff6ebc6e6f0e6a6",
-      "titleEn": "KOSPI leads Asia lower as 5% US yields and $106 oil hit expensive tech",
+      "id": "stockanalysis:c62ed45601b9eab6",
+      "titleEn": "Archer by Marsh Launches to Help Life and Annuity Insurers and Asset Managers Build and Operate Reinsurance Businesses",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/28/kospi-leads-asia-lower-as-5-us-yields-and-106-oil-hit-expensive-tech/",
+      "link": "https://www.businesswire.com/news/home/20260928653942/en/Archer-by-Marsh-Launches-to-Help-Life-and-Annuity-Insurers-and-Asset-Managers-Build-and-Operate-Reinsurance-Businesses/",
       "published": null
     },
     {
-      "id": "stockanalysis:4cbe0330f173c17a",
-      "titleEn": "TSMC stock slips despite 2nm boom: why Apple and Nvidia are raising orders",
+      "id": "stockanalysis:3d35d866e81d6c73",
+      "titleEn": "Molina Healthcare of Michigan and The MolinaCares Accord Award $160,000 in Grants to Genesee County-Area Organizations Addressing Social Determinants of Health",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/28/tsmc-stock-slips-despite-2nm-boom-why-apple-and-nvidia-are-raising-orders/",
+      "link": "https://www.businesswire.com/news/home/20260928237353/en/Molina-Healthcare-of-Michigan-and-The-MolinaCares-Accord-Award-160000-in-Grants-to-Genesee-County-Area-Organizations-Addressing-Social-Determinants-of-Health/",
       "published": null
     },
     {
-      "id": "stockanalysis:3acd2ed04b0bb565",
-      "titleEn": "Samsung, SK Hynix stocks crash as foreigners flee: why Micron now holds the next clue",
+      "id": "stockanalysis:4e867518e084136a",
+      "titleEn": "ASTH Investors Have Opportunity to Join Astrana Health, Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/28/samsung-sk-hynix-stocks-crash-as-foreigners-flee-why-micron-now-holds-the-next-clue/",
+      "link": "https://www.businesswire.com/news/home/20260928814648/en/ASTH-Investors-Have-Opportunity-to-Join-Astrana-Health-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
