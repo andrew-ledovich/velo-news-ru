@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-27T22:05:17.240161Z",
+  "generatedAt": "2026-09-28T00:40:33.583222Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:086bf71ebe60f832",
@@ -73,6 +73,15 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-09-25/gold-caps-weekly-loss-fed-bets-52-yields-limit-rebound-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f258caa2e8bfc5bb",
+      "titleEn": "Wolfspeed Expands 200 mm Silicon Carbide Portfolio with New Premium Power Substrates",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260927368960/en/Wolfspeed-Expands-200-mm-Silicon-Carbide-Portfolio-with-New-Premium-Power-Substrates/",
       "published": null
     },
     {
