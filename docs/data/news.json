@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-28T00:40:33.583222Z",
+  "generatedAt": "2026-09-28T05:50:51.066354Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:aff6ebc6e6f0e6a6",
+      "titleEn": "KOSPI leads Asia lower as 5% US yields and $106 oil hit expensive tech",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/28/kospi-leads-asia-lower-as-5-us-yields-and-106-oil-hit-expensive-tech/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4cbe0330f173c17a",
+      "titleEn": "TSMC stock slips despite 2nm boom: why Apple and Nvidia are raising orders",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/28/tsmc-stock-slips-despite-2nm-boom-why-apple-and-nvidia-are-raising-orders/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3acd2ed04b0bb565",
+      "titleEn": "Samsung, SK Hynix stocks crash as foreigners flee: why Micron now holds the next clue",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/28/samsung-sk-hynix-stocks-crash-as-foreigners-flee-why-micron-now-holds-the-next-clue/",
+      "published": null
+    },
     {
       "id": "stockanalysis:086bf71ebe60f832",
       "titleEn": "Jury finds Meta liable in Cambridge Analytica case",
@@ -49,30 +76,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:45d69fadc7f46c0b",
-      "titleEn": "Nike stock still hasn't bottomed, analyst warns",
+      "id": "stockanalysis:3a7a3ba11fb14044",
+      "titleEn": "QIAGEN Completes U.S. QIAstat-Dx Bloodstream Infection Portfolio With FDA Clearance of New Bacteria Detection Panel",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/25/nike-stock-still-hasnt-bottomed-analyst-warns/",
+      "link": "https://www.businesswire.com/news/home/20260927292000/en/QIAGEN-Completes-U.S.-QIAstat-Dx-Bloodstream-Infection-Portfolio-With-FDA-Clearance-of-New-Bacteria-Detection-Panel/",
       "published": null
     },
     {
-      "id": "stockanalysis:604db207ad3cc748",
-      "titleEn": "Wall Street split on gold price path after drop below $4,300, Main Street maintains bullish majority as jobs take center stage",
-      "summaryEn": "(Kitco News) – Gold prices survived another difficult week as early attempts to stabilize above $4,350 were overwhelmed by higher Treasury yields, hawkish Federal Reserve expectations, and persistent inflation concerns tied to energy prices and the U.S.-Iran conflict. Spot gold kicked off the week trading at $4,383.44 per ounce on Sunday evening, and the yellow metal briefly pushed higher as traders continued to monitor Middle East diplomacy and the risk premium around the Strait of Hormuz. The move quickly stalled, however, with gold setting its weekly high at $4,387.51 per ounce on Sunday evening before sellers regained control. The metal came under renewed pressure Monday and Tuesday as a rally in equities, higher yields, and a firmer dollar reduced demand for safe-haven assets. Gold attempted to stabilize midweek, but hawkish Fed commentary and sticky inflation concerns kept traders focused on the likelihood of additional rate hikes after last week’s 25-basis-point increase.",
+      "id": "stockanalysis:7362ced11fed928b",
+      "titleEn": "Faraday Future Announces This Week's Investor Weekly Report From YT Jia Has Been Rescheduled to September 28; FF EAI “Built in USA” Upstream &amp; Downstream Business Partner Conference Part Two to Be Held September 29",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-25/wall-street-split-gold-price-path-after-drop-below-4300-main-street",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:acee7ad0fe26a555",
-      "titleEn": "Gold caps weekly loss as Fed bets, 5.2% yields limit rebound - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were firmer and spot silver prices were higher in late U.S. trading Friday, as oil prices fell on renewed U.S.-Iran diplomacy hopes while rising Treasury yields and firm Fed rate-hike expectations capped bullion’s rebound. At the time of writing, spot gold was trading near $4,289.70 an ounce, up 0.38% on the session, while spot silver was trading near $64.170, up 0.69%. North American equities finished higher as lower oil prices helped ease part of the pressure from the week’s yield shock. The S&P 500 rose 39.28 points, or 0.5%, to 7,743.41. The Dow Jones Industrial Average gained 478.64 points, or 0.9%, to 51,828.62. The Nasdaq Composite added 129.34 points, or 0.5%, to 27,068.72, while the Russell 2000 edged up 1.98 points, or 0.1%, to 2,837.55. European equities also recovered as crude retreated. The Stoxx Europe 600 rose 0.35% to 638.65, Germany’s DAX gained 0.56% to 25,408.64, Italy’s FTSE MIB rose 0.63% to 51,866.93 and the U.K. FTSE 100 added 0.14% to 10,695.25. France’s CAC 40 was the main laggard, slipping 0.04% to 8,077.80.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-25/gold-caps-weekly-loss-fed-bets-52-yields-limit-rebound-kitco-pm-report",
+      "link": "https://www.businesswire.com/news/home/20260927266984/en/Faraday-Future-Announces-This-Week%E2%80%99s-Investor-Weekly-Report-From-YT-Jia-Has-Been-Rescheduled-to-September-28-FF-EAI-%E2%80%9CBuilt-in-USA%E2%80%9D-Upstream-Downstream-Business-Partner-Conference-Part-Two-to-Be-Held-September-29/",
       "published": null
     },
     {
@@ -109,15 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260927962745/en/Sun-Nuclear-Announces-Validated-Adaptive-QA-Solution-in-Support-of-New-Radiotherapy-System-Accela-by-Siemens-Healthineers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2cb45a98318b9152",
-      "titleEn": "Azerbaijan: TotalEnergies Announces Final Investment Decision for Absheron Full Field Development",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260926705230/en/Azerbaijan-TotalEnergies-Announces-Final-Investment-Decision-for-Absheron-Full-Field-Development/",
       "published": null
     }
   ]
