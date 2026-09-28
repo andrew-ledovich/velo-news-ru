@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-09-28T05:50:51.066354Z",
+  "generatedAt": "2026-09-28T12:15:29.639508Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:b3d329725aff37fe",
+      "titleEn": "Blue Owl stock has slumped from the August high of $12.7 to the current $9.32.",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/28/blue-owl-stock-has-slumped-from-the-august-high-of-12-7-to-the-current-9-32/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1cb69eebce621b52",
+      "titleEn": "Nvidia launches AI safety platform to stop agents before they escape limits",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/28/nvidia-launches-ai-safety-platform-to-stop-agents-before-they-escape-limits/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2a5729005835f1af",
+      "titleEn": "Why Micron may overtake Nvidia as biggest S&amp;P 500 earnings growth driver",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/28/why-micron-may-overtake-nvidia-as-biggest-sp-500-earnings-growth-driver/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f471d414e95e183f",
+      "titleEn": "FTSE 100 rises as 2.5% deposit plan sends UK housebuilders up 16%",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/28/ftse-100-rises-as-2-5-deposit-plan-sends-uk-housebuilders-up-16/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5ee1fa64e72317ec",
+      "titleEn": "Nike stock is near a 12-year low: here's why earnings could change the story",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/09/28/nike-stock-is-near-a-12-year-low-heres-why-earnings-could-change-the-story/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:eaeefe373fd1de34",
+      "titleEn": "Delta stock enters Monday with two shocks: investors may be watching the wrong one",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/28/delta-stock-enters-monday-with-two-shocks-investors-may-be-watching-the-wrong-one/",
+      "published": null
+    },
     {
       "id": "stockanalysis:aff6ebc6e6f0e6a6",
       "titleEn": "KOSPI leads Asia lower as 5% US yields and $106 oil hit expensive tech",
@@ -28,105 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/09/28/samsung-sk-hynix-stocks-crash-as-foreigners-flee-why-micron-now-holds-the-next-clue/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:086bf71ebe60f832",
-      "titleEn": "Jury finds Meta liable in Cambridge Analytica case",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: A jury in New Mexico on Friday found that Facebook's parent company, Meta, deceived users about privacy protections in a case linked to the Cambridge Analytica scandal, U.S. media reported. Cambridge Analytica was a political consulting firm found to have improperly harvested personal data from millions of Facebook users for targeted political advertising, particularly during the 2016 U.S. election and Brexit referendum.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-09-jury-meta-liable-cambridge-analytica.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4d1ae1b945358dba",
-      "titleEn": "US court sides with Pentagon in Anthropic AI ban",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: A U.S. appeals court on Friday upheld the Pentagon's decision to exclude Anthropic from its supply chain after the AI startup refused to remove certain safeguards on its Claude model. The conflict began in February when Defense Secretary Pete Hegseth demanded that Anthropic remove restrictions on the use of Claude for fully autonomous lethal weapons and mass domestic surveillance of Americans.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-09-court-sides-pentagon-anthropic-ai.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1541c726b971ddec",
-      "titleEn": "Is $2 trillion for Anthropic believable? Three analysts pull apart the number",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/26/is-2-trillion-for-anthropic-believable-three-analysts-pull-apart-the-number/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b5f1aa625f139c61",
-      "titleEn": "TikTok agrees to teen limits in US settlement following Meta",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: TikTok on Friday agreed to pay Alabama at least $100 million and enact time limits and other restrictions for teen users, avoiding a trial with a settlement modeled on Instagram owner Meta's recent agreement with U.S. states. The trial had been set to begin Monday over Alabama's claims that TikTok misled parents about tools meant to shield children from harmful content.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-09-tiktok-teen-limits-settlement-meta.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b41d7d2e909a5633",
-      "titleEn": "Gold is throwing out the old rulebook",
-      "summaryEn": "(Kitco News) - By almost every traditional correlation, gold should be substantially lower than it is today – and the fact that it isn’t is telling us something loud and clear. The Federal Reserve is tightening monetary policy, the U.S. dollar is strengthening and the 10-year Treasury yield has surged to around 5.2%, its highest level in 20 years. World Gold Council modeling suggests that, all else being equal, every 25-basis-point increase in the U.S. 10-year Treasury yield translates into roughly a 1.75% decline in gold. With yields surging higher, gold prices should be well below $4,000 an ounce.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-25/gold-throwing-out-old-rulebook",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3a7a3ba11fb14044",
-      "titleEn": "QIAGEN Completes U.S. QIAstat-Dx Bloodstream Infection Portfolio With FDA Clearance of New Bacteria Detection Panel",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260927292000/en/QIAGEN-Completes-U.S.-QIAstat-Dx-Bloodstream-Infection-Portfolio-With-FDA-Clearance-of-New-Bacteria-Detection-Panel/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7362ced11fed928b",
-      "titleEn": "Faraday Future Announces This Week's Investor Weekly Report From YT Jia Has Been Rescheduled to September 28; FF EAI “Built in USA” Upstream &amp; Downstream Business Partner Conference Part Two to Be Held September 29",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260927266984/en/Faraday-Future-Announces-This-Week%E2%80%99s-Investor-Weekly-Report-From-YT-Jia-Has-Been-Rescheduled-to-September-28-FF-EAI-%E2%80%9CBuilt-in-USA%E2%80%9D-Upstream-Downstream-Business-Partner-Conference-Part-Two-to-Be-Held-September-29/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f258caa2e8bfc5bb",
-      "titleEn": "Wolfspeed Expands 200 mm Silicon Carbide Portfolio with New Premium Power Substrates",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260927368960/en/Wolfspeed-Expands-200-mm-Silicon-Carbide-Portfolio-with-New-Premium-Power-Substrates/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b0e119cb9efcdcad",
-      "titleEn": "Mirum Pharmaceuticals to Host Investor Call to Share Topline Results from the Phase 3 AZURE-1 Study of Brelovitug in Chronic Hepatitis Delta on September 28, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260927892676/en/Mirum-Pharmaceuticals-to-Host-Investor-Call-to-Share-Topline-Results-from-the-Phase-3-AZURE-1-Study-of-Brelovitug-in-Chronic-Hepatitis-Delta-on-September-28-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9a81f3f1ef92f379",
-      "titleEn": "War Heroes on Water Presented by loanDepot Underway as 130 Combat-wounded Veterans Fish Southern California Waters",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260927118037/en/War-Heroes-on-Water-Presented-by-loanDepot-Underway-as-130-Combat-wounded-Veterans-Fish-Southern-California-Waters/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:621c9d0f3bd6dd23",
-      "titleEn": "Sun Nuclear Announces Validated Adaptive QA Solution in Support of New Radiotherapy System, Accela, by Siemens Healthineers",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260927962745/en/Sun-Nuclear-Announces-Validated-Adaptive-QA-Solution-in-Support-of-New-Radiotherapy-System-Accela-by-Siemens-Healthineers/",
       "published": null
     }
   ]
