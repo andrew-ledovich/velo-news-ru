@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-28T23:56:55.409700Z",
+  "generatedAt": "2026-09-29T03:42:10.647113Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 6,
   "items": [
+    {
+      "id": "stockanalysis:399202750aef7eac",
+      "titleEn": "Why is AMD buying World Labs for $8.2 billion?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/29/why-is-amd-buying-world-labs-for-8-2-billion/",
+      "published": null
+    },
     {
       "id": "stockanalysis:30f36bccb8f64b24",
       "titleEn": "Gold, silver sink as oil, yields keep Fed pressure in focus - Kitco PM Report",
@@ -40,66 +49,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:7c81371d64e52159",
-      "titleEn": "Gold price slide below 200-DMA brings critical support level into focus – SocGen",
-      "summaryEn": "(Kitco News) – Gold ’s failure to sustain gains above its 200-day moving average has reinforced its downward momentum, and the precious metal is approaching a crucial support level, according to analysts at Société Générale. “Gold has struggled to establish itself above the 200-DMA during its recent rebound attempt, highlighting the persistence of downward momentum,” the analysts wrote in their latest research note. “If Gold fails to reclaim the recent pivot high near $4,315, the decline may extend.” “The next supports are located around the projection of $4,095 and the June/July troughs at 3,960/3,940, which is a crucial zone,” they warned.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-28/gold-price-slide-below-200-dma-brings-critical-support-level-focus-socgen",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2910d1c4ab55012f",
-      "titleEn": "APFC Releases 2026 Annual Report: What Alaska Built",
+      "id": "stockanalysis:86b8d3fad94e8c3b",
+      "titleEn": "Alpha and Omega Semiconductor Announces Participation in 18th Annual CEO Investor Summit",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260928166128/en/APFC-Releases-2026-Annual-Report-What-Alaska-Built/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3b08554066022e3b",
-      "titleEn": "Samsung Commits $1 Billion to Helix Digital Infrastructure to Support Global AI Infrastructure Buildout",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260928688153/en/Samsung-Commits-1-Billion-to-Helix-Digital-Infrastructure-to-Support-Global-AI-Infrastructure-Buildout/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:82f0afbeedacb2e8",
-      "titleEn": "KBRA Assigns Preliminary Ratings to Upstart Securitization Trust 2026-4",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260928628031/en/KBRA-Assigns-Preliminary-Ratings-to-Upstart-Securitization-Trust-2026-4/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2c0ac835aa5c64ef",
-      "titleEn": "Enhanced Group Announces Proposed 1-for-10 Reverse Stock Split",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260928832141/en/Enhanced-Group-Announces-Proposed-1-for-10-Reverse-Stock-Split/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a90aee054572ee14",
-      "titleEn": "Genentech Breaks Ground on $750 Million Manufacturing Expansion in Hillsboro, Oregon",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260928061898/en/Genentech-Breaks-Ground-on-750-Million-Manufacturing-Expansion-in-Hillsboro-Oregon/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2aefb45ddd2e5d1c",
-      "titleEn": "Orion Digital Regains Compliance with Nasdaq's Minimum Bid Price Requirement",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260928084444/en/Orion-Digital-Regains-Compliance-with-Nasdaq%E2%80%99s-Minimum-Bid-Price-Requirement/",
+      "link": "https://www.businesswire.com/news/home/20260928326233/en/Alpha-and-Omega-Semiconductor-Announces-Participation-in-18th-Annual-CEO-Investor-Summit/",
       "published": null
     }
   ]
