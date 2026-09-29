@@ -1,8 +1,89 @@
 {
-  "generatedAt": "2026-09-29T16:29:13.925460Z",
+  "generatedAt": "2026-09-29T20:57:44.807769Z",
   "sourceCount": 1,
-  "count": 22,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:c9544885dc4d265c",
+      "titleEn": "Gold price likely headed lower as short-term liquidity needs trump long-term investment case – Saxo Bank's Hansen",
+      "summaryEn": "(Kitco News) – Gold ’s resilience is being severely tested as a break below $4,230, surging Treasury yields, and a stronger dollar have triggered renewed selling, with ETF demand now the only key counterweight, according to Ole Hansen, head of commodity strategy at Saxo Bank. In his latest precious metals analysis, Hansen said that Gold’s early-week price action suggests the yellow metal is facing an increasingly severe test of its ability to sustain investment demand in the face of sky-high bond yields. “The weakness reflects a combination of surging bond yields, a stronger dollar and technical selling following the support break, potentially amplified by profit taking from Chinese investors ahead of the Golden Week holiday,” he wrote. “The pressure from rates is becoming increasingly difficult to ignore. US 10-year real yields have climbed to an 18-year high near 2.85%, while short-term interest-rate markets are now pricing another three 25-basis-point Fed hikes by next April.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-29/gold-price-likely-headed-lower-short-term-liquidity-needs-trump-long-term",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:80e57504146c8edc",
+      "titleEn": "Natixis sees gold price falling to $4,100 by year-end, but three scenarios remain in play",
+      "summaryEn": "(Kitco News) - Gold prices could remain under pressure through the end of the year as rising oil prices, persistent inflation and higher interest rates take their toll on the precious metal, but Natixis believes the outlook could diverge dramatically depending on how the conflict surrounding the Strait of Hormuz evolves. In its latest gold report, Bernard Dahdah, Precious Metals Analyst at Natixis, laid out three scenarios for the precious metal, ranging from a drop to $3,500 an ounce in a bearish environment to a rally above $5,250 if inflation falls sharply enough to force the Federal Reserve to pivot. The French bank’s latest comments represent a significant shift from late August, when Dahdah raised his year-end gold price target to $5,000 an ounce as concerns surrounding U.S. debt and instability in the bond market provided strong support for the precious metal. At the time, he said concerns about fiscal sustainability and currency debasement were helping gold overcome elevated opportunity costs.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-29/natixis-sees-gold-price-falling-4100-year-end-three-scenarios-remain-play",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4079b9e079176f44",
+      "titleEn": "Telus stock is getting highly oversold: will it rebound or crash further?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/29/telus-stock-is-getting-highly-oversold-will-it-rebound-or-crash-further/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9f3e5dce7317422d",
+      "titleEn": "Why is Apple stock falling 2% today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/29/why-is-apple-stock-falling-2-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e0fb6694d5a2514d",
+      "titleEn": "OpenAI seeks $30B funding at $1.4T valuation as IPO plans slip: report",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/29/openai-seeks-30b-funding-at-1-4t-valuation-as-ipo-plans-slip-report/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f2270b8bda56f4ee",
+      "titleEn": "Nvidia stock sends mixed signals as tailwinds meet headwinds",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/29/nvidia-stock-sends-mixed-signals-as-tailwinds-meet-headwinds/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:181d80c7401b1b10",
+      "titleEn": "Oracle stock is gaining and it has OpenAI to thank for",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/29/oracle-stock-is-gaining-and-it-has-openai-to-thank-for/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2d56280090fd1cda",
+      "titleEn": "CoreWeave and Nebius stocks in a bear market as AI bubble risk persists",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/29/coreweave-and-nebius-stocks-in-a-bear-market-as-ai-bubble-risk-persists/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f6c7ff50810ca7af",
+      "titleEn": "OpenAI's revenue run rate nears $70B as enterprise sales double",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/29/openais-revenue-run-rate-nears-70b-as-enterprise-sales-double/",
+      "published": null
+    },
     {
       "id": "stockanalysis:b19c6b98729adfc3",
       "titleEn": "Calm stock markets today could help gold price hold support despite surging bond yields – MarketVector's Yang",
@@ -31,174 +112,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:39ee3282ea183c6e",
-      "titleEn": "Carnival's debt wall sprint: can record profits beat higher rates?",
+      "id": "stockanalysis:7cf78163c15b2a96",
+      "titleEn": "Granite Joint Venture Awarded Guam Defense System Forward Operating Sites Task Order",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/29/carnivals-debt-wall-sprint-can-record-profits-beat-higher-rates/",
+      "link": "https://www.businesswire.com/news/home/20260929615118/en/Granite-Joint-Venture-Awarded-Guam-Defense-System-Forward-Operating-Sites-Task-Order/",
       "published": null
     },
     {
-      "id": "stockanalysis:500eebda14cdd8f4",
-      "titleEn": "What's driving Navitas Semiconductor stock higher and is there more to come?",
+      "id": "stockanalysis:23d0ccb056d91eb1",
+      "titleEn": "CION Investment Corporation Announces the Repayment of Certain Outstanding Debt and the Closing of a Strategic Joint Venture Transaction",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/29/whats-driving-navitas-semiconductor-stock-higher-and-is-there-more-to-come/",
+      "link": "https://www.businesswire.com/news/home/20260929272890/en/CION-Investment-Corporation-Announces-the-Repayment-of-Certain-Outstanding-Debt-and-the-Closing-of-a-Strategic-Joint-Venture-Transaction/",
       "published": null
     },
     {
-      "id": "stockanalysis:86a1baf164e6fcf1",
-      "titleEn": "Why are Micron, SK Hynix, and SanDisk stocks gaining on Tuesday?",
+      "id": "stockanalysis:e7b4ce5ea299fc0f",
+      "titleEn": "Curtiss-Wright to Announce Third Quarter 2026 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/29/why-are-micron-sk-hynix-and-sandisk-stocks-gaining-on-tuesday/",
+      "link": "https://www.businesswire.com/news/home/20260929098940/en/Curtiss-Wright-to-Announce-Third-Quarter-2026-Financial-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:e1ad42b8d8faa768",
-      "titleEn": "AMD buys firm founded by AI 'godmother' Fei-Fei Li",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Chipmaker Advanced Micro Devices announced Monday that it has acquired World Labs, an artificial intelligence company founded by Fei-Fei Li, one of the field's most prominent researchers and sometimes referred to as \"The Godmother of AI.\" The deal is valued at approximately $8.2 billion and will make Li, a Stanford computer science professor, chief scientist at AMD.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-09-amd-buys-firm-founded-ai.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:593ed66f59278cd0",
-      "titleEn": "AMD stock rises as analysts back $8.2B World Labs AI deal",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/29/amd-stock-rises-as-analysts-back-8-2b-world-labs-ai-deal/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3b77156de2e40eb3",
-      "titleEn": "PepsiCo stock slips after second downgrade as North America business struggles",
+      "id": "stockanalysis:8d88e8c3390b6de1",
+      "titleEn": "HCA Healthcare Presents 2026 Awards of Distinction",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/29/pepsico-stock-slips-after-second-downgrade-as-north-america-business-struggles/",
+      "link": "https://www.businesswire.com/news/home/20260929035804/en/HCA-Healthcare-Presents-2026-Awards-of-Distinction/",
       "published": null
     },
     {
-      "id": "stockanalysis:a745ae6bf4f76ea1",
-      "titleEn": "Gold price shoots to session high $4,171/oz after Consumer Confidence drops to 81.9",
-      "summaryEn": "(Kitco News) - Gold prices are trading at session highs after the latest data painted a worsening picture of U.S. consumer sentiment this month. The Consumer Confidence Index fell to 81.9 in September, below economists’ consensus forecast for a 89.2 reading and also below the downwardly revised 88.6 print from August, the Conference Board announced on Tuesday. The Present Situation Index—based on consumers&#x27; assessment of current business and labor market conditions—retreated by 7.9 points to 109.3, the report said. The Expectations Index—based on consumers&#x27; short-term outlook for income, business, and labor market conditions—fell by 5.9 points to 63.6, its third consecutive monthly decline. The survey period was September 1-23, which included the Fed rate hike and ongoing geopolitical tensions.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-29/gold-price-shoots-session-high-4171oz-after-consumer-confidence-drops-819",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fd8d67919b18a75f",
-      "titleEn": "Gold prices catching a bid as JOLTS Job openings fall to 7.08 million",
-      "summaryEn": "(Kitco News) - The gold market appears to be attracting some bullish attention as the U.S. labor market shows further signs of cooling, with the number of available jobs falling to its lowest level since May. August job openings—a measure of labor demand—fell to 7.08 million, down from July’s upwardly revised figure of 7.34 million, according to the Labor Department’s monthly Job Openings and Labor Turnover Survey (JOLTS). The figure also came in weaker than expected, as economists had forecast job openings to decline to 7.23 million. The gold market caught a modest bid in its initial reaction to the disappointing labor market data. Spot gold last traded at $4,166.10 an ounce, up more than 1% on the day.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-29/gold-prices-catching-bid-jolts-job-openings-fall-708-million",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0ab6be2e0ae9b4ec",
-      "titleEn": "AMC stock forecast as it crosses key resistance amid two key tailwinds",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/29/amc-stock-forecast-as-it-crosses-key-resistance-amid-two-key-tailwinds/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7fe83e48f95fa248",
-      "titleEn": "Fair Isaac stock flashes death cross pattern, loses key support as headwinds mount",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/29/fair-isaac-stock-flashes-death-cross-pattern-loses-key-support-as-headwinds-mount/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:07bd1dd49c6dac37",
-      "titleEn": "Reddit stock H&amp;S pattern points to a drop to $100 as headwinds rise",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/29/reddit-stock-hs-pattern-points-to-a-drop-to-100-as-headwinds-rise/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:27e36668f5848091",
-      "titleEn": "Gold holds above $4,150 as traders await JOLTS, PCE and payrolls - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were higher in early U.S. trading Tuesday, as both metals stabilized after Monday’s steep selloff while elevated oil prices, Treasury yields and Fed rate-hike expectations continued to cap the rebound. At the time of writing, spot gold was trading near $4,157.80 an ounce, up 1.06% on the session, while spot silver was trading near $60.770, up 0.40%. Market positioning remains tight around the U.S. rates path after Monday’s bond selloff pushed benchmark yields back to pre-financial-crisis levels. Traders are pricing roughly a 70% chance of another Fed rate increase in October, while the 10-year Treasury yield is trading near the 5.25% area and the U.S. dollar index is holding near a two-month high. Tuesday’s August JOLTS job openings report at 10:00 a.m. ET is the first labor-market test of the week, followed by August personal income and PCE inflation Wednesday at 8:30 a.m. ET, ISM manufacturing Thursday at 10:00 a.m. ET and the September employment report Friday at 8:30 a.m. ET. Stronger labor or inflation data would keep the rates channel pointed against gold, while softer prints would test whether Monday’s break below $4,200 has already priced enough tightening risk. The Strait of Hormuz and U.S.-Iran situation remains the main geopolitical input into oil, inflation and the gold trade. Crude prices rose for a second session as lingering supply-disruption risk outweighed evidence that Middle East exports are recovering through workarounds, including ship-to-ship transfers and increased Saudi and UAE shipments. Brent crude traded near $106.77 a barrel and WTI near $93.94 in early trade, with regional exports rising to 12.8 million barrels per day in September but still facing higher logistics costs and uncertainty around the strait. The transmission to bullion is still split: war risk supports safe-haven demand, but oil-led inflation risk is lifting yields and Fed expectations, raising the opportunity cost of holding non-yielding metals.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-29/gold-holds-above-4150-traders-await-jolts-pce-and-payrolls-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f5e9b74a27f539d4",
-      "titleEn": "Figma stock sits near a critical support zone as growth stays strong",
+      "id": "stockanalysis:79be30e8bae69d07",
+      "titleEn": "Aris Mining Congratulates Neil Woodyer on Selection for the Canadian Mining Hall of Fame",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/09/29/figma-stock-sits-near-a-critical-support-zone-as-growth-stays-strong/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d7e9bb6ec3d67b22",
-      "titleEn": "Summit Therapeutics jumps 20% after AstraZeneca's $2 billion bet: what it signals",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/29/summit-therapeutics-jumps-20-after-astrazenecas-2-billion-bet-what-it-signals/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4c30414eba2e787e",
-      "titleEn": "Flexport Launches Technology to Let AI Agents Book, Track, and Optimize Global Freight",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260929736177/en/Flexport-Launches-Technology-to-Let-AI-Agents-Book-Track-and-Optimize-Global-Freight/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5ce2bc69eb0dfa5e",
-      "titleEn": "FBN and Google AI Futures Fund Partner to Accelerate AI for Agriculture",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260929450896/en/FBN-and-Google-AI-Futures-Fund-Partner-to-Accelerate-AI-for-Agriculture/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:16ab4738c3d45cab",
-      "titleEn": "ERI Becomes Strategic Investor in Cyclic Materials",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260929588988/en/ERI-Becomes-Strategic-Investor-in-Cyclic-Materials/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7e4a469311cea9db",
-      "titleEn": "Eurofins Scientific: Director/PDMR Shareholding",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260929907632/en/Eurofins-Scientific-DirectorPDMR-Shareholding/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d22df80a62065e47",
-      "titleEn": "CDB Aviation Delivers First of Four Boeing 737-8 Aircraft to Norwegian",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260924529941/en/CDB-Aviation-Delivers-First-of-Four-Boeing-737-8-Aircraft-to-Norwegian/",
+      "link": "https://www.businesswire.com/news/home/20260929029809/en/Aris-Mining-Congratulates-Neil-Woodyer-on-Selection-for-the-Canadian-Mining-Hall-of-Fame/",
       "published": null
     }
   ]
