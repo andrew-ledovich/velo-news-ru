@@ -1,33 +1,159 @@
 {
-  "generatedAt": "2026-09-30T11:15:40.761110Z",
+  "generatedAt": "2026-09-30T16:52:38.571589Z",
   "sourceCount": 1,
-  "count": 3,
+  "count": 17,
   "items": [
     {
-      "id": "stockanalysis:f73120456340c890",
-      "titleEn": "BMW share price has crashed this year: is a bargain or a value trap?",
+      "id": "stockanalysis:8878610cc5baa291",
+      "titleEn": "Why is Meta stock down on Wednesday?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/30/bmw-share-price-has-crashed-this-year-is-a-bargain-or-a-value-trap/",
+      "link": "https://invezz.com/news/2026/09/30/why-is-meta-stock-down-on-wednesday/",
       "published": null
     },
     {
-      "id": "stockanalysis:d74685427e0613b3",
-      "titleEn": "Why Citi thinks SpaceX stock could hit a $12 trillion valuation one day",
+      "id": "stockanalysis:58086dba09a68f73",
+      "titleEn": "Nike stock seen sinking further after Q1 earnings: find out more",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/30/why-citi-thinks-spacex-stock-could-hit-a-12-trillion-valuation-one-day/",
+      "link": "https://invezz.com/news/2026/09/30/nike-stock-seen-sinking-further-after-q1-earnings-find-out-more/",
       "published": null
     },
     {
-      "id": "stockanalysis:ecf7acf6ab4cf4d7",
-      "titleEn": "Greggs' shares jump 6% on improved sales and outlook",
+      "id": "stockanalysis:a851a068443c5e11",
+      "titleEn": "Why is HPE stock gaining today?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/30/greggs-shares-jump-6-on-improved-sales-and-outlook/",
+      "link": "https://invezz.com/news/2026/09/30/why-is-hpe-stock-gaining-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ef70db191523e14b",
+      "titleEn": "Why is Nvidia stock rising on Wednesday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/30/why-is-nvidia-stock-rising-on-wednesday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:32142549be297cc3",
+      "titleEn": "Robinhood commits to giving traders an edge with 2 new features",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/30/robinhood-commits-to-giving-traders-an-edge-with-2-new-features/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:463602af0e4b2f17",
+      "titleEn": "Why is Microsoft stock up 2% on Wednesday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/30/why-is-microsoft-stock-up-2-on-wednesday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:823e21d1a4cebba6",
+      "titleEn": "SanDisk stock forms a highly bullish pattern: here's why it may surge soon",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/30/sandisk-stock-forms-a-highly-bullish-pattern-heres-why-it-may-surge-soon/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6e97d2243e66472d",
+      "titleEn": "Micron to announce Q4 results today: what to expect",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/30/micron-to-announce-q4-results-today-what-to-expect/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:105dc2f33029f6cf",
+      "titleEn": "Here's why Astera Labs stock may jump by 40% and hit an all-time high",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/30/heres-why-astera-labs-stock-may-jump-by-40-and-hit-an-all-time-high/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:39e89d7c73efb554",
+      "titleEn": "AI revenue seen hitting $6T: 3 under-the-radar stocks to buy",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/09/30/ai-revenue-seen-hitting-6t-3-under-the-radar-stocks-to-buy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3d55a2f951dc7156",
+      "titleEn": "Gold rises as softer PCE cools October Fed hike odds - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold prices were firmer and spot silver prices were modestly lower in early U.S. trading Wednesday, as softer U.S. inflation data eased immediate Fed tightening pressure while elevated Treasury yields and a still-firm dollar kept the rebound contained. At the time of writing, spot gold was trading near $4,211.70 an ounce, up 0.73% on the session, while spot silver was trading near $61.070, down 0.45%. Market positioning shifted less hawkish after the August PCE inflation report came in below expectations , with headline PCE up 0.3% on the month and 3.4% from a year earlier, while core PCE rose 0.2% on the month and 3.0% year over year. Personal income rose 0.2%, disposable income rose 0.3% and consumer spending increased 0.9%, showing that inflation cooled even as demand remained firm. ADP private payrolls rose by 90,000 in September, above expectations and up from a revised 36,000 in August , keeping Friday’s nonfarm payrolls report at 8:30 a.m. ET as the next major rate-path test. The implied probability of an October Fed hike fell toward the low-40% area before the inflation print, down from about 70% earlier in the week, while the 10-year Treasury yield held near the 5.2% area. Softer inflation supports gold through lower rate expectations, but resilient spending and firmer private payrolls limit the relief. The Strait of Hormuz and U.S.-Iran situation remains unresolved, but the immediate oil-market pressure has eased as Gulf exports recover. Middle Eastern oil shipments have rebounded to their highest level since the Iran war began, with Gulf producers using shuttle services, ship-to-ship transfers and Saudi Arabia’s East-West Pipeline to move barrels around the blockade. WTI crude traded near $90.42 a barrel and Brent crude near $97.49, still high enough to keep energy inflation inside the Fed reaction function but below the peaks that triggered Monday’s metals selloff. The market impact on gold remains split: lower crude reduces the inflation impulse behind yields and the dollar, while unresolved talks and continued shipping risk keep a defensive bid under bullion.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-30/gold-rises-softer-pce-cools-october-fed-hike-odds-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:71cb9e025f8d24f9",
+      "titleEn": "Gold price rockets to session highs as US economy rises 2.2% in Q2, PCE inflation rises 0.2% in August",
+      "summaryEn": "(Kitco News) – Better-than-expected inflation and growth data are helping to drive renewed interest in gold on Wednesday morning. The U.S. Bureau of Economic Analysis (BEA) announced on Wednesday that the final reading of second-quarter Gross Domestic Product (GDP) showed that the economy expanded by 2.2%, up from the preliminary reading of 1.5% and also above the first-quarter growth of 2.1%. The data was better than expected, as economists&#x27; consensus forecast was for a reading of 1.5%.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-09-30/gold-price-rockets-session-highs-us-economy-rises-22-q2-pce-inflation-rises",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ac45ad988b575739",
+      "titleEn": "AppLovin stock forms an island reversal, bullish divergence: what next?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/30/applovin-stock-forms-an-island-reversal-bullish-divergence-what-next/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:891f69251e7a2c76",
+      "titleEn": "Accenture stock recoils as options market predicts big swings after earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/30/accenture-stock-recoils-as-options-market-predicts-big-swings-after-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:45febcbb4cedd74c",
+      "titleEn": "CORRECTING and REPLACING BIOQUAL Presents Financial Results for Fiscal Year 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260922682992/en/CORRECTING-and-REPLACING-BIOQUAL-Presents-Financial-Results-for-Fiscal-Year-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6990634e1c9beb6e",
+      "titleEn": "Fujifilm Expands Consumer Photo Printing Capabilities with the Introduction of “Fujifilm for Google Photos Print Store”",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260930697307/en/Fujifilm-Expands-Consumer-Photo-Printing-Capabilities-with-the-Introduction-of-%E2%80%9CFujifilm-for-Google-Photos-Print-Store%E2%80%9D/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:77b554c6f4a2c645",
+      "titleEn": "Lucky Strike and Mr. Flower Fantastic Launch “Fantastic Lanes” at Lucky Strike at L.A.",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260930666754/en/Lucky-Strike-and-Mr.-Flower-Fantastic-Launch-%E2%80%9CFantastic-Lanes%E2%80%9D-at-Lucky-Strike-at-L.A.-LIVE-Giving-Bowling-Its-Flowers/",
       "published": null
     }
   ]
