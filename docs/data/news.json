@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-29T20:57:44.807769Z",
+  "generatedAt": "2026-09-30T00:02:12.388153Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:4b8079208c7c577c",
+      "titleEn": "Gold, silver rebound as soft data cools October Fed hike bets - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold prices were firmer and spot silver prices were also higher in late U.S. trading Tuesday, as softer U.S. labor-market and consumer-confidence data helped bullion recover from Monday’s selloff, even as long-dated Treasury yields remained near multi-decade highs. At the time of writing, spot gold was trading near $4,172.40 an ounce, up 1.42% on the session, while spot silver was trading near $61.270, up 1.23%. North American equities closed modestly lower as rising long-term yields offset support from softer data and lower oil prices. The S&P 500 fell 12.85 points, or 0.2%, to 7,670.84. The Dow Jones Industrial Average lost 131.59 points, or 0.3%, to 51,349.92. The Nasdaq Composite slipped 22.84 points, or 0.1%, to 26,797.54, while the Russell 2000 fell 9.99 points, or 0.4%, to 2,807.92. European equities closed mixed as crude oil, bond yields and sector rotation kept risk appetite uneven. The Stoxx Europe 600 rose 0.3% to 640.28. Germany’s DAX gained 0.10% to 25,399.21, while Italy’s FTSE MIB edged up 0.09%. France’s CAC 40 fell 0.53% to 8,035.87, and the U.K. FTSE 100 declined 0.45% to 10,636.71.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-29/gold-silver-rebound-soft-data-cools-october-fed-hike-bets-kitco-pm-report",
+      "published": null
+    },
     {
       "id": "stockanalysis:c9544885dc4d265c",
       "titleEn": "Gold price likely headed lower as short-term liquidity needs trump long-term investment case – Saxo Bank's Hansen",
@@ -49,6 +58,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:37cfc8e0ae2831f9",
+      "titleEn": "Brookfield stock freefall continues: is it safe to buy the dip or sell the dip?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/09/29/brookfield-stock-freefall-continues-is-it-safe-to-buy-the-dip-or-sell-the-dip/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:f2270b8bda56f4ee",
       "titleEn": "Nvidia stock sends mixed signals as tailwinds meet headwinds",
       "summaryEn": null,
@@ -67,93 +85,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:2d56280090fd1cda",
-      "titleEn": "CoreWeave and Nebius stocks in a bear market as AI bubble risk persists",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/29/coreweave-and-nebius-stocks-in-a-bear-market-as-ai-bubble-risk-persists/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f6c7ff50810ca7af",
-      "titleEn": "OpenAI's revenue run rate nears $70B as enterprise sales double",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/29/openais-revenue-run-rate-nears-70b-as-enterprise-sales-double/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b19c6b98729adfc3",
-      "titleEn": "Calm stock markets today could help gold price hold support despite surging bond yields – MarketVector's Yang",
-      "summaryEn": "(Kitco News) - Gold prices are struggling as persistent inflation pressures drive bond yields higher and force investors to continue to price in a more aggressive Federal Reserve; however, unusually calm equity markets could be providing an important source of support for the precious metal. In an interview with Kitco News, Joy Yang, Global Head of Index Product Management at MarketVector Indexes, said that despite the recent selling pressure, the gold market remains fairly resilient. “I think this resistance from gold kind of reflects also the low volatility in the equity markets,” Yang said, noting that the VIX had recently been around 15 even as bond yields surged. “On the surface, it feels like equity investors are a bit complacent and the bond vigilantes are going at it.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-29/calm-stock-markets-today-could-help-gold-price-hold-support-despite-surging",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ae39d43b4700da5a",
-      "titleEn": "Bloom Energy stock is poised for recovery, RBC analyst says",
+      "id": "stockanalysis:c563d54277d9a8a3",
+      "titleEn": "KKR Sells CTT's Japan and Korea Businesses to Institutional Investors",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/29/bloom-energy-stock-is-poised-for-recovery-rbc-analyst-says/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a4c04fe29fef4a9a",
-      "titleEn": "Why is SpaceX stock up around 2% today?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/29/why-is-spacex-stock-up-around-2-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7cf78163c15b2a96",
-      "titleEn": "Granite Joint Venture Awarded Guam Defense System Forward Operating Sites Task Order",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260929615118/en/Granite-Joint-Venture-Awarded-Guam-Defense-System-Forward-Operating-Sites-Task-Order/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:23d0ccb056d91eb1",
-      "titleEn": "CION Investment Corporation Announces the Repayment of Certain Outstanding Debt and the Closing of a Strategic Joint Venture Transaction",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260929272890/en/CION-Investment-Corporation-Announces-the-Repayment-of-Certain-Outstanding-Debt-and-the-Closing-of-a-Strategic-Joint-Venture-Transaction/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e7b4ce5ea299fc0f",
-      "titleEn": "Curtiss-Wright to Announce Third Quarter 2026 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260929098940/en/Curtiss-Wright-to-Announce-Third-Quarter-2026-Financial-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8d88e8c3390b6de1",
-      "titleEn": "HCA Healthcare Presents 2026 Awards of Distinction",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260929035804/en/HCA-Healthcare-Presents-2026-Awards-of-Distinction/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:79be30e8bae69d07",
-      "titleEn": "Aris Mining Congratulates Neil Woodyer on Selection for the Canadian Mining Hall of Fame",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20260929029809/en/Aris-Mining-Congratulates-Neil-Woodyer-on-Selection-for-the-Canadian-Mining-Hall-of-Fame/",
+      "link": "https://www.businesswire.com/news/home/20260929026471/en/KKR-Sells-CTTs-Japan-and-Korea-Businesses-to-Institutional-Investors/",
       "published": null
     }
   ]
