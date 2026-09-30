@@ -1,159 +1,33 @@
 {
-  "generatedAt": "2026-09-30T05:26:45.325822Z",
+  "generatedAt": "2026-09-30T11:15:40.761110Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 3,
   "items": [
     {
-      "id": "stockanalysis:4b8079208c7c577c",
-      "titleEn": "Gold, silver rebound as soft data cools October Fed hike bets - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold prices were firmer and spot silver prices were also higher in late U.S. trading Tuesday, as softer U.S. labor-market and consumer-confidence data helped bullion recover from Monday’s selloff, even as long-dated Treasury yields remained near multi-decade highs. At the time of writing, spot gold was trading near $4,172.40 an ounce, up 1.42% on the session, while spot silver was trading near $61.270, up 1.23%. North American equities closed modestly lower as rising long-term yields offset support from softer data and lower oil prices. The S&P 500 fell 12.85 points, or 0.2%, to 7,670.84. The Dow Jones Industrial Average lost 131.59 points, or 0.3%, to 51,349.92. The Nasdaq Composite slipped 22.84 points, or 0.1%, to 26,797.54, while the Russell 2000 fell 9.99 points, or 0.4%, to 2,807.92. European equities closed mixed as crude oil, bond yields and sector rotation kept risk appetite uneven. The Stoxx Europe 600 rose 0.3% to 640.28. Germany’s DAX gained 0.10% to 25,399.21, while Italy’s FTSE MIB edged up 0.09%. France’s CAC 40 fell 0.53% to 8,035.87, and the U.K. FTSE 100 declined 0.45% to 10,636.71.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-29/gold-silver-rebound-soft-data-cools-october-fed-hike-bets-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c9544885dc4d265c",
-      "titleEn": "Gold price likely headed lower as short-term liquidity needs trump long-term investment case – Saxo Bank's Hansen",
-      "summaryEn": "(Kitco News) – Gold ’s resilience is being severely tested as a break below $4,230, surging Treasury yields, and a stronger dollar have triggered renewed selling, with ETF demand now the only key counterweight, according to Ole Hansen, head of commodity strategy at Saxo Bank. In his latest precious metals analysis, Hansen said that Gold’s early-week price action suggests the yellow metal is facing an increasingly severe test of its ability to sustain investment demand in the face of sky-high bond yields. “The weakness reflects a combination of surging bond yields, a stronger dollar and technical selling following the support break, potentially amplified by profit taking from Chinese investors ahead of the Golden Week holiday,” he wrote. “The pressure from rates is becoming increasingly difficult to ignore. US 10-year real yields have climbed to an 18-year high near 2.85%, while short-term interest-rate markets are now pricing another three 25-basis-point Fed hikes by next April.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-29/gold-price-likely-headed-lower-short-term-liquidity-needs-trump-long-term",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:80e57504146c8edc",
-      "titleEn": "Natixis sees gold price falling to $4,100 by year-end, but three scenarios remain in play",
-      "summaryEn": "(Kitco News) - Gold prices could remain under pressure through the end of the year as rising oil prices, persistent inflation and higher interest rates take their toll on the precious metal, but Natixis believes the outlook could diverge dramatically depending on how the conflict surrounding the Strait of Hormuz evolves. In its latest gold report, Bernard Dahdah, Precious Metals Analyst at Natixis, laid out three scenarios for the precious metal, ranging from a drop to $3,500 an ounce in a bearish environment to a rally above $5,250 if inflation falls sharply enough to force the Federal Reserve to pivot. The French bank’s latest comments represent a significant shift from late August, when Dahdah raised his year-end gold price target to $5,000 an ounce as concerns surrounding U.S. debt and instability in the bond market provided strong support for the precious metal. At the time, he said concerns about fiscal sustainability and currency debasement were helping gold overcome elevated opportunity costs.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-29/natixis-sees-gold-price-falling-4100-year-end-three-scenarios-remain-play",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4079b9e079176f44",
-      "titleEn": "Telus stock is getting highly oversold: will it rebound or crash further?",
+      "id": "stockanalysis:f73120456340c890",
+      "titleEn": "BMW share price has crashed this year: is a bargain or a value trap?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/29/telus-stock-is-getting-highly-oversold-will-it-rebound-or-crash-further/",
+      "link": "https://invezz.com/news/2026/09/30/bmw-share-price-has-crashed-this-year-is-a-bargain-or-a-value-trap/",
       "published": null
     },
     {
-      "id": "stockanalysis:9f3e5dce7317422d",
-      "titleEn": "Why is Apple stock falling 2% today?",
+      "id": "stockanalysis:d74685427e0613b3",
+      "titleEn": "Why Citi thinks SpaceX stock could hit a $12 trillion valuation one day",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/29/why-is-apple-stock-falling-2-today/",
+      "link": "https://invezz.com/news/2026/09/30/why-citi-thinks-spacex-stock-could-hit-a-12-trillion-valuation-one-day/",
       "published": null
     },
     {
-      "id": "stockanalysis:e0fb6694d5a2514d",
-      "titleEn": "OpenAI seeks $30B funding at $1.4T valuation as IPO plans slip: report",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/29/openai-seeks-30b-funding-at-1-4t-valuation-as-ipo-plans-slip-report/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:37cfc8e0ae2831f9",
-      "titleEn": "Brookfield stock freefall continues: is it safe to buy the dip or sell the dip?",
+      "id": "stockanalysis:ecf7acf6ab4cf4d7",
+      "titleEn": "Greggs' shares jump 6% on improved sales and outlook",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/29/brookfield-stock-freefall-continues-is-it-safe-to-buy-the-dip-or-sell-the-dip/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:574c2d6fc6457a8c",
-      "titleEn": "VDURA Data Platform V12 Now Generally Available, the Hyperscaler Storage Playbook to AI Factories and Neoclouds on Supermicro",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260929871224/en/VDURA-Data-Platform-V12-Now-Generally-Available-the-Hyperscaler-Storage-Playbook-to-AI-Factories-and-Neoclouds-on-Supermicro/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d463837af402c793",
-      "titleEn": "Genentech's Fenebrutinib Is the First BTK Inhibitor to Receive U.S. FDA Filing Acceptance in Both Relapsing and Primary Progressive Multiple Sclerosis",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260929184778/en/Genentech%E2%80%99s-Fenebrutinib-Is-the-First-BTK-Inhibitor-to-Receive-U.S.-FDA-Filing-Acceptance-in-Both-Relapsing-and-Primary-Progressive-Multiple-Sclerosis/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bad11560ccab56f1",
-      "titleEn": "Zasocitinib Delivered Superior Efficacy Versus Deucravacitinib in New Phase 3 Head-to-Head Results, Reinforcing Potential to Deliver Rapid and Durable Skin Clearance in a Convenient Once-Daily Pill",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260929022019/en/Zasocitinib-Delivered-Superior-Efficacy-Versus-Deucravacitinib-in-New-Phase-3-Head-to-Head-Results-Reinforcing-Potential-to-Deliver-Rapid-and-Durable-Skin-Clearance-in-a-Convenient-Once-Daily-Pill/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:036a558a05527151",
-      "titleEn": "EADV 2026: Galderma's New Data Show Sustained Improvements with Nemluvio® (nemolizumab) for up to Three Years in Patients With Moderate-to-severe Atopic Dermatitis",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260929663019/en/EADV-2026-Galderma%E2%80%99s-New-Data-Show-Sustained-Improvements-with-Nemluvio%C2%AE-nemolizumab-for-up-to-Three-Years-in-Patients-With-Moderate-to-severe-Atopic-Dermatitis/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7c29513e806d9f69",
-      "titleEn": "Almirall Advances Skin Science and Shares New Evidence Across Its Dermatology Portfolio at EADV 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260929500868/en/Almirall-Advances-Skin-Science-and-Shares-New-Evidence-Across-Its-Dermatology-Portfolio-at-EADV-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c3bd52421529f42f",
-      "titleEn": "Ant International's Antom Supports Google Gemini in Expanding Access to AI Service in Asia",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260929520038/en/Ant-International%E2%80%99s-Antom-Supports-Google-Gemini-in-Expanding-Access-to-AI-Service-in-Asia/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8997985080887e4b",
-      "titleEn": "e.l.f. Cosmetics Conjures Up “The e.l.f.ing Magical Sisters” a Spooky Season Campaign Highlighting Soft Glam Cream Blush &amp; Bronzer Sticks",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260929037511/en/e.l.f.-Cosmetics-Conjures-Up-%E2%80%9CThe-e.l.f.ing-Magical-Sisters%E2%80%9D-a-Spooky-Season-Campaign-Highlighting-Soft-Glam-Cream-Blush-Bronzer-Sticks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2740988c62f8b9ea",
-      "titleEn": "PRIMERICA HOUSEHOLD BUDGET INDEX™ (HBI™): Middle-Income Americans See Modest Improvement in Purchasing Power in August",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260929639297/en/PRIMERICA-HOUSEHOLD-BUDGET-INDEX%E2%84%A2-HBI%E2%84%A2-Middle-Income-Americans-See-Modest-Improvement-in-Purchasing-Power-in-August/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:396c1988c0c11c01",
-      "titleEn": "FPT Named in Forrester's The SAP Services Landscape Report",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260929359531/en/FPT-Named-in-Forrester%E2%80%99s-The-SAP-Services-Landscape-Report/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6f781eb7280f8178",
-      "titleEn": "SES Successfully Prices €500 million Eurobond",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260929570848/en/SES-Successfully-Prices-%E2%82%AC500-million-Eurobond/",
+      "link": "https://invezz.com/news/2026/09/30/greggs-shares-jump-6-on-improved-sales-and-outlook/",
       "published": null
     }
   ]
