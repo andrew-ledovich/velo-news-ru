@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-30T00:02:12.388153Z",
+  "generatedAt": "2026-09-30T05:26:45.325822Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 17,
   "items": [
     {
       "id": "stockanalysis:4b8079208c7c577c",
@@ -67,30 +67,93 @@
       "published": null
     },
     {
-      "id": "stockanalysis:f2270b8bda56f4ee",
-      "titleEn": "Nvidia stock sends mixed signals as tailwinds meet headwinds",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/29/nvidia-stock-sends-mixed-signals-as-tailwinds-meet-headwinds/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:181d80c7401b1b10",
-      "titleEn": "Oracle stock is gaining and it has OpenAI to thank for",
+      "id": "stockanalysis:574c2d6fc6457a8c",
+      "titleEn": "VDURA Data Platform V12 Now Generally Available, the Hyperscaler Storage Playbook to AI Factories and Neoclouds on Supermicro",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/29/oracle-stock-is-gaining-and-it-has-openai-to-thank-for/",
+      "link": "https://www.businesswire.com/news/home/20260929871224/en/VDURA-Data-Platform-V12-Now-Generally-Available-the-Hyperscaler-Storage-Playbook-to-AI-Factories-and-Neoclouds-on-Supermicro/",
       "published": null
     },
     {
-      "id": "stockanalysis:c563d54277d9a8a3",
-      "titleEn": "KKR Sells CTT's Japan and Korea Businesses to Institutional Investors",
+      "id": "stockanalysis:d463837af402c793",
+      "titleEn": "Genentech's Fenebrutinib Is the First BTK Inhibitor to Receive U.S. FDA Filing Acceptance in Both Relapsing and Primary Progressive Multiple Sclerosis",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260929026471/en/KKR-Sells-CTTs-Japan-and-Korea-Businesses-to-Institutional-Investors/",
+      "link": "https://www.businesswire.com/news/home/20260929184778/en/Genentech%E2%80%99s-Fenebrutinib-Is-the-First-BTK-Inhibitor-to-Receive-U.S.-FDA-Filing-Acceptance-in-Both-Relapsing-and-Primary-Progressive-Multiple-Sclerosis/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bad11560ccab56f1",
+      "titleEn": "Zasocitinib Delivered Superior Efficacy Versus Deucravacitinib in New Phase 3 Head-to-Head Results, Reinforcing Potential to Deliver Rapid and Durable Skin Clearance in a Convenient Once-Daily Pill",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260929022019/en/Zasocitinib-Delivered-Superior-Efficacy-Versus-Deucravacitinib-in-New-Phase-3-Head-to-Head-Results-Reinforcing-Potential-to-Deliver-Rapid-and-Durable-Skin-Clearance-in-a-Convenient-Once-Daily-Pill/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:036a558a05527151",
+      "titleEn": "EADV 2026: Galderma's New Data Show Sustained Improvements with Nemluvio® (nemolizumab) for up to Three Years in Patients With Moderate-to-severe Atopic Dermatitis",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260929663019/en/EADV-2026-Galderma%E2%80%99s-New-Data-Show-Sustained-Improvements-with-Nemluvio%C2%AE-nemolizumab-for-up-to-Three-Years-in-Patients-With-Moderate-to-severe-Atopic-Dermatitis/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7c29513e806d9f69",
+      "titleEn": "Almirall Advances Skin Science and Shares New Evidence Across Its Dermatology Portfolio at EADV 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260929500868/en/Almirall-Advances-Skin-Science-and-Shares-New-Evidence-Across-Its-Dermatology-Portfolio-at-EADV-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c3bd52421529f42f",
+      "titleEn": "Ant International's Antom Supports Google Gemini in Expanding Access to AI Service in Asia",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260929520038/en/Ant-International%E2%80%99s-Antom-Supports-Google-Gemini-in-Expanding-Access-to-AI-Service-in-Asia/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8997985080887e4b",
+      "titleEn": "e.l.f. Cosmetics Conjures Up “The e.l.f.ing Magical Sisters” a Spooky Season Campaign Highlighting Soft Glam Cream Blush &amp; Bronzer Sticks",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260929037511/en/e.l.f.-Cosmetics-Conjures-Up-%E2%80%9CThe-e.l.f.ing-Magical-Sisters%E2%80%9D-a-Spooky-Season-Campaign-Highlighting-Soft-Glam-Cream-Blush-Bronzer-Sticks/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2740988c62f8b9ea",
+      "titleEn": "PRIMERICA HOUSEHOLD BUDGET INDEX™ (HBI™): Middle-Income Americans See Modest Improvement in Purchasing Power in August",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260929639297/en/PRIMERICA-HOUSEHOLD-BUDGET-INDEX%E2%84%A2-HBI%E2%84%A2-Middle-Income-Americans-See-Modest-Improvement-in-Purchasing-Power-in-August/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:396c1988c0c11c01",
+      "titleEn": "FPT Named in Forrester's The SAP Services Landscape Report",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260929359531/en/FPT-Named-in-Forrester%E2%80%99s-The-SAP-Services-Landscape-Report/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6f781eb7280f8178",
+      "titleEn": "SES Successfully Prices €500 million Eurobond",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260929570848/en/SES-Successfully-Prices-%E2%82%AC500-million-Eurobond/",
       "published": null
     }
   ]
