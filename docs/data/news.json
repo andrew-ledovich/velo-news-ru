@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-30T21:04:40.956665Z",
+  "generatedAt": "2026-10-01T00:31:16.004952Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:01445286beb2f902",
+      "titleEn": "Metals fade as long yields offset cooler inflation, lower Fed odds - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold prices were modestly lower and spot silver prices were weaker in late U.S. trading Wednesday, as cooler U.S. inflation data lowered October Fed hike expectations but failed to stop another rise in long-dated Treasury yields. At the time of writing, spot gold was trading near $4,156.10 an ounce, down 0.60% on the session, while spot silver was trading near $60.180, down 1.90%. North American equities closed mixed to lower as technology strength was not enough to offset higher long-end yields. The S&P 500 fell 19.30 points, or 0.3%, to 7,651.54. The Dow Jones Industrial Average lost 443.87 points, or 0.9%, to 50,906.05. The Nasdaq Composite rose 63.52 points, or 0.2%, to 26,861.06, while the Russell 2000 fell 11.06 points, or 0.4%, to 2,796.86. European equities closed lower as inflation concerns, higher energy prices and elevated bond yields weighed on risk appetite. The Stoxx Europe 600 fell 0.5% to 634.89. Germany’s DAX lost 0.79% to 25,199.19, France’s CAC 40 dropped 0.89% to 7,964.51, the U.K. FTSE 100 declined 0.29% to 10,606 and Italy’s FTSE MIB shed 0.84% to 51,371.98.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-09-30/metals-fade-long-yields-offset-cooler-inflation-lower-fed-odds-kitco-pm",
+      "published": null
+    },
     {
       "id": "stockanalysis:3f360cbfaf407757",
       "titleEn": "Gold is setting up for one of its best decades as fiat currencies face mounting pressure - WisdomTree's Shah",
@@ -49,48 +58,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:f1031cb76e4ff53f",
-      "titleEn": "OpenAI's Dots challenges Meta's Muse in the race for AI agents",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/30/openais-dots-challenges-metas-muse-in-the-race-for-ai-agents/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8878610cc5baa291",
-      "titleEn": "Why is Meta stock down on Wednesday?",
+      "id": "stockanalysis:d81948cf7b4b60fb",
+      "titleEn": "Australian Public Sector Reframes Digital Modernization",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/30/why-is-meta-stock-down-on-wednesday/",
+      "link": "https://www.businesswire.com/news/home/20260930771576/en/Australian-Public-Sector-Reframes-Digital-Modernization/",
       "published": null
     },
     {
-      "id": "stockanalysis:241a5ad1071004ac",
-      "titleEn": "FTC Investigating Tech Giants Over AI's Potential Threat to Consumers",
-      "summaryEn": "OpenAI and Anthropic are reportedly facing a regulatory investigation over their tech’s safety. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The investigation by the Federal Trade Commission (FTC) focuses on the potential dangers artificial intelligence (AI) poses to consumers, a senior commission official told Reuters Wednesday (Sept. 30).",
+      "id": "stockanalysis:2c31a4275beadd57",
+      "titleEn": "OKX and BitGo Expand Off-Exchange Settlement Infrastructure to Institutions Globally",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ftc-investigating-tech-giants-over-ais-potential-threat-to-consumers/",
+      "topic": "CRYPTO",
+      "link": "https://www.businesswire.com/news/home/20260930118815/en/OKX-and-BitGo-Expand-Off-Exchange-Settlement-Infrastructure-to-Institutions-Globally/",
       "published": null
     },
     {
-      "id": "stockanalysis:58086dba09a68f73",
-      "titleEn": "Nike stock seen sinking further after Q1 earnings: find out more",
+      "id": "stockanalysis:631a275bbb9f33b0",
+      "titleEn": "Cameco Acknowledges United States and Republic of Korea Announcement of Framework for the Deployment of Nuclear Power",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/30/nike-stock-seen-sinking-further-after-q1-earnings-find-out-more/",
+      "link": "https://www.businesswire.com/news/home/20260922706989/en/Cameco-Acknowledges-United-States-and-Republic-of-Korea-Announcement-of-Framework-for-the-Deployment-of-Nuclear-Power/",
       "published": null
     },
     {
-      "id": "stockanalysis:22c4688dd8837486",
-      "titleEn": "Grindr to Acquire Freddie, Expanding Access to HIV Prevention for Millions of Users",
+      "id": "stockanalysis:3f9be1a93fc6fba7",
+      "titleEn": "Adicet Bio Reports Inducement Grant under Nasdaq Listing Rule 5635(c)(4)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260930408458/en/Grindr-to-Acquire-Freddie-Expanding-Access-to-HIV-Prevention-for-Millions-of-Users/",
+      "link": "https://www.businesswire.com/news/home/20260930867520/en/Adicet-Bio-Reports-Inducement-Grant-under-Nasdaq-Listing-Rule-5635-c-4/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7aaaa49c9d715347",
+      "titleEn": "United Therapeutics Corporation Prevails in Patent Litigation Against Liquidia",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260930122219/en/United-Therapeutics-Corporation-Prevails-in-Patent-Litigation-Against-Liquidia/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3b8c0ca6485ff8c5",
+      "titleEn": "Doors Plus Consolidates Contact Centre and Store Operations on 8x8 Platform, Slashes Communications Costs by 50%",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20260930465619/en/Doors-Plus-Consolidates-Contact-Centre-and-Store-Operations-on-8x8-Platform-Slashes-Communications-Costs-by-50/",
       "published": null
     }
   ]
