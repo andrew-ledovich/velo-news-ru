@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-10-01T19:06:24.983509Z",
+  "generatedAt": "2026-10-01T23:08:48.481604Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:42f4eecb3f636a6f",
+      "titleEn": "Gold holds firm despite elevated yields as Fed bets soften - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were firmer in late U.S. trading Thursday, as bullion found support from easing October Federal Reserve rate-hike expectations while elevated Treasury yields and a firm U.S. dollar continued to limit upside. At the time of writing, spot gold was trading near $4,159.11 an ounce, up 0.10% on the session, while spot silver was trading near $60.980, up 0.18%. North American equities finished modestly higher after another volatile session driven by sharp swings in the Treasury market. The S&P 500 rose 14.91 points, or 0.19%, to 7,666.45. The Dow Jones Industrial Average added 20.51 points, or 0.04%, to 50,926.56. The Nasdaq Composite gained 10.53 points, or 0.04%, to 26,871.60, while the Russell 2000 advanced 9.76 points, or 0.35%, to 2,806.63. Wall Street recovered from early losses after Treasury yields backed away from fresh multi-decade highs during afternoon trading. European equities closed sharply lower as another surge in global bond yields weighed on risk appetite. London&#x27;s FTSE 100 fell about 1.7%, France&#x27;s CAC 40 lost about 1.6%, Germany&#x27;s DAX declined about 1.0%, and the pan-European STOXX 600 finished around 1.0% lower as banks and rate-sensitive sectors led the decline.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-01/gold-holds-firm-despite-elevated-yields-fed-bets-soften-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ea135fc696586a18",
+      "titleEn": "Gold's selloff creates a tactical buying opportunity, but Carley Garner says she's still bearish at $4,500",
+      "summaryEn": "(Kitco News) - Gold investors battered by the latest selloff could see some relief through October, as one market strategist sees an opportunity for a tactical bullish trade even though she remains bearish on the precious metal’s longer-term outlook. In an interview with Kitco News, Carley Garner, co-founder of brokerage firm DeCarley Trading, said lower prices, technical support and favorable seasonal trends have created an attractive setup for a short-term rebound in gold. “ Do I think gold&#x27;s going to $5,000 or $5,500? No, I don&#x27;t,” she said. “But I think the next three or four hundred points is probably on the upside.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-01/golds-selloff-creates-tactical-buying-opportunity-carley-garner-says-shes",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1d08a861f0a59b55",
+      "titleEn": "DoorDash Slides Into Your DMs With Dinner",
+      "summaryEn": "DoorDash is letting third-party AI agents in, whereas Amazon is keeping them out. Third-party AI agents still bring DoorDash little volume, but its own agent knows the customer. DoorDash customers can now order dinner by sending a text. The company’s new artificial intelligence (AI) agent works inside Apple’s Messages, builds the cart and handles checkout without the DoorDash app ever opening.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/delivery/2026/doordash-slides-into-your-dms-with-dinner/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2647622023d1345f",
+      "titleEn": "Synopsys stock jumps 13% as OpenAI and AWS deals boost outlook",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/01/synopsys-stock-jumps-13-as-openai-and-aws-deals-boost-outlook/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c034b12c884df37c",
+      "titleEn": "Anthropic targets mid November IPO: report",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/01/anthropic-targets-mid-november-ipo-report/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a2302e909073781e",
+      "titleEn": "Amazon and Walmart Race to Become Merchants' Operating System",
+      "summaryEn": "AI is turning retail giants into operating systems that increasingly tell merchants what to stock, sell and promote. As AI chooses what shoppers see and buy, brands could find themselves competing to influence the machine making the recommendation. If Amazon and Walmart can influence both what merchants sell and what consumers buy, controlling the transaction may become almost secondary.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/retail/2026/amazon-and-walmart-race-to-become-merchants-operating-system/",
+      "published": null
+    },
     {
       "id": "stockanalysis:9dc2c00c6405ea56",
       "titleEn": "Risks rising that gold prices fall below $4,000 in Q4 - Bank of America",
@@ -22,6 +76,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:a2844916dfa80ca1",
+      "titleEn": "Fifth Third Debuts Innovation Banking for Startups and Growth Companies",
+      "summaryEn": "Fifth Third Bank has introduced a new offering aimed at startups and growth companies. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Fifth Third Innovation Banking, announced in a news release Thursday (Oct. 1), combines the bank’s Newline embedded banking platform with the tech and life sciences franchise from Comerica , which merged with Fifth Third earlier this year.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/fifth-third-debuts-innovation-banking-for-startups-and-growth-companies/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:796f43f74427594b",
       "titleEn": "SanDisk stock rises as Citi sees 20% upside after Micron earnings, tight NAND market",
       "summaryEn": null,
@@ -31,129 +94,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:b7ac3136e0f30406",
-      "titleEn": "What's happening with Corteva stock price today?",
+      "id": "stockanalysis:9ac7edc5b1102334",
+      "titleEn": "Merger Agreement and Other Covenants Entered Into by and Between AFYA LIMITED and YDUQS PARTICIPAÇÕES S.A.",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/01/whats-happening-with-corteva-stock-price-today/",
+      "link": "https://www.businesswire.com/news/home/20260930903000/en/Merger-Agreement-and-Other-Covenants-Entered-Into-by-and-Between-AFYA-LIMITED-and-YDUQS-PARTICIPA%C3%87%C3%95ES-S.A./",
       "published": null
     },
     {
-      "id": "stockanalysis:e96b36ba4e31a946",
-      "titleEn": "IBM stock gains and it has Accenture to thank for",
+      "id": "stockanalysis:7f582368eefbd305",
+      "titleEn": "Afya Limited and YDUQS Participações S.A. Controlling Shareholders Enter Into Voting Commitment Agreement",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/01/ibm-stock-gains-and-it-has-accenture-to-thank-for/",
+      "link": "https://www.businesswire.com/news/home/20260930022004/en/Afya-Limited-and-YDUQS-Participa%C3%A7%C3%B5es-S.A.-Controlling-Shareholders-Enter-Into-Voting-Commitment-Agreement/",
       "published": null
     },
     {
-      "id": "stockanalysis:451029d0f5ef2f70",
-      "titleEn": "Why Accenture's strong Q4 earnings aren't enough for TD Cowen",
+      "id": "stockanalysis:2f6b078efda6e83a",
+      "titleEn": "Planet Launches Suncatcher, Tanager-2, and 18 SuperDove Satellites",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/01/why-accentures-strong-q4-earnings-arent-enough-for-td-cowen/",
+      "link": "https://www.businesswire.com/news/home/20260930836177/en/Planet-Launches-Suncatcher-Tanager-2-and-18-SuperDove-Satellites/",
       "published": null
     },
     {
-      "id": "stockanalysis:9d7484c9e63c23c1",
-      "titleEn": "What's next for Robinhood stock as valuation concerns remain?",
+      "id": "stockanalysis:1835738ab8765d53",
+      "titleEn": "Sherritt Provides Update on Court Application and Confirms Shareholder Meeting for December 15, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/01/whats-next-for-robinhood-stock-as-valuation-concerns-remain/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2cc6653a99004cea",
-      "titleEn": "Why is Apple stock down on Thursday?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/01/why-is-apple-stock-down-on-thursday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cc28cd5f7113ed18",
-      "titleEn": "Top reasons why Tom Lee's BitMine stock may soar in October",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/01/top-reasons-why-tom-lees-bitmine-stock-may-soar-in-october/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:45b9a001316c0dac",
-      "titleEn": "Why SpaceX stock is beating the broader market today",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/01/why-spacex-stock-is-beating-the-broader-market-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6298a7d4255d60f9",
-      "titleEn": "Alphabet stock falls despite Gemini 4 Argon launch, Why are analysts bullish?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/01/alphabet-stock-falls-despite-gemini-4-argon-launch-why-are-analysts-bullish/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c4053a72098da3f0",
-      "titleEn": "Gold price at $4,158/oz after ISM Manufacturing PMI dips to 54.5, prices shoot higher",
-      "summaryEn": "(Kitco News) - Gold is trading not far from session lows after the latest data showed the U.S. manufacturing sector as a whole performing below expectations last month, while prices shot dramatically higher in September. The Institute for Supply Management (ISM) announced on Thursday that its Manufacturing Purchasing Managers Index fell to 54.5 in September, after posting a reading of 54.6 in August. The headline number was lower than expected, as consensus forecasts looked for a reading of 55. “In September, U.S. manufacturing activity remained in expansion territory,” said Susan Spence, Chair of the ISM Manufacturing Business Survey Committee. “Of the five subindexes that make up the PMI, only New Orders and Employment grew faster than the previous month. In September, 40 percent of the comments were positive and 60 percent negative, with a 1-to-1.6 ratio of positive to negative sentiment. Among negative comments, pricing volatility was mentioned in 46 percent, tariffs 34 percent, the Iran war 30 percent and increasing lead times 21 percent; most comments mentioned multiple factors.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-01/gold-price-4158oz-after-ism-manufacturing-pmi-dips-545-prices-shoot-higher",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cbf61e7ae6f4a0ff",
-      "titleEn": "SCHD: Here's why this dividend ETF is slumping and what next",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/01/schd-heres-why-this-dividend-etf-is-slumping-and-what-next/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4896503c29f90ae1",
-      "titleEn": "TLT ETF analysis: US Treasury yields and inflows jump",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/01/tlt-etf-analysis-us-treasury-yields-and-inflows-jump/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f13a9e14452564ba",
-      "titleEn": "Rocket Lab shares rise on contract with Synspective: why Citi sees a 50% upside",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/01/rocket-lab-shares-rise-on-contract-with-synspective-why-citi-sees-a-50-upside/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f6defe847a9e3656",
-      "titleEn": "UTA Unveils New Leadership Structure for Filmed Entertainment",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261001354153/en/UTA-Unveils-New-Leadership-Structure-for-Filmed-Entertainment/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:63f50f963e357d47",
-      "titleEn": "SCE Extends More Than $1 Billion in Compensation Offers to Community Members Impacted by the Eaton Fire",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261001836695/en/SCE-Extends-More-Than-1-Billion-in-Compensation-Offers-to-Community-Members-Impacted-by-the-Eaton-Fire/",
+      "link": "https://www.businesswire.com/news/home/20261001489602/en/Sherritt-Provides-Update-on-Court-Application-and-Confirms-Shareholder-Meeting-for-December-15-2026/",
       "published": null
     }
   ]
