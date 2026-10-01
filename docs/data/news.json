@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-10-01T06:31:23.384635Z",
+  "generatedAt": "2026-10-01T13:52:20.841384Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 7,
   "items": [
+    {
+      "id": "stockanalysis:5385e9cde3071441",
+      "titleEn": "Gold, silver rise as jobless claims temper PCE-driven Fed repricing - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were higher in early U.S. trading Thursday, as soft inflation data kept October Fed-hike expectations below earlier-week levels, while this morning’s jobless claims and elevated Treasury yields limited the relief rally. At the time of writing, spot gold was trading near $4,181.80 an ounce, up 0.62% on the session, while spot silver was trading near $61.090, up 1.33%. Market positioning remains split between lower near-term Fed-hike odds and a still-hostile long-yield backdrop. Initial jobless claims fell to 197,000 for the week, below expectations near 201,000 and down from a revised 198,000 , keeping layoffs low and preventing a clean dovish read-through from Wednesday’s softer PCE inflation print . October rate-hike pricing remains near 37%, well below roughly 70% earlier in the week, but the 10-year Treasury yield touched the 5.34% area and the 30-year yield reached the 5.68% area as energy inflation, deficit concerns and heavy debt issuance kept pressure on the long end. ISM manufacturing is due at 10:00 a.m. ET, followed by Friday’s September employment report at 8:30 a.m. ET. A firm ISM prices component or stronger payrolls would keep the yield channel pointed against gold; softer labor data would support the view that the Fed can wait despite oil-driven inflation risk. The Strait of Hormuz and U.S.-Iran situation remains unresolved and is still feeding the oil-inflation channel. Iranian officials said Wednesday they had received an official U.S. response to Tehran’s latest proposal to end the seven-month war, but there was no confirmation that the response accepted Iran’s conditions or would reopen the strait. President Donald Trump had rejected Iran’s earlier proposal to reopen Hormuz within a week if Washington met certain conditions. Brent crude was trading near $100.10 a barrel and WTI near $91.78, keeping energy prices high enough to sustain inflation concern even as Gulf flows have partly recovered. For gold, the geopolitical channel is supportive, but the dominant market impact remains negative when oil strengthens the dollar and pushes Treasury yields higher.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-01/gold-silver-rise-jobless-claims-temper-pce-driven-fed-repricing-kitco-am",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6b22c4fe6796650c",
+      "titleEn": "Gold price holding steady despite potential headwinds from a solid US labor market",
+      "summaryEn": "(Kitco News) - The gold market is holding its ground even as it faces further headwinds from a relatively healthy labor market, with the number of American workers applying for first-time unemployment benefits remaining below a key level for the third consecutive month. Initial claims for state unemployment benefits came in at a seasonally adjusted 197,000 for the week ending Sept. 26, the Labor Department announced Thursday. The number was slightly better than expectations. The previous week’s figure was revised slightly higher to 198,000 claims, compared with the previously reported 197,000. Analysts note that a stable labor market gives the Federal Reserve room to raise interest rates at next week’s monetary policy meeting. Expectations for at least one more rate hike before the end of the year are supporting U.S. 10-year yields near 5.30%, their highest level in nearly 20 years.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-01/gold-price-holding-steady-despite-potential-headwinds-solid-us-labor-market",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9e9f6c94d2319395",
+      "titleEn": "VOO and SPY: Top 3 catalysts for S&amp;P 500 ETFs in October",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/01/voo-and-spy-top-3-catalysts-for-sp-500-etfs-in-october/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7f52ecba9b14ccaa",
+      "titleEn": "Why Broadcom is lending Anthropic $42B while betting on its future spending",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/01/why-broadcom-is-lending-anthropic-42b-while-betting-on-its-future-spending/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6ec7c0743d4ba117",
+      "titleEn": "Nvidia, AMD and Intel rise on Micron earnings, so why is MU stock falling?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/01/nvidia-amd-and-intel-rise-on-micron-earnings-so-why-is-mu-stock-falling/",
+      "published": null
+    },
     {
       "id": "stockanalysis:1af8d51b8c1a33bd",
       "titleEn": "KOSPI refuses to rally despite chip strength: one big risk is still getting worse",
@@ -13,75 +58,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1b5d462978e3844f",
-      "titleEn": "Samsung, SK Hynix rise after Micron earnings but investors ignore the 24-year warning",
+      "id": "stockanalysis:8f3339acb69e9df2",
+      "titleEn": "LTC Declares Its Monthly Common Stock Cash Dividend for the Fourth Quarter of 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/01/samsung-sk-hynix-rise-after-micron-earnings-but-investors-ignore-the-24-year-warning/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5aeb2368341fc93f",
-      "titleEn": "Micron revenue quadrupled to $54 billion but the stock fell: here's why",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/01/micron-revenue-quadrupled-to-54-billion-but-the-stock-fell-heres-why/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:01445286beb2f902",
-      "titleEn": "Metals fade as long yields offset cooler inflation, lower Fed odds - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold prices were modestly lower and spot silver prices were weaker in late U.S. trading Wednesday, as cooler U.S. inflation data lowered October Fed hike expectations but failed to stop another rise in long-dated Treasury yields. At the time of writing, spot gold was trading near $4,156.10 an ounce, down 0.60% on the session, while spot silver was trading near $60.180, down 1.90%. North American equities closed mixed to lower as technology strength was not enough to offset higher long-end yields. The S&P 500 fell 19.30 points, or 0.3%, to 7,651.54. The Dow Jones Industrial Average lost 443.87 points, or 0.9%, to 50,906.05. The Nasdaq Composite rose 63.52 points, or 0.2%, to 26,861.06, while the Russell 2000 fell 11.06 points, or 0.4%, to 2,796.86. European equities closed lower as inflation concerns, higher energy prices and elevated bond yields weighed on risk appetite. The Stoxx Europe 600 fell 0.5% to 634.89. Germany’s DAX lost 0.79% to 25,199.19, France’s CAC 40 dropped 0.89% to 7,964.51, the U.K. FTSE 100 declined 0.29% to 10,606 and Italy’s FTSE MIB shed 0.84% to 51,371.98.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-30/metals-fade-long-yields-offset-cooler-inflation-lower-fed-odds-kitco-pm",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3f360cbfaf407757",
-      "titleEn": "Gold is setting up for one of its best decades as fiat currencies face mounting pressure - WisdomTree's Shah",
-      "summaryEn": "(Kitco News) - The gold market continues to struggle against rising bond yields and tighter global monetary policy, but one commodity strategist says investors may be focusing too much on the short-term headwinds and missing what could become one of the most important bullish environments for the precious metal in decades. In an interview with Kitco News, Nitesh Shah, Head of Commodities and Macroeconomic Research at WisdomTree, said that although rising interest rates, elevated bond yields and a stronger U.S. dollar remain significant near-term obstacles, the forces driving yields higher could ultimately strengthen gold’s role as an alternative monetary asset. “ Gold seems to have defied the bond market for a number of years now,” he said. Shah noted that the traditional relationship can reassert itself over shorter periods but tends to break down when yields experience larger moves.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-30/gold-setting-one-its-best-decades-fiat-currencies-face-mounting-pressure",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5b2c674a8eb060e7",
-      "titleEn": "ADS-TEC Energy Reports First Half 2026 Results; Advances Gigawatt-Scale SKM Storage Project and Strengthens its Position to Scale Own &amp; Operate Model",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260930453742/en/ADS-TEC-Energy-Reports-First-Half-2026-Results-Advances-Gigawatt-Scale-SKM-Storage-Project-and-Strengthens-its-Position-to-Scale-Own-Operate-Model/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0a2f8e609dd5ff09",
-      "titleEn": "Thales Launches Sentinel Envelope Plus to Protect Software Against AI-Assisted Reverse Engineering",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260930063281/en/Thales-Launches-Sentinel-Envelope-Plus-to-Protect-Software-Against-AI-Assisted-Reverse-Engineering/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ce88d2bfdedd3a3e",
-      "titleEn": "Thales Strengthens Data Security Posture Management to Address Emerging Risks of AI",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20260930800339/en/Thales-Strengthens-Data-Security-Posture-Management-to-Address-Emerging-Risks-of-AI/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6c80e2c2a1f36820",
-      "titleEn": "ICAPE Group: 2026 Half Year Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260930951794/en/ICAPE-Group-2026-Half-Year-Results/",
+      "link": "https://www.businesswire.com/news/home/20261001524138/en/LTC-Declares-Its-Monthly-Common-Stock-Cash-Dividend-for-the-Fourth-Quarter-of-2026/",
       "published": null
     }
   ]
