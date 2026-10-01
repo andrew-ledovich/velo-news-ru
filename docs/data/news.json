@@ -1,69 +1,159 @@
 {
-  "generatedAt": "2026-10-01T13:52:20.841384Z",
+  "generatedAt": "2026-10-01T19:06:24.983509Z",
   "sourceCount": 1,
-  "count": 7,
+  "count": 17,
   "items": [
     {
-      "id": "stockanalysis:5385e9cde3071441",
-      "titleEn": "Gold, silver rise as jobless claims temper PCE-driven Fed repricing - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were higher in early U.S. trading Thursday, as soft inflation data kept October Fed-hike expectations below earlier-week levels, while this morning’s jobless claims and elevated Treasury yields limited the relief rally. At the time of writing, spot gold was trading near $4,181.80 an ounce, up 0.62% on the session, while spot silver was trading near $61.090, up 1.33%. Market positioning remains split between lower near-term Fed-hike odds and a still-hostile long-yield backdrop. Initial jobless claims fell to 197,000 for the week, below expectations near 201,000 and down from a revised 198,000 , keeping layoffs low and preventing a clean dovish read-through from Wednesday’s softer PCE inflation print . October rate-hike pricing remains near 37%, well below roughly 70% earlier in the week, but the 10-year Treasury yield touched the 5.34% area and the 30-year yield reached the 5.68% area as energy inflation, deficit concerns and heavy debt issuance kept pressure on the long end. ISM manufacturing is due at 10:00 a.m. ET, followed by Friday’s September employment report at 8:30 a.m. ET. A firm ISM prices component or stronger payrolls would keep the yield channel pointed against gold; softer labor data would support the view that the Fed can wait despite oil-driven inflation risk. The Strait of Hormuz and U.S.-Iran situation remains unresolved and is still feeding the oil-inflation channel. Iranian officials said Wednesday they had received an official U.S. response to Tehran’s latest proposal to end the seven-month war, but there was no confirmation that the response accepted Iran’s conditions or would reopen the strait. President Donald Trump had rejected Iran’s earlier proposal to reopen Hormuz within a week if Washington met certain conditions. Brent crude was trading near $100.10 a barrel and WTI near $91.78, keeping energy prices high enough to sustain inflation concern even as Gulf flows have partly recovered. For gold, the geopolitical channel is supportive, but the dominant market impact remains negative when oil strengthens the dollar and pushes Treasury yields higher.",
+      "id": "stockanalysis:9dc2c00c6405ea56",
+      "titleEn": "Risks rising that gold prices fall below $4,000 in Q4 - Bank of America",
+      "summaryEn": "(Kitco News) - Gold prices have managed to hold their ground in the face of surging bond yields and rising interest rate expectations, but one bank expects the current headwinds will eventually prove to be too much for the precious metal. For the last two years, commodity analysts at Bank of America have been some of the most bullish in the marketplace. They were among the first to call for $5,000 an ounce; however, their bullish conviction is waning as rising energy prices continue to fuel inflation fears. In the bank’s latest precious metals outlook, analysts said they are maintaining their bullish 2027 forecast, but added that their outlook is not without risks.",
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-01/gold-silver-rise-jobless-claims-temper-pce-driven-fed-repricing-kitco-am",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-01/risks-rising-gold-prices-fall-below-4000-q4-bank-america",
       "published": null
     },
     {
-      "id": "stockanalysis:6b22c4fe6796650c",
-      "titleEn": "Gold price holding steady despite potential headwinds from a solid US labor market",
-      "summaryEn": "(Kitco News) - The gold market is holding its ground even as it faces further headwinds from a relatively healthy labor market, with the number of American workers applying for first-time unemployment benefits remaining below a key level for the third consecutive month. Initial claims for state unemployment benefits came in at a seasonally adjusted 197,000 for the week ending Sept. 26, the Labor Department announced Thursday. The number was slightly better than expectations. The previous week’s figure was revised slightly higher to 198,000 claims, compared with the previously reported 197,000. Analysts note that a stable labor market gives the Federal Reserve room to raise interest rates at next week’s monetary policy meeting. Expectations for at least one more rate hike before the end of the year are supporting U.S. 10-year yields near 5.30%, their highest level in nearly 20 years.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-01/gold-price-holding-steady-despite-potential-headwinds-solid-us-labor-market",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9e9f6c94d2319395",
-      "titleEn": "VOO and SPY: Top 3 catalysts for S&amp;P 500 ETFs in October",
+      "id": "stockanalysis:3a3bb35a7ceadfa4",
+      "titleEn": "Nvidia stock gains as Barclays sees $401B hyperscaler revenue in 2027",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/01/voo-and-spy-top-3-catalysts-for-sp-500-etfs-in-october/",
+      "link": "https://invezz.com/news/2026/10/01/nvidia-stock-gains-as-barclays-sees-401b-hyperscaler-revenue-in-2027/",
       "published": null
     },
     {
-      "id": "stockanalysis:7f52ecba9b14ccaa",
-      "titleEn": "Why Broadcom is lending Anthropic $42B while betting on its future spending",
+      "id": "stockanalysis:796f43f74427594b",
+      "titleEn": "SanDisk stock rises as Citi sees 20% upside after Micron earnings, tight NAND market",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/01/sandisk-stock-rises-as-citi-sees-20-upside-after-micron-earnings-tight-nand-market/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b7ac3136e0f30406",
+      "titleEn": "What's happening with Corteva stock price today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/01/whats-happening-with-corteva-stock-price-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e96b36ba4e31a946",
+      "titleEn": "IBM stock gains and it has Accenture to thank for",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/01/ibm-stock-gains-and-it-has-accenture-to-thank-for/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:451029d0f5ef2f70",
+      "titleEn": "Why Accenture's strong Q4 earnings aren't enough for TD Cowen",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/01/why-accentures-strong-q4-earnings-arent-enough-for-td-cowen/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9d7484c9e63c23c1",
+      "titleEn": "What's next for Robinhood stock as valuation concerns remain?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/01/whats-next-for-robinhood-stock-as-valuation-concerns-remain/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2cc6653a99004cea",
+      "titleEn": "Why is Apple stock down on Thursday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/01/why-is-apple-stock-down-on-thursday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cc28cd5f7113ed18",
+      "titleEn": "Top reasons why Tom Lee's BitMine stock may soar in October",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/01/top-reasons-why-tom-lees-bitmine-stock-may-soar-in-october/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:45b9a001316c0dac",
+      "titleEn": "Why SpaceX stock is beating the broader market today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/01/why-spacex-stock-is-beating-the-broader-market-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6298a7d4255d60f9",
+      "titleEn": "Alphabet stock falls despite Gemini 4 Argon launch, Why are analysts bullish?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/01/why-broadcom-is-lending-anthropic-42b-while-betting-on-its-future-spending/",
+      "link": "https://invezz.com/news/2026/10/01/alphabet-stock-falls-despite-gemini-4-argon-launch-why-are-analysts-bullish/",
       "published": null
     },
     {
-      "id": "stockanalysis:6ec7c0743d4ba117",
-      "titleEn": "Nvidia, AMD and Intel rise on Micron earnings, so why is MU stock falling?",
-      "summaryEn": null,
+      "id": "stockanalysis:c4053a72098da3f0",
+      "titleEn": "Gold price at $4,158/oz after ISM Manufacturing PMI dips to 54.5, prices shoot higher",
+      "summaryEn": "(Kitco News) - Gold is trading not far from session lows after the latest data showed the U.S. manufacturing sector as a whole performing below expectations last month, while prices shot dramatically higher in September. The Institute for Supply Management (ISM) announced on Thursday that its Manufacturing Purchasing Managers Index fell to 54.5 in September, after posting a reading of 54.6 in August. The headline number was lower than expected, as consensus forecasts looked for a reading of 55. “In September, U.S. manufacturing activity remained in expansion territory,” said Susan Spence, Chair of the ISM Manufacturing Business Survey Committee. “Of the five subindexes that make up the PMI, only New Orders and Employment grew faster than the previous month. In September, 40 percent of the comments were positive and 60 percent negative, with a 1-to-1.6 ratio of positive to negative sentiment. Among negative comments, pricing volatility was mentioned in 46 percent, tariffs 34 percent, the Iran war 30 percent and increasing lead times 21 percent; most comments mentioned multiple factors.”",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/01/nvidia-amd-and-intel-rise-on-micron-earnings-so-why-is-mu-stock-falling/",
+      "link": "https://www.kitco.com/news/article/2026-10-01/gold-price-4158oz-after-ism-manufacturing-pmi-dips-545-prices-shoot-higher",
       "published": null
     },
     {
-      "id": "stockanalysis:1af8d51b8c1a33bd",
-      "titleEn": "KOSPI refuses to rally despite chip strength: one big risk is still getting worse",
+      "id": "stockanalysis:cbf61e7ae6f4a0ff",
+      "titleEn": "SCHD: Here's why this dividend ETF is slumping and what next",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/01/kospi-refuses-to-rally-despite-chip-strength-one-big-risk-is-still-getting-worse/",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/10/01/schd-heres-why-this-dividend-etf-is-slumping-and-what-next/",
       "published": null
     },
     {
-      "id": "stockanalysis:8f3339acb69e9df2",
-      "titleEn": "LTC Declares Its Monthly Common Stock Cash Dividend for the Fourth Quarter of 2026",
+      "id": "stockanalysis:4896503c29f90ae1",
+      "titleEn": "TLT ETF analysis: US Treasury yields and inflows jump",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/10/01/tlt-etf-analysis-us-treasury-yields-and-inflows-jump/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f13a9e14452564ba",
+      "titleEn": "Rocket Lab shares rise on contract with Synspective: why Citi sees a 50% upside",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261001524138/en/LTC-Declares-Its-Monthly-Common-Stock-Cash-Dividend-for-the-Fourth-Quarter-of-2026/",
+      "link": "https://invezz.com/news/2026/10/01/rocket-lab-shares-rise-on-contract-with-synspective-why-citi-sees-a-50-upside/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f6defe847a9e3656",
+      "titleEn": "UTA Unveils New Leadership Structure for Filmed Entertainment",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261001354153/en/UTA-Unveils-New-Leadership-Structure-for-Filmed-Entertainment/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:63f50f963e357d47",
+      "titleEn": "SCE Extends More Than $1 Billion in Compensation Offers to Community Members Impacted by the Eaton Fire",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261001836695/en/SCE-Extends-More-Than-1-Billion-in-Compensation-Offers-to-Community-Members-Impacted-by-the-Eaton-Fire/",
       "published": null
     }
   ]
