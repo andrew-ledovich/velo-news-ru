@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-10-01T00:31:16.004952Z",
+  "generatedAt": "2026-10-01T06:31:23.384635Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:1af8d51b8c1a33bd",
+      "titleEn": "KOSPI refuses to rally despite chip strength: one big risk is still getting worse",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/01/kospi-refuses-to-rally-despite-chip-strength-one-big-risk-is-still-getting-worse/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1b5d462978e3844f",
+      "titleEn": "Samsung, SK Hynix rise after Micron earnings but investors ignore the 24-year warning",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/01/samsung-sk-hynix-rise-after-micron-earnings-but-investors-ignore-the-24-year-warning/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5aeb2368341fc93f",
+      "titleEn": "Micron revenue quadrupled to $54 billion but the stock fell: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/01/micron-revenue-quadrupled-to-54-billion-but-the-stock-fell-heres-why/",
+      "published": null
+    },
     {
       "id": "stockanalysis:01445286beb2f902",
       "titleEn": "Metals fade as long yields offset cooler inflation, lower Fed odds - Kitco PM Report",
@@ -22,93 +49,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:09c2f55a58bec829",
-      "titleEn": "Gold price will break $5,000/oz in H2 2027, and silver's run to $120 was driven by more than hype – Morgan Stanley's Gower",
-      "summaryEn": "(Kitco News) – Gold prices may be under pressure at the moment, but ETF and central bank demand has stayed strong, and the yellow metal will be trading back above $5000 per ounce within a year, according to Amy Gower, head of metals and mining strategy at Morgan Stanley. In a recent interview with CNBC, Gower acknowledged that the current environment was a challenging one for gold. “We&#x27;ve got these long-dated bond yields hitting 20-year highs,” she said. “We&#x27;ve got a bit of dollar strength coming through. We&#x27;ve obviously got oil price strength as well.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-09-30/gold-price-will-break-5000oz-h2-2027-and-silvers-run-120-was-driven-more",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9eaedd9a3d073121",
-      "titleEn": "Apple stock is rising today: here's why",
+      "id": "stockanalysis:5b2c674a8eb060e7",
+      "titleEn": "ADS-TEC Energy Reports First Half 2026 Results; Advances Gigawatt-Scale SKM Storage Project and Strengthens its Position to Scale Own &amp; Operate Model",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/09/30/apple-stock-is-rising-today-heres-why/",
+      "link": "https://www.businesswire.com/news/home/20260930453742/en/ADS-TEC-Energy-Reports-First-Half-2026-Results-Advances-Gigawatt-Scale-SKM-Storage-Project-and-Strengthens-its-Position-to-Scale-Own-Operate-Model/",
       "published": null
     },
     {
-      "id": "stockanalysis:318e73817ab56acc",
-      "titleEn": "FTC opens probe into Anthropic, OpenAI over rogue AI agent risks",
+      "id": "stockanalysis:0a2f8e609dd5ff09",
+      "titleEn": "Thales Launches Sentinel Envelope Plus to Protect Software Against AI-Assisted Reverse Engineering",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/09/30/ftc-opens-probe-into-anthropic-openai-over-rogue-ai-agent-risks/",
+      "link": "https://www.businesswire.com/news/home/20260930063281/en/Thales-Launches-Sentinel-Envelope-Plus-to-Protect-Software-Against-AI-Assisted-Reverse-Engineering/",
       "published": null
     },
     {
-      "id": "stockanalysis:5c6d63dd40536f74",
-      "titleEn": "Gold price could have a ‘shinier Q4' despite 20-year highs in bond yields - FOREX.com's Razaqzada",
-      "summaryEn": "(Kitco News) - After a solid recovery in August, the gold market is ending the third quarter on a disappointing note as a sharp rise in bond yields takes its toll on the non-yielding asset. Persistent inflation pressures, falling bond prices and tighter global monetary policies have eaten away at gold’s gains; however, according to one market strategist, despite the headwinds, gold’s downside could be limited through the final quarter of 2026. Gold prices are looking to end the third quarter with a 4% gain as prices manage to hold critical support above $4,100, but they are down from last month’s highs just below $4,700 an ounce. The selling pressure on gold comes as 10-year bond yields have risen 87 basis points to 5.27%, their highest level in roughly 20 years.",
+      "id": "stockanalysis:ce88d2bfdedd3a3e",
+      "titleEn": "Thales Strengthens Data Security Posture Management to Address Emerging Risks of AI",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-09-30/gold-price-could-have-shinier-q4-despite-20-year-highs-bond-yields",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20260930800339/en/Thales-Strengthens-Data-Security-Posture-Management-to-Address-Emerging-Risks-of-AI/",
       "published": null
     },
     {
-      "id": "stockanalysis:d81948cf7b4b60fb",
-      "titleEn": "Australian Public Sector Reframes Digital Modernization",
+      "id": "stockanalysis:6c80e2c2a1f36820",
+      "titleEn": "ICAPE Group: 2026 Half Year Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260930771576/en/Australian-Public-Sector-Reframes-Digital-Modernization/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2c31a4275beadd57",
-      "titleEn": "OKX and BitGo Expand Off-Exchange Settlement Infrastructure to Institutions Globally",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20260930118815/en/OKX-and-BitGo-Expand-Off-Exchange-Settlement-Infrastructure-to-Institutions-Globally/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:631a275bbb9f33b0",
-      "titleEn": "Cameco Acknowledges United States and Republic of Korea Announcement of Framework for the Deployment of Nuclear Power",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260922706989/en/Cameco-Acknowledges-United-States-and-Republic-of-Korea-Announcement-of-Framework-for-the-Deployment-of-Nuclear-Power/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3f9be1a93fc6fba7",
-      "titleEn": "Adicet Bio Reports Inducement Grant under Nasdaq Listing Rule 5635(c)(4)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260930867520/en/Adicet-Bio-Reports-Inducement-Grant-under-Nasdaq-Listing-Rule-5635-c-4/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7aaaa49c9d715347",
-      "titleEn": "United Therapeutics Corporation Prevails in Patent Litigation Against Liquidia",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260930122219/en/United-Therapeutics-Corporation-Prevails-in-Patent-Litigation-Against-Liquidia/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3b8c0ca6485ff8c5",
-      "titleEn": "Doors Plus Consolidates Contact Centre and Store Operations on 8x8 Platform, Slashes Communications Costs by 50%",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260930465619/en/Doors-Plus-Consolidates-Contact-Centre-and-Store-Operations-on-8x8-Platform-Slashes-Communications-Costs-by-50/",
+      "link": "https://www.businesswire.com/news/home/20260930951794/en/ICAPE-Group-2026-Half-Year-Results/",
       "published": null
     }
   ]
