@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-10-02T02:11:13.111393Z",
+  "generatedAt": "2026-10-02T08:27:32.393594Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:ce8834c096f363d5",
+      "titleEn": "SoftBank jumped 4% then crashed nearly 6%: what changed in just 24 hours?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/02/softbank-jumped-4-then-crashed-nearly-6-what-changed-in-just-24-hours/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:28e4b5d7a99d82e3",
+      "titleEn": "Nike stock sinks after earnings as its comeback plan turns into more layoffs",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/02/nike-stock-sinks-after-earnings-as-its-comeback-plan-turns-into-more-layoffs/",
+      "published": null
+    },
     {
       "id": "stockanalysis:412d015963097417",
       "titleEn": "BMO Becomes First Canadian Issuer to Deploy Mastercard Embedded Commercial Payments",
@@ -67,48 +85,75 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c034b12c884df37c",
-      "titleEn": "Anthropic targets mid November IPO: report",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/01/anthropic-targets-mid-november-ipo-report/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a2302e909073781e",
-      "titleEn": "Amazon and Walmart Race to Become Merchants' Operating System",
-      "summaryEn": "AI is turning retail giants into operating systems that increasingly tell merchants what to stock, sell and promote. As AI chooses what shoppers see and buy, brands could find themselves competing to influence the machine making the recommendation. If Amazon and Walmart can influence both what merchants sell and what consumers buy, controlling the transaction may become almost secondary.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/retail/2026/amazon-and-walmart-race-to-become-merchants-operating-system/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9c3384a8252f76a1",
-      "titleEn": "Faraday Future Showcases its EAI Robotics World 2.0 at IROS 2026; Its Four-Core Full-Stack AI Ecosystem and Industry Productivity Solutions Receives Positive Industry Response as the Company Actively Recruits In-House Development Partners",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261001311698/en/Faraday-Future-Showcases-its-EAI-Robotics-World-2.0-at-IROS-2026-Its-Four-Core-Full-Stack-AI-Ecosystem-and-Industry-Productivity-Solutions-Receives-Positive-Industry-Response-as-the-Company-Actively-Recruits-In-House-Development-Partners/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0458ce59bc44ae9c",
-      "titleEn": "ALDER AI Launches New Era Focused on Monitored Video Surveillance and AI Threat Detection",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261001711385/en/ALDER-AI-Launches-New-Era-Focused-on-Monitored-Video-Surveillance-and-AI-Threat-Detection/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9ac7edc5b1102334",
-      "titleEn": "Merger Agreement and Other Covenants Entered Into by and Between AFYA LIMITED and YDUQS PARTICIPAÇÕES S.A.",
+      "id": "stockanalysis:6d978f7e33565960",
+      "titleEn": "CareTrust Announces Strategic SHOP Pipeline Agreement with LNT Care Developments to Acquire 45 New UK Care Homes for £1.1 Billion",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260930903000/en/Merger-Agreement-and-Other-Covenants-Entered-Into-by-and-Between-AFYA-LIMITED-and-YDUQS-PARTICIPA%C3%87%C3%95ES-S.A./",
+      "link": "https://www.businesswire.com/news/home/20261002578516/en/CareTrust-Announces-Strategic-SHOP-Pipeline-Agreement-with-LNT-Care-Developments-to-Acquire-45-New-UK-Care-Homes-for-%C2%A31.1-Billion/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:40aff8461b281d3b",
+      "titleEn": "Piper Sandler Establishes Infrastructure Debt Advisory Team in London",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261001308771/en/Piper-Sandler-Establishes-Infrastructure-Debt-Advisory-Team-in-London/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bf7bd606084b463f",
+      "titleEn": "Daiichi Sankyo and AstraZeneca Enter into Clinical Trial Collaboration with Summit Therapeutics to Evaluate Datroway® in Combination with Ivonescimab Across Multiple Tumor Types",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261001131464/en/Daiichi-Sankyo-and-AstraZeneca-Enter-into-Clinical-Trial-Collaboration-with-Summit-Therapeutics-to-Evaluate-Datroway%C2%AE-in-Combination-with-Ivonescimab-Across-Multiple-Tumor-Types/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c98b6e60a3f46e8e",
+      "titleEn": "Italfarmaco and JCR Pharmaceuticals Enter into Exclusive License Agreement for the Development and Potential Commercialization of Novel Investigational Therapy for Hunter Syndrome in the United States, Europe, and Latin America",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261001541148/en/Italfarmaco-and-JCR-Pharmaceuticals-Enter-into-Exclusive-License-Agreement-for-the-Development-and-Potential-Commercialization-of-Novel-Investigational-Therapy-for-Hunter-Syndrome-in-the-United-States-Europe-and-Latin-America/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b6518716be3db4a1",
+      "titleEn": "Summit Therapeutics Announces Clinical Trial Collaboration with AstraZeneca and Daiichi Sankyo to Evaluate Ivonescimab in Combination with TROP2-Directed ADC Datroway",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261001197318/en/Summit-Therapeutics-Announces-Clinical-Trial-Collaboration-with-AstraZeneca-and-Daiichi-Sankyo-to-Evaluate-Ivonescimab-in-Combination-with-TROP2-Directed-ADC-Datroway/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cfcf166cdd079618",
+      "titleEn": "KYOCERA Document Solutions – FOREARTH Selected for ANREALAGE's Spring/Summer 2027 Collection Presented at Paris Fashion Week",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261001573438/en/KYOCERA-Document-Solutions-%E2%80%93-FOREARTH-Selected-for-ANREALAGE%E2%80%99s-SpringSummer-2027-Collection-Presented-at-Paris-Fashion-Week/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:33b02480f472c666",
+      "titleEn": "CTP N.V. Notice of Q3-2026 Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261001031151/en/CTP-N.V.-Notice-of-Q3-2026-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c965bac9a23ab48e",
+      "titleEn": "Kyocera Unveils High-Performance Inkjet Printhead KJ4A-EX600RC-HX for Label and Packaging Innovation",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261001393994/en/Kyocera-Unveils-High-Performance-Inkjet-Printhead-KJ4A-EX600RC-HX-for-Label-and-Packaging-Innovation/",
       "published": null
     }
   ]
