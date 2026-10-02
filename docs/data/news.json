@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-10-02T19:38:20.538513Z",
+  "generatedAt": "2026-10-02T23:14:11.256672Z",
   "sourceCount": 1,
   "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:1c083fcdf6686219",
+      "titleEn": "IMF says bond markets are ‘orderly,' but gold's resilience says something else",
+      "summaryEn": "(Kitco News) - If rising bond yields around the world aren’t really a problem, why is the International Monetary Fund talking about them? The IMF said Thursday that global bond markets continue to function in an “orderly manner,” but this reassurance comes as yields have risen across advanced and emerging economies. According to Reuters, U.S. 10-year bond yields saw their biggest quarterly rise this century during the third quarter. Traditionally, higher bond yields are bad news for the precious metal. Gold doesn’t pay interest, so when investors can earn more by holding government debt, the opportunity cost of owning bullion rises.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-02/imf-says-bond-markets-are-orderly-golds-resilience-says-something-else",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d375b4150cd7d020",
+      "titleEn": "OpenAI Hires Former White House Cyber Official as Regulators Probe AI Dangers",
+      "summaryEn": "The former leader of artificial intelligence policy at the White House ’s Office of the National Cyber Director , Thomas Lind , joined OpenAI , The Information reported Friday (Oct. 2), citing the head of OpenAI’s national security policy team. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Lind joined OpenAI this week and will lead cyber and strategic risk on the firm’s national security policy team, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-hires-former-white-house-cyber-official-regulators-probe-ai-dangers/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a20a5b533a78d805",
+      "titleEn": "Wall Street on the brink of bearish majority after gold's post-payrolls slide, Main Street abandons bullish bias as metals test support",
+      "summaryEn": "(Kitco News) – Gold prices fell sharply this week as early pressure from rising Treasury yields, a stronger U.S. dollar, and renewed Fed rate-hike expectations overwhelmed safe-haven demand, and even Friday’s weak payrolls report couldn’t deliver a sustainable boost. Spot gold kicked off the week trading at $4,277.90 per ounce on Sunday evening, and the yellow metal saw a brief burst of momentum to push to its weekly high at $4,280.56 per ounce on Monday before sellers took control. The decline accelerated as higher oil prices tied to the U.S.-Iran conflict kept inflation concerns alive, while rising long-term Treasury yields and a firmer dollar reduced demand for non-yielding assets. Gold attempted to stabilize Tuesday after U.S. job openings showed signs of cooling and consumer confidence weakened, but the rebound remained limited as markets continued to price in the risk of another Federal Reserve rate hike. Selling resumed Wednesday as the dollar stayed near two-month highs and Treasury yields remained elevated, keeping spot prices pinned near the lower end of their recent range.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-02/wall-street-brink-bearish-majority-after-golds-post-payrolls-slide-main",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ee74727055578ecf",
+      "titleEn": "Gold bulls disappointed as weak jobs report fails to spark rally, $4,000 support looms",
+      "summaryEn": "(Kitco News) - Early morning optimism turned into disappointment among gold investors, as prices were unable to hold on to their initial gains following weak U.S. employment data. The yellow metal is not only looking at its second week of losses, but prices are also heading into the weekend near their recent lows. Spot gold last traded at $4,137 an ounce, down more than 3% for the week. Selling pressure picked up as the yellow metal was unable to hold gains above $4,200 an ounce after the U.S. Bureau of Labor Statistics announced that 29,000 jobs were created in September , significantly missing expectations. The report also said that the unemployment rate increased to 4.2%, while average wages rose only 0.1%.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-02/gold-bulls-disappointed-weak-jobs-report-fails-spark-rally-4000-support",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0a1c585273037819",
+      "titleEn": "Metals give back jobs-report bounce as oil, yields stay elevated - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were lower in late U.S. trading Friday, as a weaker-than-expected U.S. payrolls report cut October Fed-hike odds but failed to break the broader pressure from elevated Treasury yields, a firm dollar and lingering oil-market risk. At the time of writing, spot gold was trading near $4,142.00 an ounce, down 0.83% on the session, while spot silver was trading near $60.230, down 1.04%. North American equities closed higher as softer labor data reduced fears of an imminent Fed rate hike. The S&P 500 rose 56.27 points, or 0.7%, to 7,722.72. The Dow Jones Industrial Average gained 250.40 points, or 0.5%, to 51,176.96. The Nasdaq Composite climbed 319.27 points, or 1.2%, to 27,190.86, while the Russell 2000 added 26.27 points, or 0.9%, to 2,832.90. European equities also recovered after Thursday’s bond-driven selloff. The Stoxx Europe 600 rose 0.7% to 630.95, Germany’s DAX gained 1.2% to 25,231.20 and France’s CAC 40 advanced 0.8% to 7,897.19. The U.K. FTSE 100 rose 0.3% to 10,461.95, while Italy’s FTSE MIB added 0.5% to 50,483.21.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-02/metals-give-back-jobs-report-bounce-oil-yields-stay-elevated-kitco-pm",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:23b67a13fac4b6bc",
+      "titleEn": "Arm stock jumps 5% as Nvidia AI platform role boosts chip demand outlook",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/02/arm-stock-jumps-5-as-nvidia-ai-platform-role-boosts-chip-demand-outlook/",
+      "published": null
+    },
     {
       "id": "stockanalysis:9ba2ef4bb0bd7d2f",
       "titleEn": "SpaceX stock rises 6% as Musk targets 250kW Nvidia AI system power",
@@ -40,75 +94,21 @@
       "published": null
     },
     {
+      "id": "stockanalysis:3c2e2210110593dd",
+      "titleEn": "Anthropic IPO Filing Outlines Government Action Risks for Commercial Ecosystem",
+      "summaryEn": "Governments’ attitudes toward Anthropic and artificial intelligence could affect its business as well as its customers, partners and other commercial relationships, the AI startup said in its IPO prospectus, Reuters reported Friday (Oct. 2). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); While companies routinely warn that policy changes could affect their business, Anthropic’s disclosure goes further by suggesting such changes could affect the companies with which it does business, the report said.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-ipo-filing-outlines-government-action-risks-for-commercial-ecosystem/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:adfad50c2e6e4ccd",
       "titleEn": "Cramer says buy Tesla stock, but not because of Q3 deliveries",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "EV",
       "link": "https://invezz.com/news/2026/10/02/cramer-says-buy-tesla-stock-but-not-because-of-q3-deliveries/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ee47d9be5315d14b",
-      "titleEn": "Why are Seagate Technology and Western Digital stocks tanking on Friday?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/02/why-are-seagate-technology-and-western-digital-stocks-tanking-on-friday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:06cc6aef50632339",
-      "titleEn": "Why Broadcom stock is gaining today?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/02/why-broadcom-stock-is-gaining-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f51b763281c6869a",
-      "titleEn": "BlackRock stock has slumped into a correction: Will it rebound as earnings loom?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/02/blackrock-stock-has-slumped-into-a-correction-will-it-rebound-as-earnings-loom/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cd1b52e2b120f8b3",
-      "titleEn": "Gold, silver rise as weak payrolls cut Fed-hike odds - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices are firmer in early U.S. trading Friday, as a weaker-than-expected U.S. employment report pulled Treasury yields lower, trimmed October Fed-hike expectations and added to safe-haven demand while Strait of Hormuz risk kept energy inflation in view. At the time of writing, spot gold was trading near $4,216.80 an ounce, up 0.96%, while spot silver was trading at $61.750, up 1.45% on the session. The September employment report was the session’s main rate-pricing event. Nonfarm payrolls rose 29,000, well below pre-release estimates clustered around 88,000 to 90,000, while the unemployment rate rose to 4.2%. Average hourly earnings rose 0.1% on the month and 3.0% from a year earlier, with July and August payrolls revised lower by a combined 60,000 jobs. Market positioning shifted quickly after the print. October hike odds fell into the mid-teens from roughly a one-in-four probability before the data and from near 70% earlier in the week, while the 10-year Treasury yield slipped back toward the 5.2% area and U.S. stock futures rose. The softer labor-market signal helped gold and silver recover part of this week’s rate- and dollar-driven losses, but traders still have factory orders and manufacturing shipments at 10 a.m. ET, the New York Fed Staff Nowcast at 12:45 p.m. ET and Monday’s ISM services release at 10 a.m. ET before the next round of inflation data begins with CPI on Oct. 14 at 8:30 a.m. ET.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-02/gold-silver-rise-weak-payrolls-cut-fed-hike-odds-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:553eb693db42ddba",
-      "titleEn": "Bayer to Invest 2.2 Billion U.S. Dollars in a New Manufacturing Site in the United States",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261002202241/en/Bayer-to-Invest-2.2-Billion-U.S.-Dollars-in-a-New-Manufacturing-Site-in-the-United-States/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:26094e149d998c6d",
-      "titleEn": "Emera Announces Increase in Common Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261002382153/en/Emera-Announces-Increase-in-Common-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:aaa49f8c80c6348a",
-      "titleEn": "KBRA Assigns Preliminary Ratings to GSTAR 2026-FL1",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261002285486/en/KBRA-Assigns-Preliminary-Ratings-to-GSTAR-2026-FL1/",
       "published": null
     }
   ]
