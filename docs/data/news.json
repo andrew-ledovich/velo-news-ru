@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-10-02T14:51:30.356454Z",
+  "generatedAt": "2026-10-02T19:38:20.538513Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:9ba2ef4bb0bd7d2f",
+      "titleEn": "SpaceX stock rises 6% as Musk targets 250kW Nvidia AI system power",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/02/spacex-stock-rises-6-as-musk-targets-250kw-nvidia-ai-system-power/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cbee9859b9999355",
+      "titleEn": "Bernstein says Nike stock now 'de-risked', buy on post-earnings dip",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/02/bernstein-says-nike-stock-now-de-risked-buy-on-post-earnings-dip/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fcb351766b11782d",
+      "titleEn": "Gold's resilience supports strong outlook, silver faces oversupply, copper could be the big gainer – Deutsche Bank's Ghali",
+      "summaryEn": "(Kitco News) – Gold is performing remarkably well despite the high-yield environment, and while the silver market has likely tipped into oversupply, the biggest potential gains in the metals complex are likely to be found in copper , according to Daniel Ghali, head of metals research at Deutsche Bank. In a recent interview with BNN Bloomberg, Ghali acknowledged that the multi-decade highs in bond yields have put pressure on gold prices, but the metal has actually held up surprisingly well. “The pullback in gold, I would actually argue, has been incredibly limited,” he said. “Gold markets have faced a strikingly different outlook for the Fed. US 10-year yields have rocketed north of 5%. Crude oil is trading north of $100 a barrel. And yet, gold prices still haven&#x27;t managed to print a new low since July. That&#x27;s a really strong, resilient price action in my book.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-02/golds-resilience-supports-strong-outlook-silver-faces-oversupply-copper",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3c505d92f88223f2",
+      "titleEn": "AMD stock gains 3%, here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/02/amd-stock-gains-3-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:adfad50c2e6e4ccd",
+      "titleEn": "Cramer says buy Tesla stock, but not because of Q3 deliveries",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/10/02/cramer-says-buy-tesla-stock-but-not-because-of-q3-deliveries/",
+      "published": null
+    },
     {
       "id": "stockanalysis:ee47d9be5315d14b",
       "titleEn": "Why are Seagate Technology and Western Digital stocks tanking on Friday?",
@@ -40,84 +85,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:4c9e3214a22b0168",
-      "titleEn": "Strive, Strategy stocks in focus as Bitcoin price eyes strong comeback",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/02/strive-strategy-stocks-in-focus-as-bitcoin-price-eyes-strong-comeback/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2023061d07667474",
-      "titleEn": "Gold prices see sold bid as U.S. economy created 29k jobs in September",
-      "summaryEn": "(Kitco News) - The gold market is seeing solid bullish momentum on renewed safe-haven demand as the U.S. labor market saw significantly slower growth in September. U.S. nonfarm payrolls rose by 29,000 last month, according to the Bureau of Labor Statistics. The monthly figure significantly missed consensus forecasts, as economists had expected job gains of around 89,000. At the same time, the unemployment rate ticked higher to 4.2%. Economists had expected an unchanged reading of 4.1%.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-02/gold-prices-see-sold-bid-us-economy-created-29k-jobs-september",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0843ac8ac005a48f",
-      "titleEn": "eToro stock has crashed and inverted C&amp;H points to a steeper dive",
+      "id": "stockanalysis:553eb693db42ddba",
+      "titleEn": "Bayer to Invest 2.2 Billion U.S. Dollars in a New Manufacturing Site in the United States",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/02/etoro-stock-has-crashed-and-inverted-ch-points-to-a-steeper-dive/",
+      "link": "https://www.businesswire.com/news/home/20261002202241/en/Bayer-to-Invest-2.2-Billion-U.S.-Dollars-in-a-New-Manufacturing-Site-in-the-United-States/",
       "published": null
     },
     {
-      "id": "stockanalysis:b0e265aae681c616",
-      "titleEn": "Why is Nvidia stock rising premarket on Friday?",
+      "id": "stockanalysis:26094e149d998c6d",
+      "titleEn": "Emera Announces Increase in Common Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/02/why-is-nvidia-stock-rising-premarket-on-friday/",
+      "link": "https://www.businesswire.com/news/home/20261002382153/en/Emera-Announces-Increase-in-Common-Dividend/",
       "published": null
     },
     {
-      "id": "stockanalysis:40c6ab76bac26318",
-      "titleEn": "Netflix stock lost 14% in September as growth slows: is NFLX a buy after the selloff?",
+      "id": "stockanalysis:aaa49f8c80c6348a",
+      "titleEn": "KBRA Assigns Preliminary Ratings to GSTAR 2026-FL1",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/02/netflix-stock-lost-14-in-september-as-growth-slows-is-nflx-a-buy-after-the-selloff/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6d0d5f1b61a302f0",
-      "titleEn": "Moderna stock rises 2% on Nasdaq 100 entry but this analyst says sell",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/02/moderna-stock-rises-2-on-nasdaq-100-entry-but-this-analyst-says-sell/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b86cc720008af6d5",
-      "titleEn": "Hilton Grand Vacations Opens Ka Haku, a Hilton Club in Waikiki",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260930630869/en/Hilton-Grand-Vacations-Opens-Ka-Haku-a-Hilton-Club-in-Waikiki/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:486403ca40538f1a",
-      "titleEn": "Travere to Present New Data Supporting FILSPARI® (sparsentan) as Foundational Treatment in IgA Nephropathy and FSGS at ASN Kidney Week 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261001650352/en/Travere-to-Present-New-Data-Supporting-FILSPARI%C2%AE-sparsentan-as-Foundational-Treatment-in-IgA-Nephropathy-and-FSGS-at-ASN-Kidney-Week-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bd7146d0111ee972",
-      "titleEn": "AIG to Report Third Quarter 2026 Financial Results on November 3, 2026, and Host Conference Call on November 4, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261002288702/en/AIG-to-Report-Third-Quarter-2026-Financial-Results-on-November-3-2026-and-Host-Conference-Call-on-November-4-2026/",
+      "link": "https://www.businesswire.com/news/home/20261002285486/en/KBRA-Assigns-Preliminary-Ratings-to-GSTAR-2026-FL1/",
       "published": null
     }
   ]
