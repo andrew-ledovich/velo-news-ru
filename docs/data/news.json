@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-10-01T23:08:48.481604Z",
+  "generatedAt": "2026-10-02T02:11:13.111393Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:412d015963097417",
+      "titleEn": "BMO Becomes First Canadian Issuer to Deploy Mastercard Embedded Commercial Payments",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); When this capability is enabled in a platform, BMO’s eligible Corporate Card clients can initiate and manage virtual card payments within the platform, according to the release. Please add us to your preferred sources list so our news, data and interviews show up in your feed. Thanks!",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/payments-innovation/2026/bmo-becomes-first-canadian-issuer-to-deploy-mastercard-embedded-commercial-payments/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4160a33ec4c00e73",
+      "titleEn": "Anthropic Targets Pre-Thanksgiving IPO at $2 Trillion Valuation",
+      "summaryEn": "Anthropic aims to start the formal marketing for its initial public offering as soon as the week of Nov. 9 and begin trading before the Thanksgiving holiday, Nov. 26, Bloomberg reported Thursday (Oct. 1), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The company is still considering its plans for the IPO, and the timing could change, the report said.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-targets-pre-thanksgiving-ipo-at-2-trillion-valuation/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3b5dcc9c8fc7e1af",
+      "titleEn": "Washington will inflate away its $40 trillion debt, and gold is how you fight back - Jim Rickards",
+      "summaryEn": "(Kitco News) - With the 10-year Treasury yield at a 2002 high, the author of \"Currency Wars\" says inflation, not repayment, is how the debt gets handled, and he thinks gold has already shown savers where to hide. The U.S. government owes more than $40 trillion, and it now spends about $1 trillion a year just on interest. Jim Rickards doesn&#x27;t think anyone in Washington plans to pay it back. \"You don&#x27;t have to pay off the national debt. We&#x27;re not going to pay off the national debt,\" Rickards told Kitco News. \"What you have to do is roll it over at a reasonable interest rate.\"",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-01/washington-will-inflate-away-its-40-trillion-debt-and-gold-how-you-fight",
+      "published": null
+    },
     {
       "id": "stockanalysis:42f4eecb3f636a6f",
       "titleEn": "Gold holds firm despite elevated yields as Fed bets soften - Kitco PM Report",
@@ -58,39 +85,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:9dc2c00c6405ea56",
-      "titleEn": "Risks rising that gold prices fall below $4,000 in Q4 - Bank of America",
-      "summaryEn": "(Kitco News) - Gold prices have managed to hold their ground in the face of surging bond yields and rising interest rate expectations, but one bank expects the current headwinds will eventually prove to be too much for the precious metal. For the last two years, commodity analysts at Bank of America have been some of the most bullish in the marketplace. They were among the first to call for $5,000 an ounce; however, their bullish conviction is waning as rising energy prices continue to fuel inflation fears. In the bank’s latest precious metals outlook, analysts said they are maintaining their bullish 2027 forecast, but added that their outlook is not without risks.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-01/risks-rising-gold-prices-fall-below-4000-q4-bank-america",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3a3bb35a7ceadfa4",
-      "titleEn": "Nvidia stock gains as Barclays sees $401B hyperscaler revenue in 2027",
+      "id": "stockanalysis:9c3384a8252f76a1",
+      "titleEn": "Faraday Future Showcases its EAI Robotics World 2.0 at IROS 2026; Its Four-Core Full-Stack AI Ecosystem and Industry Productivity Solutions Receives Positive Industry Response as the Company Actively Recruits In-House Development Partners",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/01/nvidia-stock-gains-as-barclays-sees-401b-hyperscaler-revenue-in-2027/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261001311698/en/Faraday-Future-Showcases-its-EAI-Robotics-World-2.0-at-IROS-2026-Its-Four-Core-Full-Stack-AI-Ecosystem-and-Industry-Productivity-Solutions-Receives-Positive-Industry-Response-as-the-Company-Actively-Recruits-In-House-Development-Partners/",
       "published": null
     },
     {
-      "id": "stockanalysis:a2844916dfa80ca1",
-      "titleEn": "Fifth Third Debuts Innovation Banking for Startups and Growth Companies",
-      "summaryEn": "Fifth Third Bank has introduced a new offering aimed at startups and growth companies. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Fifth Third Innovation Banking, announced in a news release Thursday (Oct. 1), combines the bank’s Newline embedded banking platform with the tech and life sciences franchise from Comerica , which merged with Fifth Third earlier this year.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/fifth-third-debuts-innovation-banking-for-startups-and-growth-companies/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:796f43f74427594b",
-      "titleEn": "SanDisk stock rises as Citi sees 20% upside after Micron earnings, tight NAND market",
+      "id": "stockanalysis:0458ce59bc44ae9c",
+      "titleEn": "ALDER AI Launches New Era Focused on Monitored Video Surveillance and AI Threat Detection",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/01/sandisk-stock-rises-as-citi-sees-20-upside-after-micron-earnings-tight-nand-market/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261001711385/en/ALDER-AI-Launches-New-Era-Focused-on-Monitored-Video-Surveillance-and-AI-Threat-Detection/",
       "published": null
     },
     {
@@ -100,33 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20260930903000/en/Merger-Agreement-and-Other-Covenants-Entered-Into-by-and-Between-AFYA-LIMITED-and-YDUQS-PARTICIPA%C3%87%C3%95ES-S.A./",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7f582368eefbd305",
-      "titleEn": "Afya Limited and YDUQS Participações S.A. Controlling Shareholders Enter Into Voting Commitment Agreement",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260930022004/en/Afya-Limited-and-YDUQS-Participa%C3%A7%C3%B5es-S.A.-Controlling-Shareholders-Enter-Into-Voting-Commitment-Agreement/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2f6b078efda6e83a",
-      "titleEn": "Planet Launches Suncatcher, Tanager-2, and 18 SuperDove Satellites",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260930836177/en/Planet-Launches-Suncatcher-Tanager-2-and-18-SuperDove-Satellites/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1835738ab8765d53",
-      "titleEn": "Sherritt Provides Update on Court Application and Confirms Shareholder Meeting for December 15, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261001489602/en/Sherritt-Provides-Update-on-Court-Application-and-Confirms-Shareholder-Meeting-for-December-15-2026/",
       "published": null
     }
   ]
