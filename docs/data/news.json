@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-10-03T12:39:24.088996Z",
+  "generatedAt": "2026-10-03T16:42:03.441062Z",
   "sourceCount": 1,
   "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:d75dbc4e4c667b60",
+      "titleEn": "Goldman Sachs names four 'must own' European stocks for 2027",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/03/goldman-sachs-names-four-must-own-european-stocks-for-2027/",
+      "published": null
+    },
     {
       "id": "stockanalysis:1c083fcdf6686219",
       "titleEn": "IMF says bond markets are ‘orderly,' but gold's resilience says something else",
@@ -76,21 +85,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:fcb351766b11782d",
-      "titleEn": "Gold's resilience supports strong outlook, silver faces oversupply, copper could be the big gainer – Deutsche Bank's Ghali",
-      "summaryEn": "(Kitco News) – Gold is performing remarkably well despite the high-yield environment, and while the silver market has likely tipped into oversupply, the biggest potential gains in the metals complex are likely to be found in copper , according to Daniel Ghali, head of metals research at Deutsche Bank. In a recent interview with BNN Bloomberg, Ghali acknowledged that the multi-decade highs in bond yields have put pressure on gold prices, but the metal has actually held up surprisingly well. “The pullback in gold, I would actually argue, has been incredibly limited,” he said. “Gold markets have faced a strikingly different outlook for the Fed. US 10-year yields have rocketed north of 5%. Crude oil is trading north of $100 a barrel. And yet, gold prices still haven&#x27;t managed to print a new low since July. That&#x27;s a really strong, resilient price action in my book.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-02/golds-resilience-supports-strong-outlook-silver-faces-oversupply-copper",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3c505d92f88223f2",
-      "titleEn": "AMD stock gains 3%, here's why",
+      "id": "stockanalysis:ee10dd8390c36ccc",
+      "titleEn": "Agenus Reports 48% Estimated Three-Year Survival With BOT+BAL in Recurrent Ovarian Cancer at IGCS 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/02/amd-stock-gains-3-heres-why/",
+      "link": "https://www.businesswire.com/news/home/20261003256338/en/Agenus-Reports-48-Estimated-Three-Year-Survival-With-BOTBAL-in-Recurrent-Ovarian-Cancer-at-IGCS-2026/",
       "published": null
     },
     {
