@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-03T07:26:16.484239Z",
+  "generatedAt": "2026-10-03T12:39:24.088996Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:1c083fcdf6686219",
@@ -91,15 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/10/02/amd-stock-gains-3-heres-why/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3c2e2210110593dd",
-      "titleEn": "Anthropic IPO Filing Outlines Government Action Risks for Commercial Ecosystem",
-      "summaryEn": "Governments’ attitudes toward Anthropic and artificial intelligence could affect its business as well as its customers, partners and other commercial relationships, the AI startup said in its IPO prospectus, Reuters reported Friday (Oct. 2). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); While companies routinely warn that policy changes could affect their business, Anthropic’s disclosure goes further by suggesting such changes could affect the companies with which it does business, the report said.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-ipo-filing-outlines-government-action-risks-for-commercial-ecosystem/",
       "published": null
     },
     {
