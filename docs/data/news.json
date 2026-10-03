@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-03T19:24:43.130596Z",
+  "generatedAt": "2026-10-03T22:15:04.911427Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:d75dbc4e4c667b60",
@@ -73,15 +73,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/10/02/spacex-stock-rises-6-as-musk-targets-250kw-nvidia-ai-system-power/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cbee9859b9999355",
-      "titleEn": "Bernstein says Nike stock now 'de-risked', buy on post-earnings dip",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/02/bernstein-says-nike-stock-now-de-risked-buy-on-post-earnings-dip/",
       "published": null
     },
     {
