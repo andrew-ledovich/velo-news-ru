@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-10-04T06:19:17.641082Z",
+  "generatedAt": "2026-10-04T12:36:08.820961Z",
   "sourceCount": 1,
   "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:5666a57fceebf02c",
+      "titleEn": "Goldman Sachs explains why it is bullish on Nu Holdings stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/04/goldman-sachs-explains-why-it-is-bullish-on-nu-holdings-stock/",
+      "published": null
+    },
     {
       "id": "stockanalysis:d75dbc4e4c667b60",
       "titleEn": "Goldman Sachs names four 'must own' European stocks for 2027",
@@ -64,15 +73,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/10/02/arm-stock-jumps-5-as-nvidia-ai-platform-role-boosts-chip-demand-outlook/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9ba2ef4bb0bd7d2f",
-      "titleEn": "SpaceX stock rises 6% as Musk targets 250kW Nvidia AI system power",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/02/spacex-stock-rises-6-as-musk-targets-250kw-nvidia-ai-system-power/",
       "published": null
     },
     {
