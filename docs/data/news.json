@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-04T20:08:35.830773Z",
+  "generatedAt": "2026-10-04T23:04:10.429757Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 15,
   "items": [
     {
       "id": "stockanalysis:5666a57fceebf02c",
@@ -67,39 +67,75 @@
       "published": null
     },
     {
+      "id": "stockanalysis:f4da03360b88adaf",
+      "titleEn": "KGC Investors Have Opportunity to Join Kinross Gold Corporation Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261004237795/en/KGC-Investors-Have-Opportunity-to-Join-Kinross-Gold-Corporation-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3ce7cec655b23c91",
+      "titleEn": "FLUT Investors Have Opportunity to Join Flutter Entertainment plc Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261004688000/en/FLUT-Investors-Have-Opportunity-to-Join-Flutter-Entertainment-plc-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0c10a1b3239153c2",
+      "titleEn": "FISN Investors Have Opportunity to Join Deep Fission, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261004164639/en/FISN-Investors-Have-Opportunity-to-Join-Deep-Fission-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:06348ef9365bd140",
+      "titleEn": "NCPL Investors Have Opportunity to Join Netcapital Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261004158885/en/NCPL-Investors-Have-Opportunity-to-Join-Netcapital-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:76d96bf3bbb4871e",
+      "titleEn": "NEOG Investors Have Opportunity to Join Neogen Corporation Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261004334718/en/NEOG-Investors-Have-Opportunity-to-Join-Neogen-Corporation-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:09c3184613bc312a",
+      "titleEn": "DASH Investors Have Opportunity to Join DoorDash, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261004465532/en/DASH-Investors-Have-Opportunity-to-Join-DoorDash-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e7be7b407736da47",
+      "titleEn": "QBTS Investors Have Opportunity to Join D-Wave Quantum Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261004458634/en/QBTS-Investors-Have-Opportunity-to-Join-D-Wave-Quantum-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:b8cec25c9626eebf",
       "titleEn": "SFIX Investors Have Opportunity to Join Stitch Fix, Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261004230392/en/SFIX-Investors-Have-Opportunity-to-Join-Stitch-Fix-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:27d812866647b28a",
-      "titleEn": "Genmab Announces Rinatabart Sesutecan (Rina-S®) Phase 2 RAINFOL™-01 Results Demonstrated Durable and Clinically Meaningful Responses in Patients with Platinum-Resistant Ovarian Cancer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261001541371/en/Genmab-Announces-Rinatabart-Sesutecan-Rina-S%C2%AE-Phase-2-RAINFOL%E2%84%A2-01-Results-Demonstrated-Durable-and-Clinically-Meaningful-Responses-in-Patients-with-Platinum-Resistant-Ovarian-Cancer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ee10dd8390c36ccc",
-      "titleEn": "Agenus Reports 48% Estimated Three-Year Survival With BOT+BAL in Recurrent Ovarian Cancer at IGCS 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261003256338/en/Agenus-Reports-48-Estimated-Three-Year-Survival-With-BOTBAL-in-Recurrent-Ovarian-Cancer-at-IGCS-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c398d386b90e1f5e",
-      "titleEn": "Alpha Cognition Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261002072219/en/Alpha-Cognition-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4/",
       "published": null
     }
   ]
