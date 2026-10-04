@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-04T12:36:08.820961Z",
+  "generatedAt": "2026-10-04T17:01:04.368379Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 9,
   "items": [
     {
       "id": "stockanalysis:5666a57fceebf02c",
@@ -64,15 +64,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-10-02/metals-give-back-jobs-report-bounce-oil-yields-stay-elevated-kitco-pm",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:23b67a13fac4b6bc",
-      "titleEn": "Arm stock jumps 5% as Nvidia AI platform role boosts chip demand outlook",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/02/arm-stock-jumps-5-as-nvidia-ai-platform-role-boosts-chip-demand-outlook/",
       "published": null
     },
     {
