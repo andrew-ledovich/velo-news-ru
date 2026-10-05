@@ -1,69 +1,249 @@
 {
-  "generatedAt": "2026-10-05T08:01:24.365723Z",
+  "generatedAt": "2026-10-05T17:06:12.623373Z",
   "sourceCount": 1,
-  "count": 7,
+  "count": 27,
   "items": [
     {
-      "id": "stockanalysis:ba5479fd49eb6529",
-      "titleEn": "Asia stocks surge as Fed hike bets fade: can the rally survive 5% yields",
+      "id": "stockanalysis:2ca2aec696054ee0",
+      "titleEn": "Microsoft stock rises as Melius upgrades to Buy, sees over 26% upside",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/05/asia-stocks-surge-as-fed-hike-bets-fade-can-the-rally-survive-5-yields/",
+      "link": "https://invezz.com/news/2026/10/05/microsoft-stock-rises-as-melius-upgrades-to-buy-sees-over-26-upside/",
       "published": null
     },
     {
-      "id": "stockanalysis:d26f2fa1f1191065",
-      "titleEn": "TSMC hits another record but Nvidia and Apple demand may become its next problem",
-      "summaryEn": null,
+      "id": "stockanalysis:cd8acd18460a5ae9",
+      "titleEn": "5.3% bond yields can compete with gold, but they can't stop fiat currency erosion - YieldMax's Khouw",
+      "summaryEn": "(Kitco News) - Rising bond yields are creating meaningful competition for gold as investors can once again generate attractive income from cash and fixed-income assets. However, persistent inflation, which continues to erode the purchasing power of fiat currencies, means the fundamental case for owning gold remains intact, according to one market strategist. Gold prices remain under pressure at the start of a new trading week as the yield on U.S. 10-year bonds pushes to 5.32%, their highest level in nearly 20 years. Spot gold last traded at $4,134 an ounce, nearly unchanged on the day. In an interview with Kitco News, Michael Khouw, chief strategist at YieldMax, said higher interest rates are understandably weighing on gold in the near term as investors recognize the utility of earning meaningful income from their capital.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/05/tsmc-hits-another-record-but-nvidia-and-apple-demand-may-become-its-next-problem/",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-05/53-bond-yields-can-compete-gold-they-cant-stop-fiat-currency-erosion",
       "published": null
     },
     {
-      "id": "stockanalysis:5666a57fceebf02c",
-      "titleEn": "Goldman Sachs explains why it is bullish on Nu Holdings stock",
+      "id": "stockanalysis:0b19bc99b4a18c18",
+      "titleEn": "Musk becomes trillionaire again as SpaceX stock rises",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/04/goldman-sachs-explains-why-it-is-bullish-on-nu-holdings-stock/",
+      "link": "https://invezz.com/news/2026/10/05/musk-becomes-trillionaire-again-as-spacex-stock-rises/",
       "published": null
     },
     {
-      "id": "stockanalysis:d75dbc4e4c667b60",
-      "titleEn": "Goldman Sachs names four 'must own' European stocks for 2027",
-      "summaryEn": null,
+      "id": "stockanalysis:d6a5a83e3e526847",
+      "titleEn": "Gold price suffers under oil, yield pressures, Mexico's silver production weakens in July – Heraeus",
+      "summaryEn": "(Kitco News) – Gold prices are declining under the dual headwinds of multi-decade high bond yields and triple-digit oil prices, while the world’s largest silver-producing country saw a weak start to the third quarter, according to precious metals analysts at Heraeus. In their latest update, the analysts noted that gold prices pulled back last week as macro headwinds drove the yellow metal through key technical support levels. “Gold fell through support at around $4,250/oz, a level that had held through several tests during September, as elevated bond yields, a stronger dollar and high oil prices eventually outweighed buying interest around the level,” they wrote. “The price has since traded at around $4,100-4,200/oz, leaving the year-to-date lows around $4,000/oz as the next major area of support. The breakdown follows several weeks in which gold had proved relatively resilient despite an increasingly difficult macroeconomic backdrop.”",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/03/goldman-sachs-names-four-must-own-european-stocks-for-2027/",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-05/gold-price-suffers-under-oil-yield-pressures-mexicos-silver-production",
       "published": null
     },
     {
-      "id": "stockanalysis:de04249fa05cd035",
-      "titleEn": "JEOL: Sales launch of HAXIS: The New Low-angle Ion Milling Scanning Electron Microscope",
+      "id": "stockanalysis:4d9bece9e0223e48",
+      "titleEn": "Vistra stock rallies on federal financing reports",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260928207899/en/JEOL-Sales-launch-of-HAXIS-The-New-Low-angle-Ion-Milling-Scanning-Electron-Microscope/",
+      "link": "https://invezz.com/news/2026/10/05/vistra-stock-rallies-on-federal-financing-reports/",
       "published": null
     },
     {
-      "id": "stockanalysis:03801e8ef27a1219",
-      "titleEn": "Omega to Transition Operations of 32 Facilities in Florida to PACS Group",
-      "summaryEn": null,
+      "id": "stockanalysis:bd70dcfbbb7a9c85",
+      "titleEn": "LBMA 2026: Central banks aren't done with gold as geopolitical risks reshape reserves – Bundesbank's Nagel",
+      "summaryEn": "(Kitco News) - Gold ’s role in the global monetary system could become even more significant as geopolitical uncertainty, rising sovereign debt and concerns about financial sanctions push central banks to diversify their reserves, according to Joachim Nagel, President of the Deutsche Bundesbank. Speaking at the LBMA Global Precious Metals Conference in Sorrento, Italy, Nagel said the world has entered a new geopolitical environment that is reshaping inflation pressures, trade, investment, monetary policy and, increasingly, how central banks think about the safety of their reserves. Nagel noted that gold’s share of global central-bank reserves has risen sharply in recent years, climbing from around 14% in 2023 to almost 25%. While much of that increase reflects the sharp rise in gold prices, he said geopolitical risks have also fundamentally changed the reserve-management landscape.",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261004350939/en/Omega-to-Transition-Operations-of-32-Facilities-in-Florida-to-PACS-Group/",
+      "link": "https://www.kitco.com/news/article/2026-10-05/lbma-2026-central-banks-arent-done-gold-geopolitical-risks-reshape-reserves",
       "published": null
     },
     {
-      "id": "stockanalysis:846793a3c35bbd11",
-      "titleEn": "HAFNIA LIMITED: Share Capital Increase Registered",
+      "id": "stockanalysis:af08dca9379c2cd1",
+      "titleEn": "What's driving NU stock higher today and what comes next?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261004477455/en/HAFNIA-LIMITED-Share-Capital-Increase-Registered/",
+      "link": "https://invezz.com/news/2026/10/05/whats-driving-nu-stock-higher-today-and-what-comes-next/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:96db2c07a0e1948f",
+      "titleEn": "Why is Intel stock falling on Monday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/05/why-is-intel-stock-falling-on-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cd06c426a32f46cb",
+      "titleEn": "Strategy (MSTR) stock rises as Bitcoin holdings hit record 848,000",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/10/05/strategy-mstr-stock-rises-as-bitcoin-holdings-hit-record-848000/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d2d4f4dc63f7a58a",
+      "titleEn": "Gold dips to $4,141/oz after ISM Services PMI falls to 54.9 in September",
+      "summaryEn": "(Kitco News) – The U.S. service sector declined more than expected last month, according to the latest data from the Institute for Supply Management (ISM). The ISM announced on Monday morning that its Services Purchasing Managers Index came in at 54.9 in September, down from 55.4 in August. The data was slightly worse than expected, as economists were looking for a reading of 55. Readings above 50 in such diffusion indexes signify economic growth and vice versa. The farther an indicator is above or below 50, the greater or smaller the rate of change.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-05/gold-dips-4141oz-after-ism-services-pmi-falls-549-september",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4b7f66af4cc0ed1e",
+      "titleEn": "RXO stock soars as CH Robinson acquires truck broker for $5.8B",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/05/rxo-stock-soars-as-ch-robinson-acquires-truck-broker-for-5-8b/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fa3c9cf70939fa72",
+      "titleEn": "SanDisk stock has formed an ascending triangle: is it about to surge?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/05/sandisk-stock-has-formed-an-ascending-triangle-is-it-about-to-surge/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1b814643985b6d8a",
+      "titleEn": "Why is Cerebras stock rising on Monday? Sam Altman holds the clue",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/05/why-is-cerebras-stock-rising-on-monday-sam-altman-holds-the-clue/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:21197eda16083e2d",
+      "titleEn": "Lumentum stock hits a crucial resistance: will the rally continue?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/05/lumentum-stock-hits-a-crucial-resistance-will-the-rally-continue/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2ef3dddef919a474",
+      "titleEn": "Silver leads metals higher as weak jobs data pressures Fed path - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold prices are firmer and spot silver prices are sharply higher in early U.S. trading Monday, as Friday’s weak U.S. payrolls report reduced the probability of an October Federal Reserve rate hike while elevated Treasury yields, a firm dollar and unresolved Strait of Hormuz risks capped gold’s rebound. At the time of writing, spot gold was trading near $4,154.60 an ounce, up 0.36% on the session, while spot silver was trading near $61.480, up 2.00%. Market positioning remains centered on whether Friday’s jobs report was weak enough to pause the Fed’s renewed tightening cycle. September nonfarm payrolls rose by just 29,000, the unemployment rate held at 4.2%, average hourly earnings rose 0.1% on the month and 3.0% from a year earlier, and July and August payrolls were revised down by a combined 60,000 jobs. Traders now price an October pause as the base case, with the probability of no rate change near 82%, but still see a meaningful chance of a December increase as inflation remains above target and oil prices stay elevated. The 10-year Treasury yield is trading near the 5.26% area and the 30-year yield near the 5.61% area, keeping the rates channel a headwind for gold. The next tests are the S&P Global services PMI at 9:45 a.m. ET, ISM services at 10:00 a.m. ET, the September Fed minutes Wednesday at 2:00 p.m. ET, weekly jobless claims Thursday at 8:30 a.m. ET and October consumer sentiment Friday at 10:00 a.m. ET. Softer services employment or weaker sentiment would reinforce gold’s post-payroll bid; firmer prices-paid data or resilient services demand would keep yields and the dollar working against bullion.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-05/silver-leads-metals-higher-weak-jobs-data-pressures-fed-path-kitco-am",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0a00caa3f4101569",
+      "titleEn": "These 3 stocks are worth buying after recent employment data",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/05/these-3-stocks-are-worth-buying-after-recent-employment-data/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:83b17c8d5dde292a",
+      "titleEn": "BT stock rises 2% on £400M TalkTalk rescue: why rivals are calling it a stitch up",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/05/bt-stock-rises-2-on-400m-talktalk-rescue-why-rivals-are-calling-it-a-stitch-up/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6d623b03d8a3c2cc",
+      "titleEn": "Schwab Trading Activity Index™: STAX Score up in September Despite Inflation Concerns",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261005877131/en/Schwab-Trading-Activity-Index%E2%84%A2-STAX-Score-up-in-September-Despite-Inflation-Concerns/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e6e874e29596ea03",
+      "titleEn": "Law Offices of Howard G. Smith Announces Investigation of Primoris Services Corporation (PRIM) on Behalf of Investors",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261005765169/en/Law-Offices-of-Howard-G.-Smith-Announces-Investigation-of-Primoris-Services-Corporation-PRIM-on-Behalf-of-Investors/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e35484e6c9156f55",
+      "titleEn": "AstraZeneca opens new global strategic R&amp;D center in Kendall Square, Cambridge, Massachusetts",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261005363276/en/AstraZeneca-opens-new-global-strategic-RD-center-in-Kendall-Square-Cambridge-Massachusetts/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7393ae2e1e95873d",
+      "titleEn": "Alaska Power &amp; Telephone Company Adopts Shareholder Rights Plan",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261002002313/en/Alaska-Power-Telephone-Company-Adopts-Shareholder-Rights-Plan/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ecbf1418839aff24",
+      "titleEn": "Mitsui Chemicals Launches InnoCell™ P-Type High Oxygen-Permeable Culture Plates to Accelerate Organoid-Based Drug Discovery",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261005194080/en/Mitsui-Chemicals-Launches-InnoCell%E2%84%A2-P-Type-High-Oxygen-Permeable-Culture-Plates-to-Accelerate-Organoid-Based-Drug-Discovery/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a34a56589056a90a",
+      "titleEn": "Hinge Health to announce third quarter 2026 financial results on November 2, 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261005693574/en/Hinge-Health-to-announce-third-quarter-2026-financial-results-on-November-2-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7229ef509f2ae187",
+      "titleEn": "NEC X Selects Nine Startups From 650+ Applicants for Batch 16 of Elev X! Ignite",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261005267534/en/NEC-X-Selects-Nine-Startups-From-650-Applicants-for-Batch-16-of-Elev-X%21-Ignite/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:687bb055bf8c038a",
+      "titleEn": "Anthem Blue Cross and Blue Shield in Virginia and Privia Health Reach New Agreement",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261005720733/en/Anthem-Blue-Cross-and-Blue-Shield-in-Virginia-and-Privia-Health-Reach-New-Agreement/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:39e88ee2a8a8d328",
+      "titleEn": "GoodVision AI Enters into Two Collaboration Agreements: 15MW Modular Factory with TDTC and 100-Node Inference Pilot with Hop Global",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261005348969/en/GoodVision-AI-Enters-into-Two-Collaboration-Agreements-15MW-Modular-Factory-with-TDTC-and-100-Node-Inference-Pilot-with-Hop-Global/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:15213698453c0118",
+      "titleEn": "Guardant Health COSMOS Study Published in Cancer Research Communications Validates Utility of Guardant Reveal™ Liquid Biopsy Test for Predicting Recurrence in Melanoma",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261002257126/en/Guardant-Health-COSMOS-Study-Published-in-Cancer-Research-Communications-Validates-Utility-of-Guardant-Reveal%E2%84%A2-Liquid-Biopsy-Test-for-Predicting-Recurrence-in-Melanoma/",
       "published": null
     }
   ]
