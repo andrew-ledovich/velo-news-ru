@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-10-05T01:56:29.158365Z",
+  "generatedAt": "2026-10-05T08:01:24.365723Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 7,
   "items": [
+    {
+      "id": "stockanalysis:ba5479fd49eb6529",
+      "titleEn": "Asia stocks surge as Fed hike bets fade: can the rally survive 5% yields",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/05/asia-stocks-surge-as-fed-hike-bets-fade-can-the-rally-survive-5-yields/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d26f2fa1f1191065",
+      "titleEn": "TSMC hits another record but Nvidia and Apple demand may become its next problem",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/05/tsmc-hits-another-record-but-nvidia-and-apple-demand-may-become-its-next-problem/",
+      "published": null
+    },
     {
       "id": "stockanalysis:5666a57fceebf02c",
       "titleEn": "Goldman Sachs explains why it is bullish on Nu Holdings stock",
@@ -22,111 +40,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1c083fcdf6686219",
-      "titleEn": "IMF says bond markets are ‘orderly,' but gold's resilience says something else",
-      "summaryEn": "(Kitco News) - If rising bond yields around the world aren’t really a problem, why is the International Monetary Fund talking about them? The IMF said Thursday that global bond markets continue to function in an “orderly manner,” but this reassurance comes as yields have risen across advanced and emerging economies. According to Reuters, U.S. 10-year bond yields saw their biggest quarterly rise this century during the third quarter. Traditionally, higher bond yields are bad news for the precious metal. Gold doesn’t pay interest, so when investors can earn more by holding government debt, the opportunity cost of owning bullion rises.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-02/imf-says-bond-markets-are-orderly-golds-resilience-says-something-else",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d375b4150cd7d020",
-      "titleEn": "OpenAI Hires Former White House Cyber Official as Regulators Probe AI Dangers",
-      "summaryEn": "The former leader of artificial intelligence policy at the White House ’s Office of the National Cyber Director , Thomas Lind , joined OpenAI , The Information reported Friday (Oct. 2), citing the head of OpenAI’s national security policy team. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Lind joined OpenAI this week and will lead cyber and strategic risk on the firm’s national security policy team, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-hires-former-white-house-cyber-official-regulators-probe-ai-dangers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a20a5b533a78d805",
-      "titleEn": "Wall Street on the brink of bearish majority after gold's post-payrolls slide, Main Street abandons bullish bias as metals test support",
-      "summaryEn": "(Kitco News) – Gold prices fell sharply this week as early pressure from rising Treasury yields, a stronger U.S. dollar, and renewed Fed rate-hike expectations overwhelmed safe-haven demand, and even Friday’s weak payrolls report couldn’t deliver a sustainable boost. Spot gold kicked off the week trading at $4,277.90 per ounce on Sunday evening, and the yellow metal saw a brief burst of momentum to push to its weekly high at $4,280.56 per ounce on Monday before sellers took control. The decline accelerated as higher oil prices tied to the U.S.-Iran conflict kept inflation concerns alive, while rising long-term Treasury yields and a firmer dollar reduced demand for non-yielding assets. Gold attempted to stabilize Tuesday after U.S. job openings showed signs of cooling and consumer confidence weakened, but the rebound remained limited as markets continued to price in the risk of another Federal Reserve rate hike. Selling resumed Wednesday as the dollar stayed near two-month highs and Treasury yields remained elevated, keeping spot prices pinned near the lower end of their recent range.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-02/wall-street-brink-bearish-majority-after-golds-post-payrolls-slide-main",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ee74727055578ecf",
-      "titleEn": "Gold bulls disappointed as weak jobs report fails to spark rally, $4,000 support looms",
-      "summaryEn": "(Kitco News) - Early morning optimism turned into disappointment among gold investors, as prices were unable to hold on to their initial gains following weak U.S. employment data. The yellow metal is not only looking at its second week of losses, but prices are also heading into the weekend near their recent lows. Spot gold last traded at $4,137 an ounce, down more than 3% for the week. Selling pressure picked up as the yellow metal was unable to hold gains above $4,200 an ounce after the U.S. Bureau of Labor Statistics announced that 29,000 jobs were created in September , significantly missing expectations. The report also said that the unemployment rate increased to 4.2%, while average wages rose only 0.1%.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-02/gold-bulls-disappointed-weak-jobs-report-fails-spark-rally-4000-support",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0a1c585273037819",
-      "titleEn": "Metals give back jobs-report bounce as oil, yields stay elevated - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were lower in late U.S. trading Friday, as a weaker-than-expected U.S. payrolls report cut October Fed-hike odds but failed to break the broader pressure from elevated Treasury yields, a firm dollar and lingering oil-market risk. At the time of writing, spot gold was trading near $4,142.00 an ounce, down 0.83% on the session, while spot silver was trading near $60.230, down 1.04%. North American equities closed higher as softer labor data reduced fears of an imminent Fed rate hike. The S&P 500 rose 56.27 points, or 0.7%, to 7,722.72. The Dow Jones Industrial Average gained 250.40 points, or 0.5%, to 51,176.96. The Nasdaq Composite climbed 319.27 points, or 1.2%, to 27,190.86, while the Russell 2000 added 26.27 points, or 0.9%, to 2,832.90. European equities also recovered after Thursday’s bond-driven selloff. The Stoxx Europe 600 rose 0.7% to 630.95, Germany’s DAX gained 1.2% to 25,231.20 and France’s CAC 40 advanced 0.8% to 7,897.19. The U.K. FTSE 100 rose 0.3% to 10,461.95, while Italy’s FTSE MIB added 0.5% to 50,483.21.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-02/metals-give-back-jobs-report-bounce-oil-yields-stay-elevated-kitco-pm",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f4da03360b88adaf",
-      "titleEn": "KGC Investors Have Opportunity to Join Kinross Gold Corporation Fraud Investigation with SBS Law",
+      "id": "stockanalysis:de04249fa05cd035",
+      "titleEn": "JEOL: Sales launch of HAXIS: The New Low-angle Ion Milling Scanning Electron Microscope",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261004237795/en/KGC-Investors-Have-Opportunity-to-Join-Kinross-Gold-Corporation-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20260928207899/en/JEOL-Sales-launch-of-HAXIS-The-New-Low-angle-Ion-Milling-Scanning-Electron-Microscope/",
       "published": null
     },
     {
-      "id": "stockanalysis:3ce7cec655b23c91",
-      "titleEn": "FLUT Investors Have Opportunity to Join Flutter Entertainment plc Fraud Investigation with SBS Law",
+      "id": "stockanalysis:03801e8ef27a1219",
+      "titleEn": "Omega to Transition Operations of 32 Facilities in Florida to PACS Group",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261004688000/en/FLUT-Investors-Have-Opportunity-to-Join-Flutter-Entertainment-plc-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20261004350939/en/Omega-to-Transition-Operations-of-32-Facilities-in-Florida-to-PACS-Group/",
       "published": null
     },
     {
-      "id": "stockanalysis:0c10a1b3239153c2",
-      "titleEn": "FISN Investors Have Opportunity to Join Deep Fission, Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:846793a3c35bbd11",
+      "titleEn": "HAFNIA LIMITED: Share Capital Increase Registered",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261004164639/en/FISN-Investors-Have-Opportunity-to-Join-Deep-Fission-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:06348ef9365bd140",
-      "titleEn": "NCPL Investors Have Opportunity to Join Netcapital Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261004158885/en/NCPL-Investors-Have-Opportunity-to-Join-Netcapital-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:76d96bf3bbb4871e",
-      "titleEn": "NEOG Investors Have Opportunity to Join Neogen Corporation Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261004334718/en/NEOG-Investors-Have-Opportunity-to-Join-Neogen-Corporation-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:09c3184613bc312a",
-      "titleEn": "DASH Investors Have Opportunity to Join DoorDash, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261004465532/en/DASH-Investors-Have-Opportunity-to-Join-DoorDash-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e7be7b407736da47",
-      "titleEn": "QBTS Investors Have Opportunity to Join D-Wave Quantum Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261004458634/en/QBTS-Investors-Have-Opportunity-to-Join-D-Wave-Quantum-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20261004477455/en/HAFNIA-LIMITED-Share-Capital-Increase-Registered/",
       "published": null
     }
   ]
