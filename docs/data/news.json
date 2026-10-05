@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-04T23:04:10.429757Z",
+  "generatedAt": "2026-10-05T01:56:29.158365Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:5666a57fceebf02c",
@@ -127,15 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261004458634/en/QBTS-Investors-Have-Opportunity-to-Join-D-Wave-Quantum-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b8cec25c9626eebf",
-      "titleEn": "SFIX Investors Have Opportunity to Join Stitch Fix, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261004230392/en/SFIX-Investors-Have-Opportunity-to-Join-Stitch-Fix-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
