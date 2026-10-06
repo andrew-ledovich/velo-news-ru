@@ -1,8 +1,116 @@
 {
-  "generatedAt": "2026-10-06T16:15:11.300033Z",
+  "generatedAt": "2026-10-06T20:59:36.290853Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 23,
   "items": [
+    {
+      "id": "stockanalysis:c2f015f8d6797796",
+      "titleEn": "Hong Kong becomes Russia's gold gateway to China as bullion flows shatter records",
+      "summaryEn": "(Kitco News) – Western sanctions have upended traditional gold flows, with Russian bullion that would normally go to London now pouring into Hong Kong at a record pace on its way to mainland China and other Asian markets. According to an analysis of Hong Kong Census and Statistics Department data by BullionVault, Hong Kong imported 112.7 tonnes of Russian-origin gold in just the first seven months of 2026. This far surpassed the record 92.1 tonnes of Russian gold imported during all of 2025. In 2021, before Russia’s invasion of Ukraine, Hong Kong imported only 3.3 tonnes. Russian bullion accounted for almost 15% of Hong Kong’s non-monetary gold imports in the first seven months of this year, up from just 0.6% in 2021. Analysts told CNBC that the dramatic increase highlights the ways that Russia’s gold trade has been rerouted since the start of the Ukraine war in 2022, when its gold producers were shut out of major Western markets.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-06/hong-kong-becomes-russias-gold-gateway-china-bullion-flows-shatter-records",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f27b90212b219f1a",
+      "titleEn": "S&amp;P 500 hits record high as AI stocks rise and Treasury yields ease further",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/06/sp-500-hits-record-high-as-ai-stocks-rise-and-treasury-yields-ease-further/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8651fb624df63804",
+      "titleEn": "LBMA 2026: Central banks find new reasons to increase official gold reserves",
+      "summaryEn": "(Kitco News) - For the last four years, central bank demand has transformed the gold market, providing a critical pillar of support for prices. Even if official demand continues to slow, reserve managers are increasingly viewing the precious metal as a strategic asset that can protect against geopolitical uncertainty, financial market instability and declining confidence in traditional reserve assets. Speaking during a panel on central banks at the London Bullion Market Association’s annual Precious Metals Conference, reserve managers from Europe, Africa and Latin America said gold’s role has expanded well beyond a simple inflation hedge or store of value. The comments suggest that even after gold ’s historic rally, central bank demand could remain an important structural pillar for the precious metal.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-06/lbma-2026-central-banks-find-new-reasons-increase-official-gold-reserves",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1077eadd168f7d1b",
+      "titleEn": "CoreWeave stock faces mounting risks as key challenges persist",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/06/coreweave-stock-faces-mounting-risks-as-key-challenges-persist/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7d82e93dea4439b3",
+      "titleEn": "What drove FuelCell stock higher today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/06/what-drove-fuelcell-stock-higher-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:68c3e0f8d3ef722c",
+      "titleEn": "Nebius stock jumps as technical breakout puts $250 level in focus",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/06/nebius-stock-jumps-as-technical-breakout-puts-250-level-in-focus/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:07d4806a29dd1974",
+      "titleEn": "Gold doesn't have to be a ‘dead asset': Tokenization could unlock utility and expand the market – LBMA 2026",
+      "summaryEn": "(Kitco News) - Although gold is recognized as an essential monetary asset, it is also a dead asset, just sitting on a ledger; however, the tokenization of the precious metal could increase its utility, attracting more capital to the space, according to experts at the London Bullion Market Association’s annual Global Precious Metals Conference Vincent Domien, Head of Precious Metals Trading at ICBC Standard Bank, said during a panel discussion that while institutional demand for tokenized gold remains relatively low, that could change dramatically once the metal can be put to work more efficiently. “I think the biggest thing for me at the moment, especially with price going up, is you have this dead asset on your balance sheet doing absolutely nothing for you,” he said.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-06/gold-doesnt-have-be-dead-asset-tokenization-could-unlock-utility-and-expand",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:eeb79e98044cc754",
+      "titleEn": "Seagate, Western Digital stocks are falling again on Tuesday: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/06/seagate-western-digital-stocks-are-falling-again-on-tuesday-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:10ac0d4058981f85",
+      "titleEn": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council",
+      "summaryEn": "(Kitco News) – Central banks maintained the strong monthly pace of gold allocation to their reserves in August, with the Chinese, Uzbek and Polish central banks leading all sovereign buyers, while other banks repatriated or transferred their sovereign bullion to new vaults, according to Marissa Salim, Senior Research Lead, APAC at the World Gold Council (WGC). “Global central banks remain on pace with gold accumulation this August, with reported net buying totalling 39t,” Salim wrote in the WGC’s latest update. “Large, consistent buyers of gold in 2026 showed continued activity in the month, with China taking the lead, followed by Uzbekistan and Poland.” Salim said central banks have reported total purchases of 170 tonnes year-to-date in 2026.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-06/central-banks-add-39-net-tonnes-gold-august-china-uzbekistan-and-poland",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ea320a3a94818903",
+      "titleEn": "SpaceX continues rally on Tuesday: what's behind the recent bull run?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/06/spacex-continues-rally-on-tuesday-whats-behind-the-recent-bull-run/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:df5804cc30e1bf30",
+      "titleEn": "Uber Eats Enters Catering Space With $2.3 Billion ezCater Deal",
+      "summaryEn": "Uber is paying $2.3 billion to acquire catering and workplace meal platform ezCater , according to a Tuesday (Oct. 6) news release. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The all-cash deal is designed to combine ezCater’s catering and B2B expertise, Uber Eats ’ global reach among consumers and restaurants, and Uber for Business ’s relationships with companies of all sizes, per the release.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/acquiring/2026/uber-eats-enters-catering-space-with-2-billion-dollar-ezcater-deal/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4f7694b28560dbf2",
+      "titleEn": "Why this analyst expects Meta stock to hit $1,000",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/06/why-this-analyst-expects-meta-stock-to-hit-1000/",
+      "published": null
+    },
     {
       "id": "stockanalysis:6ede2e84ba6400a4",
       "titleEn": "Netlist stock: why Micron will pay NLST $30M a quarter for 5 years",
@@ -67,93 +175,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5fbd0153158348ff",
-      "titleEn": "Why is AMD stock gaining today?",
+      "id": "stockanalysis:5f1c5bab3a245c64",
+      "titleEn": "Seadrill Schedules Third Quarter 2026 Earnings Release and Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/06/why-is-amd-stock-gaining-today/",
+      "link": "https://www.businesswire.com/news/home/20261006880339/en/Seadrill-Schedules-Third-Quarter-2026-Earnings-Release-and-Conference-Call/",
       "published": null
     },
     {
-      "id": "stockanalysis:1d30dc520cf8e045",
-      "titleEn": "Here's why the Realty Income stock is in a freefall as US Treasury yields jump",
+      "id": "stockanalysis:b9f07c0b85b2281f",
+      "titleEn": "SmartStop Self Storage REIT Announces the Date of Its Third Quarter 2026 Earnings Release, Conference Call and Webcast",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/06/heres-why-the-realty-income-stock-is-in-a-freefall-as-us-treasury-yields-jump/",
+      "link": "https://www.businesswire.com/news/home/20261006231760/en/SmartStop-Self-Storage-REIT-Announces-the-Date-of-Its-Third-Quarter-2026-Earnings-Release-Conference-Call-and-Webcast/",
       "published": null
     },
     {
-      "id": "stockanalysis:d3dbfa9a46af5ce6",
-      "titleEn": "Gold, silver prices rise as yields ease but December Fed risk remains - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices are higher in early U.S. trading Tuesday, as long-dated Treasury yields eased from Monday’s multi-decade highs and oil fell below $100 a barrel, giving metals room to extend their post-payroll rebound. At the time of writing, spot gold was trading near $4,175.30 an ounce, up 0.86% on the session, while spot silver was trading near $61.470, up 0.87%. Market positioning remains split between a weak labor signal and sticky inflation pressure. September nonfarm payrolls rose by just 29,000 , the unemployment rate held at 4.2%, average hourly earnings rose 0.1% on the month and July and August payrolls were revised down by a combined 60,000 jobs. Monday’s services data kept the inflation side of the trade alive, with the ISM services PMI easing to 54.9 from 55.4 while the prices index rose to 74.0 , its highest reading since July 2022. Fed funds pricing now puts the probability of no change at the October 28 meeting near 78%, but December still carries a high probability of at least one additional hike. The 10-year Treasury yield was near the 5.27% area, the 30-year yield was near 5.63%, and the dollar index eased from Monday’s nearly 18-month high. Tuesday’s Fed speakers, Wednesday’s September Fed minutes, Thursday’s weekly jobless claims and Friday’s preliminary October consumer sentiment are the next rate-path tests. Softer labor or sentiment readings would support gold; firm price expectations or hawkish minutes would keep the yield channel pointed against bullion.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-06/gold-silver-prices-rise-yields-ease-december-fed-risk-remains-kitco-am",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:53025c51371b2a46",
-      "titleEn": "Asos shares fall 13% after customers receive apparent hacking message",
+      "id": "stockanalysis:05b0f61b34aa351c",
+      "titleEn": "Fisk Electric Awarded $24 Million Data Center Electrical Project, Expanding Prefabrication Capabilities in Houston",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/06/asos-shares-fall-13-after-customers-receive-apparent-hacking-message/",
+      "link": "https://www.businesswire.com/news/home/20261006951897/en/Fisk-Electric-Awarded-24-Million-Data-Center-Electrical-Project-Expanding-Prefabrication-Capabilities-in-Houston/",
       "published": null
     },
     {
-      "id": "stockanalysis:db344c2ed38bb14e",
-      "titleEn": "PayPal stock has formed an island reversal: is a rebound coming?",
+      "id": "stockanalysis:3dea075629832e48",
+      "titleEn": "Brazos Midstream Completes Sale of Midland Basin Assets to ONEOK",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/06/paypal-stock-has-formed-an-island-reversal-is-a-rebound-coming/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:22bde89ac4b17ab8",
-      "titleEn": "Worthington Steel Declares Quarterly Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261005457896/en/Worthington-Steel-Declares-Quarterly-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0cbee7dba711f8a5",
-      "titleEn": "Primaris REIT Announces Financial Results Release Date, Webcast, and Conference Call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261006812246/en/Primaris-REIT-Announces-Financial-Results-Release-Date-Webcast-and-Conference-Call/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:510fa369b8c99682",
-      "titleEn": "Kura Sushi USA Introduces Enhanced Rewards Program Featuring Elite Tuna-Tier Perks and a Sleek New Interface",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261006596683/en/Kura-Sushi-USA-Introduces-Enhanced-Rewards-Program-Featuring-Elite-Tuna-Tier-Perks-and-a-Sleek-New-Interface/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:44605b850eb0febc",
-      "titleEn": "Publix and Sustainable Fisheries Partnership Make Waves Together",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261006122953/en/Publix-and-Sustainable-Fisheries-Partnership-Make-Waves-Together/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:eba50cb385c97eca",
-      "titleEn": "SkyDrive Partners with Leading Kansai Enterprises, Including MUFG Bank, to Launch Feasibility Study for Commercial eVTOL Operations in Western Japan",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261006319111/en/SkyDrive-Partners-with-Leading-Kansai-Enterprises-Including-MUFG-Bank-to-Launch-Feasibility-Study-for-Commercial-eVTOL-Operations-in-Western-Japan/",
+      "link": "https://www.businesswire.com/news/home/20261005076332/en/Brazos-Midstream-Completes-Sale-of-Midland-Basin-Assets-to-ONEOK/",
       "published": null
     }
   ]
