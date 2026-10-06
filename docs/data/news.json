@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-10-06T02:55:47.419355Z",
+  "generatedAt": "2026-10-06T09:36:54.047744Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:c5c7773818735ae0",
+      "titleEn": "FTSE 100 rises for a third day as bond rout eases: is the worst finally over?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/06/ftse-100-rises-for-a-third-day-as-bond-rout-eases-is-the-worst-finally-over/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2748bcdbdef336cd",
+      "titleEn": "Why Samsung and SK Hynix are falling even as Korea's chip exports keep surging",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/06/why-samsung-and-sk-hynix-are-falling-even-as-koreas-chip-exports-keep-surging/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8d5554fbaa746e23",
+      "titleEn": "OpenAI eyes a $1.4T valuation without an IPO: why the UAE is willing to bet big",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/06/openai-eyes-a-1-4t-valuation-without-an-ipo-why-the-uae-is-willing-to-bet-big/",
+      "published": null
+    },
     {
       "id": "stockanalysis:ab1c673d7fff9ead",
       "titleEn": "Gold holds near $4,138 as ISM prices keep yields elevated - Kitco PM Report",
@@ -49,75 +76,66 @@
       "published": null
     },
     {
-      "id": "stockanalysis:915bd4ad3b0e8662",
-      "titleEn": "Why is Nvidia stock rising today?",
+      "id": "stockanalysis:10877cc66a4d0d2b",
+      "titleEn": "TITAN Forward 2029 Strategy Gains Further Momentum with Investment-Grade Rating",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/05/why-is-nvidia-stock-rising-today/",
+      "link": "https://www.businesswire.com/news/home/20261006359655/en/TITAN-Forward-2029-Strategy-Gains-Further-Momentum-with-Investment-Grade-Rating/",
       "published": null
     },
     {
-      "id": "stockanalysis:2ca2aec696054ee0",
-      "titleEn": "Microsoft stock rises as Melius upgrades to Buy, sees over 26% upside",
+      "id": "stockanalysis:0a60faa2489659e9",
+      "titleEn": "dynaCERT and IPMD Advance French Commercial Development",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/05/microsoft-stock-rises-as-melius-upgrades-to-buy-sees-over-26-upside/",
+      "link": "https://www.businesswire.com/news/home/20261006812954/en/dynaCERT-and-IPMD-Advance-French-Commercial-Development/",
       "published": null
     },
     {
-      "id": "stockanalysis:cd8acd18460a5ae9",
-      "titleEn": "5.3% bond yields can compete with gold, but they can't stop fiat currency erosion - YieldMax's Khouw",
-      "summaryEn": "(Kitco News) - Rising bond yields are creating meaningful competition for gold as investors can once again generate attractive income from cash and fixed-income assets. However, persistent inflation, which continues to erode the purchasing power of fiat currencies, means the fundamental case for owning gold remains intact, according to one market strategist. Gold prices remain under pressure at the start of a new trading week as the yield on U.S. 10-year bonds pushes to 5.32%, their highest level in nearly 20 years. Spot gold last traded at $4,134 an ounce, nearly unchanged on the day. In an interview with Kitco News, Michael Khouw, chief strategist at YieldMax, said higher interest rates are understandably weighing on gold in the near term as investors recognize the utility of earning meaningful income from their capital.",
+      "id": "stockanalysis:0e992a4d18cbfd95",
+      "titleEn": "CFIN Unveils Winners of 2026 Foodtech Frontier Awards, 40 Innovators Strengthening Food Supply Chains at Home and Abroad",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261006553140/en/CFIN-Unveils-Winners-of-2026-Foodtech-Frontier-Awards-40-Innovators-Strengthening-Food-Supply-Chains-at-Home-and-Abroad/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8eb5e45f11f73447",
+      "titleEn": "European Medtech Firms Adopt Continuous Lifecycle Model",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261006605195/en/European-Medtech-Firms-Adopt-Continuous-Lifecycle-Model/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4d72e21703aa1919",
+      "titleEn": "Informa TechTarget Announces Winners of the First-Ever Archer Awards for GTM Excellence In the Middle East and North Africa (MENA)",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261005612557/en/Informa-TechTarget-Announces-Winners-of-the-First-Ever-Archer-Awards-for-GTM-Excellence-In-the-Middle-East-and-North-Africa-MENA/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ae7c20ad08639b66",
+      "titleEn": "Everli, a Leading Italian E-Grocery Marketplace, Advances Toward Nasdaq Listing as SEC Declares Registration Statement Effective",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261006271354/en/Everli-a-Leading-Italian-E-Grocery-Marketplace-Advances-Toward-Nasdaq-Listing-as-SEC-Declares-Registration-Statement-Effective/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:db9771a338dc3433",
+      "titleEn": "BitGo and HashKey Sign Multi-Pillar Strategic Partnership Spanning Staking, Trading, Custody and RWA Tokenization",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-05/53-bond-yields-can-compete-gold-they-cant-stop-fiat-currency-erosion",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c6ab2da964438292",
-      "titleEn": "AMC Entertainment Holdings, Inc. Announces Results of Tender Offer, the Closing of First Lien Notes Offering and New Term Loan Facilities Totaling a $3.97 Billion Refinancing of Existing Debt",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261005927504/en/AMC-Entertainment-Holdings-Inc.-Announces-Results-of-Tender-Offer-the-Closing-of-First-Lien-Notes-Offering-and-New-Term-Loan-Facilities-Totaling-a-3.97-Billion-Refinancing-of-Existing-Debt/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b9d67fd71e8bdf6b",
-      "titleEn": "San Diego Launches New Consumer Protection Unit With Lawsuits Against AppLovin, Roblox and Polymaker",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261005827865/en/San-Diego-Launches-New-Consumer-Protection-Unit-With-Lawsuits-Against-AppLovin-Roblox-and-Polymaker/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8aa4aa9cd7c6fad3",
-      "titleEn": "KKR to Acquire Gen II Fund Services for More Than $5 Billion from Hg and General Atlantic",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261004447451/en/KKR-to-Acquire-Gen-II-Fund-Services-for-More-Than-5-Billion-from-Hg-and-General-Atlantic/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2d6ad437d6d0036d",
-      "titleEn": "KBRA Assigns Preliminary Ratings to EQUS 2026-PHNX",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261005080192/en/KBRA-Assigns-Preliminary-Ratings-to-EQUS-2026-PHNX/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:32dccfe530af0589",
-      "titleEn": "KnightHawk Engineering Puts Its Aircraft and Pilots to Work for Angel Flight South Central",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261005279105/en/KnightHawk-Engineering-Puts-Its-Aircraft-and-Pilots-to-Work-for-Angel-Flight-South-Central/",
+      "link": "https://www.businesswire.com/news/home/20261006536177/en/BitGo-and-HashKey-Sign-Multi-Pillar-Strategic-Partnership-Spanning-Staking-Trading-Custody-and-RWA-Tokenization/",
       "published": null
     }
   ]
