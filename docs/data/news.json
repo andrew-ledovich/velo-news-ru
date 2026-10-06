@@ -1,141 +1,159 @@
 {
-  "generatedAt": "2026-10-06T09:36:54.047744Z",
+  "generatedAt": "2026-10-06T16:15:11.300033Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 17,
   "items": [
     {
-      "id": "stockanalysis:c5c7773818735ae0",
-      "titleEn": "FTSE 100 rises for a third day as bond rout eases: is the worst finally over?",
+      "id": "stockanalysis:6ede2e84ba6400a4",
+      "titleEn": "Netlist stock: why Micron will pay NLST $30M a quarter for 5 years",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/06/ftse-100-rises-for-a-third-day-as-bond-rout-eases-is-the-worst-finally-over/",
+      "link": "https://invezz.com/news/2026/10/06/netlist-stock-why-micron-will-pay-nlst-30m-a-quarter-for-5-years/",
       "published": null
     },
     {
-      "id": "stockanalysis:2748bcdbdef336cd",
-      "titleEn": "Why Samsung and SK Hynix are falling even as Korea's chip exports keep surging",
+      "id": "stockanalysis:9eafb0898d592a4d",
+      "titleEn": "Why is Marvell Technology stock rallying on Tuesday?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/06/why-samsung-and-sk-hynix-are-falling-even-as-koreas-chip-exports-keep-surging/",
+      "link": "https://invezz.com/news/2026/10/06/why-is-marvell-technology-stock-rallying-on-tuesday/",
       "published": null
     },
     {
-      "id": "stockanalysis:8d5554fbaa746e23",
-      "titleEn": "OpenAI eyes a $1.4T valuation without an IPO: why the UAE is willing to bet big",
+      "id": "stockanalysis:6c073007c96372ce",
+      "titleEn": "Why Nvidia stock hit another record high on Tuesday",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/06/openai-eyes-a-1-4t-valuation-without-an-ipo-why-the-uae-is-willing-to-bet-big/",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/06/why-nvidia-stock-hit-another-record-high-on-tuesday/",
       "published": null
     },
     {
-      "id": "stockanalysis:ab1c673d7fff9ead",
-      "titleEn": "Gold holds near $4,138 as ISM prices keep yields elevated - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were little changed and spot silver prices were firmer in late U.S. trading Monday, as fading October Federal Reserve rate-hike expectations supported metals while a stronger dollar and long-dated Treasury yields near multi-decade highs capped gold’s rebound. At the time of writing, spot gold was trading near $4,137.70 an ounce, down 0.05% on the session, while spot silver was trading near $60.900, up 1.04%. North American equities closed higher as buyout activity and technology strength offset another rise in Treasury yields. The S&P 500 rose 51.23 points, or 0.7%, to 7,773.95, within 0.3% of its record high. The Dow Jones Industrial Average gained 90.94 points, or 0.2%, to 51,267.90. The Nasdaq Composite climbed 286.45 points, or 1.1%, to a record 27,477.31, while the Russell 2000 rose 14.24 points, or 0.5%, to 2,847.14. European equities closed mostly higher, with France the regional outlier as fiscal concerns weighed on Paris-listed shares and the euro. The Stoxx Europe 600 rose 0.36% to 633.62, Germany’s DAX gained 0.09% to 25,254.21, the U.K. FTSE 100 added 0.34% to 10,497.94 and Italy’s FTSE MIB rose 0.66% to 50,818.38. France’s CAC 40 fell 0.80% to 7,834.10.",
+      "id": "stockanalysis:3eaaed44cceb1ae0",
+      "titleEn": "ICE brings futures trading to London's $190 billion-a-day physical gold market",
+      "summaryEn": "(Kitco News) – The world’s largest physical gold trading market now has new futures contracts run by the world’s largest precious metals futures exchange. This week, the Intercontinental Exchange (ICE) – owner of the New York Stock Exchange –launched exchange-traded precious metal futures trading in London. The contracts are directly linked to London&#x27;s daily gold price auctions, and the exchange has also launched futures contracts for silver , platinum and palladium . The new ICE contracts give market participants an exchange-based means to trade precious metals price exposure from London. London’s physical gold trading dwarfs that of any other global market, with daily over-the-counter transactions in the area of $190 billion, while the city&#x27;s vaults hold approximately $1.4 trillion in gold bullion. Unlike New York, which has had well-established gold futures trading, London has not had a major gold futures market in many years despite its dominant position in the physical bullion market.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-06/ice-brings-futures-trading-londons-190-billion-day-physical-gold-market",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2bee7e33a238c3ce",
+      "titleEn": "Constellation Energy stock is soaring and it has Google to thank",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/06/constellation-energy-stock-is-soaring-and-it-has-google-to-thank/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:50c327f2d6c804cc",
+      "titleEn": "Shopify stock has crossed a crucial resistance: will the rally persist?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/06/shopify-stock-has-crossed-a-crucial-resistance-will-the-rally-persist/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bec35abe50c94b58",
+      "titleEn": "Forget Energy Transfer and EPD stocks: PAA is firing on all cylinders",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/06/forget-energy-transfer-and-epd-stocks-paa-is-firing-on-all-cylinders/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5fbd0153158348ff",
+      "titleEn": "Why is AMD stock gaining today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/06/why-is-amd-stock-gaining-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1d30dc520cf8e045",
+      "titleEn": "Here's why the Realty Income stock is in a freefall as US Treasury yields jump",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/06/heres-why-the-realty-income-stock-is-in-a-freefall-as-us-treasury-yields-jump/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d3dbfa9a46af5ce6",
+      "titleEn": "Gold, silver prices rise as yields ease but December Fed risk remains - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices are higher in early U.S. trading Tuesday, as long-dated Treasury yields eased from Monday’s multi-decade highs and oil fell below $100 a barrel, giving metals room to extend their post-payroll rebound. At the time of writing, spot gold was trading near $4,175.30 an ounce, up 0.86% on the session, while spot silver was trading near $61.470, up 0.87%. Market positioning remains split between a weak labor signal and sticky inflation pressure. September nonfarm payrolls rose by just 29,000 , the unemployment rate held at 4.2%, average hourly earnings rose 0.1% on the month and July and August payrolls were revised down by a combined 60,000 jobs. Monday’s services data kept the inflation side of the trade alive, with the ISM services PMI easing to 54.9 from 55.4 while the prices index rose to 74.0 , its highest reading since July 2022. Fed funds pricing now puts the probability of no change at the October 28 meeting near 78%, but December still carries a high probability of at least one additional hike. The 10-year Treasury yield was near the 5.27% area, the 30-year yield was near 5.63%, and the dollar index eased from Monday’s nearly 18-month high. Tuesday’s Fed speakers, Wednesday’s September Fed minutes, Thursday’s weekly jobless claims and Friday’s preliminary October consumer sentiment are the next rate-path tests. Softer labor or sentiment readings would support gold; firm price expectations or hawkish minutes would keep the yield channel pointed against bullion.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-05/gold-holds-near-4138-ism-prices-keep-yields-elevated-kitco-pm-report",
+      "link": "https://www.kitco.com/news/article/2026-10-06/gold-silver-prices-rise-yields-ease-december-fed-risk-remains-kitco-am",
       "published": null
     },
     {
-      "id": "stockanalysis:2a6bea3145da5685",
-      "titleEn": "LBMA 2026: Gold is sending a message as debt fears fuel the debasement trade",
-      "summaryEn": "(Kitco News) - The traditional relationship between gold and bond yields is being challenged as mounting government debt, persistent inflation and concerns about the long-term purchasing power of fiat currencies continue to fuel the debasement trade, according to market experts speaking at the London Bullion Market Association’s annual Global Precious Metals Conference. During a panel discussion titled “Structural Story, Tactical Trade, and Reconciling the Debasement Narrative,” moderated by Nicky Shiels, Head of Research and Metals Strategy at MKS PAMP, analysts and fund managers said gold’s resilience in the face of rising global bond yields could be an important signal that investors are becoming increasingly concerned about government finances. Vikram Dhawan, Head of Commodities and Fund Manager at Nippon India Mutual Fund, said the debasement narrative ultimately comes down to a global economy carrying an increasingly unsustainable debt burden.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-05/lbma-2026-gold-sending-message-debt-fears-fuel-debasement-trade",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:69b1f349a2c1f0ea",
-      "titleEn": "L'Oréal Cuts Customer Service Time 64% With AI",
-      "summaryEn": "L’Oréal’s AI customer service tools cut average case handling time 64% across 25 North American brands, with advisers closing cases in about 2.5 minutes instead of seven. On the YSL Beauty and Kiehl’s websites, an AI agent now verifies shoppers, pulls live tracking data and resolves order status requests without a human, using only preapproved language. L’Oréal aims to automate 60% of order status requests, as PYMNTS Intelligence finds shoppers accept AI help but only 24% would let an agent shop and pay for them.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/loreal-cuts-customer-service-time-64-with-ai/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5689b6ca1aa86655",
-      "titleEn": "Russian plague outbreak could boost these under-the-radar pharma stocks",
+      "id": "stockanalysis:53025c51371b2a46",
+      "titleEn": "Asos shares fall 13% after customers receive apparent hacking message",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/05/russian-plague-outbreak-could-boost-these-under-the-radar-pharma-stocks/",
+      "link": "https://invezz.com/news/2026/10/06/asos-shares-fall-13-after-customers-receive-apparent-hacking-message/",
       "published": null
     },
     {
-      "id": "stockanalysis:63dd5f1bd7ef8c5d",
-      "titleEn": "Why Western Digital and Seagate stocks are rebounding on Monday?",
+      "id": "stockanalysis:db344c2ed38bb14e",
+      "titleEn": "PayPal stock has formed an island reversal: is a rebound coming?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/05/why-western-digital-and-seagate-stocks-are-rebounding-on-monday/",
+      "link": "https://invezz.com/news/2026/10/06/paypal-stock-has-formed-an-island-reversal-is-a-rebound-coming/",
       "published": null
     },
     {
-      "id": "stockanalysis:10877cc66a4d0d2b",
-      "titleEn": "TITAN Forward 2029 Strategy Gains Further Momentum with Investment-Grade Rating",
+      "id": "stockanalysis:22bde89ac4b17ab8",
+      "titleEn": "Worthington Steel Declares Quarterly Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261006359655/en/TITAN-Forward-2029-Strategy-Gains-Further-Momentum-with-Investment-Grade-Rating/",
+      "link": "https://www.businesswire.com/news/home/20261005457896/en/Worthington-Steel-Declares-Quarterly-Dividend/",
       "published": null
     },
     {
-      "id": "stockanalysis:0a60faa2489659e9",
-      "titleEn": "dynaCERT and IPMD Advance French Commercial Development",
+      "id": "stockanalysis:0cbee7dba711f8a5",
+      "titleEn": "Primaris REIT Announces Financial Results Release Date, Webcast, and Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261006812954/en/dynaCERT-and-IPMD-Advance-French-Commercial-Development/",
+      "link": "https://www.businesswire.com/news/home/20261006812246/en/Primaris-REIT-Announces-Financial-Results-Release-Date-Webcast-and-Conference-Call/",
       "published": null
     },
     {
-      "id": "stockanalysis:0e992a4d18cbfd95",
-      "titleEn": "CFIN Unveils Winners of 2026 Foodtech Frontier Awards, 40 Innovators Strengthening Food Supply Chains at Home and Abroad",
+      "id": "stockanalysis:510fa369b8c99682",
+      "titleEn": "Kura Sushi USA Introduces Enhanced Rewards Program Featuring Elite Tuna-Tier Perks and a Sleek New Interface",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261006553140/en/CFIN-Unveils-Winners-of-2026-Foodtech-Frontier-Awards-40-Innovators-Strengthening-Food-Supply-Chains-at-Home-and-Abroad/",
+      "link": "https://www.businesswire.com/news/home/20261006596683/en/Kura-Sushi-USA-Introduces-Enhanced-Rewards-Program-Featuring-Elite-Tuna-Tier-Perks-and-a-Sleek-New-Interface/",
       "published": null
     },
     {
-      "id": "stockanalysis:8eb5e45f11f73447",
-      "titleEn": "European Medtech Firms Adopt Continuous Lifecycle Model",
+      "id": "stockanalysis:44605b850eb0febc",
+      "titleEn": "Publix and Sustainable Fisheries Partnership Make Waves Together",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261006605195/en/European-Medtech-Firms-Adopt-Continuous-Lifecycle-Model/",
+      "link": "https://www.businesswire.com/news/home/20261006122953/en/Publix-and-Sustainable-Fisheries-Partnership-Make-Waves-Together/",
       "published": null
     },
     {
-      "id": "stockanalysis:4d72e21703aa1919",
-      "titleEn": "Informa TechTarget Announces Winners of the First-Ever Archer Awards for GTM Excellence In the Middle East and North Africa (MENA)",
+      "id": "stockanalysis:eba50cb385c97eca",
+      "titleEn": "SkyDrive Partners with Leading Kansai Enterprises, Including MUFG Bank, to Launch Feasibility Study for Commercial eVTOL Operations in Western Japan",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261005612557/en/Informa-TechTarget-Announces-Winners-of-the-First-Ever-Archer-Awards-for-GTM-Excellence-In-the-Middle-East-and-North-Africa-MENA/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ae7c20ad08639b66",
-      "titleEn": "Everli, a Leading Italian E-Grocery Marketplace, Advances Toward Nasdaq Listing as SEC Declares Registration Statement Effective",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261006271354/en/Everli-a-Leading-Italian-E-Grocery-Marketplace-Advances-Toward-Nasdaq-Listing-as-SEC-Declares-Registration-Statement-Effective/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:db9771a338dc3433",
-      "titleEn": "BitGo and HashKey Sign Multi-Pillar Strategic Partnership Spanning Staking, Trading, Custody and RWA Tokenization",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20261006536177/en/BitGo-and-HashKey-Sign-Multi-Pillar-Strategic-Partnership-Spanning-Staking-Trading-Custody-and-RWA-Tokenization/",
+      "link": "https://www.businesswire.com/news/home/20261006319111/en/SkyDrive-Partners-with-Leading-Kansai-Enterprises-Including-MUFG-Bank-to-Launch-Feasibility-Study-for-Commercial-eVTOL-Operations-in-Western-Japan/",
       "published": null
     }
   ]
