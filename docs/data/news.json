@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-10-07T00:23:55.173143Z",
+  "generatedAt": "2026-10-07T06:13:41.703051Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:676d8105ab8003a1",
+      "titleEn": "KOSPI keeps sliding while Nikkei holds 70,000: why Korea is taking the bigger hit",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/07/kospi-keeps-sliding-while-nikkei-holds-70000-why-korea-is-taking-the-bigger-hit/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:aa9c5b16787edcde",
+      "titleEn": "SpaceX is borrowing $40B for Nvidia chips: should SPCX investors worry?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/07/spacex-stock-40b-nvidia-financing/",
+      "published": null
+    },
     {
       "id": "stockanalysis:591ceb1baca30922",
       "titleEn": "Gold to hit $5,000, silver $97 in the next 12 months - LBMA delegate survey",
@@ -103,30 +121,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ea320a3a94818903",
-      "titleEn": "SpaceX continues rally on Tuesday: what's behind the recent bull run?",
+      "id": "stockanalysis:0f9ebd9763ad0ddb",
+      "titleEn": "SmartCentres Real Estate Investment Trust Announces New Issue of $300 Million Series AE and Re-opening of $150 Million Series AC Senior Unsecured Debentures",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/06/spacex-continues-rally-on-tuesday-whats-behind-the-recent-bull-run/",
+      "link": "https://www.businesswire.com/news/home/20261006993464/en/SmartCentres-Real-Estate-Investment-Trust-Announces-New-Issue-of-300-Million-Series-AE-and-Re-opening-of-150-Million-Series-AC-Senior-Unsecured-Debentures/",
       "published": null
     },
     {
-      "id": "stockanalysis:df5804cc30e1bf30",
-      "titleEn": "Uber Eats Enters Catering Space With $2.3 Billion ezCater Deal",
-      "summaryEn": "Uber is paying $2.3 billion to acquire catering and workplace meal platform ezCater , according to a Tuesday (Oct. 6) news release. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The all-cash deal is designed to combine ezCater’s catering and B2B expertise, Uber Eats ’ global reach among consumers and restaurants, and Uber for Business ’s relationships with companies of all sizes, per the release.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/acquiring/2026/uber-eats-enters-catering-space-with-2-billion-dollar-ezcater-deal/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4f7694b28560dbf2",
-      "titleEn": "Why this analyst expects Meta stock to hit $1,000",
+      "id": "stockanalysis:a1cb272be5872a45",
+      "titleEn": "NIQ Launches Omnishopper Taiwan, Delivering a More Complete View of Consumer Purchase Behavior",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/06/why-this-analyst-expects-meta-stock-to-hit-1000/",
+      "link": "https://www.businesswire.com/news/home/20261006589178/en/NIQ-Launches-Omnishopper-Taiwan-Delivering-a-More-Complete-View-of-Consumer-Purchase-Behavior/",
       "published": null
     }
   ]
