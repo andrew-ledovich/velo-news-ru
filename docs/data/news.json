@@ -1,78 +1,159 @@
 {
-  "generatedAt": "2026-10-07T13:22:09.543958Z",
+  "generatedAt": "2026-10-07T19:25:01.871820Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 17,
   "items": [
     {
-      "id": "stockanalysis:263ce27516e0626e",
-      "titleEn": "Nvidia stock is slowly forming a risky pattern: is a reversal coming?",
+      "id": "stockanalysis:82256fa4257d3f67",
+      "titleEn": "Why Skydance shares are falling despite Warner Bros. deal completion",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/07/nvidia-stock-is-slowly-forming-a-risky-pattern-is-a-reversal-coming/",
+      "link": "https://invezz.com/news/2026/10/07/why-skydance-shares-are-falling-despite-warner-bros-deal-completion/",
       "published": null
     },
     {
-      "id": "stockanalysis:c40816fce24f7b9d",
-      "titleEn": "Three stocks to buy as Deutsche Bank says copper could hit $10 a pound",
+      "id": "stockanalysis:7c332aae6d91f7d0",
+      "titleEn": "Tesla stock in red even as Germany backs Tesla's FSD rollout across Europe",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/10/07/tesla-stock-in-red-even-as-germany-backs-teslas-fsd-rollout-across-europe/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:85583c58cabda6e1",
+      "titleEn": "Chase Adds Payroll to Larger Business Banking Offering",
+      "summaryEn": "Chase is expanding its payroll service to help business clients dealing with cash flow pressures. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The new offering, announced Wednesday (Oct. 7), brings Chase Payroll alongside the banking and payment activities business customers already manage through the lender.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/b2b-payments/2026/chase-adds-payroll-to-larger-business-banking-offering/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:922086b9d65daca1",
+      "titleEn": "PepsiCo stock seen slipping further after earnings",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/07/three-stocks-to-buy-as-deutsche-bank-says-copper-could-hit-10-a-pound/",
+      "link": "https://invezz.com/news/2026/10/07/pepsico-stock-seen-slipping-further-after-earnings/",
       "published": null
     },
     {
-      "id": "stockanalysis:f559a24ca3006b83",
-      "titleEn": "Intel gains before opening bell: How Musk's comments became a catalyst",
+      "id": "stockanalysis:de231ccdaaab51b3",
+      "titleEn": "Why SpaceX stock is down around 1.5% today?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/07/intel-gains-before-opening-bell-how-musks-comments-became-a-catalyst/",
+      "link": "https://invezz.com/news/2026/10/07/why-spacex-stock-is-down-around-1-5-today/",
       "published": null
     },
     {
-      "id": "stockanalysis:7d5e218e05871a1e",
-      "titleEn": "Michael Burry is getting more bearish on Nvidia, Palantir and Micron: here's why",
+      "id": "stockanalysis:d69c5f9b11bc57b6",
+      "titleEn": "Why HPE stock hit a record high today?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/07/michael-burry-is-getting-more-bearish-on-nvidia-palantir-and-micron-heres-why/",
+      "link": "https://invezz.com/news/2026/10/07/why-hpe-stock-hit-a-record-high-today/",
       "published": null
     },
     {
-      "id": "stockanalysis:30f9ccf30bbe96dc",
-      "titleEn": "FTSE 100 outlook: Gilt yields climb as markets price in a BoE Rate Hike",
+      "id": "stockanalysis:29321c6eb279b867",
+      "titleEn": "What next for the falling Plug Power stock price?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/07/ftse-100-outlook-gilt-yields-climb-as-markets-price-in-a-boe-rate-hike/",
+      "link": "https://invezz.com/news/2026/10/07/what-next-for-the-falling-plug-power-stock-price/",
       "published": null
     },
     {
-      "id": "stockanalysis:620e2bb83246445d",
-      "titleEn": "Cathie Wood sold SpaceX to buy this battered stock with 149% Wall Street upside",
+      "id": "stockanalysis:203689a7dc65c21f",
+      "titleEn": "Jim Cramer: 'there are a lot of issues' with Constellation Brands stock",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/07/archer-aviation-stock-cathie-wood-149-upside/",
+      "link": "https://invezz.com/news/2026/10/07/jim-cramer-there-are-a-lot-of-issues-with-constellation-brands-stock/",
       "published": null
     },
     {
-      "id": "stockanalysis:a1191b1daef475b2",
-      "titleEn": "Penguin Solutions profit jumps 888% on AI demand: can PENG justify a 228% rally?",
+      "id": "stockanalysis:70e2eb4307b64577",
+      "titleEn": "Why is Micron stock rising on Wednesday?",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/07/penguin-solutions-stock-ai-profit-888-percent/",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/07/why-is-micron-stock-rising-on-wednesday/",
       "published": null
     },
     {
-      "id": "stockanalysis:972c68166a2b2581",
-      "titleEn": "Lenovo Announces Tech World @ CES 2027: Defining the Next Era of Hybrid AI",
+      "id": "stockanalysis:e3b981bda03b22bc",
+      "titleEn": "Rocket Companies, Better Home, UWM stocks plunge as US mortgage rates jump",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261007934838/en/Lenovo-Announces-Tech-World-CES-2027-Defining-the-Next-Era-of-Hybrid-AI/",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/07/rocket-companies-better-home-uwm-stocks-plunge-as-us-mortgage-rates-jump/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:635888ed11ca1df9",
+      "titleEn": "Dell stock is on a strong bull run: Is a mean reversion coming?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/07/dell-stock-is-on-a-strong-bull-run-is-a-mean-reversion-coming/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:35419ea0eba9b9eb",
+      "titleEn": "Why is Marvell Technology falling despite raising revenue outlook to $90B",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/07/why-is-marvell-technology-falling-despite-raising-revenue-outlook-to-90b/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c71da777e1fae3f0",
+      "titleEn": "Western Digital stock faces a bearish breakout risk: Here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/07/western-digital-stock-faces-a-bearish-breakout-risk-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d06503a8ae2492bf",
+      "titleEn": "Here's why the Webull stock price is in a freefall today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/07/heres-why-the-webull-stock-price-is-in-a-freefall-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5ccf56b7255fc992",
+      "titleEn": "China's central bank buys 21 tonnes of gold in September, largest monthly purchase in 3 years",
+      "summaryEn": "(Kitco News) – China ramped up its gold purchases in September as bullion prices declined, recording the largest monthly increase in its official reserves in three years, the People’s Bank of China announced on Wednesday. The central bank increased its gold reserves by 21 tonnes last month to 2,196 tonnes as of the end of September, marking the 23rd consecutive month of purchases, according to the PBoC. The massive purchase was the largest since September 2023, when reserves rose by 24 tonnes, according to Chinese market tracker Wind Info. It also exceeded the previous months’ purchases of 18.5 tonnes in August and 18 tonnes in July.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-07/chinas-central-bank-buys-21-tonnes-gold-september-largest-monthly-purchase",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:78081a94d8c2fecf",
+      "titleEn": "BitRipple LT3 Deployed Across Joby Flight Operations",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261007719279/en/BitRipple-LT3-Deployed-Across-Joby-Flight-Operations/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:629f3e52cfe06881",
+      "titleEn": "USA TODAY Sports Announces National High School Esports Championship",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261007572050/en/USA-TODAY-Sports-Announces-National-High-School-Esports-Championship/",
       "published": null
     }
   ]
