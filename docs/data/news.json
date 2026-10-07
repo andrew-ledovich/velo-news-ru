@@ -1,15 +1,24 @@
 {
-  "generatedAt": "2026-10-06T20:59:36.290853Z",
+  "generatedAt": "2026-10-07T00:23:55.173143Z",
   "sourceCount": 1,
-  "count": 23,
+  "count": 14,
   "items": [
     {
-      "id": "stockanalysis:c2f015f8d6797796",
-      "titleEn": "Hong Kong becomes Russia's gold gateway to China as bullion flows shatter records",
-      "summaryEn": "(Kitco News) – Western sanctions have upended traditional gold flows, with Russian bullion that would normally go to London now pouring into Hong Kong at a record pace on its way to mainland China and other Asian markets. According to an analysis of Hong Kong Census and Statistics Department data by BullionVault, Hong Kong imported 112.7 tonnes of Russian-origin gold in just the first seven months of 2026. This far surpassed the record 92.1 tonnes of Russian gold imported during all of 2025. In 2021, before Russia’s invasion of Ukraine, Hong Kong imported only 3.3 tonnes. Russian bullion accounted for almost 15% of Hong Kong’s non-monetary gold imports in the first seven months of this year, up from just 0.6% in 2021. Analysts told CNBC that the dramatic increase highlights the ways that Russia’s gold trade has been rerouted since the start of the Ukraine war in 2022, when its gold producers were shut out of major Western markets.",
+      "id": "stockanalysis:591ceb1baca30922",
+      "titleEn": "Gold to hit $5,000, silver $97 in the next 12 months - LBMA delegate survey",
+      "summaryEn": "(Kitco News) - The ongoing energy crisis, persistent inflation and surging bond yields continue to create significant near-term headwinds for gold and silver , but those challenges have done little to shake the precious metals industry’s long-term bullish conviction. If anything, sentiment at the 2026 London Bullion Market Association (LBMA) Global Precious Metals Conference suggested that the fundamental case for gold is broadening as central banks diversify their reserves, geopolitical fragmentation reshapes the global monetary system and rising sovereign debt raises questions about the traditional safe-haven role of government bonds. According to the conference’s annual price survey, delegates see gold prices trading around $5,013.30 an ounce by this time next year, representing a roughly 20% gain from current levels. Spot gold last traded at $4,163.30 an ounce, up 0.57% on the day.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-06/hong-kong-becomes-russias-gold-gateway-china-bullion-flows-shatter-records",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-06/gold-hit-5000-silver-97-next-12-months-lbma-delegate-survey",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d9722e39fb143ad8",
+      "titleEn": "Metals rise as oil steadies, yields pull back from 24-year highs - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were higher in late U.S. trading Tuesday, as Treasury yields eased from multi-decade highs and the U.S. dollar pulled back, giving metals room to extend their post-payroll rebound. At the time of writing, spot gold was trading near $4,165.40 an ounce, up 0.63% on the session, while spot silver was trading near $61.260, up 0.53%. North American equities closed higher as AI-linked earnings optimism and lower yields offset lingering inflation concerns. The S&P 500 rose 44.98 points, or 0.6%, to a record 7,818.93. The Dow Jones Industrial Average gained 253.38 points, or 0.5%, to 51,521.28. The Nasdaq Composite added 122.48 points, or 0.4%, to a record 27,599.79, while the Russell 2000 fell 16.84 points, or 0.6%, to 2,830.30. European equities also finished higher as bond yields eased and crude prices retreated from recent highs. The Stoxx Europe 600 rose 3.01 points, or 0.48%, to 636.63. Germany’s DAX gained 194.98 points, or 0.77%, to 25,449.19, the U.K. FTSE 100 added 43.75 points, or 0.42%, to 10,541.69, France’s CAC 40 rose 30.97 points, or 0.40%, to 7,865.07 and Italy’s FTSE MIB climbed 443.02 points, or 0.87%, to 51,261.40.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-10-06/metals-rise-oil-steadies-yields-pull-back-24-year-highs-kitco-pm-report",
       "published": null
     },
     {
@@ -55,6 +64,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/10/06/nebius-stock-jumps-as-technical-breakout-puts-250-level-in-focus/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3c827e516834c2b9",
+      "titleEn": "Meta's Muse Could Become $27 Billion Business, Citi Says",
+      "summaryEn": "Meta ’s Muse AI assistant could reportedly generate revenues of more than $27 billion by 2030. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a Tuesday (Oct. 6) report by Reuters, citing an analysis by Citi which argues Muse is increasingly serving as the “front door to the internet.”",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/metas-muse-could-become-27-billion-business-citi-says/",
       "published": null
     },
     {
@@ -109,105 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/10/06/why-this-analyst-expects-meta-stock-to-hit-1000/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6ede2e84ba6400a4",
-      "titleEn": "Netlist stock: why Micron will pay NLST $30M a quarter for 5 years",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/06/netlist-stock-why-micron-will-pay-nlst-30m-a-quarter-for-5-years/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9eafb0898d592a4d",
-      "titleEn": "Why is Marvell Technology stock rallying on Tuesday?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/06/why-is-marvell-technology-stock-rallying-on-tuesday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6c073007c96372ce",
-      "titleEn": "Why Nvidia stock hit another record high on Tuesday",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/06/why-nvidia-stock-hit-another-record-high-on-tuesday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3eaaed44cceb1ae0",
-      "titleEn": "ICE brings futures trading to London's $190 billion-a-day physical gold market",
-      "summaryEn": "(Kitco News) – The world’s largest physical gold trading market now has new futures contracts run by the world’s largest precious metals futures exchange. This week, the Intercontinental Exchange (ICE) – owner of the New York Stock Exchange –launched exchange-traded precious metal futures trading in London. The contracts are directly linked to London&#x27;s daily gold price auctions, and the exchange has also launched futures contracts for silver , platinum and palladium . The new ICE contracts give market participants an exchange-based means to trade precious metals price exposure from London. London’s physical gold trading dwarfs that of any other global market, with daily over-the-counter transactions in the area of $190 billion, while the city&#x27;s vaults hold approximately $1.4 trillion in gold bullion. Unlike New York, which has had well-established gold futures trading, London has not had a major gold futures market in many years despite its dominant position in the physical bullion market.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-06/ice-brings-futures-trading-londons-190-billion-day-physical-gold-market",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2bee7e33a238c3ce",
-      "titleEn": "Constellation Energy stock is soaring and it has Google to thank",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/06/constellation-energy-stock-is-soaring-and-it-has-google-to-thank/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:50c327f2d6c804cc",
-      "titleEn": "Shopify stock has crossed a crucial resistance: will the rally persist?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/06/shopify-stock-has-crossed-a-crucial-resistance-will-the-rally-persist/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bec35abe50c94b58",
-      "titleEn": "Forget Energy Transfer and EPD stocks: PAA is firing on all cylinders",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/06/forget-energy-transfer-and-epd-stocks-paa-is-firing-on-all-cylinders/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5f1c5bab3a245c64",
-      "titleEn": "Seadrill Schedules Third Quarter 2026 Earnings Release and Conference Call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261006880339/en/Seadrill-Schedules-Third-Quarter-2026-Earnings-Release-and-Conference-Call/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b9f07c0b85b2281f",
-      "titleEn": "SmartStop Self Storage REIT Announces the Date of Its Third Quarter 2026 Earnings Release, Conference Call and Webcast",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261006231760/en/SmartStop-Self-Storage-REIT-Announces-the-Date-of-Its-Third-Quarter-2026-Earnings-Release-Conference-Call-and-Webcast/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:05b0f61b34aa351c",
-      "titleEn": "Fisk Electric Awarded $24 Million Data Center Electrical Project, Expanding Prefabrication Capabilities in Houston",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261006951897/en/Fisk-Electric-Awarded-24-Million-Data-Center-Electrical-Project-Expanding-Prefabrication-Capabilities-in-Houston/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3dea075629832e48",
-      "titleEn": "Brazos Midstream Completes Sale of Midland Basin Assets to ONEOK",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261005076332/en/Brazos-Midstream-Completes-Sale-of-Midland-Basin-Assets-to-ONEOK/",
       "published": null
     }
   ]
