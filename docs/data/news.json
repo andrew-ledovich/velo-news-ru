@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-10-08T16:56:01.507812Z",
+  "generatedAt": "2026-10-08T21:39:32.697459Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:d9faa88835681e75",
+      "titleEn": "Gold rises, silver falls as strong bond auction tempers yield pressure - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices were firmer and spot silver prices were lower in late U.S. trading Thursday, as a strong 30-year Treasury auction helped yields retreat from the morning highs, while oil’s surge kept inflation and year-end Fed tightening risk in the trade. At the time of writing, spot gold was trading near $4,132.30 an ounce, up 0.55% on the session, while spot silver was trading near $59.050, down 1.03%. North American equities closed mixed as a late retreat in Treasury yields offset part of the pressure from higher oil and a technology-stock selloff. The S&P 500 fell 36.41 points, or 0.5%, to 7,765.36. The Dow Jones Industrial Average rose 51.77 points, or 0.1%, to 51,231.64. The Nasdaq Composite fell 345.35 points, or 1.3%, to 27,193.34, while the Russell 2000 rose 0.92 point, less than 0.1%, to 2,794.13. European equities closed lower as the oil shock and renewed sovereign-yield pressure hit banks, autos and health care. The Stoxx Europe 600 fell 0.75% to 625.51. Germany’s DAX lost 1.18% to 24,806.97, France’s CAC 40 fell 0.51% to 7,729.69, the U.K. FTSE 100 declined 0.16% to 10,441.60 and Italy’s FTSE MIB dropped 1.35% to 49,297.88.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-08/gold-rises-silver-falls-strong-bond-auction-tempers-yield-pressure-kitco-pm",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f0c2c24596c544ef",
+      "titleEn": "Silver's long-term outlook remains bullish as new investment products offer income opportunities - Amplify ETFs",
+      "summaryEn": "(Kitco News) - The silver market continues to struggle in the face of persistent inflation pressures and higher bond yields. However, one market strategist says the precious metal remains an important monetary asset and diversification tool. In an interview with Kitco News, Nate Miller, Vice President of Product Development at Amplify ETFs, said that although silver&#x27;s price action has been disappointing since its highs at the start of the year, prices are still well above where they were a year ago. Spot silver last traded at $58.89 an ounce, down more than 1% on the day. However, last October, prices were just starting to test resistance at $50 an ounce.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-08/silvers-long-term-outlook-remains-bullish-new-investment-products-offer",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a290c0eb6c856ba5",
+      "titleEn": "Gold gains ground as central banks retreat from dollar assets and inflation undermines bonds – Sprott's Zhu",
+      "summaryEn": "(Kitco News) – Gold ’s ability to maintain its trading range and attract fresh ETF inflows despite soaring bond yields suggests its next move could be to the upside, while central banks’ shift away from dollar assets continues to bolster the longer-term bullish outlook, according to Kenny Zhu, Director of Research and Investment Strategy at Sprott. In an interview with Kitco News, Zhu explained why the inflation and currency concerns driving yields higher could ultimately strengthen gold’s appeal, and how either a soft landing or a sharper economic downturn could ease the pressure on precious metals — with a sudden Fed pivot potentially supercharging gains in gold. “Given the inflation pressures, the flows have remained positive,” he noted. “They&#x27;re not as strong as they were in August because that was a strong rally, but it&#x27;s still positive inflows. To me, that suggests that potentially there is interest in gold at these levels.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-08/gold-gains-ground-central-banks-retreat-dollar-assets-and-inflation",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e76ea94692d1d1d7",
+      "titleEn": "Apple stock rises as smart home push and AI strategy draw investor focus",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/08/apple-stock-rises-as-smart-home-push-and-ai-strategy-draw-investor-focus/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:96eb5c5b1dc2bed4",
+      "titleEn": "Why are Intel and AMD stocks plunging on Thursday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/08/why-are-intel-and-amd-stocks-plunging-on-thursday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:629fa533ad1688c0",
+      "titleEn": "OpenAI revenue run rate falls short of $70B figure: report",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/08/openai-revenue-run-rate-falls-short-of-70b-figure-report/",
+      "published": null
+    },
     {
       "id": "stockanalysis:e7cb06bdeb104cff",
       "titleEn": "Why it makes no sense for Starbucks to acquire Chipotle",
@@ -40,129 +94,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:200b1be9b465f234",
-      "titleEn": "Starbucks stock falls as it reportedly explores a Chipotle takeover deal",
+      "id": "stockanalysis:ea6757528e84d8b4",
+      "titleEn": "Pilot and Tesla Open First Megacharger Site, Announce Three Additional Locations Opening Soon",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://www.businesswire.com/news/home/20261008549259/en/Pilot-and-Tesla-Open-First-Megacharger-Site-Announce-Three-Additional-Locations-Opening-Soon/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b9fe28a29ccaff39",
+      "titleEn": "Byline Bancorp, Inc. Names Sean H. McGuire Chief Commercial Banking Officer and Scott E.",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/08/starbucks-stock-falls-as-it-reportedly-explores-a-chipotle-takeover-deal/",
+      "link": "https://www.businesswire.com/news/home/20261008356116/en/Byline-Bancorp-Inc.-Names-Sean-H.-McGuire-Chief-Commercial-Banking-Officer-and-Scott-E.-Hawthorne-Chief-Credit-Officer-as-Part-of-Ongoing-Succession-Planning/",
       "published": null
     },
     {
-      "id": "stockanalysis:d7bc9e202f6192d9",
-      "titleEn": "Three beaten down consumer stocks that are now screaming opportunity",
+      "id": "stockanalysis:7d23d1db41e1430c",
+      "titleEn": "Universal Announces Third Quarter 2026 Earnings Dates",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/08/three-beaten-down-consumer-stocks-that-are-now-screaming-opportunity/",
+      "link": "https://www.businesswire.com/news/home/20261008727367/en/Universal-Announces-Third-Quarter-2026-Earnings-Dates/",
       "published": null
     },
     {
-      "id": "stockanalysis:703053761748ff06",
-      "titleEn": "Peter Schiff says rising yields are 'the most bullish thing' for gold, warns Washington could pay 50 cents on the dollar",
-      "summaryEn": "(Kitco News) - Schiff tells Kitco News anchor Jeremy Szafron that 9% mortgages and a 30% to 50% drop in home prices could be next, and why he holds more of his own money in gold miners than bullion. .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } The bond sell-off that just pushed U.S. borrowing costs to a 24-year high is only getting started, Peter Schiff told Kitco News anchor Jeremy Szafron, and it could end with Washington paying its lenders 50 cents on the dollar.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-08/peter-schiff-says-rising-yields-are-most-bullish-thing-gold-warns",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e97b3c0d36ba9f50",
-      "titleEn": "AGNC stock has a dividend yield of 17%: is it a buy as a risky pattern forms?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/08/agnc-stock-has-a-dividend-yield-of-17-is-it-a-buy-as-a-risky-pattern-forms/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d28d1745fcd06f42",
-      "titleEn": "GE Aerospace stock is stuck in a bear market as a death cross nears",
+      "id": "stockanalysis:083ef58cef7c263f",
+      "titleEn": "Allegion Schedules Webcast to Announce 2026 Third-Quarter Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/08/ge-aerospace-stock-is-stuck-in-a-bear-market-as-a-death-cross-nears/",
+      "link": "https://www.businesswire.com/news/home/20261008495744/en/Allegion-Schedules-Webcast-to-Announce-2026-Third-Quarter-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:fc749935a0f83208",
-      "titleEn": "Why is Palantir stock rising in premarket today?",
+      "id": "stockanalysis:e54b751c5e67cc1a",
+      "titleEn": "Fastly to Announce Third Quarter 2026 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/08/why-is-palantir-stock-rising-in-premarket-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:97ee60786243a175",
-      "titleEn": "Gold firms, silver slides as oil surge revives inflation pressure - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold prices are firmer and spot silver prices are sharply lower in early U.S. trading Thursday, as another jump in oil prices and Treasury yields kept inflation and Fed tightening risk at the center of the metals trade. At the time of writing, spot gold was trading near $4,128.20 an ounce, up 0.45% on the session, while spot silver was trading near $58.830, down 1.40%. Market positioning remains caught between a soft payrolls signal and a still-hawkish inflation backdrop. Initial jobless claims fell to 197,000 in the week ended Oct. 3, down 2,000 from the prior week’s revised level , while continuing claims rose to 1.716 million for the week ended Sept. 26. Last week’s payrolls report showed only 29,000 jobs added in September , but Fed minutes released Wednesday showed most policymakers still expected another rate increase by year-end. The 10-year Treasury yield was near the 5.3% area, the 30-year yield remained near 24-year highs and traders were watching Thursday’s $22 billion 30-year Treasury auction, Friday’s preliminary October consumer sentiment report and next week’s CPI data. Softer labor or sentiment data would support gold by reinforcing the payroll slowdown; firm inflation expectations, weak auction demand or another oil-driven rise in yields would keep pressure on bullion. The Strait of Hormuz and U.S.-Iran situation remains the dominant oil-market risk and the main indirect headwind for gold through inflation and yields. Brent crude jumped above $104 a barrel and WTI traded above $92 after another tanker was hit north of Qatar, while attacks on vessels around the Gulf and Hormuz reached their highest weekly pace since the Iran war began. Hurricane-related U.S. Gulf shutdowns added to the supply squeeze, with about a quarter of current Gulf of Mexico oil output shut in. The geopolitical channel is normally supportive for gold, but Thursday’s market transmission was more complicated: higher oil lifted inflation expectations, pushed yields higher and weighed on equities and silver.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-08/gold-firms-silver-slides-oil-surge-revives-inflation-pressure-kitco-am",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e1c9e570f94d256e",
-      "titleEn": "Gold price at $4,122/oz after U.S. weekly jobless claims fall to 197k",
-      "summaryEn": "(Kitco News) - Gold prices are trading near the middle of their daily range on Thursday morning following the release of better-than-expected labor market data after the number of Americans filing new claims for unemployment benefits came in below economists’ forecasts. Initial claims for state unemployment benefits came in at seasonally adjusted 197,000 for the week ending October 3, the Labor Department announced on Thursday. The number was below expectations, as consensus estimates forecasted a reading of 200,000 claims. The previous week’s figure was revised up to 199,000. Spot gold was oscillating in the middle of its daily trading range following the 8:30 am ET data release, and last traded at $4,122.37 per ounce for a gain of 0.27% on the daily chart.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-08/gold-price-4122oz-after-us-weekly-jobless-claims-fall-197k",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6d61203fd4f37ec5",
-      "titleEn": "Canada's Energy Future Takes Centre Stage as Schneider Electric Launches Innovation Days Canada",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008979455/en/Canadas-Energy-Future-Takes-Centre-Stage-as-Schneider-Electric-Launches-Innovation-Days-Canada/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7b0b21c0fa4aea41",
-      "titleEn": "EquipmentShare Breaks Ground on Headquarters Expansion in Columbia, Missouri",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008156198/en/EquipmentShare-Breaks-Ground-on-Headquarters-Expansion-in-Columbia-Missouri/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f65c591580a4be41",
-      "titleEn": "bioAffinity Technologies, Inc. Announces Approximately $4 Million Registered Direct Financing of Common Stock and Concurrent Private Placement Priced At-The-Market Under Nasdaq Rules",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008434843/en/bioAffinity-Technologies-Inc.-Announces-Approximately-4-Million-Registered-Direct-Financing-of-Common-Stock-and-Concurrent-Private-Placement-Priced-At-The-Market-Under-Nasdaq-Rules/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:063093d4a4e2c0af",
-      "titleEn": "AEG Community Foundation Awards $400,000 to Help Nonprofits Meet Growing Community Needs Across the United States",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261007978046/en/AEG-Community-Foundation-Awards-400000-to-Help-Nonprofits-Meet-Growing-Community-Needs-Across-the-United-States/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e9959d79377eb3a7",
-      "titleEn": "Introducing Vontier Vantage Point, a New Source of Mobility Intelligence",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008129108/en/Introducing-Vontier-Vantage-Point-a-New-Source-of-Mobility-Intelligence/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e99eff620e0dea8f",
-      "titleEn": "monday.com Named a Leader in the 2026 Gartner® Magic Quadrant™ for Collaborative Work Management for the Fourth Consecutive Year",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008463449/en/monday.com-Named-a-Leader-in-the-2026-Gartner%C2%AE-Magic-Quadrant%E2%84%A2-for-Collaborative-Work-Management-for-the-Fourth-Consecutive-Year/",
+      "link": "https://www.businesswire.com/news/home/20261008504047/en/Fastly-to-Announce-Third-Quarter-2026-Financial-Results/",
       "published": null
     }
   ]
