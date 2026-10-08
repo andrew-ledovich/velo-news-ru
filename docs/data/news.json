@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-10-08T02:53:57.618619Z",
+  "generatedAt": "2026-10-08T09:40:13.766955Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:6e991017aaa77487",
+      "titleEn": "SpaceX in talks to raise $40 billion in loans for Nvidia chips: Report",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Elon Musk's SpaceX is aiming to raise $40 billion in bank loans and debt to further its purchases of AI chips from Nvidia, according to a Financial Times report citing sources close to the talks. The fundraising, coming just four months after SpaceX raised $86 billion in the world's biggest IPO, underscored the voracious demand among tech firms for chips to roll out their AI ambitions.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-10-spacex-billion-loans-nvidia-chips.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ffaf3f6fe3dcc569",
+      "titleEn": "Rolls-Royce share price is facing turbulence: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/08/rolls-royce-share-price-is-facing-turbulence-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f7cdb2e97759ea71",
+      "titleEn": "Nvidia and AMD fuel a $46.7B TSMC quarter: how much upside is left in the stock?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/08/nvidia-and-amd-fuel-a-46-7b-tsmc-quarter-how-much-upside-is-left-in-the-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:38eff708772ae92d",
+      "titleEn": "KOSPI slips despite Samsung's record quarter while Nikkei falls below 70,000",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/08/kospi-slips-despite-samsungs-record-quarter-while-nikkei-falls-below-70000/",
+      "published": null
+    },
     {
       "id": "stockanalysis:9c2aad5709a6b992",
       "titleEn": "Gold, silver slump as Fed minutes keep December hike risk alive - Kitco PM Report",
@@ -40,84 +76,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:82256fa4257d3f67",
-      "titleEn": "Why Skydance shares are falling despite Warner Bros. deal completion",
+      "id": "stockanalysis:03fc7881581ef703",
+      "titleEn": "Nano One Provides Update on Validated Feedstock Suppliers for LFP Cathode Production",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/07/why-skydance-shares-are-falling-despite-warner-bros-deal-completion/",
+      "link": "https://www.businesswire.com/news/home/20261008423373/en/Nano-One-Provides-Update-on-Validated-Feedstock-Suppliers-for-LFP-Cathode-Production/",
       "published": null
     },
     {
-      "id": "stockanalysis:7c332aae6d91f7d0",
-      "titleEn": "Tesla stock in red even as Germany backs Tesla's FSD rollout across Europe",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/10/07/tesla-stock-in-red-even-as-germany-backs-teslas-fsd-rollout-across-europe/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:85583c58cabda6e1",
-      "titleEn": "Chase Adds Payroll to Larger Business Banking Offering",
-      "summaryEn": "Chase is expanding its payroll service to help business clients dealing with cash flow pressures. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The new offering, announced Wednesday (Oct. 7), brings Chase Payroll alongside the banking and payment activities business customers already manage through the lender.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/b2b-payments/2026/chase-adds-payroll-to-larger-business-banking-offering/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:77b5625cc6838253",
-      "titleEn": "Nuveen Municipal Credit Opportunities Fund Announces Preliminary Results of Rights Offering",
+      "id": "stockanalysis:294820b761479360",
+      "titleEn": "Gensight Biologics and the 15-20 National Hospital Announce NEJM Publication on GS030 Phase 1/2 Trial Results in Late-Stage Retinitis Pigmentosa",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261007084890/en/Nuveen-Municipal-Credit-Opportunities-Fund-Announces-Preliminary-Results-of-Rights-Offering/",
+      "link": "https://www.businesswire.com/news/home/20261007247351/en/Gensight-Biologics-and-the-15-20-National-Hospital-Announce-NEJM-Publication-on-GS030-Phase-12-Trial-Results-in-Late-Stage-Retinitis-Pigmentosa/",
       "published": null
     },
     {
-      "id": "stockanalysis:45a1f1167029c8ba",
-      "titleEn": "Mizuho Securities Selects HPE to Accelerate Advanced Financial Simulations and Strengthen AI Readiness",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261007376989/en/Mizuho-Securities-Selects-HPE-to-Accelerate-Advanced-Financial-Simulations-and-Strengthen-AI-Readiness/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ca56e622a78ce287",
-      "titleEn": "Liberty Energy Inc. Announces Timing of Release of Third Quarter 2026 Financial Results and Conference Call",
+      "id": "stockanalysis:27dc30fdcdcf1e21",
+      "titleEn": "U.S. FDA Accepts Bayer's Supplemental New Drug Application for KERENDIA® (finerenone) to Treat Adults with Chronic Kidney Disease (CKD) Without Diabetes",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261007293514/en/Liberty-Energy-Inc.-Announces-Timing-of-Release-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e35c44c1a8f66a9e",
-      "titleEn": "Institutional Property Advisors Brokers $72 Million Puget Sound Multifamily Asset Sale",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261007668060/en/Institutional-Property-Advisors-Brokers-72-Million-Puget-Sound-Multifamily-Asset-Sale/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e3151174751a62c7",
-      "titleEn": "GenSight Biologics Reports Cash Position as of September 30, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261007442702/en/GenSight-Biologics-Reports-Cash-Position-as-of-September-30-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6b42eafa91b428df",
-      "titleEn": "Neogen Outlines Strategy for Growth, Innovation and Margin Expansion at 2026 Investor Day",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261007606441/en/Neogen-Outlines-Strategy-for-Growth-Innovation-and-Margin-Expansion-at-2026-Investor-Day/",
+      "link": "https://www.businesswire.com/news/home/20261007583229/en/U.S.-FDA-Accepts-Bayer%E2%80%99s-Supplemental-New-Drug-Application-for-KERENDIA%C2%AE-finerenone-to-Treat-Adults-with-Chronic-Kidney-Disease-CKD-Without-Diabetes/",
       "published": null
     }
   ]
