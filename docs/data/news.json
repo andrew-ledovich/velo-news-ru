@@ -1,105 +1,168 @@
 {
-  "generatedAt": "2026-10-08T09:40:13.766955Z",
+  "generatedAt": "2026-10-08T16:56:01.507812Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 18,
   "items": [
     {
-      "id": "stockanalysis:6e991017aaa77487",
-      "titleEn": "SpaceX in talks to raise $40 billion in loans for Nvidia chips: Report",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Elon Musk's SpaceX is aiming to raise $40 billion in bank loans and debt to further its purchases of AI chips from Nvidia, according to a Financial Times report citing sources close to the talks. The fundraising, coming just four months after SpaceX raised $86 billion in the world's biggest IPO, underscored the voracious demand among tech firms for chips to roll out their AI ambitions.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-10-spacex-billion-loans-nvidia-chips.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ffaf3f6fe3dcc569",
-      "titleEn": "Rolls-Royce share price is facing turbulence: here's why",
+      "id": "stockanalysis:e7cb06bdeb104cff",
+      "titleEn": "Why it makes no sense for Starbucks to acquire Chipotle",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/08/rolls-royce-share-price-is-facing-turbulence-heres-why/",
+      "link": "https://invezz.com/news/2026/10/08/why-it-makes-no-sense-for-starbucks-to-acquire-chipotle/",
       "published": null
     },
     {
-      "id": "stockanalysis:f7cdb2e97759ea71",
-      "titleEn": "Nvidia and AMD fuel a $46.7B TSMC quarter: how much upside is left in the stock?",
+      "id": "stockanalysis:7e91d639b77784dd",
+      "titleEn": "PepsiCo stock rises on earnings beat even as it lowers full-year profit forecast",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/08/nvidia-and-amd-fuel-a-46-7b-tsmc-quarter-how-much-upside-is-left-in-the-stock/",
+      "link": "https://invezz.com/news/2026/10/08/pepsico-stock-rises-on-earnings-beat-even-as-it-lowers-full-year-profit-forecast/",
       "published": null
     },
     {
-      "id": "stockanalysis:38eff708772ae92d",
-      "titleEn": "KOSPI slips despite Samsung's record quarter while Nikkei falls below 70,000",
+      "id": "stockanalysis:1c49e550ec0c21bf",
+      "titleEn": "Why SpaceX stock is down around 2.5% on Thursday",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/08/kospi-slips-despite-samsungs-record-quarter-while-nikkei-falls-below-70000/",
+      "link": "https://invezz.com/news/2026/10/08/why-spacex-stock-is-down-around-2-5-on-thursday/",
       "published": null
     },
     {
-      "id": "stockanalysis:9c2aad5709a6b992",
-      "titleEn": "Gold, silver slump as Fed minutes keep December hike risk alive - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in late U.S. trading Wednesday, as Federal Reserve minutes kept another year-end rate increase on the table while elevated long-end Treasury yields and a firmer dollar pressured non-yielding metals. At the time of writing, spot gold was trading near $4,109.90 an ounce, down 1.28% on the session, while spot silver was trading near $59.670, down 2.55%. North American equities closed lower as yields climbed worldwide and pulled major indexes back from record highs. The S&P 500 fell 17.16 points, or 0.2%, to 7,801.77. The Dow Jones Industrial Average dropped 341.41 points, or 0.7%, to 51,179.87. The Nasdaq Composite lost 61.20 points, or 0.2%, to 27,538.69, while the Russell 2000 fell 37.09 points, or 1.3%, to 2,793.20. European equities also closed sharply lower as rising oil prices, higher bond yields and French fiscal stress hit banks and cyclicals. The Stoxx Europe 600 fell 1.00% to 630.25. Germany’s DAX lost 1.35% to 25,104.36, France’s CAC 40 dropped 1.22% to 7,769.21, the U.K. FTSE 100 declined 0.80% to 10,457.38 and Italy’s FTSE MIB fell 2.51% to 49,972.25.",
+      "id": "stockanalysis:5c6e5b54e56c616a",
+      "titleEn": "Applied Digital stock price target slashed despite solid Q1 earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/08/applied-digital-stock-price-target-slashed-despite-solid-q1-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:200b1be9b465f234",
+      "titleEn": "Starbucks stock falls as it reportedly explores a Chipotle takeover deal",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/08/starbucks-stock-falls-as-it-reportedly-explores-a-chipotle-takeover-deal/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d7bc9e202f6192d9",
+      "titleEn": "Three beaten down consumer stocks that are now screaming opportunity",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/08/three-beaten-down-consumer-stocks-that-are-now-screaming-opportunity/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:703053761748ff06",
+      "titleEn": "Peter Schiff says rising yields are 'the most bullish thing' for gold, warns Washington could pay 50 cents on the dollar",
+      "summaryEn": "(Kitco News) - Schiff tells Kitco News anchor Jeremy Szafron that 9% mortgages and a 30% to 50% drop in home prices could be next, and why he holds more of his own money in gold miners than bullion. .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } The bond sell-off that just pushed U.S. borrowing costs to a 24-year high is only getting started, Peter Schiff told Kitco News anchor Jeremy Szafron, and it could end with Washington paying its lenders 50 cents on the dollar.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-08/peter-schiff-says-rising-yields-are-most-bullish-thing-gold-warns",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e97b3c0d36ba9f50",
+      "titleEn": "AGNC stock has a dividend yield of 17%: is it a buy as a risky pattern forms?",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-07/gold-silver-slump-fed-minutes-keep-december-hike-risk-alive-kitco-pm-report",
+      "link": "https://invezz.com/news/2026/10/08/agnc-stock-has-a-dividend-yield-of-17-is-it-a-buy-as-a-risky-pattern-forms/",
       "published": null
     },
     {
-      "id": "stockanalysis:67ad6c7b57acc9cf",
-      "titleEn": "Is Bending Spoons a good stock to buy today?",
+      "id": "stockanalysis:d28d1745fcd06f42",
+      "titleEn": "GE Aerospace stock is stuck in a bear market as a death cross nears",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/07/is-bending-spoons-a-good-stock-to-buy-today/",
+      "link": "https://invezz.com/news/2026/10/08/ge-aerospace-stock-is-stuck-in-a-bear-market-as-a-death-cross-nears/",
       "published": null
     },
     {
-      "id": "stockanalysis:7e1e1e29325194ae",
-      "titleEn": "Gold, silver slide as yields rise before Fed minutes, 10-year auction - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices are lower in early U.S. trading Wednesday, as a rebound in long-dated Treasury yields, firmer dollar tone and oil back above $100 a barrel offset the Fed-pause relief from last week’s weak employment report. At the time of writing, spot gold was trading near $4,123.10 an ounce, down 0.97% on the session, while spot silver was trading near $60.130, down 1.80%. Market positioning remains split between weaker labor data and renewed inflation pressure. September nonfarm payrolls rose by only 29,000, the unemployment rate held at 4.2% , average hourly earnings rose 0.1% on the month and July and August payrolls were revised down by a combined 60,000 jobs. Monday’s September services data kept the inflation side of the trade alive, with the services PMI easing to 54.9 while the prices index rose to 74.0 , its highest level since July 2022. Traders now see the Fed holding rates steady at the October 27-28 meeting as the base case, but December hike risk remains in the market as the 10-year Treasury yield trades near the 5.3% area and the 30-year yield moves back toward the 5.7% area. The next tests are the $39 billion 10-year Treasury auction and September Fed minutes Wednesday, weekly jobless claims Thursday at 8:30 a.m. ET and preliminary October consumer sentiment Friday at 10:00 a.m. ET. Softer labor or sentiment data would support gold by validating the payroll slowdown; hawkish minutes, weak auction demand or firm inflation expectations would keep the yield channel pointed against bullion.",
+      "id": "stockanalysis:fc749935a0f83208",
+      "titleEn": "Why is Palantir stock rising in premarket today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/08/why-is-palantir-stock-rising-in-premarket-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:97ee60786243a175",
+      "titleEn": "Gold firms, silver slides as oil surge revives inflation pressure - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold prices are firmer and spot silver prices are sharply lower in early U.S. trading Thursday, as another jump in oil prices and Treasury yields kept inflation and Fed tightening risk at the center of the metals trade. At the time of writing, spot gold was trading near $4,128.20 an ounce, up 0.45% on the session, while spot silver was trading near $58.830, down 1.40%. Market positioning remains caught between a soft payrolls signal and a still-hawkish inflation backdrop. Initial jobless claims fell to 197,000 in the week ended Oct. 3, down 2,000 from the prior week’s revised level , while continuing claims rose to 1.716 million for the week ended Sept. 26. Last week’s payrolls report showed only 29,000 jobs added in September , but Fed minutes released Wednesday showed most policymakers still expected another rate increase by year-end. The 10-year Treasury yield was near the 5.3% area, the 30-year yield remained near 24-year highs and traders were watching Thursday’s $22 billion 30-year Treasury auction, Friday’s preliminary October consumer sentiment report and next week’s CPI data. Softer labor or sentiment data would support gold by reinforcing the payroll slowdown; firm inflation expectations, weak auction demand or another oil-driven rise in yields would keep pressure on bullion. The Strait of Hormuz and U.S.-Iran situation remains the dominant oil-market risk and the main indirect headwind for gold through inflation and yields. Brent crude jumped above $104 a barrel and WTI traded above $92 after another tanker was hit north of Qatar, while attacks on vessels around the Gulf and Hormuz reached their highest weekly pace since the Iran war began. Hurricane-related U.S. Gulf shutdowns added to the supply squeeze, with about a quarter of current Gulf of Mexico oil output shut in. The geopolitical channel is normally supportive for gold, but Thursday’s market transmission was more complicated: higher oil lifted inflation expectations, pushed yields higher and weighed on equities and silver.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-07/gold-silver-slide-yields-rise-fed-minutes-10-year-auction-kitco-am-report",
+      "link": "https://www.kitco.com/news/article/2026-10-08/gold-firms-silver-slides-oil-surge-revives-inflation-pressure-kitco-am",
       "published": null
     },
     {
-      "id": "stockanalysis:891c6609ad5bd0d2",
-      "titleEn": "Tilray Brands stock analysis ahead of earnings: will it rebound or fall further?",
-      "summaryEn": null,
+      "id": "stockanalysis:e1c9e570f94d256e",
+      "titleEn": "Gold price at $4,122/oz after U.S. weekly jobless claims fall to 197k",
+      "summaryEn": "(Kitco News) - Gold prices are trading near the middle of their daily range on Thursday morning following the release of better-than-expected labor market data after the number of Americans filing new claims for unemployment benefits came in below economists’ forecasts. Initial claims for state unemployment benefits came in at seasonally adjusted 197,000 for the week ending October 3, the Labor Department announced on Thursday. The number was below expectations, as consensus estimates forecasted a reading of 200,000 claims. The previous week’s figure was revised up to 199,000. Spot gold was oscillating in the middle of its daily trading range following the 8:30 am ET data release, and last traded at $4,122.37 per ounce for a gain of 0.27% on the daily chart.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/07/tilray-brands-stock-analysis-ahead-of-earnings-will-it-rebound-or-fall-further/",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-08/gold-price-4122oz-after-us-weekly-jobless-claims-fall-197k",
       "published": null
     },
     {
-      "id": "stockanalysis:03fc7881581ef703",
-      "titleEn": "Nano One Provides Update on Validated Feedstock Suppliers for LFP Cathode Production",
+      "id": "stockanalysis:6d61203fd4f37ec5",
+      "titleEn": "Canada's Energy Future Takes Centre Stage as Schneider Electric Launches Innovation Days Canada",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008423373/en/Nano-One-Provides-Update-on-Validated-Feedstock-Suppliers-for-LFP-Cathode-Production/",
+      "link": "https://www.businesswire.com/news/home/20261008979455/en/Canadas-Energy-Future-Takes-Centre-Stage-as-Schneider-Electric-Launches-Innovation-Days-Canada/",
       "published": null
     },
     {
-      "id": "stockanalysis:294820b761479360",
-      "titleEn": "Gensight Biologics and the 15-20 National Hospital Announce NEJM Publication on GS030 Phase 1/2 Trial Results in Late-Stage Retinitis Pigmentosa",
+      "id": "stockanalysis:7b0b21c0fa4aea41",
+      "titleEn": "EquipmentShare Breaks Ground on Headquarters Expansion in Columbia, Missouri",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261007247351/en/Gensight-Biologics-and-the-15-20-National-Hospital-Announce-NEJM-Publication-on-GS030-Phase-12-Trial-Results-in-Late-Stage-Retinitis-Pigmentosa/",
+      "link": "https://www.businesswire.com/news/home/20261008156198/en/EquipmentShare-Breaks-Ground-on-Headquarters-Expansion-in-Columbia-Missouri/",
       "published": null
     },
     {
-      "id": "stockanalysis:27dc30fdcdcf1e21",
-      "titleEn": "U.S. FDA Accepts Bayer's Supplemental New Drug Application for KERENDIA® (finerenone) to Treat Adults with Chronic Kidney Disease (CKD) Without Diabetes",
+      "id": "stockanalysis:f65c591580a4be41",
+      "titleEn": "bioAffinity Technologies, Inc. Announces Approximately $4 Million Registered Direct Financing of Common Stock and Concurrent Private Placement Priced At-The-Market Under Nasdaq Rules",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261007583229/en/U.S.-FDA-Accepts-Bayer%E2%80%99s-Supplemental-New-Drug-Application-for-KERENDIA%C2%AE-finerenone-to-Treat-Adults-with-Chronic-Kidney-Disease-CKD-Without-Diabetes/",
+      "link": "https://www.businesswire.com/news/home/20261008434843/en/bioAffinity-Technologies-Inc.-Announces-Approximately-4-Million-Registered-Direct-Financing-of-Common-Stock-and-Concurrent-Private-Placement-Priced-At-The-Market-Under-Nasdaq-Rules/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:063093d4a4e2c0af",
+      "titleEn": "AEG Community Foundation Awards $400,000 to Help Nonprofits Meet Growing Community Needs Across the United States",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261007978046/en/AEG-Community-Foundation-Awards-400000-to-Help-Nonprofits-Meet-Growing-Community-Needs-Across-the-United-States/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e9959d79377eb3a7",
+      "titleEn": "Introducing Vontier Vantage Point, a New Source of Mobility Intelligence",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261008129108/en/Introducing-Vontier-Vantage-Point-a-New-Source-of-Mobility-Intelligence/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e99eff620e0dea8f",
+      "titleEn": "monday.com Named a Leader in the 2026 Gartner® Magic Quadrant™ for Collaborative Work Management for the Fourth Consecutive Year",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261008463449/en/monday.com-Named-a-Leader-in-the-2026-Gartner%C2%AE-Magic-Quadrant%E2%84%A2-for-Collaborative-Work-Management-for-the-Fourth-Consecutive-Year/",
       "published": null
     }
   ]
