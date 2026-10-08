@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-10-07T23:38:25.884553Z",
+  "generatedAt": "2026-10-08T02:53:57.618619Z",
   "sourceCount": 1,
   "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:9c2aad5709a6b992",
+      "titleEn": "Gold, silver slump as Fed minutes keep December hike risk alive - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in late U.S. trading Wednesday, as Federal Reserve minutes kept another year-end rate increase on the table while elevated long-end Treasury yields and a firmer dollar pressured non-yielding metals. At the time of writing, spot gold was trading near $4,109.90 an ounce, down 1.28% on the session, while spot silver was trading near $59.670, down 2.55%. North American equities closed lower as yields climbed worldwide and pulled major indexes back from record highs. The S&P 500 fell 17.16 points, or 0.2%, to 7,801.77. The Dow Jones Industrial Average dropped 341.41 points, or 0.7%, to 51,179.87. The Nasdaq Composite lost 61.20 points, or 0.2%, to 27,538.69, while the Russell 2000 fell 37.09 points, or 1.3%, to 2,793.20. European equities also closed sharply lower as rising oil prices, higher bond yields and French fiscal stress hit banks and cyclicals. The Stoxx Europe 600 fell 1.00% to 630.25. Germany’s DAX lost 1.35% to 25,104.36, France’s CAC 40 dropped 1.22% to 7,769.21, the U.K. FTSE 100 declined 0.80% to 10,457.38 and Italy’s FTSE MIB fell 2.51% to 49,972.25.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-07/gold-silver-slump-fed-minutes-keep-december-hike-risk-alive-kitco-pm-report",
+      "published": null
+    },
     {
       "id": "stockanalysis:67ad6c7b57acc9cf",
       "titleEn": "Is Bending Spoons a good stock to buy today?",
@@ -10,6 +19,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/10/07/is-bending-spoons-a-good-stock-to-buy-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7e1e1e29325194ae",
+      "titleEn": "Gold, silver slide as yields rise before Fed minutes, 10-year auction - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices are lower in early U.S. trading Wednesday, as a rebound in long-dated Treasury yields, firmer dollar tone and oil back above $100 a barrel offset the Fed-pause relief from last week’s weak employment report. At the time of writing, spot gold was trading near $4,123.10 an ounce, down 0.97% on the session, while spot silver was trading near $60.130, down 1.80%. Market positioning remains split between weaker labor data and renewed inflation pressure. September nonfarm payrolls rose by only 29,000, the unemployment rate held at 4.2% , average hourly earnings rose 0.1% on the month and July and August payrolls were revised down by a combined 60,000 jobs. Monday’s September services data kept the inflation side of the trade alive, with the services PMI easing to 54.9 while the prices index rose to 74.0 , its highest level since July 2022. Traders now see the Fed holding rates steady at the October 27-28 meeting as the base case, but December hike risk remains in the market as the 10-year Treasury yield trades near the 5.3% area and the 30-year yield moves back toward the 5.7% area. The next tests are the $39 billion 10-year Treasury auction and September Fed minutes Wednesday, weekly jobless claims Thursday at 8:30 a.m. ET and preliminary October consumer sentiment Friday at 10:00 a.m. ET. Softer labor or sentiment data would support gold by validating the payroll slowdown; hawkish minutes, weak auction demand or firm inflation expectations would keep the yield channel pointed against bullion.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-07/gold-silver-slide-yields-rise-fed-minutes-10-year-auction-kitco-am-report",
       "published": null
     },
     {
@@ -49,30 +67,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:922086b9d65daca1",
-      "titleEn": "PepsiCo stock seen slipping further after earnings",
+      "id": "stockanalysis:77b5625cc6838253",
+      "titleEn": "Nuveen Municipal Credit Opportunities Fund Announces Preliminary Results of Rights Offering",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/07/pepsico-stock-seen-slipping-further-after-earnings/",
+      "link": "https://www.businesswire.com/news/home/20261007084890/en/Nuveen-Municipal-Credit-Opportunities-Fund-Announces-Preliminary-Results-of-Rights-Offering/",
       "published": null
     },
     {
-      "id": "stockanalysis:de231ccdaaab51b3",
-      "titleEn": "Why SpaceX stock is down around 1.5% today?",
+      "id": "stockanalysis:45a1f1167029c8ba",
+      "titleEn": "Mizuho Securities Selects HPE to Accelerate Advanced Financial Simulations and Strengthen AI Readiness",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/07/why-spacex-stock-is-down-around-1-5-today/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261007376989/en/Mizuho-Securities-Selects-HPE-to-Accelerate-Advanced-Financial-Simulations-and-Strengthen-AI-Readiness/",
       "published": null
     },
     {
-      "id": "stockanalysis:d69c5f9b11bc57b6",
-      "titleEn": "Why HPE stock hit a record high today?",
+      "id": "stockanalysis:ca56e622a78ce287",
+      "titleEn": "Liberty Energy Inc. Announces Timing of Release of Third Quarter 2026 Financial Results and Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/07/why-hpe-stock-hit-a-record-high-today/",
+      "link": "https://www.businesswire.com/news/home/20261007293514/en/Liberty-Energy-Inc.-Announces-Timing-of-Release-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e35c44c1a8f66a9e",
+      "titleEn": "Institutional Property Advisors Brokers $72 Million Puget Sound Multifamily Asset Sale",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261007668060/en/Institutional-Property-Advisors-Brokers-72-Million-Puget-Sound-Multifamily-Asset-Sale/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e3151174751a62c7",
+      "titleEn": "GenSight Biologics Reports Cash Position as of September 30, 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261007442702/en/GenSight-Biologics-Reports-Cash-Position-as-of-September-30-2026/",
       "published": null
     },
     {
@@ -82,42 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261007606441/en/Neogen-Outlines-Strategy-for-Growth-Innovation-and-Margin-Expansion-at-2026-Investor-Day/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:afe3ad86791bc8f2",
-      "titleEn": "Xcel Energy 2026 Third Quarter Earnings Conference Call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261007903474/en/Xcel-Energy-2026-Third-Quarter-Earnings-Conference-Call/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1a731323633ea334",
-      "titleEn": "Pattern to Report Third Quarter 2026 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261007190674/en/Pattern-to-Report-Third-Quarter-2026-Financial-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:402f2cfb31a5697b",
-      "titleEn": "Central Pacific Financial Corp. Announces Conference Call to Discuss Third Quarter 2026 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261007611242/en/Central-Pacific-Financial-Corp.-Announces-Conference-Call-to-Discuss-Third-Quarter-2026-Financial-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:acb3da82dc87021e",
-      "titleEn": "IonQ Advances to Final Stage of DARPA's Quantum Benchmarking Initiative",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261007629257/en/IonQ-Advances-to-Final-Stage-of-DARPA%E2%80%99s-Quantum-Benchmarking-Initiative/",
       "published": null
     }
   ]
