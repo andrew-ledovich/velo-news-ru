@@ -1,8 +1,107 @@
 {
-  "generatedAt": "2026-10-09T14:39:15.097241Z",
+  "generatedAt": "2026-10-09T19:44:16.699408Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:dbfd5eb6c563f41c",
+      "titleEn": "Gold price holds critical $4,100 support, but can it break $4,200 as inflation risks loom?",
+      "summaryEn": "(Kitco News) - The gold market may not be ready to break out to the upside as it encounters initial resistance at $4,200 an ounce, but there is still optimism among analysts as prices manage to hold support above $4,100 an ounce ahead of the weekend. Analysts note that elevated bond yields and persistent inflation pressures continue to keep a lid on gold prices; however, they also add that investors continue to see value in the market as dips continue to be bought. Spot gold last traded at $4,187.30 an ounce, up more than 1% from last Friday. Most of this week’s gains have come in the last two sessions, as prices quickly recovered after falling below $4,100 an ounce Wednesday.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-09/gold-price-holds-critical-4100-support-can-it-break-4200-inflation-risks",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cfabb2897014765a",
+      "titleEn": "Snowflake stock rises 6% as AI Marketplace launch boosts software outlook",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/09/snowflake-stock-rises-6-as-ai-marketplace-launch-boosts-software-outlook/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8ef0de9b4cecba09",
+      "titleEn": "Coherent stock forms bullish pattern as Lumentum projects strong optics demand",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/09/coherent-stock-forms-bullish-pattern-as-lumentum-projects-strong-optics-demand/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b3c9cacc696a6523",
+      "titleEn": "Why is Tesla stock gaining today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/10/09/why-is-tesla-stock-gaining-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b01a5d2039114316",
+      "titleEn": "SpaceX's network plans have rattled legacy carriers, but there's a surprise gainer",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/09/spacexs-network-plans-have-rattled-legacy-carriers-but-theres-a-surprise-gainer/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1329f38569a7df4e",
+      "titleEn": "Joby Aviation stock slumps toward a death cross: Key reasons behind the selloff",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/09/joby-aviation-stock-slumps-toward-a-death-cross-key-reasons-behind-the-selloff/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9018d59bd82c9911",
+      "titleEn": "T-Mobile stock crash gains steam amid SpaceX fears: is it a bargain or a value trap?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/09/t-mobile-stock-crash-gains-steam-amid-spacex-fears-is-it-a-bargain-or-a-value-trap/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5078ce35e6ba64b5",
+      "titleEn": "How OpenAI's revenue discrepancy shook the AI stock trade",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/09/how-openais-revenue-discrepancy-shook-the-ai-stock-trade/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ece6949d7535ce2d",
+      "titleEn": "Moderna stock fires past 52-week high: what's behind Friday's rally?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/09/moderna-stock-fires-past-52-week-high-whats-behind-fridays-rally/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:261941378e237d4b",
+      "titleEn": "Oracle stock is wavering: will its revenue growth and bargain status spark a rebound?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/09/oracle-stock-is-wavering-will-its-revenue-growth-and-bargain-status-spark-a-rebound/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7f93cd94eae40f24",
+      "titleEn": "Gold price trades near high after preliminary Consumer Sentiment falls to 46.3, inflation expectations rise",
+      "summaryEn": "(Kitco News) - The gold market is trading not far from session highs after the latest data showed consumer sentiment in the U.S. declining further, with inflation expectations rising higher. The University of Michigan announced on Friday that the preliminary reading of its Consumer Sentiment survey for October was 46.3. The data was worse than expectations, as the consensus forecast of economists called for a reading of 47.6, and it was also well below September’s final reading of 48.1. “Consumer sentiment was little changed this month, inching down a scant 1.8 index points from September,” said Surveys of Consumers Director Joanne Hsu. “While year-ahead expectations for personal finances and business conditions crept up slightly, buying conditions for durables plummeted amid high prices and borrowing costs. Increases in sentiment among Democrats and Republicans were offset by a decline among independents this month.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-09/gold-price-trades-near-high-after-preliminary-consumer-sentiment-falls-463",
+      "published": null
+    },
     {
       "id": "stockanalysis:48a53dba5e921575",
       "titleEn": "Gold, silver rebound as dollar, yields and oil ease - Kitco AM Report",
@@ -13,93 +112,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:eb63b33fde59b35d",
-      "titleEn": "Lumentum stock rises 6% as AI demand fills optical orders through 2029",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/09/lumentum-stock-rises-6-as-ai-demand-fills-optical-orders-through-2029/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d433cd38ac837fa2",
-      "titleEn": "AT&amp;T stock is tumbling amid SpaceX competition fears: buy the dip?",
+      "id": "stockanalysis:65087016d1a842dc",
+      "titleEn": "Agenus to Participate in Chardan's 10th Annual Healthcare Investor Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/09/att-stock-is-tumbling-amid-spacex-competition-fears-buy-the-dip/",
+      "link": "https://www.businesswire.com/news/home/20261009464799/en/Agenus-to-Participate-in-Chardan%E2%80%99s-10th-Annual-Healthcare-Investor-Conference/",
       "published": null
     },
     {
-      "id": "stockanalysis:cde48ec1003c17f8",
-      "titleEn": "Tesla stock up 1.5% in premarket: is it back on track?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/10/09/tesla-stock-up-1-5-in-premarket-is-it-back-on-track/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b7ccfbcd166424f2",
-      "titleEn": "Nvidia stock slowly forms a risky pattern as experts warn of an AI bubble",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/09/nvidia-stock-slowly-forms-a-risky-pattern-as-experts-warn-of-an-ai-bubble/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d1a0bf36992aa52c",
-      "titleEn": "Why Apple shares are down 2% in premarket today?",
+      "id": "stockanalysis:6864c4d9dd85c998",
+      "titleEn": "AHF Praises Lawsuit to Protect 340B Discounts",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/09/why-apple-shares-are-down-2-in-premarket-today/",
+      "link": "https://www.businesswire.com/news/home/20261009192719/en/AHF-Praises-Lawsuit-to-Protect-340B-Discounts/",
       "published": null
     },
     {
-      "id": "stockanalysis:979f96e71d66b317",
-      "titleEn": "Trump asked Americans to buy Dell, then his money managers sold DELL stock",
+      "id": "stockanalysis:04a3bd73206bd977",
+      "titleEn": "Primaris REIT Reschedules Webcast and Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/09/trump-asked-americans-to-buy-dell-then-his-money-managers-sold-dell-stock/",
+      "link": "https://www.businesswire.com/news/home/20261009298941/en/Primaris-REIT-Reschedules-Webcast-and-Conference-Call/",
       "published": null
     },
     {
-      "id": "stockanalysis:0ee2f797dc09e96e",
-      "titleEn": "OpenAI revenue gap report rattles AI stocks",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: OpenAI is bringing in about $20 billion less in annualized revenue than investors had been led to believe, the Financial Times reported Thursday, raising questions about the solidity of the AI business. Citing documents shared with OpenAI's financial backers, the FT said the company put its annualized revenue at close to $50 billion as of the end of September.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-10-openai-revenue-gap-rattles-ai.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d615fcd06bb4ee6a",
-      "titleEn": "Cathie Wood sold $18.7M of SpaceX and AMD to buy a stock Wall Street sees doubling",
+      "id": "stockanalysis:c333fc0105662c86",
+      "titleEn": "Neptune Insurance Holdings to Announce Third Quarter 2026 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/09/cathie-wood-sold-18-7m-of-spacex-and-amd-to-buy-a-stock-wall-street-sees-doubling/",
+      "link": "https://www.businesswire.com/news/home/20261009659542/en/Neptune-Insurance-Holdings-to-Announce-Third-Quarter-2026-Financial-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:882c4845b5b1fca3",
-      "titleEn": "DoorDash to Announce Third Quarter 2026 Results on November 4, 2026",
+      "id": "stockanalysis:4ad924d05c81359d",
+      "titleEn": "TechCreate Group Ltd. Reports First Half Fiscal Year 2026 Financial and Operational Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261009090466/en/DoorDash-to-Announce-Third-Quarter-2026-Results-on-November-4-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d4c9785d707f1b17",
-      "titleEn": "Credo to Showcase Broad Portfolio of Connectivity Solutions for AI Scale-Out and Scale-Up Fabrics at 2026 OCP Global Summit",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261009157633/en/Credo-to-Showcase-Broad-Portfolio-of-Connectivity-Solutions-for-AI-Scale-Out-and-Scale-Up-Fabrics-at-2026-OCP-Global-Summit/",
+      "link": "https://www.businesswire.com/news/home/20261009708171/en/TechCreate-Group-Ltd.-Reports-First-Half-Fiscal-Year-2026-Financial-and-Operational-Results/",
       "published": null
     }
   ]
