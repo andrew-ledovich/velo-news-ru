@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T21:39:32.697459Z",
+  "generatedAt": "2026-10-09T01:26:14.668060Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:d9faa88835681e75",
@@ -76,66 +76,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1c49e550ec0c21bf",
-      "titleEn": "Why SpaceX stock is down around 2.5% on Thursday",
+      "id": "stockanalysis:1e4eed1d6d9fef6b",
+      "titleEn": "Gold Reserve Files Response in Citgo Appeal, Supporting Venezuela's Request for Abeyance, Subject to Support of the United States",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/08/why-spacex-stock-is-down-around-2-5-on-thursday/",
+      "link": "https://www.businesswire.com/news/home/20261008315274/en/Gold-Reserve-Files-Response-in-Citgo-Appeal-Supporting-Venezuela%E2%80%99s-Request-for-Abeyance-Subject-to-Support-of-the-United-States/",
       "published": null
     },
     {
-      "id": "stockanalysis:5c6e5b54e56c616a",
-      "titleEn": "Applied Digital stock price target slashed despite solid Q1 earnings",
+      "id": "stockanalysis:43975f59556bf1c8",
+      "titleEn": "WD-40 Company Declares Regular Quarterly Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/08/applied-digital-stock-price-target-slashed-despite-solid-q1-earnings/",
+      "link": "https://www.businesswire.com/news/home/20261008007171/en/WD-40-Company-Declares-Regular-Quarterly-Dividend/",
       "published": null
     },
     {
-      "id": "stockanalysis:ea6757528e84d8b4",
-      "titleEn": "Pilot and Tesla Open First Megacharger Site, Announce Three Additional Locations Opening Soon",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://www.businesswire.com/news/home/20261008549259/en/Pilot-and-Tesla-Open-First-Megacharger-Site-Announce-Three-Additional-Locations-Opening-Soon/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b9fe28a29ccaff39",
-      "titleEn": "Byline Bancorp, Inc. Names Sean H. McGuire Chief Commercial Banking Officer and Scott E.",
+      "id": "stockanalysis:f1ec8c71158a6f00",
+      "titleEn": "Marcus &amp; Millichap and Brown &amp; Brown Expand Preferred Partner Relationship into Canada",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008356116/en/Byline-Bancorp-Inc.-Names-Sean-H.-McGuire-Chief-Commercial-Banking-Officer-and-Scott-E.-Hawthorne-Chief-Credit-Officer-as-Part-of-Ongoing-Succession-Planning/",
+      "link": "https://www.businesswire.com/news/home/20261008253691/en/Marcus-Millichap-and-Brown-Brown-Expand-Preferred-Partner-Relationship-into-Canada/",
       "published": null
     },
     {
-      "id": "stockanalysis:7d23d1db41e1430c",
-      "titleEn": "Universal Announces Third Quarter 2026 Earnings Dates",
+      "id": "stockanalysis:1d0e907b0ed45aa5",
+      "titleEn": "RingCentral to Announce Third Quarter 2026 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008727367/en/Universal-Announces-Third-Quarter-2026-Earnings-Dates/",
+      "link": "https://www.businesswire.com/news/home/20261008003475/en/RingCentral-to-Announce-Third-Quarter-2026-Financial-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:083ef58cef7c263f",
-      "titleEn": "Allegion Schedules Webcast to Announce 2026 Third-Quarter Results",
+      "id": "stockanalysis:89726c0b77546924",
+      "titleEn": "H.B. Fuller Announces Pricing of $850 Million Debt Offering",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008495744/en/Allegion-Schedules-Webcast-to-Announce-2026-Third-Quarter-Results/",
+      "link": "https://www.businesswire.com/news/home/20261008376791/en/H.B.-Fuller-Announces-Pricing-of-850-Million-Debt-Offering/",
       "published": null
     },
     {
-      "id": "stockanalysis:e54b751c5e67cc1a",
-      "titleEn": "Fastly to Announce Third Quarter 2026 Financial Results",
+      "id": "stockanalysis:36685a58d0993c5a",
+      "titleEn": "Cathay General Bancorp to Announce Third Quarter 2026 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008504047/en/Fastly-to-Announce-Third-Quarter-2026-Financial-Results/",
+      "link": "https://www.businesswire.com/news/home/20261008924673/en/Cathay-General-Bancorp-to-Announce-Third-Quarter-2026-Financial-Results/",
       "published": null
     }
   ]
