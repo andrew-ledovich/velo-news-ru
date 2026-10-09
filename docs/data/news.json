@@ -1,132 +1,105 @@
 {
-  "generatedAt": "2026-10-09T07:37:13.708551Z",
+  "generatedAt": "2026-10-09T14:39:15.097241Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 11,
   "items": [
     {
-      "id": "stockanalysis:d9faa88835681e75",
-      "titleEn": "Gold rises, silver falls as strong bond auction tempers yield pressure - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were firmer and spot silver prices were lower in late U.S. trading Thursday, as a strong 30-year Treasury auction helped yields retreat from the morning highs, while oil’s surge kept inflation and year-end Fed tightening risk in the trade. At the time of writing, spot gold was trading near $4,132.30 an ounce, up 0.55% on the session, while spot silver was trading near $59.050, down 1.03%. North American equities closed mixed as a late retreat in Treasury yields offset part of the pressure from higher oil and a technology-stock selloff. The S&P 500 fell 36.41 points, or 0.5%, to 7,765.36. The Dow Jones Industrial Average rose 51.77 points, or 0.1%, to 51,231.64. The Nasdaq Composite fell 345.35 points, or 1.3%, to 27,193.34, while the Russell 2000 rose 0.92 point, less than 0.1%, to 2,794.13. European equities closed lower as the oil shock and renewed sovereign-yield pressure hit banks, autos and health care. The Stoxx Europe 600 fell 0.75% to 625.51. Germany’s DAX lost 1.18% to 24,806.97, France’s CAC 40 fell 0.51% to 7,729.69, the U.K. FTSE 100 declined 0.16% to 10,441.60 and Italy’s FTSE MIB dropped 1.35% to 49,297.88.",
+      "id": "stockanalysis:48a53dba5e921575",
+      "titleEn": "Gold, silver rebound as dollar, yields and oil ease - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold prices are sharply higher and spot silver prices are also solidly higher in early U.S. trading Friday, as a softer U.S. dollar, easing Treasury yields and a pullback in oil prices helped metals recover from this week’s rate- and energy-driven selloff. At the time of writing, spot gold was trading near $4,184.80 an ounce, up 1.27% on the session, while spot silver was trading near $60.440, up 2.32%. Market positioning remains less hawkish for October but still exposed to December tightening risk. Initial jobless claims fell to 197,000 last week, while continuing claims rose to 1.716 million , reinforcing a low-layoff, slow-hiring labor market after September payrolls rose by only 29,000 and July and August payrolls were revised down by a combined 60,000. Fed minutes released Wednesday showed most policymakers still expected another rate increase by year-end, and Friday pricing put the probability of an October hike near 17% to 19%, while December hike odds remained near 82% to 83%. The 10-year Treasury yield was near 5.25% after Thursday’s strong 30-year auction eased pressure at the long end. Friday’s preliminary October consumer sentiment and inflation-expectations data are the next immediate test, followed by September CPI and PPI next week. Softer sentiment or inflation expectations would support gold by validating the payroll slowdown and lower-yield move; sticky expectations or a hot CPI print would keep the December hike channel active against bullion.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-08/gold-rises-silver-falls-strong-bond-auction-tempers-yield-pressure-kitco-pm",
+      "link": "https://www.kitco.com/news/article/2026-10-09/gold-silver-rebound-dollar-yields-and-oil-ease-kitco-am-report",
       "published": null
     },
     {
-      "id": "stockanalysis:f0c2c24596c544ef",
-      "titleEn": "Silver's long-term outlook remains bullish as new investment products offer income opportunities - Amplify ETFs",
-      "summaryEn": "(Kitco News) - The silver market continues to struggle in the face of persistent inflation pressures and higher bond yields. However, one market strategist says the precious metal remains an important monetary asset and diversification tool. In an interview with Kitco News, Nate Miller, Vice President of Product Development at Amplify ETFs, said that although silver&#x27;s price action has been disappointing since its highs at the start of the year, prices are still well above where they were a year ago. Spot silver last traded at $58.89 an ounce, down more than 1% on the day. However, last October, prices were just starting to test resistance at $50 an ounce.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-08/silvers-long-term-outlook-remains-bullish-new-investment-products-offer",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a290c0eb6c856ba5",
-      "titleEn": "Gold gains ground as central banks retreat from dollar assets and inflation undermines bonds – Sprott's Zhu",
-      "summaryEn": "(Kitco News) – Gold ’s ability to maintain its trading range and attract fresh ETF inflows despite soaring bond yields suggests its next move could be to the upside, while central banks’ shift away from dollar assets continues to bolster the longer-term bullish outlook, according to Kenny Zhu, Director of Research and Investment Strategy at Sprott. In an interview with Kitco News, Zhu explained why the inflation and currency concerns driving yields higher could ultimately strengthen gold’s appeal, and how either a soft landing or a sharper economic downturn could ease the pressure on precious metals — with a sudden Fed pivot potentially supercharging gains in gold. “Given the inflation pressures, the flows have remained positive,” he noted. “They&#x27;re not as strong as they were in August because that was a strong rally, but it&#x27;s still positive inflows. To me, that suggests that potentially there is interest in gold at these levels.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-08/gold-gains-ground-central-banks-retreat-dollar-assets-and-inflation",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e76ea94692d1d1d7",
-      "titleEn": "Apple stock rises as smart home push and AI strategy draw investor focus",
+      "id": "stockanalysis:eb63b33fde59b35d",
+      "titleEn": "Lumentum stock rises 6% as AI demand fills optical orders through 2029",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/08/apple-stock-rises-as-smart-home-push-and-ai-strategy-draw-investor-focus/",
+      "link": "https://invezz.com/news/2026/10/09/lumentum-stock-rises-6-as-ai-demand-fills-optical-orders-through-2029/",
       "published": null
     },
     {
-      "id": "stockanalysis:b1db73c3d6d6f7b9",
-      "titleEn": "QAD | Redzone Partners with PwC Belgium to Accelerate Manufacturing Transformation Across Europe",
+      "id": "stockanalysis:d433cd38ac837fa2",
+      "titleEn": "AT&amp;T stock is tumbling amid SpaceX competition fears: buy the dip?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261009617565/en/QAD-Redzone-Partners-with-PwC-Belgium-to-Accelerate-Manufacturing-Transformation-Across-Europe/",
+      "link": "https://invezz.com/news/2026/10/09/att-stock-is-tumbling-amid-spacex-competition-fears-buy-the-dip/",
       "published": null
     },
     {
-      "id": "stockanalysis:567caa2c8e4762a1",
-      "titleEn": "TA Portfolio Company Rocscience to be Acquired by Hexagon",
+      "id": "stockanalysis:cde48ec1003c17f8",
+      "titleEn": "Tesla stock up 1.5% in premarket: is it back on track?",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008862698/en/TA-Portfolio-Company-Rocscience-to-be-Acquired-by-Hexagon/",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/10/09/tesla-stock-up-1-5-in-premarket-is-it-back-on-track/",
       "published": null
     },
     {
-      "id": "stockanalysis:321d8fa543fadcd6",
-      "titleEn": "Kioxia Introduces E1.L QLC-based SSDs for Hyperscale Data Centers",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008680762/en/Kioxia-Introduces-E1.L-QLC-based-SSDs-for-Hyperscale-Data-Centers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:936ece957d000983",
-      "titleEn": "e.l.f. SKIN's Save Your e.l.f. Hypochlorous Mist Helps Soothe Stress in every e.l.f.ing mist-mergency",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008906886/en/e.l.f.-SKIN%E2%80%99s-Save-Your-e.l.f.-Hypochlorous-Mist-Helps-Soothe-Stress-in-every-e.l.f.ing-mist-mergency/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:aab008ead517e746",
-      "titleEn": "Innovative Industrial Properties Prices Public Offering of 9.25% Series B Cumulative Redeemable Preferred Stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008729556/en/Innovative-Industrial-Properties-Prices-Public-Offering-of-9.25-Series-B-Cumulative-Redeemable-Preferred-Stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b65ad5dd3e28c192",
-      "titleEn": "Crescent Energy Company Announces Pricing of Public Offering of Class A Common Stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008198229/en/Crescent-Energy-Company-Announces-Pricing-of-Public-Offering-of-Class-A-Common-Stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:346e821d404248ba",
-      "titleEn": "Hitachi Joins Anthropic's Critical Infrastructure Defense Program",
+      "id": "stockanalysis:b7ccfbcd166424f2",
+      "titleEn": "Nvidia stock slowly forms a risky pattern as experts warn of an AI bubble",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261008940707/en/Hitachi-Joins-Anthropic%E2%80%99s-Critical-Infrastructure-Defense-Program/",
+      "link": "https://invezz.com/news/2026/10/09/nvidia-stock-slowly-forms-a-risky-pattern-as-experts-warn-of-an-ai-bubble/",
       "published": null
     },
     {
-      "id": "stockanalysis:da1ab6830cfdc9ee",
-      "titleEn": "Rubrik Expands Project Hourglass with Rubrik Code Guardian, Powered by Claude",
+      "id": "stockanalysis:d1a0bf36992aa52c",
+      "titleEn": "Why Apple shares are down 2% in premarket today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/09/why-apple-shares-are-down-2-in-premarket-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:979f96e71d66b317",
+      "titleEn": "Trump asked Americans to buy Dell, then his money managers sold DELL stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/09/trump-asked-americans-to-buy-dell-then-his-money-managers-sold-dell-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0ee2f797dc09e96e",
+      "titleEn": "OpenAI revenue gap report rattles AI stocks",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: OpenAI is bringing in about $20 billion less in annualized revenue than investors had been led to believe, the Financial Times reported Thursday, raising questions about the solidity of the AI business. Citing documents shared with OpenAI's financial backers, the FT said the company put its annualized revenue at close to $50 billion as of the end of September.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-10-openai-revenue-gap-rattles-ai.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d615fcd06bb4ee6a",
+      "titleEn": "Cathie Wood sold $18.7M of SpaceX and AMD to buy a stock Wall Street sees doubling",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/09/cathie-wood-sold-18-7m-of-spacex-and-amd-to-buy-a-stock-wall-street-sees-doubling/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:882c4845b5b1fca3",
+      "titleEn": "DoorDash to Announce Third Quarter 2026 Results on November 4, 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261009090466/en/DoorDash-to-Announce-Third-Quarter-2026-Results-on-November-4-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d4c9785d707f1b17",
+      "titleEn": "Credo to Showcase Broad Portfolio of Connectivity Solutions for AI Scale-Out and Scale-Up Fabrics at 2026 OCP Global Summit",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261008042399/en/Rubrik-Expands-Project-Hourglass-with-Rubrik-Code-Guardian-Powered-by-Claude/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1e4eed1d6d9fef6b",
-      "titleEn": "Gold Reserve Files Response in Citgo Appeal, Supporting Venezuela's Request for Abeyance, Subject to Support of the United States",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008315274/en/Gold-Reserve-Files-Response-in-Citgo-Appeal-Supporting-Venezuela%E2%80%99s-Request-for-Abeyance-Subject-to-Support-of-the-United-States/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:43975f59556bf1c8",
-      "titleEn": "WD-40 Company Declares Regular Quarterly Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008007171/en/WD-40-Company-Declares-Regular-Quarterly-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20261009157633/en/Credo-to-Showcase-Broad-Portfolio-of-Connectivity-Solutions-for-AI-Scale-Out-and-Scale-Up-Fabrics-at-2026-OCP-Global-Summit/",
       "published": null
     }
   ]
