@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T01:26:14.668060Z",
+  "generatedAt": "2026-10-09T07:37:13.708551Z",
   "sourceCount": 1,
   "count": 14,
   "items": [
@@ -40,39 +40,75 @@
       "published": null
     },
     {
-      "id": "stockanalysis:96eb5c5b1dc2bed4",
-      "titleEn": "Why are Intel and AMD stocks plunging on Thursday?",
+      "id": "stockanalysis:b1db73c3d6d6f7b9",
+      "titleEn": "QAD | Redzone Partners with PwC Belgium to Accelerate Manufacturing Transformation Across Europe",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/08/why-are-intel-and-amd-stocks-plunging-on-thursday/",
+      "link": "https://www.businesswire.com/news/home/20261009617565/en/QAD-Redzone-Partners-with-PwC-Belgium-to-Accelerate-Manufacturing-Transformation-Across-Europe/",
       "published": null
     },
     {
-      "id": "stockanalysis:629fa533ad1688c0",
-      "titleEn": "OpenAI revenue run rate falls short of $70B figure: report",
+      "id": "stockanalysis:567caa2c8e4762a1",
+      "titleEn": "TA Portfolio Company Rocscience to be Acquired by Hexagon",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261008862698/en/TA-Portfolio-Company-Rocscience-to-be-Acquired-by-Hexagon/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:321d8fa543fadcd6",
+      "titleEn": "Kioxia Introduces E1.L QLC-based SSDs for Hyperscale Data Centers",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261008680762/en/Kioxia-Introduces-E1.L-QLC-based-SSDs-for-Hyperscale-Data-Centers/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:936ece957d000983",
+      "titleEn": "e.l.f. SKIN's Save Your e.l.f. Hypochlorous Mist Helps Soothe Stress in every e.l.f.ing mist-mergency",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261008906886/en/e.l.f.-SKIN%E2%80%99s-Save-Your-e.l.f.-Hypochlorous-Mist-Helps-Soothe-Stress-in-every-e.l.f.ing-mist-mergency/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:aab008ead517e746",
+      "titleEn": "Innovative Industrial Properties Prices Public Offering of 9.25% Series B Cumulative Redeemable Preferred Stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261008729556/en/Innovative-Industrial-Properties-Prices-Public-Offering-of-9.25-Series-B-Cumulative-Redeemable-Preferred-Stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b65ad5dd3e28c192",
+      "titleEn": "Crescent Energy Company Announces Pricing of Public Offering of Class A Common Stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261008198229/en/Crescent-Energy-Company-Announces-Pricing-of-Public-Offering-of-Class-A-Common-Stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:346e821d404248ba",
+      "titleEn": "Hitachi Joins Anthropic's Critical Infrastructure Defense Program",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/08/openai-revenue-run-rate-falls-short-of-70b-figure-report/",
+      "link": "https://www.businesswire.com/news/home/20261008940707/en/Hitachi-Joins-Anthropic%E2%80%99s-Critical-Infrastructure-Defense-Program/",
       "published": null
     },
     {
-      "id": "stockanalysis:e7cb06bdeb104cff",
-      "titleEn": "Why it makes no sense for Starbucks to acquire Chipotle",
+      "id": "stockanalysis:da1ab6830cfdc9ee",
+      "titleEn": "Rubrik Expands Project Hourglass with Rubrik Code Guardian, Powered by Claude",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/08/why-it-makes-no-sense-for-starbucks-to-acquire-chipotle/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7e91d639b77784dd",
-      "titleEn": "PepsiCo stock rises on earnings beat even as it lowers full-year profit forecast",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/08/pepsico-stock-rises-on-earnings-beat-even-as-it-lowers-full-year-profit-forecast/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261008042399/en/Rubrik-Expands-Project-Hourglass-with-Rubrik-Code-Guardian-Powered-by-Claude/",
       "published": null
     },
     {
@@ -91,42 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261008007171/en/WD-40-Company-Declares-Regular-Quarterly-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f1ec8c71158a6f00",
-      "titleEn": "Marcus &amp; Millichap and Brown &amp; Brown Expand Preferred Partner Relationship into Canada",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008253691/en/Marcus-Millichap-and-Brown-Brown-Expand-Preferred-Partner-Relationship-into-Canada/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1d0e907b0ed45aa5",
-      "titleEn": "RingCentral to Announce Third Quarter 2026 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008003475/en/RingCentral-to-Announce-Third-Quarter-2026-Financial-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:89726c0b77546924",
-      "titleEn": "H.B. Fuller Announces Pricing of $850 Million Debt Offering",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008376791/en/H.B.-Fuller-Announces-Pricing-of-850-Million-Debt-Offering/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:36685a58d0993c5a",
-      "titleEn": "Cathay General Bancorp to Announce Third Quarter 2026 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261008924673/en/Cathay-General-Bancorp-to-Announce-Third-Quarter-2026-Financial-Results/",
       "published": null
     }
   ]
