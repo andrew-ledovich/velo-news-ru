@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T15:19:38.448072Z",
+  "generatedAt": "2026-10-10T19:23:41.586283Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:999dc9b474602511",
@@ -85,15 +85,6 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1329f38569a7df4e",
-      "titleEn": "Joby Aviation stock slumps toward a death cross: Key reasons behind the selloff",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/09/joby-aviation-stock-slumps-toward-a-death-cross-key-reasons-behind-the-selloff/",
-      "published": null
-    },
-    {
       "id": "stockanalysis:b0ae77c6bfbe658d",
       "titleEn": "AHF Debuts ‘Wellness on Wheels' - New EV Mobile Clinic During ‘Pride on Paradise'",
       "summaryEn": null,
@@ -127,15 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261009423825/en/Hudson-Pacific-Properties-Announces-Expiration-and-Tender-Results-of-Cash-Tender-Offer-for-Outstanding-Notes/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:88244ac347e0865c",
-      "titleEn": "LibertyStream Updates Shareholder Meeting Timing",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261009345914/en/LibertyStream-Updates-Shareholder-Meeting-Timing/",
       "published": null
     }
   ]
