@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T09:02:17.748668Z",
+  "generatedAt": "2026-10-10T15:19:38.448072Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 15,
   "items": [
     {
       "id": "stockanalysis:999dc9b474602511",
@@ -94,21 +94,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:9018d59bd82c9911",
-      "titleEn": "T-Mobile stock crash gains steam amid SpaceX fears: is it a bargain or a value trap?",
+      "id": "stockanalysis:b0ae77c6bfbe658d",
+      "titleEn": "AHF Debuts ‘Wellness on Wheels' - New EV Mobile Clinic During ‘Pride on Paradise'",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/09/t-mobile-stock-crash-gains-steam-amid-spacex-fears-is-it-a-bargain-or-a-value-trap/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5078ce35e6ba64b5",
-      "titleEn": "How OpenAI's revenue discrepancy shook the AI stock trade",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/09/how-openais-revenue-discrepancy-shook-the-ai-stock-trade/",
+      "topic": "EV",
+      "link": "https://www.businesswire.com/news/home/20261010930921/en/AHF-Debuts-%E2%80%98Wellness-on-Wheels%E2%80%99---New-EV-Mobile-Clinic-During-%E2%80%98Pride-on-Paradise%E2%80%99/",
       "published": null
     },
     {
@@ -145,33 +136,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261009345914/en/LibertyStream-Updates-Shareholder-Meeting-Timing/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:54423a9f6b8e868b",
-      "titleEn": "Service Properties Trust Confirms Receipt of Unsolicited Proposal for Hotel Portfolio From TKO Hotels",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261009483108/en/Service-Properties-Trust-Confirms-Receipt-of-Unsolicited-Proposal-for-Hotel-Portfolio-From-TKO-Hotels/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b99cc368d29dd8bf",
-      "titleEn": "Asahi Kasei Therapeutics Announces FDA Approval of HOVILPRI® (pritelivir) Tablets for Mucocutaneous HSV Lesions Refractory (With or Without Resistance) to Standard Antiviral Treatment in Immunocompromised Adults",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261009917279/en/Asahi-Kasei-Therapeutics-Announces-FDA-Approval-of-HOVILPRI%C2%AE-pritelivir-Tablets-for-Mucocutaneous-HSV-Lesions-Refractory-With-or-Without-Resistance-to-Standard-Antiviral-Treatment-in-Immunocompromised-Adults/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a7e898a4fa9470db",
-      "titleEn": "IPA Capital Markets Arranges $50 Million in Financing for 18-Property Industrial Portfolio",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261009714551/en/IPA-Capital-Markets-Arranges-50-Million-in-Financing-for-18-Property-Industrial-Portfolio/",
       "published": null
     }
   ]
