@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T19:23:41.586283Z",
+  "generatedAt": "2026-10-10T22:44:31.517170Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:999dc9b474602511",
@@ -85,6 +85,33 @@
       "published": null
     },
     {
+      "id": "stockanalysis:2fb8ebf9b8219afa",
+      "titleEn": "Merck Presents One-Year Results from the Pivotal Phase 2b/3 BRUNELLO Study Evaluating Remigromig, a Tri-specific Agonist of the Wingless-related Integration Site (Wnt) Pathway, in Adults with Diabetic Macular Edema at AAO 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261010000066/en/Merck-Presents-One-Year-Results-from-the-Pivotal-Phase-2b3-BRUNELLO-Study-Evaluating-Remigromig-a-Tri-specific-Agonist-of-the-Wingless-related-Integration-Site-Wnt-Pathway-in-Adults-with-Diabetic-Macular-Edema-at-AAO-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a6d9690b57ab74d1",
+      "titleEn": "AXP Investors with $100,000 in Losses Have Opportunity to Join American Express Company Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261010585936/en/AXP-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-American-Express-Company-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:407faa72efefb26b",
+      "titleEn": "T-Mobile Crews and Teams Restore Connectivity as Gulf Coast Communities Recover from Hurricane Isaias",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261010253743/en/T-Mobile-Crews-and-Teams-Restore-Connectivity-as-Gulf-Coast-Communities-Recover-from-Hurricane-Isaias/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:b0ae77c6bfbe658d",
       "titleEn": "AHF Debuts ‘Wellness on Wheels' - New EV Mobile Clinic During ‘Pride on Paradise'",
       "summaryEn": null,
@@ -100,24 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261009314327/en/General-Mills-Announces-Pricing-Terms-Expiration-and-Results-of-Cash-Tender-Offers-for-its-Senior-Notes/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a0b45081db68fb21",
-      "titleEn": "CBRE Global Real Estate Income Fund (NYSE: IGR) Declares Monthly Distributions for October, November and December and Announces a Webinar with Portfolio Management",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261009723397/en/CBRE-Global-Real-Estate-Income-Fund-NYSE-IGR-Declares-Monthly-Distributions-for-October-November-and-December-and-Announces-a-Webinar-with-Portfolio-Management/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a126791b095482a2",
-      "titleEn": "Hudson Pacific Properties Announces Expiration and Tender Results of Cash Tender Offer for Outstanding Notes",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261009423825/en/Hudson-Pacific-Properties-Announces-Expiration-and-Tender-Results-of-Cash-Tender-Offer-for-Outstanding-Notes/",
       "published": null
     }
   ]
