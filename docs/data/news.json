@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-10-11T07:25:22.156776Z",
+  "generatedAt": "2026-10-11T14:15:03.642200Z",
   "sourceCount": 1,
   "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:b015960744c3468f",
+      "titleEn": "Nvidia stock takes a hit as portfolio stocks dive and Reflection AI bid is considered",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/11/nvidia-stock-takes-a-hit-as-portfolio-stocks-dive-and-reflection-ai-bid-is-considered/",
+      "published": null
+    },
     {
       "id": "stockanalysis:999dc9b474602511",
       "titleEn": "Wall Street nears bullish majority after gold's late-week rally, Main Street fails to reclaim bullish bias as inflation data take center stage",
@@ -73,15 +82,6 @@
       "source": "Stock Analysis",
       "topic": "EV",
       "link": "https://invezz.com/news/2026/10/09/why-is-tesla-stock-gaining-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b01a5d2039114316",
-      "titleEn": "SpaceX's network plans have rattled legacy carriers, but there's a surprise gainer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/09/spacexs-network-plans-have-rattled-legacy-carriers-but-theres-a-surprise-gainer/",
       "published": null
     },
     {
