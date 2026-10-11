@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-10-11T18:55:52.336690Z",
+  "generatedAt": "2026-10-11T22:34:46.716800Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:ffaf9472614ac9bb",
+      "titleEn": "Amazon plans $7 billion acquisition of Decart, a fast-growing AI startup",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/11/amazon-plans-7-billion-acquisition-of-decart-a-fast-growing-ai-startup/",
+      "published": null
+    },
     {
       "id": "stockanalysis:b015960744c3468f",
       "titleEn": "Nvidia stock takes a hit as portfolio stocks dive and Reflection AI bid is considered",
@@ -67,12 +76,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:8ef0de9b4cecba09",
-      "titleEn": "Coherent stock forms bullish pattern as Lumentum projects strong optics demand",
+      "id": "stockanalysis:fea1f62d8ed061bf",
+      "titleEn": "IMVT Investors with $100,000 in Losses Have Opportunity to Join Immunovant, Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/09/coherent-stock-forms-bullish-pattern-as-lumentum-projects-strong-optics-demand/",
+      "link": "https://www.businesswire.com/news/home/20261011801778/en/IMVT-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-Immunovant-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6a2f9707f246c6ef",
+      "titleEn": "BA Investors with $100,000 in Losses Have Opportunity to Join The Boeing Company Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261011712186/en/BA-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-The-Boeing-Company-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3327d22c1936cf8d",
+      "titleEn": "LZB Investors with $100,000 in Losses Have Opportunity to Join La-Z-Boy Incorporated Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261011960935/en/LZB-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-La-Z-Boy-Incorporated-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5b986cece6f2b712",
+      "titleEn": "FHTX Investors with $100,000 in Losses Have Opportunity to Join Foghorn Therapeutics Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261011358180/en/FHTX-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-Foghorn-Therapeutics-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:36f1d84040e5b296",
+      "titleEn": "SCHL Investors with $100,000 in Losses Have Opportunity to Join Scholastic Corporation Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261011667170/en/SCHL-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-Scholastic-Corporation-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cc664caef747aa61",
+      "titleEn": "Mirum Pharmaceuticals to Host Investor Call to Share Topline Results from the Phase 3 EXPAND Study of LIVMARLI® (maralixibat) in Ultra-Rare Cholestatic Liver Diseases",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261011330842/en/Mirum-Pharmaceuticals-to-Host-Investor-Call-to-Share-Topline-Results-from-the-Phase-3-EXPAND-Study-of-LIVMARLI%C2%AE-maralixibat-in-Ultra-Rare-Cholestatic-Liver-Diseases/",
       "published": null
     },
     {
@@ -109,24 +163,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261010253743/en/T-Mobile-Crews-and-Teams-Restore-Connectivity-as-Gulf-Coast-Communities-Recover-from-Hurricane-Isaias/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b0ae77c6bfbe658d",
-      "titleEn": "AHF Debuts ‘Wellness on Wheels' - New EV Mobile Clinic During ‘Pride on Paradise'",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://www.businesswire.com/news/home/20261010930921/en/AHF-Debuts-%E2%80%98Wellness-on-Wheels%E2%80%99---New-EV-Mobile-Clinic-During-%E2%80%98Pride-on-Paradise%E2%80%99/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:28fa5fa4e94cf8a2",
-      "titleEn": "General Mills Announces Pricing Terms, Expiration and Results of Cash Tender Offers for its Senior Notes",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261009314327/en/General-Mills-Announces-Pricing-Terms-Expiration-and-Results-of-Cash-Tender-Offers-for-its-Senior-Notes/",
       "published": null
     }
   ]
