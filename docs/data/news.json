@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-11T14:15:03.642200Z",
+  "generatedAt": "2026-10-11T18:55:52.336690Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:b015960744c3468f",
@@ -73,15 +73,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/10/09/coherent-stock-forms-bullish-pattern-as-lumentum-projects-strong-optics-demand/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b3c9cacc696a6523",
-      "titleEn": "Why is Tesla stock gaining today?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/10/09/why-is-tesla-stock-gaining-today/",
       "published": null
     },
     {
