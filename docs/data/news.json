@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-10-12T01:46:15.173663Z",
+  "generatedAt": "2026-10-12T08:13:49.206153Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 23,
   "items": [
+    {
+      "id": "stockanalysis:eac1ba5ad95a3242",
+      "titleEn": "Nvidia stock is flirting with $6T: 3 tests could decide the AI trade this week",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/12/nvidia-stock-is-flirting-with-6t-3-tests-could-decide-the-ai-trade-this-week/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2d04a1eb2dcbed35",
+      "titleEn": "Nio stock slide continues in Hong Kong as headwinds rise",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/10/12/nio-stock-slide-continues-in-hong-kong-as-headwinds-rise/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:752d1c68ac804998",
+      "titleEn": "Why are Samsung and SK Hynix crashing even as memory prices keep climbing?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/12/why-are-samsung-and-sk-hynix-crashing-even-as-memory-prices-keep-climbing/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ce6d3b9aea3ec5b4",
+      "titleEn": "Amazon Weighs $7 Billion Purchase of AI Startup Decart",
+      "summaryEn": "Amazon is reportedly in discussions to purchase artificial intelligence startup Decart in a roughly $7 billion deal. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a report Sunday (Oct. 11) by The Wall Street Journal (WSJ), citing sources familiar with the matter. Those sources say a deal could come together soon, provided the talks don’t collapse and another contender doesn’t make an offer.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-weighs-7-billion-purchase-of-ai-startup-decart/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:17580d93a13272f8",
+      "titleEn": "Nvidia Looks to Purchase Open-Weight AI Firm Reflection",
+      "summaryEn": "Nvidia is reportedly in talks to acquire Reflection AI , a U.S. maker of open-weight artificial intelligence models. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a report Saturday (Oct. 10) by the Financial Times (FT), which noted that the White House has been counting on U.S. open-weight models to rival those from China.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-looks-to-purchase-open-weight-ai-firm-reflection/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:aceff6e78960c3bf",
+      "titleEn": "Microsoft CEO Calls for Safeguards Against Rogue AI",
+      "summaryEn": "Microsoft’s CEO says companies should assume powerful artificial intelligence models could be compromised and create an “emergency brake” to rein them in. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); In comments posted to X on Saturday (Oct. 10) Satya Nadella argued that it is not enough to depend on assurances from the makers of AI models.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-ceo-calls-for-safeguards-against-rogue-ai/",
+      "published": null
+    },
     {
       "id": "stockanalysis:ffaf9472614ac9bb",
       "titleEn": "Amazon plans $7 billion acquisition of Decart, a fast-growing AI startup",
@@ -58,21 +112,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:dbfd5eb6c563f41c",
-      "titleEn": "Gold price holds critical $4,100 support, but can it break $4,200 as inflation risks loom?",
-      "summaryEn": "(Kitco News) - The gold market may not be ready to break out to the upside as it encounters initial resistance at $4,200 an ounce, but there is still optimism among analysts as prices manage to hold support above $4,100 an ounce ahead of the weekend. Analysts note that elevated bond yields and persistent inflation pressures continue to keep a lid on gold prices; however, they also add that investors continue to see value in the market as dips continue to be bought. Spot gold last traded at $4,187.30 an ounce, up more than 1% from last Friday. Most of this week’s gains have come in the last two sessions, as prices quickly recovered after falling below $4,100 an ounce Wednesday.",
+      "id": "stockanalysis:c7fd5410c012610d",
+      "titleEn": "United States: TotalEnergies Expands its Joint Venture with KKR with the Addition of a 700 MW Renewables Portfolio",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-09/gold-price-holds-critical-4100-support-can-it-break-4200-inflation-risks",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261011119877/en/United-States-TotalEnergies-Expands-its-Joint-Venture-with-KKR-with-the-Addition-of-a-700-MW-Renewables-Portfolio/",
       "published": null
     },
     {
-      "id": "stockanalysis:cfabb2897014765a",
-      "titleEn": "Snowflake stock rises 6% as AI Marketplace launch boosts software outlook",
+      "id": "stockanalysis:45b716e61c110085",
+      "titleEn": "Megaport Expands Global Automated Infrastructure Platform Into Portugal",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/09/snowflake-stock-rises-6-as-ai-marketplace-launch-boosts-software-outlook/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261011513398/en/Megaport-Expands-Global-Automated-Infrastructure-Platform-Into-Portugal/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9c0de49dd33eb548",
+      "titleEn": "HAFNIA LIMITED: Mandatory Notification of Trade by Primary Insider",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261011248456/en/HAFNIA-LIMITED-Mandatory-Notification-of-Trade-by-Primary-Insider/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9ea83cdc71562b1f",
+      "titleEn": "e.l.f. Cosmetics Launches its First Virtual Styling Experience on ZEPETO: “Express Your e.l.f.”",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261011222519/en/e.l.f.-Cosmetics-Launches-its-First-Virtual-Styling-Experience-on-ZEPETO-%E2%80%9CExpress-Your-e.l.f.%E2%80%9D/",
       "published": null
     },
     {
@@ -136,24 +208,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261011358180/en/FHTX-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-Foghorn-Therapeutics-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:36f1d84040e5b296",
-      "titleEn": "SCHL Investors with $100,000 in Losses Have Opportunity to Join Scholastic Corporation Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261011667170/en/SCHL-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-Scholastic-Corporation-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cc664caef747aa61",
-      "titleEn": "Mirum Pharmaceuticals to Host Investor Call to Share Topline Results from the Phase 3 EXPAND Study of LIVMARLI® (maralixibat) in Ultra-Rare Cholestatic Liver Diseases",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261011330842/en/Mirum-Pharmaceuticals-to-Host-Investor-Call-to-Share-Topline-Results-from-the-Phase-3-EXPAND-Study-of-LIVMARLI%C2%AE-maralixibat-in-Ultra-Rare-Cholestatic-Liver-Diseases/",
       "published": null
     }
   ]
