@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-10-12T17:53:55.896477Z",
+  "generatedAt": "2026-10-12T23:54:40.303911Z",
   "sourceCount": 1,
-  "count": 30,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:8d92b4d1595a9464",
+      "titleEn": "Gold, silver soften as markets price in December Fed hike risk - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were lower after the close Monday as a firmer U.S. dollar, renewed oil strength and elevated Treasury-yield risk offset safe-haven demand tied to the Strait of Hormuz and the U.S.-Iran conflict. At the time of writing, spot gold was trading near $4,168.90 an ounce, down 0.59%, while spot silver was trading at $60.120, down 0.96% on the session. The latest price action is less about an immediate October Fed move and more about whether this week’s inflation data revives the December tightening path. Markets were pricing roughly a 17% chance of an October hike and an 87.7% probability of at least one hike by December after softer recent U.S. data lowered near-term hike risk but oil-driven inflation concerns kept year-end policy risk alive. September CPI is due Wednesday, followed by PPI and retail sales Thursday. This setup has left gold exposed to the dollar and real-yield channel, even as ETF demand and central-bank buying remain supportive beneath the market.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-12/gold-silver-soften-markets-price-december-fed-hike-risk-kitco-pm-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e96429bb1fee8c11",
+      "titleEn": "Gold defies multi-decade high bond yields, but Q4 headwinds remain – Invesco",
+      "summaryEn": "(Kitco News) - The gold market continues to face significant headwinds from persistent inflation, rising interest rates and higher bond yields; however, the precious metal has demonstrated remarkable resilience, ending the third quarter with solid gains even as U.S. Treasury yields climbed to multi-decade highs. According to one investment firm, these competing forces are expected to remain important drivers of gold prices through the final three months of the year. In their latest quarterly outlook, market analysts at Invesco said that although higher bond yields could continue to weigh on gold prices in the fourth quarter, structural demand from central banks and renewed investor interest in gold-backed exchange-traded products (ETPs) should continue to provide long-term support. The analysts noted that gold ended September at $4,157 an ounce, representing a gain of 3.7% during the third quarter. The positive performance came despite a sharp selloff in global bond markets that pushed longer-dated U.S. Treasury yields to their highest levels in more than two decades.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-12/gold-defies-multi-decade-high-bond-yields-q4-headwinds-remain-invesco",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:67bf81e0ee7bc19c",
+      "titleEn": "Adobe stock falls as Wells Fargo downgrades shares",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/12/adobe-stock-falls-as-wells-fargo-downgrades-shares/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4453d4c85e1541bb",
+      "titleEn": "Why does Morgan Stanley see an 85% upside for SpaceX stock?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/12/why-does-morgan-stanley-see-an-85-upside-for-spacex-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a7a849b1fa23ed8a",
+      "titleEn": "Why Meta stock is up 4% on Monday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/12/why-meta-stock-is-up-4-on-monday/",
+      "published": null
+    },
     {
       "id": "stockanalysis:f548982f772c18c7",
       "titleEn": "Northland analyst says it's time to hop back into C3.ai stock",
@@ -49,228 +94,66 @@
       "published": null
     },
     {
-      "id": "stockanalysis:dc78df61e5db7c84",
-      "titleEn": "Why are Micron, SK Hynix stocks falling on Monday?",
+      "id": "stockanalysis:df247e9f3ba6ddff",
+      "titleEn": "Walker &amp; Dunlop Arranges $203 Million in Financing for East Village Mixed-Use Multifamily Property",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/12/why-are-micron-sk-hynix-stocks-falling-on-monday/",
+      "link": "https://www.businesswire.com/news/home/20261012377040/en/Walker-Dunlop-Arranges-203-Million-in-Financing-for-East-Village-Mixed-Use-Multifamily-Property/",
       "published": null
     },
     {
-      "id": "stockanalysis:e039195c50b62b98",
-      "titleEn": "Bears in control of JPMorgan stock: can Q3 earnings change that?",
+      "id": "stockanalysis:f86a52b516ca4775",
+      "titleEn": "UL Solutions Opens Expanded Plano HVACR Testing Center to Address Heightened Customer Demand",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/12/bears-in-control-of-jpmorgan-stock-can-q3-earnings-change-that/",
+      "link": "https://www.businesswire.com/news/home/20261012047975/en/UL-Solutions-Opens-Expanded-Plano-HVACR-Testing-Center-to-Address-Heightened-Customer-Demand/",
       "published": null
     },
     {
-      "id": "stockanalysis:3215e104140be668",
-      "titleEn": "Gold ETF demand defies rising bond yields as investors pour $31 billion into record third quarter – WGC",
-      "summaryEn": "(Kitco News) - Gold faces headwinds as persistent inflation pressures support higher interest rates, driving bond yields and the U.S. dollar higher. However, investors continue to see value in the precious metal, as demand for gold-backed exchange-traded funds remained positive through September. In its latest monthly ETF report, the World Gold Council (WGC) said that 67.3 tonnes of gold, valued at nearly $10 billion, flowed into global ETFs last month. The analysts added that September’s strong performance lifted third-quarter inflows to a record $31 billion, with European- and North American-listed funds leading demand. “During Q3, global gold ETFs’ total AUM rose 9%, while collective holdings grew by 211t. At the country level, the record Q3 inflow was led by the US, followed by an impressive contribution from UK-listed funds. The UK recorded its strongest quarter on record, helping Europe achieve the same milestone at the regional level,” the analysts said.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-12/gold-etf-demand-defies-rising-bond-yields-investors-pour-31-billion-record",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4b013936393c024d",
-      "titleEn": "BofA says buy these 3 stocks ahead of earnings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/12/bofa-says-buy-these-3-stocks-ahead-of-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b91e9717eaee7907",
-      "titleEn": "Why is Salesforce stock gaining today?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/12/why-is-salesforce-stock-gaining-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:57f59e3d688ec137",
-      "titleEn": "Lockheed Martin stock at risk as Anduril builds cheaper Patriot, THAAD alternative",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/12/lockheed-martin-stock-at-risk-as-anduril-builds-cheaper-patriot-thaad-alternative/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1e154cd6cd89e2fd",
-      "titleEn": "Gold prices struggle to hold early gains as U.S. dollar nears 18-month high, bond yields remain elevated - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) – The gold market is struggling to maintain its recent recovery as persistent inflation pressures, elevated bond yields and a U.S. dollar trading near an 18-month high continue to create significant headwinds for the precious metal ahead of another critical week of economic data. Gold prices started the week with modest gains, briefly trading above $4,200 an ounce during the Asian session; however, bullish momentum has faded as investors remain reluctant to take significant positions ahead of Wednesday&#x27;s U.S. Consumer Price Index report. Spot gold was last quoted around $4,156.20 an ounce ahead of the North American trading session, down nearly 1% on the day. The precious metal has been unable to build on last week&#x27;s recovery after prices briefly fell below $4,100 an ounce. Despite the recent buying momentum, gold remains well below its August highs as investors continue to assess the implications of tighter monetary policy and stubborn inflation.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-12/gold-prices-struggle-hold-early-gains-us-dollar-nears-18-month-high-bond",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0d48334fb09e4a4f",
-      "titleEn": "DRAM ETF is at risk of a retreat as outflows rise despite memory boom",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/12/dram-etf-is-at-risk-of-a-retreat-as-outflows-rise-despite-memory-boom/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a5f54caba5eef396",
-      "titleEn": "Tesco shares jumped after earnings: is there more upside left?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/12/tesco-shares-jumped-after-earnings-is-there-more-upside-left/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:125901b9163cf30a",
-      "titleEn": "Top 3 catalysts for the S&amp;P 500 Index this week: bonds, earnings season, CPI",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/12/top-3-catalysts-for-the-sp-500-index-this-week-bonds-earnings-season-cpi/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d38dd96f3543bea3",
-      "titleEn": "Intel, Broadcom CEOs reveal biggest risk that could derail AI boom",
+      "id": "stockanalysis:d7fc6c836aac5e64",
+      "titleEn": "Credo Launches Short-Reach Micro-Emitter Optics (SRMO) Standardization for AI Data Center Scale-Up and Scale-Out Applications",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/12/intel-broadcom-ceos-reveal-biggest-risk-that-could-derail-ai-boom/",
+      "link": "https://www.businesswire.com/news/home/20261012753816/en/Credo-Launches-Short-Reach-Micro-Emitter-Optics-SRMO-Standardization-for-AI-Data-Center-Scale-Up-and-Scale-Out-Applications/",
       "published": null
     },
     {
-      "id": "stockanalysis:de7f15f9ae3bbb6b",
-      "titleEn": "Norway fines Microsoft subsidiary for sharing Grindr user data",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Norway's data protection authority Monday slapped a 92 million kroner (8.6 million euros) fine on Microsoft subsidiary Xandr for sharing user data from dating app Grindr. Xandr, an online advertising company, is accused of processing and then transmitting data from Grindr users to a real-time advertising bidding system, where it may have been shared with potentially thousands of companies to enable them to display targeted ads.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-10-norway-fines-microsoft-subsidiary-grindr.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f6346b144c289a0c",
-      "titleEn": "SanDisk stock is down 8% in three sessions: why are traders selling before earnings?",
+      "id": "stockanalysis:e4e8ae7768f294f5",
+      "titleEn": "The St. Joe Company Provides Preliminary Update on Northwest Florida Properties Post Hurricane Isaias",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/12/sandisk-stock-is-down-8-in-three-sessions-why-are-traders-selling-before-earnings/",
+      "link": "https://www.businesswire.com/news/home/20261012478634/en/The-St.-Joe-Company-Provides-Preliminary-Update-on-Northwest-Florida-Properties-Post-Hurricane-Isaias/",
       "published": null
     },
     {
-      "id": "stockanalysis:b014e88e2aa5bdbd",
-      "titleEn": "Why is IREN stock up 5% in premarket trading on Monday?",
+      "id": "stockanalysis:a3ad9963077e49c7",
+      "titleEn": "Alliant Energy Corporation Announces Third Quarter Earnings Release and Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/12/why-is-iren-stock-up-5-in-premarket-trading-on-monday/",
+      "link": "https://www.businesswire.com/news/home/20261012021964/en/Alliant-Energy-Corporation-Announces-Third-Quarter-Earnings-Release-and-Conference-Call/",
       "published": null
     },
     {
-      "id": "stockanalysis:dd5413923c7ec395",
-      "titleEn": "Micron stock has a $3,000 bull case, so why can't MU break above $1,100?",
+      "id": "stockanalysis:fa2511bd2a95a4ab",
+      "titleEn": "Travere Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/12/micron-stock-has-a-3000-bull-case-so-why-cant-mu-break-above-1100/",
+      "link": "https://www.businesswire.com/news/home/20261012301172/en/Travere-Therapeutics-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4/",
       "published": null
     },
     {
-      "id": "stockanalysis:eac1ba5ad95a3242",
-      "titleEn": "Nvidia stock is flirting with $6T: 3 tests could decide the AI trade this week",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/12/nvidia-stock-is-flirting-with-6t-3-tests-could-decide-the-ai-trade-this-week/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b8197e9545b72c18",
-      "titleEn": "Travefy Integrates Berkshire Hathaway Travel Protection to Simplify Travel Insurance Quoting for Advisors",
+      "id": "stockanalysis:a2f57363b8ff7536",
+      "titleEn": "American Express to Participate in Upcoming Investor Conferences",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261012659636/en/Travefy-Integrates-Berkshire-Hathaway-Travel-Protection-to-Simplify-Travel-Insurance-Quoting-for-Advisors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:53efd90a2e1f270f",
-      "titleEn": "SoundHound AI Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of SoundHound AI, Inc. - SOUN",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261012457228/en/SoundHound-AI-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-SoundHound-AI-Inc.---SOUN/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:99280e18714f0e6d",
-      "titleEn": "Geron Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of Geron Corporation - GERN",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261012604949/en/Geron-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-Geron-Corporation---GERN/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3c01dd28203261e6",
-      "titleEn": "Cyber Resilience Is the Foundation for Africa's Next Phase of Digital Growth, Mastercard Whitepaper Finds",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261012113247/en/Cyber-Resilience-Is-the-Foundation-for-Africa%E2%80%99s-Next-Phase-of-Digital-Growth-Mastercard-Whitepaper-Finds/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0f918af0e6cab642",
-      "titleEn": "Walmart and the Walmart Foundation Commit $1 Million to Support Communities Impacted by Hurricane Isaias",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261012532424/en/Walmart-and-the-Walmart-Foundation-Commit-1-Million-to-Support-Communities-Impacted-by-Hurricane-Isaias/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fcc06bb682017fa0",
-      "titleEn": "Krispy Kreme Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of Krispy Kreme, Inc. - DNUT",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261012783554/en/Krispy-Kreme-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-Krispy-Kreme-Inc.---DNUT/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:15962513c9adfff2",
-      "titleEn": "EACR Inc. Reaffirms Commitment to Sustainable Electronics Recycling After 25 Years",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261012142118/en/EACR-Inc.-Reaffirms-Commitment-to-Sustainable-Electronics-Recycling-After-25-Years/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:34fe72a27f902b34",
-      "titleEn": "DPC Holdings Agrees to Dispose of Ivostud to DUBAG Group",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261012281176/en/DPC-Holdings-Agrees-to-Dispose-of-Ivostud-to-DUBAG-Group/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bed3bfca49208bcf",
-      "titleEn": "Keysight Showcases Link Layer Retry Interoperability with Alibaba Cloud at 2026 OCP Global Summit",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261012704598/en/Keysight-Showcases-Link-Layer-Retry-Interoperability-with-Alibaba-Cloud-at-2026-OCP-Global-Summit/",
+      "link": "https://www.businesswire.com/news/home/20261012139248/en/American-Express-to-Participate-in-Upcoming-Investor-Conferences/",
       "published": null
     }
   ]
