@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T23:54:40.303911Z",
+  "generatedAt": "2026-10-13T04:21:28.006169Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 9,
   "items": [
     {
       "id": "stockanalysis:8d92b4d1595a9464",
@@ -49,48 +49,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:f548982f772c18c7",
-      "titleEn": "Northland analyst says it's time to hop back into C3.ai stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/12/northland-analyst-says-its-time-to-hop-back-into-c3-ai-stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2c93464b6b285686",
-      "titleEn": "Why Nvidia stock is down around 1.6% on Monday",
+      "id": "stockanalysis:0fd80c2c4fcbd0b9",
+      "titleEn": "Western Union to Release Third Quarter 2026 Results on November 4, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/12/why-nvidia-stock-is-down-around-1-6-on-monday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e198096482619e36",
-      "titleEn": "Strategy stock slips as Bitcoin purchase hits yearly low of 250 BTC",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/12/strategy-stock-slips-as-bitcoin-purchase-hits-yearly-low-of-250-btc/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4b40c4428ea1325e",
-      "titleEn": "Gold price needs a dovish Fed or renewed debasement fears to reverse its downtrend – Bank of America",
-      "summaryEn": "(Kitco News) - Investment demand in gold-backed exchange-traded funds has been resilient in the face of persistent inflation, higher bond yields and a stronger U.S. dollar; however, one bank remains cautious on the precious metal as physical demand remains weak, particularly in key global markets. ( Kitco Global Index shows how much of today&#x27;s gold move is the dollar versus the gold market itself.) In their latest precious metals note, commodity analysts at Bank of America said that despite steady investment demand, they are not ready to reassess their outlook for gold prices, as they expect prices will be unable to hold above $4,000 an ounce over the next three months. “We remain cautious near-term as the macro environment remains challenging: we have an average 4Q26 forecast of $4,000/oz, but then expect prices to average $4,813 in CY27,” the analysts said in the report published Monday.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-12/gold-price-needs-dovish-fed-or-renewed-debasement-fears-reverse-its",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:299d7798e51b3db1",
-      "titleEn": "DCF model suggests Cerebras stock is still overvalued",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/12/dcf-model-suggests-cerebras-stock-is-still-overvalued/",
+      "link": "https://www.businesswire.com/news/home/20261012387378/en/Western-Union-to-Release-Third-Quarter-2026-Results-on-November-4-2026/",
       "published": null
     },
     {
@@ -118,42 +82,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.businesswire.com/news/home/20261012753816/en/Credo-Launches-Short-Reach-Micro-Emitter-Optics-SRMO-Standardization-for-AI-Data-Center-Scale-Up-and-Scale-Out-Applications/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e4e8ae7768f294f5",
-      "titleEn": "The St. Joe Company Provides Preliminary Update on Northwest Florida Properties Post Hurricane Isaias",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261012478634/en/The-St.-Joe-Company-Provides-Preliminary-Update-on-Northwest-Florida-Properties-Post-Hurricane-Isaias/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a3ad9963077e49c7",
-      "titleEn": "Alliant Energy Corporation Announces Third Quarter Earnings Release and Conference Call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261012021964/en/Alliant-Energy-Corporation-Announces-Third-Quarter-Earnings-Release-and-Conference-Call/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fa2511bd2a95a4ab",
-      "titleEn": "Travere Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261012301172/en/Travere-Therapeutics-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a2f57363b8ff7536",
-      "titleEn": "American Express to Participate in Upcoming Investor Conferences",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261012139248/en/American-Express-to-Participate-in-Upcoming-Investor-Conferences/",
       "published": null
     }
   ]
