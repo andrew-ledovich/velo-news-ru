@@ -1,114 +1,186 @@
 {
-  "generatedAt": "2026-10-13T11:58:51.809067Z",
+  "generatedAt": "2026-10-13T18:54:49.795337Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 20,
   "items": [
     {
-      "id": "stockanalysis:9cf345f4505b6ec6",
-      "titleEn": "Goldman Sachs stock jumps after massive earnings beat: can it finally end 15% slide?",
+      "id": "stockanalysis:876ba124eec0b8bd",
+      "titleEn": "Why is Oracle stock gaining 4% today?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/goldman-sachs-stock-jumps-after-massive-earnings-beat-can-it-finally-end-15-slide/",
+      "link": "https://invezz.com/news/2026/10/13/why-is-oracle-stock-gaining-4-today/",
       "published": null
     },
     {
-      "id": "stockanalysis:16c95a0549c65da1",
-      "titleEn": "Wall Street just upgraded these 3 AI stocks to 'Buy': here's why",
+      "id": "stockanalysis:c2d6ede50db2b7fe",
+      "titleEn": "Silver prices could be headed back to $50 - Bloomberg's McGlone",
+      "summaryEn": "(Kitco News) - Silver prices could remain under pressure for years as the precious metal struggles to recover from its historic rally, and one market strategist warns that prices could fall back to $50 an ounce in the near term before finding meaningful support. In a recent note, Mike McGlone, senior commodity strategist at Bloomberg Intelligence, said that silver faces a difficult technical outlook, with prices potentially remaining trapped between $50 and $84 an ounce for years. The bearish outlook comes as spot silver currently trades at $59.11 an ounce, down nearly 2% on the day.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-13/silver-prices-could-be-headed-back-50-bloombergs-mcglone",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e8478ef21ba7ff93",
+      "titleEn": "Caterpillar stock drops below key support as Citi, Truist slashes target",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/13/caterpillar-stock-drops-below-key-support-as-citi-truist-slashes-target/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:35a039026de63362",
+      "titleEn": "Celestica stock flashes a risky chart pattern even as analysts stay bullish",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/13/celestica-stock-flashes-a-risky-chart-pattern-even-as-analysts-stay-bullish/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3d91dc86893f977f",
+      "titleEn": "Anthropic to share Q3 financials with investors amid growing AI valuation concerns",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/13/wall-street-just-upgraded-these-3-ai-stocks-to-buy-heres-why/",
+      "link": "https://invezz.com/news/2026/10/13/anthropic-to-share-q3-financials-with-investors-amid-growing-ai-valuation-concerns/",
       "published": null
     },
     {
-      "id": "stockanalysis:8ae2c93fd481221e",
-      "titleEn": "UnitedHealth stock rises on earnings beat, raised 2026 profit forecast",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/unitedhealth-stock-rises-on-earnings-beat-raised-2026-profit-forecast/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3c021403f25c42f2",
-      "titleEn": "Fortnite maker Epic Games makes 'huge pivot' with AI, CEO says",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Fortnite maker Epic Games is making a \"huge pivot\" toward using artificial intelligence (AI) to boost video game development, CEO Tim Sweeney said on Monday. The American gaming giant is \"moving developers around to retool for maximum AI acceleration,\" Sweeney wrote on X.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-10-fortnite-maker-epic-games-huge.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ab914a427f5f6e15",
-      "titleEn": "Nvidia, AMD and Intel stocks fall premarket: why smart money is trimming chip bets",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/nvidia-amd-and-intel-stocks-fall-premarket-why-smart-money-is-trimming-chip-bets/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:85a48af7c330870a",
-      "titleEn": "Micron stock sinks deeper into bear territory even as its revenue and profits surge",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/micron-stock-sinks-deeper-into-bear-territory-even-as-its-revenue-and-profits-surge/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c3c11270a6146cbb",
-      "titleEn": "ASML, European chip stocks fall on CXMT threat and AI funding fears",
+      "id": "stockanalysis:5abe0650e27baae9",
+      "titleEn": "Anthropic warns its AI could destroy humanity: Should investors back it anyway?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/13/asml-european-chip-stocks-fall-on-cxmt-threat-and-ai-funding-fears/",
+      "link": "https://invezz.com/news/2026/10/13/anthropic-warns-its-ai-could-destroy-humanity-should-investors-back-it-anyway/",
       "published": null
     },
     {
-      "id": "stockanalysis:7d6be427ed711527",
-      "titleEn": "Jim Cramer says investors keep making this costly mistake as S&amp;P 500 surges 118%",
+      "id": "stockanalysis:5f4043c32e05aa76",
+      "titleEn": "Why Bumble stock exploded higher today and what comes next",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/jim-cramer-says-investors-keep-making-this-costly-mistake-as-sp-500-surges-118/",
+      "link": "https://invezz.com/news/2026/10/13/why-bumble-stock-exploded-higher-today-and-what-comes-next/",
       "published": null
     },
     {
-      "id": "stockanalysis:b0d9e5e7a9327a86",
-      "titleEn": "BP Share price breaks key level as oil surges, and Meg O'Neill plans new strategy",
+      "id": "stockanalysis:5978c5007a403284",
+      "titleEn": "Why are Intel and AMD stocks falling on Tuesday?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/bp-share-price-breaks-key-level-as-oil-surges-and-meg-oneill-plans-new-strategy/",
+      "link": "https://invezz.com/news/2026/10/13/why-are-intel-and-amd-stocks-falling-on-tuesday/",
       "published": null
     },
     {
-      "id": "stockanalysis:285773b7f8c8217b",
-      "titleEn": "LVMH share price is imploding: will it rebound or crash further?",
-      "summaryEn": null,
+      "id": "stockanalysis:fd300a44b2b7ffaa",
+      "titleEn": "‘Single-asset portfolio': Kazakhstan plans gold sales as holdings reach 78% of reserves",
+      "summaryEn": "(Kitco News) –Kazakhstan&#x27;s central bank has announced plans to rebalance its reserves by selling off some of its massive gold reserves, flipping one of the world’s leading buyers into a big seller for the remainder of 2026. Aliya Moldabekova, Deputy Governor of the National Bank of Kazakhstan, explained in a recent interview that the current multi-decade highs in Treasury yields make dollar assets very attractive. “We haven’t seen levels like this in a long time,” Moldabekova said. “This makes the dollar an attractive option, thereby reducing the appeal of gold as an investment asset.”",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/lvmh-share-price-is-imploding-will-it-rebound-or-crash-further/",
+      "link": "https://www.kitco.com/news/article/2026-10-13/single-asset-portfolio-kazakhstan-plans-gold-sales-holdings-reach-78",
       "published": null
     },
     {
-      "id": "stockanalysis:1e799ba78abfb33b",
-      "titleEn": "Samsung, SK Hynix and SoftBank are crashing together: what changed overnight?",
+      "id": "stockanalysis:b2d34c181147ecd6",
+      "titleEn": "Bank of America stock: options market predict a jump to $57 after earnings",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/why-samsung-sk-hynix-softbank-stocks-are-crashing/",
+      "link": "https://invezz.com/news/2026/10/13/bank-of-america-stock-options-market-predict-a-jump-to-57-after-earnings/",
       "published": null
     },
     {
-      "id": "stockanalysis:0b0db799bfd1c995",
-      "titleEn": "Airgain Lighthouse Extends 5G Coverage in Challenging Southern California Residential Community",
+      "id": "stockanalysis:02f2579a13114ff1",
+      "titleEn": "Microsoft stock trades near record highs: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/10/13/microsoft-stock-trades-near-record-highs-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4abbf6d51bd4ccd8",
+      "titleEn": "Apple reclaims $5 trillion market cap: what's driving Tuesday's rally?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261013326357/en/Airgain-Lighthouse-Extends-5G-Coverage-in-Challenging-Southern-California-Residential-Community/",
+      "link": "https://invezz.com/news/2026/10/13/apple-reclaims-5-trillion-market-cap-whats-driving-tuesdays-rally/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8730db0aad8b2f16",
+      "titleEn": "Micron, SK Hynix stocks continue fall on CXMT threat; Cathie Wood, Musk weigh in",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/13/micron-sk-hynix-stocks-continue-fall-on-cxmt-threat-cathie-wood-musk-weigh-in/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:51a266fe98a1c35d",
+      "titleEn": "Morgan Stanley stock selloff cools ahead of earnings, options market targets $205",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/13/morgan-stanley-stock-selloff-cools-ahead-of-earnings-options-market-targets-205/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e506ebdbbcecda43",
+      "titleEn": "Gold price holding steady as U.S. existing home sales rise 1.5%",
+      "summaryEn": "(Kitco News) - The gold market continues to hold its own, trading in relatively neutral territory even as positive U.S. housing market data reduces safe-haven demand for the precious metal. Total existing-home sales, including single-family homes, townhomes, condominiums and co-ops, increased 1.5% to a seasonally adjusted annual rate of 3.99 million in September, the National Association of Realtors (NAR) announced Thursday. Despite last month’s improvement, the housing market remains fairly fragile, as existing-home sales are down 2.2% compared to last year.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-13/gold-price-holding-steady-us-existing-home-sales-rise-15",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:93e0cf20f17c82fa",
+      "titleEn": "Citi shares rise after beating Q3 estimates",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/13/citi-shares-rise-after-beating-q3-estimates/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:43a5e476b76fb30d",
+      "titleEn": "Incyte Honors the 2026 MPN Heroes®, Celebrating Champions of the Myeloproliferative Neoplasm (MPN) Community",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261013181448/en/Incyte-Honors-the-2026-MPN-Heroes%C2%AE-Celebrating-Champions-of-the-Myeloproliferative-Neoplasm-MPN-Community/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:20342c062c489235",
+      "titleEn": "Lockheed Martin and Avio Announce Strategic Cooperation Agreement for Solid Rocket Motor Production",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261013766935/en/Lockheed-Martin-and-Avio-Announce-Strategic-Cooperation-Agreement-for-Solid-Rocket-Motor-Production/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f7fa1bbf090c323c",
+      "titleEn": "PSP Capital Announces Sale of StormTrap to Advanced Drainage Systems",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261013521784/en/PSP-Capital-Announces-Sale-of-StormTrap-to-Advanced-Drainage-Systems/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5898f44456fbfadb",
+      "titleEn": "Industry Leaders Formally Launch SCMP OCP Workstream for Open, Secure AI Infrastructure Management and Control",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261013466031/en/Industry-Leaders-Formally-Launch-SCMP-OCP-Workstream-for-Open-Secure-AI-Infrastructure-Management-and-Control/",
       "published": null
     }
   ]
