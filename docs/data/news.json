@@ -1,87 +1,114 @@
 {
-  "generatedAt": "2026-10-13T04:21:28.006169Z",
+  "generatedAt": "2026-10-13T11:58:51.809067Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 12,
   "items": [
     {
-      "id": "stockanalysis:8d92b4d1595a9464",
-      "titleEn": "Gold, silver soften as markets price in December Fed hike risk - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were lower after the close Monday as a firmer U.S. dollar, renewed oil strength and elevated Treasury-yield risk offset safe-haven demand tied to the Strait of Hormuz and the U.S.-Iran conflict. At the time of writing, spot gold was trading near $4,168.90 an ounce, down 0.59%, while spot silver was trading at $60.120, down 0.96% on the session. The latest price action is less about an immediate October Fed move and more about whether this week’s inflation data revives the December tightening path. Markets were pricing roughly a 17% chance of an October hike and an 87.7% probability of at least one hike by December after softer recent U.S. data lowered near-term hike risk but oil-driven inflation concerns kept year-end policy risk alive. September CPI is due Wednesday, followed by PPI and retail sales Thursday. This setup has left gold exposed to the dollar and real-yield channel, even as ETF demand and central-bank buying remain supportive beneath the market.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-12/gold-silver-soften-markets-price-december-fed-hike-risk-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e96429bb1fee8c11",
-      "titleEn": "Gold defies multi-decade high bond yields, but Q4 headwinds remain – Invesco",
-      "summaryEn": "(Kitco News) - The gold market continues to face significant headwinds from persistent inflation, rising interest rates and higher bond yields; however, the precious metal has demonstrated remarkable resilience, ending the third quarter with solid gains even as U.S. Treasury yields climbed to multi-decade highs. According to one investment firm, these competing forces are expected to remain important drivers of gold prices through the final three months of the year. In their latest quarterly outlook, market analysts at Invesco said that although higher bond yields could continue to weigh on gold prices in the fourth quarter, structural demand from central banks and renewed investor interest in gold-backed exchange-traded products (ETPs) should continue to provide long-term support. The analysts noted that gold ended September at $4,157 an ounce, representing a gain of 3.7% during the third quarter. The positive performance came despite a sharp selloff in global bond markets that pushed longer-dated U.S. Treasury yields to their highest levels in more than two decades.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-12/gold-defies-multi-decade-high-bond-yields-q4-headwinds-remain-invesco",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:67bf81e0ee7bc19c",
-      "titleEn": "Adobe stock falls as Wells Fargo downgrades shares",
+      "id": "stockanalysis:9cf345f4505b6ec6",
+      "titleEn": "Goldman Sachs stock jumps after massive earnings beat: can it finally end 15% slide?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/12/adobe-stock-falls-as-wells-fargo-downgrades-shares/",
+      "link": "https://invezz.com/news/2026/10/13/goldman-sachs-stock-jumps-after-massive-earnings-beat-can-it-finally-end-15-slide/",
       "published": null
     },
     {
-      "id": "stockanalysis:4453d4c85e1541bb",
-      "titleEn": "Why does Morgan Stanley see an 85% upside for SpaceX stock?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/12/why-does-morgan-stanley-see-an-85-upside-for-spacex-stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a7a849b1fa23ed8a",
-      "titleEn": "Why Meta stock is up 4% on Monday?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/12/why-meta-stock-is-up-4-on-monday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0fd80c2c4fcbd0b9",
-      "titleEn": "Western Union to Release Third Quarter 2026 Results on November 4, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261012387378/en/Western-Union-to-Release-Third-Quarter-2026-Results-on-November-4-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:df247e9f3ba6ddff",
-      "titleEn": "Walker &amp; Dunlop Arranges $203 Million in Financing for East Village Mixed-Use Multifamily Property",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261012377040/en/Walker-Dunlop-Arranges-203-Million-in-Financing-for-East-Village-Mixed-Use-Multifamily-Property/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f86a52b516ca4775",
-      "titleEn": "UL Solutions Opens Expanded Plano HVACR Testing Center to Address Heightened Customer Demand",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261012047975/en/UL-Solutions-Opens-Expanded-Plano-HVACR-Testing-Center-to-Address-Heightened-Customer-Demand/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d7fc6c836aac5e64",
-      "titleEn": "Credo Launches Short-Reach Micro-Emitter Optics (SRMO) Standardization for AI Data Center Scale-Up and Scale-Out Applications",
+      "id": "stockanalysis:16c95a0549c65da1",
+      "titleEn": "Wall Street just upgraded these 3 AI stocks to 'Buy': here's why",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261012753816/en/Credo-Launches-Short-Reach-Micro-Emitter-Optics-SRMO-Standardization-for-AI-Data-Center-Scale-Up-and-Scale-Out-Applications/",
+      "link": "https://invezz.com/news/2026/10/13/wall-street-just-upgraded-these-3-ai-stocks-to-buy-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8ae2c93fd481221e",
+      "titleEn": "UnitedHealth stock rises on earnings beat, raised 2026 profit forecast",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/13/unitedhealth-stock-rises-on-earnings-beat-raised-2026-profit-forecast/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3c021403f25c42f2",
+      "titleEn": "Fortnite maker Epic Games makes 'huge pivot' with AI, CEO says",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Fortnite maker Epic Games is making a \"huge pivot\" toward using artificial intelligence (AI) to boost video game development, CEO Tim Sweeney said on Monday. The American gaming giant is \"moving developers around to retool for maximum AI acceleration,\" Sweeney wrote on X.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-10-fortnite-maker-epic-games-huge.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ab914a427f5f6e15",
+      "titleEn": "Nvidia, AMD and Intel stocks fall premarket: why smart money is trimming chip bets",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/13/nvidia-amd-and-intel-stocks-fall-premarket-why-smart-money-is-trimming-chip-bets/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:85a48af7c330870a",
+      "titleEn": "Micron stock sinks deeper into bear territory even as its revenue and profits surge",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/13/micron-stock-sinks-deeper-into-bear-territory-even-as-its-revenue-and-profits-surge/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c3c11270a6146cbb",
+      "titleEn": "ASML, European chip stocks fall on CXMT threat and AI funding fears",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/13/asml-european-chip-stocks-fall-on-cxmt-threat-and-ai-funding-fears/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7d6be427ed711527",
+      "titleEn": "Jim Cramer says investors keep making this costly mistake as S&amp;P 500 surges 118%",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/13/jim-cramer-says-investors-keep-making-this-costly-mistake-as-sp-500-surges-118/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b0d9e5e7a9327a86",
+      "titleEn": "BP Share price breaks key level as oil surges, and Meg O'Neill plans new strategy",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/13/bp-share-price-breaks-key-level-as-oil-surges-and-meg-oneill-plans-new-strategy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:285773b7f8c8217b",
+      "titleEn": "LVMH share price is imploding: will it rebound or crash further?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/13/lvmh-share-price-is-imploding-will-it-rebound-or-crash-further/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1e799ba78abfb33b",
+      "titleEn": "Samsung, SK Hynix and SoftBank are crashing together: what changed overnight?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/13/why-samsung-sk-hynix-softbank-stocks-are-crashing/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0b0db799bfd1c995",
+      "titleEn": "Airgain Lighthouse Extends 5G Coverage in Challenging Southern California Residential Community",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261013326357/en/Airgain-Lighthouse-Extends-5G-Coverage-in-Challenging-Southern-California-Residential-Community/",
       "published": null
     }
   ]
