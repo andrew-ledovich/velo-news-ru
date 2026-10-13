@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-10-13T18:54:49.795337Z",
+  "generatedAt": "2026-10-13T23:09:12.124789Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:6c33cdbeee5e8b6a",
+      "titleEn": "Metals weaken as front-end yields, Hormuz risk offset softer dollar - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices were lower and spot silver prices were sharply lower in late U.S. trading Tuesday, as traders cut exposure ahead of Wednesday’s U.S. inflation report while front-end Treasury yields and December Federal Reserve rate-hike risk remained firm. At the time of writing, spot gold was trading near $4,160.80 an ounce, down 0.24% on the session, while spot silver was trading near $59.090, down 1.82%. North American equities closed slightly lower as bank earnings failed to offset renewed pressure on chip stocks. The S&P 500 fell 1.79 points, or less than 0.1%, to 7,805.45. The Dow Jones Industrial Average lost 180.45 points, or 0.3%, to 51,670.10. The Nasdaq Composite fell 41.52 points, or 0.2%, to 27,204.38, while the Russell 2000 dropped 11.11 points, or 0.4%, to 2,783.37. European equities also closed mostly lower after a volatile session, with technology weakness offsetting the support from lower oil and easier long-end yields. The Stoxx Europe 600 fell 0.10% to 635.01. France’s CAC 40 lost 0.07% to 7,827.63, Germany’s DAX slipped 0.10% to 25,259.90 and the U.K. FTSE 100 declined 0.06% to 10,650.33. Italy’s FTSE MIB added 0.04% to 50,057.18.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-13/metals-weaken-front-end-yields-hormuz-risk-offset-softer-dollar-kitco-pm",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fb188616c00ed590",
+      "titleEn": "SpaceX stock falls 4% today: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/13/spcex-stock-falls-4-today-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5d9d6023dda26965",
+      "titleEn": "Silver's industrial demand, mining dynamics and free float mean price rally might not impact supply until it overwhelms it – Sprott's Zhu",
+      "summaryEn": "(Kitco News) – Silver has key differentiators that insulate the impacts of the price action from the underlying supply and demand dynamics – but when investors do pile into silver, the grey metal’s constrained physical supply means the market can go parabolic in a way that gold is unlikely to ever do, according to Kenny Zhu, Director of Research and Investment Strategy at Sprott. In a recent interview with Kitco News, Zhu discussed three factors that cause silver to behave quite differently from gold. First, he said that because 50% to 60% of silver demand comes from industrial applications, silver prices don’t impact supply the same way gold prices impact supply for the yellow metal. “Gold pretty much drives the underlying trend for the whole segment, like it or not,” he said. “But silver, palladium, and platinum, there&#x27;s a supply-demand factor at play, but there&#x27;s also the industrial factor. And that&#x27;s something that gold isn&#x27;t really impacted by in the direct way that those other metals are.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-13/silvers-industrial-demand-mining-dynamics-and-free-float-mean-price-rally",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e14a09c6839d1672",
+      "titleEn": "Nu Holdings stock loses momentum after hitting a resistance: is it a buy?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/13/nu-holdings-stock-loses-momentum-after-hitting-a-resistance-is-it-a-buy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c1666f8e3d61e43f",
+      "titleEn": "Wells Fargo Q3 revenue miss doesn't break the bull case",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/13/wells-fargo-q3-revenue-miss-doesnt-break-the-bull-case/",
+      "published": null
+    },
     {
       "id": "stockanalysis:876ba124eec0b8bd",
       "titleEn": "Why is Oracle stock gaining 4% today?",
@@ -58,129 +103,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5f4043c32e05aa76",
-      "titleEn": "Why Bumble stock exploded higher today and what comes next",
+      "id": "stockanalysis:0aeaf2b6f2021d86",
+      "titleEn": "Nine Energy Service Announces Timing of Third Quarter 2026 Earnings Release and Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/why-bumble-stock-exploded-higher-today-and-what-comes-next/",
+      "link": "https://www.businesswire.com/news/home/20261013422709/en/Nine-Energy-Service-Announces-Timing-of-Third-Quarter-2026-Earnings-Release-and-Conference-Call/",
       "published": null
     },
     {
-      "id": "stockanalysis:5978c5007a403284",
-      "titleEn": "Why are Intel and AMD stocks falling on Tuesday?",
+      "id": "stockanalysis:86dc183c65df918c",
+      "titleEn": "NorthWestern Energy to Host Third Quarter 2026 Financial Results Webinar",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/why-are-intel-and-amd-stocks-falling-on-tuesday/",
+      "link": "https://www.businesswire.com/news/home/20261013872850/en/NorthWestern-Energy-to-Host-Third-Quarter-2026-Financial-Results-Webinar/",
       "published": null
     },
     {
-      "id": "stockanalysis:fd300a44b2b7ffaa",
-      "titleEn": "‘Single-asset portfolio': Kazakhstan plans gold sales as holdings reach 78% of reserves",
-      "summaryEn": "(Kitco News) –Kazakhstan&#x27;s central bank has announced plans to rebalance its reserves by selling off some of its massive gold reserves, flipping one of the world’s leading buyers into a big seller for the remainder of 2026. Aliya Moldabekova, Deputy Governor of the National Bank of Kazakhstan, explained in a recent interview that the current multi-decade highs in Treasury yields make dollar assets very attractive. “We haven’t seen levels like this in a long time,” Moldabekova said. “This makes the dollar an attractive option, thereby reducing the appeal of gold as an investment asset.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-13/single-asset-portfolio-kazakhstan-plans-gold-sales-holdings-reach-78",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b2d34c181147ecd6",
-      "titleEn": "Bank of America stock: options market predict a jump to $57 after earnings",
+      "id": "stockanalysis:16087fca81ccda12",
+      "titleEn": "$BMBL Stock Notification: Bumble Inc. Is Being Investigated After the $6.05 Per Share Merger Deal Announced – Investors Are Alerted to Contact BFA Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/bank-of-america-stock-options-market-predict-a-jump-to-57-after-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:02f2579a13114ff1",
-      "titleEn": "Microsoft stock trades near record highs: here's why",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/13/microsoft-stock-trades-near-record-highs-heres-why/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4abbf6d51bd4ccd8",
-      "titleEn": "Apple reclaims $5 trillion market cap: what's driving Tuesday's rally?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/apple-reclaims-5-trillion-market-cap-whats-driving-tuesdays-rally/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8730db0aad8b2f16",
-      "titleEn": "Micron, SK Hynix stocks continue fall on CXMT threat; Cathie Wood, Musk weigh in",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/micron-sk-hynix-stocks-continue-fall-on-cxmt-threat-cathie-wood-musk-weigh-in/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:51a266fe98a1c35d",
-      "titleEn": "Morgan Stanley stock selloff cools ahead of earnings, options market targets $205",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/morgan-stanley-stock-selloff-cools-ahead-of-earnings-options-market-targets-205/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e506ebdbbcecda43",
-      "titleEn": "Gold price holding steady as U.S. existing home sales rise 1.5%",
-      "summaryEn": "(Kitco News) - The gold market continues to hold its own, trading in relatively neutral territory even as positive U.S. housing market data reduces safe-haven demand for the precious metal. Total existing-home sales, including single-family homes, townhomes, condominiums and co-ops, increased 1.5% to a seasonally adjusted annual rate of 3.99 million in September, the National Association of Realtors (NAR) announced Thursday. Despite last month’s improvement, the housing market remains fairly fragile, as existing-home sales are down 2.2% compared to last year.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-13/gold-price-holding-steady-us-existing-home-sales-rise-15",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:93e0cf20f17c82fa",
-      "titleEn": "Citi shares rise after beating Q3 estimates",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/citi-shares-rise-after-beating-q3-estimates/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:43a5e476b76fb30d",
-      "titleEn": "Incyte Honors the 2026 MPN Heroes®, Celebrating Champions of the Myeloproliferative Neoplasm (MPN) Community",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261013181448/en/Incyte-Honors-the-2026-MPN-Heroes%C2%AE-Celebrating-Champions-of-the-Myeloproliferative-Neoplasm-MPN-Community/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:20342c062c489235",
-      "titleEn": "Lockheed Martin and Avio Announce Strategic Cooperation Agreement for Solid Rocket Motor Production",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261013766935/en/Lockheed-Martin-and-Avio-Announce-Strategic-Cooperation-Agreement-for-Solid-Rocket-Motor-Production/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f7fa1bbf090c323c",
-      "titleEn": "PSP Capital Announces Sale of StormTrap to Advanced Drainage Systems",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261013521784/en/PSP-Capital-Announces-Sale-of-StormTrap-to-Advanced-Drainage-Systems/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5898f44456fbfadb",
-      "titleEn": "Industry Leaders Formally Launch SCMP OCP Workstream for Open, Secure AI Infrastructure Management and Control",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261013466031/en/Industry-Leaders-Formally-Launch-SCMP-OCP-Workstream-for-Open-Secure-AI-Infrastructure-Management-and-Control/",
+      "link": "https://www.businesswire.com/news/home/20261013382495/en/BMBL-Stock-Notification-Bumble-Inc.-Is-Being-Investigated-After-the-6.05-Per-Share-Merger-Deal-Announced-%E2%80%93-Investors-Are-Alerted-to-Contact-BFA-Law/",
       "published": null
     }
   ]
