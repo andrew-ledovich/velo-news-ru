@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-10-14T20:57:47.712412Z",
+  "generatedAt": "2026-10-14T23:37:54.487985Z",
   "sourceCount": 1,
-  "count": 21,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:d169701204d862cb",
+      "titleEn": "Gold falls below $4,100, silver plunges 6% as hot CPI boosts Fed-hike bets - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Gold and silver prices were sharply lower in late U.S. trading Wednesday, as hotter-than-expected U.S. consumer inflation lifted Treasury yields, strengthened the dollar and increased expectations for further Federal Reserve tightening. Silver suffered particularly heavy losses as selling accelerated across precious metals. At the time of writing, spot gold was trading near $4,098.80 an ounce, down $61.30, or 1.47%, while spot silver was trading near $55.410, down $3.640, or 6.16%. North American equities closed sharply lower as the inflation report triggered selling in technology and other rate-sensitive shares. The S&P 500 dropped 86.51 points, or 1.1%, to 7,718.94, its worst daily performance since July. The Dow Jones Industrial Average fell 48.62 points, or 0.1%, to 51,621.48. The Nasdaq Composite sank 511.51 points, or 1.9%, to 26,692.87, while the Russell 2000 declined 53.84 points, or 1.9%, to 2,729.53. European equities closed mostly higher, outperforming Wall Street as strong corporate earnings helped offset the U.S. inflation surprise. The Stoxx Europe 600 gained 0.43% to 637.75, supported by a 2.3% advance in health care shares and stronger semiconductor-equipment demand. Germany&#x27;s DAX added 0.2% to 25,298.61, France&#x27;s CAC 40 climbed 0.6% to 7,873.11 and the U.K. FTSE 100 rose 0.7% to 10,724.86. Italy&#x27;s FTSE MIB bucked the regional advance, falling 0.61% to 49,753.84.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-14/gold-falls-below-4100-silver-plunges-6-hot-cpi-boosts-fed-hike-bets-kitco",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bc581a9648b4a7f3",
+      "titleEn": "Gold's weakness is a buying opportunity as Jefferies sees $5,000 price in 2027, healthy mining margins",
+      "summaryEn": "(Kitco News) - Gold prices continue to struggle in the face of persistent inflation pressures and growing expectations for higher interest rates; however, one bank continues to see short-term weakness as a buying opportunity and expects higher gold prices to continue to support the mining sector. Despite rising energy costs, market analysts at Jefferies said they expect the mining sector&#x27;s third-quarter earnings season to be \"okay,\" as input cost pressures have remained relatively manageable. In their latest metals and mining report, published Friday, the analysts said that although higher bond yields have created significant headwinds for gold, they remain bullish on the precious metal over the longer term, and expect to see higher prices through next year.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-14/golds-weakness-buying-opportunity-jefferies-sees-5000-price-2027-healthy",
+      "published": null
+    },
     {
       "id": "stockanalysis:48494cf65fe91958",
       "titleEn": "Why is CoreWeave stock crashing 16% on Wednesday?",
@@ -67,129 +85,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5b0d5fac56be0422",
-      "titleEn": "Nebius stock meltdown continues as Gartner issues blistering warning",
+      "id": "stockanalysis:e972c79f8cc4dc40",
+      "titleEn": "KBRA Assigns Preliminary Ratings to Aspire Mortgage Trust 2026-6 (SPIRE 2026-6)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/nebius-stock-meltdown-continues-as-gartner-issues-blistering-warning/",
+      "link": "https://www.businesswire.com/news/home/20261014603360/en/KBRA-Assigns-Preliminary-Ratings-to-Aspire-Mortgage-Trust-2026-6-SPIRE-2026-6/",
       "published": null
     },
     {
-      "id": "stockanalysis:4f4b7a4c0305d894",
-      "titleEn": "U.S. Treasury's gold revaluation could restart the ‘debasement trade' as yield pressures fade – UBP's Kinsella",
-      "summaryEn": "(Kitco News) – Gold has likely seen the worst of its Treasury-yield-driven losses, and once the Iran situation improves and Fed rate hike expectations ease, the Treasury department itself could provide a new tailwind for bullion prices between now and year-end, according to Peter Kinsella, Head of Investment Services for the UK at Swiss private bank UBP. Kinsella noted that gold has traded lower since the Federal Reserve’s 25-basis-point rate hike in September. “The downward move has been rather muted, considering the huge rise in both nominal and real inflation-adjusted interest rates,” he said. “US 10-year yields have risen to highs of 5.30%, and 10-year TIPS yields (a proxy for real interest rate expectations) have risen to levels of just below 3%.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-14/us-treasurys-gold-revaluation-could-restart-debasement-trade-yield",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:27d70baf5bae59f1",
-      "titleEn": "Meta stock is falling: Why Wall Street analysts are divided",
+      "id": "stockanalysis:fd4a61f8299c00a4",
+      "titleEn": "Walker &amp; Dunlop Arranges $216 Million Refinancing for Trophy Broadway Property in Manhattan",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/meta-stock-is-falling-why-wall-street-analysts-are-divided/",
+      "link": "https://www.businesswire.com/news/home/20261014411314/en/Walker-Dunlop-Arranges-216-Million-Refinancing-for-Trophy-Broadway-Property-in-Manhattan/",
       "published": null
     },
     {
-      "id": "stockanalysis:fdfe563080a64bb9",
-      "titleEn": "Intel, AMD stocks fall as chip sell-off deepens",
+      "id": "stockanalysis:bc933e736bb6a822",
+      "titleEn": "Albany International Schedules Third-Quarter 2026 Earnings Release and Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/intel-amd-stocks-fall-as-chip-sell-off-deepens/",
+      "link": "https://www.businesswire.com/news/home/20261014989265/en/Albany-International-Schedules-Third-Quarter-2026-Earnings-Release-and-Conference-Call/",
       "published": null
     },
     {
-      "id": "stockanalysis:760c2da9f5145118",
-      "titleEn": "Why are Micron, SK Hynix, SanDisk stocks falling on Wednesday?",
+      "id": "stockanalysis:5f40e9bdb483189c",
+      "titleEn": "CenterPoint Energy to Pay Additional Interest on its 2.0% Zero-Premium Exchangeable Subordinated Notes due 2029",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/why-are-micron-sk-hynix-sandisk-stocks-falling-on-wednesday/",
+      "link": "https://www.businesswire.com/news/home/20261014511208/en/CenterPoint-Energy-to-Pay-Additional-Interest-on-its-2.0-Zero-Premium-Exchangeable-Subordinated-Notes-due-2029/",
       "published": null
     },
     {
-      "id": "stockanalysis:d59e9b43066639bb",
-      "titleEn": "Why Nvidia shares have fallen over 2% on Wednesday?",
+      "id": "stockanalysis:3bcc20ec8d212511",
+      "titleEn": "Littelfuse to Release Third Quarter Financial Results Before Market Open on October 28",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/why-nvidia-shares-have-fallen-over-2-on-wednesday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:85dad57b8d88d4e1",
-      "titleEn": "Jim Cramer reveals his favourite post-earnings bank stocks",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/jim-cramer-reveals-his-favourite-post-earnings-bank-stocks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:be60f5e9432ba9be",
-      "titleEn": "Why are Dell and HPE stocks plunging today?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/why-are-dell-and-hpe-stocks-plunging-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:64ea711655c01b51",
-      "titleEn": "Netflix announces layoffs: another sign of distress?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/netflix-announces-layoffs-another-sign-of-distress/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5a080e10ef0a2102",
-      "titleEn": "FDA Expands ANKTIVA® Approval for BCG-Unresponsive Non-Muscle-Invasive Bladder Cancer to Cover Both Papillary and CIS Disease",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014705251/en/FDA-Expands-ANKTIVA%C2%AE-Approval-for-BCG-Unresponsive-Non-Muscle-Invasive-Bladder-Cancer-to-Cover-Both-Papillary-and-CIS-Disease/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3779aa04f3f19adf",
-      "titleEn": "UDR, Inc. Announces Appointment of Scott McCallum as Executive Vice President – Chief Investment Officer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014870941/en/UDR-Inc.-Announces-Appointment-of-Scott-McCallum-as-Executive-Vice-President-%E2%80%93-Chief-Investment-Officer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b13dabb68c944296",
-      "titleEn": "EnerSys Appoints Navi Grewal as Chief Digital, AI and Information Officer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261014856002/en/EnerSys-Appoints-Navi-Grewal-as-Chief-Digital-AI-and-Information-Officer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e17cddc212aa62cc",
-      "titleEn": "Estrella Immunopharma Activates Intermountain Health LDS Hospital as Fifth Clinical Site for Phase I/II STARLIGHT-1 Trial in B-cell Non-Hodgkin's Lymphoma",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014129108/en/Estrella-Immunopharma-Activates-Intermountain-Health-LDS-Hospital-as-Fifth-Clinical-Site-for-Phase-III-STARLIGHT-1-Trial-in-B-cell-Non-Hodgkin%E2%80%99s-Lymphoma/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9aa7700cd4545082",
-      "titleEn": "StubHub Announces Extension of Senior Credit Facilities",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014548800/en/StubHub-Announces-Extension-of-Senior-Credit-Facilities/",
+      "link": "https://www.businesswire.com/news/home/20261014479852/en/Littelfuse-to-Release-Third-Quarter-Financial-Results-Before-Market-Open-on-October-28/",
       "published": null
     }
   ]
