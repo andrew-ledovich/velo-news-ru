@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-10-14T17:37:07.898577Z",
+  "generatedAt": "2026-10-14T20:57:47.712412Z",
   "sourceCount": 1,
-  "count": 23,
+  "count": 21,
   "items": [
+    {
+      "id": "stockanalysis:48494cf65fe91958",
+      "titleEn": "Why is CoreWeave stock crashing 16% on Wednesday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/14/why-is-coreweave-stock-crashing-16-on-wednesday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0ee0a0db2e785fca",
+      "titleEn": "Affirm stock slips after US inflation data: here's why it may fall to $60 soon",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/14/affirm-stock-slips-after-us-inflation-data-heres-why-it-may-fall-to-60-soon/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4dd1ba7dba23f230",
+      "titleEn": "Bending Spoons stock soars as Berkshire Hathaway adds $330M investment",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/14/bending-spoons-stock-soars-as-berkshire-hathaway-adds-330m-investment/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fdadec154d7e7115",
+      "titleEn": "GE Vernova stock has suffered a big pullback: is this the end of the bull run?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/14/ge-vernova-stock-has-suffered-a-big-pullback-is-this-the-end-of-the-bull-run/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f57b6e136f533884",
+      "titleEn": "Why is SpaceX falling despite successful NASA resupply mission launch?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/14/why-is-spacex-falling-despite-successful-nasa-resupply-mission-launch/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:606ad6bd6c0ee6f7",
+      "titleEn": "Why is Skydance stock crashing today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/14/why-is-skydance-stock-crashing-today/",
+      "published": null
+    },
     {
       "id": "stockanalysis:1ae9a62b9f19f559",
       "titleEn": "Can gold hold $4,000 with an October rate hike still in play?",
@@ -94,120 +148,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:534ef0c4923b12f3",
-      "titleEn": "Do Micron, Samsung, SK Hynix stocks really face a threat from CXMT? Analysts answer",
+      "id": "stockanalysis:5a080e10ef0a2102",
+      "titleEn": "FDA Expands ANKTIVA® Approval for BCG-Unresponsive Non-Muscle-Invasive Bladder Cancer to Cover Both Papillary and CIS Disease",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/do-micron-samsung-sk-hynix-stocks-really-face-a-threat-from-cxmt-analysts-answer/",
+      "link": "https://www.businesswire.com/news/home/20261014705251/en/FDA-Expands-ANKTIVA%C2%AE-Approval-for-BCG-Unresponsive-Non-Muscle-Invasive-Bladder-Cancer-to-Cover-Both-Papillary-and-CIS-Disease/",
       "published": null
     },
     {
-      "id": "stockanalysis:ff3379f0b4a973ea",
-      "titleEn": "Gold, silver drop as hotter CPI revives Fed-rate pressure - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices are sharply lower in early U.S. trading Wednesday, after hotter-than-expected U.S. inflation data revived concerns that energy-driven price pressure will keep the Federal Reserve’s year-end tightening path in place. At the time of writing, spot gold was trading near $4,110.90 an ounce, down 1.18% on the session, while spot silver was trading near $57.890, down 1.97%. Market positioning shifted back toward the hawkish side after September CPI rose 0.6% on the month and 3.7% from a year earlier , above the 3.6% consensus and up from 3.4% in August. Core CPI rose 0.3% on the month and 2.6% year over year, while gasoline rose 9.1% and the energy index climbed 5.2%, showing that the oil shock is feeding directly into headline inflation. The print does not make an October hike the base case, but it reinforces the December-hike channel that was already heavily priced after Fed minutes showed most officials still expected another increase by year-end. The 10-year Treasury yield was trading near the 5.2% area and the dollar index was off Monday’s 18-month high but firm enough to pressure metals. The next tests are Thursday’s PPI, retail sales, jobless claims and Philadelphia Fed survey, followed by Friday’s import and export prices and Fed Chair Kevin Warsh’s IMF appearance. Softer producer prices or weak spending would help gold by limiting real-rate pressure; a firm PPI or retail-sales print would keep the dollar and yields pointed against bullion.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-14/gold-silver-drop-hotter-cpi-revives-fed-rate-pressure-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5e696728ed15fe6b",
-      "titleEn": "Gold price drops to session lows as U.S. CPI heats up in September",
-      "summaryEn": "(Kitco News) - Gold prices have fallen to session lows, testing critical support as hotter-than-expected U.S. inflation data reinforces expectations that the Federal Reserve will have to raise interest rates by year-end, increasing the opportunity cost of holding the non-yielding precious metal. At the same time, higher energy prices are becoming embedded in the broader economy, which some economists have said could force interest rates to remain higher for longer. The Consumer Price Index (CPI) rose by 0.6% last month, following August’s 0.4% increase, the U.S. Bureau of Labor Statistics announced Wednesday. The monthly inflation data came in line with market expectations.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-14/gold-price-drops-session-lows-us-cpi-heats-september",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:49eec5c705d05c1a",
-      "titleEn": "BlackRock stock rises as Q3 earnings beat estimates on $205B inflows",
+      "id": "stockanalysis:3779aa04f3f19adf",
+      "titleEn": "UDR, Inc. Announces Appointment of Scott McCallum as Executive Vice President – Chief Investment Officer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/blackrock-stock-rises-as-q3-earnings-beat-estimates-on-205b-inflows/",
+      "link": "https://www.businesswire.com/news/home/20261014870941/en/UDR-Inc.-Announces-Appointment-of-Scott-McCallum-as-Executive-Vice-President-%E2%80%93-Chief-Investment-Officer/",
       "published": null
     },
     {
-      "id": "stockanalysis:f0ff45baae39f1a9",
-      "titleEn": "Bank of America shares slip over 5% as $1.2 billion fine hits Q3 profits",
+      "id": "stockanalysis:b13dabb68c944296",
+      "titleEn": "EnerSys Appoints Navi Grewal as Chief Digital, AI and Information Officer",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/bank-of-america-shares-slip-over-5-as-1-2-billion-fine-hits-q3-profits/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261014856002/en/EnerSys-Appoints-Navi-Grewal-as-Chief-Digital-AI-and-Information-Officer/",
       "published": null
     },
     {
-      "id": "stockanalysis:5479ff9b6ce8534b",
-      "titleEn": "Morgan Stanley stock inches lower despite strong Q3 earnings",
+      "id": "stockanalysis:e17cddc212aa62cc",
+      "titleEn": "Estrella Immunopharma Activates Intermountain Health LDS Hospital as Fifth Clinical Site for Phase I/II STARLIGHT-1 Trial in B-cell Non-Hodgkin's Lymphoma",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/morgan-stanley-stock-inches-lower-despite-strong-q3-earnings/",
+      "link": "https://www.businesswire.com/news/home/20261014129108/en/Estrella-Immunopharma-Activates-Intermountain-Health-LDS-Hospital-as-Fifth-Clinical-Site-for-Phase-III-STARLIGHT-1-Trial-in-B-cell-Non-Hodgkin%E2%80%99s-Lymphoma/",
       "published": null
     },
     {
-      "id": "stockanalysis:40aaf98a88dbd659",
-      "titleEn": "Kinder Morgan earnings today: What the options market is signaling",
+      "id": "stockanalysis:9aa7700cd4545082",
+      "titleEn": "StubHub Announces Extension of Senior Credit Facilities",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/kinder-morgan-earnings-today-what-the-options-market-is-signaling/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:06b21359fdba2945",
-      "titleEn": "Albertsons® Announces New Store in Valley Center, Bringing Fresh Food, Pharmacy Services and Jobs to Growing Community",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014574100/en/Albertsons%C2%AE-Announces-New-Store-in-Valley-Center-Bringing-Fresh-Food-Pharmacy-Services-and-Jobs-to-Growing-Community/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:01b2f1920e937f83",
-      "titleEn": "AV and Thunder Tiger Sign MOU to Explore Uncrewed Systems Integration and Co-Production in Taiwan",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014415128/en/AV-and-Thunder-Tiger-Sign-MOU-to-Explore-Uncrewed-Systems-Integration-and-Co-Production-in-Taiwan/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:df4272b5d79de87f",
-      "titleEn": "Eurofins Scientific: Director/PDMR Shareholding",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014319089/en/Eurofins-Scientific-DirectorPDMR-Shareholding/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:dc1c09bf63737997",
-      "titleEn": "Buenaventura Cordially Invites You to Its Third Quarter 2026 Earnings Conference Call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014512266/en/Buenaventura-Cordially-Invites-You-to-Its-Third-Quarter-2026-Earnings-Conference-Call/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9b3639bdb9e575a0",
-      "titleEn": "BAC Investors with $100,000 in Losses Have Opportunity to Join Bank of America Corporation Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014720768/en/BAC-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-Bank-of-America-Corporation-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:714b1494fb724ee8",
-      "titleEn": "ChipAgents Collaborates With NVIDIA to Launch Build-A-Chip-Bench for Autonomous Chip Design and Implementation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014269064/en/ChipAgents-Collaborates-With-NVIDIA-to-Launch-Build-A-Chip-Bench-for-Autonomous-Chip-Design-and-Implementation/",
+      "link": "https://www.businesswire.com/news/home/20261014548800/en/StubHub-Announces-Extension-of-Senior-Credit-Facilities/",
       "published": null
     }
   ]
