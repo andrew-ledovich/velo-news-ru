@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-13T23:09:12.124789Z",
+  "generatedAt": "2026-10-14T01:52:03.473555Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:6c33cdbeee5e8b6a",
@@ -76,57 +76,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:35a039026de63362",
-      "titleEn": "Celestica stock flashes a risky chart pattern even as analysts stay bullish",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/celestica-stock-flashes-a-risky-chart-pattern-even-as-analysts-stay-bullish/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3d91dc86893f977f",
-      "titleEn": "Anthropic to share Q3 financials with investors amid growing AI valuation concerns",
+      "id": "stockanalysis:3eff1dbb40b2b6ce",
+      "titleEn": "Asia Pacific AI Demand Drives Record Growth, Spending on Tech Services in Q3, ISG Index™ Shows",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/13/anthropic-to-share-q3-financials-with-investors-amid-growing-ai-valuation-concerns/",
+      "link": "https://www.businesswire.com/news/home/20261013230237/en/Asia-Pacific-AI-Demand-Drives-Record-Growth-Spending-on-Tech-Services-in-Q3-ISG-Index%E2%84%A2-Shows/",
       "published": null
     },
     {
-      "id": "stockanalysis:5abe0650e27baae9",
-      "titleEn": "Anthropic warns its AI could destroy humanity: Should investors back it anyway?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/13/anthropic-warns-its-ai-could-destroy-humanity-should-investors-back-it-anyway/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0aeaf2b6f2021d86",
-      "titleEn": "Nine Energy Service Announces Timing of Third Quarter 2026 Earnings Release and Conference Call",
+      "id": "stockanalysis:6d31f794380ed460",
+      "titleEn": "Rithm Property Trust Schedules Third Quarter 2026 Earnings Release",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261013422709/en/Nine-Energy-Service-Announces-Timing-of-Third-Quarter-2026-Earnings-Release-and-Conference-Call/",
+      "link": "https://www.businesswire.com/news/home/20261013865821/en/Rithm-Property-Trust-Schedules-Third-Quarter-2026-Earnings-Release/",
       "published": null
     },
     {
-      "id": "stockanalysis:86dc183c65df918c",
-      "titleEn": "NorthWestern Energy to Host Third Quarter 2026 Financial Results Webinar",
+      "id": "stockanalysis:f9a932fab2c7f903",
+      "titleEn": "Avenzo Therapeutics Announces Oral Presentation of Phase 1 Data for VBC103 (AVZO-103), a Potentially Differentiated Nectin-4/TROP2 Bispecific Antibody-Drug Conjugate, by Partner VelaVigo at ESMO Asia Congress 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261013872850/en/NorthWestern-Energy-to-Host-Third-Quarter-2026-Financial-Results-Webinar/",
+      "link": "https://www.businesswire.com/news/home/20261013879994/en/Avenzo-Therapeutics-Announces-Oral-Presentation-of-Phase-1-Data-for-VBC103-AVZO-103-a-Potentially-Differentiated-Nectin-4TROP2-Bispecific-Antibody-Drug-Conjugate-by-Partner-VelaVigo-at-ESMO-Asia-Congress-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:16087fca81ccda12",
-      "titleEn": "$BMBL Stock Notification: Bumble Inc. Is Being Investigated After the $6.05 Per Share Merger Deal Announced – Investors Are Alerted to Contact BFA Law",
+      "id": "stockanalysis:fd0530e47d5ddbe3",
+      "titleEn": "MPT Named to Modern Healthcare's Best Places to Work 2026 and Newsweek's America's Greenest Companies 2027",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261013382495/en/BMBL-Stock-Notification-Bumble-Inc.-Is-Being-Investigated-After-the-6.05-Per-Share-Merger-Deal-Announced-%E2%80%93-Investors-Are-Alerted-to-Contact-BFA-Law/",
+      "link": "https://www.businesswire.com/news/home/20261013691082/en/MPT-Named-to-Modern-Healthcare%E2%80%99s-Best-Places-to-Work-2026-and-Newsweek%E2%80%99s-America%E2%80%99s-Greenest-Companies-2027/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:019623fb2a7c2143",
+      "titleEn": "Distribution Solutions Group Announces Strategic Acquisition of Winzer and FastServ Supply",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261013249715/en/Distribution-Solutions-Group-Announces-Strategic-Acquisition-of-Winzer-and-FastServ-Supply/",
       "published": null
     }
   ]
