@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-10-14T01:52:03.473555Z",
+  "generatedAt": "2026-10-14T06:51:46.009596Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:4913c0a0405af0d0",
+      "titleEn": "Lenovo Group stock rally has stalled: will it drop further or rebound?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/14/lenovo-group-stock-rally-has-stalled-will-it-drop-further-or-rebound/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7d7df26e0c3c5550",
+      "titleEn": "Why are investors buying SoftBank stock again despite growing AI exposure?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/14/why-are-investors-buying-softbank-stock-again-despite-growing-ai-exposure/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:de1c785f2095f03c",
+      "titleEn": "Samsung, SK Hynix snap back after $3.7T won sell-off: why buyers are rushing back",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/14/samsung-sk-hynix-snap-back-after-3-7t-won-sell-off-why-buyers-are-rushing-back/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:888c1404a2a41a81",
+      "titleEn": "Xiaomi share price at risk as EV, smartphone, tablet woes mount",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/10/14/xiaomi-share-price-at-risk-as-ev-smartphone-tablet-woes-mount/",
+      "published": null
+    },
     {
       "id": "stockanalysis:6c33cdbeee5e8b6a",
       "titleEn": "Metals weaken as front-end yields, Hormuz risk offset softer dollar - Kitco PM Report",
@@ -40,84 +76,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c1666f8e3d61e43f",
-      "titleEn": "Wells Fargo Q3 revenue miss doesn't break the bull case",
+      "id": "stockanalysis:83b0403a4a10a7da",
+      "titleEn": "UNPACK '27: EXPEDIA AND HOTELS.COM REVEAL THE TRAVEL TRENDS INSPIRING THE WORLD IN 2027",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/wells-fargo-q3-revenue-miss-doesnt-break-the-bull-case/",
+      "link": "https://www.businesswire.com/news/home/20261013522998/en/UNPACK-%E2%80%9927-EXPEDIA-AND-HOTELS.COM-REVEAL-THE-TRAVEL-TRENDS-INSPIRING-THE-WORLD-IN-2027/",
       "published": null
     },
     {
-      "id": "stockanalysis:876ba124eec0b8bd",
-      "titleEn": "Why is Oracle stock gaining 4% today?",
+      "id": "stockanalysis:1506e5513b7cc7c9",
+      "titleEn": "AL-S Pharma Appoints Harry Welten as Chief Executive Officer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/why-is-oracle-stock-gaining-4-today/",
+      "link": "https://www.businesswire.com/news/home/20261013851910/en/AL-S-Pharma-Appoints-Harry-Welten-as-Chief-Executive-Officer/",
       "published": null
     },
     {
-      "id": "stockanalysis:c2d6ede50db2b7fe",
-      "titleEn": "Silver prices could be headed back to $50 - Bloomberg's McGlone",
-      "summaryEn": "(Kitco News) - Silver prices could remain under pressure for years as the precious metal struggles to recover from its historic rally, and one market strategist warns that prices could fall back to $50 an ounce in the near term before finding meaningful support. In a recent note, Mike McGlone, senior commodity strategist at Bloomberg Intelligence, said that silver faces a difficult technical outlook, with prices potentially remaining trapped between $50 and $84 an ounce for years. The bearish outlook comes as spot silver currently trades at $59.11 an ounce, down nearly 2% on the day.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-13/silver-prices-could-be-headed-back-50-bloombergs-mcglone",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e8478ef21ba7ff93",
-      "titleEn": "Caterpillar stock drops below key support as Citi, Truist slashes target",
+      "id": "stockanalysis:d93d25e684864cc0",
+      "titleEn": "Galderma Signs Agreement to Acquire ZO Skin Health, Strengthening Its Physician-Dispensed Skincare Offering",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/caterpillar-stock-drops-below-key-support-as-citi-truist-slashes-target/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3eff1dbb40b2b6ce",
-      "titleEn": "Asia Pacific AI Demand Drives Record Growth, Spending on Tech Services in Q3, ISG Index™ Shows",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261013230237/en/Asia-Pacific-AI-Demand-Drives-Record-Growth-Spending-on-Tech-Services-in-Q3-ISG-Index%E2%84%A2-Shows/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6d31f794380ed460",
-      "titleEn": "Rithm Property Trust Schedules Third Quarter 2026 Earnings Release",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261013865821/en/Rithm-Property-Trust-Schedules-Third-Quarter-2026-Earnings-Release/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f9a932fab2c7f903",
-      "titleEn": "Avenzo Therapeutics Announces Oral Presentation of Phase 1 Data for VBC103 (AVZO-103), a Potentially Differentiated Nectin-4/TROP2 Bispecific Antibody-Drug Conjugate, by Partner VelaVigo at ESMO Asia Congress 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261013879994/en/Avenzo-Therapeutics-Announces-Oral-Presentation-of-Phase-1-Data-for-VBC103-AVZO-103-a-Potentially-Differentiated-Nectin-4TROP2-Bispecific-Antibody-Drug-Conjugate-by-Partner-VelaVigo-at-ESMO-Asia-Congress-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fd0530e47d5ddbe3",
-      "titleEn": "MPT Named to Modern Healthcare's Best Places to Work 2026 and Newsweek's America's Greenest Companies 2027",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261013691082/en/MPT-Named-to-Modern-Healthcare%E2%80%99s-Best-Places-to-Work-2026-and-Newsweek%E2%80%99s-America%E2%80%99s-Greenest-Companies-2027/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:019623fb2a7c2143",
-      "titleEn": "Distribution Solutions Group Announces Strategic Acquisition of Winzer and FastServ Supply",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261013249715/en/Distribution-Solutions-Group-Announces-Strategic-Acquisition-of-Winzer-and-FastServ-Supply/",
+      "link": "https://www.businesswire.com/news/home/20261013945338/en/Galderma-Signs-Agreement-to-Acquire-ZO-Skin-Health-Strengthening-Its-Physician-Dispensed-Skincare-Offering/",
       "published": null
     }
   ]
