@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-10-14T06:51:46.009596Z",
+  "generatedAt": "2026-10-14T12:32:33.367146Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:325939ca39eb8c62",
+      "titleEn": "Micron and SanDisk stocks plunge premarket as investors flee the hottest memory trade",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/14/micron-and-sandisk-stocks-plunge-premarket-as-investors-flee-the-hottest-memory-trade/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:36694c0b241b69d7",
+      "titleEn": "SpaceX stock has 38% upside on Wall Street, so why are investors still selling?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/14/spacex-stock-has-38-upside-on-wall-street-so-why-are-investors-still-selling/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0b9adbde0c543cb3",
+      "titleEn": "TSMC stock faces an $80B earnings swing: can margins justify the AI premium?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/14/tsmc-stock-faces-an-80b-earnings-swing-can-margins-justify-the-ai-premium/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7ef5a240cf8de4a9",
+      "titleEn": "ASML earnings hit record €5B as AI demand exceeds supply: why is stock 14% down?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/14/asml-earnings-hit-record-e5b-as-ai-demand-exceeds-supply-why-is-stock-14-down/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ed1a78f295e06b7a",
+      "titleEn": "KOSPI and Nikkei rebound after brutal AI sell-off, but one warning sign remains",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/14/kospi-and-nikkei-rebound-after-brutal-ai-sell-off-but-one-warning-sign-remains/",
+      "published": null
+    },
     {
       "id": "stockanalysis:4913c0a0405af0d0",
       "titleEn": "Lenovo Group stock rally has stalled: will it drop further or rebound?",
@@ -40,66 +85,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:6c33cdbeee5e8b6a",
-      "titleEn": "Metals weaken as front-end yields, Hormuz risk offset softer dollar - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were lower and spot silver prices were sharply lower in late U.S. trading Tuesday, as traders cut exposure ahead of Wednesday’s U.S. inflation report while front-end Treasury yields and December Federal Reserve rate-hike risk remained firm. At the time of writing, spot gold was trading near $4,160.80 an ounce, down 0.24% on the session, while spot silver was trading near $59.090, down 1.82%. North American equities closed slightly lower as bank earnings failed to offset renewed pressure on chip stocks. The S&P 500 fell 1.79 points, or less than 0.1%, to 7,805.45. The Dow Jones Industrial Average lost 180.45 points, or 0.3%, to 51,670.10. The Nasdaq Composite fell 41.52 points, or 0.2%, to 27,204.38, while the Russell 2000 dropped 11.11 points, or 0.4%, to 2,783.37. European equities also closed mostly lower after a volatile session, with technology weakness offsetting the support from lower oil and easier long-end yields. The Stoxx Europe 600 fell 0.10% to 635.01. France’s CAC 40 lost 0.07% to 7,827.63, Germany’s DAX slipped 0.10% to 25,259.90 and the U.K. FTSE 100 declined 0.06% to 10,650.33. Italy’s FTSE MIB added 0.04% to 50,057.18.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-13/metals-weaken-front-end-yields-hormuz-risk-offset-softer-dollar-kitco-pm",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fb188616c00ed590",
-      "titleEn": "SpaceX stock falls 4% today: here's why",
+      "id": "stockanalysis:0fe7cea24ab98973",
+      "titleEn": "MindWalk Holdings Corp. Strengthens Boston-Based Development Leadership as Pipeline Advances Toward Preclinical Efficacy Studies",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/spcex-stock-falls-4-today-heres-why/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5d9d6023dda26965",
-      "titleEn": "Silver's industrial demand, mining dynamics and free float mean price rally might not impact supply until it overwhelms it – Sprott's Zhu",
-      "summaryEn": "(Kitco News) – Silver has key differentiators that insulate the impacts of the price action from the underlying supply and demand dynamics – but when investors do pile into silver, the grey metal’s constrained physical supply means the market can go parabolic in a way that gold is unlikely to ever do, according to Kenny Zhu, Director of Research and Investment Strategy at Sprott. In a recent interview with Kitco News, Zhu discussed three factors that cause silver to behave quite differently from gold. First, he said that because 50% to 60% of silver demand comes from industrial applications, silver prices don’t impact supply the same way gold prices impact supply for the yellow metal. “Gold pretty much drives the underlying trend for the whole segment, like it or not,” he said. “But silver, palladium, and platinum, there&#x27;s a supply-demand factor at play, but there&#x27;s also the industrial factor. And that&#x27;s something that gold isn&#x27;t really impacted by in the direct way that those other metals are.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-13/silvers-industrial-demand-mining-dynamics-and-free-float-mean-price-rally",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e14a09c6839d1672",
-      "titleEn": "Nu Holdings stock loses momentum after hitting a resistance: is it a buy?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/13/nu-holdings-stock-loses-momentum-after-hitting-a-resistance-is-it-a-buy/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:83b0403a4a10a7da",
-      "titleEn": "UNPACK '27: EXPEDIA AND HOTELS.COM REVEAL THE TRAVEL TRENDS INSPIRING THE WORLD IN 2027",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261013522998/en/UNPACK-%E2%80%9927-EXPEDIA-AND-HOTELS.COM-REVEAL-THE-TRAVEL-TRENDS-INSPIRING-THE-WORLD-IN-2027/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1506e5513b7cc7c9",
-      "titleEn": "AL-S Pharma Appoints Harry Welten as Chief Executive Officer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261013851910/en/AL-S-Pharma-Appoints-Harry-Welten-as-Chief-Executive-Officer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d93d25e684864cc0",
-      "titleEn": "Galderma Signs Agreement to Acquire ZO Skin Health, Strengthening Its Physician-Dispensed Skincare Offering",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261013945338/en/Galderma-Signs-Agreement-to-Acquire-ZO-Skin-Health-Strengthening-Its-Physician-Dispensed-Skincare-Offering/",
+      "link": "https://www.businesswire.com/news/home/20261014746456/en/MindWalk-Holdings-Corp.-Strengthens-Boston-Based-Development-Leadership-as-Pipeline-Advances-Toward-Preclinical-Efficacy-Studies/",
       "published": null
     }
   ]
