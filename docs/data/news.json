@@ -1,8 +1,134 @@
 {
-  "generatedAt": "2026-10-15T12:05:46.681392Z",
+  "generatedAt": "2026-10-15T16:55:06.022276Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 21,
   "items": [
+    {
+      "id": "stockanalysis:e08a1469d7b6ed7c",
+      "titleEn": "Why TSMC's $64B spending plan shouldn't deter investors",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/15/why-tsmcs-64b-spending-plan-shouldnt-deter-investors/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8f95485ce1eed92a",
+      "titleEn": "Why is Nvidia stock falling 2% on Thursday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/15/why-is-nvidia-stock-falling-2-on-thursday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0b7e16e0043e8d61",
+      "titleEn": "Berkshire loaded up on Bending Spoons stock: here's why you shouldn't",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/15/berkshire-loaded-up-on-bending-spoons-stock-heres-why-you-shouldnt/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1e98f3426a724553",
+      "titleEn": "Intel, AMD plummet further on Thursday: what's behind the fall?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/15/intel-amd-plummet-further-on-thursday-whats-behind-the-fall/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ee0e023665e9ef5e",
+      "titleEn": "Three stocks poised to beat estimates this earnings season",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/15/three-stocks-poised-to-beat-estimates-this-earnings-season/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b01a7830d5ae04d6",
+      "titleEn": "Gold, silver rebound as Treasury yields tumble despite hot PPI - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices are solidly higher in early U.S. trading Thursday, rebounding from Wednesday&#x27;s sharp losses as falling Treasury yields, a weaker U.S. dollar and renewed safe-haven demand outweighed another upside U.S. inflation surprise. A technology-led global equity selloff pushed investors toward government bonds and bullion, even as September producer prices rose much faster than expected. At the time of writing, spot gold was trading near $4,147.50 an ounce, up $43.00, or 1.05%, while spot silver was trading near $56.620, up $1.10, or 1.99%. Market positioning remains caught between persistent inflation and growing concerns about the sustainability of the AI-driven equity rally. September producer prices surged 1.3% on the month and 6.3% from a year earlier , the largest monthly advance since March 2022. Producer energy prices jumped 10.8%, including a 20.3% increase in gasoline. The report followed Wednesday&#x27;s stronger-than-expected CPI , which showed headline inflation rising 0.6% on the month and 3.7% annually. September retail sales increased 0.8%, exceeding forecasts , although sales excluding autos and gasoline rose just 0.2%. Initial jobless claims edged up to 199,000, reinforcing the picture of limited layoffs despite slower hiring. Fed funds pricing put the probability of an October rate hike near 29% following the morning data, leaving a pause as the base case but keeping additional tightening by December heavily priced. The benchmark 10-year Treasury yield fell toward 5.08%, its lowest level in about three weeks, as selling in heavily indebted AI-linked technology companies fueled demand for Treasuries. The dollar index retreated toward 102.1 from Wednesday&#x27;s 18-month high. The next tests include Friday&#x27;s import and export prices, industrial production and Fed Chair Kevin Warsh&#x27;s appearance at the IMF annual meetings in Bangkok. The sharp yield decline provides immediate support for gold, but persistent producer inflation and resilient consumer spending leave the Fed&#x27;s tightening bias intact.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-10-15/gold-silver-rebound-treasury-yields-tumble-despite-hot-ppi-kitco-am-report",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5561d1fccae771bb",
+      "titleEn": "Gold price near session high after Philly Fed survey falls to 20.9 in October",
+      "summaryEn": "(Kitco News) – Gold prices are trading near session highs on Thursday morning after the Philadelphia Federal Reserve&#x27;s manufacturing sector survey declined beyond expectations this month. The regional central bank said its manufacturing business outlook for October came in at 20.9 after a reading of 37.8 in September. The data was far worse than expected, as economists were looking for a reading of 28.4 this month. “Responses to the October Manufacturing Business Outlook Survey suggest overall expansion in the region’s manufacturing activity,” the report said. “The indicators for current activity, new orders, and shipments all moderated but remained positive this month. The firms continued to indicate overall increases in prices.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-15/gold-price-near-session-high-after-philly-fed-survey-falls-209-october",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6386892bbe2d4d11",
+      "titleEn": "Walmart stock rises as Deutsche Bank upgrades shares to buy",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/15/walmart-stock-rises-as-deutsche-bank-upgrades-shares-to-buy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b9af1c3a8172d007",
+      "titleEn": "Gold holding its ground as U.S. labor market remains steady",
+      "summaryEn": "(Kitco News) - Although persistent inflation remains a dominant force in the economy, its effects on the labor market remain muted, as the number of American workers applying for first-time unemployment benefits remains stable. Initial claims for state unemployment benefits came in at a seasonally adjusted 199,000 for the week ending October 10, the Labor Department announced Thursday. The number was in line with consensus estimates. The previous week’s figure was revised down to 198,000. The latest labor market data is having little impact on gold prices, as the precious metal manages to hold on to its overnight gains above $4,100 an ounce. Spot gold last traded at $4,151.30 an ounce, up more than 1% on the day.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-15/gold-holding-its-ground-us-labor-market-remains-steady",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2d8c9ded66d138e4",
+      "titleEn": "Rocket Lab stock drops below key support after Neutron delay: now what?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/15/rocket-lab-stock-drops-below-key-support-after-neutron-delay-now-what/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0ef48c3d9104051c",
+      "titleEn": "Spot gold near highs after New York manufacturing index rises to 25.5",
+      "summaryEn": "(Kitco News) - Gold prices were trading near session highs after manufacturing activity in the New York region rose further into expansionary territory this month, though price pressures and the outlook worsened, according to the latest data published by the New York Federal Reserve. The regional central bank announced on Thursday that its Empire State manufacturing survey improved to 25.5 in October, its highest reading in nearly five years, after posting a 7.6 print in September. The data was better than expectations, as consensus forecasts called for a decline to 10.3. “New orders increased markedly and shipments grew,” the report said. “Unfilled orders rose, delivery times lengthened substantially, and supply availability worsened further. Inventories increased. Employment continued to rise modestly and the average workweek rose. The pace of input and selling price increases remained elevated. Firms continued to expect conditions to improve in the months ahead, though optimism moderated.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-15/spot-gold-near-highs-after-new-york-manufacturing-index-rises-255",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d44a7680602864c1",
+      "titleEn": "Gold holding overnight gains above $4,100 even as US PPI rises 6.3% in September",
+      "summaryEn": "(Kitco News) - After a solid overnight rally, rising inflation fears are limiting gold’s recovery Thursday, as higher producer prices show that the growing threat is unlikely to abate anytime soon. The U.S. headline Producer Price Index (PPI) jumped 1.3% in September, following August’s revised 0.5% increase, the U.S. Labor Department announced Thursday. The latest headline data was significantly hotter than expected, as economists had forecast a 0.6% increase. “The September increase is the largest advance since rising 1.7 percent in March 2022,” the report said.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-15/gold-holding-overnight-gains-above-4100-even-us-ppi-rises-63-september",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8a1af2f843b145a5",
+      "titleEn": "Gold price hits $4,154/oz after retail sales rise 0.8% in September",
+      "summaryEn": "(Kitco News) - The gold market is trading near session highs after the latest data showed American consumers’ spending rising more than expected last month. U.S. retail sales rose 0.8% in September following a revised reading of 1.3% in August, the U.S. Commerce Department announced on Thursday. The data was better than expectations, as the consensus of economists projected a 0.3% increase in September’s headline number.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-15/gold-price-hits-4154oz-after-retail-sales-rise-08-september",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5a8152a4e5781928",
+      "titleEn": "CoreWeave stock pressured as bond yields surge after a major Gartner warning",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/15/coreweave-stock-pressured-as-bond-yields-surge-after-a-major-gartner-warning/",
+      "published": null
+    },
     {
       "id": "stockanalysis:7eb568e603b65a02",
       "titleEn": "FTSE 100 hits one-month high as falling gilt yields spark a bank-stock rally",
@@ -13,75 +139,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:7ff5cf91c9daefce",
-      "titleEn": "Iowa AG says ChatGPT 'coaching people to commit suicide' as OpenAI sued by 8 states",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/15/iowa-ag-says-chatgpt-coaching-people-to-commit-suicide-as-openai-sued-by-8-states/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ffb7b5a9d1c0c7bc",
-      "titleEn": "Nvidia, AMD and Micron plunge premarket as AI stocks face a brutal new reality",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/15/nvidia-amd-and-micron-plunge-premarket-as-ai-stocks-face-a-brutal-new-reality/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e15d3abf35fe1aed",
-      "titleEn": "Cathie Wood trims Palantir to buy this AI stock after a brutal 16% crash",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/15/cathie-wood-trims-palantir-to-buy-this-ai-stock-after-a-brutal-16-crash/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3c06153dbb3cf435",
-      "titleEn": "TSMC earnings crush estimates as profit jumps 69%, but stock still faces big test",
+      "id": "stockanalysis:c1b18777ed23bb41",
+      "titleEn": "The Estée Lauder Companies Announces BEAUTY&amp;YOU India 2026 Winners and Marks Five Years of Advancing Indian Beauty Entrepreneurship",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/15/tsmc-earnings-crush-estimates-as-profit-jumps-69-but-stock-still-faces-big-test/",
+      "link": "https://www.businesswire.com/news/home/20261015612324/en/The-Est%C3%A9e-Lauder-Companies-Announces-BEAUTYYOU-India-2026-Winners-and-Marks-Five-Years-of-Advancing-Indian-Beauty-Entrepreneurship/",
       "published": null
     },
     {
-      "id": "stockanalysis:617bcf675ffbfd35",
-      "titleEn": "Hang Seng Index outlook darkens as Lenovo Group stock nosedives",
+      "id": "stockanalysis:3ee22328454b0704",
+      "titleEn": "Fujifilm's instax mini Evo Cinema™ Named One of TIME's Best Inventions of 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/15/hang-seng-index-outlook-darkens-as-lenovo-group-stock-nosedives/",
+      "link": "https://www.businesswire.com/news/home/20261015868634/en/Fujifilm%E2%80%99s-instax-mini-Evo-Cinema%E2%84%A2-Named-One-of-TIME%E2%80%99s-Best-Inventions-of-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:4fd530c51b10e6c4",
-      "titleEn": "Anthropic revenue jumps 45% to nearly $17B, but its $100B growth story is cracking",
+      "id": "stockanalysis:6514759ec4a3a892",
+      "titleEn": "Insperity Unveils Its AI Capabilities for the Future of HR Highlighting New Insperity HR360 AI Agent",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/15/anthropic-revenue-jumps-45-to-nearly-17b-but-its-100b-growth-story-is-cracking/",
+      "link": "https://www.businesswire.com/news/home/20261015752898/en/Insperity-Unveils-Its-AI-Capabilities-for-the-Future-of-HR-Highlighting-New-Insperity-HR360-AI-Agent/",
       "published": null
     },
     {
-      "id": "stockanalysis:591494434206f643",
-      "titleEn": "Samsung, SK Hynix stocks crash 9%-11% as risk shifts from chips to customers",
+      "id": "stockanalysis:2e07a770409b896a",
+      "titleEn": "Forrester Research To Broadcast Its 2026 Third-Quarter Earnings Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/15/samsung-sk-hynix-stocks-crash-9-11-as-risk-shifts-from-chips-to-customers/",
+      "link": "https://www.businesswire.com/news/home/20261015384203/en/Forrester-Research-To-Broadcast-Its-2026-Third-Quarter-Earnings-Conference-Call/",
       "published": null
     },
     {
-      "id": "stockanalysis:c57b8a18899ee7b3",
-      "titleEn": "Kohl's Takes Its AI Gift Finder Into the Holiday Quarter",
-      "summaryEn": "Kohl’s AI shopping assistant asks shoppers about the recipient, occasion and budget and offers products they can add to a cart without leaving the chat. CEO Michael Bender mentioned that adoption is still small but users show stronger conversion and higher revenue per visit, as digital sales rose 2.8% and reached 27% of net sales. PYMNTS Intelligence finds 46% of AI-assisted shoppers use the technology to find the best price, and 53% would leave a large marketplace for a brand site that beat it.",
+      "id": "stockanalysis:7b45905bcfbd0e0a",
+      "titleEn": "Sterne Kessler and Clarivate Announce Partnership to Develop AI-enhanced Patent Workflow Solutions",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.pymnts.com/news/2026/kohls-takes-its-ai-gift-finder-into-the-holiday-quarter/",
+      "link": "https://www.businesswire.com/news/home/20261015622778/en/Sterne-Kessler-and-Clarivate-Announce-Partnership-to-Develop-AI-enhanced-Patent-Workflow-Solutions/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9aa036bdd5b87aff",
+      "titleEn": "Glance and PayPal Bring AI-Powered Shopping and Checkout to Tens of Millions of U.S. Consumers",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261015403540/en/Glance-and-PayPal-Bring-AI-Powered-Shopping-and-Checkout-to-Tens-of-Millions-of-U.S.-Consumers/",
       "published": null
     }
   ]
