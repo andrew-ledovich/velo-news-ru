@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-10-14T23:37:54.487985Z",
+  "generatedAt": "2026-10-15T01:49:16.275970Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:c57b8a18899ee7b3",
+      "titleEn": "Kohl's Takes Its AI Gift Finder Into the Holiday Quarter",
+      "summaryEn": "Kohl’s AI shopping assistant asks shoppers about the recipient, occasion and budget and offers products they can add to a cart without leaving the chat. CEO Michael Bender mentioned that adoption is still small but users show stronger conversion and higher revenue per visit, as digital sales rose 2.8% and reached 27% of net sales. PYMNTS Intelligence finds 46% of AI-assisted shoppers use the technology to find the best price, and 53% would leave a large marketplace for a brand site that beat it.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/2026/kohls-takes-its-ai-gift-finder-into-the-holiday-quarter/",
+      "published": null
+    },
     {
       "id": "stockanalysis:d169701204d862cb",
       "titleEn": "Gold falls below $4,100, silver plunges 6% as hot CPI boosts Fed-hike bets - Kitco PM Report",
@@ -76,57 +85,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1ae9a62b9f19f559",
-      "titleEn": "Can gold hold $4,000 with an October rate hike still in play?",
-      "summaryEn": "(Kitco News) - Hotter-than-expected consumer prices have put an October rate hike back in play , pushing real bond yields higher and dragging gold prices below a critical near-term support level. However, commodity analysts expect support to continue to hold at $4,000 an ounce, as the Federal Reserve is unlikely to raise interest rates just one week before American voters head to the polls for the 2026 midterm elections. In a note Wednesday, Ryan McKay, Director of Commodity Strategy at TD Securities, noted that gold’s inability to break through resistance at $4,200 has prompted speculative fund managers to liquidate their long positions, while the disappointing inflation numbers have added fuel to the fire.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-14/can-gold-hold-4000-october-rate-hike-still-play",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e972c79f8cc4dc40",
-      "titleEn": "KBRA Assigns Preliminary Ratings to Aspire Mortgage Trust 2026-6 (SPIRE 2026-6)",
+      "id": "stockanalysis:0cfd5e5e152c9a9f",
+      "titleEn": "Takeda's ORZEYFUL (oveporexton) Launches Simultaneously in Japan and China Giving Physicians First Access to Prescribe Novel Orexin Agonist to Patients with Narcolepsy Type 1",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014603360/en/KBRA-Assigns-Preliminary-Ratings-to-Aspire-Mortgage-Trust-2026-6-SPIRE-2026-6/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fd4a61f8299c00a4",
-      "titleEn": "Walker &amp; Dunlop Arranges $216 Million Refinancing for Trophy Broadway Property in Manhattan",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014411314/en/Walker-Dunlop-Arranges-216-Million-Refinancing-for-Trophy-Broadway-Property-in-Manhattan/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bc933e736bb6a822",
-      "titleEn": "Albany International Schedules Third-Quarter 2026 Earnings Release and Conference Call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014989265/en/Albany-International-Schedules-Third-Quarter-2026-Earnings-Release-and-Conference-Call/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5f40e9bdb483189c",
-      "titleEn": "CenterPoint Energy to Pay Additional Interest on its 2.0% Zero-Premium Exchangeable Subordinated Notes due 2029",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014511208/en/CenterPoint-Energy-to-Pay-Additional-Interest-on-its-2.0-Zero-Premium-Exchangeable-Subordinated-Notes-due-2029/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3bcc20ec8d212511",
-      "titleEn": "Littelfuse to Release Third Quarter Financial Results Before Market Open on October 28",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014479852/en/Littelfuse-to-Release-Third-Quarter-Financial-Results-Before-Market-Open-on-October-28/",
+      "link": "https://www.businesswire.com/news/home/20261014922379/en/Takeda%E2%80%99s-ORZEYFUL-oveporexton-Launches-Simultaneously-in-Japan-and-China-Giving-Physicians-First-Access-to-Prescribe-Novel-Orexin-Agonist-to-Patients-with-Narcolepsy-Type-1/",
       "published": null
     }
   ]
