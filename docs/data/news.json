@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-10-15T06:39:44.412330Z",
+  "generatedAt": "2026-10-15T12:05:46.681392Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:7eb568e603b65a02",
+      "titleEn": "FTSE 100 hits one-month high as falling gilt yields spark a bank-stock rally",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/15/ftse-100-hits-one-month-high-as-falling-gilt-yields-spark-a-bank-stock-rally/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7ff5cf91c9daefce",
+      "titleEn": "Iowa AG says ChatGPT 'coaching people to commit suicide' as OpenAI sued by 8 states",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/15/iowa-ag-says-chatgpt-coaching-people-to-commit-suicide-as-openai-sued-by-8-states/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ffb7b5a9d1c0c7bc",
+      "titleEn": "Nvidia, AMD and Micron plunge premarket as AI stocks face a brutal new reality",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/15/nvidia-amd-and-micron-plunge-premarket-as-ai-stocks-face-a-brutal-new-reality/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e15d3abf35fe1aed",
+      "titleEn": "Cathie Wood trims Palantir to buy this AI stock after a brutal 16% crash",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/15/cathie-wood-trims-palantir-to-buy-this-ai-stock-after-a-brutal-16-crash/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3c06153dbb3cf435",
+      "titleEn": "TSMC earnings crush estimates as profit jumps 69%, but stock still faces big test",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/15/tsmc-earnings-crush-estimates-as-profit-jumps-69-but-stock-still-faces-big-test/",
+      "published": null
+    },
     {
       "id": "stockanalysis:617bcf675ffbfd35",
       "titleEn": "Hang Seng Index outlook darkens as Lenovo Group stock nosedives",
@@ -37,69 +82,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/2026/kohls-takes-its-ai-gift-finder-into-the-holiday-quarter/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d169701204d862cb",
-      "titleEn": "Gold falls below $4,100, silver plunges 6% as hot CPI boosts Fed-hike bets - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Gold and silver prices were sharply lower in late U.S. trading Wednesday, as hotter-than-expected U.S. consumer inflation lifted Treasury yields, strengthened the dollar and increased expectations for further Federal Reserve tightening. Silver suffered particularly heavy losses as selling accelerated across precious metals. At the time of writing, spot gold was trading near $4,098.80 an ounce, down $61.30, or 1.47%, while spot silver was trading near $55.410, down $3.640, or 6.16%. North American equities closed sharply lower as the inflation report triggered selling in technology and other rate-sensitive shares. The S&P 500 dropped 86.51 points, or 1.1%, to 7,718.94, its worst daily performance since July. The Dow Jones Industrial Average fell 48.62 points, or 0.1%, to 51,621.48. The Nasdaq Composite sank 511.51 points, or 1.9%, to 26,692.87, while the Russell 2000 declined 53.84 points, or 1.9%, to 2,729.53. European equities closed mostly higher, outperforming Wall Street as strong corporate earnings helped offset the U.S. inflation surprise. The Stoxx Europe 600 gained 0.43% to 637.75, supported by a 2.3% advance in health care shares and stronger semiconductor-equipment demand. Germany&#x27;s DAX added 0.2% to 25,298.61, France&#x27;s CAC 40 climbed 0.6% to 7,873.11 and the U.K. FTSE 100 rose 0.7% to 10,724.86. Italy&#x27;s FTSE MIB bucked the regional advance, falling 0.61% to 49,753.84.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-14/gold-falls-below-4100-silver-plunges-6-hot-cpi-boosts-fed-hike-bets-kitco",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bc581a9648b4a7f3",
-      "titleEn": "Gold's weakness is a buying opportunity as Jefferies sees $5,000 price in 2027, healthy mining margins",
-      "summaryEn": "(Kitco News) - Gold prices continue to struggle in the face of persistent inflation pressures and growing expectations for higher interest rates; however, one bank continues to see short-term weakness as a buying opportunity and expects higher gold prices to continue to support the mining sector. Despite rising energy costs, market analysts at Jefferies said they expect the mining sector&#x27;s third-quarter earnings season to be \"okay,\" as input cost pressures have remained relatively manageable. In their latest metals and mining report, published Friday, the analysts said that although higher bond yields have created significant headwinds for gold, they remain bullish on the precious metal over the longer term, and expect to see higher prices through next year.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-14/golds-weakness-buying-opportunity-jefferies-sees-5000-price-2027-healthy",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:48494cf65fe91958",
-      "titleEn": "Why is CoreWeave stock crashing 16% on Wednesday?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/why-is-coreweave-stock-crashing-16-on-wednesday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0ee0a0db2e785fca",
-      "titleEn": "Affirm stock slips after US inflation data: here's why it may fall to $60 soon",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/affirm-stock-slips-after-us-inflation-data-heres-why-it-may-fall-to-60-soon/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e1c3c2260bcb0d15",
-      "titleEn": "Pernod Ricard: Sequential Improvement in Q1, in a Contrasted Environment",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014862001/en/Pernod-Ricard-Sequential-Improvement-in-Q1-in-a-Contrasted-Environment/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ba20e811128d6c5a",
-      "titleEn": "Gibraltar to Sell Infrastructure Business to Saint-Gobain for $208 Million",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014988725/en/Gibraltar-to-Sell-Infrastructure-Business-to-Saint-Gobain-for-208-Million/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0cfd5e5e152c9a9f",
-      "titleEn": "Takeda's ORZEYFUL (oveporexton) Launches Simultaneously in Japan and China Giving Physicians First Access to Prescribe Novel Orexin Agonist to Patients with Narcolepsy Type 1",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014922379/en/Takeda%E2%80%99s-ORZEYFUL-oveporexton-Launches-Simultaneously-in-Japan-and-China-Giving-Physicians-First-Access-to-Prescribe-Novel-Orexin-Agonist-to-Patients-with-Narcolepsy-Type-1/",
       "published": null
     }
   ]
