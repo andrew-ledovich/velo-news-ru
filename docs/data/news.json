@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-10-15T20:06:34.983255Z",
+  "generatedAt": "2026-10-15T23:02:29.317645Z",
   "sourceCount": 1,
-  "count": 22,
+  "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:15955a37903442b1",
+      "titleEn": "Here's why Zillow Group, Better Home, and Opendoor stocks are rising today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/15/heres-why-zillow-group-better-home-and-opendoor-stocks-are-rising-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:53f6eeff50fe06a6",
+      "titleEn": "Dell stock is falling this week: is this a golden opportunity to buy the dip?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/15/dell-stock-is-falling-this-week-is-this-a-golden-opportunity-to-buy-the-dip/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b1f8b1c8684ab1f5",
+      "titleEn": "Gold approaches $4,170, silver gains 3% as bond rally lifts precious metals - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Gold and silver prices are sharply higher in late U.S. trading Thursday, as falling Treasury yields, a weaker U.S. dollar and renewed safe-haven demand helped precious metals recover from Wednesday&#x27;s inflation-driven selloff. A stronger-than-expected U.S. producer inflation report failed to reverse the rally in government bonds , with concerns over heavily indebted artificial intelligence companies drawing capital into Treasuries. At the time of writing, spot gold was trading near $4,168.70 an ounce, up $64.20, or 1.56%, while spot silver was trading near $57.310, up $1.800, or 3.24%. North American equities closed higher after recovering from sharp early losses, as falling Treasury yields and strength outside the technology sector offset continuing concerns about AI infrastructure spending. The S&P 500 advanced 0.3%, recovering from an early decline of approximately 0.6%. The Dow Jones Industrial Average gained 1.1%, supported by health care, retail and other defensive shares. The Nasdaq Composite finished 0.1% higher after reversing an intraday loss of approximately 1.4%. Technology shares remained volatile, but broader market participation improved as the session progressed. European equities also finished mostly higher, with earnings strength and defensive-sector demand helping the region outperform technology-heavy markets in Asia. The Stoxx Europe 600 gained approximately 0.3% to 639.85. The U.K. FTSE 100 rose 1.08% to 10,840.35, Germany&#x27;s DAX added 0.33% to 25,382.62 and France&#x27;s CAC 40 climbed 0.78% to 7,934.70. Italy&#x27;s FTSE MIB bucked the broader advance, declining 0.72% to 49,397.55. European health care and telecommunications shares outperformed, while technology and banking stocks faced selling pressure.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-10-15/gold-approaches-4170-silver-gains-3-bond-rally-lifts-precious-metals-kitco",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c9168410681fcaed",
+      "titleEn": "U.S. Bancorp Says AI Agents Aren't Moving Consumer Deposits Yet",
+      "summaryEn": "U.S. Bancorp credit card balances rose 11.5% year over year, while card net charge-offs declined from the second quarter. Consumer deposits reached a quarterly record, although total deposit costs increased. U.S. Bancorp ’s consumers continued to spend during the third quarter, even as the bank carried more card balances and saw an increase in early-stage card delinquencies.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/us-bancorp-says-ai-agents-are-not-moving-consumer-deposits-yet/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7cfe2a216b139e6c",
+      "titleEn": "NYC Comptroller Urges Anthropic to Delay IPO and Focus on AI Safety",
+      "summaryEn": "New York City Comptroller Mark Levine is calling on Anthropic to delay its initial public offering and focus its energies on artificial intelligence safety issues the company itself has highlighted. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Levine made this call in a Wednesday (Oct. 14) letter addressed to Anthropic CEO Dario Amodei and posted on the New York City Comptroller ’s website.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nyc-comptroller-urges-anthropic-to-delay-ipo-and-focus-on-ai-safety/",
+      "published": null
+    },
     {
       "id": "stockanalysis:5df0fa87b61c43cd",
       "titleEn": "ServiceNow stock rises 6% as investors rotate to enterprise software stocks",
@@ -85,120 +130,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5ac6652c17ecc3d9",
-      "titleEn": "Micron, SK Hynix continue slump: can they stage a comeback",
+      "id": "stockanalysis:3d558248560d53cf",
+      "titleEn": "CORRECTING and REPLACING Voya Equity Closed End Funds Declare Distributions",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/15/micron-sk-hynix-continue-slump-can-they-stage-a-comeback/",
+      "link": "https://www.businesswire.com/news/home/20261015099372/en/CORRECTING-and-REPLACING-Voya-Equity-Closed-End-Funds-Declare-Distributions/",
       "published": null
     },
     {
-      "id": "stockanalysis:b7a845bb90337203",
-      "titleEn": "Gold owners ‘got tricked' in 1933, Mario Innecco says, and bullion banks are still trying to keep gold ‘under control'",
-      "summaryEn": "(Kitco News) - Inflation hit 3.7% and gold fell as much as $80. The former London bond broker, who bought his first gold in 2002, says the 40-year bond bull market is over and savers will pay for it .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } Mario Innecco bought his first gold in 2002. He spent about two decades in London brokering government bond futures, and he started following Kitco’s price charts, with their little time-zone markers.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-15/gold-owners-got-tricked-1933-mario-innecco-says-and-bullion-banks-are-still",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6fa5e9c9cc85e6a6",
-      "titleEn": "Cross River Adds Ripple USD Stablecoin to Power 24/7 Global Money Transfers",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); This integration establishes RLUSD as an additional payment rail on Cross River’s platform, in the same environment as traditional rails, so that businesses can leverage the strengths of both options, according to the release. “By integrating RLUSD into Cross River&#8217;s existing stablecoin infrastructure, we’re expanding on capabilities already in development, enabling FinTechs to move between U.S. dollars and RLUSD, settle cross-border payments and treasury movement 24/7, and access ACH, wires and real-time payment through a single banking platform and API connection,” Adam Goller , head of Fintech banking at Cross River, said in the release.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.pymnts.com/news/banking/2026/cross-river-adds-ripple-usd-stablecoin-to-power-24-7-global-money-transfers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e08a1469d7b6ed7c",
-      "titleEn": "Why TSMC's $64B spending plan shouldn't deter investors",
+      "id": "stockanalysis:4ba6ce7c18d9bdaa",
+      "titleEn": "Estrella Immunopharma Treats First Patient with Two EB103 Infusions in STARLIGHT-1 Dose-Expansion Phase",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/15/why-tsmcs-64b-spending-plan-shouldnt-deter-investors/",
+      "link": "https://www.businesswire.com/news/home/20261015515780/en/Estrella-Immunopharma-Treats-First-Patient-with-Two-EB103-Infusions-in-STARLIGHT-1-Dose-Expansion-Phase/",
       "published": null
     },
     {
-      "id": "stockanalysis:8f95485ce1eed92a",
-      "titleEn": "Why is Nvidia stock falling 2% on Thursday?",
+      "id": "stockanalysis:bf736a2f0be7c28d",
+      "titleEn": "KBRA Assigns Preliminary Ratings to Sequoia Mortgage Trust 2026-S1 (SEMT 2026-S1)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/15/why-is-nvidia-stock-falling-2-on-thursday/",
+      "link": "https://www.businesswire.com/news/home/20261015635350/en/KBRA-Assigns-Preliminary-Ratings-to-Sequoia-Mortgage-Trust-2026-S1-SEMT-2026-S1/",
       "published": null
     },
     {
-      "id": "stockanalysis:87b7357301f71616",
-      "titleEn": "Eight States Bring Parallel Lawsuits Against OpenAI Over Safety Issues",
-      "summaryEn": "Eight states have sued OpenAI in their respective state courts, alleging the tech giant failed to implement sufficient safeguards to protect vulnerable users, including children and the elderly. The coordinated lawsuits mark an escalation in the battle by state authorities to impose guardrails on artificial intelligence in the absence of federal regulations. At least six states had previously turned to outside law firms to bring lawsuits against technology companies rather than taking direct action. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The latest lawsuits were filed Wednesday (Oct. 15) by a bipartisan group of state attorneys general. Seven of the eight — Iowa, Kansas, Nebraska, West Virginia, Arkansas, Idaho and Montana — have Republican attorneys general, signaling a break with President Trump’s hands-off regulatory policy on AI. Only Arizona among the group is represented by a Democrat. The suits allege OpenAI violated their respective states’ consumer protection laws.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/eight-states-bring-parallel-lawsuits-against-openai-over-safety-issues/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0b7e16e0043e8d61",
-      "titleEn": "Berkshire loaded up on Bending Spoons stock: here's why you shouldn't",
+      "id": "stockanalysis:c1769b745ef73f0c",
+      "titleEn": "Hudson Pacific Sells North San Jose Office Property",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/15/berkshire-loaded-up-on-bending-spoons-stock-heres-why-you-shouldnt/",
+      "link": "https://www.businesswire.com/news/home/20261015382268/en/%C2%A0Hudson-Pacific-Sells-North-San-Jose-Office-Property/",
       "published": null
     },
     {
-      "id": "stockanalysis:1e98f3426a724553",
-      "titleEn": "Intel, AMD plummet further on Thursday: what's behind the fall?",
+      "id": "stockanalysis:d8b7691f7034c51c",
+      "titleEn": "NerdWallet Announces Conference Call to Review 2026 Third Quarter Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/15/intel-amd-plummet-further-on-thursday-whats-behind-the-fall/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:24437c4056f414f4",
-      "titleEn": "Amazon's Bee Expands Its Wearable Ambient AI Offerings",
-      "summaryEn": "Last year, Amazon entered the wearables space by acquiring artificial intelligence-powered bracelet maker Bee . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Now, the tech giant says it is taking its Bee line beyond just wearable items, with a pair of new products announced Thursday (Oct. 15).",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/wearables/2026/amazons-bee-expands-its-wearable-ambient-ai-offerings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a802adb684b4aa8e",
-      "titleEn": "Roots Corporation Obtains Final Order Approving Previously Announced Plan of Arrangement",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261015851319/en/Roots-Corporation-Obtains-Final-Order-Approving-Previously-Announced-Plan-of-Arrangement/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3abc3e0bb40c3354",
-      "titleEn": "Cushman &amp; Wakefield Hires Doug Middleton to Lead Institutional Capital Markets Team in New York City, Joined by Jack Stillwagon",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261015562213/en/Cushman-Wakefield-Hires-Doug-Middleton-to-Lead-Institutional-Capital-Markets-Team-in-New-York-City-Joined-by-Jack-Stillwagon/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5d146a05ddc510d5",
-      "titleEn": "CDW Canada Awarded Canadian Partner Excellence Award by Dell Technologies for the Fifth Consecutive Year",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261015425185/en/CDW-Canada-Awarded-Canadian-Partner-Excellence-Award-by-Dell-Technologies-for-the-Fifth-Consecutive-Year/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:71b5f9bccd3eb8c3",
-      "titleEn": "Five Point Holdings, LLC Sets Date for Third Quarter 2026 Earnings Announcement and Investor Conference Call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261015310426/en/Five-Point-Holdings-LLC-Sets-Date-for-Third-Quarter-2026-Earnings-Announcement-and-Investor-Conference-Call/",
+      "link": "https://www.businesswire.com/news/home/20261015637413/en/NerdWallet-Announces-Conference-Call-to-Review-2026-Third-Quarter-Financial-Results/",
       "published": null
     }
   ]
