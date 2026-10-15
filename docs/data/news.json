@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-10-15T01:49:16.275970Z",
+  "generatedAt": "2026-10-15T06:39:44.412330Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:617bcf675ffbfd35",
+      "titleEn": "Hang Seng Index outlook darkens as Lenovo Group stock nosedives",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/15/hang-seng-index-outlook-darkens-as-lenovo-group-stock-nosedives/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4fd530c51b10e6c4",
+      "titleEn": "Anthropic revenue jumps 45% to nearly $17B, but its $100B growth story is cracking",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/15/anthropic-revenue-jumps-45-to-nearly-17b-but-its-100b-growth-story-is-cracking/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:591494434206f643",
+      "titleEn": "Samsung, SK Hynix stocks crash 9%-11% as risk shifts from chips to customers",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/15/samsung-sk-hynix-stocks-crash-9-11-as-risk-shifts-from-chips-to-customers/",
+      "published": null
+    },
     {
       "id": "stockanalysis:c57b8a18899ee7b3",
       "titleEn": "Kohl's Takes Its AI Gift Finder Into the Holiday Quarter",
@@ -49,39 +76,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:4dd1ba7dba23f230",
-      "titleEn": "Bending Spoons stock soars as Berkshire Hathaway adds $330M investment",
+      "id": "stockanalysis:e1c3c2260bcb0d15",
+      "titleEn": "Pernod Ricard: Sequential Improvement in Q1, in a Contrasted Environment",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/bending-spoons-stock-soars-as-berkshire-hathaway-adds-330m-investment/",
+      "link": "https://www.businesswire.com/news/home/20261014862001/en/Pernod-Ricard-Sequential-Improvement-in-Q1-in-a-Contrasted-Environment/",
       "published": null
     },
     {
-      "id": "stockanalysis:fdadec154d7e7115",
-      "titleEn": "GE Vernova stock has suffered a big pullback: is this the end of the bull run?",
+      "id": "stockanalysis:ba20e811128d6c5a",
+      "titleEn": "Gibraltar to Sell Infrastructure Business to Saint-Gobain for $208 Million",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/ge-vernova-stock-has-suffered-a-big-pullback-is-this-the-end-of-the-bull-run/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f57b6e136f533884",
-      "titleEn": "Why is SpaceX falling despite successful NASA resupply mission launch?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/why-is-spacex-falling-despite-successful-nasa-resupply-mission-launch/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:606ad6bd6c0ee6f7",
-      "titleEn": "Why is Skydance stock crashing today?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/14/why-is-skydance-stock-crashing-today/",
+      "link": "https://www.businesswire.com/news/home/20261014988725/en/Gibraltar-to-Sell-Infrastructure-Business-to-Saint-Gobain-for-208-Million/",
       "published": null
     },
     {
