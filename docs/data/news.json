@@ -1,8 +1,116 @@
 {
-  "generatedAt": "2026-10-15T16:55:06.022276Z",
+  "generatedAt": "2026-10-15T20:06:34.983255Z",
   "sourceCount": 1,
-  "count": 21,
+  "count": 22,
   "items": [
+    {
+      "id": "stockanalysis:5df0fa87b61c43cd",
+      "titleEn": "ServiceNow stock rises 6% as investors rotate to enterprise software stocks",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/15/servicenow-stock-rises-6-as-investors-rotate-to-enterprise-software-stocks/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:71632db723fe27ac",
+      "titleEn": "PNC Combats AI-Enabled Deposit Flight With Better Tech and Service",
+      "summaryEn": "As technology makes it easier for clients to move deposits in search of higher interest rates, banks must compete by providing better solutions, PNC Financial Services Group Chairman and CEO William Demchak said Thursday (Oct. 15). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Demchak said this during the bank’s third-quarter earnings call, when asked by an analyst about the potential impact of agentic artificial intelligence on deposits and banks’ costs of keeping those deposits.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/banking/2026/pnc-combats-ai-enabled-deposit-flight-with-better-tech-service/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3a6523b177c6ae03",
+      "titleEn": "Intuit Targets B2B Software Space With Sequence Acquisition",
+      "summaryEn": "QuickBooks maker Intuit has announced plans to acquire Series A revenue management company Sequence . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The deal, announced Thursday (Oct. 15), is designed to add new revenue management capabilities to Intuit’s financial intelligence system and boost its mid-market offerings. The company says it is not disclosing terms of the acquisition.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/b2b-payments/2026/intuit-targets-b2b-software-space-with-sequence-acquisition/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bc9741efc5d981da",
+      "titleEn": "China buys the gold dip as ETF holdings hit record and holiday demand lifts Q4 outlook – WGC",
+      "summaryEn": "(Kitco News) – China’s central bank added 23 tonnes of gold to its reserves last month, while the country’s gold ETFs saw healthy inflows in September to cap a strong quarter, and the recent holidays and festivals saw demand for gold jewelry, bars and coins rise as prices moderated, according to Ray Jia, research head for China at the World Gold Council (WGC). In the WGC’s latest China gold market update, Jia noted that while gold’s September price declines cut into Q3 gains, the yellow metal still advanced during the quarter. “Gold pulled back in September (Chart 1), with the LBMA Gold Price PM in USD and the SHAUPM in RMB falling 8.5% and 5.5%, respectively,” he said. “According to our gold return attribution model (GRAM), soaring US Treasury yields amid the Fed’s tightening moves and the strengthening dollar weighed on gold.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-15/china-buys-gold-dip-etf-holdings-hit-record-and-holiday-demand-lifts-q4",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b8a87a6ffc15453c",
+      "titleEn": "Bitcoin is starting to behave more like gold as investors seek alternative hedges – Block Scholes",
+      "summaryEn": "(Kitco News) - Gold has managed to push back above $4,100 an ounce, but the precious metal continues to face significant headwinds from persistent inflation fears, which are driving hawkish monetary policies around the world. However, gold is not the only alternative asset attracting attention as investors look to protect their wealth against currency debasement and broader financial market risks. According to one market analyst, Bitcoin is increasingly behaving like gold, suggesting that investors could be starting to view the digital currency as a supplementary safe-haven asset rather than simply another speculative risk asset. In a note published Thursday, Thahbib Rahman, Research Analyst at Block Scholes, said that Bitcoin&#x27;s correlation with gold is at its highest level since November 2020, when pandemic-era fiscal and monetary stimulus gripped financial markets.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-15/bitcoin-starting-behave-more-gold-investors-seek-alternative-hedges-block",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6603976eb7d3d72d",
+      "titleEn": "Amazon and Walmart Are Turning Retail Efficiency Into Someone Else's Expense",
+      "summaryEn": "Retail automation may shift costs rather than eliminate them. Walmart’s robotics investments could improve fulfillment economics while requiring suppliers to spend more on packaging, infrastructure and working capital. Amazon is moving upstream of the shopping search. Its new Bee integrations turn conversation-derived reminders into product recommendations, potentially increasing platform influence over consumer demand. The next retail margin battle is about who captures the savings. As platforms control more of discovery and fulfillment, CFOs must evaluate innovation across the entire transaction rather than isolated productivity gains.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/retail/2026/amazon-and-walmart-are-turning-retail-efficiency-into-someone-elses-expense/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5c4a1b56afc03b0f",
+      "titleEn": "Why is Microsoft stock rising today amid AI selloff",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/15/why-is-microsoft-stock-rising-today-amid-ai-selloff/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b0cd17504f24a8fa",
+      "titleEn": "Why Tesla is falling ahead of Roadster sports car launch?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/10/15/why-tesla-is-falling-ahead-of-roadster-sports-car-launch/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3bd621948d066337",
+      "titleEn": "Anthropic Narrows Revenue Gap With OpenAI Ahead of Its IPO",
+      "summaryEn": "Anthropic’s third-quarter revenue reached $16.8 billion, more than three times what it earned in all of 2025, while OpenAI’s annualized run rate sits near $50 billion. Anthropic earned $1.70 for every dollar spent on compute last quarter and posted an 11% adjusted operating margin, its second straight adjusted profit. Growth slowed to 45%, and investors have cut year-end forecasts to about $74 billion, against at least $518 billion in infrastructure commitments and a 2028 revenue target of $190 billion to $200 billion.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-narrows-revenue-gap-with-openai-before-ipo/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5ac6652c17ecc3d9",
+      "titleEn": "Micron, SK Hynix continue slump: can they stage a comeback",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/15/micron-sk-hynix-continue-slump-can-they-stage-a-comeback/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b7a845bb90337203",
+      "titleEn": "Gold owners ‘got tricked' in 1933, Mario Innecco says, and bullion banks are still trying to keep gold ‘under control'",
+      "summaryEn": "(Kitco News) - Inflation hit 3.7% and gold fell as much as $80. The former London bond broker, who bought his first gold in 2002, says the 40-year bond bull market is over and savers will pay for it .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } Mario Innecco bought his first gold in 2002. He spent about two decades in London brokering government bond futures, and he started following Kitco’s price charts, with their little time-zone markers.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-15/gold-owners-got-tricked-1933-mario-innecco-says-and-bullion-banks-are-still",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6fa5e9c9cc85e6a6",
+      "titleEn": "Cross River Adds Ripple USD Stablecoin to Power 24/7 Global Money Transfers",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); This integration establishes RLUSD as an additional payment rail on Cross River’s platform, in the same environment as traditional rails, so that businesses can leverage the strengths of both options, according to the release. “By integrating RLUSD into Cross River&#8217;s existing stablecoin infrastructure, we’re expanding on capabilities already in development, enabling FinTechs to move between U.S. dollars and RLUSD, settle cross-border payments and treasury movement 24/7, and access ACH, wires and real-time payment through a single banking platform and API connection,” Adam Goller , head of Fintech banking at Cross River, said in the release.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.pymnts.com/news/banking/2026/cross-river-adds-ripple-usd-stablecoin-to-power-24-7-global-money-transfers/",
+      "published": null
+    },
     {
       "id": "stockanalysis:e08a1469d7b6ed7c",
       "titleEn": "Why TSMC's $64B spending plan shouldn't deter investors",
@@ -19,6 +127,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/10/15/why-is-nvidia-stock-falling-2-on-thursday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:87b7357301f71616",
+      "titleEn": "Eight States Bring Parallel Lawsuits Against OpenAI Over Safety Issues",
+      "summaryEn": "Eight states have sued OpenAI in their respective state courts, alleging the tech giant failed to implement sufficient safeguards to protect vulnerable users, including children and the elderly. The coordinated lawsuits mark an escalation in the battle by state authorities to impose guardrails on artificial intelligence in the absence of federal regulations. At least six states had previously turned to outside law firms to bring lawsuits against technology companies rather than taking direct action. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The latest lawsuits were filed Wednesday (Oct. 15) by a bipartisan group of state attorneys general. Seven of the eight — Iowa, Kansas, Nebraska, West Virginia, Arkansas, Idaho and Montana — have Republican attorneys general, signaling a break with President Trump’s hands-off regulatory policy on AI. Only Arizona among the group is represented by a Democrat. The suits allege OpenAI violated their respective states’ consumer protection laws.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/eight-states-bring-parallel-lawsuits-against-openai-over-safety-issues/",
       "published": null
     },
     {
@@ -40,156 +157,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ee0e023665e9ef5e",
-      "titleEn": "Three stocks poised to beat estimates this earnings season",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/15/three-stocks-poised-to-beat-estimates-this-earnings-season/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b01a7830d5ae04d6",
-      "titleEn": "Gold, silver rebound as Treasury yields tumble despite hot PPI - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices are solidly higher in early U.S. trading Thursday, rebounding from Wednesday&#x27;s sharp losses as falling Treasury yields, a weaker U.S. dollar and renewed safe-haven demand outweighed another upside U.S. inflation surprise. A technology-led global equity selloff pushed investors toward government bonds and bullion, even as September producer prices rose much faster than expected. At the time of writing, spot gold was trading near $4,147.50 an ounce, up $43.00, or 1.05%, while spot silver was trading near $56.620, up $1.10, or 1.99%. Market positioning remains caught between persistent inflation and growing concerns about the sustainability of the AI-driven equity rally. September producer prices surged 1.3% on the month and 6.3% from a year earlier , the largest monthly advance since March 2022. Producer energy prices jumped 10.8%, including a 20.3% increase in gasoline. The report followed Wednesday&#x27;s stronger-than-expected CPI , which showed headline inflation rising 0.6% on the month and 3.7% annually. September retail sales increased 0.8%, exceeding forecasts , although sales excluding autos and gasoline rose just 0.2%. Initial jobless claims edged up to 199,000, reinforcing the picture of limited layoffs despite slower hiring. Fed funds pricing put the probability of an October rate hike near 29% following the morning data, leaving a pause as the base case but keeping additional tightening by December heavily priced. The benchmark 10-year Treasury yield fell toward 5.08%, its lowest level in about three weeks, as selling in heavily indebted AI-linked technology companies fueled demand for Treasuries. The dollar index retreated toward 102.1 from Wednesday&#x27;s 18-month high. The next tests include Friday&#x27;s import and export prices, industrial production and Fed Chair Kevin Warsh&#x27;s appearance at the IMF annual meetings in Bangkok. The sharp yield decline provides immediate support for gold, but persistent producer inflation and resilient consumer spending leave the Fed&#x27;s tightening bias intact.",
+      "id": "stockanalysis:24437c4056f414f4",
+      "titleEn": "Amazon's Bee Expands Its Wearable Ambient AI Offerings",
+      "summaryEn": "Last year, Amazon entered the wearables space by acquiring artificial intelligence-powered bracelet maker Bee . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Now, the tech giant says it is taking its Bee line beyond just wearable items, with a pair of new products announced Thursday (Oct. 15).",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-10-15/gold-silver-rebound-treasury-yields-tumble-despite-hot-ppi-kitco-am-report",
+      "link": "https://www.pymnts.com/news/wearables/2026/amazons-bee-expands-its-wearable-ambient-ai-offerings/",
       "published": null
     },
     {
-      "id": "stockanalysis:5561d1fccae771bb",
-      "titleEn": "Gold price near session high after Philly Fed survey falls to 20.9 in October",
-      "summaryEn": "(Kitco News) – Gold prices are trading near session highs on Thursday morning after the Philadelphia Federal Reserve&#x27;s manufacturing sector survey declined beyond expectations this month. The regional central bank said its manufacturing business outlook for October came in at 20.9 after a reading of 37.8 in September. The data was far worse than expected, as economists were looking for a reading of 28.4 this month. “Responses to the October Manufacturing Business Outlook Survey suggest overall expansion in the region’s manufacturing activity,” the report said. “The indicators for current activity, new orders, and shipments all moderated but remained positive this month. The firms continued to indicate overall increases in prices.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-15/gold-price-near-session-high-after-philly-fed-survey-falls-209-october",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6386892bbe2d4d11",
-      "titleEn": "Walmart stock rises as Deutsche Bank upgrades shares to buy",
+      "id": "stockanalysis:a802adb684b4aa8e",
+      "titleEn": "Roots Corporation Obtains Final Order Approving Previously Announced Plan of Arrangement",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/15/walmart-stock-rises-as-deutsche-bank-upgrades-shares-to-buy/",
+      "link": "https://www.businesswire.com/news/home/20261015851319/en/Roots-Corporation-Obtains-Final-Order-Approving-Previously-Announced-Plan-of-Arrangement/",
       "published": null
     },
     {
-      "id": "stockanalysis:b9af1c3a8172d007",
-      "titleEn": "Gold holding its ground as U.S. labor market remains steady",
-      "summaryEn": "(Kitco News) - Although persistent inflation remains a dominant force in the economy, its effects on the labor market remain muted, as the number of American workers applying for first-time unemployment benefits remains stable. Initial claims for state unemployment benefits came in at a seasonally adjusted 199,000 for the week ending October 10, the Labor Department announced Thursday. The number was in line with consensus estimates. The previous week’s figure was revised down to 198,000. The latest labor market data is having little impact on gold prices, as the precious metal manages to hold on to its overnight gains above $4,100 an ounce. Spot gold last traded at $4,151.30 an ounce, up more than 1% on the day.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-15/gold-holding-its-ground-us-labor-market-remains-steady",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2d8c9ded66d138e4",
-      "titleEn": "Rocket Lab stock drops below key support after Neutron delay: now what?",
+      "id": "stockanalysis:3abc3e0bb40c3354",
+      "titleEn": "Cushman &amp; Wakefield Hires Doug Middleton to Lead Institutional Capital Markets Team in New York City, Joined by Jack Stillwagon",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/15/rocket-lab-stock-drops-below-key-support-after-neutron-delay-now-what/",
+      "link": "https://www.businesswire.com/news/home/20261015562213/en/Cushman-Wakefield-Hires-Doug-Middleton-to-Lead-Institutional-Capital-Markets-Team-in-New-York-City-Joined-by-Jack-Stillwagon/",
       "published": null
     },
     {
-      "id": "stockanalysis:0ef48c3d9104051c",
-      "titleEn": "Spot gold near highs after New York manufacturing index rises to 25.5",
-      "summaryEn": "(Kitco News) - Gold prices were trading near session highs after manufacturing activity in the New York region rose further into expansionary territory this month, though price pressures and the outlook worsened, according to the latest data published by the New York Federal Reserve. The regional central bank announced on Thursday that its Empire State manufacturing survey improved to 25.5 in October, its highest reading in nearly five years, after posting a 7.6 print in September. The data was better than expectations, as consensus forecasts called for a decline to 10.3. “New orders increased markedly and shipments grew,” the report said. “Unfilled orders rose, delivery times lengthened substantially, and supply availability worsened further. Inventories increased. Employment continued to rise modestly and the average workweek rose. The pace of input and selling price increases remained elevated. Firms continued to expect conditions to improve in the months ahead, though optimism moderated.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-15/spot-gold-near-highs-after-new-york-manufacturing-index-rises-255",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d44a7680602864c1",
-      "titleEn": "Gold holding overnight gains above $4,100 even as US PPI rises 6.3% in September",
-      "summaryEn": "(Kitco News) - After a solid overnight rally, rising inflation fears are limiting gold’s recovery Thursday, as higher producer prices show that the growing threat is unlikely to abate anytime soon. The U.S. headline Producer Price Index (PPI) jumped 1.3% in September, following August’s revised 0.5% increase, the U.S. Labor Department announced Thursday. The latest headline data was significantly hotter than expected, as economists had forecast a 0.6% increase. “The September increase is the largest advance since rising 1.7 percent in March 2022,” the report said.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-15/gold-holding-overnight-gains-above-4100-even-us-ppi-rises-63-september",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8a1af2f843b145a5",
-      "titleEn": "Gold price hits $4,154/oz after retail sales rise 0.8% in September",
-      "summaryEn": "(Kitco News) - The gold market is trading near session highs after the latest data showed American consumers’ spending rising more than expected last month. U.S. retail sales rose 0.8% in September following a revised reading of 1.3% in August, the U.S. Commerce Department announced on Thursday. The data was better than expectations, as the consensus of economists projected a 0.3% increase in September’s headline number.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-15/gold-price-hits-4154oz-after-retail-sales-rise-08-september",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5a8152a4e5781928",
-      "titleEn": "CoreWeave stock pressured as bond yields surge after a major Gartner warning",
+      "id": "stockanalysis:5d146a05ddc510d5",
+      "titleEn": "CDW Canada Awarded Canadian Partner Excellence Award by Dell Technologies for the Fifth Consecutive Year",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/15/coreweave-stock-pressured-as-bond-yields-surge-after-a-major-gartner-warning/",
+      "link": "https://www.businesswire.com/news/home/20261015425185/en/CDW-Canada-Awarded-Canadian-Partner-Excellence-Award-by-Dell-Technologies-for-the-Fifth-Consecutive-Year/",
       "published": null
     },
     {
-      "id": "stockanalysis:7eb568e603b65a02",
-      "titleEn": "FTSE 100 hits one-month high as falling gilt yields spark a bank-stock rally",
+      "id": "stockanalysis:71b5f9bccd3eb8c3",
+      "titleEn": "Five Point Holdings, LLC Sets Date for Third Quarter 2026 Earnings Announcement and Investor Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/15/ftse-100-hits-one-month-high-as-falling-gilt-yields-spark-a-bank-stock-rally/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c1b18777ed23bb41",
-      "titleEn": "The Estée Lauder Companies Announces BEAUTY&amp;YOU India 2026 Winners and Marks Five Years of Advancing Indian Beauty Entrepreneurship",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261015612324/en/The-Est%C3%A9e-Lauder-Companies-Announces-BEAUTYYOU-India-2026-Winners-and-Marks-Five-Years-of-Advancing-Indian-Beauty-Entrepreneurship/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3ee22328454b0704",
-      "titleEn": "Fujifilm's instax mini Evo Cinema™ Named One of TIME's Best Inventions of 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261015868634/en/Fujifilm%E2%80%99s-instax-mini-Evo-Cinema%E2%84%A2-Named-One-of-TIME%E2%80%99s-Best-Inventions-of-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6514759ec4a3a892",
-      "titleEn": "Insperity Unveils Its AI Capabilities for the Future of HR Highlighting New Insperity HR360 AI Agent",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261015752898/en/Insperity-Unveils-Its-AI-Capabilities-for-the-Future-of-HR-Highlighting-New-Insperity-HR360-AI-Agent/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2e07a770409b896a",
-      "titleEn": "Forrester Research To Broadcast Its 2026 Third-Quarter Earnings Conference Call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261015384203/en/Forrester-Research-To-Broadcast-Its-2026-Third-Quarter-Earnings-Conference-Call/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7b45905bcfbd0e0a",
-      "titleEn": "Sterne Kessler and Clarivate Announce Partnership to Develop AI-enhanced Patent Workflow Solutions",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261015622778/en/Sterne-Kessler-and-Clarivate-Announce-Partnership-to-Develop-AI-enhanced-Patent-Workflow-Solutions/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9aa036bdd5b87aff",
-      "titleEn": "Glance and PayPal Bring AI-Powered Shopping and Checkout to Tens of Millions of U.S. Consumers",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261015403540/en/Glance-and-PayPal-Bring-AI-Powered-Shopping-and-Checkout-to-Tens-of-Millions-of-U.S.-Consumers/",
+      "link": "https://www.businesswire.com/news/home/20261015310426/en/Five-Point-Holdings-LLC-Sets-Date-for-Third-Quarter-2026-Earnings-Announcement-and-Investor-Conference-Call/",
       "published": null
     }
   ]
