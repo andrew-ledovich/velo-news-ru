@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-10-16T01:17:30.855529Z",
+  "generatedAt": "2026-10-16T05:59:39.257004Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:4719994b2c5a97cd",
+      "titleEn": "Here's why Nikkei 225 is surging on Oct. 16",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/16/heres-why-nikkei-225-is-surging-on-oct-16/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1e63cf8c38ffd661",
+      "titleEn": "Samsung, SK Hynix rebound over 2%: is AI's boom-bust cycle just starting?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/16/samsung-sk-hynix-rebound-over-2-is-ais-boom-bust-cycle-just-starting/",
+      "published": null
+    },
     {
       "id": "stockanalysis:15955a37903442b1",
       "titleEn": "Here's why Zillow Group, Better Home, and Opendoor stocks are rising today",
@@ -67,84 +85,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:3a6523b177c6ae03",
-      "titleEn": "Intuit Targets B2B Software Space With Sequence Acquisition",
-      "summaryEn": "QuickBooks maker Intuit has announced plans to acquire Series A revenue management company Sequence . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The deal, announced Thursday (Oct. 15), is designed to add new revenue management capabilities to Intuit’s financial intelligence system and boost its mid-market offerings. The company says it is not disclosing terms of the acquisition.",
+      "id": "stockanalysis:5bcb767e19d83571",
+      "titleEn": "Nidec Announces Receipt of an Investigation Report from the Executive Responsibility Investigation Committee",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/b2b-payments/2026/intuit-targets-b2b-software-space-with-sequence-acquisition/",
+      "link": "https://www.businesswire.com/news/home/20261015562388/en/Nidec-Announces-Receipt-of-an-Investigation-Report-from-the-Executive-Responsibility-Investigation-Committee/",
       "published": null
     },
     {
-      "id": "stockanalysis:bc9741efc5d981da",
-      "titleEn": "China buys the gold dip as ETF holdings hit record and holiday demand lifts Q4 outlook – WGC",
-      "summaryEn": "(Kitco News) – China’s central bank added 23 tonnes of gold to its reserves last month, while the country’s gold ETFs saw healthy inflows in September to cap a strong quarter, and the recent holidays and festivals saw demand for gold jewelry, bars and coins rise as prices moderated, according to Ray Jia, research head for China at the World Gold Council (WGC). In the WGC’s latest China gold market update, Jia noted that while gold’s September price declines cut into Q3 gains, the yellow metal still advanced during the quarter. “Gold pulled back in September (Chart 1), with the LBMA Gold Price PM in USD and the SHAUPM in RMB falling 8.5% and 5.5%, respectively,” he said. “According to our gold return attribution model (GRAM), soaring US Treasury yields amid the Fed’s tightening moves and the strengthening dollar weighed on gold.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-15/china-buys-gold-dip-etf-holdings-hit-record-and-holiday-demand-lifts-q4",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b8a87a6ffc15453c",
-      "titleEn": "Bitcoin is starting to behave more like gold as investors seek alternative hedges – Block Scholes",
-      "summaryEn": "(Kitco News) - Gold has managed to push back above $4,100 an ounce, but the precious metal continues to face significant headwinds from persistent inflation fears, which are driving hawkish monetary policies around the world. However, gold is not the only alternative asset attracting attention as investors look to protect their wealth against currency debasement and broader financial market risks. According to one market analyst, Bitcoin is increasingly behaving like gold, suggesting that investors could be starting to view the digital currency as a supplementary safe-haven asset rather than simply another speculative risk asset. In a note published Thursday, Thahbib Rahman, Research Analyst at Block Scholes, said that Bitcoin&#x27;s correlation with gold is at its highest level since November 2020, when pandemic-era fiscal and monetary stimulus gripped financial markets.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-15/bitcoin-starting-behave-more-gold-investors-seek-alternative-hedges-block",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6603976eb7d3d72d",
-      "titleEn": "Amazon and Walmart Are Turning Retail Efficiency Into Someone Else's Expense",
-      "summaryEn": "Retail automation may shift costs rather than eliminate them. Walmart’s robotics investments could improve fulfillment economics while requiring suppliers to spend more on packaging, infrastructure and working capital. Amazon is moving upstream of the shopping search. Its new Bee integrations turn conversation-derived reminders into product recommendations, potentially increasing platform influence over consumer demand. The next retail margin battle is about who captures the savings. As platforms control more of discovery and fulfillment, CFOs must evaluate innovation across the entire transaction rather than isolated productivity gains.",
+      "id": "stockanalysis:d94e1536c97ae004",
+      "titleEn": "Triad Business Bank Confirms It Is “Party A,” Publishes Its Proposal to M&amp;F Bancorp's Shareholders After the October 7 Vote Did Not Approve the Optus Agreement, and Tells Them It Will Still Be There on October 21, Whichever Way the Vote Goes",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/retail/2026/amazon-and-walmart-are-turning-retail-efficiency-into-someone-elses-expense/",
+      "link": "https://www.businesswire.com/news/home/20261015724791/en/Triad-Business-Bank-Confirms-It-Is-%E2%80%9CParty-A%E2%80%9D-Publishes-Its-Proposal-to-MF-Bancorp%E2%80%99s-Shareholders-After-the-October-7-Vote-Did-Not-Approve-the-Optus-Agreement-and-Tells-Them-It-Will-Still-Be-There-on-October-21-Whichever-Way-the-Vote-Goes/",
       "published": null
     },
     {
-      "id": "stockanalysis:5c4a1b56afc03b0f",
-      "titleEn": "Why is Microsoft stock rising today amid AI selloff",
+      "id": "stockanalysis:53c341cbfc778670",
+      "titleEn": "Viking Names Seven New River Ships, Honoring Valued Travel Advisor Partners",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261015787654/en/Viking-Names-Seven-New-River-Ships-Honoring-Valued-Travel-Advisor-Partners/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d8bdf32901b3e00d",
+      "titleEn": "Faraday Future and FFR Jointly Launch FF Nova, First Embodied AI Humanoid Robot Priced Below $2,500 in U.S., FF Nova Mini, Physical AI Spark Program Curriculum, Nova Reinforcement Learning Developer Program and Developer Community Recruitment",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/15/why-is-microsoft-stock-rising-today-amid-ai-selloff/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5bb924c566267dda",
-      "titleEn": "WaFd Announces Fiscal 2026 Earnings and 22% Increase in EPS",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261015483998/en/WaFd-Announces-Fiscal-2026-Earnings-and-22-Increase-in-EPS/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d6db7588bfc457e7",
-      "titleEn": "Prime Drink Group Announces Subscription Receipt Financing and Closing of Second Tranche of Private Placement of Units",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261015563883/en/Prime-Drink-Group-Announces-Subscription-Receipt-Financing-and-Closing-of-Second-Tranche-of-Private-Placement-of-Units/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3d558248560d53cf",
-      "titleEn": "CORRECTING and REPLACING Voya Equity Closed End Funds Declare Distributions",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261015099372/en/CORRECTING-and-REPLACING-Voya-Equity-Closed-End-Funds-Declare-Distributions/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4ba6ce7c18d9bdaa",
-      "titleEn": "Estrella Immunopharma Treats First Patient with Two EB103 Infusions in STARLIGHT-1 Dose-Expansion Phase",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261015515780/en/Estrella-Immunopharma-Treats-First-Patient-with-Two-EB103-Infusions-in-STARLIGHT-1-Dose-Expansion-Phase/",
+      "link": "https://www.businesswire.com/news/home/20261015292642/en/Faraday-Future-and-FFR-Jointly-Launch-FF-Nova-First-Embodied-AI-Humanoid-Robot-Priced-Below-2500-in-U.S.-FF-Nova-Mini-Physical-AI-Spark-Program-Curriculum-Nova-Reinforcement-Learning-Developer-Program-and-Developer-Community-Recruitment/",
       "published": null
     }
   ]
