@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-10-16T15:03:34.163419Z",
+  "generatedAt": "2026-10-16T18:46:50.166404Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:9d3ec3fdd170b5b8",
+      "titleEn": "Why is Moderna down 10% on Friday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/16/why-is-moderna-down-10-on-friday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2478463c8d710f84",
+      "titleEn": "Prediction Markets are betting on a Tesla, SpaceX merger in 2027",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/10/16/prediction-markets-are-betting-on-a-tesla-spacex-merger-in-2027/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bd135061da5e1e1e",
+      "titleEn": "Apple shares rise after iPhone Duo pre-orders sell out within minutes",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/16/apple-shares-rise-after-iphone-duo-pre-orders-sell-out-within-minutes/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6d1dcc97885db3aa",
+      "titleEn": "Strategy stock (MSTR) falls as MSCI index exclusion threatens passive investments",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/16/strategy-stock-mstr-falls-as-msci-index-exclusion-threatens-passive-investments/",
+      "published": null
+    },
     {
       "id": "stockanalysis:668caa5fda006e4f",
       "titleEn": "BlackRock's Hambro blasts gold miners' ‘reckless capital allocation towards share buybacks",
@@ -58,48 +94,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:35fb841693a1154b",
-      "titleEn": "Tesla stock rises 5% on Roadster reveal, but analysts question financial impact",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/10/16/tesla-stock-rises-5-on-roadster-reveal-but-analysts-question-financial-impact/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:96c0e1624f4a73ef",
-      "titleEn": "UBS share price flashes a warning pattern as capital rules force tough choices",
+      "id": "stockanalysis:48c301199b81d8c7",
+      "titleEn": "Sterne Kessler Client Netlist Negotiates $600 Million Settlement with Micron Technology",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/16/ubs-share-price-flashes-a-warning-pattern-as-capital-rules-force-tough-choices/",
+      "link": "https://www.businesswire.com/news/home/20261016154549/en/Sterne-Kessler-Client-Netlist-Negotiates-600-Million-Settlement-with-Micron-Technology/",
       "published": null
     },
     {
-      "id": "stockanalysis:78e3026544f87cf2",
-      "titleEn": "Jim Cramer says buy these 2 beaten-down stocks as the AI trade gets ugly",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/16/jim-cramer-says-buy-these-2-beaten-down-stocks-as-the-ai-trade-gets-ugly/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d67c1b8a23acaa87",
-      "titleEn": "Vontier Named One of America's Greenest Companies 2027 by Newsweek",
+      "id": "stockanalysis:15daa080c725ef09",
+      "titleEn": "CORRECTING and REPLACING Adobe: U.S. Holiday Shopping Season to Hit Record $275.1 Billion Online, Rising 6.7% YoY",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261016554658/en/Vontier-Named-One-of-Americas-Greenest-Companies-2027-by-Newsweek/",
+      "link": "https://www.businesswire.com/news/home/20260928285775/en/CORRECTING-and-REPLACING-Adobe-U.S.-Holiday-Shopping-Season-to-Hit-Record-275.1-Billion-Online-Rising-6.7-YoY/",
       "published": null
     },
     {
-      "id": "stockanalysis:cbfbdd0be2dde86b",
-      "titleEn": "Copart Completes Acquisition of ACV",
+      "id": "stockanalysis:0b9330fcb3180fdd",
+      "titleEn": "MGE Energy Declares Regular Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261015338070/en/Copart-Completes-Acquisition-of-ACV/",
+      "link": "https://www.businesswire.com/news/home/20261016538318/en/MGE-Energy-Declares-Regular-Dividend/",
       "published": null
     }
   ]
