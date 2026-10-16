@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-10-16T18:46:50.166404Z",
+  "generatedAt": "2026-10-16T21:48:36.929019Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:9ebd977a32940e66",
+      "titleEn": "Palantir stock reverses after hitting key resistance: is it a good buy?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/16/palantir-stock-reverses-after-hitting-key-resistance-is-it-a-good-buy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fde36c6abee6648a",
+      "titleEn": "Visa Direct Accelerates Cross-Border Money Movement With Stablecoin Prefunding",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The first enabler of the new offering is Inyo Global , a Visa Direct processor that is powering it for eligible Visa Direct clients and partners, according to the release. Inyo Global has integrated Visa Direct’s stablecoin-enabled prefunding capability into its platform and is giving the businesses it serves the option to pre-fund cross-border payouts through Visa Direct with USDC in near real time, the release said.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.pymnts.com/news/cross-border-payments/2026/visa-direct-accelerates-cross-border-money-movement-with-stablecoin-prefunding/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3f694e5e4a3dcd61",
+      "titleEn": "Gold looks to housing, PMI and consumer sentiment data for direction next week",
+      "summaryEn": "(Kitco News) – Gold heads into the coming week with investors focused on the health of the U.S. economy and the Federal Reserve&#x27;s interest-rate outlook, as housing, employment and business activity data could drive volatility across precious metals markets. Bullion prices recovered some ground late this week after coming under pressure from stronger-than-expected U.S. inflation data, elevated Treasury yields and a firmer dollar. Gold rebounded above $4,150 an ounce Thursday and remained near that level Friday, while silver traded around $57 an ounce. Markets continue to favor a pause at the Fed&#x27;s October meeting, although persistent inflation pressures have kept expectations for another rate hike before year-end elevated. The coming week&#x27;s economic calendar is relatively light, but housing data, weekly jobless claims and Friday&#x27;s PMI and consumer sentiment reports will offer important signals on economic resilience and inflation pressures ahead of the Federal Reserve&#x27;s October 27-28 monetary policy meeting.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-16/gold-looks-housing-pmi-and-consumer-sentiment-data-direction-next-week",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:28072693c62350b6",
+      "titleEn": "Strategy stock analysis as Bitcoin price rally and ETF inflows loses momentum",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/10/16/strategy-stock-analysis-as-bitcoin-price-rally-and-etf-inflows-loses-momentum/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2be522f804d19273",
+      "titleEn": "Micron stock continues slump, analysts are saying it's a buying opportunity",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/16/micron-stock-continues-slump-analysts-are-saying-its-a-buying-opportunity/",
+      "published": null
+    },
     {
       "id": "stockanalysis:9d3ec3fdd170b5b8",
       "titleEn": "Why is Moderna down 10% on Friday?",
@@ -22,6 +67,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:92be34b90d3ff92a",
+      "titleEn": "Truist Shifts Investment Toward Deposits and Digital Banking",
+      "summaryEn": "Truist’s average deposits rose 3.6% from a year earlier, with wholesale clients providing most of the growth. Digital transactions reached 71% of consumer and small business transactions, while card spending rose 4.5% year over year. Truist is putting more money into mobile banking, payments, branches and treasury management while cutting businesses that do not support core relationships.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/truist-shifts-investment-toward-deposits-digital-banking/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:bd135061da5e1e1e",
       "titleEn": "Apple shares rise after iPhone Duo pre-orders sell out within minutes",
       "summaryEn": null,
@@ -31,93 +85,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:6d1dcc97885db3aa",
-      "titleEn": "Strategy stock (MSTR) falls as MSCI index exclusion threatens passive investments",
+      "id": "stockanalysis:fff61354ba14857a",
+      "titleEn": "Power Integrations Reports Inducement Grants under Nasdaq Listing Rule 5635(c)(4)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/16/strategy-stock-mstr-falls-as-msci-index-exclusion-threatens-passive-investments/",
+      "link": "https://www.businesswire.com/news/home/20261016596969/en/Power-Integrations-Reports-Inducement-Grants-under-Nasdaq-Listing-Rule-5635-c-4/",
       "published": null
     },
     {
-      "id": "stockanalysis:668caa5fda006e4f",
-      "titleEn": "BlackRock's Hambro blasts gold miners' ‘reckless capital allocation towards share buybacks",
-      "summaryEn": "(Kitco News) – BlackRock, the world’s largest asset manager, sees the recent spate of share buybacks by gold miners as reckless and undisciplined, and believes that with gold prices likely to rise higher, the miners and their shareholders would be far better served by investing in new production. Evy Hambro, global head of thematic and sector investing at BlackRock, said at the FT Mining Summit this week that the share buyback programmes amount to “reckless capital allocation,” and that gold companies were approving these repurchases “without any real process.” “One of the things we’ve been really dismayed about in the last 18 months or so has been the reckless capital allocation towards share buybacks in gold companies, where we’ve seen enormous amounts of money deployed on buybacks without any real process,” he said.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-16/blackrocks-hambro-blasts-gold-miners-reckless-capital-allocation-towards",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9058695ba0c53e41",
-      "titleEn": "Jordan is driving Nike's resale volume growth: buy NKE stock?",
+      "id": "stockanalysis:7878632ccbb0aa68",
+      "titleEn": "Bloom Energy Supports Central Texas First Responders Ahead of Florida-Texas Matchup",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/16/jordan-is-driving-nikes-resale-volume-growth-buy-nke-stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:972774faca707508",
-      "titleEn": "CoreWeave stock drops nearly 20% this week. Why analysts say its a buy",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/16/coreweave-stock-drops-nearly-20-this-week-why-analysts-say-its-a-buy/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ce860f532480e9f1",
-      "titleEn": "Netflix stock falls 3% as content shake-up fails to ease investor worries",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/16/netflix-stock-falls-3-as-content-shake-up-fails-to-ease-investor-worries/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:926d839b3a0180c6",
-      "titleEn": "Gold holds near $4,170 as inflation keeps December Fed tightening in play - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold prices were near steady and spot silver prices were modestly higher in early U.S. trading Friday, as a softer dollar and lower Treasury yields on the week continued to support precious metals following Thursday&#x27;s rebound. Federal Reserve Chair Kevin Warsh refrained from signaling an October rate increase during overnight remarks at the International Monetary Fund meetings, reducing immediate tightening expectations despite persistent inflation pressure. At the time of writing, spot gold was trading near $4,172.10 an ounce, up $2.30, or 0.06%, while spot silver was trading near $57.630, up $0.330, or 0.57%. Market positioning remains divided between stubborn inflation and growing concerns about economic resilience. September CPI rose 0.6% on the month and 3.7% annually , while Thursday&#x27;s producer-price report showed a 1.3% monthly increase and a 6.3% annual gain , the largest monthly rise since March 2022. Producer energy prices jumped 10.8%, adding to concerns that elevated crude and fuel costs could prolong inflation. September retail sales increased 0.8% , suggesting consumer demand remains resilient, while initial jobless claims rose slightly to 199,000. The inflation data have kept December Federal Reserve tightening expectations elevated, but near-term rate pricing has shifted considerably. Following Warsh&#x27;s remarks in Bangkok, traders reduced the probability of an October rate hike to roughly 15%, while the probability of a December increase remained near 89%. The 10-year Treasury yield was trading near 5.11%, down approximately 14 basis points on the week, as concerns about debt-financed artificial intelligence investment helped fuel demand for government bonds. The dollar index retreated toward 101.9, easing another source of pressure on bullion.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-10-16/gold-holds-near-4170-inflation-keeps-december-fed-tightening-play-kitco-am",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7ff29fcdb1bcc501",
-      "titleEn": "Zeta Global stock is soaring: Here is why and what comes next",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/16/zeta-global-stock-is-soaring-here-is-why-and-what-comes-next/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:48c301199b81d8c7",
-      "titleEn": "Sterne Kessler Client Netlist Negotiates $600 Million Settlement with Micron Technology",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261016154549/en/Sterne-Kessler-Client-Netlist-Negotiates-600-Million-Settlement-with-Micron-Technology/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:15daa080c725ef09",
-      "titleEn": "CORRECTING and REPLACING Adobe: U.S. Holiday Shopping Season to Hit Record $275.1 Billion Online, Rising 6.7% YoY",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20260928285775/en/CORRECTING-and-REPLACING-Adobe-U.S.-Holiday-Shopping-Season-to-Hit-Record-275.1-Billion-Online-Rising-6.7-YoY/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0b9330fcb3180fdd",
-      "titleEn": "MGE Energy Declares Regular Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261016538318/en/MGE-Energy-Declares-Regular-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20261016766768/en/Bloom-Energy-Supports-Central-Texas-First-Responders-Ahead-of-Florida-Texas-Matchup/",
       "published": null
     }
   ]
