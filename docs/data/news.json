@@ -1,8 +1,71 @@
 {
-  "generatedAt": "2026-10-16T10:52:26.556342Z",
+  "generatedAt": "2026-10-16T15:03:34.163419Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:668caa5fda006e4f",
+      "titleEn": "BlackRock's Hambro blasts gold miners' ‘reckless capital allocation towards share buybacks",
+      "summaryEn": "(Kitco News) – BlackRock, the world’s largest asset manager, sees the recent spate of share buybacks by gold miners as reckless and undisciplined, and believes that with gold prices likely to rise higher, the miners and their shareholders would be far better served by investing in new production. Evy Hambro, global head of thematic and sector investing at BlackRock, said at the FT Mining Summit this week that the share buyback programmes amount to “reckless capital allocation,” and that gold companies were approving these repurchases “without any real process.” “One of the things we’ve been really dismayed about in the last 18 months or so has been the reckless capital allocation towards share buybacks in gold companies, where we’ve seen enormous amounts of money deployed on buybacks without any real process,” he said.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-16/blackrocks-hambro-blasts-gold-miners-reckless-capital-allocation-towards",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9058695ba0c53e41",
+      "titleEn": "Jordan is driving Nike's resale volume growth: buy NKE stock?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/16/jordan-is-driving-nikes-resale-volume-growth-buy-nke-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:972774faca707508",
+      "titleEn": "CoreWeave stock drops nearly 20% this week. Why analysts say its a buy",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/16/coreweave-stock-drops-nearly-20-this-week-why-analysts-say-its-a-buy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ce860f532480e9f1",
+      "titleEn": "Netflix stock falls 3% as content shake-up fails to ease investor worries",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/16/netflix-stock-falls-3-as-content-shake-up-fails-to-ease-investor-worries/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:926d839b3a0180c6",
+      "titleEn": "Gold holds near $4,170 as inflation keeps December Fed tightening in play - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold prices were near steady and spot silver prices were modestly higher in early U.S. trading Friday, as a softer dollar and lower Treasury yields on the week continued to support precious metals following Thursday&#x27;s rebound. Federal Reserve Chair Kevin Warsh refrained from signaling an October rate increase during overnight remarks at the International Monetary Fund meetings, reducing immediate tightening expectations despite persistent inflation pressure. At the time of writing, spot gold was trading near $4,172.10 an ounce, up $2.30, or 0.06%, while spot silver was trading near $57.630, up $0.330, or 0.57%. Market positioning remains divided between stubborn inflation and growing concerns about economic resilience. September CPI rose 0.6% on the month and 3.7% annually , while Thursday&#x27;s producer-price report showed a 1.3% monthly increase and a 6.3% annual gain , the largest monthly rise since March 2022. Producer energy prices jumped 10.8%, adding to concerns that elevated crude and fuel costs could prolong inflation. September retail sales increased 0.8% , suggesting consumer demand remains resilient, while initial jobless claims rose slightly to 199,000. The inflation data have kept December Federal Reserve tightening expectations elevated, but near-term rate pricing has shifted considerably. Following Warsh&#x27;s remarks in Bangkok, traders reduced the probability of an October rate hike to roughly 15%, while the probability of a December increase remained near 89%. The 10-year Treasury yield was trading near 5.11%, down approximately 14 basis points on the week, as concerns about debt-financed artificial intelligence investment helped fuel demand for government bonds. The dollar index retreated toward 101.9, easing another source of pressure on bullion.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-10-16/gold-holds-near-4170-inflation-keeps-december-fed-tightening-play-kitco-am",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7ff29fcdb1bcc501",
+      "titleEn": "Zeta Global stock is soaring: Here is why and what comes next",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/16/zeta-global-stock-is-soaring-here-is-why-and-what-comes-next/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:35fb841693a1154b",
+      "titleEn": "Tesla stock rises 5% on Roadster reveal, but analysts question financial impact",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/10/16/tesla-stock-rises-5-on-roadster-reveal-but-analysts-question-financial-impact/",
+      "published": null
+    },
     {
       "id": "stockanalysis:96c0e1624f4a73ef",
       "titleEn": "UBS share price flashes a warning pattern as capital rules force tough choices",
@@ -13,75 +76,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:4719994b2c5a97cd",
-      "titleEn": "Here's why Nikkei 225 is surging on Oct. 16",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/16/heres-why-nikkei-225-is-surging-on-oct-16/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1e63cf8c38ffd661",
-      "titleEn": "Samsung, SK Hynix rebound over 2%: is AI's boom-bust cycle just starting?",
+      "id": "stockanalysis:78e3026544f87cf2",
+      "titleEn": "Jim Cramer says buy these 2 beaten-down stocks as the AI trade gets ugly",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/16/samsung-sk-hynix-rebound-over-2-is-ais-boom-bust-cycle-just-starting/",
+      "link": "https://invezz.com/news/2026/10/16/jim-cramer-says-buy-these-2-beaten-down-stocks-as-the-ai-trade-gets-ugly/",
       "published": null
     },
     {
-      "id": "stockanalysis:15955a37903442b1",
-      "titleEn": "Here's why Zillow Group, Better Home, and Opendoor stocks are rising today",
+      "id": "stockanalysis:d67c1b8a23acaa87",
+      "titleEn": "Vontier Named One of America's Greenest Companies 2027 by Newsweek",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/15/heres-why-zillow-group-better-home-and-opendoor-stocks-are-rising-today/",
+      "link": "https://www.businesswire.com/news/home/20261016554658/en/Vontier-Named-One-of-Americas-Greenest-Companies-2027-by-Newsweek/",
       "published": null
     },
     {
-      "id": "stockanalysis:53f6eeff50fe06a6",
-      "titleEn": "Dell stock is falling this week: is this a golden opportunity to buy the dip?",
+      "id": "stockanalysis:cbfbdd0be2dde86b",
+      "titleEn": "Copart Completes Acquisition of ACV",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/15/dell-stock-is-falling-this-week-is-this-a-golden-opportunity-to-buy-the-dip/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b1f8b1c8684ab1f5",
-      "titleEn": "Gold approaches $4,170, silver gains 3% as bond rally lifts precious metals - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Gold and silver prices are sharply higher in late U.S. trading Thursday, as falling Treasury yields, a weaker U.S. dollar and renewed safe-haven demand helped precious metals recover from Wednesday&#x27;s inflation-driven selloff. A stronger-than-expected U.S. producer inflation report failed to reverse the rally in government bonds , with concerns over heavily indebted artificial intelligence companies drawing capital into Treasuries. At the time of writing, spot gold was trading near $4,168.70 an ounce, up $64.20, or 1.56%, while spot silver was trading near $57.310, up $1.800, or 3.24%. North American equities closed higher after recovering from sharp early losses, as falling Treasury yields and strength outside the technology sector offset continuing concerns about AI infrastructure spending. The S&P 500 advanced 0.3%, recovering from an early decline of approximately 0.6%. The Dow Jones Industrial Average gained 1.1%, supported by health care, retail and other defensive shares. The Nasdaq Composite finished 0.1% higher after reversing an intraday loss of approximately 1.4%. Technology shares remained volatile, but broader market participation improved as the session progressed. European equities also finished mostly higher, with earnings strength and defensive-sector demand helping the region outperform technology-heavy markets in Asia. The Stoxx Europe 600 gained approximately 0.3% to 639.85. The U.K. FTSE 100 rose 1.08% to 10,840.35, Germany&#x27;s DAX added 0.33% to 25,382.62 and France&#x27;s CAC 40 climbed 0.78% to 7,934.70. Italy&#x27;s FTSE MIB bucked the broader advance, declining 0.72% to 49,397.55. European health care and telecommunications shares outperformed, while technology and banking stocks faced selling pressure.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-10-15/gold-approaches-4170-silver-gains-3-bond-rally-lifts-precious-metals-kitco",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8e2cb2c45e152b1b",
-      "titleEn": "MakeMyTrip Limited to report Fiscal 2027 Second Quarter Financial &amp; Operating Results on October 26, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261016010190/en/MakeMyTrip-Limited-to-report-Fiscal-2027-Second-Quarter-Financial-Operating-Results-on-October-26-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:357ee6233131d72e",
-      "titleEn": "Regions Reports Earnings of $611 Million and EPS of $0.71 in 3Q 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261016246924/en/Regions-Reports-Earnings-of-611-Million-and-EPS-of-0.71-in-3Q-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:28ab8ced834251ba",
-      "titleEn": "Vertical Aerospace Strengthens Supplier Network With ANH Structure and Northrop Grumman LITEF",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261016343644/en/Vertical-Aerospace-Strengthens-Supplier-Network-With-ANH-Structure-and-Northrop-Grumman-LITEF/",
+      "link": "https://www.businesswire.com/news/home/20261015338070/en/Copart-Completes-Acquisition-of-ACV/",
       "published": null
     }
   ]
