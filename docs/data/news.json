@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-10-16T05:59:39.257004Z",
+  "generatedAt": "2026-10-16T10:52:26.556342Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:96c0e1624f4a73ef",
+      "titleEn": "UBS share price flashes a warning pattern as capital rules force tough choices",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/16/ubs-share-price-flashes-a-warning-pattern-as-capital-rules-force-tough-choices/",
+      "published": null
+    },
     {
       "id": "stockanalysis:4719994b2c5a97cd",
       "titleEn": "Here's why Nikkei 225 is surging on Oct. 16",
@@ -49,75 +58,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c9168410681fcaed",
-      "titleEn": "U.S. Bancorp Says AI Agents Aren't Moving Consumer Deposits Yet",
-      "summaryEn": "U.S. Bancorp credit card balances rose 11.5% year over year, while card net charge-offs declined from the second quarter. Consumer deposits reached a quarterly record, although total deposit costs increased. U.S. Bancorp ’s consumers continued to spend during the third quarter, even as the bank carried more card balances and saw an increase in early-stage card delinquencies.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/us-bancorp-says-ai-agents-are-not-moving-consumer-deposits-yet/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7cfe2a216b139e6c",
-      "titleEn": "NYC Comptroller Urges Anthropic to Delay IPO and Focus on AI Safety",
-      "summaryEn": "New York City Comptroller Mark Levine is calling on Anthropic to delay its initial public offering and focus its energies on artificial intelligence safety issues the company itself has highlighted. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Levine made this call in a Wednesday (Oct. 14) letter addressed to Anthropic CEO Dario Amodei and posted on the New York City Comptroller ’s website.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nyc-comptroller-urges-anthropic-to-delay-ipo-and-focus-on-ai-safety/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5df0fa87b61c43cd",
-      "titleEn": "ServiceNow stock rises 6% as investors rotate to enterprise software stocks",
+      "id": "stockanalysis:8e2cb2c45e152b1b",
+      "titleEn": "MakeMyTrip Limited to report Fiscal 2027 Second Quarter Financial &amp; Operating Results on October 26, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/15/servicenow-stock-rises-6-as-investors-rotate-to-enterprise-software-stocks/",
+      "link": "https://www.businesswire.com/news/home/20261016010190/en/MakeMyTrip-Limited-to-report-Fiscal-2027-Second-Quarter-Financial-Operating-Results-on-October-26-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:71632db723fe27ac",
-      "titleEn": "PNC Combats AI-Enabled Deposit Flight With Better Tech and Service",
-      "summaryEn": "As technology makes it easier for clients to move deposits in search of higher interest rates, banks must compete by providing better solutions, PNC Financial Services Group Chairman and CEO William Demchak said Thursday (Oct. 15). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Demchak said this during the bank’s third-quarter earnings call, when asked by an analyst about the potential impact of agentic artificial intelligence on deposits and banks’ costs of keeping those deposits.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/banking/2026/pnc-combats-ai-enabled-deposit-flight-with-better-tech-service/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5bcb767e19d83571",
-      "titleEn": "Nidec Announces Receipt of an Investigation Report from the Executive Responsibility Investigation Committee",
+      "id": "stockanalysis:357ee6233131d72e",
+      "titleEn": "Regions Reports Earnings of $611 Million and EPS of $0.71 in 3Q 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261015562388/en/Nidec-Announces-Receipt-of-an-Investigation-Report-from-the-Executive-Responsibility-Investigation-Committee/",
+      "link": "https://www.businesswire.com/news/home/20261016246924/en/Regions-Reports-Earnings-of-611-Million-and-EPS-of-0.71-in-3Q-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:d94e1536c97ae004",
-      "titleEn": "Triad Business Bank Confirms It Is “Party A,” Publishes Its Proposal to M&amp;F Bancorp's Shareholders After the October 7 Vote Did Not Approve the Optus Agreement, and Tells Them It Will Still Be There on October 21, Whichever Way the Vote Goes",
+      "id": "stockanalysis:28ab8ced834251ba",
+      "titleEn": "Vertical Aerospace Strengthens Supplier Network With ANH Structure and Northrop Grumman LITEF",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261015724791/en/Triad-Business-Bank-Confirms-It-Is-%E2%80%9CParty-A%E2%80%9D-Publishes-Its-Proposal-to-MF-Bancorp%E2%80%99s-Shareholders-After-the-October-7-Vote-Did-Not-Approve-the-Optus-Agreement-and-Tells-Them-It-Will-Still-Be-There-on-October-21-Whichever-Way-the-Vote-Goes/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:53c341cbfc778670",
-      "titleEn": "Viking Names Seven New River Ships, Honoring Valued Travel Advisor Partners",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261015787654/en/Viking-Names-Seven-New-River-Ships-Honoring-Valued-Travel-Advisor-Partners/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d8bdf32901b3e00d",
-      "titleEn": "Faraday Future and FFR Jointly Launch FF Nova, First Embodied AI Humanoid Robot Priced Below $2,500 in U.S., FF Nova Mini, Physical AI Spark Program Curriculum, Nova Reinforcement Learning Developer Program and Developer Community Recruitment",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261015292642/en/Faraday-Future-and-FFR-Jointly-Launch-FF-Nova-First-Embodied-AI-Humanoid-Robot-Priced-Below-2500-in-U.S.-FF-Nova-Mini-Physical-AI-Spark-Program-Curriculum-Nova-Reinforcement-Learning-Developer-Program-and-Developer-Community-Recruitment/",
+      "link": "https://www.businesswire.com/news/home/20261016343644/en/Vertical-Aerospace-Strengthens-Supplier-Network-With-ANH-Structure-and-Northrop-Grumman-LITEF/",
       "published": null
     }
   ]
