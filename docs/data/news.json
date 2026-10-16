@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-15T23:02:29.317645Z",
+  "generatedAt": "2026-10-16T01:17:30.855529Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 16,
   "items": [
     {
       "id": "stockanalysis:15955a37903442b1",
@@ -112,21 +112,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:b0cd17504f24a8fa",
-      "titleEn": "Why Tesla is falling ahead of Roadster sports car launch?",
+      "id": "stockanalysis:5bb924c566267dda",
+      "titleEn": "WaFd Announces Fiscal 2026 Earnings and 22% Increase in EPS",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/10/15/why-tesla-is-falling-ahead-of-roadster-sports-car-launch/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261015483998/en/WaFd-Announces-Fiscal-2026-Earnings-and-22-Increase-in-EPS/",
       "published": null
     },
     {
-      "id": "stockanalysis:3bd621948d066337",
-      "titleEn": "Anthropic Narrows Revenue Gap With OpenAI Ahead of Its IPO",
-      "summaryEn": "Anthropic’s third-quarter revenue reached $16.8 billion, more than three times what it earned in all of 2025, while OpenAI’s annualized run rate sits near $50 billion. Anthropic earned $1.70 for every dollar spent on compute last quarter and posted an 11% adjusted operating margin, its second straight adjusted profit. Growth slowed to 45%, and investors have cut year-end forecasts to about $74 billion, against at least $518 billion in infrastructure commitments and a 2028 revenue target of $190 billion to $200 billion.",
+      "id": "stockanalysis:d6db7588bfc457e7",
+      "titleEn": "Prime Drink Group Announces Subscription Receipt Financing and Closing of Second Tranche of Private Placement of Units",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-narrows-revenue-gap-with-openai-before-ipo/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261015563883/en/Prime-Drink-Group-Announces-Subscription-Receipt-Financing-and-Closing-of-Second-Tranche-of-Private-Placement-of-Units/",
       "published": null
     },
     {
@@ -145,33 +145,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261015515780/en/Estrella-Immunopharma-Treats-First-Patient-with-Two-EB103-Infusions-in-STARLIGHT-1-Dose-Expansion-Phase/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bf736a2f0be7c28d",
-      "titleEn": "KBRA Assigns Preliminary Ratings to Sequoia Mortgage Trust 2026-S1 (SEMT 2026-S1)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261015635350/en/KBRA-Assigns-Preliminary-Ratings-to-Sequoia-Mortgage-Trust-2026-S1-SEMT-2026-S1/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c1769b745ef73f0c",
-      "titleEn": "Hudson Pacific Sells North San Jose Office Property",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261015382268/en/%C2%A0Hudson-Pacific-Sells-North-San-Jose-Office-Property/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d8b7691f7034c51c",
-      "titleEn": "NerdWallet Announces Conference Call to Review 2026 Third Quarter Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261015637413/en/NerdWallet-Announces-Conference-Call-to-Review-2026-Third-Quarter-Financial-Results/",
       "published": null
     }
   ]
