@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-17T12:24:08.562399Z",
+  "generatedAt": "2026-10-17T15:46:04.752177Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:ff0d3a6eca5c51a7",
@@ -82,15 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/10/16/why-is-moderna-down-10-on-friday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2a384b75c2b83af7",
-      "titleEn": "Apple, Meta Team Up to Put Big AI on Desktops",
-      "summaryEn": "Meta and Apple, rivals for a decade over user data, worked together so Meta’s largest open model can run on two Mac Studio desktops instead of in a data center. The deal gives Meta more users for its model and gives Apple a privacy-friendly AI story that sells its most expensive desktop. Companies from Harvey to PNC Financial Services are already looking to cut AI bills and keep data in-house, the market both companies are now chasing.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apple-meta-team-up-to-put-big-ai-on-desktops/",
       "published": null
     },
     {
