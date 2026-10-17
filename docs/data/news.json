@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-17T00:01:38.904445Z",
+  "generatedAt": "2026-10-17T04:18:34.048780Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:ff0d3a6eca5c51a7",
@@ -94,48 +94,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:2478463c8d710f84",
-      "titleEn": "Prediction Markets are betting on a Tesla, SpaceX merger in 2027",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/10/16/prediction-markets-are-betting-on-a-tesla-spacex-merger-in-2027/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9c665407f7480d27",
-      "titleEn": "MongoDB Investigation Continued: Kahn Swick &amp; Foti, LLC Continues to Investigate the Officers and Directors of MongoDB, Inc. - MDB",
+      "id": "stockanalysis:c7e59686c9ef4ac5",
+      "titleEn": "Align Technology Wins Significant Patent Infringement Case Against Angelalign at Unified Patent Court",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261016244871/en/MongoDB-Investigation-Continued-Kahn-Swick-Foti-LLC-Continues-to-Investigate-the-Officers-and-Directors-of-MongoDB-Inc.---MDB/",
+      "link": "https://www.businesswire.com/news/home/20261016990429/en/Align-Technology-Wins-Significant-Patent-Infringement-Case-Against-Angelalign-at-Unified-Patent-Court/",
       "published": null
     },
     {
-      "id": "stockanalysis:6de35454bca4ce4c",
-      "titleEn": "KBRA Assigns Preliminary Ratings to Angel Oak Mortgage Trust 2026-6 (AOMT 2026-6)",
+      "id": "stockanalysis:17edaf59b05078ee",
+      "titleEn": "Robbins LLP Urges Investors Who Lost Money Investing in Qfin Holdings, Inc. to Contact the Firm for Information About Their Rights Against QFIN",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261016463873/en/KBRA-Assigns-Preliminary-Ratings-to-Angel-Oak-Mortgage-Trust-2026-6-AOMT-2026-6/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d5c1928ed921516b",
-      "titleEn": "Alignment Healthcare Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of Alignment Healthcare, Inc. - ALHC",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261016627667/en/Alignment-Healthcare-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-Alignment-Healthcare-Inc.---ALHC/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0c21af4a6c2db493",
-      "titleEn": "UL Solutions Warns of GFCI and Duplex Wall Outlets Modified by Third Parties to Include Built-in Cameras",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261016283811/en/UL-Solutions-Warns-of-GFCI-and-Duplex-Wall-Outlets-Modified-by-Third-Parties-to-Include-Built-in-Cameras/",
+      "link": "https://www.businesswire.com/news/home/20261016963886/en/Robbins-LLP-Urges-Investors-Who-Lost-Money-Investing-in-Qfin-Holdings-Inc.-to-Contact-the-Firm-for-Information-About-Their-Rights-Against-QFIN/",
       "published": null
     }
   ]
