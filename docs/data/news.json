@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-17T15:46:04.752177Z",
+  "generatedAt": "2026-10-17T18:01:09.042525Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:ff0d3a6eca5c51a7",
@@ -73,15 +73,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/10/16/micron-stock-continues-slump-analysts-are-saying-its-a-buying-opportunity/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9d3ec3fdd170b5b8",
-      "titleEn": "Why is Moderna down 10% on Friday?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/16/why-is-moderna-down-10-on-friday/",
       "published": null
     },
     {
