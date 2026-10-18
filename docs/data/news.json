@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-10-18T09:12:29.301107Z",
+  "generatedAt": "2026-10-18T13:15:08.775917Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:a14089e5bec7c079",
+      "titleEn": "Anthropic's IPO Valuation cut: is it bad news for AI bulls?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/17/anthropics-ipo-valuation-cut-is-it-bad-news-for-ai-bulls/",
+      "published": null
+    },
     {
       "id": "stockanalysis:ff0d3a6eca5c51a7",
       "titleEn": "Wall Street undecided on gold's near-term trajectory, Main Street flirts with bearish bias after gold hits $4,200/oz ceiling",
@@ -73,6 +82,15 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/10/16/micron-stock-continues-slump-analysts-are-saying-its-a-buying-opportunity/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5bdc9f59ffed2a3b",
+      "titleEn": "Fujifilm Introduces FUJIFILM HX1024 Printbar System",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261018373433/en/Fujifilm-Introduces-FUJIFILM-HX1024-Printbar-System/",
       "published": null
     },
     {
