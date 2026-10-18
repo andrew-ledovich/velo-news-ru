@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T16:37:46.338961Z",
+  "generatedAt": "2026-10-18T18:54:24.193508Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:a14089e5bec7c079",
@@ -64,24 +64,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-10-16/gold-looks-housing-pmi-and-consumer-sentiment-data-direction-next-week",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:28072693c62350b6",
-      "titleEn": "Strategy stock analysis as Bitcoin price rally and ETF inflows loses momentum",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/16/strategy-stock-analysis-as-bitcoin-price-rally-and-etf-inflows-loses-momentum/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2be522f804d19273",
-      "titleEn": "Micron stock continues slump, analysts are saying it's a buying opportunity",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/16/micron-stock-continues-slump-analysts-are-saying-its-a-buying-opportunity/",
       "published": null
     },
     {
