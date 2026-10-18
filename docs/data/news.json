@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T21:09:10.788338Z",
+  "generatedAt": "2026-10-18T23:06:29.526854Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:a14089e5bec7c079",
@@ -58,6 +58,42 @@
       "published": null
     },
     {
+      "id": "stockanalysis:9bcd40d0a39b8183",
+      "titleEn": "ESMO 2026 Presentations Deepen the Evidence Base for Natera's Oncology Portfolio and Leadership in Ultrasensitive MRD Technology",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.businesswire.com/news/home/20261018851261/en/ESMO-2026-Presentations-Deepen-the-Evidence-Base-for-Natera%E2%80%99s-Oncology-Portfolio-and-Leadership-in-Ultrasensitive-MRD-Technology/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9bd7b6b18a043a19",
+      "titleEn": "Incyte to Highlight Key Oncology Data Presentations at the European Society for Medical Oncology (ESMO) Congress 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261018477134/en/Incyte-to-Highlight-Key-Oncology-Data-Presentations-at-the-European-Society-for-Medical-Oncology-ESMO-Congress-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d1fdda68bef0c666",
+      "titleEn": "Veradermics to Hold Conference Call to Discuss Topline Results from Phase 3 ‘304' Clinical Trial of VDPHL01 in Males with Mild-to-Moderate Pattern Hair Loss",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261018527252/en/Veradermics-to-Hold-Conference-Call-to-Discuss-Topline-Results-from-Phase-3-%E2%80%98304%E2%80%99-Clinical-Trial-of-VDPHL01-in-Males-with-Mild-to-Moderate-Pattern-Hair-Loss/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4f7b1aa00272e21a",
+      "titleEn": "Evercore Appoints Nigel Dawn and Naveen Nataraj as Co-Presidents",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261018112796/en/Evercore-Appoints-Nigel-Dawn-and-Naveen-Nataraj-as-Co-Presidents/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:926e876b0df7b849",
       "titleEn": "“Where Are the Numbers?” Doug Bergeron Calls on Ethan Allen to Release First Quarter Results Before November 4 Board Vote",
       "summaryEn": null,
@@ -82,33 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261017150185/en/FOXF-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-Fox-Factory-Holding-Corp.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:db77dcc524f85043",
-      "titleEn": "JNJ Investors with $100,000 in Losses Have Opportunity to Join Johnson &amp; Johnson Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261017518343/en/JNJ-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-Johnson-Johnson-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:179df67cc4c0b1e7",
-      "titleEn": "SNDX Investors with $100,000 in Losses Have Opportunity to Join Syndax Pharmaceuticals, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261017877184/en/SNDX-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-Syndax-Pharmaceuticals-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c9cf9185b73ab70a",
-      "titleEn": "STT Investors with $100,000 in Losses Have Opportunity to Join State Street Corporation Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261017431625/en/STT-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-State-Street-Corporation-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
