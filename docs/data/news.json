@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T00:16:39.973451Z",
+  "generatedAt": "2026-10-18T04:49:50.559989Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:ff0d3a6eca5c51a7",
@@ -76,21 +76,48 @@
       "published": null
     },
     {
+      "id": "stockanalysis:c23aa78a731cd9f6",
+      "titleEn": "FOXF Investors with $100,000 in Losses Have Opportunity to Join Fox Factory Holding Corp. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261017150185/en/FOXF-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-Fox-Factory-Holding-Corp.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:db77dcc524f85043",
+      "titleEn": "JNJ Investors with $100,000 in Losses Have Opportunity to Join Johnson &amp; Johnson Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261017518343/en/JNJ-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-Johnson-Johnson-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:179df67cc4c0b1e7",
+      "titleEn": "SNDX Investors with $100,000 in Losses Have Opportunity to Join Syndax Pharmaceuticals, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261017877184/en/SNDX-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-Syndax-Pharmaceuticals-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c9cf9185b73ab70a",
+      "titleEn": "STT Investors with $100,000 in Losses Have Opportunity to Join State Street Corporation Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261017431625/en/STT-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-State-Street-Corporation-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:c7e59686c9ef4ac5",
       "titleEn": "Align Technology Wins Significant Patent Infringement Case Against Angelalign at Unified Patent Court",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261016990429/en/Align-Technology-Wins-Significant-Patent-Infringement-Case-Against-Angelalign-at-Unified-Patent-Court/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:17edaf59b05078ee",
-      "titleEn": "Robbins LLP Urges Investors Who Lost Money Investing in Qfin Holdings, Inc. to Contact the Firm for Information About Their Rights Against QFIN",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261016963886/en/Robbins-LLP-Urges-Investors-Who-Lost-Money-Investing-in-Qfin-Holdings-Inc.-to-Contact-the-Firm-for-Information-About-Their-Rights-Against-QFIN/",
       "published": null
     }
   ]
