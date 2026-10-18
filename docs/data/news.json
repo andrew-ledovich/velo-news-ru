@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T18:54:24.193508Z",
+  "generatedAt": "2026-10-18T21:09:10.788338Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:a14089e5bec7c079",
@@ -58,12 +58,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:3f694e5e4a3dcd61",
-      "titleEn": "Gold looks to housing, PMI and consumer sentiment data for direction next week",
-      "summaryEn": "(Kitco News) – Gold heads into the coming week with investors focused on the health of the U.S. economy and the Federal Reserve&#x27;s interest-rate outlook, as housing, employment and business activity data could drive volatility across precious metals markets. Bullion prices recovered some ground late this week after coming under pressure from stronger-than-expected U.S. inflation data, elevated Treasury yields and a firmer dollar. Gold rebounded above $4,150 an ounce Thursday and remained near that level Friday, while silver traded around $57 an ounce. Markets continue to favor a pause at the Fed&#x27;s October meeting, although persistent inflation pressures have kept expectations for another rate hike before year-end elevated. The coming week&#x27;s economic calendar is relatively light, but housing data, weekly jobless claims and Friday&#x27;s PMI and consumer sentiment reports will offer important signals on economic resilience and inflation pressures ahead of the Federal Reserve&#x27;s October 27-28 monetary policy meeting.",
+      "id": "stockanalysis:926e876b0df7b849",
+      "titleEn": "“Where Are the Numbers?” Doug Bergeron Calls on Ethan Allen to Release First Quarter Results Before November 4 Board Vote",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-16/gold-looks-housing-pmi-and-consumer-sentiment-data-direction-next-week",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261018472259/en/%E2%80%9CWhere-Are-the-Numbers%E2%80%9D-Doug-Bergeron-Calls-on-Ethan-Allen-to-Release-First-Quarter-Results-Before-November-4-Board-Vote/",
       "published": null
     },
     {
@@ -109,15 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261017431625/en/STT-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-State-Street-Corporation-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c7e59686c9ef4ac5",
-      "titleEn": "Align Technology Wins Significant Patent Infringement Case Against Angelalign at Unified Patent Court",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261016990429/en/Align-Technology-Wins-Significant-Patent-Infringement-Case-Against-Angelalign-at-Unified-Patent-Court/",
       "published": null
     }
   ]
