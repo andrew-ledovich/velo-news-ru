@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-19T01:10:41.006548Z",
+  "generatedAt": "2026-10-19T06:08:52.393082Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 8,
   "items": [
     {
       "id": "stockanalysis:a14089e5bec7c079",
@@ -40,21 +40,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:9ebd977a32940e66",
-      "titleEn": "Palantir stock reverses after hitting key resistance: is it a good buy?",
+      "id": "stockanalysis:6f68d852d9bf2ffb",
+      "titleEn": "Infleqtion Convenes Business Leaders in London to Chart Quantum Commercial Value",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/16/palantir-stock-reverses-after-hitting-key-resistance-is-it-a-good-buy/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fde36c6abee6648a",
-      "titleEn": "Visa Direct Accelerates Cross-Border Money Movement With Stablecoin Prefunding",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The first enabler of the new offering is Inyo Global , a Visa Direct processor that is powering it for eligible Visa Direct clients and partners, according to the release. Inyo Global has integrated Visa Direct’s stablecoin-enabled prefunding capability into its platform and is giving the businesses it serves the option to pre-fund cross-border payouts through Visa Direct with USDC in near real time, the release said.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.pymnts.com/news/cross-border-payments/2026/visa-direct-accelerates-cross-border-money-movement-with-stablecoin-prefunding/",
+      "link": "https://www.businesswire.com/news/home/20261018338249/en/Infleqtion-Convenes-Business-Leaders-in-London-to-Chart-Quantum-Commercial-Value/",
       "published": null
     },
     {
@@ -82,42 +73,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.businesswire.com/news/home/20261018851261/en/ESMO-2026-Presentations-Deepen-the-Evidence-Base-for-Natera%E2%80%99s-Oncology-Portfolio-and-Leadership-in-Ultrasensitive-MRD-Technology/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9bd7b6b18a043a19",
-      "titleEn": "Incyte to Highlight Key Oncology Data Presentations at the European Society for Medical Oncology (ESMO) Congress 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261018477134/en/Incyte-to-Highlight-Key-Oncology-Data-Presentations-at-the-European-Society-for-Medical-Oncology-ESMO-Congress-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d1fdda68bef0c666",
-      "titleEn": "Veradermics to Hold Conference Call to Discuss Topline Results from Phase 3 ‘304' Clinical Trial of VDPHL01 in Males with Mild-to-Moderate Pattern Hair Loss",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261018527252/en/Veradermics-to-Hold-Conference-Call-to-Discuss-Topline-Results-from-Phase-3-%E2%80%98304%E2%80%99-Clinical-Trial-of-VDPHL01-in-Males-with-Mild-to-Moderate-Pattern-Hair-Loss/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4f7b1aa00272e21a",
-      "titleEn": "Evercore Appoints Nigel Dawn and Naveen Nataraj as Co-Presidents",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261018112796/en/Evercore-Appoints-Nigel-Dawn-and-Naveen-Nataraj-as-Co-Presidents/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:926e876b0df7b849",
-      "titleEn": "“Where Are the Numbers?” Doug Bergeron Calls on Ethan Allen to Release First Quarter Results Before November 4 Board Vote",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261018472259/en/%E2%80%9CWhere-Are-the-Numbers%E2%80%9D-Doug-Bergeron-Calls-on-Ethan-Allen-to-Release-First-Quarter-Results-Before-November-4-Board-Vote/",
       "published": null
     }
   ]
