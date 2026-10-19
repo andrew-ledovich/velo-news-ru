@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-10-19T19:16:56.354048Z",
+  "generatedAt": "2026-10-19T22:56:56.352502Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:9e03dd23215b8e19",
+      "titleEn": "‘I got out of my bank stocks': Why former Fed insider Chris Whalen is betting on gold",
+      "summaryEn": "(Kitco News) - Christopher Whalen has spent more than four decades picking apart bank balance sheets, starting at the Federal Reserve Bank of New York. So it says something that, at the end of September, he sold every bank stock he owned. “I did a major rebalance at the end of the third quarter. I got out of my bank stocks,” Whalen told Kitco News anchor Jeremy Szafron. “I actually put a couple of short positions down on some consumer lenders because I think credit is going to go up in terms of expenses. And I emphasized precious metals, energy stocks, and also income.” .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-19/i-got-out-my-bank-stocks-why-former-fed-insider-chris-whalen-betting-gold",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f810c062052bd2cf",
+      "titleEn": "‘Short the dollar' and hold gold or Bitcoin as inflation erodes wealth – Ledn's Leeds",
+      "summaryEn": "(Kitco News) – Inflation and jurisdictional risks are serving as powerful examples of the value of alternative assets like gold and Bitcoin , and the ability to borrow against these non-yielding assets could make them even more attractive in the coming years, according to Adam Leeds, CEO of digital-asset-backed lending platform Ledn – which is launching Tether Gold-backed loans in the coming weeks. Leeds said that since COVID, not only seasoned investors but also average people have been enrolled in a crash course on the impacts of inflation on prices and on wealth preservation. “Everyone, including those who are far from being sophisticated investors, is talking about inflation and how to combat it,” he said. The investing community is obviously a section of that. But it&#x27;s interesting to see how important that is for everyday people as well.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-19/short-dollar-and-hold-gold-or-bitcoin-inflation-erodes-wealth-ledns-leeds",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:44104840d7bf8845",
+      "titleEn": "Medical Properties Trust has slumped: is it a good dividend stock to buy?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/19/medical-properties-trust-has-slumped-is-it-a-good-dividend-stock-to-buy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8c8cab7f9de5c5e4",
+      "titleEn": "MAGS ETF inflows climb as investors pile into Magnificent Seven ahead of earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/10/19/mags-etf-inflows-climb-as-investors-pile-into-magnificent-seven-ahead-of-earnings/",
+      "published": null
+    },
     {
       "id": "stockanalysis:644da957ce026173",
       "titleEn": "Micron stock is rebounding today: here's why",
@@ -94,93 +130,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ac884a39be830d60",
-      "titleEn": "Strategy stock (MSTR) gains as company adds 267 BTC, raises buyback programme to $3B",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/19/strategy-stock-mstr-gains-as-company-adds-267-btc-raises-buyback-programme-to-3b/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:80a86f4ff3a866bf",
-      "titleEn": "Lam Research stock: Wyckoff points to more downside despite revenue growth",
+      "id": "stockanalysis:ec27c34d4c614810",
+      "titleEn": "Cemex Supplies Concrete for Major Los Angeles Metro Expansion",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/19/lam-research-stock-wyckoff-points-to-more-downside-despite-revenue-growth/",
+      "link": "https://www.businesswire.com/news/home/20261019658403/en/Cemex-Supplies-Concrete-for-Major-Los-Angeles-Metro-Expansion/",
       "published": null
     },
     {
-      "id": "stockanalysis:b89f5b7d02f02654",
-      "titleEn": "Micron stock is stuck in a bear market: 4 reasons this crash is a gift",
+      "id": "stockanalysis:b16398ec027acf5f",
+      "titleEn": "INVESTIGATION NOTICE: Levin Law, P.A. Investigates Potential Claims Involving Charter Communications (NASDAQ: CHTR) Following Liberty Broadband Merger",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/19/micron-stock-is-stuck-in-a-bear-market-4-reasons-this-crash-is-a-gift/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:28c01a3d3ffa932a",
-      "titleEn": "Circle stock at risk as USDC supply, Arc TVL, and US bond yields fall",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/19/circle-stock-at-risk-as-usdc-supply-arc-tvl-and-us-bond-yields-fall/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a7084f683392d958",
-      "titleEn": "Gold and silver prices pressured by hot inflation, but gold ETF holdings buck trend to hit 2026 highs – Heraeus",
-      "summaryEn": "(Kitco News) – Gold and silver both came under renewed pressure following last week’s elevated CPI and PPI prints. Still, gold ETF demand has bucked the earlier trend to rise to annual highs despite the oil and rate headwinds. At the same time, India’s evolving import tax rules continue to impact precious metals demand, according to precious metals analysts at Heraeus. In their latest update, the analysts noted that gold prices held critical support levels last week amidst a challenging macro backdrop. “Gold briefly wicked below $4,100/oz following the September US CPI release, as the initially hawkish market reaction pushed Treasury yields and the dollar higher and increased expectations for another Fed hike,” they noted. “That reaction has since partly reversed, with the implied probability of a 25 bp increase at the 28 October meeting falling and gold recovering the support at $4,100/oz as yields and the dollar have eased.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-19/gold-and-silver-prices-pressured-hot-inflation-gold-etf-holdings-buck-trend",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:188f9b2d5c110361",
-      "titleEn": "Why are Intel and AMD stocks rising on Monday?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/19/why-are-intel-and-amd-stocks-rising-on-monday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fbe468849931ec0e",
-      "titleEn": "Why CoreWeave shares are up 2% on Monday?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/19/why-coreweave-shares-are-up-2-on-monday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f8fea30bb7439ed3",
-      "titleEn": "Amazon stock rises as this analyst sees 40% upside",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/19/amazon-stock-rises-as-this-analyst-sees-40-upside/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:eab87d2071767573",
-      "titleEn": "Broadcom stock is rebounding: is this a dead cat bounce as a death cross forms?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/19/broadcom-stock-is-rebounding-is-this-a-dead-cat-bounce-as-a-death-cross-forms/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e2505de5c731b422",
-      "titleEn": "Musk says he'll give some SpaceX shares to public after Anthropic announces 'public benefit' fund",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Billionaire Elon Musk on Monday pledged one share of his company SpaceX to \"every kid in America.\" The offer arrived a day after artificial intelligence company Anthropic announced in a social media post that it will commit 5% of its shares to a new \"public benefit\" fund.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-10-musk-hell-spacex-anthropic-benefit.html",
+      "link": "https://www.businesswire.com/news/home/20261016426261/en/INVESTIGATION-NOTICE-Levin-Law-P.A.-Investigates-Potential-Claims-Involving-Charter-Communications-NASDAQ-CHTR-Following-Liberty-Broadband-Merger/",
       "published": null
     }
   ]
