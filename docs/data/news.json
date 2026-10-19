@@ -1,69 +1,186 @@
 {
-  "generatedAt": "2026-10-19T13:02:25.023694Z",
+  "generatedAt": "2026-10-19T19:16:56.354048Z",
   "sourceCount": 1,
-  "count": 7,
+  "count": 20,
   "items": [
     {
-      "id": "stockanalysis:6ded897ad8ed6ffd",
-      "titleEn": "Netflix earnings preview: Q4 outlook, ad growth, margins in focus as stock falls 23%",
+      "id": "stockanalysis:644da957ce026173",
+      "titleEn": "Micron stock is rebounding today: here's why",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/19/netflix-earnings-preview-q4-outlook-ad-growth-margins-in-focus-as-stock-falls-23/",
+      "link": "https://invezz.com/news/2026/10/19/micron-stock-is-rebounding-today-heres-why/",
       "published": null
     },
     {
-      "id": "stockanalysis:ba52a2f3632e8af0",
-      "titleEn": "Micron, SanDisk stocks jump after 15% and 18% crashes: what sparked the comeback?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/19/micron-sandisk-stocks-jump-after-15-and-18-crashes-what-sparked-the-comeback/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:aa3fe8f89f26c2f0",
-      "titleEn": "Nvidia stock loses $365 billion in a week: could the AI boom be running out of money?",
+      "id": "stockanalysis:542d18e56529fc28",
+      "titleEn": "Two stocks poised to benefit from rotation out of AI",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/19/nvidia-stock-loses-365-billion-in-a-week-could-the-ai-boom-be-running-out-of-money/",
+      "link": "https://invezz.com/news/2026/10/19/two-stocks-poised-to-benefit-from-rotation-out-of-ai/",
       "published": null
     },
     {
-      "id": "stockanalysis:9b9b89fc1e7c9c70",
-      "titleEn": "Top 3 CAC 40 stocks to watch this week: Hermes, Essilor, and L'Oreal",
+      "id": "stockanalysis:59fc0387ecad50d3",
+      "titleEn": "Palantir stock flashes a rare technical pattern that points to more upside",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/19/top-3-cac-40-stocks-to-watch-this-week-hermes-essilor-and-loreal/",
+      "link": "https://invezz.com/news/2026/10/19/palantir-stock-flashes-a-rare-technical-pattern-that-points-to-more-upside/",
       "published": null
     },
     {
-      "id": "stockanalysis:212923e6cff24dac",
-      "titleEn": "Elon Musk's SpaceX dominates this battered ETF: can earnings finally save it?",
+      "id": "stockanalysis:770643146c600a74",
+      "titleEn": "Apple stock in red: why this analyst thinks iPhone demand will weaken",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/19/apple-stock-in-red-why-this-analyst-thinks-iphone-18-demand-will-weaken/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e6d57bcace16dacf",
+      "titleEn": "Gold's path to $6,000 and silver's return above $90 depend on renewed investor confidence – Metals Focus",
+      "summaryEn": "(Kitco News) - Gold prices continue to struggle as persistent inflation and rising interest rates drive investors toward higher-yielding assets; however, one precious metals analyst says the market is consolidating rather than entering a bear market, with the structural drivers that supported last year&#x27;s historic rally remaining firmly intact. In an interview with Kitco News, Matthew Piggott, Director of Gold and Silver at Metals Focus, said that although investors have become increasingly cautious, institutional and central bank buying continues to support gold above $4,000 an ounce. His comments come as Metals Focus forecasts gold prices will average $5,330 an ounce in 2027, a 16% increase from this year&#x27;s projected average of $4,600. The British research firm expects gold to average $5,600 in the fourth quarter of next year, with prices potentially approaching $6,000.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-19/golds-path-6000-and-silvers-return-above-90-depend-renewed-investor",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:992a1f3ac828f9bc",
+      "titleEn": "IBM stock earnings preview: options market prices a move to $215 or $240",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/19/ibm-stock-earnings-preview-options-market-prices-a-move-to-215-or-240/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3f5cbbc8ee7550e5",
+      "titleEn": "Disc Medicine stock soars: take profit or buy into strength?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/19/disc-medicine-stock-soars-take-profit-or-buy-into-strength/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c2c5626d7caf4632",
+      "titleEn": "SpaceX stock in focus as earnings loom: will it rebound or fall further?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/19/spacex-stock-in-focus-as-earnings-loom-will-it-rebound-or-fall-further/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8db1e129704e7481",
+      "titleEn": "Why Alphabet is up 1.7% on Monday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/19/why-alphabet-is-up-1-7-on-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:be1433ec89e7a943",
+      "titleEn": "Cleveland-Cliffs stock: is there any further upside left?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/19/cleveland-cliffs-stock-is-there-any-further-upside-left/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ac884a39be830d60",
+      "titleEn": "Strategy stock (MSTR) gains as company adds 267 BTC, raises buyback programme to $3B",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/19/elon-musks-spacex-dominates-this-battered-etf-can-earnings-finally-save-it/",
+      "link": "https://invezz.com/news/2026/10/19/strategy-stock-mstr-gains-as-company-adds-267-btc-raises-buyback-programme-to-3b/",
       "published": null
     },
     {
-      "id": "stockanalysis:8d44712863cec9d9",
-      "titleEn": "Anthropic pledges 5% of its shares before IPO: who really gets the money?",
+      "id": "stockanalysis:80a86f4ff3a866bf",
+      "titleEn": "Lam Research stock: Wyckoff points to more downside despite revenue growth",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/19/anthropic-pledges-5-of-its-shares-before-ipo-who-really-gets-the-money/",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/19/lam-research-stock-wyckoff-points-to-more-downside-despite-revenue-growth/",
       "published": null
     },
     {
-      "id": "stockanalysis:6a683a3bab839fb5",
-      "titleEn": "Kioxia stock at risk of falling to ¥10k as AI Bubble jitters escalate",
+      "id": "stockanalysis:b89f5b7d02f02654",
+      "titleEn": "Micron stock is stuck in a bear market: 4 reasons this crash is a gift",
       "summaryEn": null,
       "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/19/micron-stock-is-stuck-in-a-bear-market-4-reasons-this-crash-is-a-gift/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:28c01a3d3ffa932a",
+      "titleEn": "Circle stock at risk as USDC supply, Arc TVL, and US bond yields fall",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/10/19/circle-stock-at-risk-as-usdc-supply-arc-tvl-and-us-bond-yields-fall/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a7084f683392d958",
+      "titleEn": "Gold and silver prices pressured by hot inflation, but gold ETF holdings buck trend to hit 2026 highs – Heraeus",
+      "summaryEn": "(Kitco News) – Gold and silver both came under renewed pressure following last week’s elevated CPI and PPI prints. Still, gold ETF demand has bucked the earlier trend to rise to annual highs despite the oil and rate headwinds. At the same time, India’s evolving import tax rules continue to impact precious metals demand, according to precious metals analysts at Heraeus. In their latest update, the analysts noted that gold prices held critical support levels last week amidst a challenging macro backdrop. “Gold briefly wicked below $4,100/oz following the September US CPI release, as the initially hawkish market reaction pushed Treasury yields and the dollar higher and increased expectations for another Fed hike,” they noted. “That reaction has since partly reversed, with the implied probability of a 25 bp increase at the 28 October meeting falling and gold recovering the support at $4,100/oz as yields and the dollar have eased.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-19/gold-and-silver-prices-pressured-hot-inflation-gold-etf-holdings-buck-trend",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:188f9b2d5c110361",
+      "titleEn": "Why are Intel and AMD stocks rising on Monday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/19/why-are-intel-and-amd-stocks-rising-on-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fbe468849931ec0e",
+      "titleEn": "Why CoreWeave shares are up 2% on Monday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/19/why-coreweave-shares-are-up-2-on-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f8fea30bb7439ed3",
+      "titleEn": "Amazon stock rises as this analyst sees 40% upside",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/19/amazon-stock-rises-as-this-analyst-sees-40-upside/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:eab87d2071767573",
+      "titleEn": "Broadcom stock is rebounding: is this a dead cat bounce as a death cross forms?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/19/broadcom-stock-is-rebounding-is-this-a-dead-cat-bounce-as-a-death-cross-forms/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e2505de5c731b422",
+      "titleEn": "Musk says he'll give some SpaceX shares to public after Anthropic announces 'public benefit' fund",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Billionaire Elon Musk on Monday pledged one share of his company SpaceX to \"every kid in America.\" The offer arrived a day after artificial intelligence company Anthropic announced in a social media post that it will commit 5% of its shares to a new \"public benefit\" fund.",
+      "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/19/kioxia-stock-at-risk-of-falling-to-%c2%a510k-as-ai-bubble-jitters-escalate/",
+      "link": "https://techxplore.com/news/2026-10-musk-hell-spacex-anthropic-benefit.html",
       "published": null
     }
   ]
