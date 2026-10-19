@@ -1,78 +1,69 @@
 {
-  "generatedAt": "2026-10-19T06:08:52.393082Z",
+  "generatedAt": "2026-10-19T13:02:25.023694Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 7,
   "items": [
     {
-      "id": "stockanalysis:a14089e5bec7c079",
-      "titleEn": "Anthropic's IPO Valuation cut: is it bad news for AI bulls?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/17/anthropics-ipo-valuation-cut-is-it-bad-news-for-ai-bulls/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ff0d3a6eca5c51a7",
-      "titleEn": "Wall Street undecided on gold's near-term trajectory, Main Street flirts with bearish bias after gold hits $4,200/oz ceiling",
-      "summaryEn": "(Kitco News) – Gold prices staged a late-week recovery after coming under heavy pressure from hotter-than-expected U.S. inflation data, rising Treasury yields, and a firmer dollar, as falling bond yields and reduced expectations for an October Federal Reserve rate hike helped the precious metal recover much of its losses. Spot gold kicked off the week trading at $4,193.59 per ounce on Sunday evening, and the yellow metal briefly climbed above $4,200 as traders continued to monitor the U.S.-Iran conflict and inflation risks from elevated energy prices. The advance quickly faded, however, with gold setting its weekly high at $4,216.91 per ounce on Monday before a stronger dollar and rising Treasury yields pushed prices lower through Tuesday’s trading session. The selling accelerated Wednesday after September CPI rose 3.7% annually, exceeding expectations and reinforcing concerns that energy-driven inflation could force the Fed to tighten monetary policy again. Gold broke below $4,100 and set its weekly low at $4,073.35 per ounce at noon on Wednesday, as traders increased bets on an October rate hike and the dollar strengthened.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-16/wall-street-undecided-golds-near-term-trajectory-main-street-flirts-bearish",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1428a779b93fc717",
-      "titleEn": "DJT stock flashes a warning sign as Trump Media risks build",
+      "id": "stockanalysis:6ded897ad8ed6ffd",
+      "titleEn": "Netflix earnings preview: Q4 outlook, ad growth, margins in focus as stock falls 23%",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/16/djt-stock-flashes-a-warning-sign-as-trump-media-risks-build/",
+      "link": "https://invezz.com/news/2026/10/19/netflix-earnings-preview-q4-outlook-ad-growth-margins-in-focus-as-stock-falls-23/",
       "published": null
     },
     {
-      "id": "stockanalysis:01ff0a40cd9a35b9",
-      "titleEn": "Gold, silver diverge as Fed-pause expectations collide with rising crude prices - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were near steady and spot silver prices were lower in late U.S. trading Friday, as sharply higher crude oil prices and a modest rebound in Treasury yields offset support from a weaker U.S. dollar and renewed safe-haven demand. Gold failed to sustain its earlier advance toward $4,200 as the technology-led equity selloff intensified and rising energy prices kept inflation concerns in focus. At the time of writing, spot gold was trading near $4,167.90 an ounce, down $1.90, or 0.05%, while spot silver was trading near $56.850, down $0.450, or 0.78%. North American equities closed sharply lower, with major technology stocks extending their losses amid concerns about debt-financed artificial intelligence investment and elevated borrowing costs. The S&P 500 fell 84.62 points, or 1.1%, to 7,659.44. The Dow Jones Industrial Average declined 175.28 points, or 0.3%, to 52,002.41. The Nasdaq Composite dropped 572.99 points, or 2.1%, to 26,140.03, while the Russell 2000 lost 45.90 points, or 1.7%, to 2,721.37. The Nasdaq finished the week down 4.5%, its worst weekly performance since June, as selling in semiconductor, cloud-computing and other AI-related shares accelerated. European equities closed higher, outperforming Wall Street as stronger corporate earnings helped offset concerns about technology valuations and rising financing costs. The Stoxx Europe 600 gained 0.72% to 644.74, completing its strongest weekly advance since late June. Germany&#x27;s DAX climbed 0.95% to 25,622.61, France&#x27;s CAC 40 advanced 0.28% to 7,956.70 and the U.K. FTSE 100 rose 0.38% to 10,881.90. Italy&#x27;s FTSE MIB added 0.93% to 49,857.18. Automobiles, telecommunications and energy stocks led the regional gains, while health care shares underperformed.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-10-16/gold-silver-diverge-fed-pause-expectations-collide-rising-crude-prices",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6f68d852d9bf2ffb",
-      "titleEn": "Infleqtion Convenes Business Leaders in London to Chart Quantum Commercial Value",
+      "id": "stockanalysis:ba52a2f3632e8af0",
+      "titleEn": "Micron, SanDisk stocks jump after 15% and 18% crashes: what sparked the comeback?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261018338249/en/Infleqtion-Convenes-Business-Leaders-in-London-to-Chart-Quantum-Commercial-Value/",
+      "link": "https://invezz.com/news/2026/10/19/micron-sandisk-stocks-jump-after-15-and-18-crashes-what-sparked-the-comeback/",
       "published": null
     },
     {
-      "id": "stockanalysis:e041f61e50036581",
-      "titleEn": "OpenWorld (NASDAQ: OPNW) Signs Definitive Merger Agreement to Acquire Blocksight as the Agentic Foundation for Its Up to $1 Billion Tokenized Solar and AI Computing Program with Meridian and Up to $130 Million IP-Backed Transaction with BeyondAI",
+      "id": "stockanalysis:aa3fe8f89f26c2f0",
+      "titleEn": "Nvidia stock loses $365 billion in a week: could the AI boom be running out of money?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261018852596/en/OpenWorld-NASDAQ-OPNW-Signs-Definitive-Merger-Agreement-to-Acquire-Blocksight-as-the-Agentic-Foundation-for-Its-Up-to-1-Billion-Tokenized-Solar-and-AI-Computing-Program-with-Meridian-and-Up-to-130-Million-IP-Backed-Transaction-with-BeyondAI/",
+      "link": "https://invezz.com/news/2026/10/19/nvidia-stock-loses-365-billion-in-a-week-could-the-ai-boom-be-running-out-of-money/",
       "published": null
     },
     {
-      "id": "stockanalysis:78d08e1c2e9afe44",
-      "titleEn": "Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: FFR to Hold Listing Ceremony and First Investor Day at the Nasdaq Tower on Oct. 26; Three New Robotics Product Offerings Launched",
+      "id": "stockanalysis:9b9b89fc1e7c9c70",
+      "titleEn": "Top 3 CAC 40 stocks to watch this week: Hermes, Essilor, and L'Oreal",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261018403182/en/Faraday-Future-Founder-and-Global-CEO-YT-Jia-Shares-Weekly-Investor-Update-FFR-to-Hold-Listing-Ceremony-and-First-Investor-Day-at-the-Nasdaq-Tower-on-Oct.-26-Three-New-Robotics-Product-Offerings-Launched/",
+      "link": "https://invezz.com/news/2026/10/19/top-3-cac-40-stocks-to-watch-this-week-hermes-essilor-and-loreal/",
       "published": null
     },
     {
-      "id": "stockanalysis:9bcd40d0a39b8183",
-      "titleEn": "ESMO 2026 Presentations Deepen the Evidence Base for Natera's Oncology Portfolio and Leadership in Ultrasensitive MRD Technology",
+      "id": "stockanalysis:212923e6cff24dac",
+      "titleEn": "Elon Musk's SpaceX dominates this battered ETF: can earnings finally save it?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20261018851261/en/ESMO-2026-Presentations-Deepen-the-Evidence-Base-for-Natera%E2%80%99s-Oncology-Portfolio-and-Leadership-in-Ultrasensitive-MRD-Technology/",
+      "link": "https://invezz.com/news/2026/10/19/elon-musks-spacex-dominates-this-battered-etf-can-earnings-finally-save-it/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8d44712863cec9d9",
+      "titleEn": "Anthropic pledges 5% of its shares before IPO: who really gets the money?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/19/anthropic-pledges-5-of-its-shares-before-ipo-who-really-gets-the-money/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6a683a3bab839fb5",
+      "titleEn": "Kioxia stock at risk of falling to ¥10k as AI Bubble jitters escalate",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/19/kioxia-stock-at-risk-of-falling-to-%c2%a510k-as-ai-bubble-jitters-escalate/",
       "published": null
     }
   ]
