@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T23:06:29.526854Z",
+  "generatedAt": "2026-10-19T01:10:41.006548Z",
   "sourceCount": 1,
   "count": 13,
   "items": [
@@ -58,6 +58,24 @@
       "published": null
     },
     {
+      "id": "stockanalysis:e041f61e50036581",
+      "titleEn": "OpenWorld (NASDAQ: OPNW) Signs Definitive Merger Agreement to Acquire Blocksight as the Agentic Foundation for Its Up to $1 Billion Tokenized Solar and AI Computing Program with Meridian and Up to $130 Million IP-Backed Transaction with BeyondAI",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261018852596/en/OpenWorld-NASDAQ-OPNW-Signs-Definitive-Merger-Agreement-to-Acquire-Blocksight-as-the-Agentic-Foundation-for-Its-Up-to-1-Billion-Tokenized-Solar-and-AI-Computing-Program-with-Meridian-and-Up-to-130-Million-IP-Backed-Transaction-with-BeyondAI/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:78d08e1c2e9afe44",
+      "titleEn": "Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: FFR to Hold Listing Ceremony and First Investor Day at the Nasdaq Tower on Oct. 26; Three New Robotics Product Offerings Launched",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261018403182/en/Faraday-Future-Founder-and-Global-CEO-YT-Jia-Shares-Weekly-Investor-Update-FFR-to-Hold-Listing-Ceremony-and-First-Investor-Day-at-the-Nasdaq-Tower-on-Oct.-26-Three-New-Robotics-Product-Offerings-Launched/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:9bcd40d0a39b8183",
       "titleEn": "ESMO 2026 Presentations Deepen the Evidence Base for Natera's Oncology Portfolio and Leadership in Ultrasensitive MRD Technology",
       "summaryEn": null,
@@ -100,24 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261018472259/en/%E2%80%9CWhere-Are-the-Numbers%E2%80%9D-Doug-Bergeron-Calls-on-Ethan-Allen-to-Release-First-Quarter-Results-Before-November-4-Board-Vote/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5bdc9f59ffed2a3b",
-      "titleEn": "Fujifilm Introduces FUJIFILM HX1024 Printbar System",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261018373433/en/Fujifilm-Introduces-FUJIFILM-HX1024-Printbar-System/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c23aa78a731cd9f6",
-      "titleEn": "FOXF Investors with $100,000 in Losses Have Opportunity to Join Fox Factory Holding Corp. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261017150185/en/FOXF-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-Fox-Factory-Holding-Corp.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
