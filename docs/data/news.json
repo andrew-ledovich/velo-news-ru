@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-10-20T01:26:26.628223Z",
+  "generatedAt": "2026-10-20T06:14:06.789059Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:5a58d442684fb29e",
+      "titleEn": "Here's why KOSPI and Nikkei 225 are falling sharply on October 20",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/20/heres-why-kospi-and-nikkei-225-are-falling-sharply-on-october-20/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d172c4ebc3c2e84d",
+      "titleEn": "Samsung, SK Hynix stocks fall as US chip shares rally: why Korea is still selling?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/20/samsung-sk-hynix-stocks-fall-as-us-chip-shares-rally-why-korea-is-still-selling/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:540b508cedb29083",
+      "titleEn": "Why OpenAI is racing to raise $30 billion before Anthropic IPO",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/20/why-openai-is-racing-to-raise-30-billion-before-anthropic-ipo/",
+      "published": null
+    },
     {
       "id": "stockanalysis:444e85f9a22d9d76",
       "titleEn": "Gold falls as dollar, Treasury yields rise; silver holds modest gains - Kitco PM Report",
@@ -67,39 +94,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:59fc0387ecad50d3",
-      "titleEn": "Palantir stock flashes a rare technical pattern that points to more upside",
+      "id": "stockanalysis:f6f639c36338afee",
+      "titleEn": "Innate Pharma Announces Conference Call for Third Quarter 2026 Business and Financial Update",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/19/palantir-stock-flashes-a-rare-technical-pattern-that-points-to-more-upside/",
+      "link": "https://www.businesswire.com/news/home/20261019551853/en/Innate-Pharma-Announces-Conference-Call-for-Third-Quarter-2026-Business-and-Financial-Update/",
       "published": null
     },
     {
-      "id": "stockanalysis:770643146c600a74",
-      "titleEn": "Apple stock in red: why this analyst thinks iPhone demand will weaken",
+      "id": "stockanalysis:d9b6814601463ce6",
+      "titleEn": "e.l.f. Cosmetics Welcomes Kuromi™ to Glow Up! for Her First-Ever Roblox Collaboration Outside Sanrio®'s Universe",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/19/apple-stock-in-red-why-this-analyst-thinks-iphone-18-demand-will-weaken/",
+      "link": "https://www.businesswire.com/news/home/20261019714343/en/e.l.f.-Cosmetics-Welcomes-Kuromi%E2%84%A2-to-Glow-Up%21-for-Her-First-Ever-Roblox-Collaboration-Outside-Sanrio%C2%AE%E2%80%99s-Universe/",
       "published": null
     },
     {
-      "id": "stockanalysis:e6d57bcace16dacf",
-      "titleEn": "Gold's path to $6,000 and silver's return above $90 depend on renewed investor confidence – Metals Focus",
-      "summaryEn": "(Kitco News) - Gold prices continue to struggle as persistent inflation and rising interest rates drive investors toward higher-yielding assets; however, one precious metals analyst says the market is consolidating rather than entering a bear market, with the structural drivers that supported last year&#x27;s historic rally remaining firmly intact. In an interview with Kitco News, Matthew Piggott, Director of Gold and Silver at Metals Focus, said that although investors have become increasingly cautious, institutional and central bank buying continues to support gold above $4,000 an ounce. His comments come as Metals Focus forecasts gold prices will average $5,330 an ounce in 2027, a 16% increase from this year&#x27;s projected average of $4,600. The British research firm expects gold to average $5,600 in the fourth quarter of next year, with prices potentially approaching $6,000.",
+      "id": "stockanalysis:6f3a182535d2ca65",
+      "titleEn": "Workato's Singapore AI Lab Marks One Year of Homegrown Talent Powering Global Innovation",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-19/golds-path-6000-and-silvers-return-above-90-depend-renewed-investor",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261019424284/en/Workato%E2%80%99s-Singapore-AI-Lab-Marks-One-Year-of-Homegrown-Talent-Powering-Global-Innovation/",
       "published": null
     },
     {
-      "id": "stockanalysis:13df91559da13c53",
-      "titleEn": "Citigroup Declares Common Stock Dividend",
+      "id": "stockanalysis:4f3f14ed2411008e",
+      "titleEn": "Arcos Dorados Holdings Inc. Third Quarter 2026 Results Webcast Date and Time",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261019427606/en/Citigroup-Declares-Common-Stock-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20261019070318/en/Arcos-Dorados-Holdings-Inc.-Third-Quarter-2026-Results-Webcast-Date-and-Time/",
       "published": null
     }
   ]
