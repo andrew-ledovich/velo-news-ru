@@ -1,8 +1,89 @@
 {
-  "generatedAt": "2026-10-20T19:42:29.313244Z",
+  "generatedAt": "2026-10-20T22:39:42.305131Z",
   "sourceCount": 1,
-  "count": 22,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:36b79c31de60a0f7",
+      "titleEn": "Gold pressured despite falling yields as Hormuz diplomacy sparks oil price reversal - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices were lower and spot silver prices were higher in late U.S. trading Tuesday, as weakening housing activity and lower Treasury yields failed to overcome persistent inflation concerns and expectations for additional Federal Reserve tightening. Crude oil prices reversed sharply from their morning highs amid conflicting reports about possible renewed U.S.-Iran negotiations, easing some inflation pressure and helping U.S. equities recover from early losses. At the time of the latest afternoon price reading, spot gold was trading near $4,122.50 an ounce, down $17.40, or 0.42%, while spot silver was trading near $57.800, up $0.825, or 1.45%. Tuesday&#x27;s U.S. economic reports provided further evidence that elevated interest rates are weighing heavily on the housing market. September housing starts declined 5.2% to a seasonally adjusted annual rate of 1.221 million units , below expectations for approximately 1.305 million and down from an upwardly revised 1.288 million in August. Single-family construction fell 4.6% to an annual rate of 859,000 units, while building permits declined 0.2% to 1.400 million units. Housing demand weakened more sharply, with September pending home sales plunging 7.3% from August and 11.3% from a year earlier, reaching their lowest level since the index began in 2001. The declines followed Monday&#x27;s drop in the NAHB housing market index to 29 from 32, reflecting deteriorating buyer traffic, elevated mortgage costs and weakening builder confidence.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-20/gold-pressured-despite-falling-yields-hormuz-diplomacy-sparks-oil-price",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:85ae2032822850dd",
+      "titleEn": "MSTR stock eyes a rebound as JPMorgan delivers bold Bitcoin prediction",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/10/20/mstr-stock-eyes-a-rebound-as-jpmorgan-delivers-bold-bitcoin-prediction/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:212737e0f7fa8e9c",
+      "titleEn": "Options data bullish on Tesla stock despite expected Q3 earnings decline",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/10/20/options-data-bullish-on-tesla-stock-despite-expected-q3-earnings-decline/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:65d420c92e4e5f2f",
+      "titleEn": "SpaceX stock rises as revenue jumps 161% on AI and Starlink growth",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/20/spacex-stock-rises-as-revenue-jumps-161-on-ai-and-starlink-growth/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bf40f0f521a1d76b",
+      "titleEn": "Copper supply gap favors projects that can get built - Jeff Pontius",
+      "summaryEn": "(Kitco News) The coming copper supply gap is putting more value on projects that already have infrastructure, clearer permitting paths and a realistic route to production, according to exploration geologist Jeff Pontius. “There is going to be a copper gap here,” Pontius told Kitco Mining’s Digging Deep on Oct. 15. He wants copper projects that are past discovery and already working through their development questions. “I’d like to see advanced projects that have gotten to the point [where] they’ve got the permitting questions out there in front of them, they’ve got solutions for those questions, and they can track their way into production,” he said. “ Copper projects take a long time to get basically defined, permitted and built.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-20/copper-supply-gap-favors-projects-can-get-built-jeff-pontius",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:824ef2501c5fd48d",
+      "titleEn": "Netflix stock falls 4% as slowing revenue growth raises investor concerns",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/20/netflix-stock-falls-4-as-slowing-revenue-growth-raises-investor-concerns/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1aeb264c602b617d",
+      "titleEn": "SoFi stock lands at a crucial support as earnings loom: will it drop further?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/20/sofi-stock-lands-at-a-crucial-support-as-earnings-loom-will-it-drop-further/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:771a613732faad5d",
+      "titleEn": "Salesforce Buying Customer Engagement Firm Braze for $5.6 Billion",
+      "summaryEn": "Salesforce says it will pay $5.6 billion to acquire customer engagement platform Braze . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “Every interaction is an opportunity to wow your customers,” Patrick Stokes , president of applications and marketing at Salesforce, said in a news release announcing the planned acquisition Tuesday (Oct. 20).",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/acquiring/2026/salesforce-buying-customer-engagement-firm-braze-for-5-6-billion/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:22be5431315a3f7b",
+      "titleEn": "Hims &amp; Hers stock rises 5% as company launches men's weight care in Germany",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/20/hims-hers-stock-rises-5-as-company-launches-mens-weight-care-in-germany/",
+      "published": null
+    },
     {
       "id": "stockanalysis:9792ead9bbb4633f",
       "titleEn": "Google Cloud outage hits UK banks",
@@ -13,192 +94,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:a53d36a4cdea14f3",
-      "titleEn": "Oracle stock rises nearly 2% today: here's why",
+      "id": "stockanalysis:6f1f47cfc406efdc",
+      "titleEn": "Yum! Brands Announces Q3 2026 Earnings and Conference Call Details",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/oracle-stock-rises-nearly-2-today-heres-why/",
+      "link": "https://www.businesswire.com/news/home/20261020882653/en/Yum%21-Brands-Announces-Q3-2026-Earnings-and-Conference-Call-Details/",
       "published": null
     },
     {
-      "id": "stockanalysis:108b9a6bdb0e32d5",
-      "titleEn": "Meta extends losing run to five sessions as Q3 results remain in focus",
+      "id": "stockanalysis:cb297112e36c04e3",
+      "titleEn": "KBRA Publishes Ratings for NewtekOne, Inc.",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/meta-extends-losing-run-to-five-sessions-as-q3-results-remain-in-focus/",
+      "link": "https://www.businesswire.com/news/home/20261020806329/en/KBRA-Publishes-Ratings-for-NewtekOne-Inc./",
       "published": null
     },
     {
-      "id": "stockanalysis:633dc014049320f8",
-      "titleEn": "Tokenized gold could unlock $700 billion new demand - World Gold Council",
-      "summaryEn": "(Kitco News) - Digital gold is emerging as a new pillar of support for the precious metal, and although the market remains in its infancy, the World Gold Council sees an opportunity to unlock hundreds of billions of dollars in new investment demand by transforming the ways that gold is owned, traded and used throughout the global financial system. In a white paper titled Digital Gold: The Case for a Shared Infrastructure, developed with Boston Consulting Group, the World Gold Council (WGC) said the industry is approaching a critical turning point as digital innovation creates new opportunities to expand gold&#x27;s role beyond a traditional store of value. \"Our modelling suggests that if stakeholders address the principal barriers to adoption, they can boost both participation and portfolio allocations, unlocking up to $700 billion in latent demand. Fully realised, this would create a market that broadly matches physically-backed gold ETFs today,\" the report said.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-20/tokenized-gold-could-unlock-700-billion-new-demand-world-gold-council",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7b5a263853efd5e5",
-      "titleEn": "Why is Micron stock rebounding on Tuesday?",
+      "id": "stockanalysis:746cda0b4c0fa2ba",
+      "titleEn": "Vallant Financial, Inc. Reports Earnings for Third Quarter 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/why-is-micron-stock-rebounding-on-tuesday/",
+      "link": "https://www.businesswire.com/news/home/20261020751150/en/Vallant-Financial-Inc.-Reports-Earnings-for-Third-Quarter-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:eab3a09b4cba2fe7",
-      "titleEn": "Is it too late to invest in Braze stock?",
+      "id": "stockanalysis:9390bd69d7b25dff",
+      "titleEn": "Better 2.0 Publishes Weekly Report Card, Week 2: Sales Efficiency and Cost Cutting",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/is-it-too-late-to-invest-in-braze-stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:621e09bbbda5c704",
-      "titleEn": "3M earnings: Cramer cheers turnaround as Amazon deal adds to optimism",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/20/3m-earnings-cramer-cheers-turnaround-as-amazon-deal-adds-to-optimism/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:eba618676760d609",
-      "titleEn": "Bloom Energy stock braces for volatility as Q3 earnings loom: will it rebound?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/bloom-energy-stock-braces-for-volatility-as-q3-earnings-loom-will-it-rebound/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:09f514efecb697ec",
-      "titleEn": "Salesforce stock falls as $5.7B Braze deal raises acquisition concerns",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/salesforce-stock-falls-as-5-7b-braze-deal-raises-acquisition-concerns/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:63139d266e0f84ac",
-      "titleEn": "Figma stock has slumped amid SaaSpocalypse concerns: is it a contrarian buy?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/figma-stock-has-slumped-amid-saaspocalypse-concerns-is-it-a-contrarian-buy/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0831d7d9af8552d5",
-      "titleEn": "Novo Nordisk stock rises as CagriSema delivers 25% weight loss in women",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/novo-nordisk-stock-rises-as-cagrisema-delivers-25-weight-loss-in-women/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5da4834deb7b0506",
-      "titleEn": "CIBC slashes gold price forecasts but sees recovery to $5,200 in 2027 as central bank demand offsets Fed headwinds",
-      "summaryEn": "(Kitco News) - Gold prices remain stuck in neutral, clinging to support around $4,100 an ounce as inflation pressures drive bond yields and the U.S. dollar higher; however, one Canadian bank remains bullish on the precious metal over the longer term, even as it significantly lowers its price forecasts through the end of the decade. In its latest precious metals outlook, commodity analysts at CIBC Capital Markets lowered their fourth-quarter gold price forecast to $4,500 an ounce, down 31% from their $6,500 estimate from the start of the year. The bank now expects gold prices to average $5,200 an ounce in 2027, down from its previous forecast of $6,500, and $5,500 in 2028, compared with its earlier estimate of $6,000. Long-term, the bank expects gold prices to average $4,800 an ounce in 2029, $4,500 in 2030 and $4,200 in 2031. Commodity analysts led by Anita Soni and Cosmos Chiu said that although the monetary policy environment has become increasingly challenging for gold , the fundamental drivers that supported last year&#x27;s historic rally remain firmly in place.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-20/cibc-slashes-gold-price-forecasts-sees-recovery-5200-2027-central-bank",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:385db5c1107622ff",
-      "titleEn": "Gold struggling to catch a bid even as U.S. pending home sales drop 7.3%",
-      "summaryEn": "(Kitco News) - The gold market continues to struggle to attract any safe-haven demand, even as the U.S. housing market continues to lose significant momentum, with the number of Americans planning to buy a home dropping sharply in September. The U.S. pending home sales index dropped 7.3 in last month, the NAR announced on Tuesday. The data was significantly worse than forecasts, as economists expected only a 0.6% decline. The NAR said that weakness in the housing sector is broad-based, with all regions reporting monthly and annual declines.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-20/gold-struggling-catch-bid-even-us-pending-home-sales-drop-73",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e1932a895bff6475",
-      "titleEn": "Seagate, Western Digital stocks gain as this analyst sees 80% upside",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/seagate-western-digital-stocks-gain-as-this-analyst-sees-80-upside/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4c4a0dd256514c69",
-      "titleEn": "Why is RUM Group stock falling? Key reasons behind the sell-off",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/why-is-rum-group-stock-falling-key-reasons-behind-the-sell-off/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3a1616dd2681dc2f",
-      "titleEn": "Why Apple shares are down on Tuesday?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/why-apple-shares-are-down-on-tuesday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f05f272e4f248aab",
-      "titleEn": "Why is GE stock falling despite raising 2026 profit outlook?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/why-is-ge-stock-falling-despite-raising-2026-profit-outlook/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a6073ee9adaaeb98",
-      "titleEn": "Amazon Creates Over 300,000 New U.S. Jobs This Holiday Season with Increased Pay and Expanded Benefits",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261020342097/en/Amazon-Creates-Over-300000-New-U.S.-Jobs-This-Holiday-Season-with-Increased-Pay-and-Expanded-Benefits/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:488222ceb7cee684",
-      "titleEn": "UKG in Claude Makes AI Work Beyond the Chat",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261020356990/en/UKG-in-Claude-Makes-AI-Work-Beyond-the-Chat/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8e1627a4b7eceb88",
-      "titleEn": "FPT and the Niels Bohr Institute Advance Vietnam–Denmark Collaboration in Quantum Talent Development",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261019899787/en/FPT-and-the-Niels-Bohr-Institute-Advance-Vietnam%E2%80%93Denmark-Collaboration-in-Quantum-Talent-Development/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c3f5de6c6147a4d7",
-      "titleEn": "The Marzetti Company to Webcast First Quarter Fiscal Year 2027 Conference Call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261019230230/en/The-Marzetti-Company-to-Webcast-First-Quarter-Fiscal-Year-2027-Conference-Call/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:02dc5f8289b0d3b2",
-      "titleEn": "Accenture, Dragos and SANS Institute Launch Foundation to Strengthen Cyber Defenses for Under-Resourced U.S. Utilities",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261020093364/en/Accenture-Dragos-and-SANS-Institute-Launch-Foundation-to-Strengthen-Cyber-Defenses-for-Under-Resourced-U.S.-Utilities/",
+      "link": "https://www.businesswire.com/news/home/20261020833354/en/Better-2.0-Publishes-Weekly-Report-Card-Week-2-Sales-Efficiency-and-Cost-Cutting/",
       "published": null
     }
   ]
