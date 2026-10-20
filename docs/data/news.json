@@ -1,8 +1,80 @@
 {
-  "generatedAt": "2026-10-20T15:49:34.930243Z",
+  "generatedAt": "2026-10-20T19:42:29.313244Z",
   "sourceCount": 1,
   "count": 22,
   "items": [
+    {
+      "id": "stockanalysis:9792ead9bbb4633f",
+      "titleEn": "Google Cloud outage hits UK banks",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Online services for a number of U.K. banks in and around London were disrupted by a Google Cloud outage Tuesday. The cloud outages began just after 2 a.m. Eastern, or 6:08 a.m. GMT, but appeared to have been largely solved about six hours later.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-10-google-cloud-outage-uk-banks.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a53d36a4cdea14f3",
+      "titleEn": "Oracle stock rises nearly 2% today: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/20/oracle-stock-rises-nearly-2-today-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:108b9a6bdb0e32d5",
+      "titleEn": "Meta extends losing run to five sessions as Q3 results remain in focus",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/20/meta-extends-losing-run-to-five-sessions-as-q3-results-remain-in-focus/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:633dc014049320f8",
+      "titleEn": "Tokenized gold could unlock $700 billion new demand - World Gold Council",
+      "summaryEn": "(Kitco News) - Digital gold is emerging as a new pillar of support for the precious metal, and although the market remains in its infancy, the World Gold Council sees an opportunity to unlock hundreds of billions of dollars in new investment demand by transforming the ways that gold is owned, traded and used throughout the global financial system. In a white paper titled Digital Gold: The Case for a Shared Infrastructure, developed with Boston Consulting Group, the World Gold Council (WGC) said the industry is approaching a critical turning point as digital innovation creates new opportunities to expand gold&#x27;s role beyond a traditional store of value. \"Our modelling suggests that if stakeholders address the principal barriers to adoption, they can boost both participation and portfolio allocations, unlocking up to $700 billion in latent demand. Fully realised, this would create a market that broadly matches physically-backed gold ETFs today,\" the report said.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-20/tokenized-gold-could-unlock-700-billion-new-demand-world-gold-council",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7b5a263853efd5e5",
+      "titleEn": "Why is Micron stock rebounding on Tuesday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/20/why-is-micron-stock-rebounding-on-tuesday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:eab3a09b4cba2fe7",
+      "titleEn": "Is it too late to invest in Braze stock?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/20/is-it-too-late-to-invest-in-braze-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:621e09bbbda5c704",
+      "titleEn": "3M earnings: Cramer cheers turnaround as Amazon deal adds to optimism",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/10/20/3m-earnings-cramer-cheers-turnaround-as-amazon-deal-adds-to-optimism/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:eba618676760d609",
+      "titleEn": "Bloom Energy stock braces for volatility as Q3 earnings loom: will it rebound?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/20/bloom-energy-stock-braces-for-volatility-as-q3-earnings-loom-will-it-rebound/",
+      "published": null
+    },
     {
       "id": "stockanalysis:09f514efecb697ec",
       "titleEn": "Salesforce stock falls as $5.7B Braze deal raises acquisition concerns",
@@ -85,120 +157,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:4e8198d386e40ae5",
-      "titleEn": "Gold weaker, silver mixed as weak housing data offsets rising oil prices - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold prices were lower and spot silver prices were volatile in early U.S. trading Tuesday, as weaker-than-expected housing activity highlighted the impact of elevated borrowing costs on the U.S. economy, while rising crude oil prices and persistent inflation continued to support expectations for additional Federal Reserve tightening. The latest housing figures provided some counterweight to the inflation concerns weighing on precious metals, although renewed tensions surrounding the Strait of Hormuz limited the scope for interest rate relief. In early morning trading, spot gold was near $4,120.10 an ounce, down 0.48%, while spot silver was near $57.210, up 0.42%. U.S. housing construction weakened in September, adding to evidence that elevated mortgage rates are restraining residential investment. Housing starts fell 5.2% to a seasonally adjusted annual rate of 1.221 million units, compared with an upwardly revised 1.288 million in August . Starts were 7.4% below their year-earlier level. Single-family construction declined 4.6% to an annual rate of 859,000 units, while building permits edged down 0.2% to 1.400 million units from a revised 1.403 million in August. Single-family permits dropped 4.0% to 845,000 units. The weakness followed Monday&#x27;s decline in the NAHB housing market index to 29 from 32, its lowest reading since June 2012, as rising mortgage rates, construction costs and weakening buyer traffic weighed on builders&#x27; confidence. The latest figures reinforce concerns that restrictive financial conditions are increasingly affecting interest rate-sensitive sectors of the economy.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-20/gold-weaker-silver-mixed-weak-housing-data-offsets-rising-oil-prices-kitco",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a915e6917b65c4b2",
-      "titleEn": "‘Short the dollar' and hold gold or Bitcoin as inflation erodes wealth – Ledn's Reeds",
-      "summaryEn": "(Kitco News) – Inflation and jurisdictional risks are serving as powerful examples of the value of alternative assets like gold and Bitcoin , and the ability to borrow against these non-yielding assets could make them even more attractive in the coming years, according to Adam Reeds, CEO of digital-asset-backed lending platform Ledn – which is launching Tether Gold-backed loans in the coming weeks. Reeds said that since COVID, not only seasoned investors but also average people have been enrolled in a crash course on the impacts of inflation on prices and on wealth preservation. “Everyone, including those who are far from being sophisticated investors, is talking about inflation and how to combat it,” he said. The investing community is obviously a section of that. But it&#x27;s interesting to see how important that is for everyday people as well.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-19/short-dollar-and-hold-gold-or-bitcoin-inflation-erodes-wealth-ledns-reeds",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:761d8dcdde7a00bd",
-      "titleEn": "Here's why Trump Media stock is in freefall ahead of midterm elections",
+      "id": "stockanalysis:a6073ee9adaaeb98",
+      "titleEn": "Amazon Creates Over 300,000 New U.S. Jobs This Holiday Season with Increased Pay and Expanded Benefits",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/heres-why-trump-media-stock-is-in-freefall-ahead-of-midterm-elections/",
+      "link": "https://www.businesswire.com/news/home/20261020342097/en/Amazon-Creates-Over-300000-New-U.S.-Jobs-This-Holiday-Season-with-Increased-Pay-and-Expanded-Benefits/",
       "published": null
     },
     {
-      "id": "stockanalysis:9228729915f1c1bc",
-      "titleEn": "3 gold stocks worth buying on recent weakness",
+      "id": "stockanalysis:488222ceb7cee684",
+      "titleEn": "UKG in Claude Makes AI Work Beyond the Chat",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261020356990/en/UKG-in-Claude-Makes-AI-Work-Beyond-the-Chat/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8e1627a4b7eceb88",
+      "titleEn": "FPT and the Niels Bohr Institute Advance Vietnam–Denmark Collaboration in Quantum Talent Development",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/3-gold-stocks-worth-buying-on-recent-weakness/",
+      "link": "https://www.businesswire.com/news/home/20261019899787/en/FPT-and-the-Niels-Bohr-Institute-Advance-Vietnam%E2%80%93Denmark-Collaboration-in-Quantum-Talent-Development/",
       "published": null
     },
     {
-      "id": "stockanalysis:2152cf3b84d3781e",
-      "titleEn": "Spot gold price near low after U.S. housing starts fall 5.2%, building permits fall 0.2% in September",
-      "summaryEn": "(Kitco News) - Gold prices are trading near session lows this morning after the latest data showed the U.S. housing market delivering a weaker-than-expected performance last month. Housing starts fell 5.2% in September to a seasonally adjusted annual rate of 1.221 million units, the Commerce Department announced on Tuesday. The data was worse than expected as economists looked for a print of 1.300 million units. August’s number was revised up to 1.288 million units. The report said that building permits for future homebuilding fell 0.2% to a rate of 1.400 million in September, which was better than the consensus expectation for 1.390 million permits, while August&#x27;s figure was unrevised at 1.403 million.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-20/spot-gold-price-near-low-after-us-housing-starts-fall-52-building-permits",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:98cdfcc078a9230c",
-      "titleEn": "Why General Motors stock is crashing despite Q3 earnings beat?",
+      "id": "stockanalysis:c3f5de6c6147a4d7",
+      "titleEn": "The Marzetti Company to Webcast First Quarter Fiscal Year 2027 Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/why-general-motors-stock-is-crashing-despite-q3-earnings-beat/",
+      "link": "https://www.businesswire.com/news/home/20261019230230/en/The-Marzetti-Company-to-Webcast-First-Quarter-Fiscal-Year-2027-Conference-Call/",
       "published": null
     },
     {
-      "id": "stockanalysis:1c1611d4f56a7ecb",
-      "titleEn": "Lockheed Martin stock flashes a risky pattern as two key threats emerge",
+      "id": "stockanalysis:02dc5f8289b0d3b2",
+      "titleEn": "Accenture, Dragos and SANS Institute Launch Foundation to Strengthen Cyber Defenses for Under-Resourced U.S. Utilities",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/lockheed-martin-stock-flashes-a-risky-pattern-as-two-key-threats-emerge/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:aec1779e58cb4a25",
-      "titleEn": "CoreWeave stock falls 5% in premarket: why HSBC sees 36% downside",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/coreweave-stock-falls-5-in-premarket-why-hsbc-sees-36-downside/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:88ea1eeeedaa6eb9",
-      "titleEn": "ADM Cares and Concern Worldwide US Expand Kenya Partnership to Reach 17,500 Smallholder Farmers",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261020351840/en/ADM-Cares-and-Concern-Worldwide-US-Expand-Kenya-Partnership-to-Reach-17500-Smallholder-Farmers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7f78f63973514cd4",
-      "titleEn": "Americans Worry They Can't Afford Health Care in Retirement, Allianz Life Study Finds",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261020203121/en/Americans-Worry-They-Cant-Afford-Health-Care-in-Retirement-Allianz-Life-Study-Finds/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:732f045742fa05c2",
-      "titleEn": "Teledyne FLIR Defense Supports DHS CWMD's Securing the Cities Initiative with Advanced Handheld Radiation Detection",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261020793594/en/Teledyne-FLIR-Defense-Supports-DHS-CWMD%E2%80%99s-Securing-the-Cities-Initiative-with-Advanced-Handheld-Radiation-Detection/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:755b17c7d67faa60",
-      "titleEn": "U.S. Enterprises Advance Workforce Intelligence with UKG Pro",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261020718907/en/U.S.-Enterprises-Advance-Workforce-Intelligence-with-UKG-Pro/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9957455f75785c23",
-      "titleEn": "Joe Hand Promotions and RAF Announce Nationwide Commercial Distribution Partnership",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261020990449/en/Joe-Hand-Promotions-and-RAF-Announce-Nationwide-Commercial-Distribution-Partnership/",
+      "link": "https://www.businesswire.com/news/home/20261020093364/en/Accenture-Dragos-and-SANS-Institute-Launch-Foundation-to-Strengthen-Cyber-Defenses-for-Under-Resourced-U.S.-Utilities/",
       "published": null
     }
   ]
