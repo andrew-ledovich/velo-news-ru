@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-10-19T22:56:56.352502Z",
+  "generatedAt": "2026-10-20T01:26:26.628223Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:444e85f9a22d9d76",
+      "titleEn": "Gold falls as dollar, Treasury yields rise; silver holds modest gains - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices were lower and spot silver prices were slightly higher in late U.S. trading Monday, as a firmer U.S. dollar and rising Treasury yields pressured bullion while traders weighed persistent inflation risks against expectations for a Federal Reserve pause later this month. A rebound in technology stocks reduced some defensive demand for gold, while continued uncertainty surrounding the Strait of Hormuz limited selling pressure across precious metals. At the time of writing, spot gold was trading near $4,137.80 an ounce, down $26.30, or 0.63%, while spot silver was trading near $56.930, up $0.068, or 0.12%. North American equities closed mixed as technology shares rebounded from last week&#x27;s sharp selloff. The S&P 500 rose 31.29 points, or 0.4%, to 7,690.73. The Dow Jones Industrial Average fell 36.38 points, or 0.1%, to 51,966.03. The Nasdaq Composite gained 290.85 points, or 1.1%, to 26,430.89, while the Russell 2000 added 6.93 points, or 0.3%, to 2,728.30. Technology and semiconductor shares led the recovery as investors reassessed concerns about financing costs and capital spending associated with artificial intelligence infrastructure. In Canada, the S&P/TSX Composite fell 247.92 points, or 0.7%, to 35,928.63, weighed down by financial and metal-mining shares. European equities finished sharply lower after weekend protests in France and Italy renewed concerns about government finances, borrowing costs and political stability. The Stoxx Europe 600 declined 0.80% to 639.56. France&#x27;s CAC 40 fell 1.11% to 7,868.05, Germany&#x27;s DAX lost 1.18% to 25,319.77 and the U.K. FTSE 100 dropped 1.08% to 10,764.69. Italy&#x27;s FTSE MIB declined 1.55% to 49,086.27. French government bond yields climbed as investors demanded additional compensation for sovereign risk, while weakness in the euro provided some support for the U.S. dollar.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-10-19/gold-falls-dollar-treasury-yields-rise-silver-holds-modest-gains-kitco-pm",
+      "published": null
+    },
     {
       "id": "stockanalysis:9e03dd23215b8e19",
       "titleEn": "‘I got out of my bank stocks': Why former Fed insider Chris Whalen is betting on gold",
@@ -85,66 +94,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:992a1f3ac828f9bc",
-      "titleEn": "IBM stock earnings preview: options market prices a move to $215 or $240",
+      "id": "stockanalysis:13df91559da13c53",
+      "titleEn": "Citigroup Declares Common Stock Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/19/ibm-stock-earnings-preview-options-market-prices-a-move-to-215-or-240/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3f5cbbc8ee7550e5",
-      "titleEn": "Disc Medicine stock soars: take profit or buy into strength?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/19/disc-medicine-stock-soars-take-profit-or-buy-into-strength/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c2c5626d7caf4632",
-      "titleEn": "SpaceX stock in focus as earnings loom: will it rebound or fall further?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/19/spacex-stock-in-focus-as-earnings-loom-will-it-rebound-or-fall-further/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8db1e129704e7481",
-      "titleEn": "Why Alphabet is up 1.7% on Monday?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/19/why-alphabet-is-up-1-7-on-monday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:be1433ec89e7a943",
-      "titleEn": "Cleveland-Cliffs stock: is there any further upside left?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/19/cleveland-cliffs-stock-is-there-any-further-upside-left/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ec27c34d4c614810",
-      "titleEn": "Cemex Supplies Concrete for Major Los Angeles Metro Expansion",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261019658403/en/Cemex-Supplies-Concrete-for-Major-Los-Angeles-Metro-Expansion/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b16398ec027acf5f",
-      "titleEn": "INVESTIGATION NOTICE: Levin Law, P.A. Investigates Potential Claims Involving Charter Communications (NASDAQ: CHTR) Following Liberty Broadband Merger",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261016426261/en/INVESTIGATION-NOTICE-Levin-Law-P.A.-Investigates-Potential-Claims-Involving-Charter-Communications-NASDAQ-CHTR-Following-Liberty-Broadband-Merger/",
+      "link": "https://www.businesswire.com/news/home/20261019427606/en/Citigroup-Declares-Common-Stock-Dividend/",
       "published": null
     }
   ]
