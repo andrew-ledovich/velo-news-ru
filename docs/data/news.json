@@ -1,8 +1,80 @@
 {
-  "generatedAt": "2026-10-20T06:14:06.789059Z",
+  "generatedAt": "2026-10-20T11:36:15.805417Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:aec1779e58cb4a25",
+      "titleEn": "CoreWeave stock falls 5% in premarket: why HSBC sees 36% downside",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/20/coreweave-stock-falls-5-in-premarket-why-hsbc-sees-36-downside/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:953402dcb9fa8d5a",
+      "titleEn": "Nvidia, AMD and Intel stocks fall again in premarket: what went wrong overnight?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/20/nvidia-amd-and-intel-stocks-fall-again-in-premarket-what-went-wrong-overnight/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cf69ecfb77ea53eb",
+      "titleEn": "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Nvidia CEO Jensen Huang urged Germany's makers of cars and industrial machines to quickly adopt artificial intelligence to \"reengineer\" the country's struggling business model by tapping its wealth of manufacturing data and expertise. Huang, whose company designs the powerful computer chips and software used by companies like Anthropic and OpenAI to develop AI applications, said that digital technology would never replace manufacturing and the engineering world of cars and robots where Germany has vast experience.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-10-nvidia-ceo-urges-german-ai.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:36c164a45fbc87cc",
+      "titleEn": "Scottish Mortgage stock on edge ahead of SpaceX and Meta Platforms earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/20/scottish-mortgage-stock-on-edge-ahead-of-spacex-and-meta-platforms-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a789465782d2e6b5",
+      "titleEn": "Micron stock faces fresh trouble after a 15% crash: is another selloff coming?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/20/micron-stock-faces-fresh-trouble-after-a-15-crash-is-another-selloff-coming/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:85cf4c10b09bcdf0",
+      "titleEn": "SpaceX earnings: AI revenue, financing needs and Tesla merger talks in focus",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/20/spacex-earnings-ai-revenue-financing-needs-and-tesla-merger-talks-in-focus/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ef53a605b92a4999",
+      "titleEn": "Rolls-Royce stock is falling fast this month: Is a rebound possible?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/20/rolls-royce-stock-is-falling-fast-this-month-is-a-rebound-possible/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2877a3652133e6f1",
+      "titleEn": "Oracle stock's next big AI opportunity may have nothing to do with data centres",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/20/oracle-stocks-next-big-ai-opportunity-may-have-nothing-to-do-with-data-centres/",
+      "published": null
+    },
     {
       "id": "stockanalysis:5a58d442684fb29e",
       "titleEn": "Here's why KOSPI and Nikkei 225 are falling sharply on October 20",
@@ -28,105 +100,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/10/20/why-openai-is-racing-to-raise-30-billion-before-anthropic-ipo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:444e85f9a22d9d76",
-      "titleEn": "Gold falls as dollar, Treasury yields rise; silver holds modest gains - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were lower and spot silver prices were slightly higher in late U.S. trading Monday, as a firmer U.S. dollar and rising Treasury yields pressured bullion while traders weighed persistent inflation risks against expectations for a Federal Reserve pause later this month. A rebound in technology stocks reduced some defensive demand for gold, while continued uncertainty surrounding the Strait of Hormuz limited selling pressure across precious metals. At the time of writing, spot gold was trading near $4,137.80 an ounce, down $26.30, or 0.63%, while spot silver was trading near $56.930, up $0.068, or 0.12%. North American equities closed mixed as technology shares rebounded from last week&#x27;s sharp selloff. The S&P 500 rose 31.29 points, or 0.4%, to 7,690.73. The Dow Jones Industrial Average fell 36.38 points, or 0.1%, to 51,966.03. The Nasdaq Composite gained 290.85 points, or 1.1%, to 26,430.89, while the Russell 2000 added 6.93 points, or 0.3%, to 2,728.30. Technology and semiconductor shares led the recovery as investors reassessed concerns about financing costs and capital spending associated with artificial intelligence infrastructure. In Canada, the S&P/TSX Composite fell 247.92 points, or 0.7%, to 35,928.63, weighed down by financial and metal-mining shares. European equities finished sharply lower after weekend protests in France and Italy renewed concerns about government finances, borrowing costs and political stability. The Stoxx Europe 600 declined 0.80% to 639.56. France&#x27;s CAC 40 fell 1.11% to 7,868.05, Germany&#x27;s DAX lost 1.18% to 25,319.77 and the U.K. FTSE 100 dropped 1.08% to 10,764.69. Italy&#x27;s FTSE MIB declined 1.55% to 49,086.27. French government bond yields climbed as investors demanded additional compensation for sovereign risk, while weakness in the euro provided some support for the U.S. dollar.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-10-19/gold-falls-dollar-treasury-yields-rise-silver-holds-modest-gains-kitco-pm",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9e03dd23215b8e19",
-      "titleEn": "‘I got out of my bank stocks': Why former Fed insider Chris Whalen is betting on gold",
-      "summaryEn": "(Kitco News) - Christopher Whalen has spent more than four decades picking apart bank balance sheets, starting at the Federal Reserve Bank of New York. So it says something that, at the end of September, he sold every bank stock he owned. “I did a major rebalance at the end of the third quarter. I got out of my bank stocks,” Whalen told Kitco News anchor Jeremy Szafron. “I actually put a couple of short positions down on some consumer lenders because I think credit is going to go up in terms of expenses. And I emphasized precious metals, energy stocks, and also income.” .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-19/i-got-out-my-bank-stocks-why-former-fed-insider-chris-whalen-betting-gold",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f810c062052bd2cf",
-      "titleEn": "‘Short the dollar' and hold gold or Bitcoin as inflation erodes wealth – Ledn's Leeds",
-      "summaryEn": "(Kitco News) – Inflation and jurisdictional risks are serving as powerful examples of the value of alternative assets like gold and Bitcoin , and the ability to borrow against these non-yielding assets could make them even more attractive in the coming years, according to Adam Leeds, CEO of digital-asset-backed lending platform Ledn – which is launching Tether Gold-backed loans in the coming weeks. Leeds said that since COVID, not only seasoned investors but also average people have been enrolled in a crash course on the impacts of inflation on prices and on wealth preservation. “Everyone, including those who are far from being sophisticated investors, is talking about inflation and how to combat it,” he said. The investing community is obviously a section of that. But it&#x27;s interesting to see how important that is for everyday people as well.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-19/short-dollar-and-hold-gold-or-bitcoin-inflation-erodes-wealth-ledns-leeds",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:44104840d7bf8845",
-      "titleEn": "Medical Properties Trust has slumped: is it a good dividend stock to buy?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/19/medical-properties-trust-has-slumped-is-it-a-good-dividend-stock-to-buy/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8c8cab7f9de5c5e4",
-      "titleEn": "MAGS ETF inflows climb as investors pile into Magnificent Seven ahead of earnings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/19/mags-etf-inflows-climb-as-investors-pile-into-magnificent-seven-ahead-of-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:644da957ce026173",
-      "titleEn": "Micron stock is rebounding today: here's why",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/19/micron-stock-is-rebounding-today-heres-why/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:542d18e56529fc28",
-      "titleEn": "Two stocks poised to benefit from rotation out of AI",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/19/two-stocks-poised-to-benefit-from-rotation-out-of-ai/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f6f639c36338afee",
-      "titleEn": "Innate Pharma Announces Conference Call for Third Quarter 2026 Business and Financial Update",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261019551853/en/Innate-Pharma-Announces-Conference-Call-for-Third-Quarter-2026-Business-and-Financial-Update/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d9b6814601463ce6",
-      "titleEn": "e.l.f. Cosmetics Welcomes Kuromi™ to Glow Up! for Her First-Ever Roblox Collaboration Outside Sanrio®'s Universe",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261019714343/en/e.l.f.-Cosmetics-Welcomes-Kuromi%E2%84%A2-to-Glow-Up%21-for-Her-First-Ever-Roblox-Collaboration-Outside-Sanrio%C2%AE%E2%80%99s-Universe/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6f3a182535d2ca65",
-      "titleEn": "Workato's Singapore AI Lab Marks One Year of Homegrown Talent Powering Global Innovation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261019424284/en/Workato%E2%80%99s-Singapore-AI-Lab-Marks-One-Year-of-Homegrown-Talent-Powering-Global-Innovation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4f3f14ed2411008e",
-      "titleEn": "Arcos Dorados Holdings Inc. Third Quarter 2026 Results Webcast Date and Time",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261019070318/en/Arcos-Dorados-Holdings-Inc.-Third-Quarter-2026-Results-Webcast-Date-and-Time/",
       "published": null
     }
   ]
