@@ -1,8 +1,107 @@
 {
-  "generatedAt": "2026-10-21T15:35:33.150073Z",
+  "generatedAt": "2026-10-21T19:35:24.446275Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:56cf48f9975a80b5",
+      "titleEn": "Robinhood stock rises as analysts see growth beyond its brokerage business",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/21/robinhood-stock-rises-as-analysts-see-growth-beyond-its-brokerage-business/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6fb7c7b046195b06",
+      "titleEn": "No mention of orbital data centers on SpaceX call: should investors be concerned?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/21/no-mention-of-orbital-data-centers-on-spacex-call-should-investors-be-concerned/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:040b10c6dd3eeced",
+      "titleEn": "Why Nvidia stock is rising on Wednesday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/21/why-nvidia-stock-is-rising-on-wednesday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9ff563e2667b0ffe",
+      "titleEn": "Royal Mint sees record silver and platinum sales, renewed gold demand despite higher prices and rising bond yields",
+      "summaryEn": "(Kitco News) - Gold and silver faced significant headwinds through the summer as persistent inflation and higher bond yields raised the opportunity cost of holding non-yielding assets. However, some investors continued to see value in the precious metals, according to the latest sales figures from the British Royal Mint. On Wednesday, the Royal Mint announced record year-to-date silver and platinum sales and renewed demand for gold bullion. The Mint does not publish exact bullion sales figures but said that revenue from silver bullion surged in the first three quarters of 2026. “ Silver bullion purchases on royalmint.com increased by 295% during the first nine months of 2026, compared with the same period in 2025. P latinum bullion revenue also rose by 118%, with both metals surpassing every previous full-year total, with a quarter of the calendar year still remaining,” the Mint said in the report. “Silver bullion coins have been particularly popular, with revenue increasing by 323% year-on-year across the first three quarters. The figures point to growing interest in silver as investors explore different ways to hold physical precious metals, including UK bullion coins.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-21/royal-mint-sees-record-silver-and-platinum-sales-renewed-gold-demand",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8a36a58560b7e480",
+      "titleEn": "Is Netflix losing one of its longest-standing edge?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/21/is-netflix-losing-one-of-its-longest-standing-edge/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:93a7d7077ca44795",
+      "titleEn": "Micron stock rebounds as AI demand supports memory outlook amid volatility",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/21/micron-stock-rebounds-as-ai-demand-supports-memory-outlook-amid-volatility/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1e5f687594884eee",
+      "titleEn": "Why are Alphabet shares down on Tuesday even as Nasdaq is up over 1%?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/21/why-are-alphabet-shares-down-on-tuesday-even-as-nasdaq-is-up-over-1/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7ea8f4dd04339a44",
+      "titleEn": "Intel stock outlook: Wyckoff pattern warns of further losses",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/21/intel-stock-outlook-wyckoff-pattern-warns-of-further-losses/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8726c8cd858956b4",
+      "titleEn": "Why is Bloom Energy stock rallying 6% on Wednesday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/21/why-is-bloom-energy-stock-rallying-6-on-wednesday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ed170e3847aef278",
+      "titleEn": "Netflix stock falls as analysts question growth despite earnings beat",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/21/netflix-stock-falls-as-analysts-question-growth-despite-earnings-beat/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5e3f3f720e8c427a",
+      "titleEn": "Russia sells 6.2 tonnes of gold in September as bullion reserves fall to lowest level since 2019",
+      "summaryEn": "(Kitco News) – Russia sold 200,000 troy ounces of gold in September, equivalent to 6.2 tonnes, according to the latest figures released by the Bank of Russia. Last month’s bullion sales lowered Russia’s sovereign gold holdings to 72.8 million troy ounces, or 2,264 tonnes, their lowest level since the end of 2019. Russia is in the midst of its largest sustained drawdown in gold reserves since the financial crisis of 1998, with the country liquidating around 62 tonnes of the precious metal since December 2025 as the government struggles to finance a ballooning federal budget deficit.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-21/russia-sells-62-tonnes-gold-september-bullion-reserves-fall-lowest-level",
+      "published": null
+    },
     {
       "id": "stockanalysis:6b138be43b37e809",
       "titleEn": "EU probes Booking.com over online fraud risks",
@@ -22,111 +121,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:4b8db13b8b5b9d5d",
-      "titleEn": "Why are CoreWeave and Nebius stocks falling on Wednesday?",
+      "id": "stockanalysis:bdfb7ba434884b00",
+      "titleEn": "ACQC and AHF Dedicate Rockaway Beach HIV Healthcare and Service Center",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/why-are-coreweave-and-nebius-stocks-falling-on-wednesday/",
+      "link": "https://www.businesswire.com/news/home/20261021399757/en/ACQC-and-AHF-Dedicate-Rockaway-Beach-HIV-Healthcare-and-Service-Center/",
       "published": null
     },
     {
-      "id": "stockanalysis:4048e55b347ae006",
-      "titleEn": "SCHD Outlook: Can the Dividend ETF Break to a New Record?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/21/schd-outlook-can-the-dividend-etf-break-to-a-new-record/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c18d5f9c48530c25",
-      "titleEn": "Box stock is gaining momentum: is a reversal possible as it gets overbought?",
+      "id": "stockanalysis:8255e403d4338ebd",
+      "titleEn": "Bloomreach Opens Its Platform to the Agentic Era: More Than 200 Agents Have Already Been Built on Loomi Connect by Marketers, Ecommerce Teams, and Technology Partners Worldwide",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/box-stock-is-gaining-momentum-is-a-reversal-possible-as-it-gets-overbought/",
+      "link": "https://www.businesswire.com/news/home/20261021146369/en/Bloomreach-Opens-Its-Platform-to-the-Agentic-Era-More-Than-200-Agents-Have-Already-Been-Built-on-Loomi-Connect-by-Marketers-Ecommerce-Teams-and-Technology-Partners-Worldwide/",
       "published": null
     },
     {
-      "id": "stockanalysis:5425535fb39a25c8",
-      "titleEn": "Gold gains, silver slips as oil prices rise, Fed rate hike expectations persist - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold prices were slightly higher and spot silver prices were lower in early U.S. trading Wednesday, as renewed concerns about energy supplies through the Strait of Hormuz and persistent expectations for additional Federal Reserve tightening weighed on precious metals. Gold found some support from lower Treasury yields and defensive demand, while silver struggled to sustain Tuesday&#x27;s recovery amid uncertainty surrounding industrial activity and the interest rate outlook. At the time of the latest verified morning price reading, spot gold was trading near $4,136.70 an ounce, up $12.60, or 0.31%, while spot silver was trading near $57.510, down $0.370, or 0.64%. Market positioning remains divided between signs of weakening economic activity and stubborn inflation pressure. September consumer prices increased 0.6% on the month and 3.7% annually, while producer prices surged 1.3% and 6.3%, respectively. Despite those inflation surprises, traders continue to assign approximately an 83% probability that the Federal Reserve will leave interest rates unchanged at its Oct. 27-28 meeting. Expectations for another rate increase remain concentrated in December, with futures indicating roughly a 94% probability that rates will be higher by the Dec. 9 meeting. The benchmark 10-year Treasury yield was trading near the 5.1% area Wednesday morning, down from recent highs above 5.3%, as weaker housing activity and concerns about financial-market stability supported government bonds. The dollar&#x27;s broader resilience and the prospect of additional Fed tightening continue to limit gold&#x27;s upside potential despite some relief from lower yields.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-21/gold-gains-silver-slips-oil-prices-rise-fed-rate-hike-expectations-persist",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:886226907201762c",
-      "titleEn": "Nebius and CoreWeave stocks at risk as Ken Griffin delivers major warning",
+      "id": "stockanalysis:9bc754d62ddc03cd",
+      "titleEn": "Dream Industrial REIT Announces October 2026 Monthly Distribution",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/nebius-and-coreweave-stocks-at-risk-as-ken-griffin-delivers-major-warning/",
+      "link": "https://www.businesswire.com/news/home/20261019784450/en/Dream-Industrial-REIT-Announces-October-2026-Monthly-Distribution/",
       "published": null
     },
     {
-      "id": "stockanalysis:f2209e738cd883b9",
-      "titleEn": "OpenAI agent lies after disabling monitoring systems in fresh safety concern",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/21/openai-agent-lies-after-disabling-monitoring-systems-in-fresh-safety-concern/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7fb357c1f9ba3d81",
-      "titleEn": "SpaceX shares jump premarket: how Q3 results are good news for AI cloud providers",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/21/spacex-shares-jump-premarket-how-q3-results-are-good-news-for-ai-cloud-providers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4032e12127935a53",
-      "titleEn": "Why are Dell and HPE stocks rising in premarket trading on Wednesday?",
+      "id": "stockanalysis:5f5f5adea2b1649c",
+      "titleEn": "Dream Office REIT Announces October 2026 Monthly Distribution",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/why-are-dell-and-hpe-stocks-rising-in-premarket-trading-on-wednesday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:acd8eaf111362f68",
-      "titleEn": "Why Nvidia, AMD and Intel stocks are surging up to 2% in premarket today",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/why-nvidia-amd-and-intel-stocks-are-surging-up-to-2-in-premarket-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:92170069d93dfd2c",
-      "titleEn": "Hitchhiker Orbital Appoints Robert Call as Chief Executive Officer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261021187303/en/Hitchhiker-Orbital-Appoints-Robert-Call-as-Chief-Executive-Officer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:319d603319e958c7",
-      "titleEn": "Informa TechTarget to Integrate its Proprietary ‘Buyer Intelligence' with Demandbase to Help Joint Customers Transform ABM Strategy and Achieve Unprecedented Outcomes",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261021031581/en/Informa-TechTarget-to-Integrate-its-Proprietary-%E2%80%98Buyer-Intelligence%E2%80%99-with-Demandbase-to-Help-Joint-Customers-Transform-ABM-Strategy-and-Achieve-Unprecedented-Outcomes/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b9ee62945eaaf005",
-      "titleEn": "NextGen Healthcare Introduces N.I.A.™ for Insights, an Analytics Agent That Helps Healthcare Organizations Make Decisions Faster",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261021595047/en/NextGen-Healthcare-Introduces-N.I.A.%E2%84%A2-for-Insights-an-Analytics-Agent-That-Helps-Healthcare-Organizations-Make-Decisions-Faster/",
+      "link": "https://www.businesswire.com/news/home/20261019767546/en/Dream-Office-REIT-Announces-October-2026-Monthly-Distribution/",
       "published": null
     }
   ]
