@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T22:39:42.305131Z",
+  "generatedAt": "2026-10-21T00:54:37.779875Z",
   "sourceCount": 1,
   "count": 14,
   "items": [
@@ -76,21 +76,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:22be5431315a3f7b",
-      "titleEn": "Hims &amp; Hers stock rises 5% as company launches men's weight care in Germany",
+      "id": "stockanalysis:da277d5aa2945f23",
+      "titleEn": "AWS Ecosystem Advances AI Strategies in Asia Pacific",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/hims-hers-stock-rises-5-as-company-launches-mens-weight-care-in-germany/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261020138179/en/AWS-Ecosystem-Advances-AI-Strategies-in-Asia-Pacific/",
       "published": null
     },
     {
-      "id": "stockanalysis:9792ead9bbb4633f",
-      "titleEn": "Google Cloud outage hits UK banks",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Online services for a number of U.K. banks in and around London were disrupted by a Google Cloud outage Tuesday. The cloud outages began just after 2 a.m. Eastern, or 6:08 a.m. GMT, but appeared to have been largely solved about six hours later.",
+      "id": "stockanalysis:81c68be75e0ace3b",
+      "titleEn": "Hibsago (bepirovirsen) Approved in the US for the Treatment of Chronic Hepatitis B (CHB)",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-10-google-cloud-outage-uk-banks.html",
+      "link": "https://www.businesswire.com/news/home/20261020329825/en/Hibsago-bepirovirsen-Approved-in-the-US-for-the-Treatment-of-Chronic-Hepatitis-B-CHB/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a70bdfdaaa76cff5",
+      "titleEn": "FGIC Announces NYSDFS Approval of CPP Upward Adjustment",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261020829855/en/FGIC-Announces-NYSDFS-Approval-of-CPP-Upward-Adjustment/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:96b8258cffe6bd0b",
+      "titleEn": "Liberty Energy Inc. Announces 11% Increase in Quarterly Cash Dividend",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261020895690/en/Liberty-Energy-Inc.-Announces-11-Increase-in-Quarterly-Cash-Dividend/",
       "published": null
     },
     {
@@ -109,24 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261020806329/en/KBRA-Publishes-Ratings-for-NewtekOne-Inc./",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:746cda0b4c0fa2ba",
-      "titleEn": "Vallant Financial, Inc. Reports Earnings for Third Quarter 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261020751150/en/Vallant-Financial-Inc.-Reports-Earnings-for-Third-Quarter-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9390bd69d7b25dff",
-      "titleEn": "Better 2.0 Publishes Weekly Report Card, Week 2: Sales Efficiency and Cost Cutting",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261020833354/en/Better-2.0-Publishes-Weekly-Report-Card-Week-2-Sales-Efficiency-and-Cost-Cutting/",
       "published": null
     }
   ]
