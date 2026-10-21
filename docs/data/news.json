@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-10-21T00:54:37.779875Z",
+  "generatedAt": "2026-10-21T05:30:09.395786Z",
   "sourceCount": 1,
   "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:0c004eacdef29fe6",
+      "titleEn": "SMCI stock soars 17% on $4B sales forecast hike, but analysts are still cautious",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/21/smci-stock-soars-17-on-4b-sales-forecast-hike-but-analysts-are-still-cautious/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c0ecc1c7a4eb02b2",
+      "titleEn": "Samsung, SK Hynix stocks soar 7%: Korea's chip comeback is riding on a 222% surprise",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/21/samsung-sk-hynix-stocks-soar-7-koreas-chip-comeback-is-riding-on-a-222-surprise/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:51782ea848306370",
+      "titleEn": "Kospi Index analysis as Samsung, SK Hynix jumps despite key Ken Griffin warning",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/21/kospi-index-analysis-as-samsung-sk-hynix-jumps-despite-key-ken-griffin-warning/",
+      "published": null
+    },
     {
       "id": "stockanalysis:36b79c31de60a0f7",
       "titleEn": "Gold pressured despite falling yields as Hormuz diplomacy sparks oil price reversal - Kitco PM Report",
@@ -67,66 +94,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:771a613732faad5d",
-      "titleEn": "Salesforce Buying Customer Engagement Firm Braze for $5.6 Billion",
-      "summaryEn": "Salesforce says it will pay $5.6 billion to acquire customer engagement platform Braze . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “Every interaction is an opportunity to wow your customers,” Patrick Stokes , president of applications and marketing at Salesforce, said in a news release announcing the planned acquisition Tuesday (Oct. 20).",
+      "id": "stockanalysis:1f7d6def4fd5f9dd",
+      "titleEn": "Innate Pharma to Participate in the Stifel Healthcare Conference and Jefferies Global Healthcare Conference",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/acquiring/2026/salesforce-buying-customer-engagement-firm-braze-for-5-6-billion/",
+      "link": "https://www.businesswire.com/news/home/20261020303567/en/Innate-Pharma-to-Participate-in-the-Stifel-Healthcare-Conference-and-Jefferies-Global-Healthcare-Conference/",
       "published": null
     },
     {
-      "id": "stockanalysis:da277d5aa2945f23",
-      "titleEn": "AWS Ecosystem Advances AI Strategies in Asia Pacific",
+      "id": "stockanalysis:4cfe198220f5e452",
+      "titleEn": "F5 and Telenor Partner to Build the AI Service Plane for Sovereign AI on NVIDIA-powered AI Factory Infrastructure",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261020138179/en/AWS-Ecosystem-Advances-AI-Strategies-in-Asia-Pacific/",
+      "link": "https://www.businesswire.com/news/home/20261020898728/en/F5-and-Telenor-Partner-to-Build-the-AI-Service-Plane-for-Sovereign-AI-on-NVIDIA-powered-AI-Factory-Infrastructure/",
       "published": null
     },
     {
-      "id": "stockanalysis:81c68be75e0ace3b",
-      "titleEn": "Hibsago (bepirovirsen) Approved in the US for the Treatment of Chronic Hepatitis B (CHB)",
+      "id": "stockanalysis:17692b52bbdad930",
+      "titleEn": "Woodside Energy Third Quarter Report for Period Ended 30 September 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261020329825/en/Hibsago-bepirovirsen-Approved-in-the-US-for-the-Treatment-of-Chronic-Hepatitis-B-CHB/",
+      "link": "https://www.businesswire.com/news/home/20261020593595/en/Woodside-Energy-Third-Quarter-Report-for-Period-Ended-30-September-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:a70bdfdaaa76cff5",
-      "titleEn": "FGIC Announces NYSDFS Approval of CPP Upward Adjustment",
+      "id": "stockanalysis:b8736d8b7e7050c0",
+      "titleEn": "Faraday Future Announces Details for FFR's Listing Ceremony and Nasdaq Investor Day, Taking Place on Monday, Oct. 26 at Nasdaq's Market site in NYC",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261020829855/en/FGIC-Announces-NYSDFS-Approval-of-CPP-Upward-Adjustment/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:96b8258cffe6bd0b",
-      "titleEn": "Liberty Energy Inc. Announces 11% Increase in Quarterly Cash Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261020895690/en/Liberty-Energy-Inc.-Announces-11-Increase-in-Quarterly-Cash-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6f1f47cfc406efdc",
-      "titleEn": "Yum! Brands Announces Q3 2026 Earnings and Conference Call Details",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261020882653/en/Yum%21-Brands-Announces-Q3-2026-Earnings-and-Conference-Call-Details/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cb297112e36c04e3",
-      "titleEn": "KBRA Publishes Ratings for NewtekOne, Inc.",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261020806329/en/KBRA-Publishes-Ratings-for-NewtekOne-Inc./",
+      "link": "https://www.businesswire.com/news/home/20261020662709/en/Faraday-Future-Announces-Details-for-FFR%E2%80%99s-Listing-Ceremony-and-Nasdaq-Investor-Day-Taking-Place-on-Monday-Oct.-26-at-Nasdaq%E2%80%99s-Market-site-in-NYC/",
       "published": null
     }
   ]
