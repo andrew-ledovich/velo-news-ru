@@ -1,78 +1,132 @@
 {
-  "generatedAt": "2026-10-21T10:34:10.827367Z",
+  "generatedAt": "2026-10-21T15:35:33.150073Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 14,
   "items": [
     {
-      "id": "stockanalysis:835d619b4f81d896",
-      "titleEn": "Here's why Meta earnings today may trigger a brutal reality check for Wall Street",
+      "id": "stockanalysis:6b138be43b37e809",
+      "titleEn": "EU probes Booking.com over online fraud risks",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: The European Union opened an investigation into online travel agent Booking.com on Wednesday over alleged failures to tackle fake listings and phishing scams. The EU fears Booking.com has underestimated the impact of fraud and unlicensed accommodation, and is not sufficiently protecting users' data from being misused for scams.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-10-eu-probes-bookingcom-online-fraud.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c65fad6996b5b58b",
+      "titleEn": "Nvidia CEO encourages Europe's lagging AI sector and offers tools to accelerate data center buildout",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Nvidia CEO Jensen Huang urged players in Europe's lagging artificial intelligence industry to get going and touted a modular system to quickly build AI data centers he says are sorely needed by developers on the continent. In an upbeat speech Wednesday at a company conference for developers and investors in Berlin, Huang also laid out tools to keep AI applications from running amok by confining them in a digital \"sandbox.\"",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-10-nvidia-ceo-europe-lagging-ai.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4b8db13b8b5b9d5d",
+      "titleEn": "Why are CoreWeave and Nebius stocks falling on Wednesday?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/heres-why-meta-earnings-today-may-trigger-a-brutal-reality-check-for-wall-street/",
+      "link": "https://invezz.com/news/2026/10/21/why-are-coreweave-and-nebius-stocks-falling-on-wednesday/",
       "published": null
     },
     {
-      "id": "stockanalysis:c8ae7dccfcc1dc3e",
-      "titleEn": "Tesla stock faces earnings test as Cathie Wood makes stunning $5,000 prediction",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/10/21/tesla-stock-faces-earnings-test-as-cathie-wood-makes-stunning-5000-prediction/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0c004eacdef29fe6",
-      "titleEn": "SMCI stock soars 17% on $4B sales forecast hike, but analysts are still cautious",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/smci-stock-soars-17-on-4b-sales-forecast-hike-but-analysts-are-still-cautious/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c0ecc1c7a4eb02b2",
-      "titleEn": "Samsung, SK Hynix stocks soar 7%: Korea's chip comeback is riding on a 222% surprise",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/samsung-sk-hynix-stocks-soar-7-koreas-chip-comeback-is-riding-on-a-222-surprise/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:51782ea848306370",
-      "titleEn": "Kospi Index analysis as Samsung, SK Hynix jumps despite key Ken Griffin warning",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/kospi-index-analysis-as-samsung-sk-hynix-jumps-despite-key-ken-griffin-warning/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:36b79c31de60a0f7",
-      "titleEn": "Gold pressured despite falling yields as Hormuz diplomacy sparks oil price reversal - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were lower and spot silver prices were higher in late U.S. trading Tuesday, as weakening housing activity and lower Treasury yields failed to overcome persistent inflation concerns and expectations for additional Federal Reserve tightening. Crude oil prices reversed sharply from their morning highs amid conflicting reports about possible renewed U.S.-Iran negotiations, easing some inflation pressure and helping U.S. equities recover from early losses. At the time of the latest afternoon price reading, spot gold was trading near $4,122.50 an ounce, down $17.40, or 0.42%, while spot silver was trading near $57.800, up $0.825, or 1.45%. Tuesday&#x27;s U.S. economic reports provided further evidence that elevated interest rates are weighing heavily on the housing market. September housing starts declined 5.2% to a seasonally adjusted annual rate of 1.221 million units , below expectations for approximately 1.305 million and down from an upwardly revised 1.288 million in August. Single-family construction fell 4.6% to an annual rate of 859,000 units, while building permits declined 0.2% to 1.400 million units. Housing demand weakened more sharply, with September pending home sales plunging 7.3% from August and 11.3% from a year earlier, reaching their lowest level since the index began in 2001. The declines followed Monday&#x27;s drop in the NAHB housing market index to 29 from 32, reflecting deteriorating buyer traffic, elevated mortgage costs and weakening builder confidence.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-20/gold-pressured-despite-falling-yields-hormuz-diplomacy-sparks-oil-price",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:85ae2032822850dd",
-      "titleEn": "MSTR stock eyes a rebound as JPMorgan delivers bold Bitcoin prediction",
+      "id": "stockanalysis:4048e55b347ae006",
+      "titleEn": "SCHD Outlook: Can the Dividend ETF Break to a New Record?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/20/mstr-stock-eyes-a-rebound-as-jpmorgan-delivers-bold-bitcoin-prediction/",
+      "link": "https://invezz.com/news/2026/10/21/schd-outlook-can-the-dividend-etf-break-to-a-new-record/",
       "published": null
     },
     {
-      "id": "stockanalysis:f567aa76b592b421",
-      "titleEn": "FreeCast Named 2026 Streaming Technology Platform Company of the Year by Media &amp; Entertainment Business Review",
+      "id": "stockanalysis:c18d5f9c48530c25",
+      "titleEn": "Box stock is gaining momentum: is a reversal possible as it gets overbought?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261021674281/en/FreeCast-Named-2026-Streaming-Technology-Platform-Company-of-the-Year-by-Media-Entertainment-Business-Review/",
+      "link": "https://invezz.com/news/2026/10/21/box-stock-is-gaining-momentum-is-a-reversal-possible-as-it-gets-overbought/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5425535fb39a25c8",
+      "titleEn": "Gold gains, silver slips as oil prices rise, Fed rate hike expectations persist - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold prices were slightly higher and spot silver prices were lower in early U.S. trading Wednesday, as renewed concerns about energy supplies through the Strait of Hormuz and persistent expectations for additional Federal Reserve tightening weighed on precious metals. Gold found some support from lower Treasury yields and defensive demand, while silver struggled to sustain Tuesday&#x27;s recovery amid uncertainty surrounding industrial activity and the interest rate outlook. At the time of the latest verified morning price reading, spot gold was trading near $4,136.70 an ounce, up $12.60, or 0.31%, while spot silver was trading near $57.510, down $0.370, or 0.64%. Market positioning remains divided between signs of weakening economic activity and stubborn inflation pressure. September consumer prices increased 0.6% on the month and 3.7% annually, while producer prices surged 1.3% and 6.3%, respectively. Despite those inflation surprises, traders continue to assign approximately an 83% probability that the Federal Reserve will leave interest rates unchanged at its Oct. 27-28 meeting. Expectations for another rate increase remain concentrated in December, with futures indicating roughly a 94% probability that rates will be higher by the Dec. 9 meeting. The benchmark 10-year Treasury yield was trading near the 5.1% area Wednesday morning, down from recent highs above 5.3%, as weaker housing activity and concerns about financial-market stability supported government bonds. The dollar&#x27;s broader resilience and the prospect of additional Fed tightening continue to limit gold&#x27;s upside potential despite some relief from lower yields.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-21/gold-gains-silver-slips-oil-prices-rise-fed-rate-hike-expectations-persist",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:886226907201762c",
+      "titleEn": "Nebius and CoreWeave stocks at risk as Ken Griffin delivers major warning",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/21/nebius-and-coreweave-stocks-at-risk-as-ken-griffin-delivers-major-warning/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f2209e738cd883b9",
+      "titleEn": "OpenAI agent lies after disabling monitoring systems in fresh safety concern",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/21/openai-agent-lies-after-disabling-monitoring-systems-in-fresh-safety-concern/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7fb357c1f9ba3d81",
+      "titleEn": "SpaceX shares jump premarket: how Q3 results are good news for AI cloud providers",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/21/spacex-shares-jump-premarket-how-q3-results-are-good-news-for-ai-cloud-providers/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4032e12127935a53",
+      "titleEn": "Why are Dell and HPE stocks rising in premarket trading on Wednesday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/21/why-are-dell-and-hpe-stocks-rising-in-premarket-trading-on-wednesday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:acd8eaf111362f68",
+      "titleEn": "Why Nvidia, AMD and Intel stocks are surging up to 2% in premarket today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/21/why-nvidia-amd-and-intel-stocks-are-surging-up-to-2-in-premarket-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:92170069d93dfd2c",
+      "titleEn": "Hitchhiker Orbital Appoints Robert Call as Chief Executive Officer",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261021187303/en/Hitchhiker-Orbital-Appoints-Robert-Call-as-Chief-Executive-Officer/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:319d603319e958c7",
+      "titleEn": "Informa TechTarget to Integrate its Proprietary ‘Buyer Intelligence' with Demandbase to Help Joint Customers Transform ABM Strategy and Achieve Unprecedented Outcomes",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261021031581/en/Informa-TechTarget-to-Integrate-its-Proprietary-%E2%80%98Buyer-Intelligence%E2%80%99-with-Demandbase-to-Help-Joint-Customers-Transform-ABM-Strategy-and-Achieve-Unprecedented-Outcomes/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b9ee62945eaaf005",
+      "titleEn": "NextGen Healthcare Introduces N.I.A.™ for Insights, an Analytics Agent That Helps Healthcare Organizations Make Decisions Faster",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261021595047/en/NextGen-Healthcare-Introduces-N.I.A.%E2%84%A2-for-Insights-an-Analytics-Agent-That-Helps-Healthcare-Organizations-Make-Decisions-Faster/",
       "published": null
     }
   ]
