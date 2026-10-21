@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-10-21T05:30:09.395786Z",
+  "generatedAt": "2026-10-21T10:34:10.827367Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 8,
   "items": [
+    {
+      "id": "stockanalysis:835d619b4f81d896",
+      "titleEn": "Here's why Meta earnings today may trigger a brutal reality check for Wall Street",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/21/heres-why-meta-earnings-today-may-trigger-a-brutal-reality-check-for-wall-street/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c8ae7dccfcc1dc3e",
+      "titleEn": "Tesla stock faces earnings test as Cathie Wood makes stunning $5,000 prediction",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/10/21/tesla-stock-faces-earnings-test-as-cathie-wood-makes-stunning-5000-prediction/",
+      "published": null
+    },
     {
       "id": "stockanalysis:0c004eacdef29fe6",
       "titleEn": "SMCI stock soars 17% on $4B sales forecast hike, but analysts are still cautious",
@@ -49,84 +67,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:212737e0f7fa8e9c",
-      "titleEn": "Options data bullish on Tesla stock despite expected Q3 earnings decline",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/10/20/options-data-bullish-on-tesla-stock-despite-expected-q3-earnings-decline/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:65d420c92e4e5f2f",
-      "titleEn": "SpaceX stock rises as revenue jumps 161% on AI and Starlink growth",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/20/spacex-stock-rises-as-revenue-jumps-161-on-ai-and-starlink-growth/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bf40f0f521a1d76b",
-      "titleEn": "Copper supply gap favors projects that can get built - Jeff Pontius",
-      "summaryEn": "(Kitco News) The coming copper supply gap is putting more value on projects that already have infrastructure, clearer permitting paths and a realistic route to production, according to exploration geologist Jeff Pontius. “There is going to be a copper gap here,” Pontius told Kitco Mining’s Digging Deep on Oct. 15. He wants copper projects that are past discovery and already working through their development questions. “I’d like to see advanced projects that have gotten to the point [where] they’ve got the permitting questions out there in front of them, they’ve got solutions for those questions, and they can track their way into production,” he said. “ Copper projects take a long time to get basically defined, permitted and built.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-20/copper-supply-gap-favors-projects-can-get-built-jeff-pontius",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:824ef2501c5fd48d",
-      "titleEn": "Netflix stock falls 4% as slowing revenue growth raises investor concerns",
+      "id": "stockanalysis:f567aa76b592b421",
+      "titleEn": "FreeCast Named 2026 Streaming Technology Platform Company of the Year by Media &amp; Entertainment Business Review",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/netflix-stock-falls-4-as-slowing-revenue-growth-raises-investor-concerns/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1aeb264c602b617d",
-      "titleEn": "SoFi stock lands at a crucial support as earnings loom: will it drop further?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/20/sofi-stock-lands-at-a-crucial-support-as-earnings-loom-will-it-drop-further/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1f7d6def4fd5f9dd",
-      "titleEn": "Innate Pharma to Participate in the Stifel Healthcare Conference and Jefferies Global Healthcare Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261020303567/en/Innate-Pharma-to-Participate-in-the-Stifel-Healthcare-Conference-and-Jefferies-Global-Healthcare-Conference/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4cfe198220f5e452",
-      "titleEn": "F5 and Telenor Partner to Build the AI Service Plane for Sovereign AI on NVIDIA-powered AI Factory Infrastructure",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261020898728/en/F5-and-Telenor-Partner-to-Build-the-AI-Service-Plane-for-Sovereign-AI-on-NVIDIA-powered-AI-Factory-Infrastructure/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:17692b52bbdad930",
-      "titleEn": "Woodside Energy Third Quarter Report for Period Ended 30 September 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261020593595/en/Woodside-Energy-Third-Quarter-Report-for-Period-Ended-30-September-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b8736d8b7e7050c0",
-      "titleEn": "Faraday Future Announces Details for FFR's Listing Ceremony and Nasdaq Investor Day, Taking Place on Monday, Oct. 26 at Nasdaq's Market site in NYC",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261020662709/en/Faraday-Future-Announces-Details-for-FFR%E2%80%99s-Listing-Ceremony-and-Nasdaq-Investor-Day-Taking-Place-on-Monday-Oct.-26-at-Nasdaq%E2%80%99s-Market-site-in-NYC/",
+      "link": "https://www.businesswire.com/news/home/20261021674281/en/FreeCast-Named-2026-Streaming-Technology-Platform-Company-of-the-Year-by-Media-Entertainment-Business-Review/",
       "published": null
     }
   ]
