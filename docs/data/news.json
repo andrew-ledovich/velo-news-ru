@@ -1,159 +1,150 @@
 {
-  "generatedAt": "2026-10-21T19:35:24.446275Z",
+  "generatedAt": "2026-10-21T22:43:13.660134Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 16,
   "items": [
     {
-      "id": "stockanalysis:56cf48f9975a80b5",
-      "titleEn": "Robinhood stock rises as analysts see growth beyond its brokerage business",
+      "id": "stockanalysis:3d2177ab375f239e",
+      "titleEn": "Gold gains as Treasury yields stabilize, Nasdaq surges despite Fed tightening concerns - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices were higher in late U.S. trading Wednesday, while spot silver recovered from earlier losses, as a softer U.S. dollar and easing crude oil prices provided some support for precious metals despite persistent inflation concerns and expectations for additional Federal Reserve tightening. Strong corporate earnings lifted major U.S. stock indexes, while unresolved tensions involving Iran and the Strait of Hormuz continued to complicate the outlook for energy prices and monetary policy. Gold was trading near $4,141.01 an ounce, up 0.66%, while silver was near $57.976, up 0.34%, in the latest available late-session market readings. The latest U.S. economic reports continue to point to weakness in interest rate-sensitive sectors of the economy. September housing starts declined 5.2% to a seasonally adjusted annual rate of 1.221 million units , below expectations of approximately 1.305 million and down from an upwardly revised 1.288 million in August. Building permits slipped 0.2% to 1.400 million units, while single-family starts declined 4.6% to 859,000 units. Pending home sales fell 7.3% in September and 11.3% from a year earlier, reinforcing concerns that high mortgage rates and weakening household confidence are restraining residential investment. Wednesday&#x27;s weekly U.S. petroleum inventory report also highlighted the continuing tightness in energy markets, with commercial crude oil stocks declining 3.1 million barrels to 412.5 million barrels, compared with expectations for a draw of approximately 300,000 barrels. Gasoline inventories fell 3.0 million barrels, while distillate stocks increased 1.7 million barrels.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-21/gold-gains-treasury-yields-stabilize-nasdaq-surges-despite-fed-tightening",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:840a857bb2257953",
+      "titleEn": "Western Digital stock is stuck in a bear market: will it rebound after earnings?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/robinhood-stock-rises-as-analysts-see-growth-beyond-its-brokerage-business/",
+      "link": "https://invezz.com/news/2026/10/21/western-digital-stock-is-stuck-in-a-bear-market-will-it-rebound-after-earnings/",
       "published": null
     },
     {
-      "id": "stockanalysis:6fb7c7b046195b06",
-      "titleEn": "No mention of orbital data centers on SpaceX call: should investors be concerned?",
+      "id": "stockanalysis:e1fc90add75968da",
+      "titleEn": "Meta stock jumps on earnings - but $25B penalty raises stakes",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/no-mention-of-orbital-data-centers-on-spacex-call-should-investors-be-concerned/",
+      "link": "https://invezz.com/news/2026/10/21/meta-stock-jumps-on-earnings-but-25b-penalty-raises-stakes/",
       "published": null
     },
     {
-      "id": "stockanalysis:040b10c6dd3eeced",
-      "titleEn": "Why Nvidia stock is rising on Wednesday?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/why-nvidia-stock-is-rising-on-wednesday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9ff563e2667b0ffe",
-      "titleEn": "Royal Mint sees record silver and platinum sales, renewed gold demand despite higher prices and rising bond yields",
-      "summaryEn": "(Kitco News) - Gold and silver faced significant headwinds through the summer as persistent inflation and higher bond yields raised the opportunity cost of holding non-yielding assets. However, some investors continued to see value in the precious metals, according to the latest sales figures from the British Royal Mint. On Wednesday, the Royal Mint announced record year-to-date silver and platinum sales and renewed demand for gold bullion. The Mint does not publish exact bullion sales figures but said that revenue from silver bullion surged in the first three quarters of 2026. “ Silver bullion purchases on royalmint.com increased by 295% during the first nine months of 2026, compared with the same period in 2025. P latinum bullion revenue also rose by 118%, with both metals surpassing every previous full-year total, with a quarter of the calendar year still remaining,” the Mint said in the report. “Silver bullion coins have been particularly popular, with revenue increasing by 323% year-on-year across the first three quarters. The figures point to growing interest in silver as investors explore different ways to hold physical precious metals, including UK bullion coins.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-21/royal-mint-sees-record-silver-and-platinum-sales-renewed-gold-demand",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8a36a58560b7e480",
-      "titleEn": "Is Netflix losing one of its longest-standing edge?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/is-netflix-losing-one-of-its-longest-standing-edge/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:93a7d7077ca44795",
-      "titleEn": "Micron stock rebounds as AI demand supports memory outlook amid volatility",
+      "id": "stockanalysis:c262bc77ce6b975d",
+      "titleEn": "Tesla stock rises as profit rises despite AI spending",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/21/micron-stock-rebounds-as-ai-demand-supports-memory-outlook-amid-volatility/",
+      "link": "https://invezz.com/news/2026/10/21/tesla-stock-rises-as-profit-rises-despite-ai-spending/",
       "published": null
     },
     {
-      "id": "stockanalysis:1e5f687594884eee",
-      "titleEn": "Why are Alphabet shares down on Tuesday even as Nasdaq is up over 1%?",
+      "id": "stockanalysis:063c904effb4ca82",
+      "titleEn": "Strive stock eyes a bullish breakout as Bitcoin recovery gains steam: what next?",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/why-are-alphabet-shares-down-on-tuesday-even-as-nasdaq-is-up-over-1/",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/10/21/strive-stock-eyes-a-bullish-breakout-as-bitcoin-recovery-gains-steam-what-next/",
       "published": null
     },
     {
-      "id": "stockanalysis:7ea8f4dd04339a44",
-      "titleEn": "Intel stock outlook: Wyckoff pattern warns of further losses",
+      "id": "stockanalysis:8013c67e3babc413",
+      "titleEn": "SpaceX stock soars, raising the AI trade: how high can it go?",
       "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/intel-stock-outlook-wyckoff-pattern-warns-of-further-losses/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8726c8cd858956b4",
-      "titleEn": "Why is Bloom Energy stock rallying 6% on Wednesday?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/why-is-bloom-energy-stock-rallying-6-on-wednesday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ed170e3847aef278",
-      "titleEn": "Netflix stock falls as analysts question growth despite earnings beat",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/netflix-stock-falls-as-analysts-question-growth-despite-earnings-beat/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5e3f3f720e8c427a",
-      "titleEn": "Russia sells 6.2 tonnes of gold in September as bullion reserves fall to lowest level since 2019",
-      "summaryEn": "(Kitco News) – Russia sold 200,000 troy ounces of gold in September, equivalent to 6.2 tonnes, according to the latest figures released by the Bank of Russia. Last month’s bullion sales lowered Russia’s sovereign gold holdings to 72.8 million troy ounces, or 2,264 tonnes, their lowest level since the end of 2019. Russia is in the midst of its largest sustained drawdown in gold reserves since the financial crisis of 1998, with the country liquidating around 62 tonnes of the precious metal since December 2025 as the government struggles to finance a ballooning federal budget deficit.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-21/russia-sells-62-tonnes-gold-september-bullion-reserves-fall-lowest-level",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6b138be43b37e809",
-      "titleEn": "EU probes Booking.com over online fraud risks",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: The European Union opened an investigation into online travel agent Booking.com on Wednesday over alleged failures to tackle fake listings and phishing scams. The EU fears Booking.com has underestimated the impact of fraud and unlicensed accommodation, and is not sufficiently protecting users' data from being misused for scams.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-10-eu-probes-bookingcom-online-fraud.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c65fad6996b5b58b",
-      "titleEn": "Nvidia CEO encourages Europe's lagging AI sector and offers tools to accelerate data center buildout",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Nvidia CEO Jensen Huang urged players in Europe's lagging artificial intelligence industry to get going and touted a modular system to quickly build AI data centers he says are sorely needed by developers on the continent. In an upbeat speech Wednesday at a company conference for developers and investors in Berlin, Huang also laid out tools to keep AI applications from running amok by confining them in a digital \"sandbox.\"",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://techxplore.com/news/2026-10-nvidia-ceo-europe-lagging-ai.html",
+      "link": "https://invezz.com/news/2026/10/21/spacex-stock-soars-raising-the-ai-trade-how-high-can-it-go/",
       "published": null
     },
     {
-      "id": "stockanalysis:bdfb7ba434884b00",
-      "titleEn": "ACQC and AHF Dedicate Rockaway Beach HIV Healthcare and Service Center",
+      "id": "stockanalysis:1e16783243d8d228",
+      "titleEn": "AT&amp;T stock falls 6% despite earnings beat; SpaceX is the reason",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261021399757/en/ACQC-and-AHF-Dedicate-Rockaway-Beach-HIV-Healthcare-and-Service-Center/",
+      "link": "https://invezz.com/news/2026/10/21/att-stock-falls-6-despite-earnings-beat-spacex-is-the-reason/",
       "published": null
     },
     {
-      "id": "stockanalysis:8255e403d4338ebd",
-      "titleEn": "Bloomreach Opens Its Platform to the Agentic Era: More Than 200 Agents Have Already Been Built on Loomi Connect by Marketers, Ecommerce Teams, and Technology Partners Worldwide",
-      "summaryEn": null,
+      "id": "stockanalysis:80e4ce372b3774af",
+      "titleEn": "‘The price of gold will reflect the pain elsewhere' and gold equities are working as a leveraged play – BlackRock's Hambro",
+      "summaryEn": "(Kitco News) – Gold will continue to appreciate as the systemic problems of ballooning debt, runaway deficits, and currency depreciation worsen, and the mining equities are once again providing multiples of leverage to the gold price, according to Evy Hambro, global head of thematic and sector investing at BlackRock. Hambro was asked in a recent interview with MoneyWeek whether he expects the mild stagflation, weak dollar, and geopolitical turmoil that characterizes the current market environment to continue. “I think so,” he said. “If we look out and try to see what&#x27;s going on in the market, it&#x27;s very, very clear to me, and I think to some people, that the bond markets, government bonds are talking. They&#x27;re telling you things aren&#x27;t healthy. The rates are going up, and the levels of debt are very, very large. The annual deficits that governments are having to fund are growing. and that&#x27;s putting a lot of pressure on the financial system.”",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261021146369/en/Bloomreach-Opens-Its-Platform-to-the-Agentic-Era-More-Than-200-Agents-Have-Already-Been-Built-on-Loomi-Connect-by-Marketers-Ecommerce-Teams-and-Technology-Partners-Worldwide/",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-21/price-gold-will-reflect-pain-elsewhere-and-gold-equities-are-working",
       "published": null
     },
     {
-      "id": "stockanalysis:9bc754d62ddc03cd",
-      "titleEn": "Dream Industrial REIT Announces October 2026 Monthly Distribution",
+      "id": "stockanalysis:09cd41fcdbfff9c4",
+      "titleEn": "Lost Money on Home Bancorp, Inc. Shares? The Law Offices of Frank R.",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261019784450/en/Dream-Industrial-REIT-Announces-October-2026-Monthly-Distribution/",
+      "link": "https://www.businesswire.com/news/home/20261021077621/en/Lost-Money-on-Home-Bancorp-Inc.-Shares-The-Law-Offices-of-Frank-R.-Cruz-Investigates-Potential-Securities-Fraud-After-9.59-Stock-Decline/",
       "published": null
     },
     {
-      "id": "stockanalysis:5f5f5adea2b1649c",
-      "titleEn": "Dream Office REIT Announces October 2026 Monthly Distribution",
+      "id": "stockanalysis:baccbc7555d9ba25",
+      "titleEn": "Deluxe to Report Third Quarter 2026 Results on November 4, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261019767546/en/Dream-Office-REIT-Announces-October-2026-Monthly-Distribution/",
+      "link": "https://www.businesswire.com/news/home/20261021562026/en/Deluxe-to-Report-Third-Quarter-2026-Results-on-November-4-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:85df71bbf87f28cc",
+      "titleEn": "Lost Money on D-Wave Quantum, Inc. Shares? The Law Offices of Frank R.",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261021160855/en/Lost-Money-on-D-Wave-Quantum-Inc.-Shares-The-Law-Offices-of-Frank-R.-Cruz-Investigates-Potential-Securities-Fraud-After-9.51-Stock-Decline/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:33a84e5a47efd572",
+      "titleEn": "TownBridge Bank Announces Promotion of Nicole Perry to President of CannaFirst Financial",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261021664703/en/TownBridge-Bank-Announces-Promotion-of-Nicole-Perry-to-President-of-CannaFirst-Financial",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f139cdbae6d067a3",
+      "titleEn": "ATS to Host Second Quarter Earnings Call Wednesday November 4, 2026, at 8:30 a.m. Eastern",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261021011897/en/ATS-to-Host-Second-Quarter-Earnings-Call-Wednesday-November-4-2026-at-830-a.m.-Eastern/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f09cbe359117fefc",
+      "titleEn": "AEVEX Reaffirms Maritime Systems Strategy and Continued U.S. Navy Investment",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261021466393/en/AEVEX-Reaffirms-Maritime-Systems-Strategy-and-Continued-U.S.-Navy-Investment/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2cd2391d3c0826b4",
+      "titleEn": "Morgan Stanley Infrastructure Partners Completes Sale of Investment in Chicago Parking Meters",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261021088511/en/Morgan-Stanley-Infrastructure-Partners-Completes-Sale-of-Investment-in-Chicago-Parking-Meters/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4bd07d25baa91093",
+      "titleEn": "QIAGEN reports preliminary Q3 2026 results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261021344344/en/QIAGEN-reports-preliminary-Q3-2026-results/",
       "published": null
     }
   ]
