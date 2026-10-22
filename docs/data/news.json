@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-10-22T00:54:17.296440Z",
+  "generatedAt": "2026-10-22T05:34:14.751986Z",
   "sourceCount": 1,
   "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:38a567919988be9f",
+      "titleEn": "Samsung and SK Hynix plunge again as Korea's $792 billion rout tests confidence",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/22/samsung-and-sk-hynix-plunge-again-as-koreas-792-billion-rout-tests-confidence/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3d2177ab375f239e",
       "titleEn": "Gold gains as Treasury yields stabilize, Nasdaq surges despite Fed tightening concerns - Kitco PM Report",
@@ -58,57 +67,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1e16783243d8d228",
-      "titleEn": "AT&amp;T stock falls 6% despite earnings beat; SpaceX is the reason",
+      "id": "stockanalysis:c0b3b9becc6c7268",
+      "titleEn": "Mitsubishi Electric Develops New OT Security Solution for Industrial Equipment",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/att-stock-falls-6-despite-earnings-beat-spacex-is-the-reason/",
+      "link": "https://www.businesswire.com/news/home/20261021202856/en/Mitsubishi-Electric-Develops-New-OT-Security-Solution-for-Industrial-Equipment/",
       "published": null
     },
     {
-      "id": "stockanalysis:80e4ce372b3774af",
-      "titleEn": "‘The price of gold will reflect the pain elsewhere' and gold equities are working as a leveraged play – BlackRock's Hambro",
-      "summaryEn": "(Kitco News) – Gold will continue to appreciate as the systemic problems of ballooning debt, runaway deficits, and currency depreciation worsen, and the mining equities are once again providing multiples of leverage to the gold price, according to Evy Hambro, global head of thematic and sector investing at BlackRock. Hambro was asked in a recent interview with MoneyWeek whether he expects the mild stagflation, weak dollar, and geopolitical turmoil that characterizes the current market environment to continue. “I think so,” he said. “If we look out and try to see what&#x27;s going on in the market, it&#x27;s very, very clear to me, and I think to some people, that the bond markets, government bonds are talking. They&#x27;re telling you things aren&#x27;t healthy. The rates are going up, and the levels of debt are very, very large. The annual deficits that governments are having to fund are growing. and that&#x27;s putting a lot of pressure on the financial system.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-21/price-gold-will-reflect-pain-elsewhere-and-gold-equities-are-working",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:51b77ab5a5d147c4",
-      "titleEn": "Lost Money on Community Trust Bancorp, Inc. Shares? The Law Offices of Frank R.",
+      "id": "stockanalysis:1009273a5ae9eba0",
+      "titleEn": "Arcus Biosciences Announces Pricing of $250 Million Public Offering of Common Stock",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261021370384/en/Lost-Money-on-Community-Trust-Bancorp-Inc.-Shares-The-Law-Offices-of-Frank-R.-Cruz-Investigates-Potential-Securities-Fraud-After-9.26-Stock-Decline/",
+      "link": "https://www.businesswire.com/news/home/20261021289021/en/Arcus-Biosciences-Announces-Pricing-of-250-Million-Public-Offering-of-Common-Stock/",
       "published": null
     },
     {
-      "id": "stockanalysis:06f54754ae6113bc",
-      "titleEn": "Did You Lose Money on FMC Corporation Stock? The Law Offices of Howard G.",
+      "id": "stockanalysis:acdea911071fb468",
+      "titleEn": "Triad Business Bank Responds to M&amp;F's October 19 Statement",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261021795100/en/Did-You-Lose-Money-on-FMC-Corporation-Stock-The-Law-Offices-of-Howard-G.-Smith-Announces-Securities-Fraud-Investigation-After-30.53-Share-Price-Decline/",
+      "link": "https://www.businesswire.com/news/home/20261021520457/en/Triad-Business-Bank-Responds-to-MF%E2%80%99s-October-19-Statement/",
       "published": null
     },
     {
-      "id": "stockanalysis:0657581352f40b68",
-      "titleEn": "PBCO Financial Corporation Reports Q3 2026 Results",
+      "id": "stockanalysis:4aa8d644d40ace03",
+      "titleEn": "Mid Penn Bancorp, Inc. Reports Third Quarter Earnings and Declares 64th Consecutive Quarterly Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261021189412/en/PBCO-Financial-Corporation-Reports-Q3-2026-Results/",
+      "link": "https://www.businesswire.com/news/home/20261021153416/en/Mid-Penn-Bancorp-Inc.-Reports-Third-Quarter-Earnings-and-Declares-64th-Consecutive-Quarterly-Dividend/",
       "published": null
     },
     {
-      "id": "stockanalysis:60bf2deca5a6b7b2",
-      "titleEn": "Lost Money on Dynex Capital, Inc. Shares? The Law Offices of Frank R.",
+      "id": "stockanalysis:823dcb83b793eb2c",
+      "titleEn": "BlackRock Capital Allocation Term Trust (BCAT) Announces Results of its Rights Offering",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261021363924/en/Lost-Money-on-Dynex-Capital-Inc.-Shares-The-Law-Offices-of-Frank-R.-Cruz-Investigates-Potential-Securities-Fraud-After-3.39-Stock-Decline/",
+      "link": "https://www.businesswire.com/news/home/20261021757124/en/BlackRock-Capital-Allocation-Term-Trust-BCAT-Announces-Results-of-its-Rights-Offering/",
       "published": null
     }
   ]
