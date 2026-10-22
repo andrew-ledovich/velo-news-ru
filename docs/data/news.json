@@ -1,8 +1,98 @@
 {
-  "generatedAt": "2026-10-22T05:34:14.751986Z",
+  "generatedAt": "2026-10-22T10:37:34.334501Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:f03fcf10b26da6bc",
+      "titleEn": "China stocks hit bear market after 10-week rout: is 20% crash just the start?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/22/china-stocks-hit-bear-market-after-10-week-rout-is-20-crash-just-the-start/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f0877d5f81fbbea9",
+      "titleEn": "Lloyds share price analysis ahead of Q3 earnings and BoE rate hike",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/22/lloyds-share-price-analysis-ahead-of-q3-earnings-and-boe-rate-hike/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:02b6d1d11e6b0145",
+      "titleEn": "Judge orders Meta to pay $25 billion to New Mexico in Cambridge Analytica case",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: A New Mexico judge ruled Wednesday that Meta must pay $25 billion to the state after a jury found last month that the social media giant had deceived users in a case related to the Cambridge Analytica scandal, according to media reports. The penalty comes a couple of months after Meta agreed to pay $18 billion to settle claims brought by 48 other states, including allegations tied to Cambridge Analytica.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-10-meta-pay-billion-mexico-cambridge.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:33e91bad68fed375",
+      "titleEn": "Meta sued in Australia class action alleging harm to children",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Meta and its social media platforms Facebook and Instagram are facing a class-action lawsuit in Australia over allegations addictive design features are harming children and teenagers. The suit filed in the Federal Court on behalf of eight applicants seeks to recover compensation for Facebook and Instagram users who were exposed to harmful content or developed an addiction to social media , law firm Minter Ellison and Litigation Lending said in a statement.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-10-meta-sued-australia-class-action.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:366e2b594ea0e8b7",
+      "titleEn": "Walmart welcomes AI agents as Anthropic launches its own",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: U.S. shopping giant Walmart on Wednesday unveiled tools allowing artificial intelligence agents such as Meta's Muse to shop on behalf of its customers, taking the opposite approach to rival Amazon, which bars outside AI agents from its platform. AI agents are programs that can carry out multistep tasks on a user's behalf—such as searching for products, comparing prices and completing a purchase—rather than only answering questions as chatbots do.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-10-walmart-ai-agents-anthropic.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ef0acd83ffaa77b6",
+      "titleEn": "SoftBank stock is in a deep sell-off as AI Bubble Index jumps to 74",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/22/softbank-stock-is-in-a-deep-sell-off-as-ai-bubble-index-jumps-to-74/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:abf9cd960401fbd1",
+      "titleEn": "Why is Barclays axing 5,000 jobs despite a 12% profit jump?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/22/why-is-barclays-axing-5000-jobs-despite-a-12-profit-jump/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c2cf2c2dd701846e",
+      "titleEn": "Why is QuantumScape stock surging 10% despite a $84.5M quarterly loss?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/22/why-is-quantumscape-stock-surging-10-despite-a-84-5m-quarterly-loss/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4115d36e2b4b57e8",
+      "titleEn": "Why is Tesla stock falling 3% in after-hours trading?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/10/22/why-is-tesla-stock-falling-3-in-after-hours-trading/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:40f7a25d4cd126dc",
+      "titleEn": "What is the PHP security scare? How OpenAI, Google and Amazon raced to contain it",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/22/what-is-the-php-security-scare-how-openai-google-and-amazon-raced-to-contain-it/",
+      "published": null
+    },
     {
       "id": "stockanalysis:38a567919988be9f",
       "titleEn": "Samsung and SK Hynix plunge again as Korea's $792 billion rout tests confidence",
@@ -13,102 +103,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:3d2177ab375f239e",
-      "titleEn": "Gold gains as Treasury yields stabilize, Nasdaq surges despite Fed tightening concerns - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were higher in late U.S. trading Wednesday, while spot silver recovered from earlier losses, as a softer U.S. dollar and easing crude oil prices provided some support for precious metals despite persistent inflation concerns and expectations for additional Federal Reserve tightening. Strong corporate earnings lifted major U.S. stock indexes, while unresolved tensions involving Iran and the Strait of Hormuz continued to complicate the outlook for energy prices and monetary policy. Gold was trading near $4,141.01 an ounce, up 0.66%, while silver was near $57.976, up 0.34%, in the latest available late-session market readings. The latest U.S. economic reports continue to point to weakness in interest rate-sensitive sectors of the economy. September housing starts declined 5.2% to a seasonally adjusted annual rate of 1.221 million units , below expectations of approximately 1.305 million and down from an upwardly revised 1.288 million in August. Building permits slipped 0.2% to 1.400 million units, while single-family starts declined 4.6% to 859,000 units. Pending home sales fell 7.3% in September and 11.3% from a year earlier, reinforcing concerns that high mortgage rates and weakening household confidence are restraining residential investment. Wednesday&#x27;s weekly U.S. petroleum inventory report also highlighted the continuing tightness in energy markets, with commercial crude oil stocks declining 3.1 million barrels to 412.5 million barrels, compared with expectations for a draw of approximately 300,000 barrels. Gasoline inventories fell 3.0 million barrels, while distillate stocks increased 1.7 million barrels.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-21/gold-gains-treasury-yields-stabilize-nasdaq-surges-despite-fed-tightening",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:840a857bb2257953",
-      "titleEn": "Western Digital stock is stuck in a bear market: will it rebound after earnings?",
+      "id": "stockanalysis:96f9b5f533072266",
+      "titleEn": "BeOne Medicines to Announce Third Quarter 2026 Financial Results on November 5",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/western-digital-stock-is-stuck-in-a-bear-market-will-it-rebound-after-earnings/",
+      "link": "https://www.businesswire.com/news/home/20261022365159/en/BeOne-Medicines-to-Announce-Third-Quarter-2026-Financial-Results-on-November-5/",
       "published": null
     },
     {
-      "id": "stockanalysis:e1fc90add75968da",
-      "titleEn": "Meta stock jumps on earnings - but $25B penalty raises stakes",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/21/meta-stock-jumps-on-earnings-but-25b-penalty-raises-stakes/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c262bc77ce6b975d",
-      "titleEn": "Tesla stock rises as profit rises despite AI spending",
+      "id": "stockanalysis:28da5d87d8109e2b",
+      "titleEn": "TACTICAAI and NVIDIA Collaborate to Scale Agentic AI Capabilities with NVIDIA Nemotron",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/21/tesla-stock-rises-as-profit-rises-despite-ai-spending/",
+      "link": "https://www.businesswire.com/news/home/20261022054475/en/TACTICAAI-and-NVIDIA-Collaborate-to-Scale-Agentic-AI-Capabilities-with-NVIDIA-Nemotron/",
       "published": null
     },
     {
-      "id": "stockanalysis:063c904effb4ca82",
-      "titleEn": "Strive stock eyes a bullish breakout as Bitcoin recovery gains steam: what next?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/21/strive-stock-eyes-a-bullish-breakout-as-bitcoin-recovery-gains-steam-what-next/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8013c67e3babc413",
-      "titleEn": "SpaceX stock soars, raising the AI trade: how high can it go?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/21/spacex-stock-soars-raising-the-ai-trade-how-high-can-it-go/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c0b3b9becc6c7268",
-      "titleEn": "Mitsubishi Electric Develops New OT Security Solution for Industrial Equipment",
+      "id": "stockanalysis:2df2532e8257f766",
+      "titleEn": "Allegion (NYSE: ALLE) Reports Q3-2026 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261021202856/en/Mitsubishi-Electric-Develops-New-OT-Security-Solution-for-Industrial-Equipment/",
+      "link": "https://www.businesswire.com/news/home/20261022131751/en/Allegion-NYSE-ALLE-Reports-Q3-2026-Financial-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:1009273a5ae9eba0",
-      "titleEn": "Arcus Biosciences Announces Pricing of $250 Million Public Offering of Common Stock",
+      "id": "stockanalysis:7f0befd824ea473e",
+      "titleEn": "Ivonescimab Data Sets across Multiple Tumor Types to Be Featured at ESMO 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261021289021/en/Arcus-Biosciences-Announces-Pricing-of-250-Million-Public-Offering-of-Common-Stock/",
+      "link": "https://www.businesswire.com/news/home/20261022076516/en/Ivonescimab-Data-Sets-across-Multiple-Tumor-Types-to-Be-Featured-at-ESMO-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:acdea911071fb468",
-      "titleEn": "Triad Business Bank Responds to M&amp;F's October 19 Statement",
+      "id": "stockanalysis:0527bed9a065f59a",
+      "titleEn": "Honeywell Technologies Reports Third Quarter Results, Raises Full-Year 2026 Outlook",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261021520457/en/Triad-Business-Bank-Responds-to-MF%E2%80%99s-October-19-Statement/",
+      "link": "https://www.businesswire.com/news/home/20261021281133/en/Honeywell-Technologies-Reports-Third-Quarter-Results-Raises-Full-Year-2026-Outlook/",
       "published": null
     },
     {
-      "id": "stockanalysis:4aa8d644d40ace03",
-      "titleEn": "Mid Penn Bancorp, Inc. Reports Third Quarter Earnings and Declares 64th Consecutive Quarterly Dividend",
+      "id": "stockanalysis:0268870997abc46a",
+      "titleEn": "Spotify Technology S.A. Releases Results for Third Quarter 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261021153416/en/Mid-Penn-Bancorp-Inc.-Reports-Third-Quarter-Earnings-and-Declares-64th-Consecutive-Quarterly-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:823dcb83b793eb2c",
-      "titleEn": "BlackRock Capital Allocation Term Trust (BCAT) Announces Results of its Rights Offering",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261021757124/en/BlackRock-Capital-Allocation-Term-Trust-BCAT-Announces-Results-of-its-Rights-Offering/",
+      "link": "https://www.businesswire.com/news/home/20261022230545/en/Spotify-Technology-S.A.-Releases-Results-for-Third-Quarter-2026/",
       "published": null
     }
   ]
