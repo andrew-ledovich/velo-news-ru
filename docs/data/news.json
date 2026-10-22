@@ -1,132 +1,150 @@
 {
-  "generatedAt": "2026-10-22T15:38:22.501099Z",
+  "generatedAt": "2026-10-22T19:28:20.643733Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 16,
   "items": [
     {
-      "id": "stockanalysis:2d64e9bac5a7e807",
-      "titleEn": "Why Intel, AMD stocks are falling on Thursday?",
+      "id": "stockanalysis:403afa8bfb849716",
+      "titleEn": "‘Very bizarre action' as gold retraces entire summer rally to test $4,000/oz: AI weakness, or yen intervention? – Jesse Columbo",
+      "summaryEn": "(Kitco News) – Gold’s dramatic Thursday selloff Has erased all of the yellow metals gains since the summer, and the lack of correlation with the US dollar index and bond yields suggests that this could be more than liquidations from the tech selloff, and may indicate the next round of yen interventions by the U.S. government, according to Jesse Colombo, independent precious metals analyst and founder of the BubbleBubble Report. Columbo told Kitco News on Thursday afternoon that he was just trying to decipher what was going on in the gold market. “Very bizarre action,” he said. “The dollar index is down. Normally you would expect the dollar index to be up one percent on a day like this, and yet it&#x27;s down 15 basis points.”",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-10-22/very-bizarre-action-gold-retraces-entire-summer-rally-test-4000oz-ai",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b701c8f76338683d",
+      "titleEn": "Micron stock falls 5%, why this analyst gave it a $3000 target price",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/22/why-intel-amd-stocks-are-falling-on-thursday/",
+      "link": "https://invezz.com/news/2026/10/22/micron-stock-falls-5-why-this-analyst-gave-it-a-3000-target-price/",
       "published": null
     },
     {
-      "id": "stockanalysis:5bacd87030126e43",
-      "titleEn": "Why is Spotify stock soaring 8% today?",
+      "id": "stockanalysis:db1d1816859890c7",
+      "titleEn": "Oracle stock falls 4%: why this analyst sees a 120% upside for the stock",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/22/why-is-spotify-stock-soaring-8-today/",
+      "link": "https://invezz.com/news/2026/10/22/oracle-stock-falls-4-why-this-analyst-sees-a-120-upside-for-the-stock/",
       "published": null
     },
     {
-      "id": "stockanalysis:f8960d1a0f832d87",
-      "titleEn": "‘Gold is no silver bullet' and isn't hedging against equity drawdowns, but ‘debasement trade' should continue – HSBC",
-      "summaryEn": "(Kitco News) – Gold will continue to benefit from the debasement trade despite its recent weakness, but precious metals investors would do well to diversify, as the yellow metal hasn’t provided effective protection against recent stock market pullbacks, according to market strategists at HSBC Asset Management. “Gold’s spectacular bull run, which saw prices climb to well above USD5,000 per ounce earlier this year, has fizzled out,” they said in a recent report. “Prices are down and volatility is up. Should investors throw in the towel?” The strategists caution that while gold has underperformed since the early-year rally amid sky-high oil prices, rising rates, and soaring bond yields, “there is still a compelling strategic rationale for the metal in portfolios as geopolitical fragmentation and central bank reserve diversification keep demand supported.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-22/gold-no-silver-bullet-and-isnt-hedging-against-equity-drawdowns-debasement",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cb1d6be720dc7ad7",
-      "titleEn": "Gold, silver pressured despite lower yields as Hormuz attacks send crude higher - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were sharply lower in early U.S. trading Thursday, as renewed attacks on commercial shipping in the Strait of Hormuz and rising Middle East tensions pushed crude oil prices higher, reinforcing inflation concerns and expectations for additional Federal Reserve tightening. Precious metals failed to benefit from lower Treasury yields and defensive demand as the prospect of persistently elevated interest rates continued to weigh on bullion. At the latest verified morning price reading, spot gold was near $4,086.90 an ounce, down $53.40, or 1.29%, while spot silver was near $55.790, down $2.070, or 3.57%. The latest U.S. labor-market figures provided another indication of economic resilience despite high borrowing costs and weakening housing activity. Weekly initial jobless claims declined by 6,000 to a seasonally adjusted 194,000 in the week ended Oct. 17, below expectations of approximately 200,000 and down from the previous week&#x27;s upwardly revised 200,000. The four-week moving average fell by 1,000 to 197,750. Continuing claims increased by 25,000 to 1.728 million in the week ended Oct. 10, while the insured unemployment rate remained unchanged at 1.1%. The decline in new claims suggests layoffs remain limited, although rising continuing claims indicate that unemployed workers may be taking longer to find new jobs. Market positioning continues to favor an October pause followed by additional monetary tightening before year-end. Traders assign a high probability to no change at the Fed&#x27;s Oct. 27-28 meeting, while the likelihood of a 25-basis-point increase in December remains around 86%. Thursday&#x27;s stronger-than-expected jobless claims reinforced the view that the labor market has not weakened enough to force an immediate change in policy, while rising energy prices are intensifying concerns about the inflation outlook. Treasury yields nevertheless declined as renewed selling in technology stocks and escalating Middle East tensions supported demand for government bonds. The benchmark 10-year Treasury yield fell toward the 5.0% area, providing some relief from recent highs, although gold remained under selling pressure. The decline underscores the continuing importance of Fed rate expectations and portfolio positioning relative to traditional safe-haven demand.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-22/gold-silver-pressured-despite-lower-yields-hormuz-attacks-send-crude-higher",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9a2e0b8be0c1eeed",
-      "titleEn": "Gold prices under pressure as US weekly jobless claims fall to three-month low",
+      "id": "stockanalysis:496b327a94d77c2d",
+      "titleEn": "Why Nvidia stock is down over 4% on Thursday?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-22/gold-prices-under-pressure-us-weekly-jobless-claims-fall-three-month-low",
+      "link": "https://invezz.com/news/2026/10/22/why-nvidia-stock-is-down-over-4-on-thursday/",
       "published": null
     },
     {
-      "id": "stockanalysis:7bfc56ee083fe4bd",
-      "titleEn": "Gold prices struggling as U.S. weekly jobless claims fall to three-month low",
-      "summaryEn": "(Kitco News) - The gold market is struggling below $4,100 an ounce and could face further selling pressure as the U.S. labor market remains relatively healthy, with fewer American workers applying for unemployment benefits than expected. Initial claims for state unemployment benefits came in at a seasonally adjusted 194,000 for the week ending October 17, the Labor Department announced Thursday. The number was below expectations, as consensus estimates forecast a steady 200,000 claims. The previous week’s figure was revised up to 200,000. Spot gold has been on the back foot through most of the European session, and while prices have recovered from their session lows, the market continues to face significant selling pressure. Gold last traded at $4,076 an ounce, down 1.5% on the day.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-22/gold-prices-struggling-us-weekly-jobless-claims-fall-three-month-low",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:84650d554364f4ac",
-      "titleEn": "P&amp;G beats estimates - but $1.4B cost squeeze clouds celebration",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/22/pg-beats-estimates-but-1-4b-cost-squeeze-clouds-celebration/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2659b50ab66da0f0",
-      "titleEn": "Here's why Alibaba stock is in a strong sell-off this month",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/22/heres-why-alibaba-stock-is-in-a-strong-sell-off-this-month/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2d22452e7310401c",
-      "titleEn": "CoreWeave stock on edge as Jensen Huang touts strong neocloud demand",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/22/coreweave-stock-on-edge-as-jensen-huang-touts-strong-neocloud-demand/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:34c32c062eb303a1",
-      "titleEn": "Why is IBM stock down 5% despite Q3 earnings beat?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/22/why-is-ibm-stock-down-5-despite-q3-earnings-beat/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b71d16e1129dc43c",
-      "titleEn": "Nvidia, AMD, Micron fall sharply: why Wall Street is punishing AI spending either way",
+      "id": "stockanalysis:40ecbeb25ff17739",
+      "titleEn": "Anthropic could file for IPO Friday: how investors can prepare to buy the stock",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/22/nvidia-amd-and-micron-plunge-sharply-why-wall-street-is-punishing-ai-spending-either-way/",
+      "link": "https://invezz.com/news/2026/10/22/anthropic-could-file-for-ipo-friday-how-investors-can-prepare-to-buy-the-stock/",
       "published": null
     },
     {
-      "id": "stockanalysis:b80edc9f86690e26",
-      "titleEn": "Marcus &amp; Millichap Names Defease With Ease | Thirty Capital a Preferred Partner for Debt Management Services",
+      "id": "stockanalysis:511365c66aaeb4e7",
+      "titleEn": "Three key challenges facing Tesla-SpaceX merger",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261022681286/en/Marcus-Millichap-Names-Defease-With-Ease-Thirty-Capital-a-Preferred-Partner-for-Debt-Management-Services/",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/10/22/three-key-challenges-facing-tesla-spacex-merger/",
       "published": null
     },
     {
-      "id": "stockanalysis:ceaedbab1ca4cb5d",
-      "titleEn": "Oxbridge Health to Save Employers as Much as 25% on Health Benefits in 2027",
+      "id": "stockanalysis:b4b02ab1b20c6060",
+      "titleEn": "Nokia stock slides despite AI-fueled earnings beat: buy the dip?",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261022326587/en/Oxbridge-Health-to-Save-Employers-as-Much-as-25-on-Health-Benefits-in-2027/",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/22/nokia-stock-slides-despite-ai-fueled-earnings-beat-buy-the-dip/",
       "published": null
     },
     {
-      "id": "stockanalysis:fb89d738d8a8ff9a",
-      "titleEn": "Lost Money on FMC Corporation Shares? The Law Offices of Frank R.",
+      "id": "stockanalysis:743066712f012518",
+      "titleEn": "Gold and silver are not the best inflation hedges; investors should diversify into the commodity supercycle – Auspice Capital",
+      "summaryEn": "(Kitco News) - Gold ’s disappointing performance in recent months is further proof that it is not a reliable inflation hedge, and while it remains an important diversification tool, one fund manager says investors should be looking at broad-based exposure to commodities as the global economy enters what could be a generational supercycle. In an interview with Kitco News, Tim Pickering, President and CIO of Auspice Capital Advisors, said that while he personally likes gold and silver , he would not be investing in the precious metals at this time, as persistent inflation and elevated interest rates continue to create significant headwinds. Pickering explained that gold&#x27;s biggest weakness as an inflation hedge is that it can become a rate-sensitive investment precisely when consumers are facing rising prices. He noted that this is not the first time gold has been a disappointing inflation hedge. He pointed out that gold struggled between 2020 and 2022, even as U.S. inflation surged to a four-decade high of 9%.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-22/gold-and-silver-are-not-best-inflation-hedges-investors-should-diversify",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:158f40bcfc3547f6",
+      "titleEn": "Lam Research stock falls 9% despite record results; this analyst sees stock doubling",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261022470678/en/Lost-Money-on-FMC-Corporation-Shares-The-Law-Offices-of-Frank-R.-Cruz-Investigates-Potential-Securities-Fraud-After-30.53-Stock-Decline/",
+      "link": "https://invezz.com/news/2026/10/22/lam-research-stock-falls-9-despite-record-results-this-analyst-sees-stock-doubling/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1cdb7faf0fd85af7",
+      "titleEn": "These 2 dividend stocks are worth owning for a lifetime",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/22/these-2-dividend-stocks-are-worth-owning-for-a-lifetime/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b0a0718c143b407e",
+      "titleEn": "Nebius stock falls as $3.5B loan raises AI infrastructure debt concerns",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/22/nebius-stock-falls-as-3-5b-loan-raises-ai-infrastructure-debt-concerns/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:857f6db97e1c3868",
+      "titleEn": "Merck and Moderna Will Present Results From Landmark Phase 3 INTerpath-001 Trial for Intismeran Autogene Plus KEYTRUDA® (pembrolizumab) at ESMO 2026 Presidential Symposium",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261022568161/en/Merck-and-Moderna-Will-Present-Results-From-Landmark-Phase-3-INTerpath-001-Trial-for-Intismeran-Autogene-Plus-KEYTRUDA%C2%AE-pembrolizumab-at-ESMO-2026-Presidential-Symposium/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cf85d1a05eded027",
+      "titleEn": "Lindsay Announces Agreement to Acquire Setorial Irrigação, Expanding Global Irrigation Portfolio",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261022387920/en/Lindsay-Announces-Agreement-to-Acquire-Setorial-Irriga%C3%A7%C3%A3o-Expanding-Global-Irrigation-Portfolio/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:04b698bfd55e5e1e",
+      "titleEn": "The Marriott Vacation Clubs® and Topeka Collaborate to Launch Moon Crush \"Sunshine Live,\" a New Destination Music Weekend",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261020585568/en/The-Marriott-Vacation-Clubs%C2%AE-and-Topeka-Collaborate-to-Launch-Moon-Crush-Sunshine-Live-a-New-Destination-Music-Weekend/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6206254ff7869463",
+      "titleEn": "Ionis ranked #1 on Science's Top Employers list",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261021241983/en/Ionis-ranked-1-on-Science%E2%80%99s%C2%A0Top-Employers-list%C2%A0/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c56e5740d14795d0",
+      "titleEn": "LSI President and CEO Jim Clark Named CEO of the Year at Cincinnati Business Courier C-Suite Awards",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261022139933/en/LSI-President-and-CEO-Jim-Clark-Named-CEO-of-the-Year-at-Cincinnati-Business-Courier-C-Suite-Awards/",
       "published": null
     }
   ]
