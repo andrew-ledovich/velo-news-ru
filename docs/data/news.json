@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-10-23T05:33:50.368064Z",
+  "generatedAt": "2026-10-23T10:29:50.285877Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:fe1f38a667de4196",
+      "titleEn": "Top FTSE 100 Index shares to watch next week: HSBC, Lloyds, BP, NatWest",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/23/top-ftse-100-index-shares-to-watch-next-week-hsbc-lloyds-bp-natwest/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:353949cc43a9a311",
+      "titleEn": "Musk wants to merge SpaceX and Tesla: Here's what to know",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Elon Musk said this week that SpaceX and Tesla have formed special committees to study a merger of his two biggest companies. The combination would be worth about $3.5 trillion and would be the largest corporate deal in history.",
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://techxplore.com/news/2026-10-musk-merge-spacex-tesla.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:69a040d48a96b725",
+      "titleEn": "SK Hynix stock jumps 4.4% after scrapping Solidigm IPO plans",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/23/sk-hynix-stock-jumps-4-4-after-scrapping-solidigm-ipo-plans/",
+      "published": null
+    },
     {
       "id": "stockanalysis:22b7da9f32e7719e",
       "titleEn": "OpenAI Aims to Lock In $30 Billion Funding Round by Next Week",
@@ -40,75 +67,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:4e92232fae185bca",
-      "titleEn": "War in Iran, higher energy prices are only delaying gold's rally to $5,000; mining stocks remain undervalued – Gabelli",
-      "summaryEn": "(Kitco News) - The ongoing war in Iran and disruptions to global energy supplies are driving inflation pressures higher, forcing central banks to maintain restrictive monetary policies, which is taking its toll on gold ; however, one fund manager says the conflict is only delaying gold&#x27;s eventual rally, while the mining sector continues to generate significant cash flow at historically elevated prices. In an interview with Kitco News, Chris Mancini, co-portfolio manager of the Gabelli Gold Fund (GOLDX), said that if the conflict in Iran and disruptions to oil shipments through the Strait of Hormuz had been resolved during the summer, gold prices would probably already be trading at $5,000 an ounce. Mancini explained that the conflict has created a difficult environment for gold as higher energy prices fuel inflation, raising expectations that the Federal Reserve will continue increasing interest rates.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-22/war-iran-higher-energy-prices-are-only-delaying-golds-rally-5000-mining",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0065c724629cc3e6",
-      "titleEn": "Newmont beats third-quarter earnings expectations as higher gold sales boost profits; miner raises 2026 cost outlook",
-      "summaryEn": "(Kitco News) - Despite ongoing headwinds, the world&#x27;s largest gold producer reported stronger-than-expected third-quarter earnings Thursday, as higher gold sales volumes and elevated metal prices helped boost profitability and cash flow. Thursday after the North American equity close, Newmont Corporation (NYSE: NEM) reported adjusted net income of $2.20 per diluted share for the third quarter of 2026, beating analysts&#x27; consensus estimate of $1.94 per share by $0.26, or 13.4%. The results also exceeded the high end of analysts&#x27; earnings estimates, which ranged from $1.78 to $2.19 per share. Adjusted earnings increased 28.7% compared with $1.71 per share reported in the same quarter last year.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-22/newmont-beats-third-quarter-earnings-expectations-higher-gold-sales-boost",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9e1749d4f5004a92",
-      "titleEn": "Why Moderna stock plunged despite positive cancer vaccine trail results?",
+      "id": "stockanalysis:ff69db644177df13",
+      "titleEn": "Cognyte Investigative Analytics and Operational Intelligence Solutions for Law Enforcement Highlight IACP 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/22/why-moderna-stock-plunged-despite-positive-cancer-vaccine-trail-results/",
+      "link": "https://www.businesswire.com/news/home/20261014476257/en/Cognyte-Investigative-Analytics-and-Operational-Intelligence-Solutions-for-Law-Enforcement-Highlight-IACP-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:403afa8bfb849716",
-      "titleEn": "‘Very bizarre action' as gold retraces entire summer rally to test $4,000/oz: AI weakness, or yen intervention? – Jesse Columbo",
-      "summaryEn": "(Kitco News) – Gold’s dramatic Thursday selloff Has erased all of the yellow metals gains since the summer, and the lack of correlation with the US dollar index and bond yields suggests that this could be more than liquidations from the tech selloff, and may indicate the next round of yen interventions by the U.S. government, according to Jesse Colombo, independent precious metals analyst and founder of the BubbleBubble Report. Columbo told Kitco News on Thursday afternoon that he was just trying to decipher what was going on in the gold market. “Very bizarre action,” he said. “The dollar index is down. Normally you would expect the dollar index to be up one percent on a day like this, and yet it&#x27;s down 15 basis points.”",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-10-22/very-bizarre-action-gold-retraces-entire-summer-rally-test-4000oz-ai",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b701c8f76338683d",
-      "titleEn": "Micron stock falls 5%, why this analyst gave it a $3000 target price",
+      "id": "stockanalysis:093dee9ec56829ab",
+      "titleEn": "China Eastern Airlines Unveils Integrated Service Solutions and Innovative Initiatives at 2026 North Bund International Aviation Forum",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/22/micron-stock-falls-5-why-this-analyst-gave-it-a-3000-target-price/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:42138b0f46560607",
-      "titleEn": "EverGen Infrastructure Announces Record RNG Production for Q3 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261022105641/en/EverGen-Infrastructure-Announces-Record-RNG-Production-for-Q3-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8375f74ebc73ffd2",
-      "titleEn": "Zai Lab Announces $250 Million Private Placement",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261022292690/en/Zai-Lab-Announces-250-Million-Private-Placement/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1e3375a084992359",
-      "titleEn": "Sensata Technologies Board Approves Q4 2026 Dividend of $0.12 per share",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261022356393/en/Sensata-Technologies-Board-Approves-Q4-2026-Dividend-of-0.12-per-share/",
+      "link": "https://www.businesswire.com/news/home/20261023735058/en/China-Eastern-Airlines-Unveils-Integrated-Service-Solutions-and-Innovative-Initiatives-at-2026-North-Bund-International-Aviation-Forum/",
       "published": null
     }
   ]
