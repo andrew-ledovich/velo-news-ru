@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-10-23T19:22:09.559722Z",
+  "generatedAt": "2026-10-23T22:25:10.290360Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:ed0671be868aee65",
+      "titleEn": "Gold's $4,000 support breaks, but is the selloff overdone?",
+      "summaryEn": "(Kitco News) - The gold market can’t catch a break as prices have fallen below a key pivot level ahead of the weekend, even as U.S. 10-year Treasury yields have dropped below 5%. Analysts note that gold’s bullish momentum has been hindered by persistent inflation, which has forced the Federal Reserve to enter a tightening cycle, driving interest rates and real yields higher and increasing the opportunity cost of holding the non-yielding precious metal. However, Thursday saw a significant rally in long-dated U.S. Treasury bonds as investors sought safety amid growing concerns about equity markets. Although the decline in 10-year yields has reduced gold’s opportunity cost, analysts say technical selling and broader liquidity concerns continue to dominate price action.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-23/golds-4000-support-breaks-selloff-overdone",
+      "published": null
+    },
     {
       "id": "stockanalysis:5c4ecd4da5301670",
       "titleEn": "Why are AMD, Intel stocks gaining today?",
@@ -58,111 +67,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1e17778a7a533edb",
-      "titleEn": "JEPI yields 8%, SCHD yields 3%: which is the better dividend ETF?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/23/jepi-yields-8-schd-yields-3-which-is-the-better-dividend-etf/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:139d671a8ea21c72",
-      "titleEn": "Western Digital stock rises as strong earnings offset capex and supply concerns",
+      "id": "stockanalysis:1f8e5d9a10cc298a",
+      "titleEn": "Vital Farms Introduces a Higher Standard for Free-Range Eggs Through Limited Pilot at Select Target Retail Stores",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/23/western-digital-stock-rises-as-strong-earnings-offset-capex-and-supply-concerns/",
+      "link": "https://www.businesswire.com/news/home/20261023576432/en/Vital-Farms-Introduces-a-Higher-Standard-for-Free-Range-Eggs-Through-Limited-Pilot-at-Select-Target-Retail-Stores/",
       "published": null
     },
     {
-      "id": "stockanalysis:7278c53ad6be2dd0",
-      "titleEn": "Gold price trades near $4,000/oz after final Consumer Sentiment holds steady at 48, inflation expectations rise",
-      "summaryEn": "(Kitco News) - The gold market is trading near key support after the latest data showed consumer sentiment in the U.S. holding steady, while inflation expectations rose higher. The University of Michigan announced on Friday that the final reading of its Consumer Sentiment survey for October was 48. The data was better than expectations, as the consensus forecast of economists called for a reading of 46.3, the same as the preliminary reading, and it was also just below September’s final reading of 48.1. “Consumer sentiment held steady this month, registering a scant one-tenth of an index point below September,” said Surveys of Consumers Director Joanne Hsu in the report. “Increases in sentiment among Republicans and Democrats were balanced by declines among independents. While year-ahead business conditions improved about 14%, they stand 16% less than last October’s read.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-23/gold-price-trades-near-4000oz-after-final-consumer-sentiment-holds-steady",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:93caf61140256202",
-      "titleEn": "Gold struggles as S&amp;P PMI shows health activity in Manufacturing Services sectors",
-      "summaryEn": "(Kitco News) - The gold market continues to hold support around $4,000 an ounce, but it could face further headwinds as relatively stable activity in both the manufacturing and services sectors reduces safe-haven demand for the precious metal. S&P Global reported on Friday that its flash Composite Purchasing Managers Index (PMI) fell to 57.6 in October, down from September’s reading of 58.4. “US business activity growth slowed in October but remained close to September’s recent high in response to a further improvement in order books. Growth rates in both manufacturing and services remained among the best seen over the past five years as robust domestic demand was accompanied by renewed signs of export growth,” the report said.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-23/gold-struggles-sp-pmi-shows-health-activity-manufacturing-services-sectors",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3c98f1e5327de45d",
-      "titleEn": "Why is Bloom Energy stock falling on Friday despite Q3 earnings and revenue beat?",
+      "id": "stockanalysis:8cd39237a546dc5d",
+      "titleEn": "Notice to Market: Nu Holdings Ltd.",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/23/why-is-bloom-energy-stock-falling-on-friday-despite-q3-earnings-and-revenue-beat/",
+      "link": "https://www.businesswire.com/news/home/20261023270840/en/Notice-to-Market-Nu-Holdings-Ltd./",
       "published": null
     },
     {
-      "id": "stockanalysis:45fd207d017b0cf2",
-      "titleEn": "These airline stocks remain worth owning despite $100 oil",
+      "id": "stockanalysis:f2c907a77c2cdd1b",
+      "titleEn": "AN2 Therapeutics, Inc. Reports Inducement Grants Under Listing Rule 5635(c)(4)",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/23/these-airline-stock-remain-worth-owning-despite-100-oil/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:88065c70ebf96b51",
-      "titleEn": "Lucid stock faces major risks, but a short squeeze can't be ruled out",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/10/23/lucid-stock-faces-major-risks-but-a-short-squeeze-cant-be-ruled-out/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:52b6e56f799f593c",
-      "titleEn": "Wolters Kluwer launches agentic tax preparation in CCH Axcess, the agentic platform for tax and accounting",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023674905/en/Wolters-Kluwer-launches-agentic-tax-preparation-in-CCH-Axcess-the-agentic-platform-for-tax-and-accounting/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6086cf7ccdec9151",
-      "titleEn": "Infinity Hires Meta Superintelligence Labs Chip Veteran and the CUDA Educator Who's Taught Two Million Engineers",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023380240/en/Infinity-Hires-Meta-Superintelligence-Labs-Chip-Veteran-and-the-CUDA-Educator-Whos-Taught-Two-Million-Engineers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c1f0925846a67800",
-      "titleEn": "PennyMac Mortgage Investment Trust Reschedules Third Quarter 2026 Earnings Call to 6:30 PM ET on Thursday, October 29",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023491366/en/PennyMac-Mortgage-Investment-Trust-Reschedules-Third-Quarter-2026-Earnings-Call-to-630-PM-ET-on-Thursday-October-29/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ecd2790d2b133de7",
-      "titleEn": "Phase 3 RAINIER Results Supporting Best-in-Class Potential of Povetacicept in IgA Nephropathy Published in the New England Journal of Medicine and Presented at the American Society of Nephrology Kidney Week 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023342443/en/Phase-3-RAINIER-Results-Supporting-Best-in-Class-Potential-of-Povetacicept-in-IgA-Nephropathy-Published-in-the-New-England-Journal-of-Medicine-and-Presented-at-the-American-Society-of-Nephrology-Kidney-Week-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:90818883449b17a2",
-      "titleEn": "PennyMac Financial Services, Inc. Reschedules Third Quarter 2026 Earnings Call to 5:30 PM ET on Thursday, October 29",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023483596/en/PennyMac-Financial-Services-Inc.-Reschedules-Third-Quarter-2026-Earnings-Call-to-530-PM-ET-on-Thursday-October-29/",
+      "link": "https://www.businesswire.com/news/home/20261023571727/en/AN2-Therapeutics-Inc.-Reports-Inducement-Grants-Under-Listing-Rule-5635-c-4/",
       "published": null
     }
   ]
