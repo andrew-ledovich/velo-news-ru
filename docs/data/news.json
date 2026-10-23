@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-10-22T22:35:58.543791Z",
+  "generatedAt": "2026-10-23T00:55:35.052851Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 7,
   "items": [
+    {
+      "id": "stockanalysis:cb40b0d0ec21cbb3",
+      "titleEn": "American Airlines Says Loyalty Program Drives Revenues and Margins",
+      "summaryEn": "American Airlines ’ loyalty program, AAdvantage , differentiates the company from its rivals and provides a competitive advantage, executives said Thursday (Oct. 22) during a third-quarter earnings call . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “We said we’d lead in loyalty, and we are,” American Airlines CEO Robert Isom said during the call. “AAdvantage enrollments and spending on our co-branded credit cards are up year over year, and the AAdvantage program remains one of our strongest competitive advantages.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/loyalty-and-rewards-news/2026/american-airlines-says-loyalty-program-drives-revenues-margins/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3d59deba74eeaa5e",
       "titleEn": "Precious metals tumble despite falling yields as Hormuz tensions intensify - Kitco PM Report",
@@ -55,105 +64,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/10/22/micron-stock-falls-5-why-this-analyst-gave-it-a-3000-target-price/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:db1d1816859890c7",
-      "titleEn": "Oracle stock falls 4%: why this analyst sees a 120% upside for the stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/22/oracle-stock-falls-4-why-this-analyst-sees-a-120-upside-for-the-stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:496b327a94d77c2d",
-      "titleEn": "Why Nvidia stock is down over 4% on Thursday?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/22/why-nvidia-stock-is-down-over-4-on-thursday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:40ecbeb25ff17739",
-      "titleEn": "Anthropic could file for IPO Friday: how investors can prepare to buy the stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/22/anthropic-could-file-for-ipo-friday-how-investors-can-prepare-to-buy-the-stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:511365c66aaeb4e7",
-      "titleEn": "Three key challenges facing Tesla-SpaceX merger",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/10/22/three-key-challenges-facing-tesla-spacex-merger/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6987affa41b1ad68",
-      "titleEn": "Rio Tinto to invest $1.9 billion to develop the Kangwinan bauxite project in Western Cape York, Queensland",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261022864714/en/Rio-Tinto-to-invest-1.9-billion-to-develop-the-Kangwinan-bauxite-project-in-Western-Cape-York-Queensland/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:305ee60593e4cbab",
-      "titleEn": "James Hardie Announces Timing of Second Quarter FY27 Earnings Release and Conference Call",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261022482646/en/James-Hardie-Announces-Timing-of-Second-Quarter-FY27-Earnings-Release-and-Conference-Call/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:133cd1a1840d8b05",
-      "titleEn": "Chamberlain University Opens First Utah Campus and 26th Location Nationwide, Expanding Nursing Education in the State with the Fewest Nurses per Capita",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261022510518/en/Chamberlain-University-Opens-First-Utah-Campus-and-26th-Location-Nationwide-Expanding-Nursing-Education-in-the-State-with-the-Fewest-Nurses-per-Capita/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:625482335271e898",
-      "titleEn": "Lucky Strike Entertainment to Report First Quarter 2027 Financial Results on November 5, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261022253786/en/Lucky-Strike-Entertainment-to-Report-First-Quarter-2027-Financial-Results-on-November-5-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3a890c21e98ea398",
-      "titleEn": "Zevia Announces $20 Million Growth Equity Investment",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261022875458/en/Zevia-Announces-20-Million-Growth-Equity-Investment/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9a4e6817de43a174",
-      "titleEn": "DNIB.com Reports Internet Has 411.6 Million Domain Name Registrations at the End of the Third Quarter of 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261022233391/en/DNIB.com-Reports-Internet-Has-411.6-Million-Domain-Name-Registrations-at-the-End-of-the-Third-Quarter-of-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cd478ecdf042a46e",
-      "titleEn": "N-able to Host Third Quarter Earnings Conference Call on November 5, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261022962044/en/N-able-to-Host-Third-Quarter-Earnings-Conference-Call-on-November-5-2026/",
       "published": null
     }
   ]
