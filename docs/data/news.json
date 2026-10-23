@@ -1,8 +1,116 @@
 {
-  "generatedAt": "2026-10-23T10:29:50.285877Z",
+  "generatedAt": "2026-10-23T15:22:23.007217Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:139d671a8ea21c72",
+      "titleEn": "Western Digital stock rises as strong earnings offset capex and supply concerns",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/23/western-digital-stock-rises-as-strong-earnings-offset-capex-and-supply-concerns/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7278c53ad6be2dd0",
+      "titleEn": "Gold price trades near $4,000/oz after final Consumer Sentiment holds steady at 48, inflation expectations rise",
+      "summaryEn": "(Kitco News) - The gold market is trading near key support after the latest data showed consumer sentiment in the U.S. holding steady, while inflation expectations rose higher. The University of Michigan announced on Friday that the final reading of its Consumer Sentiment survey for October was 48. The data was better than expectations, as the consensus forecast of economists called for a reading of 46.3, the same as the preliminary reading, and it was also just below September’s final reading of 48.1. “Consumer sentiment held steady this month, registering a scant one-tenth of an index point below September,” said Surveys of Consumers Director Joanne Hsu in the report. “Increases in sentiment among Republicans and Democrats were balanced by declines among independents. While year-ahead business conditions improved about 14%, they stand 16% less than last October’s read.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-23/gold-price-trades-near-4000oz-after-final-consumer-sentiment-holds-steady",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:93caf61140256202",
+      "titleEn": "Gold struggles as S&amp;P PMI shows health activity in Manufacturing Services sectors",
+      "summaryEn": "(Kitco News) - The gold market continues to hold support around $4,000 an ounce, but it could face further headwinds as relatively stable activity in both the manufacturing and services sectors reduces safe-haven demand for the precious metal. S&P Global reported on Friday that its flash Composite Purchasing Managers Index (PMI) fell to 57.6 in October, down from September’s reading of 58.4. “US business activity growth slowed in October but remained close to September’s recent high in response to a further improvement in order books. Growth rates in both manufacturing and services remained among the best seen over the past five years as robust domestic demand was accompanied by renewed signs of export growth,” the report said.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-23/gold-struggles-sp-pmi-shows-health-activity-manufacturing-services-sectors",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3c98f1e5327de45d",
+      "titleEn": "Why is Bloom Energy stock falling on Friday despite Q3 earnings and revenue beat?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/23/why-is-bloom-energy-stock-falling-on-friday-despite-q3-earnings-and-revenue-beat/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:45fd207d017b0cf2",
+      "titleEn": "These airline stocks remain worth owning despite $100 oil",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/23/these-airline-stock-remain-worth-owning-despite-100-oil/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:88065c70ebf96b51",
+      "titleEn": "Lucid stock faces major risks, but a short squeeze can't be ruled out",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/10/23/lucid-stock-faces-major-risks-but-a-short-squeeze-cant-be-ruled-out/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e9770850542d2ad6",
+      "titleEn": "Gold heads for steep weekly loss as Hormuz tensions lift crude toward five-month highs - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were sharply lower in early U.S. trading Friday, extending Thursday&#x27;s heavy losses as renewed Middle East tensions pushed crude oil prices higher and reinforced expectations that the Federal Reserve will maintain restrictive monetary policy. Gold failed to attract sustained safe-haven demand despite growing geopolitical risks and weakness in global equities, while silver faced additional pressure from concerns about industrial activity and elevated borrowing costs. At the latest available morning price reading, spot gold was trading near $4,026.56 an ounce, down 2.40% on the quoted session, while spot silver was trading near $53.801, down 6.40%. Gold was heading toward a weekly loss of more than 3.5%, with both metals remaining under heavy selling pressure. Market positioning remains dominated by persistent inflation pressure and expectations for further monetary tightening. September consumer prices rose 0.6% on the month and 3.7% annually , while producer prices increased 1.3% and 6.3%, respectively. Interest rate futures indicate that the Fed is widely expected to leave rates unchanged at its Oct. 27-28 meeting, although traders continue to assign approximately a 78% probability to at least one additional increase by December. Thursday&#x27;s sharp technology-led equity selloff encouraged demand for government bonds, producing a substantial decline in Treasury yields. However, the benchmark 10-year yield rebounded toward the 5.0% area Friday as renewed energy-price increases revived inflation concerns. The combination of firm rate expectations, rising crude prices and continued liquidation pressure has limited gold&#x27;s ability to benefit from geopolitical uncertainty or intermittent declines in yields.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-23/gold-heads-steep-weekly-loss-hormuz-tensions-lift-crude-toward-five-month",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a9e9be7b286c3a9c",
+      "titleEn": "Why SpaceX stock is rising on Friday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/23/why-spacex-stock-is-rising-on-friday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:84f1b82eb862007d",
+      "titleEn": "Chipotle stock lands at a key support as top analyst slashes target: is it a buy?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/23/chipotle-stock-lands-at-a-key-support-as-top-analyst-slashes-target-is-it-a-buy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a24da671e884912d",
+      "titleEn": "Why are AT&amp;T, Verizon, and T-Mobile stocks falling during premarket Friday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/23/why-are-att-verizon-and-t-mobile-stocks-falling-during-premarket-friday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fbbb1616f8acf7fd",
+      "titleEn": "Volvo Cars shares crash to all-time low after Q3 revenue collapses 22.6%",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/23/volvo-cars-shares-crash-to-all-time-low-after-q3-revenue-collapses-22-6/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:06b2eb4f59e83079",
+      "titleEn": "Anthropic set to launch AI consultancy services in Europe: report",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/23/anthropic-set-to-launch-ai-consultancy-services-in-europe-report/",
+      "published": null
+    },
     {
       "id": "stockanalysis:fe1f38a667de4196",
       "titleEn": "Top FTSE 100 Index shares to watch next week: HSBC, Lloyds, BP, NatWest",
@@ -13,75 +121,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:353949cc43a9a311",
-      "titleEn": "Musk wants to merge SpaceX and Tesla: Here's what to know",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Elon Musk said this week that SpaceX and Tesla have formed special committees to study a merger of his two biggest companies. The combination would be worth about $3.5 trillion and would be the largest corporate deal in history.",
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://techxplore.com/news/2026-10-musk-merge-spacex-tesla.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:69a040d48a96b725",
-      "titleEn": "SK Hynix stock jumps 4.4% after scrapping Solidigm IPO plans",
+      "id": "stockanalysis:60c7f3de0837f1f2",
+      "titleEn": "Bristol Myers Squibb Presents Results from Phase 1 Breakfree-2 Study of Zolacabtagene Autoleucel (BMS-986353) in Patients with Highly Active Relapsing and Progressive Forms of Multiple Sclerosis at MSToronto 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/23/sk-hynix-stock-jumps-4-4-after-scrapping-solidigm-ipo-plans/",
+      "link": "https://www.businesswire.com/news/home/20261022949204/en/Bristol-Myers-Squibb-Presents-Results-from-Phase-1-Breakfree-2-Study-of-Zolacabtagene-Autoleucel-BMS-986353-in-Patients-with-Highly-Active-Relapsing-and-Progressive-Forms-of-Multiple-Sclerosis-at-MSToronto-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:22b7da9f32e7719e",
-      "titleEn": "OpenAI Aims to Lock In $30 Billion Funding Round by Next Week",
-      "summaryEn": "OpenAI is close to finalizing a funding round in which it could raise as much as $30 billion at a $1.25 trillion pre-money valuation, CNBC reported Thursday (Oct. 22), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); OpenAI told investors Thursday that it aims to secure signatures by the end of next week, though the final size of the round is still being determined, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-aims-to-lock-in-30-billion-funding-round-by-next-week/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:136d9f883e3d7b83",
-      "titleEn": "Uber Deploys OpenAI Agents to All 30,000 Employees",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); ChatGPT Work is an agent designed to take on complex, multi-step tasks within ChatGPT Enterprise and deliver finished work, according to the release. Uber employees will be able to use the agent for tasks such as researching information, preparing meeting briefs, creating presentations, analyzing data and completing workflows across applications, the release said.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/uber-deploys-openai-agents-to-all-30000-employees/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cb40b0d0ec21cbb3",
-      "titleEn": "American Airlines Says Loyalty Program Drives Revenues and Margins",
-      "summaryEn": "American Airlines ’ loyalty program, AAdvantage , differentiates the company from its rivals and provides a competitive advantage, executives said Thursday (Oct. 22) during a third-quarter earnings call . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “We said we’d lead in loyalty, and we are,” American Airlines CEO Robert Isom said during the call. “AAdvantage enrollments and spending on our co-branded credit cards are up year over year, and the AAdvantage program remains one of our strongest competitive advantages.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/loyalty-and-rewards-news/2026/american-airlines-says-loyalty-program-drives-revenues-margins/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3d59deba74eeaa5e",
-      "titleEn": "Precious metals tumble despite falling yields as Hormuz tensions intensify - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in late U.S. trading Thursday, as renewed Middle East tensions sent crude oil prices higher, reinforcing inflation concerns and expectations for additional Federal Reserve tightening. A sharp selloff in technology shares and falling Treasury yields failed to generate sustained safe-haven demand for bullion, while silver faced additional pressure from concerns about industrial demand and slowing economic activity. At the time of the latest verified late-afternoon reading, spot gold was trading near $4,021.20 an ounce, down $119.10, or 2.88%, while spot silver was trading near $54.440, down $3.410, or 5.90%. Market positioning remains divided between persistent inflation pressure, weaker economic activity and growing financial-market instability. September consumer inflation increased 0.6% on the month and 3.7% annually , while producer prices rose 1.3% and 6.3%, respectively . Fed funds futures continue to favor no change at the Oct. 27-28 Federal Reserve meeting, with recent pricing indicating approximately an 84% probability of a pause and a 16% probability of a 25-basis-point increase. December tightening remains the central market expectation, although the precise probabilities have fluctuated as traders reassess growth risks and the inflationary impact of elevated energy prices. Treasury yields declined Thursday as selling in technology shares encouraged demand for government bonds. However, falling yields failed to support gold, suggesting that precious metals positioning, liquidation pressure and the outlook for further monetary tightening remained dominant considerations.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-22/precious-metals-tumble-despite-falling-yields-hormuz-tensions-intensify",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ff69db644177df13",
-      "titleEn": "Cognyte Investigative Analytics and Operational Intelligence Solutions for Law Enforcement Highlight IACP 2026",
+      "id": "stockanalysis:76bc94a46bd05ff5",
+      "titleEn": "BeOne Medicines Reports Sustained Survival Benefit with TEVIMBRA-ZIIHERA Combination in First-Line HER2+ Gastroesophageal Cancer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261014476257/en/Cognyte-Investigative-Analytics-and-Operational-Intelligence-Solutions-for-Law-Enforcement-Highlight-IACP-2026/",
+      "link": "https://www.businesswire.com/news/home/20261023068473/en/BeOne-Medicines-Reports-Sustained-Survival-Benefit-with-TEVIMBRA-ZIIHERA-Combination-in-First-Line-HER2-Gastroesophageal-Cancer/",
       "published": null
     },
     {
-      "id": "stockanalysis:093dee9ec56829ab",
-      "titleEn": "China Eastern Airlines Unveils Integrated Service Solutions and Innovative Initiatives at 2026 North Bund International Aviation Forum",
+      "id": "stockanalysis:9c66d55d7d5e87d3",
+      "titleEn": "Lifezone Metals Confirms Advanced Negotiations with Orion CMC on Kabanga Nickel Project",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023735058/en/China-Eastern-Airlines-Unveils-Integrated-Service-Solutions-and-Innovative-Initiatives-at-2026-North-Bund-International-Aviation-Forum/",
+      "link": "https://www.businesswire.com/news/home/20261023787126/en/Lifezone-Metals-Confirms-Advanced-Negotiations-with-Orion-CMC-on-Kabanga-Nickel-Project/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c96975826de303a9",
+      "titleEn": "The 18th Skechers Pier to Pier Friendship Walk Raises $3.3 Million for Kids",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261023830308/en/The-18th-Skechers-Pier-to-Pier-Friendship-Walk-Raises-3.3-Million-for-Kids/",
       "published": null
     }
   ]
