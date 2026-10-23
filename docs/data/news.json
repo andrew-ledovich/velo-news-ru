@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-10-23T00:55:35.052851Z",
+  "generatedAt": "2026-10-23T05:33:50.368064Z",
   "sourceCount": 1,
-  "count": 7,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:22b7da9f32e7719e",
+      "titleEn": "OpenAI Aims to Lock In $30 Billion Funding Round by Next Week",
+      "summaryEn": "OpenAI is close to finalizing a funding round in which it could raise as much as $30 billion at a $1.25 trillion pre-money valuation, CNBC reported Thursday (Oct. 22), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); OpenAI told investors Thursday that it aims to secure signatures by the end of next week, though the final size of the round is still being determined, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-aims-to-lock-in-30-billion-funding-round-by-next-week/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:136d9f883e3d7b83",
+      "titleEn": "Uber Deploys OpenAI Agents to All 30,000 Employees",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); ChatGPT Work is an agent designed to take on complex, multi-step tasks within ChatGPT Enterprise and deliver finished work, according to the release. Uber employees will be able to use the agent for tasks such as researching information, preparing meeting briefs, creating presentations, analyzing data and completing workflows across applications, the release said.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/uber-deploys-openai-agents-to-all-30000-employees/",
+      "published": null
+    },
     {
       "id": "stockanalysis:cb40b0d0ec21cbb3",
       "titleEn": "American Airlines Says Loyalty Program Drives Revenues and Margins",
@@ -64,6 +82,33 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/10/22/micron-stock-falls-5-why-this-analyst-gave-it-a-3000-target-price/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:42138b0f46560607",
+      "titleEn": "EverGen Infrastructure Announces Record RNG Production for Q3 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261022105641/en/EverGen-Infrastructure-Announces-Record-RNG-Production-for-Q3-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8375f74ebc73ffd2",
+      "titleEn": "Zai Lab Announces $250 Million Private Placement",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261022292690/en/Zai-Lab-Announces-250-Million-Private-Placement/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1e3375a084992359",
+      "titleEn": "Sensata Technologies Board Approves Q4 2026 Dividend of $0.12 per share",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261022356393/en/Sensata-Technologies-Board-Approves-Q4-2026-Dividend-of-0.12-per-share/",
       "published": null
     }
   ]
