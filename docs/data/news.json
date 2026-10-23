@@ -1,8 +1,71 @@
 {
-  "generatedAt": "2026-10-23T15:22:23.007217Z",
+  "generatedAt": "2026-10-23T19:22:09.559722Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:5c4ecd4da5301670",
+      "titleEn": "Why are AMD, Intel stocks gaining today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/23/why-are-amd-intel-stocks-gaining-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d262a25096829991",
+      "titleEn": "Rubrik stock hits a record high on AI demand, as a risky pattern slowly forms",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/23/rubrik-stock-hits-a-record-high-on-ai-demand-as-a-risky-pattern-slowly-forms/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7f9e8575f26ee223",
+      "titleEn": "Why Nvidia stock is in red today: growth case meets bearish warning",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/23/why-nvidia-stock-is-in-red-today-growth-case-meets-bearish-warning/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cc772d4521b050e6",
+      "titleEn": "Why are Micron, SK Hynix, and SanDisk stocks climbing on Friday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/23/why-are-micron-sk-hynix-and-sandisk-stocks-climbing-on-friday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ffc24ea8c926e2b9",
+      "titleEn": "Moderna leaked data was positive, what's hurting MRNA stock then?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/23/moderna-leaked-data-was-positive-whats-hurting-mrna-stock-then/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a8584ac2846bcd55",
+      "titleEn": "American Express beats earnings, cuts jobs - still fails to win over Wall Street",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/23/american-express-beats-earnings-cuts-jobs-still-fails-to-win-over-wall-street/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1e17778a7a533edb",
+      "titleEn": "JEPI yields 8%, SCHD yields 3%: which is the better dividend ETF?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/10/23/jepi-yields-8-schd-yields-3-which-is-the-better-dividend-etf/",
+      "published": null
+    },
     {
       "id": "stockanalysis:139d671a8ea21c72",
       "titleEn": "Western Digital stock rises as strong earnings offset capex and supply concerns",
@@ -58,102 +121,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:e9770850542d2ad6",
-      "titleEn": "Gold heads for steep weekly loss as Hormuz tensions lift crude toward five-month highs - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were sharply lower in early U.S. trading Friday, extending Thursday&#x27;s heavy losses as renewed Middle East tensions pushed crude oil prices higher and reinforced expectations that the Federal Reserve will maintain restrictive monetary policy. Gold failed to attract sustained safe-haven demand despite growing geopolitical risks and weakness in global equities, while silver faced additional pressure from concerns about industrial activity and elevated borrowing costs. At the latest available morning price reading, spot gold was trading near $4,026.56 an ounce, down 2.40% on the quoted session, while spot silver was trading near $53.801, down 6.40%. Gold was heading toward a weekly loss of more than 3.5%, with both metals remaining under heavy selling pressure. Market positioning remains dominated by persistent inflation pressure and expectations for further monetary tightening. September consumer prices rose 0.6% on the month and 3.7% annually , while producer prices increased 1.3% and 6.3%, respectively. Interest rate futures indicate that the Fed is widely expected to leave rates unchanged at its Oct. 27-28 meeting, although traders continue to assign approximately a 78% probability to at least one additional increase by December. Thursday&#x27;s sharp technology-led equity selloff encouraged demand for government bonds, producing a substantial decline in Treasury yields. However, the benchmark 10-year yield rebounded toward the 5.0% area Friday as renewed energy-price increases revived inflation concerns. The combination of firm rate expectations, rising crude prices and continued liquidation pressure has limited gold&#x27;s ability to benefit from geopolitical uncertainty or intermittent declines in yields.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-23/gold-heads-steep-weekly-loss-hormuz-tensions-lift-crude-toward-five-month",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a9e9be7b286c3a9c",
-      "titleEn": "Why SpaceX stock is rising on Friday?",
+      "id": "stockanalysis:52b6e56f799f593c",
+      "titleEn": "Wolters Kluwer launches agentic tax preparation in CCH Axcess, the agentic platform for tax and accounting",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/23/why-spacex-stock-is-rising-on-friday/",
+      "link": "https://www.businesswire.com/news/home/20261023674905/en/Wolters-Kluwer-launches-agentic-tax-preparation-in-CCH-Axcess-the-agentic-platform-for-tax-and-accounting/",
       "published": null
     },
     {
-      "id": "stockanalysis:84f1b82eb862007d",
-      "titleEn": "Chipotle stock lands at a key support as top analyst slashes target: is it a buy?",
+      "id": "stockanalysis:6086cf7ccdec9151",
+      "titleEn": "Infinity Hires Meta Superintelligence Labs Chip Veteran and the CUDA Educator Who's Taught Two Million Engineers",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/23/chipotle-stock-lands-at-a-key-support-as-top-analyst-slashes-target-is-it-a-buy/",
+      "link": "https://www.businesswire.com/news/home/20261023380240/en/Infinity-Hires-Meta-Superintelligence-Labs-Chip-Veteran-and-the-CUDA-Educator-Whos-Taught-Two-Million-Engineers/",
       "published": null
     },
     {
-      "id": "stockanalysis:a24da671e884912d",
-      "titleEn": "Why are AT&amp;T, Verizon, and T-Mobile stocks falling during premarket Friday?",
+      "id": "stockanalysis:c1f0925846a67800",
+      "titleEn": "PennyMac Mortgage Investment Trust Reschedules Third Quarter 2026 Earnings Call to 6:30 PM ET on Thursday, October 29",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/23/why-are-att-verizon-and-t-mobile-stocks-falling-during-premarket-friday/",
+      "link": "https://www.businesswire.com/news/home/20261023491366/en/PennyMac-Mortgage-Investment-Trust-Reschedules-Third-Quarter-2026-Earnings-Call-to-630-PM-ET-on-Thursday-October-29/",
       "published": null
     },
     {
-      "id": "stockanalysis:fbbb1616f8acf7fd",
-      "titleEn": "Volvo Cars shares crash to all-time low after Q3 revenue collapses 22.6%",
+      "id": "stockanalysis:ecd2790d2b133de7",
+      "titleEn": "Phase 3 RAINIER Results Supporting Best-in-Class Potential of Povetacicept in IgA Nephropathy Published in the New England Journal of Medicine and Presented at the American Society of Nephrology Kidney Week 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/23/volvo-cars-shares-crash-to-all-time-low-after-q3-revenue-collapses-22-6/",
+      "link": "https://www.businesswire.com/news/home/20261023342443/en/Phase-3-RAINIER-Results-Supporting-Best-in-Class-Potential-of-Povetacicept-in-IgA-Nephropathy-Published-in-the-New-England-Journal-of-Medicine-and-Presented-at-the-American-Society-of-Nephrology-Kidney-Week-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:06b2eb4f59e83079",
-      "titleEn": "Anthropic set to launch AI consultancy services in Europe: report",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/23/anthropic-set-to-launch-ai-consultancy-services-in-europe-report/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fe1f38a667de4196",
-      "titleEn": "Top FTSE 100 Index shares to watch next week: HSBC, Lloyds, BP, NatWest",
+      "id": "stockanalysis:90818883449b17a2",
+      "titleEn": "PennyMac Financial Services, Inc. Reschedules Third Quarter 2026 Earnings Call to 5:30 PM ET on Thursday, October 29",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/23/top-ftse-100-index-shares-to-watch-next-week-hsbc-lloyds-bp-natwest/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:60c7f3de0837f1f2",
-      "titleEn": "Bristol Myers Squibb Presents Results from Phase 1 Breakfree-2 Study of Zolacabtagene Autoleucel (BMS-986353) in Patients with Highly Active Relapsing and Progressive Forms of Multiple Sclerosis at MSToronto 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261022949204/en/Bristol-Myers-Squibb-Presents-Results-from-Phase-1-Breakfree-2-Study-of-Zolacabtagene-Autoleucel-BMS-986353-in-Patients-with-Highly-Active-Relapsing-and-Progressive-Forms-of-Multiple-Sclerosis-at-MSToronto-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:76bc94a46bd05ff5",
-      "titleEn": "BeOne Medicines Reports Sustained Survival Benefit with TEVIMBRA-ZIIHERA Combination in First-Line HER2+ Gastroesophageal Cancer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023068473/en/BeOne-Medicines-Reports-Sustained-Survival-Benefit-with-TEVIMBRA-ZIIHERA-Combination-in-First-Line-HER2-Gastroesophageal-Cancer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9c66d55d7d5e87d3",
-      "titleEn": "Lifezone Metals Confirms Advanced Negotiations with Orion CMC on Kabanga Nickel Project",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023787126/en/Lifezone-Metals-Confirms-Advanced-Negotiations-with-Orion-CMC-on-Kabanga-Nickel-Project/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c96975826de303a9",
-      "titleEn": "The 18th Skechers Pier to Pier Friendship Walk Raises $3.3 Million for Kids",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023830308/en/The-18th-Skechers-Pier-to-Pier-Friendship-Walk-Raises-3.3-Million-for-Kids/",
+      "link": "https://www.businesswire.com/news/home/20261023483596/en/PennyMac-Financial-Services-Inc.-Reschedules-Third-Quarter-2026-Earnings-Call-to-530-PM-ET-on-Thursday-October-29/",
       "published": null
     }
   ]
