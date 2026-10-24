@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T00:51:27.777672Z",
+  "generatedAt": "2026-10-24T05:11:01.743837Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:52e427b181f932ef",
@@ -73,6 +73,24 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/10/23/moderna-leaked-data-was-positive-whats-hurting-mrna-stock-then/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0b5f52dfc0f86921",
+      "titleEn": "Slate Grocery REIT Announces Receipt of Interim Order, and Provides Meeting and Circular Details",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261023773309/en/Slate-Grocery-REIT-Announces-Receipt-of-Interim-Order-and-Provides-Meeting-and-Circular-Details/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d6903966d2942ba2",
+      "titleEn": "Genesis Healthcare Announces Effective Date of Chapter 11 Plan Following Consummation of Sale to West State Street",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261023067917/en/Genesis-Healthcare-Announces-Effective-Date-of-Chapter-11-Plan-Following-Consummation-of-Sale-to-West-State-Street/",
       "published": null
     },
     {
