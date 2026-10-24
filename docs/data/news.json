@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-10-24T09:29:48.133798Z",
+  "generatedAt": "2026-10-24T13:28:45.322958Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:0a3b8fc99f5fab2a",
+      "titleEn": "S&amp;P 500 eyes 4th straight year of double-digit gains, a rare feat in 100 years",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/24/sp-500-eyes-4th-straight-year-of-double-digit-gains-a-rare-feat-in-100-years/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3393455d30acfdff",
+      "titleEn": "Worried about AI bubble burst? Invest in this sector instead",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/24/worried-about-ai-bubble-burst-invest-in-this-sector-instead/",
+      "published": null
+    },
     {
       "id": "stockanalysis:52e427b181f932ef",
       "titleEn": "Wall Street doubts gold's near-term strength, Main Street maintains bullish minority as central banks take center stage",
@@ -76,39 +94,30 @@
       "published": null
     },
     {
+      "id": "stockanalysis:ec93f9b2368ea9af",
+      "titleEn": "Semtech Brings 5G Network Slicing, FIPS 140-3 to IACP 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261024697343/en/Semtech-Brings-5G-Network-Slicing-FIPS-140-3-to-IACP-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:413719a5484c6326",
+      "titleEn": "Incyte and Genmab Announce Clinical Trial Collaboration in Metastatic Colorectal Cancer",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261024426058/en/Incyte-and-Genmab-Announce-Clinical-Trial-Collaboration-in-Metastatic-Colorectal-Cancer/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:35e3dd9ac95f4e51",
       "titleEn": "BeOne Presents Compelling Data in Hard-to-Treat Liver and Lung Cancers at ESMO 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261024371247/en/BeOne-Presents-Compelling-Data-in-Hard-to-Treat-Liver-and-Lung-Cancers-at-ESMO-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0b5f52dfc0f86921",
-      "titleEn": "Slate Grocery REIT Announces Receipt of Interim Order, and Provides Meeting and Circular Details",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023773309/en/Slate-Grocery-REIT-Announces-Receipt-of-Interim-Order-and-Provides-Meeting-and-Circular-Details/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d6903966d2942ba2",
-      "titleEn": "Genesis Healthcare Announces Effective Date of Chapter 11 Plan Following Consummation of Sale to West State Street",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023067917/en/Genesis-Healthcare-Announces-Effective-Date-of-Chapter-11-Plan-Following-Consummation-of-Sale-to-West-State-Street/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:094f0d54248fcc59",
-      "titleEn": "US Metro Bancorp Announces Third Quarter 2026 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023953648/en/US-Metro-Bancorp-Announces-Third-Quarter-2026-Results/",
       "published": null
     }
   ]
