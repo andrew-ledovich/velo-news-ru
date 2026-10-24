@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T05:11:01.743837Z",
+  "generatedAt": "2026-10-24T09:29:48.133798Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:52e427b181f932ef",
@@ -76,6 +76,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:35e3dd9ac95f4e51",
+      "titleEn": "BeOne Presents Compelling Data in Hard-to-Treat Liver and Lung Cancers at ESMO 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261024371247/en/BeOne-Presents-Compelling-Data-in-Hard-to-Treat-Liver-and-Lung-Cancers-at-ESMO-2026/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:0b5f52dfc0f86921",
       "titleEn": "Slate Grocery REIT Announces Receipt of Interim Order, and Provides Meeting and Circular Details",
       "summaryEn": null,
@@ -100,33 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261023953648/en/US-Metro-Bancorp-Announces-Third-Quarter-2026-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3901e8684d3124c2",
-      "titleEn": "Travere Presents New Biomarker Data at ASN Kidney Week Suggesting FILSPARI® (sparsentan) May Modify Underlying Disease Pathophysiology in IgA Nephropathy",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023530930/en/Travere-Presents-New-Biomarker-Data-at-ASN-Kidney-Week-Suggesting-FILSPARI%C2%AE-sparsentan-May-Modify-Underlying-Disease-Pathophysiology-in-IgA-Nephropathy/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fde8388dda0b082f",
-      "titleEn": "Hawaiian Electric Industries to Announce Third Quarter 2026 Results November 6",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023067442/en/Hawaiian-Electric-Industries-to-Announce-Third-Quarter-2026-Results-November-6/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:028dce438c403f3d",
-      "titleEn": "Principal Real Estate Income Fund Announces Changes in Portfolio Management",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023261340/en/Principal-Real-Estate-Income-Fund-Announces-Changes-in-Portfolio-Management/",
       "published": null
     }
   ]
