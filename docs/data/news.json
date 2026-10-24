@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:28:45.322958Z",
+  "generatedAt": "2026-10-24T16:47:34.550003Z",
   "sourceCount": 1,
   "count": 13,
   "items": [
@@ -76,21 +76,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:cc772d4521b050e6",
-      "titleEn": "Why are Micron, SK Hynix, and SanDisk stocks climbing on Friday?",
+      "id": "stockanalysis:9dfca698651c5bf5",
+      "titleEn": "Pfizer's 25-Valent Pediatric Pneumococcal Conjugate Vaccine Candidate Shows Robust Phase 2 Data at IDWeek 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/23/why-are-micron-sk-hynix-and-sandisk-stocks-climbing-on-friday/",
+      "link": "https://www.businesswire.com/news/home/20261024078788/en/Pfizers-25-Valent-Pediatric-Pneumococcal-Conjugate-Vaccine-Candidate-Shows-Robust-Phase-2-Data-at-IDWeek-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:ffc24ea8c926e2b9",
-      "titleEn": "Moderna leaked data was positive, what's hurting MRNA stock then?",
+      "id": "stockanalysis:eb0e0c90f106fe16",
+      "titleEn": "Perioperative IMFINZI® (durvalumab) plus neoadjuvant enfortumab vedotin reduced risk of recurrence by 49% and risk of death by 42% in muscle-invasive bladder cancer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/23/moderna-leaked-data-was-positive-whats-hurting-mrna-stock-then/",
+      "link": "https://www.businesswire.com/news/home/20261024759920/en/Perioperative-IMFINZI%C2%AE-durvalumab-plus-neoadjuvant-enfortumab-vedotin-reduced-risk-of-recurrence-by-49-and-risk-of-death-by-42-in-muscle-invasive-bladder-cancer/",
       "published": null
     },
     {
@@ -103,21 +103,21 @@
       "published": null
     },
     {
+      "id": "stockanalysis:9b463d88d09ef635",
+      "titleEn": "ESMO 2026: NUBEQA® (darolutamide) Plus ADT and Radiation Therapy Reduces Risk of Metastasis or Death by 58% in Prostate Cancer Patients at High Risk of Recurrence",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261023078589/en/ESMO-2026-NUBEQA%C2%AE-darolutamide-Plus-ADT-and-Radiation-Therapy-Reduces-Risk-of-Metastasis-or-Death-by-58-in-Prostate-Cancer-Patients-at-High-Risk-of-Recurrence/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:413719a5484c6326",
       "titleEn": "Incyte and Genmab Announce Clinical Trial Collaboration in Metastatic Colorectal Cancer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261024426058/en/Incyte-and-Genmab-Announce-Clinical-Trial-Collaboration-in-Metastatic-Colorectal-Cancer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:35e3dd9ac95f4e51",
-      "titleEn": "BeOne Presents Compelling Data in Hard-to-Treat Liver and Lung Cancers at ESMO 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261024371247/en/BeOne-Presents-Compelling-Data-in-Hard-to-Treat-Liver-and-Lung-Cancers-at-ESMO-2026/",
       "published": null
     }
   ]
