@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-10-23T22:25:10.290360Z",
+  "generatedAt": "2026-10-24T00:51:27.777672Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:52e427b181f932ef",
+      "titleEn": "Wall Street doubts gold's near-term strength, Main Street maintains bullish minority as central banks take center stage",
+      "summaryEn": "(Kitco News) – Gold prices suffered another sharp weekly decline as rising oil prices, persistent inflation fears, and expectations for further Federal Reserve tightening overwhelmed safe-haven demand, while Thursday&#x27;s technology-led equity selloff triggered another wave of liquidations that pushed the precious metal back below $4,000 per ounce. Spot gold kicked off the week trading at $4,164.69 per ounce on Sunday evening, and the yellow metal managed to eke out some early gains as traders continued to assess renewed U.S.-Iran tensions and the inflationary impact of disruptions around the Strait of Hormuz. But the rally quickly stalled, with gold setting its weekly high of $4,190.17 per ounce early Monday morning before sellers took control as rising energy prices and elevated Treasury yields reinforced expectations that the Fed would maintain their restrictive monetary policy. The selling accelerated through Monday and Tuesday trading, with gold breaking below $4,150 as markets continued to digest the previous week&#x27;s hotter-than-expected CPI and PPI reports. The yellow metal attempted to stabilize on Wednesday as Treasury yields eased, but the recovery proved short-lived as traders remained focused on the risk of another Fed rate hike before year-end.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-23/wall-street-doubts-golds-near-term-strength-main-street-maintains-bullish",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ffd3d5ecca0671b0",
+      "titleEn": "Gold, silver extend weekly losses as Hormuz tensions push crude above $116 - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were lower in late U.S. trading Friday, extending a week of heavy selling as renewed concerns about military escalation involving Iran pushed crude oil prices to multiyear highs and reinforced expectations for restrictive Federal Reserve monetary policy. Strong U.S. business activity and rising consumer inflation expectations added to the pressure on precious metals, while losses across North American and European equity markets underscored broader investor caution. At the time of the latest available late-afternoon price reading, spot gold was trading near $3,995.81 an ounce, down 0.70%, while spot silver was near $53.896, down 1.26%. Gold was heading toward a weekly decline exceeding 3.5%, with both metals remaining under significant selling pressure. Friday&#x27;s U.S. economic reports reinforced the view that the economy remains resilient despite elevated borrowing costs, while inflation pressure continues to intensify. The preliminary October composite purchasing managers&#x27; index eased to 57.6 from 58.4 in September, but remained at its second-highest level since March 2022. The manufacturing PMI increased to 56.0 from 55.9, beating expectations of 55.5, while the services PMI declined to 57.9 from 58.8, slightly below expectations of 58.0 . New orders continued to expand strongly, while selling-price inflation across manufacturing and services accelerated to its fastest pace since August 2022. The combination of firm business activity and rising output prices strengthened concerns that persistent inflation could require additional monetary tightening.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-23/gold-silver-extend-weekly-losses-hormuz-tensions-push-crude-above-116-kitco",
+      "published": null
+    },
     {
       "id": "stockanalysis:ed0671be868aee65",
       "titleEn": "Gold's $4,000 support breaks, but is the selloff overdone?",
@@ -58,39 +76,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:a8584ac2846bcd55",
-      "titleEn": "American Express beats earnings, cuts jobs - still fails to win over Wall Street",
+      "id": "stockanalysis:094f0d54248fcc59",
+      "titleEn": "US Metro Bancorp Announces Third Quarter 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/23/american-express-beats-earnings-cuts-jobs-still-fails-to-win-over-wall-street/",
+      "link": "https://www.businesswire.com/news/home/20261023953648/en/US-Metro-Bancorp-Announces-Third-Quarter-2026-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:1f8e5d9a10cc298a",
-      "titleEn": "Vital Farms Introduces a Higher Standard for Free-Range Eggs Through Limited Pilot at Select Target Retail Stores",
+      "id": "stockanalysis:3901e8684d3124c2",
+      "titleEn": "Travere Presents New Biomarker Data at ASN Kidney Week Suggesting FILSPARI® (sparsentan) May Modify Underlying Disease Pathophysiology in IgA Nephropathy",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023576432/en/Vital-Farms-Introduces-a-Higher-Standard-for-Free-Range-Eggs-Through-Limited-Pilot-at-Select-Target-Retail-Stores/",
+      "link": "https://www.businesswire.com/news/home/20261023530930/en/Travere-Presents-New-Biomarker-Data-at-ASN-Kidney-Week-Suggesting-FILSPARI%C2%AE-sparsentan-May-Modify-Underlying-Disease-Pathophysiology-in-IgA-Nephropathy/",
       "published": null
     },
     {
-      "id": "stockanalysis:8cd39237a546dc5d",
-      "titleEn": "Notice to Market: Nu Holdings Ltd.",
+      "id": "stockanalysis:fde8388dda0b082f",
+      "titleEn": "Hawaiian Electric Industries to Announce Third Quarter 2026 Results November 6",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023270840/en/Notice-to-Market-Nu-Holdings-Ltd./",
+      "link": "https://www.businesswire.com/news/home/20261023067442/en/Hawaiian-Electric-Industries-to-Announce-Third-Quarter-2026-Results-November-6/",
       "published": null
     },
     {
-      "id": "stockanalysis:f2c907a77c2cdd1b",
-      "titleEn": "AN2 Therapeutics, Inc. Reports Inducement Grants Under Listing Rule 5635(c)(4)",
+      "id": "stockanalysis:028dce438c403f3d",
+      "titleEn": "Principal Real Estate Income Fund Announces Changes in Portfolio Management",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023571727/en/AN2-Therapeutics-Inc.-Reports-Inducement-Grants-Under-Listing-Rule-5635-c-4/",
+      "link": "https://www.businesswire.com/news/home/20261023261340/en/Principal-Real-Estate-Income-Fund-Announces-Changes-in-Portfolio-Management/",
       "published": null
     }
   ]
