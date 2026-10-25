@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-25T06:49:19.605197Z",
+  "generatedAt": "2026-10-25T12:11:09.990927Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:0a3b8fc99f5fab2a",
@@ -58,6 +58,24 @@
       "published": null
     },
     {
+      "id": "stockanalysis:0c21691d557fd010",
+      "titleEn": "Agenus Reports 72% of Patients with Locally Advanced dMMR Colon Cancer Had No Cancer Remaining at Surgery Following Six Weeks of BOT+BAL in Phase 2 NEOASIS Study at ESMO 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261025332881/en/Agenus-Reports-72-of-Patients-with-Locally-Advanced-dMMR-Colon-Cancer-Had-No-Cancer-Remaining-at-Surgery-Following-Six-Weeks-of-BOTBAL-in-Phase-2-NEOASIS-Study-at-ESMO-2026/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dff10941800038f4",
+      "titleEn": "Xencor Presents Phase 1 Dose Selection Data for XmAb819, a Potential First-in-Class ENPP3 x CD3 Bispecific T-Cell Engager, in Development for Patients With Advanced Clear Cell Renal Cell Carcinoma and ENPP3+ Tumors",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261025921014/en/Xencor-Presents-Phase-1-Dose-Selection-Data-for-XmAb819-a-Potential-First-in-Class-ENPP3-x-CD3-Bispecific-T-Cell-Engager-in-Development-for-Patients-With-Advanced-Clear-Cell-Renal-Cell-Carcinoma-and-ENPP3-Tumors/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:6b7f97cb50157da3",
       "titleEn": "CCC Investors Have Opportunity to Join CCC Intelligent Solutions Holdings Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
@@ -82,33 +100,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261024759920/en/Perioperative-IMFINZI%C2%AE-durvalumab-plus-neoadjuvant-enfortumab-vedotin-reduced-risk-of-recurrence-by-49-and-risk-of-death-by-42-in-muscle-invasive-bladder-cancer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ec93f9b2368ea9af",
-      "titleEn": "Semtech Brings 5G Network Slicing, FIPS 140-3 to IACP 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261024697343/en/Semtech-Brings-5G-Network-Slicing-FIPS-140-3-to-IACP-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9b463d88d09ef635",
-      "titleEn": "ESMO 2026: NUBEQA® (darolutamide) Plus ADT and Radiation Therapy Reduces Risk of Metastasis or Death by 58% in Prostate Cancer Patients at High Risk of Recurrence",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023078589/en/ESMO-2026-NUBEQA%C2%AE-darolutamide-Plus-ADT-and-Radiation-Therapy-Reduces-Risk-of-Metastasis-or-Death-by-58-in-Prostate-Cancer-Patients-at-High-Risk-of-Recurrence/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:413719a5484c6326",
-      "titleEn": "Incyte and Genmab Announce Clinical Trial Collaboration in Metastatic Colorectal Cancer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261024426058/en/Incyte-and-Genmab-Announce-Clinical-Trial-Collaboration-in-Metastatic-Colorectal-Cancer/",
       "published": null
     }
   ]
