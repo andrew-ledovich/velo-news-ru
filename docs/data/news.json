@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-25T16:09:33.514265Z",
+  "generatedAt": "2026-10-25T18:59:21.644698Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:0a3b8fc99f5fab2a",
@@ -49,6 +49,33 @@
       "published": null
     },
     {
+      "id": "stockanalysis:537ec4368a195337",
+      "titleEn": "Ivonescimab Plus Chemotherapy Demonstrates Overall Survival Superiority Compared to Durvalumab Plus Chemotherapy in First-Line Treatment of Patients with Advanced Biliary Tract Cancer in HARMONi-GI1 Study Conducted by Akeso in China",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261025603151/en/Ivonescimab-Plus-Chemotherapy-Demonstrates-Overall-Survival-Superiority-Compared-to-Durvalumab-Plus-Chemotherapy-in-First-Line-Treatment-of-Patients-with-Advanced-Biliary-Tract-Cancer-in-HARMONi-GI1-Study-Conducted-by-Akeso-in-China/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:322a27b708c870d0",
+      "titleEn": "TAGRISSO® (osimertinib) plus savolitinib reduced the risk of disease progression or death by 45% and the risk of death by 32% in MET-driven EGFR-mutated lung cancer after progression on TAGRISSO",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261025577410/en/TAGRISSO%C2%AE-osimertinib-plus-savolitinib-reduced-the-risk-of-disease-progression-or-death-by-45-and-the-risk-of-death-by-32-in-MET-driven-EGFR-mutated-lung-cancer-after-progression-on-TAGRISSO/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f6922853115d93cb",
+      "titleEn": "Genentech's Divarasib Demonstrated Best-in-Class Efficacy, Advancing the Standard of Care in Previously Treated KRAS G12C-mutated Lung Cancer",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261025902454/en/Genentech%E2%80%99s-Divarasib-Demonstrated-Best-in-Class-Efficacy-Advancing-the-Standard-of-Care-in-Previously-Treated-KRAS-G12C-mutated-Lung-Cancer/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:0c21691d557fd010",
       "titleEn": "Agenus Reports 72% of Patients with Locally Advanced dMMR Colon Cancer Had No Cancer Remaining at Surgery Following Six Weeks of BOT+BAL in Phase 2 NEOASIS Study at ESMO 2026",
       "summaryEn": null,
@@ -64,24 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261025921014/en/Xencor-Presents-Phase-1-Dose-Selection-Data-for-XmAb819-a-Potential-First-in-Class-ENPP3-x-CD3-Bispecific-T-Cell-Engager-in-Development-for-Patients-With-Advanced-Clear-Cell-Renal-Cell-Carcinoma-and-ENPP3-Tumors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6b7f97cb50157da3",
-      "titleEn": "CCC Investors Have Opportunity to Join CCC Intelligent Solutions Holdings Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261024303997/en/CCC-Investors-Have-Opportunity-to-Join-CCC-Intelligent-Solutions-Holdings-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9dfca698651c5bf5",
-      "titleEn": "Pfizer's 25-Valent Pediatric Pneumococcal Conjugate Vaccine Candidate Shows Robust Phase 2 Data at IDWeek 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261024078788/en/Pfizers-25-Valent-Pediatric-Pneumococcal-Conjugate-Vaccine-Candidate-Shows-Robust-Phase-2-Data-at-IDWeek-2026/",
       "published": null
     }
   ]
