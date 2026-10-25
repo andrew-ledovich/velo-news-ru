@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-25T12:11:09.990927Z",
+  "generatedAt": "2026-10-25T16:09:33.514265Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 9,
   "items": [
     {
       "id": "stockanalysis:0a3b8fc99f5fab2a",
@@ -49,15 +49,6 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5c4ecd4da5301670",
-      "titleEn": "Why are AMD, Intel stocks gaining today?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/23/why-are-amd-intel-stocks-gaining-today/",
-      "published": null
-    },
-    {
       "id": "stockanalysis:0c21691d557fd010",
       "titleEn": "Agenus Reports 72% of Patients with Locally Advanced dMMR Colon Cancer Had No Cancer Remaining at Surgery Following Six Weeks of BOT+BAL in Phase 2 NEOASIS Study at ESMO 2026",
       "summaryEn": null,
@@ -91,15 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261024078788/en/Pfizers-25-Valent-Pediatric-Pneumococcal-Conjugate-Vaccine-Candidate-Shows-Robust-Phase-2-Data-at-IDWeek-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:eb0e0c90f106fe16",
-      "titleEn": "Perioperative IMFINZI® (durvalumab) plus neoadjuvant enfortumab vedotin reduced risk of recurrence by 49% and risk of death by 42% in muscle-invasive bladder cancer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261024759920/en/Perioperative-IMFINZI%C2%AE-durvalumab-plus-neoadjuvant-enfortumab-vedotin-reduced-risk-of-recurrence-by-49-and-risk-of-death-by-42-in-muscle-invasive-bladder-cancer/",
       "published": null
     }
   ]
