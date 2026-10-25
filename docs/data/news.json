@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T23:41:44.886699Z",
+  "generatedAt": "2026-10-25T01:38:10.590832Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:0a3b8fc99f5fab2a",
@@ -55,15 +55,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/10/23/why-are-amd-intel-stocks-gaining-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d262a25096829991",
-      "titleEn": "Rubrik stock hits a record high on AI demand, as a risky pattern slowly forms",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/23/rubrik-stock-hits-a-record-high-on-ai-demand-as-a-risky-pattern-slowly-forms/",
       "published": null
     },
     {
