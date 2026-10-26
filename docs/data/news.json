@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T23:26:16.987031Z",
+  "generatedAt": "2026-10-26T01:26:21.573274Z",
   "sourceCount": 1,
   "count": 10,
   "items": [
@@ -40,12 +40,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ed0671be868aee65",
-      "titleEn": "Gold's $4,000 support breaks, but is the selloff overdone?",
-      "summaryEn": "(Kitco News) - The gold market can’t catch a break as prices have fallen below a key pivot level ahead of the weekend, even as U.S. 10-year Treasury yields have dropped below 5%. Analysts note that gold’s bullish momentum has been hindered by persistent inflation, which has forced the Federal Reserve to enter a tightening cycle, driving interest rates and real yields higher and increasing the opportunity cost of holding the non-yielding precious metal. However, Thursday saw a significant rally in long-dated U.S. Treasury bonds as investors sought safety amid growing concerns about equity markets. Although the decline in 10-year yields has reduced gold’s opportunity cost, analysts say technical selling and broader liquidity concerns continue to dominate price action.",
+      "id": "stockanalysis:978154f1361970a6",
+      "titleEn": "CSQR Investors with $100,000 in Losses Have Opportunity to Join Csquare, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-23/golds-4000-support-breaks-selloff-overdone",
+      "link": "https://www.businesswire.com/news/home/20261025367841/en/CSQR-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-Csquare-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:38f92913f689d768",
+      "titleEn": "TTMI Investors with $100,000 in Losses Have Opportunity to Join TTM Technologies, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261025355165/en/TTMI-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-TTM-Technologies-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3701c32ede707939",
+      "titleEn": "Faraday Future Announces YT Jia's Investor Weekly Report Rescheduled to October 26; FFR to Hold Listing Ceremony and Investor Day on October 26",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261025760160/en/Faraday-Future-Announces-YT-Jia%E2%80%99s-Investor-Weekly-Report-Rescheduled-to-October-26-FFR-to-Hold-Listing-Ceremony-and-Investor-Day-on-October-26/",
       "published": null
     },
     {
@@ -73,24 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261025902454/en/Genentech%E2%80%99s-Divarasib-Demonstrated-Best-in-Class-Efficacy-Advancing-the-Standard-of-Care-in-Previously-Treated-KRAS-G12C-mutated-Lung-Cancer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0c21691d557fd010",
-      "titleEn": "Agenus Reports 72% of Patients with Locally Advanced dMMR Colon Cancer Had No Cancer Remaining at Surgery Following Six Weeks of BOT+BAL in Phase 2 NEOASIS Study at ESMO 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261025332881/en/Agenus-Reports-72-of-Patients-with-Locally-Advanced-dMMR-Colon-Cancer-Had-No-Cancer-Remaining-at-Surgery-Following-Six-Weeks-of-BOTBAL-in-Phase-2-NEOASIS-Study-at-ESMO-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:dff10941800038f4",
-      "titleEn": "Xencor Presents Phase 1 Dose Selection Data for XmAb819, a Potential First-in-Class ENPP3 x CD3 Bispecific T-Cell Engager, in Development for Patients With Advanced Clear Cell Renal Cell Carcinoma and ENPP3+ Tumors",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261025921014/en/Xencor-Presents-Phase-1-Dose-Selection-Data-for-XmAb819-a-Potential-First-in-Class-ENPP3-x-CD3-Bispecific-T-Cell-Engager-in-Development-for-Patients-With-Advanced-Clear-Cell-Renal-Cell-Carcinoma-and-ENPP3-Tumors/",
       "published": null
     }
   ]
