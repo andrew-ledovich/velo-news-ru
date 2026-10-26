@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-10-26T06:35:51.864875Z",
+  "generatedAt": "2026-10-26T13:32:25.168439Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:96e247b0755f3c70",
+      "titleEn": "TSX Composite Index outlook: Top catalysts for Canadian stocks this week",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/26/tsx-composite-index-outlook-top-catalysts-for-canadian-stocks-this-week/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7cb9b381ba72534f",
+      "titleEn": "Brazil stocks brace for selloff after Lula's win; EWZ ETF falls 27% in premarket",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/10/26/brazil-stocks-brace-for-selloff-after-lulas-win-ewz-etf-falls-27-in-premarket/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:48569f36e4c93d33",
+      "titleEn": "Apple stock hits record as iPhone Duo demand soars, but Wall Street warns",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/26/apple-stock-hits-record-as-iphone-duo-demand-soars-but-wall-street-warns/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ff082640a0d6afad",
+      "titleEn": "CAC 40 shares to watch this week: Airbus, TotalEnergies, French banks",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/26/cac-40-shares-to-watch-this-week-airbus-totalenergies-french-banks/",
+      "published": null
+    },
     {
       "id": "stockanalysis:0e18171d1630b893",
       "titleEn": "Lenovo Group stock has slumped amid the AI bubble fears: buy the dip?",
@@ -31,93 +67,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:0a3b8fc99f5fab2a",
-      "titleEn": "S&amp;P 500 eyes 4th straight year of double-digit gains, a rare feat in 100 years",
+      "id": "stockanalysis:462112c4899a76ca",
+      "titleEn": "Parameter Technologies Announces Agreement to Be Acquired by Acuity Inc. as Part of Distech Controls™",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/24/sp-500-eyes-4th-straight-year-of-double-digit-gains-a-rare-feat-in-100-years/",
+      "link": "https://www.businesswire.com/news/home/20261025826664/en/Parameter-Technologies-Announces-Agreement-to-Be-Acquired-by-Acuity-Inc.-as-Part-of-Distech-Controls%E2%84%A2/",
       "published": null
     },
     {
-      "id": "stockanalysis:3393455d30acfdff",
-      "titleEn": "Worried about AI bubble burst? Invest in this sector instead",
+      "id": "stockanalysis:de3a4baa1ad1b039",
+      "titleEn": "Boston Omaha Corporation Completes Sale of its Surety Insurance Business Unit to CopperPoint Insurance Company",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261026054783/en/Boston-Omaha-Corporation-Completes-Sale-of-its-Surety-Insurance-Business-Unit-to-CopperPoint-Insurance-Company/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:381853bfddb6cd0a",
+      "titleEn": "Herc Holdings Inc. Announces CEO Succession Plan",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261026569004/en/Herc-Holdings-Inc.-Announces-CEO-Succession-Plan/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:10fe0eadb1737a5b",
+      "titleEn": "Paradium.AI to Host Third Quarter 2026 Financial Results Conference Call on Monday, November 9, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/24/worried-about-ai-bubble-burst-invest-in-this-sector-instead/",
+      "link": "https://www.businesswire.com/news/home/20261026058468/en/Paradium.AI-to-Host-Third-Quarter-2026-Financial-Results-Conference-Call-on-Monday-November-9-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:52e427b181f932ef",
-      "titleEn": "Wall Street doubts gold's near-term strength, Main Street maintains bullish minority as central banks take center stage",
-      "summaryEn": "(Kitco News) – Gold prices suffered another sharp weekly decline as rising oil prices, persistent inflation fears, and expectations for further Federal Reserve tightening overwhelmed safe-haven demand, while Thursday&#x27;s technology-led equity selloff triggered another wave of liquidations that pushed the precious metal back below $4,000 per ounce. Spot gold kicked off the week trading at $4,164.69 per ounce on Sunday evening, and the yellow metal managed to eke out some early gains as traders continued to assess renewed U.S.-Iran tensions and the inflationary impact of disruptions around the Strait of Hormuz. But the rally quickly stalled, with gold setting its weekly high of $4,190.17 per ounce early Monday morning before sellers took control as rising energy prices and elevated Treasury yields reinforced expectations that the Fed would maintain their restrictive monetary policy. The selling accelerated through Monday and Tuesday trading, with gold breaking below $4,150 as markets continued to digest the previous week&#x27;s hotter-than-expected CPI and PPI reports. The yellow metal attempted to stabilize on Wednesday as Treasury yields eased, but the recovery proved short-lived as traders remained focused on the risk of another Fed rate hike before year-end.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-23/wall-street-doubts-golds-near-term-strength-main-street-maintains-bullish",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:431aae6fc4aaf79b",
-      "titleEn": "Wolters Kluwer selected by IFFCO Tokio General Insurance to support Ind AS 117 and Ind AS 116 compliance with CCH® Tagetik",
+      "id": "stockanalysis:8cd79977fcedf0cb",
+      "titleEn": "MasterBrand Announces CFO Transition",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261025455916/en/Wolters-Kluwer-selected-by-IFFCO-Tokio-General-Insurance-to-support-Ind-AS-117-and-Ind-AS-116-compliance-with-CCH%C2%AE-Tagetik/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:978154f1361970a6",
-      "titleEn": "CSQR Investors with $100,000 in Losses Have Opportunity to Join Csquare, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261025367841/en/CSQR-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-Csquare-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:38f92913f689d768",
-      "titleEn": "TTMI Investors with $100,000 in Losses Have Opportunity to Join TTM Technologies, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261025355165/en/TTMI-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-TTM-Technologies-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3701c32ede707939",
-      "titleEn": "Faraday Future Announces YT Jia's Investor Weekly Report Rescheduled to October 26; FFR to Hold Listing Ceremony and Investor Day on October 26",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261025760160/en/Faraday-Future-Announces-YT-Jia%E2%80%99s-Investor-Weekly-Report-Rescheduled-to-October-26-FFR-to-Hold-Listing-Ceremony-and-Investor-Day-on-October-26/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:537ec4368a195337",
-      "titleEn": "Ivonescimab Plus Chemotherapy Demonstrates Overall Survival Superiority Compared to Durvalumab Plus Chemotherapy in First-Line Treatment of Patients with Advanced Biliary Tract Cancer in HARMONi-GI1 Study Conducted by Akeso in China",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261025603151/en/Ivonescimab-Plus-Chemotherapy-Demonstrates-Overall-Survival-Superiority-Compared-to-Durvalumab-Plus-Chemotherapy-in-First-Line-Treatment-of-Patients-with-Advanced-Biliary-Tract-Cancer-in-HARMONi-GI1-Study-Conducted-by-Akeso-in-China/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:322a27b708c870d0",
-      "titleEn": "TAGRISSO® (osimertinib) plus savolitinib reduced the risk of disease progression or death by 45% and the risk of death by 32% in MET-driven EGFR-mutated lung cancer after progression on TAGRISSO",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261025577410/en/TAGRISSO%C2%AE-osimertinib-plus-savolitinib-reduced-the-risk-of-disease-progression-or-death-by-45-and-the-risk-of-death-by-32-in-MET-driven-EGFR-mutated-lung-cancer-after-progression-on-TAGRISSO/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f6922853115d93cb",
-      "titleEn": "Genentech's Divarasib Demonstrated Best-in-Class Efficacy, Advancing the Standard of Care in Previously Treated KRAS G12C-mutated Lung Cancer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261025902454/en/Genentech%E2%80%99s-Divarasib-Demonstrated-Best-in-Class-Efficacy-Advancing-the-Standard-of-Care-in-Previously-Treated-KRAS-G12C-mutated-Lung-Cancer/",
+      "link": "https://www.businesswire.com/news/home/20261026213708/en/MasterBrand-Announces-CFO-Transition/",
       "published": null
     }
   ]
