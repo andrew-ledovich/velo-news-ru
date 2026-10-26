@@ -1,8 +1,71 @@
 {
-  "generatedAt": "2026-10-26T19:32:48.694691Z",
+  "generatedAt": "2026-10-26T23:19:13.582035Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:5f3dc5f8944f51fb",
+      "titleEn": "Analysts Stand by Meta's AI Push Despite $95 Billion Equity Plan Scrutiny",
+      "summaryEn": "Three analysts remain bullish on Meta after the company announced plans to raise $95 billion through equity financing, though they raised questions about the company’s growing investments in artificial intelligence (AI), Seeking Alpha reported Monday (Oct. 26). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Wells Fargo maintained an Overweight rating and $995 price target on Meta but remained uncertain about the company’s spending next year; RBC Capital Markets maintained its Outperform rating and $800 target, while noting that investors are looking for returns from what may be even higher capital spending; and Yorkville maintained an Outperform rating and $920 target, while noting that Meta’s free cash flow turned negative in the third quarter, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/analysts-stand-by-metas-ai-push-despite-95-billion-equity-plan-scrutiny/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:291959713806ca12",
+      "titleEn": "Gold holds above $4,000 as Hormuz diplomacy cools crude ahead of Fed decision - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were higher in late U.S. trading Monday, recovering some of last week&#x27;s steep losses as declining crude oil prices eased inflation concerns and encouraged renewed buying interest in precious metals ahead of this week&#x27;s Federal Reserve monetary policy decision. Diplomatic efforts involving Iran and several regional powers helped reduce some of the immediate geopolitical premium in energy markets, while expectations for additional Fed tightening continued to limit bullion&#x27;s recovery. Gold climbed back above $4,000.00 an ounce during the session, while silver held above $54.000 after testing lower levels last week. Both metals remained vulnerable to changes in Treasury yields, the dollar and the outlook for U.S. interest rates. Market positioning remains focused on an October Federal Reserve pause, followed by the possibility of additional tightening before year-end. The Federal Reserve remains in its premeeting communications blackout, leaving Tuesday&#x27;s economic releases and Wednesday&#x27;s policy announcement as the principal catalysts for interest rate expectations. September durable goods orders are due Tuesday at 8:30 a.m. EDT, followed by October consumer confidence, September new-home sales and the Richmond Fed manufacturing survey at 10 a.m. EDT. The Federal Open Market Committee will announce its interest rate decision Wednesday at 2 p.m. EDT, followed by Fed Chair Kevin Warsh&#x27;s news conference at 2:30 p.m. EDT. Thursday brings the advance third-quarter gross domestic product report, September personal consumption expenditures inflation data and weekly initial jobless claims at 8:30 a.m. EDT. Softer inflation figures and less restrictive Fed guidance could reduce December rate hike expectations and support gold through lower yields and a weaker dollar, while resilient economic activity or persistent price pressure would strengthen the case for further monetary tightening.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-26/gold-holds-above-4000-hormuz-diplomacy-cools-crude-ahead-fed-decision-kitco",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3cc613f59fddc865",
+      "titleEn": "Citi Raises Savings Rates for Relationship Banking Clients",
+      "summaryEn": "Citi ’s new program that offers higher savings rates to reward clients who deepen their relationship with the bank went live Monday (Oct. 26). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Citi’s Relationship Tiers are based on combined average monthly balance in their checking savings, CD and investment accounts, with Citi Priority starting at $30,000, Citigold starting at $200,000 and Citigold Private Client starting at $1 million, according to the release.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/citi-raises-savings-rates-for-relationship-banking-clients/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e0820edd6cf42f88",
+      "titleEn": "Nasdaq closes 0.8% higher as Anthropic IPO filing boosts AI stocks",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/26/nasdaq-closes-0-8-higher-as-anthropic-ipo-filing-boosts-ai-stocks/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7e3b307faaf7e4ed",
+      "titleEn": "The Iran war needs to end for gold to have a chance to rally - UBWM's Haworth",
+      "summaryEn": "(Kitco News) - Gold became a major investment theme at the start of the year as central bank demand helped drive prices to record highs above $5,600 an ounce; however, sentiment has turned significantly more cautious in the second half of 2026 as the conflict in the Middle East remains far from over. In an interview with Kitco News, Rob Haworth, senior investment strategist at U.S. Bank Wealth Management, said that if gold stands a chance of rallying back to $5,000 an ounce, the war in Iran needs to end and global energy markets need to normalize, allowing central banks to refocus on diversifying their official reserves. Haworth said that although gold&#x27;s longer-term investment appeal remains intact, the precious metal continues to face significant headwinds as central banks prioritize economic stability and energy security over accumulating more gold.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-26/iran-war-needs-end-gold-have-chance-rally-ubwms-haworth",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c2c8f78ce9095c9d",
+      "titleEn": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Microsoft has offered 60,000 employees, or about 27% of its global workforce, voluntary buyouts as the software giant spends heavily on artificial intelligence. The company's voluntary exit offer was available to eligible employees in Canada, India, the United Kingdom and the United States, the company's chief people officer Amy Coleman wrote in a blog post Monday.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-10-microsoft-quarter-global-workforce-voluntary.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c6d19b84ad2cae61",
+      "titleEn": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Artificial intelligence giant Anthropic filed papers Monday for what could be the biggest initial public offering of stock ever even as its top executive warns that advanced AI could pose an existential threat to humanity. The filing sets up the San Francisco company for a Wall Street debut next month, potentially eclipsing the SpaceX initial public offering in June that raised a record $86 billion. An Anthropic IPO would also put the company ahead of OpenAI in going public in what is expected to be a pair of blockbuster stock debuts for the rival AI labs.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-10-anthropic-potentially-biggest-ipo-ceo.html",
+      "published": null
+    },
     {
       "id": "stockanalysis:1aa74d3cdb769d20",
       "titleEn": "Ripple Equips Its Treasury Tool With New Capabilities",
@@ -10,6 +73,15 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.pymnts.com/news/b2b-payments/2026/ripple-equips-its-treasury-tool-with-new-capabilities/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6e474bd346a4cf53",
+      "titleEn": "Anthropic IPO prospectus released: 7 numbers investors need to know",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/26/anthropic-ipo-prospectus-released-7-numbers-investors-need-to-know/",
       "published": null
     },
     {
@@ -22,147 +94,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:3626763db878530d",
-      "titleEn": "Gold prices are oversold below $4,000, but a potential rally could still be out of reach in the near term - BCA's Ibrahim",
-      "summaryEn": "(Kitco News) - Gold is struggling to hold support at $4,000 an ounce, which has become a critical pivot point for the precious metal. The disappointing price action comes as U.S. 10-year Treasury yields start the week below 5.0%, providing little relief for the beleaguered market. Although gold continues to face significant macroeconomic headwinds, one market strategist says the recent selling pressure may be overdone, but any potential rally is expected to be only a period of consolidation rather than another significant move lower. In an interview with Kitco News, Roukaya Ibrahim, chief commodities strategist at BCA Research, said that gold remains caught in a tug of war between bullish technical indicators and bearish economic fundamentals. She added that persistent inflation and the potential for a stronger U.S. dollar could prevent prices from generating meaningful bullish momentum through the end of the year.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-26/gold-prices-are-oversold-below-4000-potential-rally-could-still-be-out",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:96d16a241387ae37",
-      "titleEn": "Why Nvidia shares are rising on Monday?",
+      "id": "stockanalysis:ad0ea83742d4f927",
+      "titleEn": "AST SpaceMobile to Host Third Quarter 2026 Business Update Call on November 9, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/26/why-nvidia-shares-are-rising-on-monday/",
+      "link": "https://www.businesswire.com/news/home/20261026877819/en/AST-SpaceMobile-to-Host-Third-Quarter-2026-Business-Update-Call-on-November-9-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:c8ff80f5b36d5a12",
-      "titleEn": "Truist favors owning Reddit stock ahead of Q3 earnings",
+      "id": "stockanalysis:fd6a699858185ec4",
+      "titleEn": "LeavePlus Appoints Northern Trust as Asset Servicing Provider",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/26/truist-favors-owning-reddit-stock-ahead-of-q3-earnings/",
+      "link": "https://www.businesswire.com/news/home/20261026925975/en/LeavePlus-Appoints-Northern-Trust-as-Asset-Servicing-Provider/",
       "published": null
     },
     {
-      "id": "stockanalysis:56d0005e3b8b51d3",
-      "titleEn": "Walmart Turns Black Friday Into 3-Part Shopping Event",
-      "summaryEn": "Walmart has announced what it calls “three major holiday shopping events” for Black Friday and Cyber Monday. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “Walmart research shows that 60% of shoppers say the price of gifts and holiday purchases affects how they feel about the season, while 70% say lower prices would make holiday shopping easier,” the company said in its announcement Monday (Oct. 26). “Whether customers are searching for a gift that feels just right, getting ready to host or tackling a growing shopping list, Walmart is helping them find more to love for less — and enjoy more of the season.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/retail/2026/walmart-turns-black-friday-into-3-part-shopping-event/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4aee8b29fadc3a75",
-      "titleEn": "Anthropic IPO: AI lab's investors include rival Google, VCs also backing OpenAI",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/26/anthropic-ipo-ai-labs-investors-include-rival-google-vcs-also-backing-openai/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f8ccd2fe3b810d6b",
-      "titleEn": "Microsoft stock gains as Wall Street sees Azure growth despite rising AI spending",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/26/microsoft-stock-gains-as-wall-street-sees-azure-growth-despite-rising-ai-spending/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7d2e7cd81f570d62",
-      "titleEn": "Could Anthropic IPO prove better than SpaceX for investors?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/26/could-anthropic-ipo-prove-better-than-spacex-for-investors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:120dfb1b7fa5aaaa",
-      "titleEn": "Meta shares fell in early trading but bounced back soon: here's why",
+      "id": "stockanalysis:ab76427df43a0791",
+      "titleEn": "Cleveland-Cliffs Confirms Full Compliance with Stelco Undertakings",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/26/meta-shares-fell-in-early-trading-but-bounced-back-soon-heres-why/",
+      "link": "https://www.businesswire.com/news/home/20261026731490/en/Cleveland-Cliffs-Confirms-Full-Compliance-with-Stelco-Undertakings/",
       "published": null
     },
     {
-      "id": "stockanalysis:98a7cb287163cf53",
-      "titleEn": "How to buy Anthropic pre-IPO: 3 ways to invest early",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/26/how-to-buy-anthropic-pre-ipo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ca0715c2c65adaef",
-      "titleEn": "Why MercadoLibre stock's post-election dip is a buying opportunity",
+      "id": "stockanalysis:594fd631f8b64a7d",
+      "titleEn": "United Rentals Announces Pricing of Offering of $700,000,000 of 5.550% Senior Notes due 2029; $800,000,000 of 5.750% Senior Notes due 2031; $1,000,000,000 of 6.200% Senior Notes due 2036",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/26/why-mercadolibre-stocks-post-election-dip-is-a-buying-opportunity/",
+      "link": "https://www.businesswire.com/news/home/20261026255220/en/United-Rentals-Announces-Pricing-of-Offering-of-700000000-of-5.550-Senior-Notes-due-2029-800000000-of-5.750-Senior-Notes-due-2031-1000000000-of-6.200-Senior-Notes-due-2036/",
       "published": null
     },
     {
-      "id": "stockanalysis:00496481e38128f4",
-      "titleEn": "Why is Tesla stock gaining 5% today?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/10/26/why-is-tesla-stock-gaining-5-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:932f715af1f84b21",
-      "titleEn": "Three Brazilian stocks to buy as Lula wins presidential election",
+      "id": "stockanalysis:f58df4e1bff9bbcb",
+      "titleEn": "Distribution Solutions Group Announces Timing for Third Quarter Fiscal Year 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/26/three-brazilian-stocks-to-buy-as-lula-wins-presidential-election/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b92b63a3c4bade28",
-      "titleEn": "CVS Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of CVS Health Corporation - CVS",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261026220039/en/CVS-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-CVS-Health-Corporation---CVS/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:34ebcf60a9d4b5d5",
-      "titleEn": "NRC Health Launches nQuire Pro, Extending the Reach of Patient-Experience Teams",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261026470152/en/NRC-Health-Launches-nQuire-Pro-Extending-the-Reach-of-Patient-Experience-Teams/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ec8ecc883e2b0002",
-      "titleEn": "GID Industrial and StepStone Real Estate Complete a Manager-led Secondary Transaction of 8.0 Million-Square-Foot Industrial Portfolio",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261026068395/en/GID-Industrial-and-StepStone-Real-Estate-Complete-a-Manager-led-Secondary-Transaction-of-8.0-Million-Square-Foot-Industrial-Portfolio/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:416c9c15044a3016",
-      "titleEn": "Warner Bros. Pictures Animation and Amazon Ads Invite Audiences to Play Inside the World of The Cat in the Hat Ahead of Film's Premiere",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261026228801/en/Warner-Bros.-Pictures-Animation-and-Amazon-Ads-Invite-Audiences-to-Play-Inside-the-World-of-The-Cat-in-the-Hat-Ahead-of-Films-Premiere/",
+      "link": "https://www.businesswire.com/news/home/20261026264578/en/Distribution-Solutions-Group-Announces-Timing-for-Third-Quarter-Fiscal-Year-2026-Results/",
       "published": null
     }
   ]
