@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-10-26T01:26:21.573274Z",
+  "generatedAt": "2026-10-26T06:35:51.864875Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:0e18171d1630b893",
+      "titleEn": "Lenovo Group stock has slumped amid the AI bubble fears: buy the dip?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/26/lenovo-group-stock-has-slumped-amid-the-ai-bubble-fears-buy-the-dip/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3f8a4554b63c5629",
+      "titleEn": "Samsung, SK Hynix stocks fall again, but Goldman sees 60% upside: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/26/samsung-sk-hynix-stocks-fall-again-but-goldman-sees-60-upside-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:19faee0c91eb99b5",
+      "titleEn": "Kospi Index outlook: death cross nears ahead of SK Hynix earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/26/kospi-index-outlook-death-cross-nears-ahead-of-sk-hynix-earnings/",
+      "published": null
+    },
     {
       "id": "stockanalysis:0a3b8fc99f5fab2a",
       "titleEn": "S&amp;P 500 eyes 4th straight year of double-digit gains, a rare feat in 100 years",
@@ -31,12 +58,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ffd3d5ecca0671b0",
-      "titleEn": "Gold, silver extend weekly losses as Hormuz tensions push crude above $116 - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were lower in late U.S. trading Friday, extending a week of heavy selling as renewed concerns about military escalation involving Iran pushed crude oil prices to multiyear highs and reinforced expectations for restrictive Federal Reserve monetary policy. Strong U.S. business activity and rising consumer inflation expectations added to the pressure on precious metals, while losses across North American and European equity markets underscored broader investor caution. At the time of the latest available late-afternoon price reading, spot gold was trading near $3,995.81 an ounce, down 0.70%, while spot silver was near $53.896, down 1.26%. Gold was heading toward a weekly decline exceeding 3.5%, with both metals remaining under significant selling pressure. Friday&#x27;s U.S. economic reports reinforced the view that the economy remains resilient despite elevated borrowing costs, while inflation pressure continues to intensify. The preliminary October composite purchasing managers&#x27; index eased to 57.6 from 58.4 in September, but remained at its second-highest level since March 2022. The manufacturing PMI increased to 56.0 from 55.9, beating expectations of 55.5, while the services PMI declined to 57.9 from 58.8, slightly below expectations of 58.0 . New orders continued to expand strongly, while selling-price inflation across manufacturing and services accelerated to its fastest pace since August 2022. The combination of firm business activity and rising output prices strengthened concerns that persistent inflation could require additional monetary tightening.",
+      "id": "stockanalysis:431aae6fc4aaf79b",
+      "titleEn": "Wolters Kluwer selected by IFFCO Tokio General Insurance to support Ind AS 117 and Ind AS 116 compliance with CCH® Tagetik",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-23/gold-silver-extend-weekly-losses-hormuz-tensions-push-crude-above-116-kitco",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261025455916/en/Wolters-Kluwer-selected-by-IFFCO-Tokio-General-Insurance-to-support-Ind-AS-117-and-Ind-AS-116-compliance-with-CCH%C2%AE-Tagetik/",
       "published": null
     },
     {
