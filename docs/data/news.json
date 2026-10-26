@@ -1,114 +1,168 @@
 {
-  "generatedAt": "2026-10-26T13:32:25.168439Z",
+  "generatedAt": "2026-10-26T19:32:48.694691Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 18,
   "items": [
     {
-      "id": "stockanalysis:96e247b0755f3c70",
-      "titleEn": "TSX Composite Index outlook: Top catalysts for Canadian stocks this week",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/26/tsx-composite-index-outlook-top-catalysts-for-canadian-stocks-this-week/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7cb9b381ba72534f",
-      "titleEn": "Brazil stocks brace for selloff after Lula's win; EWZ ETF falls 27% in premarket",
-      "summaryEn": null,
+      "id": "stockanalysis:1aa74d3cdb769d20",
+      "titleEn": "Ripple Equips Its Treasury Tool With New Capabilities",
+      "summaryEn": "Blockchain company Ripple has announced new capabilities for its treasury product. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The updated Ripple Treasury allows businesses to manage cash, payments and liquidity around the clock, the company said in its announcement Monday (Oct. 26).",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/26/brazil-stocks-brace-for-selloff-after-lulas-win-ewz-etf-falls-27-in-premarket/",
+      "link": "https://www.pymnts.com/news/b2b-payments/2026/ripple-equips-its-treasury-tool-with-new-capabilities/",
       "published": null
     },
     {
-      "id": "stockanalysis:48569f36e4c93d33",
-      "titleEn": "Apple stock hits record as iPhone Duo demand soars, but Wall Street warns",
+      "id": "stockanalysis:a50fa12028e319ca",
+      "titleEn": "Micron stock continues rebound with a 4% gain: what's driving the stock?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/26/apple-stock-hits-record-as-iphone-duo-demand-soars-but-wall-street-warns/",
+      "link": "https://invezz.com/news/2026/10/26/micron-stock-continues-rebound-with-a-4-gain-whats-driving-the-stock/",
       "published": null
     },
     {
-      "id": "stockanalysis:ff082640a0d6afad",
-      "titleEn": "CAC 40 shares to watch this week: Airbus, TotalEnergies, French banks",
+      "id": "stockanalysis:3626763db878530d",
+      "titleEn": "Gold prices are oversold below $4,000, but a potential rally could still be out of reach in the near term - BCA's Ibrahim",
+      "summaryEn": "(Kitco News) - Gold is struggling to hold support at $4,000 an ounce, which has become a critical pivot point for the precious metal. The disappointing price action comes as U.S. 10-year Treasury yields start the week below 5.0%, providing little relief for the beleaguered market. Although gold continues to face significant macroeconomic headwinds, one market strategist says the recent selling pressure may be overdone, but any potential rally is expected to be only a period of consolidation rather than another significant move lower. In an interview with Kitco News, Roukaya Ibrahim, chief commodities strategist at BCA Research, said that gold remains caught in a tug of war between bullish technical indicators and bearish economic fundamentals. She added that persistent inflation and the potential for a stronger U.S. dollar could prevent prices from generating meaningful bullish momentum through the end of the year.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-26/gold-prices-are-oversold-below-4000-potential-rally-could-still-be-out",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:96d16a241387ae37",
+      "titleEn": "Why Nvidia shares are rising on Monday?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/26/cac-40-shares-to-watch-this-week-airbus-totalenergies-french-banks/",
+      "link": "https://invezz.com/news/2026/10/26/why-nvidia-shares-are-rising-on-monday/",
       "published": null
     },
     {
-      "id": "stockanalysis:0e18171d1630b893",
-      "titleEn": "Lenovo Group stock has slumped amid the AI bubble fears: buy the dip?",
+      "id": "stockanalysis:c8ff80f5b36d5a12",
+      "titleEn": "Truist favors owning Reddit stock ahead of Q3 earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/26/truist-favors-owning-reddit-stock-ahead-of-q3-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:56d0005e3b8b51d3",
+      "titleEn": "Walmart Turns Black Friday Into 3-Part Shopping Event",
+      "summaryEn": "Walmart has announced what it calls “three major holiday shopping events” for Black Friday and Cyber Monday. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “Walmart research shows that 60% of shoppers say the price of gifts and holiday purchases affects how they feel about the season, while 70% say lower prices would make holiday shopping easier,” the company said in its announcement Monday (Oct. 26). “Whether customers are searching for a gift that feels just right, getting ready to host or tackling a growing shopping list, Walmart is helping them find more to love for less — and enjoy more of the season.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/retail/2026/walmart-turns-black-friday-into-3-part-shopping-event/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4aee8b29fadc3a75",
+      "titleEn": "Anthropic IPO: AI lab's investors include rival Google, VCs also backing OpenAI",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/26/lenovo-group-stock-has-slumped-amid-the-ai-bubble-fears-buy-the-dip/",
+      "link": "https://invezz.com/news/2026/10/26/anthropic-ipo-ai-labs-investors-include-rival-google-vcs-also-backing-openai/",
       "published": null
     },
     {
-      "id": "stockanalysis:3f8a4554b63c5629",
-      "titleEn": "Samsung, SK Hynix stocks fall again, but Goldman sees 60% upside: here's why",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/26/samsung-sk-hynix-stocks-fall-again-but-goldman-sees-60-upside-heres-why/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:19faee0c91eb99b5",
-      "titleEn": "Kospi Index outlook: death cross nears ahead of SK Hynix earnings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/26/kospi-index-outlook-death-cross-nears-ahead-of-sk-hynix-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:462112c4899a76ca",
-      "titleEn": "Parameter Technologies Announces Agreement to Be Acquired by Acuity Inc. as Part of Distech Controls™",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261025826664/en/Parameter-Technologies-Announces-Agreement-to-Be-Acquired-by-Acuity-Inc.-as-Part-of-Distech-Controls%E2%84%A2/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:de3a4baa1ad1b039",
-      "titleEn": "Boston Omaha Corporation Completes Sale of its Surety Insurance Business Unit to CopperPoint Insurance Company",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261026054783/en/Boston-Omaha-Corporation-Completes-Sale-of-its-Surety-Insurance-Business-Unit-to-CopperPoint-Insurance-Company/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:381853bfddb6cd0a",
-      "titleEn": "Herc Holdings Inc. Announces CEO Succession Plan",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261026569004/en/Herc-Holdings-Inc.-Announces-CEO-Succession-Plan/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:10fe0eadb1737a5b",
-      "titleEn": "Paradium.AI to Host Third Quarter 2026 Financial Results Conference Call on Monday, November 9, 2026",
+      "id": "stockanalysis:f8ccd2fe3b810d6b",
+      "titleEn": "Microsoft stock gains as Wall Street sees Azure growth despite rising AI spending",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261026058468/en/Paradium.AI-to-Host-Third-Quarter-2026-Financial-Results-Conference-Call-on-Monday-November-9-2026/",
+      "link": "https://invezz.com/news/2026/10/26/microsoft-stock-gains-as-wall-street-sees-azure-growth-despite-rising-ai-spending/",
       "published": null
     },
     {
-      "id": "stockanalysis:8cd79977fcedf0cb",
-      "titleEn": "MasterBrand Announces CFO Transition",
+      "id": "stockanalysis:7d2e7cd81f570d62",
+      "titleEn": "Could Anthropic IPO prove better than SpaceX for investors?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/26/could-anthropic-ipo-prove-better-than-spacex-for-investors/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:120dfb1b7fa5aaaa",
+      "titleEn": "Meta shares fell in early trading but bounced back soon: here's why",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261026213708/en/MasterBrand-Announces-CFO-Transition/",
+      "link": "https://invezz.com/news/2026/10/26/meta-shares-fell-in-early-trading-but-bounced-back-soon-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:98a7cb287163cf53",
+      "titleEn": "How to buy Anthropic pre-IPO: 3 ways to invest early",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/26/how-to-buy-anthropic-pre-ipo/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ca0715c2c65adaef",
+      "titleEn": "Why MercadoLibre stock's post-election dip is a buying opportunity",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/26/why-mercadolibre-stocks-post-election-dip-is-a-buying-opportunity/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:00496481e38128f4",
+      "titleEn": "Why is Tesla stock gaining 5% today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/10/26/why-is-tesla-stock-gaining-5-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:932f715af1f84b21",
+      "titleEn": "Three Brazilian stocks to buy as Lula wins presidential election",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/26/three-brazilian-stocks-to-buy-as-lula-wins-presidential-election/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b92b63a3c4bade28",
+      "titleEn": "CVS Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of CVS Health Corporation - CVS",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261026220039/en/CVS-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-CVS-Health-Corporation---CVS/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:34ebcf60a9d4b5d5",
+      "titleEn": "NRC Health Launches nQuire Pro, Extending the Reach of Patient-Experience Teams",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261026470152/en/NRC-Health-Launches-nQuire-Pro-Extending-the-Reach-of-Patient-Experience-Teams/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ec8ecc883e2b0002",
+      "titleEn": "GID Industrial and StepStone Real Estate Complete a Manager-led Secondary Transaction of 8.0 Million-Square-Foot Industrial Portfolio",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261026068395/en/GID-Industrial-and-StepStone-Real-Estate-Complete-a-Manager-led-Secondary-Transaction-of-8.0-Million-Square-Foot-Industrial-Portfolio/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:416c9c15044a3016",
+      "titleEn": "Warner Bros. Pictures Animation and Amazon Ads Invite Audiences to Play Inside the World of The Cat in the Hat Ahead of Film's Premiere",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261026228801/en/Warner-Bros.-Pictures-Animation-and-Amazon-Ads-Invite-Audiences-to-Play-Inside-the-World-of-The-Cat-in-the-Hat-Ahead-of-Films-Premiere/",
       "published": null
     }
   ]
