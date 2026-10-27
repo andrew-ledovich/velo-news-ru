@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-10-26T23:19:13.582035Z",
+  "generatedAt": "2026-10-27T02:12:17.475107Z",
   "sourceCount": 1,
   "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:235a6b6c1b1139bd",
+      "titleEn": "Galaxy Digital stock is crashing: will its earnings turn the tide?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/26/galaxy-digital-stock-is-crashing-will-its-earnings-turn-the-tide/",
+      "published": null
+    },
     {
       "id": "stockanalysis:5f3dc5f8944f51fb",
       "titleEn": "Analysts Stand by Meta's AI Push Despite $95 Billion Equity Plan Scrutiny",
@@ -10,6 +19,15 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://www.pymnts.com/news/investment-tracker/2026/analysts-stand-by-metas-ai-push-despite-95-billion-equity-plan-scrutiny/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0849fd69c1b16f60",
+      "titleEn": "Anthropic IPO risks: what the prospectus says",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/26/anthropic-ipo-risks-what-the-prospectus-says/",
       "published": null
     },
     {
@@ -85,57 +103,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:a50fa12028e319ca",
-      "titleEn": "Micron stock continues rebound with a 4% gain: what's driving the stock?",
+      "id": "stockanalysis:85770d55a818ef13",
+      "titleEn": "Cizzle Brands Accelerates U.S. National Exchange Listing Strategy to Drive Institutional Growth and Unlock Shareholder Value",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/26/micron-stock-continues-rebound-with-a-4-gain-whats-driving-the-stock/",
+      "link": "https://www.businesswire.com/news/home/20261026868599/en/Cizzle-Brands-Accelerates-U.S.-National-Exchange-Listing-Strategy-to-Drive-Institutional-Growth-and-Unlock-Shareholder-Value/",
       "published": null
     },
     {
-      "id": "stockanalysis:ad0ea83742d4f927",
-      "titleEn": "AST SpaceMobile to Host Third Quarter 2026 Business Update Call on November 9, 2026",
+      "id": "stockanalysis:801d660ce34e246f",
+      "titleEn": "Cementos Pacasmayo S.A.A. Announces Consolidated Results for Third Quarter 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261026877819/en/AST-SpaceMobile-to-Host-Third-Quarter-2026-Business-Update-Call-on-November-9-2026/",
+      "link": "https://www.businesswire.com/news/home/20261026236119/en/Cementos-Pacasmayo-S.A.A.-Announces-Consolidated-Results-for-Third-Quarter-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:fd6a699858185ec4",
-      "titleEn": "LeavePlus Appoints Northern Trust as Asset Servicing Provider",
+      "id": "stockanalysis:d648e4635fda8be5",
+      "titleEn": "Distribution Solutions Group Completes Strategic Acquisition of Winzer and FastServ Supply",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261026925975/en/LeavePlus-Appoints-Northern-Trust-as-Asset-Servicing-Provider/",
+      "link": "https://www.businesswire.com/news/home/20261026884764/en/Distribution-Solutions-Group-Completes-Strategic-Acquisition-of-Winzer-and-FastServ-Supply/",
       "published": null
     },
     {
-      "id": "stockanalysis:ab76427df43a0791",
-      "titleEn": "Cleveland-Cliffs Confirms Full Compliance with Stelco Undertakings",
+      "id": "stockanalysis:36d50eb194d3d274",
+      "titleEn": "Firms in Asia Pacific Embrace Unified Workday Platforms",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261026731490/en/Cleveland-Cliffs-Confirms-Full-Compliance-with-Stelco-Undertakings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:594fd631f8b64a7d",
-      "titleEn": "United Rentals Announces Pricing of Offering of $700,000,000 of 5.550% Senior Notes due 2029; $800,000,000 of 5.750% Senior Notes due 2031; $1,000,000,000 of 6.200% Senior Notes due 2036",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261026255220/en/United-Rentals-Announces-Pricing-of-Offering-of-700000000-of-5.550-Senior-Notes-due-2029-800000000-of-5.750-Senior-Notes-due-2031-1000000000-of-6.200-Senior-Notes-due-2036/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f58df4e1bff9bbcb",
-      "titleEn": "Distribution Solutions Group Announces Timing for Third Quarter Fiscal Year 2026 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261026264578/en/Distribution-Solutions-Group-Announces-Timing-for-Third-Quarter-Fiscal-Year-2026-Results/",
+      "link": "https://www.businesswire.com/news/home/20261026222477/en/Firms-in-Asia-Pacific-Embrace-Unified-Workday-Platforms/",
       "published": null
     }
   ]
