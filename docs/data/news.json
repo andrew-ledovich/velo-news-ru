@@ -1,123 +1,87 @@
 {
-  "generatedAt": "2026-10-27T07:48:50.902517Z",
+  "generatedAt": "2026-10-27T13:43:07.652366Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 9,
   "items": [
     {
-      "id": "stockanalysis:09bf4cd8111c630a",
-      "titleEn": "Samsung, SK Hynix surge to revive Kospi: What's driving Tuesday's rally?",
+      "id": "stockanalysis:70446a08acc2f015",
+      "titleEn": "Apple shares fall in premarket after offering replacement for faulty iPhone Duo units",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/27/samsung-sk-hynix-surge-to-revive-kospi-whats-driving-tuesdays-rally/",
+      "link": "https://invezz.com/news/2026/10/27/apple-shares-fall-in-premarket-after-offering-replacement-for-faulty-iphone-duo-units/",
       "published": null
     },
     {
-      "id": "stockanalysis:235a6b6c1b1139bd",
-      "titleEn": "Galaxy Digital stock is crashing: will its earnings turn the tide?",
+      "id": "stockanalysis:4fe94d53a0550152",
+      "titleEn": "Celestica stock is going parabolic after earnings: how high can it make?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/26/galaxy-digital-stock-is-crashing-will-its-earnings-turn-the-tide/",
+      "link": "https://invezz.com/news/2026/10/27/celestica-stock-is-going-parabolic-after-earnings-how-high-can-it-make/",
       "published": null
     },
     {
-      "id": "stockanalysis:5f3dc5f8944f51fb",
-      "titleEn": "Analysts Stand by Meta's AI Push Despite $95 Billion Equity Plan Scrutiny",
-      "summaryEn": "Three analysts remain bullish on Meta after the company announced plans to raise $95 billion through equity financing, though they raised questions about the company’s growing investments in artificial intelligence (AI), Seeking Alpha reported Monday (Oct. 26). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Wells Fargo maintained an Overweight rating and $995 price target on Meta but remained uncertain about the company’s spending next year; RBC Capital Markets maintained its Outperform rating and $800 target, while noting that investors are looking for returns from what may be even higher capital spending; and Yorkville maintained an Outperform rating and $920 target, while noting that Meta’s free cash flow turned negative in the third quarter, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/analysts-stand-by-metas-ai-push-despite-95-billion-equity-plan-scrutiny/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0849fd69c1b16f60",
-      "titleEn": "Anthropic IPO risks: what the prospectus says",
+      "id": "stockanalysis:1bd95de493389133",
+      "titleEn": "KO stock rises slightly as Coca-Cola raises 2026 outlook for third straight quarter",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/26/anthropic-ipo-risks-what-the-prospectus-says/",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/27/ko-stock-rises-slightly-as-coca-cola-raises-2026-outlook-for-third-straight-quarter/",
       "published": null
     },
     {
-      "id": "stockanalysis:291959713806ca12",
-      "titleEn": "Gold holds above $4,000 as Hormuz diplomacy cools crude ahead of Fed decision - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were higher in late U.S. trading Monday, recovering some of last week&#x27;s steep losses as declining crude oil prices eased inflation concerns and encouraged renewed buying interest in precious metals ahead of this week&#x27;s Federal Reserve monetary policy decision. Diplomatic efforts involving Iran and several regional powers helped reduce some of the immediate geopolitical premium in energy markets, while expectations for additional Fed tightening continued to limit bullion&#x27;s recovery. Gold climbed back above $4,000.00 an ounce during the session, while silver held above $54.000 after testing lower levels last week. Both metals remained vulnerable to changes in Treasury yields, the dollar and the outlook for U.S. interest rates. Market positioning remains focused on an October Federal Reserve pause, followed by the possibility of additional tightening before year-end. The Federal Reserve remains in its premeeting communications blackout, leaving Tuesday&#x27;s economic releases and Wednesday&#x27;s policy announcement as the principal catalysts for interest rate expectations. September durable goods orders are due Tuesday at 8:30 a.m. EDT, followed by October consumer confidence, September new-home sales and the Richmond Fed manufacturing survey at 10 a.m. EDT. The Federal Open Market Committee will announce its interest rate decision Wednesday at 2 p.m. EDT, followed by Fed Chair Kevin Warsh&#x27;s news conference at 2:30 p.m. EDT. Thursday brings the advance third-quarter gross domestic product report, September personal consumption expenditures inflation data and weekly initial jobless claims at 8:30 a.m. EDT. Softer inflation figures and less restrictive Fed guidance could reduce December rate hike expectations and support gold through lower yields and a weaker dollar, while resilient economic activity or persistent price pressure would strengthen the case for further monetary tightening.",
+      "id": "stockanalysis:939bc2455c5ad806",
+      "titleEn": "Why Boeing stock is up 1% after posting a $116M loss",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-26/gold-holds-above-4000-hormuz-diplomacy-cools-crude-ahead-fed-decision-kitco",
+      "link": "https://invezz.com/news/2026/10/27/why-boeing-stock-is-up-1-after-posting-a-116m-loss/",
       "published": null
     },
     {
-      "id": "stockanalysis:3cc613f59fddc865",
-      "titleEn": "Citi Raises Savings Rates for Relationship Banking Clients",
-      "summaryEn": "Citi ’s new program that offers higher savings rates to reward clients who deepen their relationship with the bank went live Monday (Oct. 26). &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Citi’s Relationship Tiers are based on combined average monthly balance in their checking savings, CD and investment accounts, with Citi Priority starting at $30,000, Citigold starting at $200,000 and Citigold Private Client starting at $1 million, according to the release.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/citi-raises-savings-rates-for-relationship-banking-clients/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e0820edd6cf42f88",
-      "titleEn": "Nasdaq closes 0.8% higher as Anthropic IPO filing boosts AI stocks",
+      "id": "stockanalysis:b1e5cc36c7104a27",
+      "titleEn": "Nvidia to invest $3B in Meta as AI spending drives $97.5B fundraising",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/26/nasdaq-closes-0-8-higher-as-anthropic-ipo-filing-boosts-ai-stocks/",
+      "link": "https://invezz.com/news/2026/10/27/nvidia-to-invest-3b-in-meta-as-ai-spending-drives-97-5b-fundraising/",
       "published": null
     },
     {
-      "id": "stockanalysis:7e3b307faaf7e4ed",
-      "titleEn": "The Iran war needs to end for gold to have a chance to rally - UBWM's Haworth",
-      "summaryEn": "(Kitco News) - Gold became a major investment theme at the start of the year as central bank demand helped drive prices to record highs above $5,600 an ounce; however, sentiment has turned significantly more cautious in the second half of 2026 as the conflict in the Middle East remains far from over. In an interview with Kitco News, Rob Haworth, senior investment strategist at U.S. Bank Wealth Management, said that if gold stands a chance of rallying back to $5,000 an ounce, the war in Iran needs to end and global energy markets need to normalize, allowing central banks to refocus on diversifying their official reserves. Haworth said that although gold&#x27;s longer-term investment appeal remains intact, the precious metal continues to face significant headwinds as central banks prioritize economic stability and energy security over accumulating more gold.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-26/iran-war-needs-end-gold-have-chance-rally-ubwms-haworth",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c2c8f78ce9095c9d",
-      "titleEn": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Microsoft has offered 60,000 employees, or about 27% of its global workforce, voluntary buyouts as the software giant spends heavily on artificial intelligence. The company's voluntary exit offer was available to eligible employees in Canada, India, the United Kingdom and the United States, the company's chief people officer Amy Coleman wrote in a blog post Monday.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-10-microsoft-quarter-global-workforce-voluntary.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c6d19b84ad2cae61",
-      "titleEn": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Artificial intelligence giant Anthropic filed papers Monday for what could be the biggest initial public offering of stock ever even as its top executive warns that advanced AI could pose an existential threat to humanity. The filing sets up the San Francisco company for a Wall Street debut next month, potentially eclipsing the SpaceX initial public offering in June that raised a record $86 billion. An Anthropic IPO would also put the company ahead of OpenAI in going public in what is expected to be a pair of blockbuster stock debuts for the rival AI labs.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-10-anthropic-potentially-biggest-ipo-ceo.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:32b74f0be027da49",
-      "titleEn": "SGRY Investors Have Opportunity to Join Surgery Partners, Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:01fde82718edb078",
+      "titleEn": "Rolls-Royce outlook as Safran and GE Aerospace earnings flag aviation risks",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261026818116/en/SGRY-Investors-Have-Opportunity-to-Join-Surgery-Partners-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://invezz.com/news/2026/10/27/rolls-royce-outlook-as-safran-and-ge-aerospace-earnings-flag-aviation-risks/",
       "published": null
     },
     {
-      "id": "stockanalysis:d2a7f4b634fb9f95",
-      "titleEn": "Fujifilm Introduces instax mini Evo 2™ Hybrid Instant Camera",
+      "id": "stockanalysis:1e6503875cc0e89a",
+      "titleEn": "IAG share price is facing turbulence: will it drop or rise ahead of Q3 earnings?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261026489897/en/Fujifilm-Introduces-instax-mini-Evo-2%E2%84%A2-Hybrid-Instant-Camera/",
+      "link": "https://invezz.com/news/2026/10/27/iag-share-price-is-facing-turbulence-will-it-drop-or-rise-ahead-of-q3-earnings/",
       "published": null
     },
     {
-      "id": "stockanalysis:85770d55a818ef13",
-      "titleEn": "Cizzle Brands Accelerates U.S. National Exchange Listing Strategy to Drive Institutional Growth and Unlock Shareholder Value",
+      "id": "stockanalysis:59ad1faa2eb33245",
+      "titleEn": "HSBC share price: Is the $1 billion buyback enough to drive a rally?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261026868599/en/Cizzle-Brands-Accelerates-U.S.-National-Exchange-Listing-Strategy-to-Drive-Institutional-Growth-and-Unlock-Shareholder-Value/",
+      "link": "https://invezz.com/news/2026/10/27/hsbc-share-price-is-the-1-billion-buyback-enough-to-drive-a-rally/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:95f16cdf9d67c183",
+      "titleEn": "Conduent to Report Third-Quarter 2026 Financial Results on November 5, 2026",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261027677604/en/Conduent-to-Report-Third-Quarter-2026-Financial-Results-on-November-5-2026/",
       "published": null
     }
   ]
