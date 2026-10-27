@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-10-27T02:12:17.475107Z",
+  "generatedAt": "2026-10-27T07:48:50.902517Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:09bf4cd8111c630a",
+      "titleEn": "Samsung, SK Hynix surge to revive Kospi: What's driving Tuesday's rally?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/27/samsung-sk-hynix-surge-to-revive-kospi-whats-driving-tuesdays-rally/",
+      "published": null
+    },
     {
       "id": "stockanalysis:235a6b6c1b1139bd",
       "titleEn": "Galaxy Digital stock is crashing: will its earnings turn the tide?",
@@ -85,21 +94,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1aa74d3cdb769d20",
-      "titleEn": "Ripple Equips Its Treasury Tool With New Capabilities",
-      "summaryEn": "Blockchain company Ripple has announced new capabilities for its treasury product. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The updated Ripple Treasury allows businesses to manage cash, payments and liquidity around the clock, the company said in its announcement Monday (Oct. 26).",
+      "id": "stockanalysis:32b74f0be027da49",
+      "titleEn": "SGRY Investors Have Opportunity to Join Surgery Partners, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.pymnts.com/news/b2b-payments/2026/ripple-equips-its-treasury-tool-with-new-capabilities/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261026818116/en/SGRY-Investors-Have-Opportunity-to-Join-Surgery-Partners-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
-      "id": "stockanalysis:6e474bd346a4cf53",
-      "titleEn": "Anthropic IPO prospectus released: 7 numbers investors need to know",
+      "id": "stockanalysis:d2a7f4b634fb9f95",
+      "titleEn": "Fujifilm Introduces instax mini Evo 2™ Hybrid Instant Camera",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/26/anthropic-ipo-prospectus-released-7-numbers-investors-need-to-know/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261026489897/en/Fujifilm-Introduces-instax-mini-Evo-2%E2%84%A2-Hybrid-Instant-Camera/",
       "published": null
     },
     {
@@ -109,33 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261026868599/en/Cizzle-Brands-Accelerates-U.S.-National-Exchange-Listing-Strategy-to-Drive-Institutional-Growth-and-Unlock-Shareholder-Value/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:801d660ce34e246f",
-      "titleEn": "Cementos Pacasmayo S.A.A. Announces Consolidated Results for Third Quarter 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261026236119/en/Cementos-Pacasmayo-S.A.A.-Announces-Consolidated-Results-for-Third-Quarter-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d648e4635fda8be5",
-      "titleEn": "Distribution Solutions Group Completes Strategic Acquisition of Winzer and FastServ Supply",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261026884764/en/Distribution-Solutions-Group-Completes-Strategic-Acquisition-of-Winzer-and-FastServ-Supply/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:36d50eb194d3d274",
-      "titleEn": "Firms in Asia Pacific Embrace Unified Workday Platforms",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261026222477/en/Firms-in-Asia-Pacific-Embrace-Unified-Workday-Platforms/",
       "published": null
     }
   ]
