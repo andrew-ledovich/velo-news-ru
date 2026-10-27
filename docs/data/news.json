@@ -1,87 +1,213 @@
 {
-  "generatedAt": "2026-10-27T13:43:07.652366Z",
+  "generatedAt": "2026-10-27T18:58:51.147255Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 23,
   "items": [
     {
-      "id": "stockanalysis:70446a08acc2f015",
-      "titleEn": "Apple shares fall in premarket after offering replacement for faulty iPhone Duo units",
-      "summaryEn": null,
+      "id": "stockanalysis:016f2e76ba33fa96",
+      "titleEn": "Gold price needs to build a floor here or face a deeper correction - Standard Chartered's Cooper",
+      "summaryEn": "(Kitco News) - Gold ’s drop below $4,000 last week is starting to attract some early attention as the two-month downtrend has pushed prices toward oversold territory. However, according to one market analyst, the precious metal needs to hold current levels or could see significantly lower prices. In her latest precious metals report, Suki Cooper, Global Head of Commodities Research at Standard Chartered Bank, noted that global gold-backed exchange-traded products (ETPs) saw renewed outflows late last week, ending a period of relatively resilient investment demand. “Notably, the sell-off extended beyond gold across assets, reflecting tech jitters and liquidity needs to meet margin calls or generate cash,” she said.",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/27/apple-shares-fall-in-premarket-after-offering-replacement-for-faulty-iphone-duo-units/",
+      "link": "https://www.kitco.com/news/article/2026-10-27/gold-price-needs-build-floor-here-or-face-deeper-correction-standard",
       "published": null
     },
     {
-      "id": "stockanalysis:4fe94d53a0550152",
-      "titleEn": "Celestica stock is going parabolic after earnings: how high can it make?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/27/celestica-stock-is-going-parabolic-after-earnings-how-high-can-it-make/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1bd95de493389133",
-      "titleEn": "KO stock rises slightly as Coca-Cola raises 2026 outlook for third straight quarter",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/27/ko-stock-rises-slightly-as-coca-cola-raises-2026-outlook-for-third-straight-quarter/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:939bc2455c5ad806",
-      "titleEn": "Why Boeing stock is up 1% after posting a $116M loss",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/27/why-boeing-stock-is-up-1-after-posting-a-116m-loss/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b1e5cc36c7104a27",
-      "titleEn": "Nvidia to invest $3B in Meta as AI spending drives $97.5B fundraising",
+      "id": "stockanalysis:302d295d56b2042f",
+      "titleEn": "Nvidia stock rises after Meta deal, but AI financing risks linger",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/27/nvidia-to-invest-3b-in-meta-as-ai-spending-drives-97-5b-fundraising/",
+      "link": "https://invezz.com/news/2026/10/27/nvidia-stock-rises-after-meta-deal-but-ai-financing-risks-linger/",
       "published": null
     },
     {
-      "id": "stockanalysis:01fde82718edb078",
-      "titleEn": "Rolls-Royce outlook as Safran and GE Aerospace earnings flag aviation risks",
+      "id": "stockanalysis:0c6644c42fa0b8f7",
+      "titleEn": "Is it worth buying the dip in Innodata stock today?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/27/rolls-royce-outlook-as-safran-and-ge-aerospace-earnings-flag-aviation-risks/",
+      "link": "https://invezz.com/news/2026/10/27/is-it-worth-buying-the-dip-in-innodata-stock-today/",
       "published": null
     },
     {
-      "id": "stockanalysis:1e6503875cc0e89a",
-      "titleEn": "IAG share price is facing turbulence: will it drop or rise ahead of Q3 earnings?",
+      "id": "stockanalysis:26186a7e59ad1a2a",
+      "titleEn": "SpaceX stock rises, why analysts see more upside for the stock",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/27/iag-share-price-is-facing-turbulence-will-it-drop-or-rise-ahead-of-q3-earnings/",
+      "link": "https://invezz.com/news/2026/10/27/spacex-stock-rises-why-analysts-see-more-upside-for-the-stock/",
       "published": null
     },
     {
-      "id": "stockanalysis:59ad1faa2eb33245",
-      "titleEn": "HSBC share price: Is the $1 billion buyback enough to drive a rally?",
+      "id": "stockanalysis:34950a9270e0e5e0",
+      "titleEn": "SoFi's earnings beat lifts stock, but should you buy the rally?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/27/hsbc-share-price-is-the-1-billion-buyback-enough-to-drive-a-rally/",
+      "link": "https://invezz.com/news/2026/10/27/sofis-earnings-beat-lifts-stock-but-should-you-buy-the-rally/",
       "published": null
     },
     {
-      "id": "stockanalysis:95f16cdf9d67c183",
-      "titleEn": "Conduent to Report Third-Quarter 2026 Financial Results on November 5, 2026",
+      "id": "stockanalysis:7fc7c046bdb34e5e",
+      "titleEn": "Why is AMD stock gaining 4% today?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261027677604/en/Conduent-to-Report-Third-Quarter-2026-Financial-Results-on-November-5-2026/",
+      "link": "https://invezz.com/news/2026/10/27/why-is-amd-stock-gaining-4-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2e3a1467ca8ebd05",
+      "titleEn": "Gold prices holding above $4,000 as U.S. new home sales fall",
+      "summaryEn": "(Kitco News) - The gold market continues to hold critical support around $4,000 an ounce and could attract further safe-haven interest as the U.S. housing sector continues to struggle. New home sales fell 0.6% to a seasonally adjusted annualized rate of 676,000 units last month, the U.S. Census Bureau and the U.S. Department of Housing and Urban Development announced Tuesday. The numbers were slightly better than expected, as market consensus forecasts called for sales of 651,000 units. However, August’s sales figures were revised lower by 4,000 units.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-27/gold-prices-holding-above-4000-us-new-home-sales-fall",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0a47ccca191f10f7",
+      "titleEn": "Gold price shoots to session high $4,048/oz after Consumer Confidence rises to 91.7",
+      "summaryEn": "(Kitco News) - Gold prices are trading at session highs after the latest data showed an improving picture of the attitudes of U.S. consumers this month. The Consumer Confidence Index rose to 91.7 in October, above economists’ consensus forecast for an 81 reading and also above the upwardly revised 84.2 print from September, the Conference Board announced on Tuesday. The Present Situation Index—based on consumers&#x27; assessment of current business and labor market conditions—increased by 8.6 points to 120.4. The Expectations Index—based on consumers&#x27; short-term outlook for income, business, and labor market conditions—recovered by 6.9 points to 72.6, only partially reversing three consecutive monthly declines. The survey period for this month&#x27;s preliminary results was October 1 - 21.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-27/gold-price-shoots-session-high-4048oz-after-consumer-confidence-rises-917",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:03641be40be37708",
+      "titleEn": "These 3 stocks could rally after the Fed decision",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/27/these-3-stocks-could-rally-after-the-fed-decision/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2ac3d33582c13d7d",
+      "titleEn": "Norway media take legal action to block Meta from using content",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Norway's main media organizations said Tuesday they had taken legal action to block Meta from enforcing new user terms that they claim threaten their rights to their journalistic content. According to the 10 media groups, the new terms due to come into force on Nov. 20 would give Meta—which owns Facebook and Instagram—the right to collect their articles, photos and videos, including those behind a paywall, and use them to develop artificial intelligence products, among other things.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-10-norway-media-legal-action-block.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c845f45231fbe86c",
+      "titleEn": "Why is Broadcom stock (AVGO) rising 4% on Tuesday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/27/why-is-broadcom-stock-avgo-rising-4-on-tuesday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:abbe38240e06ca9a",
+      "titleEn": "Anthropic IPO valuation explained: what the S-1 tells us",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/27/anthropic-ipo-valuation-explained/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:266c0ac62bd30705",
+      "titleEn": "Freeport beats Q3 earnings expectations despite rising costs and sharp drop in gold sales",
+      "summaryEn": "(Kitco News) - The earnings bonanza in the mining sector continues as one of the world&#x27;s largest copper and gold producers reported better-than-expected third-quarter earnings, with higher metal prices offsetting rising production costs and a sharp decline in gold sales. Tuesday, ahead of the North American equity market open, Freeport-McMoRan ( NYSE: FCX ) reported third-quarter revenue of $7.55 billion, beating analysts&#x27; consensus forecast of $7.4 billion by approximately 2%. Revenue increased 8.2% from $6.97 billion a year earlier. The company reported net income attributable to shareholders of $1.17 billion, or $0.81 per share, compared with $674 million, or $0.46 per share, last year. Adjusted earnings totaled $1.28 billion, or $0.88 per share, exceeding consensus estimates of $0.82 per share.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-27/freeport-beats-q3-earnings-expectations-despite-rising-costs-and-sharp-drop",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0098d10e4f32da2e",
+      "titleEn": "T-Mobile stock is in a bear market on SpaceX fears: will earnings spark a rebound?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/27/t-mobile-stock-is-in-a-bear-market-on-spacex-fears-will-earnings-spark-a-rebound/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:997f747d1298fb29",
+      "titleEn": "On shares slump 4%: How Mbappe's joke on Mao triggered Tuesday's fall",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/27/on-shares-slump-4-how-mbappes-joke-on-mao-triggered-tuesdays-fall/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:676940cc4538aac4",
+      "titleEn": "JetBlue stock jumps on margin growth estimates, but risks remain",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/27/jetblue-stock-jumps-on-margin-growth-estimates-but-risks-remain/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:285455014fb06cf5",
+      "titleEn": "Precious metals weaken as Hormuz uncertainty keeps oil elevated ahead of Fed decision - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were lower in early U.S. trading Tuesday, as persistent expectations for additional Federal Reserve tightening and uncertainty surrounding Middle East energy supplies continued to weigh on precious metals. Gold slipped below the $4,000.00 level during the morning session, while silver suffered heavier losses as concerns about industrial demand compounded the impact of restrictive interest rate expectations. Renewed diplomatic efforts involving Iran helped ease some immediate fears of another major escalation, although crude oil prices remained elevated. At the time of writing, spot gold was trading near $3,994.60 an ounce, down $21.60, or 0.54%, while spot silver was trading near $52.750, down $1.090, or 2.03%. Market positioning remains focused on a likely Federal Reserve pause Wednesday, followed by the possibility of additional tightening before year-end. September consumer prices increased 0.6% on the month and 3.7% annually, while producer prices climbed 1.3% and 6.3%, respectively. Interest rate futures indicate that the Fed is widely expected to leave its benchmark rate unchanged at 3.75% to 4.00% when its Oct. 27-28 meeting concludes. However, traders continue to assign approximately a 73% probability to at least one additional increase by December, reflecting persistent inflation concerns despite evidence of slowing housing activity. The benchmark 10-year Treasury yield was trading near 4.98% Tuesday morning, below recent highs, as softer crude prices and demand for government bonds provided some relief. Gold nevertheless remained under pressure, reflecting the influence of restrictive monetary policy expectations and continued weakness in precious metals positioning.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-27/precious-metals-weaken-hormuz-uncertainty-keeps-oil-elevated-ahead-fed",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:013bee3b6a903e92",
+      "titleEn": "Why are CoreWeave and Nebius stocks rising 4% on Tuesday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/27/why-are-coreweave-and-nebius-stocks-rising-4-on-tuesday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6a2d4187344217e1",
+      "titleEn": "Constellation Secures Conditional DOE Loan Commitment of up to $5 Billion to Expand Nuclear Output",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261027834771/en/Constellation-Secures-Conditional-DOE-Loan-Commitment-of-up-to-5-Billion-to-Expand-Nuclear-Output/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a69cb75260071ac5",
+      "titleEn": "Social Media Victims Law Center and The Schenk Law Firm File Wrongful Death Lawsuit Against OpenAI Alleging ChatGPT's Medical Advice Resulted in the Death of a Woman with Epilepsy",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261027229332/en/Social-Media-Victims-Law-Center-and-The-Schenk-Law-Firm-File-Wrongful-Death-Lawsuit-Against-OpenAI-Alleging-ChatGPT%E2%80%99s-Medical-Advice-Resulted-in-the-Death-of-a-Woman-with-Epilepsy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4e1e5d8afddafcad",
+      "titleEn": "Walmart and Care Access Plan Three Additional Clinical Trial Centers to Expand Access to Medical Research",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261027925077/en/Walmart-and-Care-Access-Plan-Three-Additional-Clinical-Trial-Centers-to-Expand-Access-to-Medical-Research/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c919cede8c589cd6",
+      "titleEn": "SambaNova and Oracle Collaborate to Bring High-Performance Inference to Oracle Cloud Infrastructure",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261027598375/en/SambaNova-and-Oracle-Collaborate-to-Bring-High-Performance-Inference-to-Oracle-Cloud-Infrastructure/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b4ac8ab8985ee31a",
+      "titleEn": "KBRA Japan Receives Credit Rating Agency Registration From Japan Financial Services Agency",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261027362539/en/KBRA-Japan-Receives-Credit-Rating-Agency-Registration-From-Japan-Financial-Services-Agency/",
       "published": null
     }
   ]
