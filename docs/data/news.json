@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-10-28T19:45:46.064110Z",
+  "generatedAt": "2026-10-28T23:42:00.069870Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:022048fe6db19e70",
+      "titleEn": "Gold steadies, silver falls as Fed holds rates, two officials favor hike - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold was steady and spot silver prices were weaker in late U.S. trading Wednesday, as the Federal Reserve left interest rates unchanged while acknowledging persistent inflation and resilient economic activity. The central bank&#x27;s decision was widely anticipated, but dissenting votes in favor of an immediate increase reinforced expectations that further monetary tightening remains possible before year-end. Renewed Middle East tensions and higher crude oil prices added to inflation concerns, limiting buying interest in precious metals despite a softer U.S. dollar. At the time of writing, spot gold was trading near $4,056.80 an ounce, down $2.50, or 0.06%, while spot silver was trading near $53.720, down $0.580, or 1.07%. The Federal Reserve left its benchmark interest rate unchanged at 3.75% to 4.00% Wednesday, in a 10-2 decision that highlighted continuing disagreements over the appropriate monetary policy response to elevated inflation. Fed Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented in favor of a 25-basis-point increase. The Federal Open Market Committee maintained that economic activity is expanding at a strong pace, with resilient domestic spending, robust capital investment and relatively stable labor-market conditions. Policymakers also acknowledged that inflation remains elevated, leaving the door open to further tightening as additional economic information becomes available. The decision marked another pause in the Fed&#x27;s tightening cycle rather than a clear shift toward easier monetary policy.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-10-28/gold-steadies-silver-falls-fed-holds-rates-two-officials-favor-hike-kitco",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e42c0970042c0f28",
+      "titleEn": "Microsoft stock jumps 4% after earnings: here's what pleased investors",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/28/microsoft-stock-jumps-4-after-earnings-heres-what-pleased-investors/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:01e68d25f155a9b2",
+      "titleEn": "Alphabet stock sinks 8% after earnings: here's why",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/28/alphabet-stock-sinks-8-after-earnings-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d56a3ae6f6e565cb",
+      "titleEn": "Why is Oracle stock surging 11% today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/28/why-is-oracle-stock-surging-11-today/",
+      "published": null
+    },
     {
       "id": "stockanalysis:84a7db79dd892ce9",
       "titleEn": "Gold price drops to $4,035/oz as Fed votes 10-2 in favor of rate hold",
@@ -13,111 +49,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:b3cd955584e23bca",
-      "titleEn": "CoreWeave stock rebounds as analysts highlight debt repayment safety net",
+      "id": "stockanalysis:326048a042c289ec",
+      "titleEn": "InfraCap MLP ETF (NYSE Arca: AMZA) Tax Update",
       "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/28/coreweave-stock-rebounds-as-analysts-highlight-debt-repayment-safety-net/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d27c08ff03233b70",
-      "titleEn": "South Korea fines Google and Apple over unfair app market practices",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: South Korea on Wednesday fined Alphabet's Google and Apple a combined 63.7 billion won ($47.6 million), saying they abused their dominance in app store markets by forcing local developers onto their own payment systems and by unfairly delaying app reviews. The Korea Media and Communications Commission, the country's media and telecommunications regulator, spent years investigating the U.S. tech giants for allegedly violating a 2021 law that prohibits app store operators from forcing developers to use specific payment systems.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-10-south-korea-fines-google-apple.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2dfb08d562382bd4",
-      "titleEn": "What to expect from Alphabet's earnings after market close today",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/28/what-to-expect-from-alphabets-earnings-after-market-close-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c663ddf4941d5f12",
-      "titleEn": "Intel earnings preview: options data reveals how INTC will respond",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/28/intel-earnings-preview-options-data-reveals-how-intc-will-respond/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5c389cf7410b7995",
-      "titleEn": "Gold prices could fall to $3,900, silver to $50 as Fed tightening pressures precious metals – Sucden Financial",
-      "summaryEn": "(Kitco News) - Gold prices continue to hold critical support above $4,000 an ounce, but one investment firm expects prices to head lower by year-end as the Federal Reserve is expected to maintain its tightening bias, while silver faces even greater downside risks as weakening industrial demand adds to the pressure from elevated interest rates. In its latest quarterly metals report published Wednesday, analysts at Sucden Financial said they expect gold prices to test support around $3,900 an ounce ahead of the Federal Reserve&#x27;s December monetary policy meeting. Meanwhile, silver prices could fall to between $50 and $53 an ounce as tighter monetary conditions continue to weigh on investment demand. Although the Federal Reserve is expected to leave interest rates unchanged Wednesday, markets see a nearly 80% chance of a rate hike in December.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-28/gold-prices-could-fall-3900-silver-50-fed-tightening-pressures-precious",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b099261cb6e5f609",
-      "titleEn": "Anthropic IPO: retail investors could get up to 20% of shares",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/28/anthropic-ipo-retail-investors-could-get-up-to-20-of-shares/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1fafe521083b3119",
-      "titleEn": "Netflix stock is falling after earnings: why Morningstar sees it rising 30%",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/28/netflix-stock-is-falling-after-earnings-why-morningstar-sees-it-rising-30/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a630e2dd07fed561",
-      "titleEn": "U.S. copper stockpiling is squeezing China - Christopher Ecclestone",
-      "summaryEn": "(Kitco News) Washington’s strategic metals push is pulling copper into U.S. warehouses at China’s expense, according to Christopher Ecclestone, principal and mining strategist at Hallgarten + Company. Fresh from LME Week in London, Ecclestone told Kitco Mining’s Digging Deep on Oct. 22 that one metal dominated the conversations. “Copper, copper, copper,” he said. “This year it was massively, massively copper focused.” A chart from consultancy Project Blue captured the shift. “It showed that the Trump policies, for better or worse, are sucking copper into the US,” Ecclestone said. According to that chart, the U.S. ran a large inventory surplus last year and is heading for another, while China’s warehouse position has turned negative. “So the party that is suffering most, curiously enough, in the copper space is China, because the US is hoovering up material from all around the world.”",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-28/us-copper-stockpiling-squeezing-china-christopher-ecclestone",
+      "link": "https://www.businesswire.com/news/home/20261028346904/en/InfraCap-MLP-ETF-NYSE-Arca-AMZA-Tax-Update/",
       "published": null
     },
     {
-      "id": "stockanalysis:8383618f6424d583",
-      "titleEn": "Robinhood stock is slipping after earnings: top reasons to buy the dip",
+      "id": "stockanalysis:075dc93b9c897c3e",
+      "titleEn": "Virtus Investment Partners Reschedules Third Quarter 2026 Financial Results to Monday, November 9",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/28/robinhood-stock-is-slipping-after-earnings-top-reasons-to-buy-the-dip/",
+      "link": "https://www.businesswire.com/news/home/20261028677447/en/Virtus-Investment-Partners-Reschedules-Third-Quarter-2026-Financial-Results-to-Monday-November-9/",
       "published": null
     },
     {
-      "id": "stockanalysis:5927189d65e773c0",
-      "titleEn": "Vertiv stock soars on earnings: is the comeback finally here?",
+      "id": "stockanalysis:6b60a43b00971ad0",
+      "titleEn": "Virgin Galactic's Spaceship Apeiron Arrives Home to Spaceport America",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/28/vertiv-stock-soars-on-earnings-is-the-comeback-finally-here/",
+      "link": "https://www.businesswire.com/news/home/20261028560949/en/Virgin-Galactic%E2%80%99s-Spaceship-Apeiron-Arrives-Home-to-Spaceport-America/",
       "published": null
     },
     {
-      "id": "stockanalysis:133b6f650d2fe0d2",
-      "titleEn": "Transition Industries Signs Definitive EPC Agreement with Siemens Energy and Techint E&amp;C for Pacifico Mexinol's 210 MW Electrolyzer Facility",
+      "id": "stockanalysis:10fe2a2104431c76",
+      "titleEn": "B&amp;G Foods Declares Regular Quarterly Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261028748894/en/Transition-Industries-Signs-Definitive-EPC-Agreement-with-Siemens-Energy-and-Techint-EC-for-Pacifico-Mexinol%E2%80%99s-210-MW-Electrolyzer-Facility/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5efc516aa85b5955",
-      "titleEn": "Toyota Boshoku Tennessee and Toyota Boshoku Jackson Tennessee Host Second Annual Zero Waste Collection Event",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261023507139/en/Toyota-Boshoku-Tennessee-and-Toyota-Boshoku-Jackson-Tennessee-Host-Second-Annual-Zero-Waste-Collection-Event/",
+      "link": "https://www.businesswire.com/news/home/20261028793377/en/BG-Foods-Declares-Regular-Quarterly-Dividend/",
       "published": null
     }
   ]
