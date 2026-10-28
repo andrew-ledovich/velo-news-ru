@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-27T22:51:13.038168Z",
+  "generatedAt": "2026-10-28T01:53:26.837128Z",
   "sourceCount": 1,
-  "count": 6,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:abc0b9c28ec44880",
@@ -55,6 +55,42 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/10/27/nvidia-stock-rises-after-meta-deal-but-ai-financing-risks-linger/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f13b71206e0d7dbd",
+      "titleEn": "CVR Energy Announces Revised Time for Third Quarter 2026 Earnings Conference Call",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261027440004/en/CVR-Energy-Announces-Revised-Time-for-Third-Quarter-2026-Earnings-Conference-Call/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:976b4026fdcf9de7",
+      "titleEn": "CVR Partners Announces Revised Time for Third Quarter 2026 Earnings Conference Call",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261027804830/en/CVR-Partners-Announces-Revised-Time-for-Third-Quarter-2026-Earnings-Conference-Call/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:76341874c5ffe116",
+      "titleEn": "Essential Properties Realty Trust, Inc. Announces Pricing of $450 Million Exchangeable Senior Notes Offering",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261027769802/en/Essential-Properties-Realty-Trust-Inc.-Announces-Pricing-of-450-Million-Exchangeable-Senior-Notes-Offering/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e3bb137445009e9b",
+      "titleEn": "Hitachi Unveils a New Global Digital Services Company Turning Cloud, Data and AI Into Measurable Business Outcomes: Hitachi Digital",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261027531796/en/Hitachi-Unveils-a-New-Global-Digital-Services-Company-Turning-Cloud-Data-and-AI-Into-Measurable-Business-Outcomes-Hitachi-Digital/",
       "published": null
     }
   ]
