@@ -1,123 +1,123 @@
 {
-  "generatedAt": "2026-10-28T14:29:59.559569Z",
+  "generatedAt": "2026-10-28T19:45:46.064110Z",
   "sourceCount": 1,
   "count": 13,
   "items": [
     {
-      "id": "stockanalysis:5fc3bb934bbc8b67",
-      "titleEn": "Gold price at CAD$5,684/oz after Bank of Canada raises 25 bps, sees growth slowing in Q4 before rebounding in 2028",
-      "summaryEn": "(Kitco News) - The Bank of Canada (BoC) raised its key overnight rate to 2.50% on Wednesday, as expected, with the bank rate rising to 2.75% and the deposit rate rising to 2.45%. The BoC said the global economic activity has remained resilient despite higher energy prices. “In the United States, the economy continues to grow at a robust pace, supported by consumer spending and AI-related investment,” they said. “Growth in the euro area has been resilient and broad-based. After slowing in the second quarter, Chinese growth rebounded in the third quarter, owing to strength in exports and a pickup in fiscal spending.” “Given the ongoing resilience of the global economy, the Bank has revised up global GDP growth slightly to 3.1% in 2026, while growth in 2027 and 2028 remains unchanged from the July projection at 3.2%,” they added.",
+      "id": "stockanalysis:84a7db79dd892ce9",
+      "titleEn": "Gold price drops to $4,035/oz as Fed votes 10-2 in favor of rate hold",
+      "summaryEn": "(Kitco News) – The Federal Reserve announced on Wednesday that the Federal Open Market Committee (FOMC) voted 10-2 in favor of maintaining the policy rate unchanged, as expected by the market consensus. “The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent, in support of the Federal Reserve&#x27;s dual mandate,” the Federal Reserve said in its statement. “The Committee is continuing its policy of maintaining ample reserves in the banking system.” “Economic activity is expanding at a strong pace,” the statement read. “While uncertainty remains elevated owing, in part, to geopolitical developments, domestic spending has been resilient. Productivity growth is strong, and capital investment is robust. Job gains have kept pace with the workforce, and the unemployment rate has changed little.”",
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-10-28/gold-price-cad5684oz-after-bank-canada-raises-25-bps-sees-growth-slowing-q4",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-28/gold-price-drops-4035oz-fed-votes-10-2-favor-rate-hold",
       "published": null
     },
     {
-      "id": "stockanalysis:d1b44f428fdf671f",
-      "titleEn": "Insiders are buying these 3 stocks: should you too?",
+      "id": "stockanalysis:b3cd955584e23bca",
+      "titleEn": "CoreWeave stock rebounds as analysts highlight debt repayment safety net",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/28/insiders-are-buying-these-3-stocks-should-you-too/",
+      "link": "https://invezz.com/news/2026/10/28/coreweave-stock-rebounds-as-analysts-highlight-debt-repayment-safety-net/",
       "published": null
     },
     {
-      "id": "stockanalysis:a55a231c931126c9",
-      "titleEn": "Gold recovery stalls as Saudi refinery attack claims lift crude, silver retreats - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were lower in early U.S. trading Wednesday, as renewed tensions involving Iran and its regional allies pushed crude oil prices higher and reinforced concerns about persistent inflation ahead of the Federal Reserve&#x27;s interest rate decision. Gold surrendered part of Tuesday&#x27;s recovery as traders assessed the possibility of additional monetary tightening in December, while silver remained under pressure amid concerns about industrial demand and elevated borrowing costs. Spot gold was trading near $4,054.60 an ounce, down $6.36, or 0.16%, while silver was near $54.202, down $0.195, or 0.40%. Market positioning remains focused on an expected Federal Reserve pause Wednesday, with traders assigning approximately an 84% probability to at least one additional interest rate increase by December. The combination of elevated yields, a firm dollar and persistent expectations for additional Fed tightening continues to limit gold&#x27;s ability to attract sustained buying interest despite geopolitical uncertainty. The Federal Open Market Committee concludes its two-day meeting Wednesday, with the interest rate decision scheduled for 2 p.m. EDT, followed by Fed Chair Kevin Warsh&#x27;s news conference at 2:30 p.m. EDT. Policymakers are widely expected to leave the federal funds target range unchanged at 3.75% to 4.00%, shifting attention toward the accompanying statement and the chairman&#x27;s assessment of inflation, employment and the possibility of another increase in December. Wednesday&#x27;s remaining economic calendar includes the weekly Energy Information Administration petroleum inventory report at 10:30 a.m. EDT. Thursday brings the advance third-quarter gross domestic product estimate, September personal consumption expenditures inflation figures and weekly initial jobless claims, all scheduled for 8:30 a.m. EDT. Softer inflation readings or less restrictive Fed guidance could reduce December rate hike expectations and support gold through lower Treasury yields and a weaker dollar. Conversely, persistent price pressures and a hawkish policy message would reinforce expectations for additional tightening and maintain pressure on bullion.",
+      "id": "stockanalysis:d27c08ff03233b70",
+      "titleEn": "South Korea fines Google and Apple over unfair app market practices",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: South Korea on Wednesday fined Alphabet's Google and Apple a combined 63.7 billion won ($47.6 million), saying they abused their dominance in app store markets by forcing local developers onto their own payment systems and by unfairly delaying app reviews. The Korea Media and Communications Commission, the country's media and telecommunications regulator, spent years investigating the U.S. tech giants for allegedly violating a 2021 law that prohibits app store operators from forcing developers to use specific payment systems.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-10-south-korea-fines-google-apple.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2dfb08d562382bd4",
+      "titleEn": "What to expect from Alphabet's earnings after market close today",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/28/what-to-expect-from-alphabets-earnings-after-market-close-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c663ddf4941d5f12",
+      "titleEn": "Intel earnings preview: options data reveals how INTC will respond",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/28/intel-earnings-preview-options-data-reveals-how-intc-will-respond/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5c389cf7410b7995",
+      "titleEn": "Gold prices could fall to $3,900, silver to $50 as Fed tightening pressures precious metals – Sucden Financial",
+      "summaryEn": "(Kitco News) - Gold prices continue to hold critical support above $4,000 an ounce, but one investment firm expects prices to head lower by year-end as the Federal Reserve is expected to maintain its tightening bias, while silver faces even greater downside risks as weakening industrial demand adds to the pressure from elevated interest rates. In its latest quarterly metals report published Wednesday, analysts at Sucden Financial said they expect gold prices to test support around $3,900 an ounce ahead of the Federal Reserve&#x27;s December monetary policy meeting. Meanwhile, silver prices could fall to between $50 and $53 an ounce as tighter monetary conditions continue to weigh on investment demand. Although the Federal Reserve is expected to leave interest rates unchanged Wednesday, markets see a nearly 80% chance of a rate hike in December.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-10-28/gold-prices-could-fall-3900-silver-50-fed-tightening-pressures-precious",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b099261cb6e5f609",
+      "titleEn": "Anthropic IPO: retail investors could get up to 20% of shares",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/28/anthropic-ipo-retail-investors-could-get-up-to-20-of-shares/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1fafe521083b3119",
+      "titleEn": "Netflix stock is falling after earnings: why Morningstar sees it rising 30%",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/28/netflix-stock-is-falling-after-earnings-why-morningstar-sees-it-rising-30/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a630e2dd07fed561",
+      "titleEn": "U.S. copper stockpiling is squeezing China - Christopher Ecclestone",
+      "summaryEn": "(Kitco News) Washington’s strategic metals push is pulling copper into U.S. warehouses at China’s expense, according to Christopher Ecclestone, principal and mining strategist at Hallgarten + Company. Fresh from LME Week in London, Ecclestone told Kitco Mining’s Digging Deep on Oct. 22 that one metal dominated the conversations. “Copper, copper, copper,” he said. “This year it was massively, massively copper focused.” A chart from consultancy Project Blue captured the shift. “It showed that the Trump policies, for better or worse, are sucking copper into the US,” Ecclestone said. According to that chart, the U.S. ran a large inventory surplus last year and is heading for another, while China’s warehouse position has turned negative. “So the party that is suffering most, curiously enough, in the copper space is China, because the US is hoovering up material from all around the world.”",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-28/gold-recovery-stalls-saudi-refinery-attack-claims-lift-crude-silver",
+      "link": "https://www.kitco.com/news/article/2026-10-28/us-copper-stockpiling-squeezing-china-christopher-ecclestone",
       "published": null
     },
     {
-      "id": "stockanalysis:c2bd6634936f13d4",
-      "titleEn": "Microsoft earnings preview: Azure growth and AI spending in focus",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/28/microsoft-earnings-preview-azure-growth-and-ai-spending-in-focus/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:27d1ba462daa7b87",
-      "titleEn": "Here's why Chinese EV stocks like Li Auto, XPeng, Polestar, and Nio are falling",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/10/28/heres-why-chinese-ev-stocks-like-li-auto-xpeng-polestar-and-nio-are-falling/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:da66355a48ed9ee3",
-      "titleEn": "Here's why Enphase Energy stock is plummeting after earnings and what next",
+      "id": "stockanalysis:8383618f6424d583",
+      "titleEn": "Robinhood stock is slipping after earnings: top reasons to buy the dip",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/28/heres-why-enphase-energy-stock-is-plummeting-after-earnings-and-what-next/",
+      "link": "https://invezz.com/news/2026/10/28/robinhood-stock-is-slipping-after-earnings-top-reasons-to-buy-the-dip/",
       "published": null
     },
     {
-      "id": "stockanalysis:0d398e90860e39d5",
-      "titleEn": "Europe's digital dependence is rising—the U.S. and China pull ahead",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Dependence on digital technologies in the European Union continues to grow—despite all calls for greater digital sovereignty. Between 2010 and 2023, Europe's \"Digital Dependence Index\" (DDI) rose by 0.5 percentage points, while China reduced its dependence by nearly 11 percentage points and the U.S. by 6 percentage points. A major weakness lies in digital platforms, where European countries are almost entirely dependent on foreign providers. This is according to a policy study by the Vodafone Institute and the Center for Advanced Security, Strategic and Integration Studies (CASSIS) at the University of Bonn.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-10-europe-digital-china.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1e0102876caa2871",
-      "titleEn": "Why is Seagate stock falling on Wednesday despite earnings beat?",
+      "id": "stockanalysis:5927189d65e773c0",
+      "titleEn": "Vertiv stock soars on earnings: is the comeback finally here?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/28/why-is-seagate-stock-falling-on-wednesday-despite-earnings-beat/",
+      "link": "https://invezz.com/news/2026/10/28/vertiv-stock-soars-on-earnings-is-the-comeback-finally-here/",
       "published": null
     },
     {
-      "id": "stockanalysis:6620dacf8a2382a0",
-      "titleEn": "Meta, Snap head to trial in another case about social media's harms",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Jury selection is expected to begin on Wednesday in Los Angeles for another landmark trial about the alleged harms of social media on young users, with Meta and, for the first time, Snap as defendants. Thousands of lawsuits have been filed in recent years in local, state and federal courtrooms across the country with various claims about alleged harms to children and teenagers caused by social media companies.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-10-meta-snap-trial-case-social.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:07412c094506d7ea",
-      "titleEn": "OpenAI looks beyond Nvidia, plans to buy Google's AI chips: report",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/28/openai-looks-beyond-nvidia-plans-to-buy-googles-ai-chips-report/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:dca249839f804cb5",
-      "titleEn": "Amazon Connect Expands Customer Service Transformations",
+      "id": "stockanalysis:133b6f650d2fe0d2",
+      "titleEn": "Transition Industries Signs Definitive EPC Agreement with Siemens Energy and Techint E&amp;C for Pacifico Mexinol's 210 MW Electrolyzer Facility",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261028254011/en/Amazon-Connect-Expands-Customer-Service-Transformations/",
+      "link": "https://www.businesswire.com/news/home/20261028748894/en/Transition-Industries-Signs-Definitive-EPC-Agreement-with-Siemens-Energy-and-Techint-EC-for-Pacifico-Mexinol%E2%80%99s-210-MW-Electrolyzer-Facility/",
       "published": null
     },
     {
-      "id": "stockanalysis:4e91aea5c65863b4",
-      "titleEn": "Kerrigan Advisors Represents Atlanta-Based Hennessy Automobile Companies in Sale – 3rd Largest Transaction in Industry History",
+      "id": "stockanalysis:5efc516aa85b5955",
+      "titleEn": "Toyota Boshoku Tennessee and Toyota Boshoku Jackson Tennessee Host Second Annual Zero Waste Collection Event",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261028461033/en/Kerrigan-Advisors-Represents-Atlanta-Based-Hennessy-Automobile-Companies-in-Sale-%E2%80%93-3rd-Largest-Transaction-in-Industry-History/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0fed1f49060f65d3",
-      "titleEn": "KNAV Acquires Fastrics to Expand Governance, Risk &amp; Compliance and Connected Reporting Capabilities",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261028432301/en/KNAV-Acquires-Fastrics-to-Expand-Governance-Risk-Compliance-and-Connected-Reporting-Capabilities/",
+      "link": "https://www.businesswire.com/news/home/20261023507139/en/Toyota-Boshoku-Tennessee-and-Toyota-Boshoku-Jackson-Tennessee-Host-Second-Annual-Zero-Waste-Collection-Event/",
       "published": null
     }
   ]
