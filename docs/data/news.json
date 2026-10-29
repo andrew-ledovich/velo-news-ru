@@ -1,105 +1,69 @@
 {
-  "generatedAt": "2026-10-29T16:03:12.343328Z",
+  "generatedAt": "2026-10-29T21:04:03.631173Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 7,
   "items": [
     {
-      "id": "stockanalysis:b31771472fbac07a",
-      "titleEn": "Apple stock rises as new macbook launch draws analyst support",
-      "summaryEn": "Buy AAPL. The new MacBook Pro/iMac cycle plus higher price points supports revenue even while PC/tablet demand is weak. The M6/M5 Pro-Max push (faster on-device AI) strengthens Apple’s Services monetization path via paid “Apple Intelligence” features, not just hardware upgrades. Key risk: foldable iPhone display failures spread beyond “small number of units,” forcing costly redesigns/returns and hurting the premium brand narrative. Key Risk: Foldable iPhone screen cracking becomes widespread and forces expensive fixes and demand damage. Buy AAPL for the Services re-rating. If analysts are right that server-side Apple Intelligence features (including Siri) move to paid tiers, the market will treat Apple more like a recurring-revenue software platform, lifting the valuation multiple. The touchscreen OLED MacBook Pro also increases the installed base for AI workloads, accelerating Services adoption. Key risk: Apple delays or abandons paid AI/Services rollout, keeping AI monetization stuck in free tiers.",
+      "id": "stockanalysis:46f57bf13d2e7578",
+      "titleEn": "Intel stock plunges 17% after weak Q4 forecast overshadows AI growth",
+      "summaryEn": "Buy AMD. If Intel’s PC and production issues persist, OEMs and PC supply chains keep shifting share toward competitors. AMD is the cleanest beneficiary of Intel’s client-computing stumble while the broader AI/data-center buildout continues. The setup is simple: Intel’s guidance shock signals share pressure in PCs, and AMD’s platform momentum should translate into higher unit demand and better mix. Key Risk: PC demand doesn’t just slow—it collapses across the whole market, hurting AMD’s volumes and forcing margin compression. Sell INTC. The stock got a big earnings beat, but the market is punishing the forward view: Q4 revenue $15–$16B vs $17.3B expected and EPS 25c vs 45c. The thesis is that PC weakness is worsening faster than Intel modeled (memory-price impact “sooner and deeper”), and the Israel facility disruption adds real near-term supply risk. AI/data-center growth can’t offset a client-computing slowdown when guidance is the problem.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/29/apple-stock-rises-as-new-macbook-launch-draws-analyst-support/",
+      "link": "https://invezz.com/news/2026/10/29/intel-stock-plunges-17-after-weak-q4-forecast-overshadows-ai-growth/",
       "published": null
     },
     {
-      "id": "stockanalysis:160e630c6701208b",
-      "titleEn": "GOOG stock plunges 13%: analysts cut PTs but remain bullish, betting on cloud growth",
-      "summaryEn": "Buy Alphabet (GOOGL). The selloff is driven by near-term search monetization fears, but analysts still expect cloud to accelerate (Cloud >100% growth cited) and believe search headwinds are “navigable.” The stock’s worst post-earnings reaction since 2004 plus negative free cash flow is a classic setup for mean reversion if management shows improving AI Mode monetization and ad conversion. Key catalyst is investors re-rating toward cloud-led growth while treating search deceleration as temporary. Key Risk: Search monetization keeps deteriorating as AI Mode expands, forcing sustained margin/FCF damage and breaking the “temporary headwind” view. Sell Alphabet (GOOG) relative to Microsoft (MSFT) and Amazon (AMZN). The article flags a direct threat to Alphabet’s core ad engine from AI/agentic shopping and lower monetization per AI Mode query. While MSFT and AMZN also face AI disruption, their monetization is more diversified across cloud/software/commerce, so Alphabet’s earnings power is more fragile to search behavior changes. Use this as a relative-value bet that the market is over-penalizing Alphabet’s ad risk versus peers’ AI upside.",
+      "id": "stockanalysis:1d735b862ddc0844",
+      "titleEn": "Oracle stock falls 4%: why experts aren't bothered",
+      "summaryEn": "Buy Oracle (ORCL). The news is a clear step-up in free-cash-flow timing: positive FCF expected in 2H FY2028 (~12 months earlier), with capex peaking in FY2027–28 then stepping down in FY2029. That improves the odds Oracle funds AI infrastructure internally instead of repeatedly tapping capital markets. Add the higher pricing on 5-year contracts (~$16B per GW vs ~$10B) and management’s ~28% return on invested capital—this supports margin durability through the ramp. Key Risk: AI infrastructure delivery slips (power/permitting/labor), delaying the ~10GW ramp and pushing FCF positivity back out. Buy data-center power/utility exposure tied to new AI capacity buildouts: NextEra Energy (NEE). Oracle’s plan to add ~10GW of AI infrastructure capacity by FY2028 implies sustained demand for power generation and grid upgrades. Second-order effect: even if Oracle’s sites face timing risk, the power build and interconnection work tends to be longer-cycle and less reversible, supporting utility earnings visibility.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/29/goog-stock-plunges-13-analysts-cut-pts-but-remain-bullish-betting-on-cloud-growth/",
+      "link": "https://invezz.com/news/2026/10/29/oracle-stock-falls-4-why-experts-arent-bothered/",
       "published": null
     },
     {
-      "id": "stockanalysis:116acf4fdbe62f1c",
-      "titleEn": "Coherent stock may benefit from a Lumentum buyout, but there's a catch",
-      "summaryEn": "Buy Coherent (COHR). Marvell weighing a Lumentum deal is a direct read-through: if Lumentum pays up, the market will re-rate COHR as the “cheaper, vertically integrated” laser/optics alternative (COHR forward P/E ~25 vs Lumentum ~40). COHR also has demand visibility (Lumentum products sold out through 2029) and strong recent growth/margins, so fundamentals can support the rerating even if the chart is ugly. Key Risk: Marvell never bids for Lumentum (or the deal collapses), removing the catalyst and letting the death-cross selloff dominate. Sell Coherent (COHR) short into the death-cross setup. If the 50-day EMA crosses below the 200-day EMA, momentum funds typically accelerate selling and price can slide toward $200 regardless of the AI narrative. Use this as a pure technical/positioning trade while the M&A story stays unconfirmed.",
+      "id": "stockanalysis:a05a186457413e16",
+      "titleEn": "Palantir stock falls, why are analysts bullish on the stock",
+      "summaryEn": "Buy Palantir (PLTR). The setup is accelerating AI ROI: analysts expect a Q3 revenue beat and continued growth into 2027, with JPMorgan specifically arguing the market is shifting from AI experiments to measurable returns—where Palantir already shows profitability and cash flow. The catalyst is the Nov 2 earnings window plus “positive catalyst watch.” Key Risk: Q3 results disappoint (revenue growth or margins) and investors decide the ROI story is hype, forcing a valuation reset. Sell the S&P 500 (SPY) relative to Palantir (PLTR): go long PLTR, short SPY. The thesis is that Palantir’s premium valuation can hold only if growth/profitability keep beating; analysts are lining up for that outcome ahead of earnings. If the market keeps rewarding “AI that produces returns,” PLTR should outperform broad equities.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/29/coherent-stock-may-benefit-from-a-lumentum-buyout-but-theres-a-catch/",
+      "link": "https://invezz.com/news/2026/10/29/palantir-stock-falls-why-are-analysts-bullish-on-the-stock/",
       "published": null
     },
     {
-      "id": "stockanalysis:d26f69d22ef57719",
-      "titleEn": "Amazon earnings: can AWS growth satisfy Wall Street as capex rises",
-      "summaryEn": "Buy Amazon (AMZN). Thesis: AWS revenue growth (~37% YoY to ~$45B) plus stable/expanding operating margin (~37% expected) can absorb rising depreciation from AI capex, keeping AWS as the cash engine while retail/ads cool. Rising capex is already priced, so the stock should re-rate if management shows AI infrastructure spending is translating into higher-margin cloud services (not just higher costs). Key Risk: AWS margins compress faster than revenue growth because AI infrastructure costs don’t convert into profitable demand. Sell Nvidia (NVDA). Thesis: the article flags hyperscaler capex exploding ($762B in 2026, $1.3T in 2027) but also warns near-term free-cash-flow pressure and uncertainty around AI service profitability. If hyperscalers delay or slow AI monetization, GPU demand can decelerate even while spending rises, hitting NVDA’s near-term earnings power.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/29/amazon-earnings-can-aws-growth-satisfy-wall-street-as-capex-rises/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:855484201ceaf639",
-      "titleEn": "ServiceNow stock is plunging amid SaaSpocalypse fears: is this an overreaction?",
-      "summaryEn": "Buy NOW. The report beat on revenue (+20.5%), raised full-year guidance, and lifted RPO (+22%) plus AI ACV to $1.7B. The drop is driven more by “SaaSpocalypse” fear than fundamentals, and the stock is now cheaper (forward P/E 38 vs 5-year avg 56). Expect a relief bounce as analysts digest the raised guidance and investors re-rate the growth durability. Key level: target ~$138 (June swing high). Key Risk: AI/automation fears prove justified—customers slow platform expansion or RPO growth decelerates sharply below guidance for multiple quarters. Sell NOW downside via a put spread (e.g., buy a lower-strike put and sell a higher-strike put) into the post-earnings panic. The thesis is mean reversion: modestly strong results + raised guidance should compress implied volatility after the initial overreaction, even if the stock chops lower briefly.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/29/servicenow-stock-is-plunging-amid-saaspocalypse-fears-is-this-an-overreaction/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d0a3d27e394eed2b",
-      "titleEn": "Eli Lilly's blowout quarter has a $5.5 billion twist",
-      "summaryEn": "Buy Eli Lilly (LLY). The quarter shows volumes up 53% and gross margin improving, while management raised full-year sales guidance by $5.5B—proof that cheaper access is still translating into profitable growth. The trimmed earnings outlook is largely acquisition-related charges, not demand collapse. Key risk: Mounjaro/Zepbound lose momentum (competition, coverage cuts, or reimbursement changes) fast enough that volume growth can’t offset lower realized prices. Key Risk: Mounjaro/Zepbound demand weakens due to competition or reimbursement/coverage changes, so volume growth can’t offset lower prices. Sell Novo Nordisk (NVO). If Lilly keeps converting lower prices into higher prescriptions (as shown by the volume surge and margin improvement), it gains share in obesity—directly pressuring NVO’s growth narrative. The market will reward the winner in GLP-1/dual agonist access expansion, and Lilly’s guidance raise is a clear relative signal. Key risk: NVO’s own obesity pipeline and pricing/coverage strategy accelerates, restoring prescription growth and narrowing the gap.",
+      "id": "stockanalysis:fe35b06b47deedb3",
+      "titleEn": "DoorDash offers $17 billion for Instacart in what would be a big consolidation for grocery delivery",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: DoorDash is offering $17 billion to buy Instacart in a deal that could consolidate the grocery delivery business in the U.S. and abroad. Instacart, founded in 2012, specializes in grocery and convenience store delivery in the U.S. and Canada. DoorDash said the Instacart brand name and app would remain, and Instacart's 600,000 shoppers—who are independent contractors—would be able to continue fulfilling orders as before.",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/29/eli-lillys-blowout-quarter-has-a-5-5-billion-twist/",
+      "link": "https://techxplore.com/news/2026-10-doordash-billion-instacart-big-grocery.html",
       "published": null
     },
     {
-      "id": "stockanalysis:8727ea87dd4da2ae",
-      "titleEn": "Microsoft beats expectations fueled by Azure cloud business",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Microsoft shares popped more than 5% Wednesday afternoon after it reported better-than-expected revenue and profit, fueled by its Azure cloud computing division, which grew by 48% in the September quarter. \"We are delivering greater capability, choice, control, and cost efficiency for customers across our entire stack,\" Microsoft CEO Satya Nadella said in a statement.",
+      "id": "stockanalysis:74cf9ad8c182c072",
+      "titleEn": "Microsoft stock falls as $25B bond plan draws focus despite Azure growth",
+      "summaryEn": "Buy Microsoft (MSFT). Earnings beat and Azure growth (48% vs 44.3% forecast) confirm AI demand. The capex miss is timing (third‑party capacity delivery delays), not a cut to AI investment plans; management guides capex back above $50B next quarter and acceleration in the second half of FY27. The $25B bond plan is a financing choice, not a demand collapse, and free cash flow still beat expectations. Key Risk: Azure growth slows materially because customers pull back on AI infrastructure spending, not just because of delivery timing. Sell Nvidia (NVDA) or reduce exposure. The market is fixated on Microsoft’s lower-than-expected capex and free cash flow, which can pressure near-term AI hardware sentiment even if Microsoft says it’s delivery timing. That creates a window where AI infrastructure names trade down on “spending concern” headlines before the delayed capacity actually ramps.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-10-microsoft-fueled-azure-cloud-business.html",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/29/microsoft-stock-falls-as-25b-bond-plan-draws-focus-despite-azure-growth/",
       "published": null
     },
     {
-      "id": "stockanalysis:4f0a18c7ef285475",
-      "titleEn": "Workhuman Achieves Industry-First Microsoft 365 Certification, Setting a New Standard for Employee Recognition Integrations",
+      "id": "stockanalysis:090cf3ac910c7468",
+      "titleEn": "MasTec Reports Third Quarter 2026 Results and Updates Full Year 2026 Financial Guidance",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261029384362/en/Workhuman-Achieves-Industry-First-Microsoft-365-Certification-Setting-a-New-Standard-for-Employee-Recognition-Integrations/",
+      "link": "https://www.businesswire.com/news/home/20261029417509/en/MasTec-Reports-Third-Quarter-2026-Results-and-Updates-Full-Year-2026-Financial-Guidance/",
       "published": null
     },
     {
-      "id": "stockanalysis:29423c877992adff",
-      "titleEn": "New Insperity Research Finds SMBs That Balance AI and People Investment Report Approximately 2x Better Outcomes",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261029842224/en/New-Insperity-Research-Finds-SMBs-That-Balance-AI-and-People-Investment-Report-Approximately-2x-Better-Outcomes/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3519a6da52eb432f",
-      "titleEn": "Wolters Kluwer LegalVIEW Insights finds billing rates tell only part of the legal cost story",
+      "id": "stockanalysis:2852ee8c48df486f",
+      "titleEn": "Redwire Corporation to Report Third Quarter 2026 Results on November 4, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261029716861/en/Wolters-Kluwer-LegalVIEW-Insights-finds-billing-rates-tell-only-part-of-the-legal-cost-story/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0626bd6e88bc4f4c",
-      "titleEn": "ACORE CAPITAL Closes Second Opportunistic Credit Fund Above Target With $1.1 Billion of Commitments",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261029979156/en/ACORE-CAPITAL-Closes-Second-Opportunistic-Credit-Fund-Above-Target-With-1.1-Billion-of-Commitments/",
+      "link": "https://www.businesswire.com/news/home/20261029841675/en/Redwire-Corporation-to-Report-Third-Quarter-2026-Results-on-November-4-2026/",
       "published": null
     }
   ]
