@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-28T23:42:00.069870Z",
+  "generatedAt": "2026-10-29T02:52:02.114562Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 6,
   "items": [
     {
       "id": "stockanalysis:022048fe6db19e70",
@@ -31,57 +31,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:d56a3ae6f6e565cb",
-      "titleEn": "Why is Oracle stock surging 11% today?",
+      "id": "stockanalysis:cf5fd26de61b9461",
+      "titleEn": "DoorDash Announces Date and Time Change of Third Quarter 2026 Financial Results and Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/28/why-is-oracle-stock-surging-11-today/",
+      "link": "https://www.businesswire.com/news/home/20261028558196/en/DoorDash-Announces-Date-and-Time-Change-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/",
       "published": null
     },
     {
-      "id": "stockanalysis:84a7db79dd892ce9",
-      "titleEn": "Gold price drops to $4,035/oz as Fed votes 10-2 in favor of rate hold",
-      "summaryEn": "(Kitco News) – The Federal Reserve announced on Wednesday that the Federal Open Market Committee (FOMC) voted 10-2 in favor of maintaining the policy rate unchanged, as expected by the market consensus. “The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent, in support of the Federal Reserve&#x27;s dual mandate,” the Federal Reserve said in its statement. “The Committee is continuing its policy of maintaining ample reserves in the banking system.” “Economic activity is expanding at a strong pace,” the statement read. “While uncertainty remains elevated owing, in part, to geopolitical developments, domestic spending has been resilient. Productivity growth is strong, and capital investment is robust. Job gains have kept pace with the workforce, and the unemployment rate has changed little.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-10-28/gold-price-drops-4035oz-fed-votes-10-2-favor-rate-hold",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:326048a042c289ec",
-      "titleEn": "InfraCap MLP ETF (NYSE Arca: AMZA) Tax Update",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20261028346904/en/InfraCap-MLP-ETF-NYSE-Arca-AMZA-Tax-Update/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:075dc93b9c897c3e",
-      "titleEn": "Virtus Investment Partners Reschedules Third Quarter 2026 Financial Results to Monday, November 9",
+      "id": "stockanalysis:131e9b15e59e2853",
+      "titleEn": "Renesas Reports Financial Results for the Third Quarter Ended September 30, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261028677447/en/Virtus-Investment-Partners-Reschedules-Third-Quarter-2026-Financial-Results-to-Monday-November-9/",
+      "link": "https://www.businesswire.com/news/home/20261028324357/en/Renesas-Reports-Financial-Results-for-the-Third-Quarter-Ended-September-30-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:6b60a43b00971ad0",
-      "titleEn": "Virgin Galactic's Spaceship Apeiron Arrives Home to Spaceport America",
+      "id": "stockanalysis:538893e9fff30770",
+      "titleEn": "Renesas Announces Consolidated Forecasts",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261028560949/en/Virgin-Galactic%E2%80%99s-Spaceship-Apeiron-Arrives-Home-to-Spaceport-America/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:10fe2a2104431c76",
-      "titleEn": "B&amp;G Foods Declares Regular Quarterly Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261028793377/en/BG-Foods-Declares-Regular-Quarterly-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20261028979995/en/Renesas-Announces-Consolidated-Forecasts/",
       "published": null
     }
   ]
