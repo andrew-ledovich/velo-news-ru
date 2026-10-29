@@ -1,60 +1,114 @@
 {
-  "generatedAt": "2026-10-29T02:52:02.114562Z",
+  "generatedAt": "2026-10-29T09:03:15.740269Z",
   "sourceCount": 1,
-  "count": 6,
+  "count": 12,
   "items": [
     {
-      "id": "stockanalysis:022048fe6db19e70",
-      "titleEn": "Gold steadies, silver falls as Fed holds rates, two officials favor hike - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold was steady and spot silver prices were weaker in late U.S. trading Wednesday, as the Federal Reserve left interest rates unchanged while acknowledging persistent inflation and resilient economic activity. The central bank&#x27;s decision was widely anticipated, but dissenting votes in favor of an immediate increase reinforced expectations that further monetary tightening remains possible before year-end. Renewed Middle East tensions and higher crude oil prices added to inflation concerns, limiting buying interest in precious metals despite a softer U.S. dollar. At the time of writing, spot gold was trading near $4,056.80 an ounce, down $2.50, or 0.06%, while spot silver was trading near $53.720, down $0.580, or 1.07%. The Federal Reserve left its benchmark interest rate unchanged at 3.75% to 4.00% Wednesday, in a 10-2 decision that highlighted continuing disagreements over the appropriate monetary policy response to elevated inflation. Fed Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented in favor of a 25-basis-point increase. The Federal Open Market Committee maintained that economic activity is expanding at a strong pace, with resilient domestic spending, robust capital investment and relatively stable labor-market conditions. Policymakers also acknowledged that inflation remains elevated, leaving the door open to further tightening as additional economic information becomes available. The decision marked another pause in the Fed&#x27;s tightening cycle rather than a clear shift toward easier monetary policy.",
+      "id": "stockanalysis:6f8a829916edabd7",
+      "titleEn": "Why Nebius, CoreWeave and IREN stocks are falling after Microsoft's capex miss",
+      "summaryEn": "Buy CoreWeave. The selloff is being driven by bond-market panic (high yields on unsecured debt) and “GPU obsolescence” fears, but Oppenheimer argues the equity is mispriced versus recoverable asset value and longer server useful lives. CoreWeave also has a software stack angle that can improve cost per MW and inference/enterprise monetization, not just raw GPU rental. Key risk: a real cash crunch—customers don’t convert AI demand into enough revenue fast enough, forcing an equity/dilution event or asset fire sale. Key Risk: CoreWeave can’t generate enough cash from AI infrastructure fast enough and must massively dilute or sell assets. Buy Nebius. It’s the cleaner balance-sheet story in the group (much lower net debt than CoreWeave) and it’s still getting incremental funding for data-center buildout (raised ~€250m). With the stock down ~23% and being priced like more leveraged peers, the risk/reward skews toward upside if financing stays available and capacity ramps in 2025. Key risk: financing conditions tighten further and the company can’t fund capex/rollouts without issuing equity at depressed prices.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/29/why-nebius-coreweave-and-iren-stocks-are-falling-after-microsofts-capex-miss/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a713bce2f1286466",
+      "titleEn": "Tesla stock is plunging, but Elon Musk just secured a major breakthrough",
+      "summaryEn": "Buy NASDAQ:TSLA. South Korea removes an immediate FSD refund overhang, and the article shows accelerating paid FSD adoption (active subs +67% YoY; >75% of new NA deliveries include paid FSD). That supports a shift toward recurring software revenue, which can lift margins if autonomy monetization keeps scaling. Key risk: FSD adoption keeps rising but margins don’t—operating profit and free cash flow keep deteriorating because AI/robotics spend stays ahead of monetization. Key Risk: FSD grows as a subscription but Tesla’s margins and free cash flow keep collapsing due to heavy AI/robotics spending outpacing revenue. Sell NASDAQ:TSLA short-term versus EV software peers (e.g., short TSLA vs long BYDDF/OTC:BYDDY or NIO). The court win doesn’t prove Level 5 autonomy, while the article highlights operating margin ~2.6% and operating profit down ~56% with capex still high. If the market is pricing “robotaxi profits” too early, the stock can re-rate down even after legal noise fades. Key risk: Tesla proves near-term monetization—robotaxi/FSD revenue accelerates faster than spending, forcing a valuation reset higher.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/29/tesla-stock-is-plunging-but-has-elon-musk-just-secured-a-major-breakthrough/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9e79bd037dff11db",
+      "titleEn": "How Elon Musk's SpaceX triggered an $11 billion earnings shock for Alphabet",
+      "summaryEn": "Buy GOOGL. The $11B SpaceX hit is mostly unrealized accounting noise, while the operating engine is improving: operating profit +30% and Google Cloud revenue +103%. The market is over-penalizing a mark-to-market loss and underweighting Cloud momentum. Add on weakness from the earnings reaction. Key Risk: AI capex keeps free cash flow negative longer than expected, and search/ads growth keeps slowing so the earnings miss becomes real, not just accounting. Sell GOOG and rotate into Microsoft (MSFT) or Meta (META). Alphabet’s earnings miss is tied to rising capex and weaker search/ads, while peers are monetizing AI with less cash drain. If investors keep punishing Alphabet’s cash burn, relative performance will lag.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/29/how-elon-musks-spacex-triggered-an-11-billion-earnings-shock-for-alphabet/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a73a94d7411a1625",
+      "titleEn": "Here's why the Kospi Index is falling after the Samsung, Google earnings",
+      "summaryEn": "Sell KOSPI exposure (e.g., iShares MSCI South Korea ETF, EWY). Google’s weaker ad revenue and AI funding fears are hitting the same mega-cap AI supply chain that drives ~half the index. With Kospi still below the 50-day and Supertrend red, momentum favors downside toward ~5,500. Key Risk: AI sentiment flips fast and the index reclaims the 50-day (~6,400), driven by stronger-than-feared global tech earnings or renewed AI funding confidence. Sell Samsung. Even with solid operating profit, the stock fell ~5% and the market is punishing any sign that AI spending is slowing. If AI bubble fears deepen, Samsung’s valuation support from “undervalued” narratives weakens quickly because it’s the index’s biggest weight.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/29/heres-why-the-kospi-index-is-falling-after-the-samsung-google-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2c0b81d41ff3ede6",
+      "titleEn": "Samsung stock plunges over 6% despite record $80B profit: here's why",
+      "summaryEn": "Buy SK Hynix. It’s the cleaner beneficiary of the AI-memory cycle and the article highlights its shareholder-return actions alongside strong performance, which helped shares jump. Relative to Samsung, the market is rewarding Hynix for translating record earnings into confidence on future chip pricing and volumes. Key Risk: HBM demand softens or competition (especially Chinese suppliers) forces SK Hynix to cut prices, shrinking the earnings gap versus expectations. Sell Samsung Electronics. Record profit didn’t stop the drop because Device Solutions missed expectations and investors are demanding proof that AI-memory margins and pricing will hold. The stock is priced for “easy money” already, while consumer electronics is still loss-making and chip earnings expectations are rising faster than results.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/29/samsung-stock-plunges-over-6-despite-record-80b-profit-heres-why/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ab23247b31622cd7",
+      "titleEn": "Marvell weighs Lumentum acquisition: upside for LITE holders, pressure for MRVL",
+      "summaryEn": "If MRVL is weighing a Lumentum deal, LITE should trade like a takeover target: deal premium + momentum from “sold out through 2029” optics demand. Expect upside from any credible next-week announcement and from investors re-rating LITE’s growth runway (110% revenue jump this year; strong upside to estimates). Key Risk: Deal breaks or premium collapses (MRVL walks away or offers too little). MRVL is the acquirer and faces dilution + heavy financing. Paying a ~40x forward P/E for a peak-cycle asset while raising billions and issuing stock is a direct hit to near-term EPS and risk-adjusted returns. Even if the strategic logic is right, the stock reaction is typically negative until terms are proven accretive.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-10-28/gold-steadies-silver-falls-fed-holds-rates-two-officials-favor-hike-kitco",
+      "link": "https://invezz.com/news/2026/10/29/marvell-weighs-lumentum-acquisition-upside-for-lite-holders-pressure-for-mrvl/",
       "published": null
     },
     {
-      "id": "stockanalysis:e42c0970042c0f28",
-      "titleEn": "Microsoft stock jumps 4% after earnings: here's what pleased investors",
+      "id": "stockanalysis:ec49873151eba2f9",
+      "titleEn": "Businesses are buying AI faster than they can make it pay, finds University of Manchester research for Bytes Technology Group",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/28/microsoft-stock-jumps-4-after-earnings-heres-what-pleased-investors/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261028165873/en/Businesses-are-buying-AI-faster-than-they-can-make-it-pay-finds-University-of-Manchester-research-for-Bytes-Technology-Group/",
       "published": null
     },
     {
-      "id": "stockanalysis:01e68d25f155a9b2",
-      "titleEn": "Alphabet stock sinks 8% after earnings: here's why",
+      "id": "stockanalysis:1da2639f524f825d",
+      "titleEn": "Knightscope, Inc. Announces Third Quarter 2026 Earnings Conference Call",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/28/alphabet-stock-sinks-8-after-earnings-heres-why/",
+      "link": "https://www.businesswire.com/news/home/20261029439231/en/Knightscope-Inc.-Announces-Third-Quarter-2026-Earnings-Conference-Call/",
       "published": null
     },
     {
-      "id": "stockanalysis:cf5fd26de61b9461",
-      "titleEn": "DoorDash Announces Date and Time Change of Third Quarter 2026 Financial Results and Conference Call",
+      "id": "stockanalysis:3f3e8742548e4f33",
+      "titleEn": "U.S. Bancorp Announces New U.S. Bancorp Global Funds Brand",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261028558196/en/DoorDash-Announces-Date-and-Time-Change-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/",
+      "link": "https://www.businesswire.com/news/home/20261029467091/en/U.S.-Bancorp-Announces-New-U.S.-Bancorp-Global-Funds-Brand/",
       "published": null
     },
     {
-      "id": "stockanalysis:131e9b15e59e2853",
-      "titleEn": "Renesas Reports Financial Results for the Third Quarter Ended September 30, 2026",
+      "id": "stockanalysis:ebe9b06325f34d77",
+      "titleEn": "OSRX Simplifies Prescription Payments with New AI Phone Assistant",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261028324357/en/Renesas-Reports-Financial-Results-for-the-Third-Quarter-Ended-September-30-2026/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261029595101/en/OSRX-Simplifies-Prescription-Payments-with-New-AI-Phone-Assistant/",
       "published": null
     },
     {
-      "id": "stockanalysis:538893e9fff30770",
-      "titleEn": "Renesas Announces Consolidated Forecasts",
+      "id": "stockanalysis:c4909f2e586d5f4a",
+      "titleEn": "Fluidra Delivers a Strong Nine-month Performance",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261028979995/en/Renesas-Announces-Consolidated-Forecasts/",
+      "link": "https://www.businesswire.com/news/home/20261029707021/en/Fluidra-Delivers-a-Strong-Nine-month-Performance/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3e311f081f91e76e",
+      "titleEn": "TotalEnergies SE: Third Quarter 2026 Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261029575258/en/TotalEnergies-SE-Third-Quarter-2026-Results/",
       "published": null
     }
   ]
