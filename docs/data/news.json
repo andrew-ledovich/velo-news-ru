@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-10-30T00:54:57.997704Z",
+  "generatedAt": "2026-10-30T06:36:10.600521Z",
   "sourceCount": 1,
-  "count": 4,
+  "count": 6,
   "items": [
+    {
+      "id": "stockanalysis:2d629456e3d9c4cc",
+      "titleEn": "Amazon stock falls as $220B AI spending plan weighs on earnings and cash flow",
+      "summaryEn": "Buy Microsoft (MSFT) and Alphabet (GOOGL). If Amazon’s AI capex spooks investors, the second-order effect is capital rotation toward companies with AI/cloud revenue streams and more diversified monetization. MSFT’s Azure and GOOGL’s Google Cloud/AI stack benefit as enterprises keep buying compute and AI services even when capex budgets tighten. Key Risk: Cloud/AI demand weakens across the board, or competitors force pricing cuts that compress margins. Sell AMZN. The market is repricing the $220B 2026 capex plan because earnings and cash flow are already pressured: net income missed and trailing-12-month cash flow swung to a large outflow ($42.4B vs inflow). Even with AWS beating, the stock is trading like AI spend won’t convert into near-term free cash flow. Stay short until cash burn stabilizes or guidance shows operating leverage.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/29/amazon-stock-falls-as-220b-ai-spending-plan-weighs-on-earnings-and-cash-flow/",
+      "published": null
+    },
     {
       "id": "stockanalysis:46f57bf13d2e7578",
       "titleEn": "Intel stock plunges 17% after weak Q4 forecast overshadows AI growth",
@@ -13,30 +22,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1d735b862ddc0844",
-      "titleEn": "Oracle stock falls 4%: why experts aren't bothered",
-      "summaryEn": "Buy Oracle (ORCL). The news is a clear step-up in free-cash-flow timing: positive FCF expected in 2H FY2028 (~12 months earlier), with capex peaking in FY2027–28 then stepping down in FY2029. That improves the odds Oracle funds AI infrastructure internally instead of repeatedly tapping capital markets. Add the higher pricing on 5-year contracts (~$16B per GW vs ~$10B) and management’s ~28% return on invested capital—this supports margin durability through the ramp. Key Risk: AI infrastructure delivery slips (power/permitting/labor), delaying the ~10GW ramp and pushing FCF positivity back out. Buy data-center power/utility exposure tied to new AI capacity buildouts: NextEra Energy (NEE). Oracle’s plan to add ~10GW of AI infrastructure capacity by FY2028 implies sustained demand for power generation and grid upgrades. Second-order effect: even if Oracle’s sites face timing risk, the power build and interconnection work tends to be longer-cycle and less reversible, supporting utility earnings visibility.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/29/oracle-stock-falls-4-why-experts-arent-bothered/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9f46e82fe3ca9332",
-      "titleEn": "First Northern Community Bancorp Reports Third Quarter 2026 Net Income of $6.2 Million",
+      "id": "stockanalysis:77fcb411198d2b90",
+      "titleEn": "Daiichi Sankyo Reports Second Quarter Fiscal Year 2026 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261029308392/en/First-Northern-Community-Bancorp-Reports-Third-Quarter-2026-Net-Income-of-6.2-Million/",
+      "link": "https://www.businesswire.com/news/home/20261029887292/en/Daiichi-Sankyo-Reports-Second-Quarter-Fiscal-Year-2026-Financial-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:95ba3a45a636823a",
-      "titleEn": "Pinnacle Bank Announces Earnings for Third Quarter of 2026",
+      "id": "stockanalysis:75c97d8d320d01e5",
+      "titleEn": "Cizzle Brands Corporation Announces Updated Effective Date for Share Consolidation",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261029358323/en/Pinnacle-Bank-Announces-Earnings-for-Third-Quarter-of-2026/",
+      "link": "https://www.businesswire.com/news/home/20261029756960/en/Cizzle-Brands-Corporation-Announces-Updated-Effective-Date-for-Share-Consolidation/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:babbca564bb27a82",
+      "titleEn": "Beach Cities Commercial Bank Announces Third Quarter 2026 Financial Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261029887440/en/Beach-Cities-Commercial-Bank-Announces-Third-Quarter-2026-Financial-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:16004c21e4fc7c8a",
+      "titleEn": "Buenaventura Announces Third Quarter and Nine-Month 2026 Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261029094610/en/Buenaventura-Announces-Third-Quarter-and-Nine-Month-2026-Results/",
       "published": null
     }
   ]
