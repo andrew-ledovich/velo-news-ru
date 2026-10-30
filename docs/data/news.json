@@ -1,33 +1,168 @@
 {
-  "generatedAt": "2026-10-30T13:31:23.576487Z",
+  "generatedAt": "2026-10-30T18:50:25.265092Z",
   "sourceCount": 1,
-  "count": 3,
+  "count": 18,
   "items": [
     {
-      "id": "stockanalysis:383becf74562ce1f",
-      "titleEn": "Chevron shares rise after third-quarter profit jumps nearly 200%",
-      "summaryEn": "Buy Chevron (CVX). Earnings beat is driven by downstream: refining margins surged as Russia/Middle East attacks tightened diesel/jet supply, and Chevron ran US refineries at ~98% capacity with >10% yield gains. Strong cash flow (CFO $16B, adjusted FCF $14.2B) plus net debt down to $20.7B supports dividends and buybacks, so the market reaction should persist beyond the quarter if disruptions keep margins elevated. Key Risk: Refining margins mean-revert fast as supply disruptions ease and utilization/yields fall, wiping out the earnings driver. Buy Exxon Mobil (XOM). If refining margins are the real engine across majors, XOM’s earnings power should benefit alongside CVX, and the group’s cash generation supports continued capital returns. The thesis is sector-wide downstream strength, not just Chevron-specific execution.",
+      "id": "stockanalysis:82016020b48a65df",
+      "titleEn": "UK probes Meta over 'exploitative' new terms for media",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Britain's competition watchdog Friday opened an investigation into whether Meta was imposing \"exploitative\" new terms allowing it to use media content for its own products, including AI, without giving publishers adequate choice. The probe will examine whether the \"terms and conditions\" from the U.S. technology giant \"unfairly harm news publishers and other content businesses,\" the Competition and Markets Authority said in a statement.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-10-uk-probes-meta-exploitative-terms.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a95729200ae55126",
+      "titleEn": "Why Nvidia shares are down over 4% on Friday?",
+      "summaryEn": "Buy NVDA. The drop is driven by broad tech/AI capex fear plus Intel/Amazon prints, not a direct NVDA demand collapse. NVDA’s AI platform position should keep orders intact even if cash conversion at hyperscalers is slower; the market is over-discounting near-term free-cash-flow timing. Add on weakness toward ~$200. Key Risk: A real slowdown in NVDA’s own AI revenue growth (customers cut GPU/AI infrastructure orders), not just market sentiment. Sell short SOXX (iShares Semiconductor ETF). Intel’s guidance miss and Amazon’s massive AI capex with negative free cash flow are spreading into the whole group, and the Philadelphia Semiconductor Index is already down ~7%. This is a sector-wide de-rating setup where weaker cash generation narratives hit semis broadly before company-specific fundamentals stabilize.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/30/why-nvidia-shares-are-down-over-4-on-friday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9fff3a759e536b49",
+      "titleEn": "Rivian stock rises as analysts back R2 outlook after Q3 earnings beat",
+      "summaryEn": "Buy Rivian (RIVN). Q3 beat + raised 2026 deliveries (67k–70k) plus a second R2 production shift signal real ramp momentum. The R2 is already best-selling and aimed at a less crowded $45k–$55k gap, which should support demand as EV pricing stabilizes. Jefferies’ upgrade and ~45% implied upside to $17 fits a “fundamentals catching up” setup. Key Risk: R2 demand or margins fail to improve—if gross margin doesn’t trend toward positive by year-end, the stock’s re-rating breaks. Buy Rivian (RIVN) specifically for software/autonomy upside. The article flags licensing potential and joint ventures (VW + Uber) that could add capital (Uber equity expected ~$250M) and make the autonomy roadmap more credible. If investors start valuing Rivian like a software platform, the stock can outperform even if vehicle deliveries merely meet guidance.",
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/10/30/rivian-stock-rises-as-analysts-back-r2-outlook-after-q3-earnings-beat/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:faa101be19b1dfd1",
+      "titleEn": "Why Intel, AMD and Broadcom are falling on Friday?",
+      "summaryEn": "Buy AMD. The selloff is partly a mechanical read-across from Intel’s PC weakness and a near-term headwind estimate (up to ~$750M). But AMD’s server CPU exposure can offset PC softness, and the market is likely over-discounting near-term PC demand while AI/server demand remains intact. You’re buying after a broad de-risking, not after a fundamental collapse. Key Risk: PC weakness spreads into AMD’s broader mix and server growth also slows, making the offset insufficient and dragging results below expectations. Sell INTC. The stock is down on a forecast that misses hard: Q4 revenue $15–$16B vs ~$17B, EPS 25c vs ~$43B, and management flags gross-margin pressure plus PC sales down >20% sequentially, with pain lasting through H1’27. The market is repricing Intel’s competitive position and foundry momentum risk—this is not a one-quarter wobble.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/30/why-intel-amd-and-broadcom-are-falling-on-friday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2fed256addf3ea65",
+      "titleEn": "Exxon earnings: $19B cash haul comes with a catch",
+      "summaryEn": "Buy ExxonMobil (XOM). The quarter showed real cash power: ~$19.1B free cash flow that covered dividends+buybacks (~$9.4B) about 2x, plus a $20B repurchase plan into 2027. The key edge is Energy Products strength (refining) offsetting upstream softness, meaning earnings and cash flow aren’t purely a crude-price story. Thesis: XOM can keep funding shareholder returns even when one segment cools, and the market will underprice that cash resilience. Key Risk: Refining margins mean-revert sharply and working-capital swings reverse, cutting free cash flow so the buyback/dividend coverage deteriorates. Sell Valero Energy (VLO) versus XOM. If this quarter’s strength was partly “timing” and unusually favorable diesel margins, the most exposed pure refiners should see faster downside when spreads normalize. XOM’s integration and upstream diversification should cushion the cycle better than a standalone refiner, so the relative trade favors XOM.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/30/exxon-earnings-19b-cash-haul-comes-with-a-catch/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5d1a5c02fbcea7ff",
+      "titleEn": "Why are Micron, SK Hynix, and SanDisk stocks falling on Friday?",
+      "summaryEn": "Sell MU. The article shows the stock fell despite decent fundamentals because Intel/Amazon demand fears hit the whole semiconductor complex, and analysts flagged valuation concerns. MU is also exposed to PC softness and the “memory crunch” narrative turning into a demand/earnings stability problem. Shorting MU targets multiple compression and sentiment drag until guidance clarity improves. Key Risk: Micron’s next guidance confirms sustained AI/data-center memory demand and earnings stability, forcing the market to re-rate MU higher despite the tech sell-off. Sell SNDK. It beat hard and guided up, but the stock is up 337% YTD and the Street is explicitly warning about valuation and late-cycle risk. The eight-for-one split can temporarily boost liquidity, but it doesn’t fix cycle risk; the setup is “fundamentals good, price too far ahead,” so you sell into strength.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/30/why-are-micron-sk-hynix-and-sandisk-stocks-falling-on-friday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8cc22513cecf3051",
+      "titleEn": "Binance reveals a $1B SpaceX stake: what happens if it sells its stake?",
+      "summaryEn": "Buy SpaceX (SPCX). The article flags a potential Binance seller, but Yi He says selling is unnecessary and there’s no announced disposal. That turns the 5% drop into mostly uncertainty pricing, not an operating hit. If no sale follows, the “forced liquidation” narrative fades and the stock should mean-revert. Key Risk: Binance actually sells a meaningful block, creating real supply and a sustained price discount. Sell Binance exposure via shorting Binance-related crypto exchange proxies (e.g., short COIN as a proxy for exchange/crypto risk sentiment). The $6.3B theft and the SpaceX-stake liquidity chatter highlight governance and liquidity optics risk that can keep multiples compressed even if revenue covers losses.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/30/chevron-shares-rise-after-third-quarter-profit-jumps-nearly-200/",
+      "link": "https://invezz.com/news/2026/10/30/binance-reveals-a-1b-spacex-stake-what-happens-if-it-sells-its-stake/",
       "published": null
     },
     {
-      "id": "stockanalysis:3e2f8420e7b672b5",
-      "titleEn": "'Microsoft set to soar, Alphabet won't rally': Jim Cramer explains why",
-      "summaryEn": "Buy Microsoft (MSFT). The setup is clear: accelerating Azure (48% growth) plus strong cloud revenue and positive free cash flow while still scaling AI (Copilot traction). The market is rewarding “spend with discipline,” so MSFT should keep rerating upward as investors gain confidence AI spend is producing returns. Key Risk: Azure growth decelerates sharply or Copilot adoption disappoints, forcing Microsoft to spend more without improving free cash flow. Sell Alphabet (GOOGL). The news flow is negative on the core issue: heavy AI infrastructure spend drove negative free cash flow (-$9.07B) and search growth slowed (12% vs 17%). Even with Google Cloud doubling, it isn’t enough to offset the cost and search pressure, so the stock likely stays under pressure until estimates and valuation reset.",
+      "id": "stockanalysis:9479dfb4c9756565",
+      "titleEn": "Foxconn dismisses AI bubble fears with fresh OpenAI partnership on cards",
+      "summaryEn": "Buy. The OpenAI partnership is moving from “design/option” to a deeper, likely higher-volume AI data-center hardware role, and Foxconn already has proof of traction (cloud/networking 51% of revenue; double-digit growth guided). This is the cleanest way to own AI infrastructure buildout without paying Nvidia multiples. Key Risk: OpenAI’s next deal stays small or shifts to other manufacturers, leaving Foxconn’s US AI server expansion underutilized. Buy. If Foxconn ramps AI server production in the US, the whole capex stack follows—especially advanced lithography demand. ASML is the bottleneck supplier for leading-edge chipmaking that AI infrastructure ultimately depends on.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/30/microsoft-set-to-soar-alphabet-wont-rally-jim-cramer-explains-why/",
+      "link": "https://invezz.com/news/2026/10/30/foxconn-dismisses-ai-bubble-fears-with-fresh-openai-partnership-on-cards/",
       "published": null
     },
     {
-      "id": "stockanalysis:4ca9f742e4a080b1",
-      "titleEn": "Nvidia's web of AI bets: Smart strategy or bubble risk?",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Nvidia's $3 billion investment in Meta's share sale, announced Tuesday, is the latest addition to a portfolio of stakes, loans and guarantees that has made the chip giant what some analysts describe as the central bank of the artificial intelligence boom. The galaxy of deals has helped keep demand running high for Nvidia's processors, which power vast data centers around the world and are the central ingredient of the AI revolution.",
+      "id": "stockanalysis:c9219497053f132b",
+      "titleEn": "Amazon stock falls: why analysts are saying its a buying opportunity",
+      "summaryEn": "Buy Amazon (AMZN). The sell-off is driven by AWS growth missing a 40% bar (39% vs expectations) and heavy AI/data-center capex, but analysts still see AWS accelerating above 40% into FY27–FY28 and a large backlog ($578B) supporting demand. The stock is down ~2% after a ~7% premarket drop, creating a valuation dislocation versus continued long-term AWS/AI momentum. Key Risk: AWS growth fails to re-accelerate above 40% and margins keep deteriorating as AI capex doesn’t translate into faster revenue. Buy AMZN again, this time for operating leverage. Multiple firms expect multi-year operating margin expansion despite near-term free-cash-flow outflows. If AWS margins hold in the mid-to-high 30% range (Citi) while revenue growth improves, the market will re-rate AMZN from “capex story” back to “cash-flow compounder.”",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://techxplore.com/news/2026-10-nvidia-web-ai-smart-strategy.html",
+      "link": "https://invezz.com/news/2026/10/30/amazon-stock-falls-why-analysts-are-saying-its-a-buying-opportunity/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2968e3669f400e73",
+      "titleEn": "Reddit stock plunges 25% on user growth concerns; analysts turn cautious",
+      "summaryEn": "Buy Alphabet (GOOGL). Second-order: if AI search reduces click-through to publishers like Reddit, ad budgets shift toward platforms that keep the query and monetize directly. Reddit’s problem is Google’s AI search advantage—less referral traffic means more value captured by Google’s own ad stack and engagement surfaces. Key Risk: AI search adoption underperforms and advertisers don’t pay up (lower ad pricing/engagement), hurting Google’s monetization despite reduced publisher traffic. Sell Reddit (RDDT). The thesis is breaking: Google/AI search is already cutting referrals, US daily active uniques are contracting YoY for the first time since IPO, and the Q4 revenue guide ($1.00–$1.03B) is below consensus. Even with strong Q3 revenue/EBITDA, the market is repricing the growth runway and multiple compression is likely until logged-in US users re-accelerate.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/30/reddit-stock-plunges-25-on-user-growth-concerns-analysts-turn-cautious/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:efb5c3d25ff5f7a3",
+      "titleEn": "Nasdaq opens 2% lower as Amazon and Intel selloff deepens AI spending concerns",
+      "summaryEn": "Amazon is burning cash while keeping a massive 2026 capex plan (~$220B). That’s a direct hit to the market’s “AI ROI soon” narrative and it drags sentiment across cloud/AI infrastructure spend. Sell AMZN (or short via QQQ/XLK exposure if you prefer). Key Risk: Amazon’s AI/cloud revenue accelerates enough to flip free cash flow back positive faster than investors expect. Intel’s outlook is weak and the stock is already pricing in heavy execution risk (29% plunge). With PC demand soft and manufacturing bottlenecks plus big capacity investment, the near-term earnings/cash path looks worse, not better.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/30/nasdaq-opens-2-lower-as-amazon-and-intel-selloff-deepens-ai-spending-concerns/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:304619cd7d3f3446",
+      "titleEn": "CXMT posts 613% jump in revenue as Micron, SanDisk shares tumble",
+      "summaryEn": "Buy CXMT. The 613% revenue jump plus profit rebound signals real pricing power from tight supply, and CXMT is positioned to benefit from AI-driven DRAM demand while rivals chase higher-value HBM. The stock’s pullback after the IPO looks like valuation reset, not demand collapse. Key upside catalyst is the shift to a better product mix and ramping capacity. Key Risk: Memory margins fall fast if supply normalizes or AI demand cools, crushing the pricing-power story. Sell Micron. MU is getting hit by the same margin-cycle fears as peers, and the article flags investors reassessing durability of elevated memory margins. CXMT’s rapid scale-up and new DRAM architecture adds competitive pressure to conventional DRAM where MU has meaningful exposure, even if HBM is the long-term focus.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/30/cxmt-posts-613-jump-in-revenue-as-micron-sandisk-shares-tumble/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d9255213d95e168c",
+      "titleEn": "Is Intel stock a buy after its 26% post-earnings fall? Here's what analysts say",
+      "summaryEn": "Buy INTC. The stock is down ~26% on a forecast reset tied to PC weakness and a specific Israel fab shutdown, not a collapse in data-center demand. Intel also guided that PC slowdown persists only through the first half of next year, while data-center CPUs are described as performing well. The setup is a valuation/expectations reset: pessimism is already priced, but the AI/data-center engine is still intact. Key Risk: Intel keeps losing CPU market share in data center/AI because competitors (AMD/Nvidia/ARM) out-execute on performance and supply, making the “temporary PC problem” narrative wrong. Buy INTC with a focus on the second lever: manufacturing constraints and substrate shortages. If the Israel disruption and substrate bottlenecks ease, Intel’s ability to ship foundry/packaging improves faster than the market expects, driving a sharper-than-average revenue rebound versus PC-only bears. This is a “supply unlock” trade: the stock fell on inability to meet demand, so any normalization should re-rate near-term results.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/30/is-intel-stock-a-buy-after-its-26-post-earnings-fall-heres-what-analysts-say/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:629a29091fd570b0",
+      "titleEn": "Vonovia share price slowly forms a risky inverted C&amp;H pattern as risks rise",
+      "summaryEn": "Sell short Vonovia (VNA) or buy puts. The news hits twice: Berlin’s potential house seizure caps the value of a huge chunk of its portfolio, and higher rates lift funding costs (bond yields up sharply). The chart confirms momentum: price is below the 50- and 100-week EMAs and is tracing an inverted cup-and-handle toward €13 support. Key Risk: Berlin’s seizure plan gets blocked or softened enough that Vonovia’s portfolio value and cash flows don’t take the €8.4B hit. Sell Vonovia’s 2032 unsecured bonds (or buy credit protection via CDS if available). The article shows re-offer yields jumping and the market repricing refinancing risk. If rates stay high and deleveraging slows, bondholders take the first punch—especially with policy risk overhang on asset values.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/10/30/vonovia-share-price-slowly-forms-a-risky-inverted-ch-pattern-as-risks-rise/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:be22a49614fe1f75",
+      "titleEn": "Joby Brings Its Vertical Takeoff and Landing Air Taxi to Florida",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261030490720/en/Joby-Brings-Its-Vertical-Takeoff-and-Landing-Air-Taxi-to-Florida/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:149a1c2b66fc3d43",
+      "titleEn": "Donaldson Company to Present at the Gabelli Funds 50th Annual Automotive Symposium",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261030649164/en/Donaldson-Company-to-Present-at-the-Gabelli-Funds-50th-Annual-Automotive-Symposium/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:228c3ed731a0f22a",
+      "titleEn": "ParkOhio Announces Quarterly Dividend",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261030855975/en/ParkOhio-Announces-Quarterly-Dividend/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:25345ef4b118934e",
+      "titleEn": "Commerce Bancshares, Inc. Declares Stock Dividend and Quarterly Cash Dividend on Common Stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261030234545/en/Commerce-Bancshares-Inc.-Declares-Stock-Dividend-and-Quarterly-Cash-Dividend-on-Common-Stock/",
       "published": null
     }
   ]
