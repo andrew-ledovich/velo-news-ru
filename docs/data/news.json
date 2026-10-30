@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-10-30T18:50:25.265092Z",
+  "generatedAt": "2026-10-30T22:42:46.869388Z",
   "sourceCount": 1,
   "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:5956897562120c10",
+      "titleEn": "Apple Acquires AI Firm Ascend.io Talent and Patents",
+      "summaryEn": "Apple acquired artificial intelligence firm Ascension Labs , which does business as Ascend.io , in June, according to a list of acquisitions maintained by the European Commission . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The deal gives Apple the right to make employment offers and to hire certain employees of Ascend, receive a non-exclusive license to the firm’s intellectual property rights and be assigned certain patents owned by the firm, according to the notice.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apple-acquires-ai-firm-ascend-talent-patents/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:95a13ae349128866",
+      "titleEn": "Why AI Investors Are Buying ADT, Accountants and Call Centers",
+      "summaryEn": "Thrive Holdings, an OpenAI-backed holding company, agreed Oct. 29 to buy ADT, the home security provider, for $15.3 billion including debt, a deal that would add 6.1 million monitoring subscribers to a portfolio of more than 75 businesses. Long Lake, the General Catalyst-backed holding company that owns HOA management, payroll and travel businesses, has bought 40 companies, and General Catalyst says its Nexus platform builds board packets in seconds. Lightspeed Venture Partners, the Silicon Valley firm that has backed Anthropic and Databricks, has raised more than $750 million for a fund to buy and upgrade eight to 10 established businesses.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/why-ai-investors-are-buying-adt-accountants-and-call-centers/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:782c0ffb718eb418",
+      "titleEn": "Anthropic IPO: Blackstone warns AI firm may receive junk credit rating: report",
+      "summaryEn": "Buy the Project North Star junior tranche (the ~$18B double-B-plus, positive-outlook debt). Junk-rated junior paper is where the yield is highest; if the financing structure holds and Broadcom-backed senior debt stays safe, the junior tranche can re-rate upward as rating agencies finalize reviews and investors gain clarity post-IPO. Key Risk: A downgrade to deep junk or a structural cash-flow squeeze that makes junior lease-payment coverage look weak. Sell/avoid ANTHR (Anthropic IPO shares). The news says Blackstone expects a junk (double-B) rating post-IPO, which means higher borrowing costs and a smaller institutional buyer pool for its debt—bad for a company planning massive capex. Even with big cash, the market will price in a higher cost of capital right when it needs funding flexibility.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/10/30/anthropic-ipo-blackstone-warns-ai-firm-may-receive-junk-credit-rating-report/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:07da6576c0859493",
+      "titleEn": "Coinbase stock hits two-year low as analyst cuts and Binance hack weigh",
+      "summaryEn": "Sell COIN. Despite an earnings beat, analysts cut targets on weaker crypto trading activity, softer revenue outlook, and higher costs. The stock is already at a two-year low and the market is pricing in continued volume pressure from a broader digital-asset sell-off plus renewed exchange-security fears after the Binance hack. COIN’s “Everything Exchange” progress (prediction markets/USDC) is not enough to offset near-term transaction weakness. Key Risk: Crypto trading volumes rebound fast (BTC/alt rally + risk-on), reversing the revenue outlook cuts and lifting COIN multiples. Sell Circle (CRYPTO-linked exposure via CIRCLE). The article flags stablecoin usage risk if the Binance hack discourages crypto activity. Circle is directly tied to stablecoin flows, so lower stablecoin demand and reduced trading volumes should hit revenue and sentiment harder than broader “exchange” narratives.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/10/30/coinbase-stock-hits-two-year-low-as-analyst-cuts-and-binance-hack-weigh/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bc72579912d888b2",
+      "titleEn": "Galaxy Digital Seeks Bank Charter to Expand Financial Services Reach",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); If the OCC approves the application, Galaxy National Bank would operate as a federally regulated trust institution under OCC supervision and would serve clients across the United States through a single federal framework, the release said. Please add us to your preferred sources list so our news, data and interviews show up in your feed. Thanks!",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/banking/2026/galaxy-digital-seeks-bank-charter-to-expand-financial-services-reach/",
+      "published": null
+    },
     {
       "id": "stockanalysis:82016020b48a65df",
       "titleEn": "UK probes Meta over 'exploitative' new terms for media",
@@ -37,6 +82,15 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/10/30/why-intel-amd-and-broadcom-are-falling-on-friday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f23a49d8bdf9944a",
+      "titleEn": "Unilever and Nestlé Put AI to Work Between Orders and Payments",
+      "summaryEn": "Artificial intelligence agents are processing purchase orders and preparing collections work as businesses automate more of the steps between a B2B sale and payment. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); PYMNTS Intelligence research with JPMorgan finds surveyed companies automate an average 73% of accounts receivable processes, compared with 55% in the previous year’s survey. Recent deployments extend into work that requires reading customer documents, checking records and deciding which unpaid accounts need attention.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/b2b-payments/2026/unilever-and-nestle-put-ai-to-work-between-orders-and-payments/",
       "published": null
     },
     {
@@ -94,75 +148,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:efb5c3d25ff5f7a3",
-      "titleEn": "Nasdaq opens 2% lower as Amazon and Intel selloff deepens AI spending concerns",
-      "summaryEn": "Amazon is burning cash while keeping a massive 2026 capex plan (~$220B). That’s a direct hit to the market’s “AI ROI soon” narrative and it drags sentiment across cloud/AI infrastructure spend. Sell AMZN (or short via QQQ/XLK exposure if you prefer). Key Risk: Amazon’s AI/cloud revenue accelerates enough to flip free cash flow back positive faster than investors expect. Intel’s outlook is weak and the stock is already pricing in heavy execution risk (29% plunge). With PC demand soft and manufacturing bottlenecks plus big capacity investment, the near-term earnings/cash path looks worse, not better.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/30/nasdaq-opens-2-lower-as-amazon-and-intel-selloff-deepens-ai-spending-concerns/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:304619cd7d3f3446",
-      "titleEn": "CXMT posts 613% jump in revenue as Micron, SanDisk shares tumble",
-      "summaryEn": "Buy CXMT. The 613% revenue jump plus profit rebound signals real pricing power from tight supply, and CXMT is positioned to benefit from AI-driven DRAM demand while rivals chase higher-value HBM. The stock’s pullback after the IPO looks like valuation reset, not demand collapse. Key upside catalyst is the shift to a better product mix and ramping capacity. Key Risk: Memory margins fall fast if supply normalizes or AI demand cools, crushing the pricing-power story. Sell Micron. MU is getting hit by the same margin-cycle fears as peers, and the article flags investors reassessing durability of elevated memory margins. CXMT’s rapid scale-up and new DRAM architecture adds competitive pressure to conventional DRAM where MU has meaningful exposure, even if HBM is the long-term focus.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/30/cxmt-posts-613-jump-in-revenue-as-micron-sandisk-shares-tumble/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d9255213d95e168c",
-      "titleEn": "Is Intel stock a buy after its 26% post-earnings fall? Here's what analysts say",
-      "summaryEn": "Buy INTC. The stock is down ~26% on a forecast reset tied to PC weakness and a specific Israel fab shutdown, not a collapse in data-center demand. Intel also guided that PC slowdown persists only through the first half of next year, while data-center CPUs are described as performing well. The setup is a valuation/expectations reset: pessimism is already priced, but the AI/data-center engine is still intact. Key Risk: Intel keeps losing CPU market share in data center/AI because competitors (AMD/Nvidia/ARM) out-execute on performance and supply, making the “temporary PC problem” narrative wrong. Buy INTC with a focus on the second lever: manufacturing constraints and substrate shortages. If the Israel disruption and substrate bottlenecks ease, Intel’s ability to ship foundry/packaging improves faster than the market expects, driving a sharper-than-average revenue rebound versus PC-only bears. This is a “supply unlock” trade: the stock fell on inability to meet demand, so any normalization should re-rate near-term results.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/30/is-intel-stock-a-buy-after-its-26-post-earnings-fall-heres-what-analysts-say/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:629a29091fd570b0",
-      "titleEn": "Vonovia share price slowly forms a risky inverted C&amp;H pattern as risks rise",
-      "summaryEn": "Sell short Vonovia (VNA) or buy puts. The news hits twice: Berlin’s potential house seizure caps the value of a huge chunk of its portfolio, and higher rates lift funding costs (bond yields up sharply). The chart confirms momentum: price is below the 50- and 100-week EMAs and is tracing an inverted cup-and-handle toward €13 support. Key Risk: Berlin’s seizure plan gets blocked or softened enough that Vonovia’s portfolio value and cash flows don’t take the €8.4B hit. Sell Vonovia’s 2032 unsecured bonds (or buy credit protection via CDS if available). The article shows re-offer yields jumping and the market repricing refinancing risk. If rates stay high and deleveraging slows, bondholders take the first punch—especially with policy risk overhang on asset values.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/30/vonovia-share-price-slowly-forms-a-risky-inverted-ch-pattern-as-risks-rise/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:be22a49614fe1f75",
-      "titleEn": "Joby Brings Its Vertical Takeoff and Landing Air Taxi to Florida",
+      "id": "stockanalysis:ee82f8aa26dd7b44",
+      "titleEn": "ArcBest Declares a $0.12/Share Quarterly Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261030490720/en/Joby-Brings-Its-Vertical-Takeoff-and-Landing-Air-Taxi-to-Florida/",
+      "link": "https://www.businesswire.com/news/home/20261030045612/en/ArcBest-Declares-a-0.12Share-Quarterly-Dividend/",
       "published": null
     },
     {
-      "id": "stockanalysis:149a1c2b66fc3d43",
-      "titleEn": "Donaldson Company to Present at the Gabelli Funds 50th Annual Automotive Symposium",
+      "id": "stockanalysis:712c5efdd2960635",
+      "titleEn": "Ranger Energy Services to Present and Host 1x1 Investor Meetings at the 18th Annual Southwest IDEAS Investor Conference on November 18th &amp; 19th in Dallas, TX",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261030649164/en/Donaldson-Company-to-Present-at-the-Gabelli-Funds-50th-Annual-Automotive-Symposium/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:228c3ed731a0f22a",
-      "titleEn": "ParkOhio Announces Quarterly Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261030855975/en/ParkOhio-Announces-Quarterly-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:25345ef4b118934e",
-      "titleEn": "Commerce Bancshares, Inc. Declares Stock Dividend and Quarterly Cash Dividend on Common Stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261030234545/en/Commerce-Bancshares-Inc.-Declares-Stock-Dividend-and-Quarterly-Cash-Dividend-on-Common-Stock/",
+      "link": "https://www.businesswire.com/news/home/20261028907097/en/Ranger-Energy-Services-to-Present-and-Host-1x1-Investor-Meetings-at-the-18th-Annual-Southwest-IDEAS-Investor-Conference-on-November-18th-19th-in-Dallas-TX/",
       "published": null
     }
   ]
