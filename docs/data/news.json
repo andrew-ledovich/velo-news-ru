@@ -1,60 +1,33 @@
 {
-  "generatedAt": "2026-10-30T06:36:10.600521Z",
+  "generatedAt": "2026-10-30T13:31:23.576487Z",
   "sourceCount": 1,
-  "count": 6,
+  "count": 3,
   "items": [
     {
-      "id": "stockanalysis:2d629456e3d9c4cc",
-      "titleEn": "Amazon stock falls as $220B AI spending plan weighs on earnings and cash flow",
-      "summaryEn": "Buy Microsoft (MSFT) and Alphabet (GOOGL). If Amazon’s AI capex spooks investors, the second-order effect is capital rotation toward companies with AI/cloud revenue streams and more diversified monetization. MSFT’s Azure and GOOGL’s Google Cloud/AI stack benefit as enterprises keep buying compute and AI services even when capex budgets tighten. Key Risk: Cloud/AI demand weakens across the board, or competitors force pricing cuts that compress margins. Sell AMZN. The market is repricing the $220B 2026 capex plan because earnings and cash flow are already pressured: net income missed and trailing-12-month cash flow swung to a large outflow ($42.4B vs inflow). Even with AWS beating, the stock is trading like AI spend won’t convert into near-term free cash flow. Stay short until cash burn stabilizes or guidance shows operating leverage.",
+      "id": "stockanalysis:383becf74562ce1f",
+      "titleEn": "Chevron shares rise after third-quarter profit jumps nearly 200%",
+      "summaryEn": "Buy Chevron (CVX). Earnings beat is driven by downstream: refining margins surged as Russia/Middle East attacks tightened diesel/jet supply, and Chevron ran US refineries at ~98% capacity with >10% yield gains. Strong cash flow (CFO $16B, adjusted FCF $14.2B) plus net debt down to $20.7B supports dividends and buybacks, so the market reaction should persist beyond the quarter if disruptions keep margins elevated. Key Risk: Refining margins mean-revert fast as supply disruptions ease and utilization/yields fall, wiping out the earnings driver. Buy Exxon Mobil (XOM). If refining margins are the real engine across majors, XOM’s earnings power should benefit alongside CVX, and the group’s cash generation supports continued capital returns. The thesis is sector-wide downstream strength, not just Chevron-specific execution.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/10/30/chevron-shares-rise-after-third-quarter-profit-jumps-nearly-200/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3e2f8420e7b672b5",
+      "titleEn": "'Microsoft set to soar, Alphabet won't rally': Jim Cramer explains why",
+      "summaryEn": "Buy Microsoft (MSFT). The setup is clear: accelerating Azure (48% growth) plus strong cloud revenue and positive free cash flow while still scaling AI (Copilot traction). The market is rewarding “spend with discipline,” so MSFT should keep rerating upward as investors gain confidence AI spend is producing returns. Key Risk: Azure growth decelerates sharply or Copilot adoption disappoints, forcing Microsoft to spend more without improving free cash flow. Sell Alphabet (GOOGL). The news flow is negative on the core issue: heavy AI infrastructure spend drove negative free cash flow (-$9.07B) and search growth slowed (12% vs 17%). Even with Google Cloud doubling, it isn’t enough to offset the cost and search pressure, so the stock likely stays under pressure until estimates and valuation reset.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/29/amazon-stock-falls-as-220b-ai-spending-plan-weighs-on-earnings-and-cash-flow/",
+      "link": "https://invezz.com/news/2026/10/30/microsoft-set-to-soar-alphabet-wont-rally-jim-cramer-explains-why/",
       "published": null
     },
     {
-      "id": "stockanalysis:46f57bf13d2e7578",
-      "titleEn": "Intel stock plunges 17% after weak Q4 forecast overshadows AI growth",
-      "summaryEn": "Buy AMD. If Intel’s PC and production issues persist, OEMs and PC supply chains keep shifting share toward competitors. AMD is the cleanest beneficiary of Intel’s client-computing stumble while the broader AI/data-center buildout continues. The setup is simple: Intel’s guidance shock signals share pressure in PCs, and AMD’s platform momentum should translate into higher unit demand and better mix. Key Risk: PC demand doesn’t just slow—it collapses across the whole market, hurting AMD’s volumes and forcing margin compression. Sell INTC. The stock got a big earnings beat, but the market is punishing the forward view: Q4 revenue $15–$16B vs $17.3B expected and EPS 25c vs 45c. The thesis is that PC weakness is worsening faster than Intel modeled (memory-price impact “sooner and deeper”), and the Israel facility disruption adds real near-term supply risk. AI/data-center growth can’t offset a client-computing slowdown when guidance is the problem.",
+      "id": "stockanalysis:4ca9f742e4a080b1",
+      "titleEn": "Nvidia's web of AI bets: Smart strategy or bubble risk?",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Nvidia's $3 billion investment in Meta's share sale, announced Tuesday, is the latest addition to a portfolio of stakes, loans and guarantees that has made the chip giant what some analysts describe as the central bank of the artificial intelligence boom. The galaxy of deals has helped keep demand running high for Nvidia's processors, which power vast data centers around the world and are the central ingredient of the AI revolution.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/29/intel-stock-plunges-17-after-weak-q4-forecast-overshadows-ai-growth/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:77fcb411198d2b90",
-      "titleEn": "Daiichi Sankyo Reports Second Quarter Fiscal Year 2026 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261029887292/en/Daiichi-Sankyo-Reports-Second-Quarter-Fiscal-Year-2026-Financial-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:75c97d8d320d01e5",
-      "titleEn": "Cizzle Brands Corporation Announces Updated Effective Date for Share Consolidation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261029756960/en/Cizzle-Brands-Corporation-Announces-Updated-Effective-Date-for-Share-Consolidation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:babbca564bb27a82",
-      "titleEn": "Beach Cities Commercial Bank Announces Third Quarter 2026 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261029887440/en/Beach-Cities-Commercial-Bank-Announces-Third-Quarter-2026-Financial-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:16004c21e4fc7c8a",
-      "titleEn": "Buenaventura Announces Third Quarter and Nine-Month 2026 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261029094610/en/Buenaventura-Announces-Third-Quarter-and-Nine-Month-2026-Results/",
+      "link": "https://techxplore.com/news/2026-10-nvidia-web-ai-smart-strategy.html",
       "published": null
     }
   ]
