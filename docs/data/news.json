@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T21:04:03.631173Z",
+  "generatedAt": "2026-10-30T00:54:57.997704Z",
   "sourceCount": 1,
-  "count": 7,
+  "count": 4,
   "items": [
     {
       "id": "stockanalysis:46f57bf13d2e7578",
@@ -22,48 +22,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:a05a186457413e16",
-      "titleEn": "Palantir stock falls, why are analysts bullish on the stock",
-      "summaryEn": "Buy Palantir (PLTR). The setup is accelerating AI ROI: analysts expect a Q3 revenue beat and continued growth into 2027, with JPMorgan specifically arguing the market is shifting from AI experiments to measurable returns—where Palantir already shows profitability and cash flow. The catalyst is the Nov 2 earnings window plus “positive catalyst watch.” Key Risk: Q3 results disappoint (revenue growth or margins) and investors decide the ROI story is hype, forcing a valuation reset. Sell the S&P 500 (SPY) relative to Palantir (PLTR): go long PLTR, short SPY. The thesis is that Palantir’s premium valuation can hold only if growth/profitability keep beating; analysts are lining up for that outcome ahead of earnings. If the market keeps rewarding “AI that produces returns,” PLTR should outperform broad equities.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/29/palantir-stock-falls-why-are-analysts-bullish-on-the-stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fe35b06b47deedb3",
-      "titleEn": "DoorDash offers $17 billion for Instacart in what would be a big consolidation for grocery delivery",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: DoorDash is offering $17 billion to buy Instacart in a deal that could consolidate the grocery delivery business in the U.S. and abroad. Instacart, founded in 2012, specializes in grocery and convenience store delivery in the U.S. and Canada. DoorDash said the Instacart brand name and app would remain, and Instacart's 600,000 shoppers—who are independent contractors—would be able to continue fulfilling orders as before.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-10-doordash-billion-instacart-big-grocery.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:74cf9ad8c182c072",
-      "titleEn": "Microsoft stock falls as $25B bond plan draws focus despite Azure growth",
-      "summaryEn": "Buy Microsoft (MSFT). Earnings beat and Azure growth (48% vs 44.3% forecast) confirm AI demand. The capex miss is timing (third‑party capacity delivery delays), not a cut to AI investment plans; management guides capex back above $50B next quarter and acceleration in the second half of FY27. The $25B bond plan is a financing choice, not a demand collapse, and free cash flow still beat expectations. Key Risk: Azure growth slows materially because customers pull back on AI infrastructure spending, not just because of delivery timing. Sell Nvidia (NVDA) or reduce exposure. The market is fixated on Microsoft’s lower-than-expected capex and free cash flow, which can pressure near-term AI hardware sentiment even if Microsoft says it’s delivery timing. That creates a window where AI infrastructure names trade down on “spending concern” headlines before the delayed capacity actually ramps.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/29/microsoft-stock-falls-as-25b-bond-plan-draws-focus-despite-azure-growth/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:090cf3ac910c7468",
-      "titleEn": "MasTec Reports Third Quarter 2026 Results and Updates Full Year 2026 Financial Guidance",
+      "id": "stockanalysis:9f46e82fe3ca9332",
+      "titleEn": "First Northern Community Bancorp Reports Third Quarter 2026 Net Income of $6.2 Million",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261029417509/en/MasTec-Reports-Third-Quarter-2026-Results-and-Updates-Full-Year-2026-Financial-Guidance/",
+      "link": "https://www.businesswire.com/news/home/20261029308392/en/First-Northern-Community-Bancorp-Reports-Third-Quarter-2026-Net-Income-of-6.2-Million/",
       "published": null
     },
     {
-      "id": "stockanalysis:2852ee8c48df486f",
-      "titleEn": "Redwire Corporation to Report Third Quarter 2026 Results on November 4, 2026",
+      "id": "stockanalysis:95ba3a45a636823a",
+      "titleEn": "Pinnacle Bank Announces Earnings for Third Quarter of 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261029841675/en/Redwire-Corporation-to-Report-Third-Quarter-2026-Results-on-November-4-2026/",
+      "link": "https://www.businesswire.com/news/home/20261029358323/en/Pinnacle-Bank-Announces-Earnings-for-Third-Quarter-of-2026/",
       "published": null
     }
   ]
