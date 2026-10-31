@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-10-31T07:40:36.790788Z",
+  "generatedAt": "2026-10-31T13:52:30.968178Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:4aa09eb4649ce077",
+      "titleEn": "Meta settles, leaving Snap sole defendant in new social media trial",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Meta reached a settlement in a landmark case over the alleged harms of social media, the plaintiffs' lawyers said Friday, leaving Snap as the only defendant in a trial set to open in Los Angeles next week. \"We remain committed to improving safety for kids on social media apps and holding tech companies accountable, and we are pleased to have brought this matter to a just resolution on behalf of our client,\" Emily Jeffcott, a lawyer representing one of the young women suing both companies, said in a statement.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-10-meta-snap-sole-defendant-social.html",
+      "published": null
+    },
     {
       "id": "stockanalysis:5956897562120c10",
       "titleEn": "Apple Acquires AI Firm Ascend.io Talent and Patents",
@@ -76,6 +85,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:829be650dff9645b",
+      "titleEn": "Once Upon a Farm Announces Recall and Reformulation of Tractor Wheels™ Due to Potential Choking Hazard",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261030258031/en/Once-Upon-a-Farm-Announces-Recall-and-Reformulation-of-Tractor-Wheels%E2%84%A2-Due-to-Potential-Choking-Hazard/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:6fbbd19a7ef0f75a",
       "titleEn": "Mission Valley Bancorp Reports Third Quarter Results",
       "summaryEn": null,
@@ -91,15 +109,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261030993267/en/Navan-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-Navan-Inc.---NAVN/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c34c32eccb38293c",
-      "titleEn": "RDDT Investors Have Opportunity to Join Reddit, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261030543777/en/RDDT-Investors-Have-Opportunity-to-Join-Reddit-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
