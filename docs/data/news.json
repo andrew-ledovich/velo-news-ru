@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-31T01:48:30.544349Z",
+  "generatedAt": "2026-10-31T07:40:36.790788Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:5956897562120c10",
@@ -76,24 +76,6 @@
       "published": null
     },
     {
-      "id": "stockanalysis:faa101be19b1dfd1",
-      "titleEn": "Why Intel, AMD and Broadcom are falling on Friday?",
-      "summaryEn": "Buy AMD. The selloff is partly a mechanical read-across from Intel’s PC weakness and a near-term headwind estimate (up to ~$750M). But AMD’s server CPU exposure can offset PC softness, and the market is likely over-discounting near-term PC demand while AI/server demand remains intact. You’re buying after a broad de-risking, not after a fundamental collapse. Key Risk: PC weakness spreads into AMD’s broader mix and server growth also slows, making the offset insufficient and dragging results below expectations. Sell INTC. The stock is down on a forecast that misses hard: Q4 revenue $15–$16B vs ~$17B, EPS 25c vs ~$43B, and management flags gross-margin pressure plus PC sales down >20% sequentially, with pain lasting through H1’27. The market is repricing Intel’s competitive position and foundry momentum risk—this is not a one-quarter wobble.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/30/why-intel-amd-and-broadcom-are-falling-on-friday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f23a49d8bdf9944a",
-      "titleEn": "Unilever and Nestlé Put AI to Work Between Orders and Payments",
-      "summaryEn": "Artificial intelligence agents are processing purchase orders and preparing collections work as businesses automate more of the steps between a B2B sale and payment. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); PYMNTS Intelligence research with JPMorgan finds surveyed companies automate an average 73% of accounts receivable processes, compared with 55% in the previous year’s survey. Recent deployments extend into work that requires reading customer documents, checking records and deciding which unpaid accounts need attention.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/b2b-payments/2026/unilever-and-nestle-put-ai-to-work-between-orders-and-payments/",
-      "published": null
-    },
-    {
       "id": "stockanalysis:6fbbd19a7ef0f75a",
       "titleEn": "Mission Valley Bancorp Reports Third Quarter Results",
       "summaryEn": null,
@@ -118,15 +100,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261030543777/en/RDDT-Investors-Have-Opportunity-to-Join-Reddit-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3493667e0ff74b6c",
-      "titleEn": "Lost Money on Credit Acceptance Corporation Shares? The Law Offices of Frank R.",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261030982487/en/Lost-Money-on-Credit-Acceptance-Corporation-Shares-The-Law-Offices-of-Frank-R.-Cruz-Investigates-Potential-Securities-Fraud-After-19.40-Stock-Decline/",
       "published": null
     }
   ]
