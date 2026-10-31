@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-30T22:42:46.869388Z",
+  "generatedAt": "2026-10-31T01:48:30.544349Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:5956897562120c10",
@@ -94,75 +94,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:2fed256addf3ea65",
-      "titleEn": "Exxon earnings: $19B cash haul comes with a catch",
-      "summaryEn": "Buy ExxonMobil (XOM). The quarter showed real cash power: ~$19.1B free cash flow that covered dividends+buybacks (~$9.4B) about 2x, plus a $20B repurchase plan into 2027. The key edge is Energy Products strength (refining) offsetting upstream softness, meaning earnings and cash flow aren’t purely a crude-price story. Thesis: XOM can keep funding shareholder returns even when one segment cools, and the market will underprice that cash resilience. Key Risk: Refining margins mean-revert sharply and working-capital swings reverse, cutting free cash flow so the buyback/dividend coverage deteriorates. Sell Valero Energy (VLO) versus XOM. If this quarter’s strength was partly “timing” and unusually favorable diesel margins, the most exposed pure refiners should see faster downside when spreads normalize. XOM’s integration and upstream diversification should cushion the cycle better than a standalone refiner, so the relative trade favors XOM.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/10/30/exxon-earnings-19b-cash-haul-comes-with-a-catch/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5d1a5c02fbcea7ff",
-      "titleEn": "Why are Micron, SK Hynix, and SanDisk stocks falling on Friday?",
-      "summaryEn": "Sell MU. The article shows the stock fell despite decent fundamentals because Intel/Amazon demand fears hit the whole semiconductor complex, and analysts flagged valuation concerns. MU is also exposed to PC softness and the “memory crunch” narrative turning into a demand/earnings stability problem. Shorting MU targets multiple compression and sentiment drag until guidance clarity improves. Key Risk: Micron’s next guidance confirms sustained AI/data-center memory demand and earnings stability, forcing the market to re-rate MU higher despite the tech sell-off. Sell SNDK. It beat hard and guided up, but the stock is up 337% YTD and the Street is explicitly warning about valuation and late-cycle risk. The eight-for-one split can temporarily boost liquidity, but it doesn’t fix cycle risk; the setup is “fundamentals good, price too far ahead,” so you sell into strength.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/30/why-are-micron-sk-hynix-and-sandisk-stocks-falling-on-friday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8cc22513cecf3051",
-      "titleEn": "Binance reveals a $1B SpaceX stake: what happens if it sells its stake?",
-      "summaryEn": "Buy SpaceX (SPCX). The article flags a potential Binance seller, but Yi He says selling is unnecessary and there’s no announced disposal. That turns the 5% drop into mostly uncertainty pricing, not an operating hit. If no sale follows, the “forced liquidation” narrative fades and the stock should mean-revert. Key Risk: Binance actually sells a meaningful block, creating real supply and a sustained price discount. Sell Binance exposure via shorting Binance-related crypto exchange proxies (e.g., short COIN as a proxy for exchange/crypto risk sentiment). The $6.3B theft and the SpaceX-stake liquidity chatter highlight governance and liquidity optics risk that can keep multiples compressed even if revenue covers losses.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/30/binance-reveals-a-1b-spacex-stake-what-happens-if-it-sells-its-stake/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9479dfb4c9756565",
-      "titleEn": "Foxconn dismisses AI bubble fears with fresh OpenAI partnership on cards",
-      "summaryEn": "Buy. The OpenAI partnership is moving from “design/option” to a deeper, likely higher-volume AI data-center hardware role, and Foxconn already has proof of traction (cloud/networking 51% of revenue; double-digit growth guided). This is the cleanest way to own AI infrastructure buildout without paying Nvidia multiples. Key Risk: OpenAI’s next deal stays small or shifts to other manufacturers, leaving Foxconn’s US AI server expansion underutilized. Buy. If Foxconn ramps AI server production in the US, the whole capex stack follows—especially advanced lithography demand. ASML is the bottleneck supplier for leading-edge chipmaking that AI infrastructure ultimately depends on.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/30/foxconn-dismisses-ai-bubble-fears-with-fresh-openai-partnership-on-cards/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c9219497053f132b",
-      "titleEn": "Amazon stock falls: why analysts are saying its a buying opportunity",
-      "summaryEn": "Buy Amazon (AMZN). The sell-off is driven by AWS growth missing a 40% bar (39% vs expectations) and heavy AI/data-center capex, but analysts still see AWS accelerating above 40% into FY27–FY28 and a large backlog ($578B) supporting demand. The stock is down ~2% after a ~7% premarket drop, creating a valuation dislocation versus continued long-term AWS/AI momentum. Key Risk: AWS growth fails to re-accelerate above 40% and margins keep deteriorating as AI capex doesn’t translate into faster revenue. Buy AMZN again, this time for operating leverage. Multiple firms expect multi-year operating margin expansion despite near-term free-cash-flow outflows. If AWS margins hold in the mid-to-high 30% range (Citi) while revenue growth improves, the market will re-rate AMZN from “capex story” back to “cash-flow compounder.”",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/30/amazon-stock-falls-why-analysts-are-saying-its-a-buying-opportunity/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2968e3669f400e73",
-      "titleEn": "Reddit stock plunges 25% on user growth concerns; analysts turn cautious",
-      "summaryEn": "Buy Alphabet (GOOGL). Second-order: if AI search reduces click-through to publishers like Reddit, ad budgets shift toward platforms that keep the query and monetize directly. Reddit’s problem is Google’s AI search advantage—less referral traffic means more value captured by Google’s own ad stack and engagement surfaces. Key Risk: AI search adoption underperforms and advertisers don’t pay up (lower ad pricing/engagement), hurting Google’s monetization despite reduced publisher traffic. Sell Reddit (RDDT). The thesis is breaking: Google/AI search is already cutting referrals, US daily active uniques are contracting YoY for the first time since IPO, and the Q4 revenue guide ($1.00–$1.03B) is below consensus. Even with strong Q3 revenue/EBITDA, the market is repricing the growth runway and multiple compression is likely until logged-in US users re-accelerate.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/30/reddit-stock-plunges-25-on-user-growth-concerns-analysts-turn-cautious/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ee82f8aa26dd7b44",
-      "titleEn": "ArcBest Declares a $0.12/Share Quarterly Dividend",
+      "id": "stockanalysis:6fbbd19a7ef0f75a",
+      "titleEn": "Mission Valley Bancorp Reports Third Quarter Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261030045612/en/ArcBest-Declares-a-0.12Share-Quarterly-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20261030775618/en/Mission-Valley-Bancorp-Reports-Third-Quarter-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:712c5efdd2960635",
-      "titleEn": "Ranger Energy Services to Present and Host 1x1 Investor Meetings at the 18th Annual Southwest IDEAS Investor Conference on November 18th &amp; 19th in Dallas, TX",
+      "id": "stockanalysis:1a34c17bb282aa8d",
+      "titleEn": "Navan Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of Navan, Inc. - NAVN",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261028907097/en/Ranger-Energy-Services-to-Present-and-Host-1x1-Investor-Meetings-at-the-18th-Annual-Southwest-IDEAS-Investor-Conference-on-November-18th-19th-in-Dallas-TX/",
+      "link": "https://www.businesswire.com/news/home/20261030993267/en/Navan-Investigation-Initiated-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-Navan-Inc.---NAVN/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c34c32eccb38293c",
+      "titleEn": "RDDT Investors Have Opportunity to Join Reddit, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261030543777/en/RDDT-Investors-Have-Opportunity-to-Join-Reddit-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3493667e0ff74b6c",
+      "titleEn": "Lost Money on Credit Acceptance Corporation Shares? The Law Offices of Frank R.",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261030982487/en/Lost-Money-on-Credit-Acceptance-Corporation-Shares-The-Law-Offices-of-Frank-R.-Cruz-Investigates-Potential-Securities-Fraud-After-19.40-Stock-Decline/",
       "published": null
     }
   ]
