@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-11-01T06:30:01.276544Z",
+  "generatedAt": "2026-11-01T13:41:52.068558Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:c1a1e9ad17842892",
+      "titleEn": "News Corp stock analysis as judge tosses Trump's WSJ lawsuit ahead of earnings",
+      "summaryEn": "Buy News Corp (NWSA). The judge tossed Trump’s $10B WSJ lawsuit on First Amendment grounds, removing a headline overhang right before earnings. Even if the market reaction is mild, the next catalyst is fundamentals: recent revenue growth (digital real estate, publishing, Dow Jones) and strong free cash flow ($811M). Technicals are stretched (below 50-day, under 23.6% fib, double-top), so a clean legal headline + earnings can trigger a sharp mean-reversion bounce toward the 50-day. Key Risk: Earnings disappoint (revenue or EPS guidance) and the stock breaks below $27.9 support, turning the bounce into a continued downtrend. Buy Dow Jones-linked exposure inside News Corp: NWSA over the broader media basket. The lawsuit dismissal reduces perceived legal/regulatory tail risk for WSJ/Dow Jones assets, which should support a higher valuation multiple if earnings show steady ad/subscription and real-estate momentum. Pair with selling weaker, more legally exposed media names only if they trade on similar headline risk—otherwise stay long NWSA as the cleaner beneficiary.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/01/news-corp-stock-analysis-as-judge-tosses-trumps-wsj-lawsuit-ahead-of-earnings/",
+      "published": null
+    },
     {
       "id": "stockanalysis:cb9f2e34375926b5",
       "titleEn": "Big Tech's AI bill meets a 'Big Cash Burn' issue: are investors' fears justified?",
@@ -49,21 +58,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:07da6576c0859493",
-      "titleEn": "Coinbase stock hits two-year low as analyst cuts and Binance hack weigh",
-      "summaryEn": "Sell COIN. Despite an earnings beat, analysts cut targets on weaker crypto trading activity, softer revenue outlook, and higher costs. The stock is already at a two-year low and the market is pricing in continued volume pressure from a broader digital-asset sell-off plus renewed exchange-security fears after the Binance hack. COIN’s “Everything Exchange” progress (prediction markets/USDC) is not enough to offset near-term transaction weakness. Key Risk: Crypto trading volumes rebound fast (BTC/alt rally + risk-on), reversing the revenue outlook cuts and lifting COIN multiples. Sell Circle (CRYPTO-linked exposure via CIRCLE). The article flags stablecoin usage risk if the Binance hack discourages crypto activity. Circle is directly tied to stablecoin flows, so lower stablecoin demand and reduced trading volumes should hit revenue and sentiment harder than broader “exchange” narratives.",
+      "id": "stockanalysis:8ddc06e1af10c40b",
+      "titleEn": "Data Show Positive Survival and Patient Outcomes with Best-Practice Impella Support in HRPCI, in Contrast to CHIP-BCIS3 Study Results",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/10/30/coinbase-stock-hits-two-year-low-as-analyst-cuts-and-binance-hack-weigh/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261101267685/en/Data-Show-Positive-Survival-and-Patient-Outcomes-with-Best-Practice-Impella-Support-in-HRPCI-in-Contrast-to-CHIP-BCIS3-Study-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:bc72579912d888b2",
-      "titleEn": "Galaxy Digital Seeks Bank Charter to Expand Financial Services Reach",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); If the OCC approves the application, Galaxy National Bank would operate as a federally regulated trust institution under OCC supervision and would serve clients across the United States through a single federal framework, the release said. Please add us to your preferred sources list so our news, data and interviews show up in your feed. Thanks!",
+      "id": "stockanalysis:772234450d44f34c",
+      "titleEn": "Perion Enters into Definitive Merger Agreement with Affle",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/banking/2026/galaxy-digital-seeks-bank-charter-to-expand-financial-services-reach/",
+      "link": "https://www.businesswire.com/news/home/20261101603052/en/Perion-Enters-into-Definitive-Merger-Agreement-with-Affle/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:98c85da2575a3769",
+      "titleEn": "TotalEnergies Strengthens Cooperation with PETRONAS SONANGOL and OIL INDIA LIMITED to Reduce Methane Emissions",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261101304985/en/TotalEnergies-Strengthens-Cooperation-with-PETRONAS-SONANGOL-and-OIL-INDIA-LIMITED-to-Reduce-Methane-Emissions/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a74fb206df5a7532",
+      "titleEn": "\"Together, Together\" for Final Show: The Garden Honors Harry Styles Sold-Out 30 Night Run",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261031197476/en/Together-Together-for-Final-Show-The-Garden-Honors-Harry-Styles-Sold-Out-30-Night-Run/",
       "published": null
     },
     {
