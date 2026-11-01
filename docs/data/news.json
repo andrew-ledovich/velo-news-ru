@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-11-01T18:33:35.981945Z",
+  "generatedAt": "2026-11-01T22:24:06.398762Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:009299a1c730296e",
+      "titleEn": "SoftBank stock at risk of hitting ¥3k as OpenAI woes mount, Arm earnings loom",
+      "summaryEn": "Sell SoftBank. The thesis is a double hit: OpenAI fundraising missed its target ($11B vs $30B) and at a lower valuation than planned, signaling AI capital is tightening; plus SoftBank’s core holdings (Arm and Intel) are in a broad risk-off slide. Chart risk is explicit: a potential death cross and support at ¥4,334; if it breaks, downside targets ¥3,000. Key Risk: OpenAI secures a much larger, faster follow-on round (or SoftBank’s AI-linked assets re-rate), stopping the valuation compression and triggering a rebound above ¥4,334. Sell Arm. SoftBank is the dominant holder (86.4%), so Arm weakness directly drags SoftBank. Arm is also facing a looming earnings spotlight; with the stock already down ~54% YTD, any guidance that confirms demand softness or delays in AI/compute adoption will likely extend the selloff.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/01/softbank-stock-at-risk-of-hitting-%c2%a53k-as-openai-woes-mount-arm-earnings-loom/",
+      "published": null
+    },
     {
       "id": "stockanalysis:c1a1e9ad17842892",
       "titleEn": "News Corp stock analysis as judge tosses Trump's WSJ lawsuit ahead of earnings",
@@ -28,6 +37,33 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://techxplore.com/news/2026-10-meta-snap-sole-defendant-social.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:867629848715e2d0",
+      "titleEn": "INOD Investors Have Opportunity to Join Innodata Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261101773886/en/INOD-Investors-Have-Opportunity-to-Join-Innodata-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ce849970ffc53c05",
+      "titleEn": "FTNT Investors Have Opportunity to Join Fortinet, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261101188662/en/FTNT-Investors-Have-Opportunity-to-Join-Fortinet-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5377a230de3f3f36",
+      "titleEn": "GE HealthCare debuts Allia Celeo, a ceiling-mounted interventional system designed for smooth procedural flow and AI-powered precision imaging",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261101578960/en/GE-HealthCare-debuts-Allia-Celeo-a-ceiling-mounted-interventional-system-designed-for-smooth-procedural-flow-and-AI-powered-precision-imaging/",
       "published": null
     },
     {
@@ -82,24 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261031197476/en/Together-Together-for-Final-Show-The-Garden-Honors-Harry-Styles-Sold-Out-30-Night-Run/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:429bcff07061719c",
-      "titleEn": "Once Upon a Farm to Host Business Update Conference Call on Monday, November 2, 2026 at 8:30 a.m. ET",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261031430404/en/Once-Upon-a-Farm-to-Host-Business-Update-Conference-Call-on-Monday-November-2-2026-at-830-a.m.-ET/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:829be650dff9645b",
-      "titleEn": "Once Upon a Farm Announces Recall and Reformulation of Tractor Wheels™ Due to Potential Choking Hazard",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261030258031/en/Once-Upon-a-Farm-Announces-Recall-and-Reformulation-of-Tractor-Wheels%E2%84%A2-Due-to-Potential-Choking-Hazard/",
       "published": null
     }
   ]
