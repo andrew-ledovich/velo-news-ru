@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-01T13:41:52.068558Z",
+  "generatedAt": "2026-11-01T18:33:35.981945Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:c1a1e9ad17842892",
@@ -31,30 +31,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5956897562120c10",
-      "titleEn": "Apple Acquires AI Firm Ascend.io Talent and Patents",
-      "summaryEn": "Apple acquired artificial intelligence firm Ascension Labs , which does business as Ascend.io , in June, according to a list of acquisitions maintained by the European Commission . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The deal gives Apple the right to make employment offers and to hire certain employees of Ascend, receive a non-exclusive license to the firm’s intellectual property rights and be assigned certain patents owned by the firm, according to the notice.",
+      "id": "stockanalysis:6af146888128a244",
+      "titleEn": "TWLO Investors Have Opportunity to Join Twilio Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apple-acquires-ai-firm-ascend-talent-patents/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261101634724/en/TWLO-Investors-Have-Opportunity-to-Join-Twilio-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
-      "id": "stockanalysis:95a13ae349128866",
-      "titleEn": "Why AI Investors Are Buying ADT, Accountants and Call Centers",
-      "summaryEn": "Thrive Holdings, an OpenAI-backed holding company, agreed Oct. 29 to buy ADT, the home security provider, for $15.3 billion including debt, a deal that would add 6.1 million monitoring subscribers to a portfolio of more than 75 businesses. Long Lake, the General Catalyst-backed holding company that owns HOA management, payroll and travel businesses, has bought 40 companies, and General Catalyst says its Nexus platform builds board packets in seconds. Lightspeed Venture Partners, the Silicon Valley firm that has backed Anthropic and Databricks, has raised more than $750 million for a fund to buy and upgrade eight to 10 established businesses.",
+      "id": "stockanalysis:9ebe4a23142e2fc9",
+      "titleEn": "Venture Global Commences Commercial Operations of Phase One of Plaquemines LNG",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/why-ai-investors-are-buying-adt-accountants-and-call-centers/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:782c0ffb718eb418",
-      "titleEn": "Anthropic IPO: Blackstone warns AI firm may receive junk credit rating: report",
-      "summaryEn": "Buy the Project North Star junior tranche (the ~$18B double-B-plus, positive-outlook debt). Junk-rated junior paper is where the yield is highest; if the financing structure holds and Broadcom-backed senior debt stays safe, the junior tranche can re-rate upward as rating agencies finalize reviews and investors gain clarity post-IPO. Key Risk: A downgrade to deep junk or a structural cash-flow squeeze that makes junior lease-payment coverage look weak. Sell/avoid ANTHR (Anthropic IPO shares). The news says Blackstone expects a junk (double-B) rating post-IPO, which means higher borrowing costs and a smaller institutional buyer pool for its debt—bad for a company planning massive capex. Even with big cash, the market will price in a higher cost of capital right when it needs funding flexibility.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/30/anthropic-ipo-blackstone-warns-ai-firm-may-receive-junk-credit-rating-report/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261101596032/en/Venture-Global-Commences-Commercial-Operations-of-Phase-One-of-Plaquemines-LNG/",
       "published": null
     },
     {
