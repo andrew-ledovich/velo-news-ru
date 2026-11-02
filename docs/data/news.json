@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-11-02T01:37:44.769265Z",
+  "generatedAt": "2026-11-02T08:15:25.100367Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:264bd33896489221",
+      "titleEn": "Kioxia stock falls after issuing soft guidance: will it crash to ¥10k?",
+      "summaryEn": "Sell Kioxia. Soft guidance plus “timing” excuses still leaves operating profit below consensus, and the stock is already in a technical breakdown (near ¥10,000 target, death-cross risk). If AI funding tightens, memory demand expectations get marked down again, keeping pressure on valuation. Key Risk: AI capex doesn’t slow and Kioxia’s March-quarter growth re-accelerates fast enough to force analysts to raise estimates. Sell MEM. The article shows broad memory weakness (Micron/Samsung/SK Hynix down, ETF down >20%), meaning the risk is sector-wide, not just Kioxia. If investors fear funding stress for data centers, the whole memory complex reprices lower together.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/02/kioxia-stock-falls-after-issuing-soft-guidance-will-it-crash-to-%c2%a510k/",
+      "published": null
+    },
     {
       "id": "stockanalysis:009299a1c730296e",
       "titleEn": "SoftBank stock at risk of hitting ¥3k as OpenAI woes mount, Arm earnings loom",
@@ -40,93 +49,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:dd6db34b0f034f27",
-      "titleEn": "XYL Investors Have Opportunity to Join Xylem Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:e636f195b591f754",
+      "titleEn": "SES to Supply Finnair with Ground-like Connectivity Experience in the Skies",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261101149390/en/XYL-Investors-Have-Opportunity-to-Join-Xylem-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20261101456957/en/SES-to-Supply-Finnair-with-Ground-like-Connectivity-Experience-in-the-Skies/",
       "published": null
     },
     {
-      "id": "stockanalysis:750cf719c95d80a8",
-      "titleEn": "TCGLF Investors Have Opportunity to Join TechCreate Group Ltd. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:866f144d9ce9751e",
+      "titleEn": "Malaysia: TotalEnergies Signs Agreements to Acquire Operated Interest in Two Major Offshore Gas Fields",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261101660293/en/TCGLF-Investors-Have-Opportunity-to-Join-TechCreate-Group-Ltd.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20261101524567/en/Malaysia-TotalEnergies-Signs-Agreements-to-Acquire-Operated-Interest-in-Two-Major-Offshore-Gas-Fields/",
       "published": null
     },
     {
-      "id": "stockanalysis:9fe3f91473f2f3e4",
-      "titleEn": "TMDX Investors Have Opportunity to Join TransMedics Group, Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:b73bb1f669ec4f8a",
+      "titleEn": "Blackstone and Leading Canadian Institutional Investors Announce $3.1B Investment in Mitsubishi Corporation's Interest in LNG Canada",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261101558244/en/TMDX-Investors-Have-Opportunity-to-Join-TransMedics-Group-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20261101011679/en/Blackstone-and-Leading-Canadian-Institutional-Investors-Announce-3.1B-Investment-in-Mitsubishi-Corporation%E2%80%99s-Interest-in-LNG-Canada/",
       "published": null
     },
     {
-      "id": "stockanalysis:867629848715e2d0",
-      "titleEn": "INOD Investors Have Opportunity to Join Innodata Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:f80214563a2c7d80",
+      "titleEn": "Thales Selected to Deliver Next-Generation Mine-Hunting Capability for the U.S. Navy",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261101773886/en/INOD-Investors-Have-Opportunity-to-Join-Innodata-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20261101304707/en/Thales-Selected-to-Deliver-Next-Generation-Mine-Hunting-Capability-for-the-U.S.-Navy/",
       "published": null
     },
     {
-      "id": "stockanalysis:ce849970ffc53c05",
-      "titleEn": "FTNT Investors Have Opportunity to Join Fortinet, Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:8b37559b11e61095",
+      "titleEn": "Theta Lake Announces Integration with CrowdStrike Falcon Guardian",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261101188662/en/FTNT-Investors-Have-Opportunity-to-Join-Fortinet-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20261101188232/en/Theta-Lake-Announces-Integration-with-CrowdStrike-Falcon-Guardian/",
       "published": null
     },
     {
-      "id": "stockanalysis:5377a230de3f3f36",
-      "titleEn": "GE HealthCare debuts Allia Celeo, a ceiling-mounted interventional system designed for smooth procedural flow and AI-powered precision imaging",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261101578960/en/GE-HealthCare-debuts-Allia-Celeo-a-ceiling-mounted-interventional-system-designed-for-smooth-procedural-flow-and-AI-powered-precision-imaging/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6af146888128a244",
-      "titleEn": "TWLO Investors Have Opportunity to Join Twilio Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:862339a9433137d5",
+      "titleEn": "“e.l.f. Made to Stand Out”: e.l.f. Creates Handcrafted Holiday Campaign to Celebrate Self Expression, Individuality and Inclusivity",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261101634724/en/TWLO-Investors-Have-Opportunity-to-Join-Twilio-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9ebe4a23142e2fc9",
-      "titleEn": "Venture Global Commences Commercial Operations of Phase One of Plaquemines LNG",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261101596032/en/Venture-Global-Commences-Commercial-Operations-of-Phase-One-of-Plaquemines-LNG/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8ddc06e1af10c40b",
-      "titleEn": "Data Show Positive Survival and Patient Outcomes with Best-Practice Impella Support in HRPCI, in Contrast to CHIP-BCIS3 Study Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261101267685/en/Data-Show-Positive-Survival-and-Patient-Outcomes-with-Best-Practice-Impella-Support-in-HRPCI-in-Contrast-to-CHIP-BCIS3-Study-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:772234450d44f34c",
-      "titleEn": "Perion Enters into Definitive Merger Agreement with Affle",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261101603052/en/Perion-Enters-into-Definitive-Merger-Agreement-with-Affle/",
+      "link": "https://www.businesswire.com/news/home/20261101541744/en/%E2%80%9Ce.l.f.-Made-to-Stand-Out%E2%80%9D-e.l.f.-Creates-Handcrafted-Holiday-Campaign-to-Celebrate-Self-Expression-Individuality-and-Inclusivity/",
       "published": null
     }
   ]
