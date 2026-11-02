@@ -1,105 +1,213 @@
 {
-  "generatedAt": "2026-11-02T08:15:25.100367Z",
+  "generatedAt": "2026-11-02T18:36:02.012617Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 23,
   "items": [
     {
-      "id": "stockanalysis:264bd33896489221",
-      "titleEn": "Kioxia stock falls after issuing soft guidance: will it crash to ¥10k?",
-      "summaryEn": "Sell Kioxia. Soft guidance plus “timing” excuses still leaves operating profit below consensus, and the stock is already in a technical breakdown (near ¥10,000 target, death-cross risk). If AI funding tightens, memory demand expectations get marked down again, keeping pressure on valuation. Key Risk: AI capex doesn’t slow and Kioxia’s March-quarter growth re-accelerates fast enough to force analysts to raise estimates. Sell MEM. The article shows broad memory weakness (Micron/Samsung/SK Hynix down, ETF down >20%), meaning the risk is sector-wide, not just Kioxia. If investors fear funding stress for data centers, the whole memory complex reprices lower together.",
+      "id": "stockanalysis:c18bf3efb936c5ff",
+      "titleEn": "Why is Amazon stock surging 4% today?",
+      "summaryEn": "Amazon stock AMZN rose more than 4% on Monday after Phillip Securities upgraded the shares, citing strong demand visibility in cloud computing and the company's positioning across the artificial intelligence (AI) industry. The stock gained 4.5% in morning trading after Phillip Securities raised its rating to Buy from Accumulate and increased its price target to $330 from $320. Analyst Helena Wang said Amazon's positioning across the AI infrastructure market and strong growth at Amazon Web Services (AWS) supported a more positive outlook, despite concerns about near-term cash flow.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/02/kioxia-stock-falls-after-issuing-soft-guidance-will-it-crash-to-%c2%a510k/",
+      "link": "https://invezz.com/news/2026/11/02/why-is-amazon-stock-surging-4-today/",
       "published": null
     },
     {
-      "id": "stockanalysis:009299a1c730296e",
-      "titleEn": "SoftBank stock at risk of hitting ¥3k as OpenAI woes mount, Arm earnings loom",
-      "summaryEn": "Sell SoftBank. The thesis is a double hit: OpenAI fundraising missed its target ($11B vs $30B) and at a lower valuation than planned, signaling AI capital is tightening; plus SoftBank’s core holdings (Arm and Intel) are in a broad risk-off slide. Chart risk is explicit: a potential death cross and support at ¥4,334; if it breaks, downside targets ¥3,000. Key Risk: OpenAI secures a much larger, faster follow-on round (or SoftBank’s AI-linked assets re-rate), stopping the valuation compression and triggering a rebound above ¥4,334. Sell Arm. SoftBank is the dominant holder (86.4%), so Arm weakness directly drags SoftBank. Arm is also facing a looming earnings spotlight; with the stock already down ~54% YTD, any guidance that confirms demand softness or delays in AI/compute adoption will likely extend the selloff.",
+      "id": "stockanalysis:d962ec4a15772013",
+      "titleEn": "Alphabet stock rebounds as analysts defend AI investment and Cloud growth",
+      "summaryEn": "Buy Alphabet (NASDAQ: GOOGL). The stock is rebounding because analysts are defending the AI spend with concrete offsets: Google Cloud revenue up 103% YoY ($30.7B) and a $561B backlog, plus TPUs as the monetization bridge. Even with Search click pressure from AI Overviews, Street estimates are being trimmed but not the core thesis: Cloud + TPU profit power offsets Search softness over 2027–2028. Key Risk: Cloud growth slows materially or TPU demand disappoints, so AI capex keeps free cash flow negative longer than expected. Sell Alphabet (GOOGL) versus Microsoft (MSFT) on valuation and timing. The article flags Search click risk from AI Overviews through at least 1Q27, while Alphabet’s near-term free cash flow is already negative from AI capex. MSFT’s AI monetization is more diversified across Azure and enterprise contracts, so it should suffer less from Search-specific click dilution while Alphabet’s spend cycle is still ramping.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/01/softbank-stock-at-risk-of-hitting-%c2%a53k-as-openai-woes-mount-arm-earnings-loom/",
+      "link": "https://invezz.com/news/2026/11/02/alphabet-stock-rebounds-as-analysts-defend-ai-investment-and-cloud-growth/",
       "published": null
     },
     {
-      "id": "stockanalysis:c1a1e9ad17842892",
-      "titleEn": "News Corp stock analysis as judge tosses Trump's WSJ lawsuit ahead of earnings",
-      "summaryEn": "Buy News Corp (NWSA). The judge tossed Trump’s $10B WSJ lawsuit on First Amendment grounds, removing a headline overhang right before earnings. Even if the market reaction is mild, the next catalyst is fundamentals: recent revenue growth (digital real estate, publishing, Dow Jones) and strong free cash flow ($811M). Technicals are stretched (below 50-day, under 23.6% fib, double-top), so a clean legal headline + earnings can trigger a sharp mean-reversion bounce toward the 50-day. Key Risk: Earnings disappoint (revenue or EPS guidance) and the stock breaks below $27.9 support, turning the bounce into a continued downtrend. Buy Dow Jones-linked exposure inside News Corp: NWSA over the broader media basket. The lawsuit dismissal reduces perceived legal/regulatory tail risk for WSJ/Dow Jones assets, which should support a higher valuation multiple if earnings show steady ad/subscription and real-estate momentum. Pair with selling weaker, more legally exposed media names only if they trade on similar headline risk—otherwise stay long NWSA as the cleaner beneficiary.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/01/news-corp-stock-analysis-as-judge-tosses-trumps-wsj-lawsuit-ahead-of-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cb9f2e34375926b5",
-      "titleEn": "Big Tech's AI bill meets a 'Big Cash Burn' issue: are investors' fears justified?",
-      "summaryEn": "Microsoft is the only hyperscaler in the article showing AI spend translating into both growth and cash: Azure up 48% and free cash flow of $18.6B (about $10B above expectations). The market is punishing “cash burn,” so MSFT should rerate as the cleanest proof that AI capex can still produce shareholder cash. Key Risk: Azure growth slows sharply and free cash flow turns down, proving AI spend isn’t converting into durable returns. Alphabet has strong Cloud demand (Google Cloud revenue $30.71B, more than doubled) but the cash reality is ugly: free cash flow -$9.07B and slowing Search/YouTube ad growth. With investors already worried about Nasdaq 100 cash burn, GOOGL’s negative FCF plus legacy revenue pressure makes it the higher-risk “AI story” versus peers.",
+      "id": "stockanalysis:e051c6379ac03a47",
+      "titleEn": "Apple earnings: what to expect from John Ternus' first report",
+      "summaryEn": "Buy AAPL into the earnings print. Setup: revenue +11% expected, iPhone revenue +15%, and services +~10% despite weakest profit growth from memory-chip costs. The market is already nervous about AI spend and new hardware; Ternus can re-anchor the story by emphasizing “good enough” AI that defends the iPhone ecosystem, plus holiday demand visibility from iPhone Duo supply still lagging (79-day waits). If guidance and commentary confirm services resilience and stable gross margin trajectory despite chip costs, the stock’s pre-earnings drop is likely overdone. Key Risk: Ternus guides to weaker iPhone Duo demand or longer-than-expected margin pressure from memory costs, forcing investors to price in a sustained profit slowdown. Sell AAPL only if management addresses iPhone Duo quality problems with signs of scaling risk. Setup: reports of cracks/lines on the inner fold are already in the narrative; if Apple signals higher replacement rates, slower ramp, or tighter supply than IDC expects, the foldable becomes a demand headwind right when price increases are testing consumers. That would hit both hardware sentiment and services attach rates tied to the installed base.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/10/31/big-techs-ai-bill-meets-a-big-cash-burn-issue-are-investors-fears-justified/",
+      "link": "https://invezz.com/news/2026/11/02/apple-earnings-what-to-expect-from-john-ternus-first-report/",
       "published": null
     },
     {
-      "id": "stockanalysis:4aa09eb4649ce077",
-      "titleEn": "Meta settles, leaving Snap sole defendant in new social media trial",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Meta reached a settlement in a landmark case over the alleged harms of social media, the plaintiffs' lawyers said Friday, leaving Snap as the only defendant in a trial set to open in Los Angeles next week. \"We remain committed to improving safety for kids on social media apps and holding tech companies accountable, and we are pleased to have brought this matter to a just resolution on behalf of our client,\" Emily Jeffcott, a lawyer representing one of the young women suing both companies, said in a statement.",
+      "id": "stockanalysis:410b0dcf3debb0b6",
+      "titleEn": "Tom Sosnoff: AMD, Nvidia, Micron stocks 'have not sold off enough'",
+      "summaryEn": "Buy NVDA, AMD, and MU only after they each show a further 25–35% drawdown from their recent highs (or clear breakdown + failed bounce). Sosnoff’s point: the AI leaders haven’t sold enough, so the market can look “recovered” while the real capitulation hasn’t happened. Entry after the next leg down targets the moment expectations reset, not the rebound moment that can be a trap. Key Risk: They don’t drop enough because AI demand stays strong and the stocks keep grinding higher, leaving you buying before valuation and sentiment reset. Buy INTC around $65–$66 only if it holds that level for multiple sessions (no quick reclaim-and-fail). Sosnoff flagged Intel as “potentially interesting” because the sharp drop likely moved expectations closer to reality, unlike NVDA/AMD/MU where the selloff is still insufficient.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/02/tom-sosnoff-amd-nvidia-micron-stocks-have-not-sold-off-enough/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:df027d96ce908880",
+      "titleEn": "Why is Oracle stock falling nearly 6% on Monday?",
+      "summaryEn": "Buy Oracle (ORCL). The selloff is driven by the headline $20B raise, but the company also guided to positive free cash flow in the second half of FY ending next May—meaning the market is likely overpricing near-term cash burn. If the bond/share mix is used to fund AI capex while stabilizing debt, ORCL can re-rate as execution clarity improves toward the 2030 targets. Key Risk: Oracle fails to turn capex into cash and free cash flow stays negative, forcing even more dilutive funding or expensive debt. Sell iShares iBoxx $ High Yield Corporate Bond ETF (HYG) or short a high-yield credit basket focused on tech/AI infrastructure. The article flags sector-wide financing stress (CoreWeave debt yields >15%, CDS at record levels) and rising scrutiny of funding needs. If capital markets tighten or AI infrastructure returns disappoint, credit spreads widen first—hurting high-yield more than equities.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/02/why-is-oracle-stock-falling-nearly-6-on-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1b507c4250a24d2d",
+      "titleEn": "Anthropic revenue surges 12 fold in Q3, with $895B in purchase commitments",
+      "summaryEn": "Buy ANT on listing. The news shows explosive demand: revenue up 12x in Q3 and ~$895B in purchase/lease commitments tied to AI compute. That combination signals real customer pull plus long-duration infrastructure contracts that can smooth revenue visibility even while losses are high. Key upside is operating leverage once compute spend scales with revenue. Key Risk: The commitments don’t translate into profitable usage—customers cancel/renegotiate and Anthropic keeps burning cash faster than revenue grows. Buy NVDA and/or AMD. Anthropic’s ~$895B compute commitments imply massive GPU/accelerator demand and sustained data-center buildouts across the AI stack. Second-order effect: even if Anthropic’s margins lag, the spend is largely infrastructure-linked, pulling forward orders for high-end accelerators, networking, and servers.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/02/anthropic-revenue-surges-12-fold-in-q3-with-895b-in-purchase-commitments/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:46d08c9f8e48b299",
+      "titleEn": "QQQ, DIA, and VOO outlooks: Top stock market news to watch this week",
+      "summaryEn": "Buy QQQ. The pullback is being driven by AI jitters and guidance/funding fears, but the catalyst calendar is heavy (hundreds of earnings) and Apple is positioned as the “AI spend-light” winner with strong free cash flow. If Apple and other mega-caps avoid major AI capex disappointments, QQQ should rebound quickly because it’s the most sensitive to AI sentiment. Key Risk: A fresh AI funding/capex shock (another major AI name guides down) that keeps investors de-risking tech for weeks. Sell DIA. The Dow is being dragged by the same AI risk-off tape, but it has less direct upside from “AI spend-light” winners and more exposure to rate sensitivity. With the Fed still hawkish, strong jobs data can push yields higher, which typically hurts broad cyclicals and industrials more than it helps them.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/02/qqq-dia-and-voo-outlooks-top-stock-market-news-to-watch-this-week/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dcad83924e7888fd",
+      "titleEn": "Marvell to buy Lumentum in $115B deal: why are MRVL and LITE stocks falling?",
+      "summaryEn": "Buy Marvell (MRVL). The deal is stock-financed but strategically fixes Marvell’s biggest AI infrastructure gap: optical connectivity. Lumentum’s lasers + Marvell’s custom AI chips/networking lets MRVL sell “system-level” AI connectivity (processors + switches + optics) and defend against Broadcom’s broader stack. Nvidia’s prior investments in both names also validate the optical direction and reduce execution risk. Key thesis: AI data centers shift from copper to optical, and MRVL becomes the integrated supplier. Key Risk: Regulators block or delay the merger (US/China), forcing a breakup or major re-pricing of the deal. Sell Lumentum (LITE). Even with a 24% premium, the market is pricing execution and dilution risk: MRVL issues stock, LITE shareholders are exposed to deal timing/regulatory outcomes, and LITE is currently unprofitable on a trailing basis. If the merger drags, LITE’s fundamentals can deteriorate while MRVL’s stock becomes the “currency” that determines final value.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/02/marvell-to-buy-lumentum-in-115b-deal-why-are-mrvl-and-lite-stocks-falling/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:36a69f98410a0ad5",
+      "titleEn": "Palantir earnings preview: why 85% growth may not be enough",
+      "summaryEn": "Buy Palantir (PLTR) if Q3 shows (1) revenue growth near/above expectations, (2) US commercial contract value keeps rising (replenishment), and (3) operating margin holds up (no margin squeeze). The article’s point: a beat isn’t enough—only execution + pipeline + profit quality proves the growth trajectory can re-accelerate. This sets up upside if management raises full-year expectations again. Key Risk: Management guides to slower growth and contract replenishment disappoints, even if revenue beats. Sell Palantir (PLTR) if Q3 revenue beats but US commercial contract value stalls and margins weaken (operating margin down materially vs Q2). That’s the “beat without durability” setup the article warns about: investors get a short-term win, but the pipeline can’t support the next quarters, forcing multiple compression.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/11/02/palantir-earnings-preview-why-85-growth-may-not-be-enough/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b81d81846d7d0aea",
+      "titleEn": "Sam Altman courts UAE investors as OpenAI funding target reportedly shrinks",
+      "summaryEn": "OpenAI’s push for $20B+ and UAE data-center buildout increases demand for accelerated compute and networking. NVIDIA is the default picks-and-shovels supplier for AI training/inference stacks, and more hyperscale capacity means more GPU deployments and upgrades. Key Risk: AI capex slows sharply (or shifts to cheaper alternatives), cutting GPU orders and pricing power. Altman’s South Korea meetings centered on semiconductors and HBM. With Samsung HBM “sold out” for 2027 and SK hynix effectively spoken for through 2029, OpenAI-style scaling should tighten supply further and lift revenue visibility for SK hynix’s HBM and memory platforms.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/02/sam-altman-courts-uae-investors-as-openai-funding-target-reportedly-shrinks/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fff5bf43deb5a6f6",
+      "titleEn": "Realty Income stock has lost momentum: will it rise or fall after its earnings?",
+      "summaryEn": "Buy Realty Income (O) only if it dips into ~$54 support and holds for a day or two. The article notes bond yields have already pulled back, which can quickly re-rate REITs. If occupancy remains strong and the data-center pivot looks credible, O can rebound from support even if the initial earnings reaction is choppy. Key Risk: Occupancy or leasing commentary disappoints (tenant churn rises or rent growth slows), and the stock breaks below ~$54, turning the bounce into a downtrend. Sell Realty Income (O) ahead of earnings. The stock is losing momentum (falling ADX) and has a rising wedge, which usually resolves with a pullback. Technicals point to a move toward ~$54 support. Earnings are the catalyst, but the market will punish any hint of weaker occupancy or slower rent growth in a still-rate-sensitive REIT.",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-10-meta-snap-sole-defendant-social.html",
+      "link": "https://invezz.com/news/2026/11/02/realty-income-stock-has-lost-momentum-will-it-rise-or-fall-after-its-earnings/",
       "published": null
     },
     {
-      "id": "stockanalysis:e636f195b591f754",
-      "titleEn": "SES to Supply Finnair with Ground-like Connectivity Experience in the Skies",
+      "id": "stockanalysis:586624587b292624",
+      "titleEn": "Nio stock price analysis: the plot thickens for this Tesla rival",
+      "summaryEn": "Buy BYD (1211.HK or BYDDY). While China is in a price war, BYD is still growing: last quarter revenue +14% and net profit up to 10.02B yuan. Its international mix (40% of sales) cushions domestic margin damage, and Europe expansion (Hungary plant) supports volume growth. Key Risk: BYD’s international growth slows or domestic price cuts intensify enough that profit growth turns negative. Sell short NIO (NIO). October deliveries fell to 34,246 and growth is clearly decelerating (Sept +7.75%, Q3 +25.4%). The stock is also technically weak (below all moving averages, RSI ~34.6), so rallies likely get sold. Expect earnings to confirm slowing demand and margin pressure from China’s price war.",
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/11/02/nio-stock-price-analysis-the-plot-thickens-for-this-tesla-rival/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:83beff17e9c64db7",
+      "titleEn": "Progress Trial Demonstrates Edwards TAVR Is Superior to Clinical Surveillance for Moderate AS Patients With At-Risk Features",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261101456957/en/SES-to-Supply-Finnair-with-Ground-like-Connectivity-Experience-in-the-Skies/",
+      "link": "https://www.businesswire.com/news/home/20261102440960/en/Progress-Trial-Demonstrates-Edwards-TAVR-Is-Superior-to-Clinical-Surveillance-for-Moderate-AS-Patients-With-At-Risk-Features/",
       "published": null
     },
     {
-      "id": "stockanalysis:866f144d9ce9751e",
-      "titleEn": "Malaysia: TotalEnergies Signs Agreements to Acquire Operated Interest in Two Major Offshore Gas Fields",
+      "id": "stockanalysis:9477de245a9f9329",
+      "titleEn": "Ryder Acquires Efficiency Enterprises; Expands East Coast Fleet Network",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261101524567/en/Malaysia-TotalEnergies-Signs-Agreements-to-Acquire-Operated-Interest-in-Two-Major-Offshore-Gas-Fields/",
+      "link": "https://www.businesswire.com/news/home/20261103373781/en/Ryder-Acquires-Efficiency-Enterprises-Expands-East-Coast-Fleet-Network/",
       "published": null
     },
     {
-      "id": "stockanalysis:b73bb1f669ec4f8a",
-      "titleEn": "Blackstone and Leading Canadian Institutional Investors Announce $3.1B Investment in Mitsubishi Corporation's Interest in LNG Canada",
+      "id": "stockanalysis:f821e383b9a860de",
+      "titleEn": "Utopai Studios Names Disney AI Strategy Leader Hans Ku as Chief Product Officer",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261101011679/en/Blackstone-and-Leading-Canadian-Institutional-Investors-Announce-3.1B-Investment-in-Mitsubishi-Corporation%E2%80%99s-Interest-in-LNG-Canada/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261031879593/en/Utopai-Studios-Names-Disney-AI-Strategy-Leader-Hans-Ku-as-Chief-Product-Officer/",
       "published": null
     },
     {
-      "id": "stockanalysis:f80214563a2c7d80",
-      "titleEn": "Thales Selected to Deliver Next-Generation Mine-Hunting Capability for the U.S. Navy",
+      "id": "stockanalysis:136560d09167804e",
+      "titleEn": "CrowdStrike and Dell Technologies Announce Integrated AI Security for the Dell AI Factory with NVIDIA",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261101304707/en/Thales-Selected-to-Deliver-Next-Generation-Mine-Hunting-Capability-for-the-U.S.-Navy/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261102048231/en/CrowdStrike-and-Dell-Technologies-Announce-Integrated-AI-Security-for-the-Dell-AI-Factory-with-NVIDIA/",
       "published": null
     },
     {
-      "id": "stockanalysis:8b37559b11e61095",
-      "titleEn": "Theta Lake Announces Integration with CrowdStrike Falcon Guardian",
+      "id": "stockanalysis:8bd6be0e514395c2",
+      "titleEn": "Interactive Brokers Group Reports Brokerage Metrics and Other Financial Information for October 2026, includes Reg.-NMS Execution Statistics",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261101188232/en/Theta-Lake-Announces-Integration-with-CrowdStrike-Falcon-Guardian/",
+      "link": "https://www.businesswire.com/news/home/20261102149155/en/Interactive-Brokers-Group-Reports-Brokerage-Metrics-and-Other-Financial-Information-for-October-2026-includes-Reg.-NMS-Execution-Statistics/",
       "published": null
     },
     {
-      "id": "stockanalysis:862339a9433137d5",
-      "titleEn": "“e.l.f. Made to Stand Out”: e.l.f. Creates Handcrafted Holiday Campaign to Celebrate Self Expression, Individuality and Inclusivity",
+      "id": "stockanalysis:0d6382711a2fe1b8",
+      "titleEn": "L3Harris Receives $121 Million in Orders to Support Army Command and Control",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261101541744/en/%E2%80%9Ce.l.f.-Made-to-Stand-Out%E2%80%9D-e.l.f.-Creates-Handcrafted-Holiday-Campaign-to-Celebrate-Self-Expression-Individuality-and-Inclusivity/",
+      "link": "https://www.businesswire.com/news/home/20261102123847/en/L3Harris-Receives-121-Million-in-Orders-to-Support-Army-Command-and-Control/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:72d31466406cc567",
+      "titleEn": "AT&amp;T and AST SpaceMobile: Engineering the Connected World, One Handoff at a Time",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261102256625/en/ATT-and-AST-SpaceMobile-Engineering-the-Connected-World-One-Handoff-at-a-Time/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:be1730e83614076b",
+      "titleEn": "Galderma Announces Proposed Board Appointments and Chief Financial Officer Transition",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261102255626/en/Galderma-Announces-Proposed-Board-Appointments-and-Chief-Financial-Officer-Transition/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e92b30b4a9b24009",
+      "titleEn": "Liberty All-Star® Equity Fund Declares Distribution",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261102802194/en/Liberty-All-Star%C2%AE-Equity-Fund-Declares-Distribution/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:21e2ccb663f0200f",
+      "titleEn": "Liberty All-Star® Growth Fund, Inc. Declares Distribution",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261102569362/en/Liberty-All-Star%C2%AE-Growth-Fund-Inc.-Declares-Distribution/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:39c98c95c2a0fd94",
+      "titleEn": "American Express, NBA and WNBA Expand Longstanding Partnership Globally",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261102394876/en/American-Express-NBA-and-WNBA-Expand-Longstanding-Partnership-Globally/",
       "published": null
     }
   ]
