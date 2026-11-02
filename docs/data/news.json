@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-01T22:24:06.398762Z",
+  "generatedAt": "2026-11-02T01:37:44.769265Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:009299a1c730296e",
@@ -37,6 +37,33 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://techxplore.com/news/2026-10-meta-snap-sole-defendant-social.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dd6db34b0f034f27",
+      "titleEn": "XYL Investors Have Opportunity to Join Xylem Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261101149390/en/XYL-Investors-Have-Opportunity-to-Join-Xylem-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:750cf719c95d80a8",
+      "titleEn": "TCGLF Investors Have Opportunity to Join TechCreate Group Ltd. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261101660293/en/TCGLF-Investors-Have-Opportunity-to-Join-TechCreate-Group-Ltd.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9fe3f91473f2f3e4",
+      "titleEn": "TMDX Investors Have Opportunity to Join TransMedics Group, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261101558244/en/TMDX-Investors-Have-Opportunity-to-Join-TransMedics-Group-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
@@ -100,24 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261101603052/en/Perion-Enters-into-Definitive-Merger-Agreement-with-Affle/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:98c85da2575a3769",
-      "titleEn": "TotalEnergies Strengthens Cooperation with PETRONAS SONANGOL and OIL INDIA LIMITED to Reduce Methane Emissions",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261101304985/en/TotalEnergies-Strengthens-Cooperation-with-PETRONAS-SONANGOL-and-OIL-INDIA-LIMITED-to-Reduce-Methane-Emissions/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a74fb206df5a7532",
-      "titleEn": "\"Together, Together\" for Final Show: The Garden Honors Harry Styles Sold-Out 30 Night Run",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261031197476/en/Together-Together-for-Final-Show-The-Garden-Honors-Harry-Styles-Sold-Out-30-Night-Run/",
       "published": null
     }
   ]
