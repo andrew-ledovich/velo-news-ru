@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-11-03T01:14:18.455135Z",
+  "generatedAt": "2026-11-03T07:54:54.547390Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:618d3fd52fe38cb7",
+      "titleEn": "Why is Disney planning thousands of job cuts despite double-digit earnings forecast?",
+      "summaryEn": "Buy Walt Disney (DIS). The article shows management is extending a proven cost-cutting playbook (prior restructurings) while still projecting double-digit adjusted EPS growth. Parks/cruises are already profitable, and streaming margins are ~13%—so incremental savings should flow to operating leverage and fund higher-return investments (Disney+ tech/content, Hulu integration). Key Risk: They cut the wrong costs (creative/tech/guest-facing), damaging franchises and subscriber growth so margins don’t expand. Sell Netflix (NFLX). Disney is signaling a clearer path to durable double-digit Disney+ profit growth via cost discipline and operating leverage, plus Hulu/Disney+ integration. If Disney’s streaming margins keep rising, it pressures Netflix’s ability to grow profits without matching spend, especially as Disney reinvests selectively rather than broadly.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/03/why-is-disney-planning-thousands-of-job-cuts-despite-double-digit-earnings-forecast/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1154f13edbf7115b",
+      "titleEn": "Why did South Korea's KOSPI erase Monday's 2.2% rally in one session?",
+      "summaryEn": "Buy KOSPI exposure (e.g., iShares MSCI South Korea ETF, EWY). Monday’s rally was driven by domestic institutions; Tuesday’s drop shows that support is withdrawing, but the index is now near 5,700 where valuation support and improving semis earnings forecasts are pulling multiples toward historically low levels. Retail dip-buying is already showing up, so the next move is likely a stabilization bounce if foreign selling slows into the US midterm results. Key Risk: Foreign investors keep selling aggressively after the US election, overwhelming valuation support and pushing KOSPI below 5,700. Buy Samsung Electronics (005930.KS) and SK Hynix (000660.KS). The sell-off is being driven by US AI spending fears that hit US tech first, then spread to Korean memory and AI-adjacent names. With multiples pushed toward historically low levels and earnings forecasts improving, the market is likely over-discounting near-term AI capex uncertainty.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/03/why-did-south-koreas-kospi-erase-mondays-2-2-rally-in-one-session/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9757fb864cd043f3",
+      "titleEn": "Samsung and SK Hynix stocks plunge as a $20 billion AI shock rattles markets",
+      "summaryEn": "SK Hynix has stronger downside protection from long-term supply agreements covering more than half of 2027–28 capacity, plus ongoing HBM4 and server-memory momentum. If customers become cautious, contracts and HBM stickiness should cushion volumes and pricing better than for peers. Buy 000660.KS on weakness; focus on the next 1–3 quarters as sentiment stabilizes. Key Risk: Customers renegotiate or delay HBM/server-memory orders despite existing agreements. Oracle’s $20B raise signals Big Tech may need more external funding to keep AI buildouts accelerating. That raises the odds of slower, more selective memory purchases and margin pressure at the next cycle turn. Samsung is the more valuation-sensitive name here (Korea Investment cut its target sharply), so the stock can stay weak even if profits are still strong. Sell/short 005930.KS into any bounce; pair with a smaller hedge in the sector if needed.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/03/samsung-sk-hynix-stocks-plunge-oracle-ai-fears/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9518e5e1ca5d24ed",
+      "titleEn": "Apple posts earnings beat with better than expected iPhone and Mac sales",
+      "summaryEn": "Buy Apple (AAPL). Earnings beat plus iPhone and Mac outperformance, with Services at $31.6B and gross margin holding at 47.9%, signals resilient demand and pricing power despite component shortages. Market share rising (18%→22%) while the smartphone market shrinks supports share-gain, not just a one-off quarter. Key risk: Holiday guidance disappoints because supply constraints and iPhone Duo delays cut sell-through enough to outweigh the pricing benefit. Key Risk: Holiday outlook/guidance breaks—iPhone supply and Duo delays cause demand to fall faster than Apple can ship. Buy Micron (MU) and/or SK hynix ADR (if available to you). Apple’s iPhone price hikes and supply limits are tied to memory-chip scarcity; when a mega-cap customer reports strong results despite shortages, it usually means the memory bottleneck is easing or being allocated profitably. That lifts pricing and utilization for memory suppliers. Key risk: Memory demand weakens broadly (not just Apple), forcing prices down and wiping out the scarcity premium.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/02/apple-posts-earnings-beat-with-better-than-expected-iphone-and-mac-sales/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3c17b5fea7338b05",
       "titleEn": "Palantir delivers blowout quarter - but there's a catch",
@@ -13,147 +49,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:f93f0c030a3a88e9",
-      "titleEn": "SpaceX stock rises as Musk explores Boost Mobile deal for wireless push",
-      "summaryEn": "Buy SpaceX (SPCX). The Boost Mobile/EchoStar path is a credible shortcut to a US wireless launch (MVNO or carrier buildout) that can turn Starlink’s huge user base into a mobile distribution engine. Upside is asymmetric because even partial access (spectrum/network deals) can accelerate “Starlink Mobile” and force incumbents to defend ARPU and churn. Key Risk: AT&T/T-Mobile block or delay transferring Boost’s network-leasing agreements, making SpaceX’s wireless timeline slip by years. Buy Crown Castle (CCI) and/or American Tower (AMT). If SpaceX pursues tower access or leases, it becomes a new high-quality tenant. The market already priced some of this (CCI down on the day despite prior run), so any confirmation of negotiations should re-rate tower demand expectations.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/11/02/spacex-stock-rises-as-musk-explores-boost-mobile-deal-for-wireless-push/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d25bfdc5625dc621",
-      "titleEn": "Marvell, Lumentum merge in $115 billion deal amid AI spending jitters",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: U.S. chipmaker Marvell Technology said Monday it will buy optical components maker Lumentum in a $115 billion all-stock deal, the latest bid for scale among AI infrastructure companies as investors increasingly question whether the industry's spending boom will pay off. The deal, among the largest technology mergers on record, comes days after a selloff that hammered shares of companies tied to artificial intelligence.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-11-marvell-lumentum-merge-billion-ai.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:00db6bda205c27e7",
-      "titleEn": "Anthropic says revenue surged 1,100% ahead of IPO",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Anthropic, one of the world's leading artificial intelligence companies, on Monday reported a more than 1,100% surge in quarterly revenue and nearly $900 billion in spending commitments as it counts down to its Wall Street listing later this month. The San Francisco-based company was founded in 2021 by former OpenAI researchers led by chief executive Dario Amodei and his sister Daniela, now its president, with AI safety as its focus.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-11-anthropic-revenue-surged-ipo.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:56c66a25848cbfbc",
-      "titleEn": "Snap settles US social media trial days after Meta",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Snap has settled what would have been another landmark trial over the alleged harms of social media, lawyers for the plaintiffs said Monday, just days after Meta reached its own settlement and two days before opening statements were due to begin in a Los Angeles courtroom. The case was to be the latest in a series of bellwether, or test, trials whose outcomes are expected to guide the resolution of hundreds of similar lawsuits across the United States.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-11-snap-social-media-trial-days.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0675231f31eaefaa",
-      "titleEn": "Meta delays new business terms after outcry over potential web scraping of news sites",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Meta said it was postponing the rollout of new terms for its business accounts after an outcry from media companies and open-web advocates who said the updated rules would allow the tech giant to scrape vast amounts of data and potentially build competing services. The new rules, originally scheduled to go into effect Oct. 30, authorize Meta to use automated software such as web scrapers and bots to \"index, cache, analyze, collect, retrieve, or crawl the domains, web pages, or URLs\" associated with a business account.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-11-meta-delays-business-terms-outcry.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f89b86deefded550",
-      "titleEn": "Rivian stock jumps 10%, here's why",
-      "summaryEn": "Buy Rivian Automotive (RIVN). UBS/Jefferies upgrades hinge on R2 ramp driving higher automotive gross margins and volume growth, with most 2028 units expected from R2. The stock just re-rated on improving demand signals; you want in before the market fully prices the margin inflection and the software/services upside (Autonomy+). Key Risk: R2 demand or production ramp disappoints, so margins don’t improve and Rivian burns cash longer than expected. Buy Rivian Automotive (RIVN) again, but specifically for the second catalyst: Autonomy+ as a Tesla Full Self-Driving competitor. The December Autonomy Day and early-2027 launch create a clear event path where any credible progress can re-rate the stock toward higher-margin software economics.",
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/11/02/rivian-stock-jumps-10-heres-why/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c18bf3efb936c5ff",
-      "titleEn": "Why is Amazon stock surging 4% today?",
-      "summaryEn": "Amazon stock AMZN rose more than 4% on Monday after Phillip Securities upgraded the shares, citing strong demand visibility in cloud computing and the company's positioning across the artificial intelligence (AI) industry. The stock gained 4.5% in morning trading after Phillip Securities raised its rating to Buy from Accumulate and increased its price target to $330 from $320. Analyst Helena Wang said Amazon's positioning across the AI infrastructure market and strong growth at Amazon Web Services (AWS) supported a more positive outlook, despite concerns about near-term cash flow.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/02/why-is-amazon-stock-surging-4-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e8818b35557f6f13",
-      "titleEn": "KBRA Assigns Preliminary Ratings to BX 2026-AIRC",
+      "id": "stockanalysis:133fef49064f4720",
+      "titleEn": "Halliburton Introduces Agile Asset Management to Accelerate Capital Investment Decisions",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261102761566/en/KBRA-Assigns-Preliminary-Ratings-to-BX-2026-AIRC/",
+      "link": "https://www.businesswire.com/news/home/20261102370932/en/Halliburton-Introduces-Agile-Asset-Management-to-Accelerate-Capital-Investment-Decisions/",
       "published": null
     },
     {
-      "id": "stockanalysis:117987c5c07884a8",
-      "titleEn": "Distribution Solutions Group Appoints Shawn O'Neal as Chief Transformation Officer",
+      "id": "stockanalysis:925e583b889077eb",
+      "titleEn": "Xcel Energy Announces Pricing of Upsized Offering of $2,200,000,000 of 2.625% Convertible Senior Notes due 2027",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261102418207/en/Distribution-Solutions-Group-Appoints-Shawn-O%E2%80%99Neal-as-Chief-Transformation-Officer/",
+      "link": "https://www.businesswire.com/news/home/20261102330445/en/Xcel-Energy-Announces-Pricing-of-Upsized-Offering-of-2200000000-of-2.625-Convertible-Senior-Notes-due-2027/",
       "published": null
     },
     {
-      "id": "stockanalysis:0bd4158e16b20552",
-      "titleEn": "Hyatt Announces Pricing of Public Offering of Senior Notes",
+      "id": "stockanalysis:4de05110dcf4a9d1",
+      "titleEn": "Pershing Square Holdings Ltd. Releases Third Quarter 2026 Portfolio Review",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261102609170/en/Hyatt-Announces-Pricing-of-Public-Offering-of-Senior-Notes/",
+      "link": "https://www.businesswire.com/news/home/20261102070320/en/Pershing-Square-Holdings-Ltd.-Releases-Third-Quarter-2026-Portfolio-Review/",
       "published": null
     },
     {
-      "id": "stockanalysis:ed09d3320df34c4d",
-      "titleEn": "Empire State Realty Trust Announces Third Quarter 2026 Results",
+      "id": "stockanalysis:6b651aae2965a2ac",
+      "titleEn": "Pershing Square USA, Ltd. Releases Third Quarter 2026 Portfolio Review",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261102919508/en/Empire-State-Realty-Trust-Announces-Third-Quarter-2026-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a7c9f4956653592f",
-      "titleEn": "Agenus to Participate in Rodman &amp; Renshaw Virtual Fireside Chat",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261102477263/en/Agenus-to-Participate-in-Rodman-Renshaw-Virtual-Fireside-Chat/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a1f3d838a81d777b",
-      "titleEn": "SABA Announces Reauthorization of Share Repurchase Program",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261102820678/en/SABA-Announces-Reauthorization-of-Share-Repurchase-Program/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b28e89ca118dd610",
-      "titleEn": "BRW Announces Reauthorization of Share Repurchase Program",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261102397466/en/BRW-Announces-Reauthorization-of-Share-Repurchase-Program/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:955c3927d4842b7b",
-      "titleEn": "Otter Tail Corporation Announces Third Quarter Results and Affirms the Midpoint of Annual Earnings Guidance",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261102437867/en/Otter-Tail-Corporation-Announces-Third-Quarter-Results-and-Affirms-the-Midpoint-of-Annual-Earnings-Guidance/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:531a8faca7b4680d",
-      "titleEn": "Blackstone Life Sciences Announces $455 Million Collaboration to Co-Fund Development of Boston Scientific VITALYST™ Heart Pump for Patients with Cardiogenic Shock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261102366766/en/Blackstone-Life-Sciences-Announces-455-Million-Collaboration-to-Co-Fund-Development-of-Boston-Scientific-VITALYST%E2%84%A2-Heart-Pump-for-Patients-with-Cardiogenic-Shock/",
+      "link": "https://www.businesswire.com/news/home/20261102783202/en/Pershing-Square-USA-Ltd.-Releases-Third-Quarter-2026-Portfolio-Review/",
       "published": null
     }
   ]
