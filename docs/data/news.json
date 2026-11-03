@@ -1,8 +1,71 @@
 {
-  "generatedAt": "2026-11-02T18:36:02.012617Z",
+  "generatedAt": "2026-11-03T01:14:18.455135Z",
   "sourceCount": 1,
-  "count": 23,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:3c17b5fea7338b05",
+      "titleEn": "Palantir delivers blowout quarter - but there's a catch",
+      "summaryEn": "Buy Palantir (PLTR). The quarter shows corporate AI spending is translating into real revenue, and commercial revenue is now the biggest slice. The key is that management’s Q4 outlook still implies strong sequential growth, so the market’s “replenishment” worry can be answered if bookings catch up over the next few quarters. You’re buying the probability-weighted path where commercial deployments deepen and revenue keeps compounding. Key Risk: New US commercial contract signings stay weak for multiple quarters, so revenue growth is just converting older deals and the valuation can’t be supported. Sell Palantir (PLTR) if the next earnings cycle confirms the gap: US commercial revenue up sharply while new US commercial contract value remains near-flat. That pattern means customers are buying work already in motion, not expanding commitments. If guidance holds but bookings don’t, the stock rerates lower because the market stops believing in sustained growth.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/02/palantir-delivers-blowout-quarter-but-theres-a-catch/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f93f0c030a3a88e9",
+      "titleEn": "SpaceX stock rises as Musk explores Boost Mobile deal for wireless push",
+      "summaryEn": "Buy SpaceX (SPCX). The Boost Mobile/EchoStar path is a credible shortcut to a US wireless launch (MVNO or carrier buildout) that can turn Starlink’s huge user base into a mobile distribution engine. Upside is asymmetric because even partial access (spectrum/network deals) can accelerate “Starlink Mobile” and force incumbents to defend ARPU and churn. Key Risk: AT&T/T-Mobile block or delay transferring Boost’s network-leasing agreements, making SpaceX’s wireless timeline slip by years. Buy Crown Castle (CCI) and/or American Tower (AMT). If SpaceX pursues tower access or leases, it becomes a new high-quality tenant. The market already priced some of this (CCI down on the day despite prior run), so any confirmation of negotiations should re-rate tower demand expectations.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/11/02/spacex-stock-rises-as-musk-explores-boost-mobile-deal-for-wireless-push/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d25bfdc5625dc621",
+      "titleEn": "Marvell, Lumentum merge in $115 billion deal amid AI spending jitters",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: U.S. chipmaker Marvell Technology said Monday it will buy optical components maker Lumentum in a $115 billion all-stock deal, the latest bid for scale among AI infrastructure companies as investors increasingly question whether the industry's spending boom will pay off. The deal, among the largest technology mergers on record, comes days after a selloff that hammered shares of companies tied to artificial intelligence.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-11-marvell-lumentum-merge-billion-ai.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:00db6bda205c27e7",
+      "titleEn": "Anthropic says revenue surged 1,100% ahead of IPO",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Anthropic, one of the world's leading artificial intelligence companies, on Monday reported a more than 1,100% surge in quarterly revenue and nearly $900 billion in spending commitments as it counts down to its Wall Street listing later this month. The San Francisco-based company was founded in 2021 by former OpenAI researchers led by chief executive Dario Amodei and his sister Daniela, now its president, with AI safety as its focus.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-11-anthropic-revenue-surged-ipo.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:56c66a25848cbfbc",
+      "titleEn": "Snap settles US social media trial days after Meta",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Snap has settled what would have been another landmark trial over the alleged harms of social media, lawyers for the plaintiffs said Monday, just days after Meta reached its own settlement and two days before opening statements were due to begin in a Los Angeles courtroom. The case was to be the latest in a series of bellwether, or test, trials whose outcomes are expected to guide the resolution of hundreds of similar lawsuits across the United States.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-11-snap-social-media-trial-days.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0675231f31eaefaa",
+      "titleEn": "Meta delays new business terms after outcry over potential web scraping of news sites",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Meta said it was postponing the rollout of new terms for its business accounts after an outcry from media companies and open-web advocates who said the updated rules would allow the tech giant to scrape vast amounts of data and potentially build competing services. The new rules, originally scheduled to go into effect Oct. 30, authorize Meta to use automated software such as web scrapers and bots to \"index, cache, analyze, collect, retrieve, or crawl the domains, web pages, or URLs\" associated with a business account.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-11-meta-delays-business-terms-outcry.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f89b86deefded550",
+      "titleEn": "Rivian stock jumps 10%, here's why",
+      "summaryEn": "Buy Rivian Automotive (RIVN). UBS/Jefferies upgrades hinge on R2 ramp driving higher automotive gross margins and volume growth, with most 2028 units expected from R2. The stock just re-rated on improving demand signals; you want in before the market fully prices the margin inflection and the software/services upside (Autonomy+). Key Risk: R2 demand or production ramp disappoints, so margins don’t improve and Rivian burns cash longer than expected. Buy Rivian Automotive (RIVN) again, but specifically for the second catalyst: Autonomy+ as a Tesla Full Self-Driving competitor. The December Autonomy Day and early-2027 launch create a clear event path where any credible progress can re-rate the stock toward higher-margin software economics.",
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/11/02/rivian-stock-jumps-10-heres-why/",
+      "published": null
+    },
     {
       "id": "stockanalysis:c18bf3efb936c5ff",
       "titleEn": "Why is Amazon stock surging 4% today?",
@@ -13,201 +76,84 @@
       "published": null
     },
     {
-      "id": "stockanalysis:d962ec4a15772013",
-      "titleEn": "Alphabet stock rebounds as analysts defend AI investment and Cloud growth",
-      "summaryEn": "Buy Alphabet (NASDAQ: GOOGL). The stock is rebounding because analysts are defending the AI spend with concrete offsets: Google Cloud revenue up 103% YoY ($30.7B) and a $561B backlog, plus TPUs as the monetization bridge. Even with Search click pressure from AI Overviews, Street estimates are being trimmed but not the core thesis: Cloud + TPU profit power offsets Search softness over 2027–2028. Key Risk: Cloud growth slows materially or TPU demand disappoints, so AI capex keeps free cash flow negative longer than expected. Sell Alphabet (GOOGL) versus Microsoft (MSFT) on valuation and timing. The article flags Search click risk from AI Overviews through at least 1Q27, while Alphabet’s near-term free cash flow is already negative from AI capex. MSFT’s AI monetization is more diversified across Azure and enterprise contracts, so it should suffer less from Search-specific click dilution while Alphabet’s spend cycle is still ramping.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/02/alphabet-stock-rebounds-as-analysts-defend-ai-investment-and-cloud-growth/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e051c6379ac03a47",
-      "titleEn": "Apple earnings: what to expect from John Ternus' first report",
-      "summaryEn": "Buy AAPL into the earnings print. Setup: revenue +11% expected, iPhone revenue +15%, and services +~10% despite weakest profit growth from memory-chip costs. The market is already nervous about AI spend and new hardware; Ternus can re-anchor the story by emphasizing “good enough” AI that defends the iPhone ecosystem, plus holiday demand visibility from iPhone Duo supply still lagging (79-day waits). If guidance and commentary confirm services resilience and stable gross margin trajectory despite chip costs, the stock’s pre-earnings drop is likely overdone. Key Risk: Ternus guides to weaker iPhone Duo demand or longer-than-expected margin pressure from memory costs, forcing investors to price in a sustained profit slowdown. Sell AAPL only if management addresses iPhone Duo quality problems with signs of scaling risk. Setup: reports of cracks/lines on the inner fold are already in the narrative; if Apple signals higher replacement rates, slower ramp, or tighter supply than IDC expects, the foldable becomes a demand headwind right when price increases are testing consumers. That would hit both hardware sentiment and services attach rates tied to the installed base.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/02/apple-earnings-what-to-expect-from-john-ternus-first-report/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:410b0dcf3debb0b6",
-      "titleEn": "Tom Sosnoff: AMD, Nvidia, Micron stocks 'have not sold off enough'",
-      "summaryEn": "Buy NVDA, AMD, and MU only after they each show a further 25–35% drawdown from their recent highs (or clear breakdown + failed bounce). Sosnoff’s point: the AI leaders haven’t sold enough, so the market can look “recovered” while the real capitulation hasn’t happened. Entry after the next leg down targets the moment expectations reset, not the rebound moment that can be a trap. Key Risk: They don’t drop enough because AI demand stays strong and the stocks keep grinding higher, leaving you buying before valuation and sentiment reset. Buy INTC around $65–$66 only if it holds that level for multiple sessions (no quick reclaim-and-fail). Sosnoff flagged Intel as “potentially interesting” because the sharp drop likely moved expectations closer to reality, unlike NVDA/AMD/MU where the selloff is still insufficient.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/02/tom-sosnoff-amd-nvidia-micron-stocks-have-not-sold-off-enough/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:df027d96ce908880",
-      "titleEn": "Why is Oracle stock falling nearly 6% on Monday?",
-      "summaryEn": "Buy Oracle (ORCL). The selloff is driven by the headline $20B raise, but the company also guided to positive free cash flow in the second half of FY ending next May—meaning the market is likely overpricing near-term cash burn. If the bond/share mix is used to fund AI capex while stabilizing debt, ORCL can re-rate as execution clarity improves toward the 2030 targets. Key Risk: Oracle fails to turn capex into cash and free cash flow stays negative, forcing even more dilutive funding or expensive debt. Sell iShares iBoxx $ High Yield Corporate Bond ETF (HYG) or short a high-yield credit basket focused on tech/AI infrastructure. The article flags sector-wide financing stress (CoreWeave debt yields >15%, CDS at record levels) and rising scrutiny of funding needs. If capital markets tighten or AI infrastructure returns disappoint, credit spreads widen first—hurting high-yield more than equities.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/02/why-is-oracle-stock-falling-nearly-6-on-monday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1b507c4250a24d2d",
-      "titleEn": "Anthropic revenue surges 12 fold in Q3, with $895B in purchase commitments",
-      "summaryEn": "Buy ANT on listing. The news shows explosive demand: revenue up 12x in Q3 and ~$895B in purchase/lease commitments tied to AI compute. That combination signals real customer pull plus long-duration infrastructure contracts that can smooth revenue visibility even while losses are high. Key upside is operating leverage once compute spend scales with revenue. Key Risk: The commitments don’t translate into profitable usage—customers cancel/renegotiate and Anthropic keeps burning cash faster than revenue grows. Buy NVDA and/or AMD. Anthropic’s ~$895B compute commitments imply massive GPU/accelerator demand and sustained data-center buildouts across the AI stack. Second-order effect: even if Anthropic’s margins lag, the spend is largely infrastructure-linked, pulling forward orders for high-end accelerators, networking, and servers.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/02/anthropic-revenue-surges-12-fold-in-q3-with-895b-in-purchase-commitments/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:46d08c9f8e48b299",
-      "titleEn": "QQQ, DIA, and VOO outlooks: Top stock market news to watch this week",
-      "summaryEn": "Buy QQQ. The pullback is being driven by AI jitters and guidance/funding fears, but the catalyst calendar is heavy (hundreds of earnings) and Apple is positioned as the “AI spend-light” winner with strong free cash flow. If Apple and other mega-caps avoid major AI capex disappointments, QQQ should rebound quickly because it’s the most sensitive to AI sentiment. Key Risk: A fresh AI funding/capex shock (another major AI name guides down) that keeps investors de-risking tech for weeks. Sell DIA. The Dow is being dragged by the same AI risk-off tape, but it has less direct upside from “AI spend-light” winners and more exposure to rate sensitivity. With the Fed still hawkish, strong jobs data can push yields higher, which typically hurts broad cyclicals and industrials more than it helps them.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/02/qqq-dia-and-voo-outlooks-top-stock-market-news-to-watch-this-week/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:dcad83924e7888fd",
-      "titleEn": "Marvell to buy Lumentum in $115B deal: why are MRVL and LITE stocks falling?",
-      "summaryEn": "Buy Marvell (MRVL). The deal is stock-financed but strategically fixes Marvell’s biggest AI infrastructure gap: optical connectivity. Lumentum’s lasers + Marvell’s custom AI chips/networking lets MRVL sell “system-level” AI connectivity (processors + switches + optics) and defend against Broadcom’s broader stack. Nvidia’s prior investments in both names also validate the optical direction and reduce execution risk. Key thesis: AI data centers shift from copper to optical, and MRVL becomes the integrated supplier. Key Risk: Regulators block or delay the merger (US/China), forcing a breakup or major re-pricing of the deal. Sell Lumentum (LITE). Even with a 24% premium, the market is pricing execution and dilution risk: MRVL issues stock, LITE shareholders are exposed to deal timing/regulatory outcomes, and LITE is currently unprofitable on a trailing basis. If the merger drags, LITE’s fundamentals can deteriorate while MRVL’s stock becomes the “currency” that determines final value.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/02/marvell-to-buy-lumentum-in-115b-deal-why-are-mrvl-and-lite-stocks-falling/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:36a69f98410a0ad5",
-      "titleEn": "Palantir earnings preview: why 85% growth may not be enough",
-      "summaryEn": "Buy Palantir (PLTR) if Q3 shows (1) revenue growth near/above expectations, (2) US commercial contract value keeps rising (replenishment), and (3) operating margin holds up (no margin squeeze). The article’s point: a beat isn’t enough—only execution + pipeline + profit quality proves the growth trajectory can re-accelerate. This sets up upside if management raises full-year expectations again. Key Risk: Management guides to slower growth and contract replenishment disappoints, even if revenue beats. Sell Palantir (PLTR) if Q3 revenue beats but US commercial contract value stalls and margins weaken (operating margin down materially vs Q2). That’s the “beat without durability” setup the article warns about: investors get a short-term win, but the pipeline can’t support the next quarters, forcing multiple compression.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/11/02/palantir-earnings-preview-why-85-growth-may-not-be-enough/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b81d81846d7d0aea",
-      "titleEn": "Sam Altman courts UAE investors as OpenAI funding target reportedly shrinks",
-      "summaryEn": "OpenAI’s push for $20B+ and UAE data-center buildout increases demand for accelerated compute and networking. NVIDIA is the default picks-and-shovels supplier for AI training/inference stacks, and more hyperscale capacity means more GPU deployments and upgrades. Key Risk: AI capex slows sharply (or shifts to cheaper alternatives), cutting GPU orders and pricing power. Altman’s South Korea meetings centered on semiconductors and HBM. With Samsung HBM “sold out” for 2027 and SK hynix effectively spoken for through 2029, OpenAI-style scaling should tighten supply further and lift revenue visibility for SK hynix’s HBM and memory platforms.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/02/sam-altman-courts-uae-investors-as-openai-funding-target-reportedly-shrinks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fff5bf43deb5a6f6",
-      "titleEn": "Realty Income stock has lost momentum: will it rise or fall after its earnings?",
-      "summaryEn": "Buy Realty Income (O) only if it dips into ~$54 support and holds for a day or two. The article notes bond yields have already pulled back, which can quickly re-rate REITs. If occupancy remains strong and the data-center pivot looks credible, O can rebound from support even if the initial earnings reaction is choppy. Key Risk: Occupancy or leasing commentary disappoints (tenant churn rises or rent growth slows), and the stock breaks below ~$54, turning the bounce into a downtrend. Sell Realty Income (O) ahead of earnings. The stock is losing momentum (falling ADX) and has a rising wedge, which usually resolves with a pullback. Technicals point to a move toward ~$54 support. Earnings are the catalyst, but the market will punish any hint of weaker occupancy or slower rent growth in a still-rate-sensitive REIT.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/02/realty-income-stock-has-lost-momentum-will-it-rise-or-fall-after-its-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:586624587b292624",
-      "titleEn": "Nio stock price analysis: the plot thickens for this Tesla rival",
-      "summaryEn": "Buy BYD (1211.HK or BYDDY). While China is in a price war, BYD is still growing: last quarter revenue +14% and net profit up to 10.02B yuan. Its international mix (40% of sales) cushions domestic margin damage, and Europe expansion (Hungary plant) supports volume growth. Key Risk: BYD’s international growth slows or domestic price cuts intensify enough that profit growth turns negative. Sell short NIO (NIO). October deliveries fell to 34,246 and growth is clearly decelerating (Sept +7.75%, Q3 +25.4%). The stock is also technically weak (below all moving averages, RSI ~34.6), so rallies likely get sold. Expect earnings to confirm slowing demand and margin pressure from China’s price war.",
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/11/02/nio-stock-price-analysis-the-plot-thickens-for-this-tesla-rival/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:83beff17e9c64db7",
-      "titleEn": "Progress Trial Demonstrates Edwards TAVR Is Superior to Clinical Surveillance for Moderate AS Patients With At-Risk Features",
+      "id": "stockanalysis:e8818b35557f6f13",
+      "titleEn": "KBRA Assigns Preliminary Ratings to BX 2026-AIRC",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261102440960/en/Progress-Trial-Demonstrates-Edwards-TAVR-Is-Superior-to-Clinical-Surveillance-for-Moderate-AS-Patients-With-At-Risk-Features/",
+      "link": "https://www.businesswire.com/news/home/20261102761566/en/KBRA-Assigns-Preliminary-Ratings-to-BX-2026-AIRC/",
       "published": null
     },
     {
-      "id": "stockanalysis:9477de245a9f9329",
-      "titleEn": "Ryder Acquires Efficiency Enterprises; Expands East Coast Fleet Network",
+      "id": "stockanalysis:117987c5c07884a8",
+      "titleEn": "Distribution Solutions Group Appoints Shawn O'Neal as Chief Transformation Officer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261103373781/en/Ryder-Acquires-Efficiency-Enterprises-Expands-East-Coast-Fleet-Network/",
+      "link": "https://www.businesswire.com/news/home/20261102418207/en/Distribution-Solutions-Group-Appoints-Shawn-O%E2%80%99Neal-as-Chief-Transformation-Officer/",
       "published": null
     },
     {
-      "id": "stockanalysis:f821e383b9a860de",
-      "titleEn": "Utopai Studios Names Disney AI Strategy Leader Hans Ku as Chief Product Officer",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261031879593/en/Utopai-Studios-Names-Disney-AI-Strategy-Leader-Hans-Ku-as-Chief-Product-Officer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:136560d09167804e",
-      "titleEn": "CrowdStrike and Dell Technologies Announce Integrated AI Security for the Dell AI Factory with NVIDIA",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261102048231/en/CrowdStrike-and-Dell-Technologies-Announce-Integrated-AI-Security-for-the-Dell-AI-Factory-with-NVIDIA/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8bd6be0e514395c2",
-      "titleEn": "Interactive Brokers Group Reports Brokerage Metrics and Other Financial Information for October 2026, includes Reg.-NMS Execution Statistics",
+      "id": "stockanalysis:0bd4158e16b20552",
+      "titleEn": "Hyatt Announces Pricing of Public Offering of Senior Notes",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261102149155/en/Interactive-Brokers-Group-Reports-Brokerage-Metrics-and-Other-Financial-Information-for-October-2026-includes-Reg.-NMS-Execution-Statistics/",
+      "link": "https://www.businesswire.com/news/home/20261102609170/en/Hyatt-Announces-Pricing-of-Public-Offering-of-Senior-Notes/",
       "published": null
     },
     {
-      "id": "stockanalysis:0d6382711a2fe1b8",
-      "titleEn": "L3Harris Receives $121 Million in Orders to Support Army Command and Control",
+      "id": "stockanalysis:ed09d3320df34c4d",
+      "titleEn": "Empire State Realty Trust Announces Third Quarter 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261102123847/en/L3Harris-Receives-121-Million-in-Orders-to-Support-Army-Command-and-Control/",
+      "link": "https://www.businesswire.com/news/home/20261102919508/en/Empire-State-Realty-Trust-Announces-Third-Quarter-2026-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:72d31466406cc567",
-      "titleEn": "AT&amp;T and AST SpaceMobile: Engineering the Connected World, One Handoff at a Time",
+      "id": "stockanalysis:a7c9f4956653592f",
+      "titleEn": "Agenus to Participate in Rodman &amp; Renshaw Virtual Fireside Chat",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261102256625/en/ATT-and-AST-SpaceMobile-Engineering-the-Connected-World-One-Handoff-at-a-Time/",
+      "link": "https://www.businesswire.com/news/home/20261102477263/en/Agenus-to-Participate-in-Rodman-Renshaw-Virtual-Fireside-Chat/",
       "published": null
     },
     {
-      "id": "stockanalysis:be1730e83614076b",
-      "titleEn": "Galderma Announces Proposed Board Appointments and Chief Financial Officer Transition",
+      "id": "stockanalysis:a1f3d838a81d777b",
+      "titleEn": "SABA Announces Reauthorization of Share Repurchase Program",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261102255626/en/Galderma-Announces-Proposed-Board-Appointments-and-Chief-Financial-Officer-Transition/",
+      "link": "https://www.businesswire.com/news/home/20261102820678/en/SABA-Announces-Reauthorization-of-Share-Repurchase-Program/",
       "published": null
     },
     {
-      "id": "stockanalysis:e92b30b4a9b24009",
-      "titleEn": "Liberty All-Star® Equity Fund Declares Distribution",
+      "id": "stockanalysis:b28e89ca118dd610",
+      "titleEn": "BRW Announces Reauthorization of Share Repurchase Program",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261102802194/en/Liberty-All-Star%C2%AE-Equity-Fund-Declares-Distribution/",
+      "link": "https://www.businesswire.com/news/home/20261102397466/en/BRW-Announces-Reauthorization-of-Share-Repurchase-Program/",
       "published": null
     },
     {
-      "id": "stockanalysis:21e2ccb663f0200f",
-      "titleEn": "Liberty All-Star® Growth Fund, Inc. Declares Distribution",
+      "id": "stockanalysis:955c3927d4842b7b",
+      "titleEn": "Otter Tail Corporation Announces Third Quarter Results and Affirms the Midpoint of Annual Earnings Guidance",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261102569362/en/Liberty-All-Star%C2%AE-Growth-Fund-Inc.-Declares-Distribution/",
+      "link": "https://www.businesswire.com/news/home/20261102437867/en/Otter-Tail-Corporation-Announces-Third-Quarter-Results-and-Affirms-the-Midpoint-of-Annual-Earnings-Guidance/",
       "published": null
     },
     {
-      "id": "stockanalysis:39c98c95c2a0fd94",
-      "titleEn": "American Express, NBA and WNBA Expand Longstanding Partnership Globally",
+      "id": "stockanalysis:531a8faca7b4680d",
+      "titleEn": "Blackstone Life Sciences Announces $455 Million Collaboration to Co-Fund Development of Boston Scientific VITALYST™ Heart Pump for Patients with Cardiogenic Shock",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261102394876/en/American-Express-NBA-and-WNBA-Expand-Longstanding-Partnership-Globally/",
+      "link": "https://www.businesswire.com/news/home/20261102366766/en/Blackstone-Life-Sciences-Announces-455-Million-Collaboration-to-Co-Fund-Development-of-Boston-Scientific-VITALYST%E2%84%A2-Heart-Pump-for-Patients-with-Cardiogenic-Shock/",
       "published": null
     }
   ]
