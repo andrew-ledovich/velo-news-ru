@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-11-03T21:14:53.876061Z",
+  "generatedAt": "2026-11-04T01:22:45.064671Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:9614025205afcfef",
+      "titleEn": "Gold, silver decline as strong U.S. jobs data lifts yields on election day - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were lower in late U.S. trading Tuesday, as stronger-than-expected U.S. labor-market and factory orders data lifted Treasury yields and reinforced expectations for additional Federal Reserve tightening. Precious metals remained under pressure despite another decline in crude oil prices, while investors positioned for the U.S. midterm election results and assessed conflicting signals about negotiations to end the confrontation with Iran. At the time of writing, spot gold was trading near $3,924.10 an ounce, down $21.60, or 0.55%, while spot silver was trading near $49.450, down $1.076, or 2.13%, on the session. Tuesday&#x27;s U.S. economic reports pointed to renewed strength in labor demand and manufacturing orders, complicating expectations that the Federal Reserve could soon end its tightening cycle. September job openings increased to 7.523 million from an upwardly revised 7.190 million in August , exceeding expectations near 7.15 million and reaching their highest level since May. Hiring remained relatively stable, while layoffs declined to approximately 1.64 million and voluntary quits increased to 3.37 million. The improvement suggests that employers continue to seek workers despite elevated borrowing costs and uncertainty surrounding economic growth. The figures reinforced the argument that labor-market conditions remain sufficiently resilient to accommodate restrictive monetary policy. September factory orders also exceeded expectations, increasing 1.8% following an upwardly revised 0.3% gain in August. Economists had anticipated an increase of approximately 1.2%. Orders were 7.2% higher than a year earlier, supported by a 28.3% increase in civilian aircraft and parts bookings, while machinery orders advanced 1.5% and computers and electronic products orders gained 0.8%. Nondefense capital goods orders excluding aircraft, a measure of business equipment investment, increased 0.6%, slightly stronger than initially estimated. The results followed Monday&#x27;s October manufacturing purchasing managers&#x27; index of 55.5 , reinforcing the picture of continued factory expansion even as elevated input costs and financing conditions remain significant constraints.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-03/gold-silver-decline-strong-us-jobs-data-lifts-yields-election-day-kitco-pm",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c5c77afcfa0ab095",
+      "titleEn": "Apollo's Record AI Lending Begins to Rival Banking Giants",
+      "summaryEn": "Apollo Global ’s lending reportedly hit a record $114 billion during the quarter thanks to its AI funding efforts. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That figure marked a 50% increase over the private capital group’s second quarter lending, the Financial Times (FT) reported Tuesday (Nov. 3), as Apollo lent to artificial intelligence (AI) giants like Anthropic and Nvidia .",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apollos-record-ai-lending-begins-to-rival-banking-giants/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:37c0cd7c822953ae",
+      "titleEn": "Truist Debuts Enhancements For Merchant Services Solutions",
+      "summaryEn": "Truist has announced several new enhancements to its merchant services offerings. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); These enhancements cover how “businesses select solutions, onboard, access insights, manage payments and serve customers across multiple channels,” the bank said in a news release Tuesday (Nov. 3).",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/b2b-payments/2026/truist-debuts-enhancements-for-merchant-services-solutions/",
+      "published": null
+    },
     {
       "id": "stockanalysis:fb37138897ed4d7c",
       "titleEn": "Super Micro stock faces earnings test as options signal 12.5% move",
@@ -49,111 +76,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c04a378b9b97fc06",
-      "titleEn": "Mark Skousen told investors to sell gold in 1980, here's why he's cautious again",
-      "summaryEn": "The economist who was \"excommunicated\" from the New Orleans conference for his 1980 call says rising real rates work against metals, a December hike is \"a real possibility\" and he has moved into royalties and dividend stocks. NEW ORLEANS (Kitco News) - When the New Orleans Investment Conference opened in November 1980, the day after Ronald Reagan won the White House, the room full of gold bugs was skeptical. So was conference founder Jim Blanchard. Mark Skousen wasn&#x27;t. \"No, this is a revolution,\" the economist remembers telling them.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-03/mark-skousen-told-investors-sell-gold-1980-heres-why-hes-cautious-again",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5bd9ec5f3fe63de3",
-      "titleEn": "Why is Salesforce stock falling today?",
-      "summaryEn": "Buy CRM. The market is punishing the stock for acquisition spend, but Cresta directly strengthens voice AI for Service Cloud/Agentforce—an area customers pay for and churn on. Salesforce already guided revenue growth with acquisition contributions, so the next catalyst is execution: integrating Cresta and showing measurable call-resolution and cost-to-serve improvements. Key risk: Cresta’s voice agents fail to scale or integrate cleanly, so results don’t show up and investors keep treating acquisitions as value-destructive. Key Risk: Cresta integration and voice-agent performance don’t translate into measurable, scalable revenue or cost savings—so the stock keeps discounting acquisitions. Sell IGV (iShares Expanded Tech-Software Sector ETF). The article highlights “SaaSpocalypse” fears and investors questioning whether AI acquisitions will deliver returns across the whole sector. If the market is de-risking software broadly, single-name positives won’t stop multiple compression. Salesforce’s weakness is a tell that sentiment is still fragile. Key risk: AI adoption accelerates faster than expected and software multiples re-rate upward, lifting IGV despite acquisition concerns.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/03/why-is-salesforce-stock-falling-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e3384322c6f4299b",
-      "titleEn": "Why SpaceX shares are rising on Tuesday?",
-      "summaryEn": "Buy SPCX. The news is a credible path to monetize Starlink faster: Boost Mobile’s ~7.38M customers plus a quicker route into US wireless via leased AT&T/T-Mobile capacity, even if it’s not a full acquisition. That directly strengthens the Starlink Mobile rollout and adds a near-term revenue engine beyond launches/satellites. Upside is amplified by analyst targets ($250–$300) and momentum from AI/infrastructure risk-on. Key Risk: EchoStar/Boost deal collapses or can’t be approved/structured due to AT&T/T-Mobile contract transfer limits, leaving SpaceX with no usable terrestrial access. Buy SATS. If talks progress, EchoStar gets a valuation lift from strategic optionality: either a sale of Boost or a network-access arrangement that improves utilization and reduces reliance on leased capacity. The stock already moved on the headline; the next leg comes if investors believe the probability of a deal is rising.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/03/why-spacex-shares-are-rising-on-tuesday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ba85faea90463dae",
-      "titleEn": "Why is Bloom Energy stock rising 10% today?",
-      "summaryEn": "Buy BE. The stock jump is backed by a credible California partner (California Resources + Carbon TerraVault) and a clear target scale (at least 1 GW) for solid-oxide fuel cells paired with CO2 transport/storage. This turns “technology promise” into “project pipeline,” and Barclays’ Overweight/price target ($289) supports near-term sentiment while production capacity and deposits improve demand visibility. Key Risk: The MOU stays non-binding—no signed projects, no financing, and no construction starts—so the catalyst fades and the stock gives back gains. Buy CRC. Second-order effect: if the partnership advances, CRC’s carbon logistics/storage business becomes the bottleneck and the value capture. Even without owning the fuel cells, CRC is positioned to win CO2 transportation and underground storage contracts tied to the 1 GW buildout, improving utilization and cash flows.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/11/03/why-is-bloom-energy-stock-rising-10-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:000b2289045dfa6c",
-      "titleEn": "Snap stock enters a local bear market: will it rise or fall after earnings?",
-      "summaryEn": "Buy SNAP 1–2 week out-of-the-money puts (target strike ~$5 or ~$4.50). The stock is already in a local bear market and implied volatility is extreme (162%), with options skew showing heavy put interest at $4–$5. If earnings disappoint or guidance disappoints, SNAP can easily break toward the $5 area and overshoot on volatility. Key Risk: Snap beats expectations and raises guidance enough to push the stock above ~$6, crushing put demand and IV. Sell short SNAP shares (or use a tight risk put spread) for a continuation move after earnings. Technicals are bearish: below the 50-day EMA, below Supertrend, and below the ascending channel. Even with modest revenue growth, the “wrong-area” user weakness (US/Europe DAU down) can keep the market selling into any bounce.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/03/snap-stock-enters-a-local-bear-market-will-it-rise-or-fall-after-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:06c5c3463667867d",
-      "titleEn": "Nvidia up over 3%: what's driving Tuesday's rally?",
-      "summaryEn": "Buy NVDA. The stock is rebounding with the whole semiconductor complex, and the news reinforces real demand channels: Nvidia’s influence in Marvell’s Lumentum deal (optical networking/data-center connections) plus Anthropic’s capacity ramp (more training compute) and Samsung’s HBM buildout feeding Nvidia/AMD. This is not just hype—it's supply-chain capex translating into orders. Key Risk: AI capex slows fast enough that optical networking and HBM demand growth disappoints, forcing NVDA guidance down. Buy AMD. It’s leading the rebound ahead of earnings, and it benefits from the same second wave: more AI training capacity (Anthropic) and more HBM production (Samsung) that supports AMD’s accelerator/memory ecosystem. If NVDA’s supply-chain story is true, AMD should see parallel demand visibility.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/03/nvidia-up-over-3-whats-driving-tuesdays-rally/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3e75d4761d1a6027",
-      "titleEn": "Qualcomm stock loses crucial support as earnings loom: buy or sell the dip?",
-      "summaryEn": "Sell Qualcomm (QCOM) ahead of earnings because the news flow is still dominated by smartphone memory-driven demand weakness: handset revenue -20% last quarter, and analysts expect another sharp revenue and EPS drop. The chart also confirms breakdown (below $169 support, below 50-day MA), so any “good” guidance is likely to be judged against worsening handset conditions. Expect downside follow-through toward ~$150 if results don’t clearly re-accelerate handset demand. Key Risk: Earnings show a clear, near-term rebound in handset volumes or guidance that proves the memory shortage is easing faster than the market expects. Short the semiconductor handset-exposure basket (e.g., iShares Semiconductor ETF, SOXX, or a handset-focused peer like Samsung Electronics ADR, SSNLF) because the IDC/brand data points to broad smartphone weakness, not just Qualcomm. If memory prices stay high and smartphone shipments keep falling, the whole group’s earnings revisions can keep sliding even if some companies have data-center offsets.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/11/03/qualcomm-stock-loses-crucial-support-as-earnings-loom-buy-or-sell-the-dip/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9e0672855e98d0c0",
-      "titleEn": "Why are Micron, SK Hynix, and SanDisk stocks rising on Tuesday?",
-      "summaryEn": "Buy MU. Apple called memory pricing “unprecedented” and expects higher prices to persist beyond December, which supports Micron’s pricing power and margins. Add the demand/supply backdrop: memory manufacturers are “sold out into 2029,” and Micron has a strong earnings track record (beaten consensus 4 straight quarters) with fiscal 2027 EPS expected to surge. The stock’s recent sell-off created a valuation reset while the fundamental pricing/demand story strengthened. Key Risk: Memory prices stop rising (or quickly fall) because supply ramps faster than demand, crushing margin expectations. Buy SK Hynix. The same Apple pricing-power signal and AI-driven demand/supply tightness should flow through to Hynix, and the article notes investors rotated back into memory after the sell-off. Hynix is a core beneficiary of AI infrastructure buildouts, so if pricing stays firm, earnings leverage should follow.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/03/why-are-micron-sk-hynix-and-sandisk-stocks-rising-on-tuesday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3178d818f9fe3afd",
-      "titleEn": "Apple stock: BofA recommends fixating on long-term opportunity",
-      "summaryEn": "Buy Apple (AAPL). Earnings beat, but margin guidance fell short due to rising memory costs. The thesis: Apple’s pricing power plus its huge installed base will keep driving higher gross profit dollars once memory normalizes, and longer memory supply contracts reduce shortage risk. Near-term margin pressure is the “fuel price” effect—temporary cost drag that should fade while the higher device pricing persists across upgrade cycles. Key Risk: Memory costs keep rising longer than expected, so margins don’t recover and the higher pricing fails to offset the squeeze. Sell memory-cost sensitive consumer electronics exposure and rotate into AAPL: short an index/ETF heavy in hardware makers with weaker pricing power (e.g., iShares Semiconductor ETF (SOXX) or a broad tech hardware basket) and buy AAPL. The news highlights Apple’s ability to secure supply via longer contracts and pass through pricing better than peers; margin compression should hit weaker competitors harder.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/11/03/apple-stock-bofa-recommends-fixating-on-long-term-opportunity/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0174906af34cf0d5",
-      "titleEn": "Astera Labs stock crashed below a key support level: will it recover after earnings?",
-      "summaryEn": "Buy ALAB put spreads (e.g., buy puts around $220 and sell lower-strike puts) into earnings. Implied volatility is extreme (180% vs 83.6%), meaning the market is already pricing a big move; if the stock doesn’t rip higher, the skew favors puts. This targets a “priced-in pop fails” outcome where volatility crush and lack of upside follow the earnings headline. Key Risk: A clean upside surprise that lifts ALAB well above the $250 call concentration, making put spreads lose quickly. Sell short Astera Labs (ALAB). The stock broke bearish support ($244) and is below the 61.8% Fib and both the 50/100-day averages—technical momentum still points down. Even with strong growth expectations, the article flags that “strong earnings” hasn’t guaranteed a rally (SanDisk example) and AI-bubble fears can cap upside. Options also imply huge swings, so downside continuation into/after earnings is the higher-probability path if guidance isn’t perfect.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/03/astera-labs-stock-crashed-below-a-key-support-level-will-it-recover-after-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3d83694c058e110d",
-      "titleEn": "NorthStar Earth &amp; Space to Host Third Quarter Earnings Conference Call on November 12",
+      "id": "stockanalysis:e8c4e20911f256bd",
+      "titleEn": "Dream Industrial REIT Reports Strong Q3 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261103514993/en/NorthStar-Earth-Space-to-Host-Third-Quarter-Earnings-Conference-Call-on-November-12/",
+      "link": "https://www.businesswire.com/news/home/20261103438610/en/Dream-Industrial-REIT-Reports-Strong-Q3-2026-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:6f09da2f512cb55b",
-      "titleEn": "Bayer to Present New Cardiovascular, Kidney and Stroke Data at the 2026 American Heart Association (AHA) Scientific Sessions",
+      "id": "stockanalysis:3daa9c1e8af5700b",
+      "titleEn": "Fortitude Re Announces Closing of $3.8 Billion Long-Term Care Reinsurance Agreement with Unum Group",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261103288246/en/Bayer-to-Present-New-Cardiovascular-Kidney-and-Stroke-Data-at-the-2026-American-Heart-Association-AHA-Scientific-Sessions/",
+      "link": "https://www.businesswire.com/news/home/20261103913868/en/Fortitude-Re-Announces-Closing-of-3.8-Billion-Long-Term-Care-Reinsurance-Agreement-with-Unum-Group/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:22d3bd1f9649f0ad",
+      "titleEn": "Hecla Reports Third Quarter 2026 Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261103366765/en/Hecla-Reports-Third-Quarter-2026-Results/",
       "published": null
     }
   ]
