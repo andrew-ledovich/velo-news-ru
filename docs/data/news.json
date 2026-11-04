@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-11-04T01:22:45.064671Z",
+  "generatedAt": "2026-11-04T07:38:50.197895Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:e9dd72431e7b9fc5",
+      "titleEn": "Gold prices hit $4,000 as Democrats see electoral Sweep to gain control of Congress",
+      "summaryEn": "(Kitco News) - The gold market is seeing a healthy rally as the Democratic Party appears poised to take control of Congress following significant electoral gains in both the House and Senate. Spot gold is testing initial resistance at $4,000 an ounce, up nearly 2% on the session, as political pundits begin making their final calls on the 2026 midterm elections. As results continue to come in, analysts note that a Democratic sweep could lay the groundwork for higher gold prices through 2027. In an interview with Kitco News, Christopher Vecchio, Head of Futures and Forex Strategy at Tastylive, said that a Democratic sweep could create a favorable environment for gold heading into the new year, particularly if political uncertainty accelerates an economic slowdown.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-04/gold-prices-hit-4000-democrats-see-electoral-sweep-gain-control-congress",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5efd46f04452e98d",
+      "titleEn": "Dow Jones, Nasdaq 100, S&amp;P 500 futures tumble after Democratic sweep: what next?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/dow-jones-nasdaq-100-sp-500-futures-tumble-after-democratic-sweep-what-next/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4cc3903a680140d5",
+      "titleEn": "Tether trims gold reserves by 3 tons, but analysts remain bullish on long-term demand",
+      "summaryEn": "(Kitco News) - In just a few short years, digital gold has helped transform the physical marketplace; however, even this new segment hasn’t been immune to recent price volatility, as one of the world’s leading stablecoin issuers reported a decline in its holdings. Tether announced last week that its physical gold reserves declined in the third quarter. Despite the reduction, some analysts have said that it does not necessarily signal an end to the company&#x27;s aggressive accumulation of the precious metal. In a report published Tuesday, Jefferies analysts led by Fahad Tariq noted that Tether&#x27;s disclosed gold holdings fell by approximately three metric tons in the third quarter to 165 tons, down from 168 tons at the end of June. The decline follows the company&#x27;s purchase of roughly 14 tons of gold in the second quarter.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-03/tether-trims-gold-reserves-3-tons-analysts-remain-bullish-long-term-demand",
+      "published": null
+    },
     {
       "id": "stockanalysis:9614025205afcfef",
       "titleEn": "Gold, silver decline as strong U.S. jobs data lifts yields on election day - Kitco PM Report",
@@ -33,73 +60,91 @@
     {
       "id": "stockanalysis:fb37138897ed4d7c",
       "titleEn": "Super Micro stock faces earnings test as options signal 12.5% move",
-      "summaryEn": "Buy Super Micro Computer (SMCI) shares into the print. The setup is strong: pre-announced revenue guidance (18.5–19.5B) is already above prior expectations, and options positioning shows traders leaning calls (put/call volume 0.73; calls dominate open interest). If management confirms AI server demand and holds margins, the stock can re-rate quickly from a depressed level (36% below the 52-week high). Key Risk: Margins disappoint—pricing pressure and component costs squeeze profit even if revenue beats. Buy a call spread on SMCI for Nov 6 (e.g., buy the $33 call and sell the $36.50 call). Implied move is ~12.5% either way with very high implied volatility, so you want defined upside exposure that benefits if the stock pops but avoids paying for the full volatility premium.",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
+      "topic": "MACRO",
       "link": "https://invezz.com/news/2026/11/03/super-micro-stock-faces-earnings-test-as-options-signal-12-5-move/",
       "published": null
     },
     {
-      "id": "stockanalysis:adc24c6d79ced74b",
-      "titleEn": "Gold's October correction was overdone - Commerzbank",
-      "summaryEn": "(Kitco News) - The gold market is holding support above $3,900 an ounce after seeing its worst monthly performance since the start of the year and its worst October since 2008. Although prices continue to struggle, one bank sees last month&#x27;s sell-off as a potential buying opportunity, as the fundamental factors supporting higher prices remain firmly in place. In his latest precious metals commentary, Carsten Fritsch, Commodity Analyst at Commerzbank, said that gold&#x27;s recent weakness appears overdone, particularly as the precious metal has become disconnected from traditional market fundamentals. \"We consider the price decline in gold to be excessive and unwarranted. The arguments in favour of a rising gold price remain valid,\" he said.",
+      "id": "stockanalysis:6bd3e722630ffe39",
+      "titleEn": "The Estée Lauder Companies Announces Fiscal 2030 Ambition at Its Capital Markets Experience: China Ecosystem Immersion Event",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-03/golds-october-correction-was-overdone-commerzbank",
+      "link": "https://www.businesswire.com/news/home/20261103967530/en/The-Est%C3%A9e-Lauder-Companies-Announces-Fiscal-2030-Ambition-at-Its-Capital-Markets-Experience-China-Ecosystem-Immersion-Event/",
       "published": null
     },
     {
-      "id": "stockanalysis:67e0ba7b22bb3a50",
-      "titleEn": "Frank Giustra says ‘dozens of black swans' are waiting, here's why he won't sell his gold",
-      "summaryEn": "The Goldcorp founder, who was called “delusional” for buying gold in 2001, says central banks have put a floor under the price, the majors will be forced to buy juniors, and QE is coming back. NEW ORLEANS (Kitco News) - Frank Giustra has three conditions for selling his gold . “Give me world peace, honest politicians, and benevolent bankers,” the Goldcorp founder said. “If you can give me all three of those things, I will walk away from gold.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-03/frank-giustra-says-dozens-black-swans-are-waiting-heres-why-he-wont-sell",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:464152eedbd69ddd",
-      "titleEn": "Meta stock rises as $20B bond sale attracts strong investor demand",
-      "summaryEn": "Buy META (META) and buy its new issue/nearby high-grade tranches (e.g., 2056 maturity notes). The bond order book is ~4x, and demand is strong enough that pricing still tightened versus initial talk—proof investors will fund Meta despite AI cost fears. Equity should benefit from lower “funding stress” optics and continued access to cheap capital while AI spend ramps. Key Risk: AI spending fails to translate into faster revenue/operating profit, forcing another credit downgrade and widening bond spreads. Sell iShares iBoxx $ Investment Grade Corporate Bond ETF (LQD) and buy a tech-heavy IG credit basket (e.g., iShares iBoxx $ Investment Grade Corporate Bond ETF tech exposure via a tech IG credit ETF or long tech IG single-name bonds). The article says Big Tech’s yield premium is at the widest since 2003 and default-protection costs are near record levels—positioning is too pessimistic versus actual issuance demand (Meta/Oracle/Alphabet/Microsoft all tapping markets).",
+      "id": "stockanalysis:b173a6f5cb1ab658",
+      "titleEn": "FPT, Airbus' Skywise, and Vietnam Airlines Partner to Advance AI-Powered Airline Operations",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/03/meta-stock-rises-as-20b-bond-sale-attracts-strong-investor-demand/",
+      "link": "https://www.businesswire.com/news/home/20261103646801/en/FPT-Airbus%E2%80%99-Skywise-and-Vietnam-Airlines-Partner-to-Advance-AI-Powered-Airline-Operations/",
       "published": null
     },
     {
-      "id": "stockanalysis:4bf146dc0e6ea642",
-      "titleEn": "Gold demand remains near record highs as central bank buying surges 42% – WGC",
-      "summaryEn": "(Kitco News) - The gold market continues to face significant headwinds from higher interest rates and elevated bond yields, but investment demand and stronger-than-expected central bank purchases are expected to provide important support for the precious metal through the end of the year, according to the World Gold Council. In its latest Gold Demand Trends report published Tuesday, the World Gold Council (WGC) said that total global gold demand, including over-the-counter investment, fell 1% year-over-year to 1,369 tonnes in the third quarter. The analysts added that year-to-date demand currently stands at 3,881 tonnes, virtually matching the 2025 record. At the same time, although demand volumes have edged lower, the value of gold consumption reached a record $566 billion during the first nine months of the year. Looking ahead, the WGC said it expects investment demand to increase by approximately 200 tonnes in 2026 compared to last year. Although investment demand remains a critical driver for the precious metal, the updated forecast represents a downgrade from the organization&#x27;s previous estimate of 400 tonnes of annual growth.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-03/gold-demand-remains-near-record-highs-central-bank-buying-surges-42-wgc",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e8c4e20911f256bd",
-      "titleEn": "Dream Industrial REIT Reports Strong Q3 2026 Results",
+      "id": "stockanalysis:62405088cfb5315b",
+      "titleEn": "ATEC Investors Have Opportunity to Join Alphatec Holdings, Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261103438610/en/Dream-Industrial-REIT-Reports-Strong-Q3-2026-Results/",
+      "link": "https://www.businesswire.com/news/home/20261103129742/en/ATEC-Investors-Have-Opportunity-to-Join-Alphatec-Holdings-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
-      "id": "stockanalysis:3daa9c1e8af5700b",
-      "titleEn": "Fortitude Re Announces Closing of $3.8 Billion Long-Term Care Reinsurance Agreement with Unum Group",
+      "id": "stockanalysis:31402c082c3fa384",
+      "titleEn": "ZS Investors Have Opportunity to Join Zscaler, Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261103913868/en/Fortitude-Re-Announces-Closing-of-3.8-Billion-Long-Term-Care-Reinsurance-Agreement-with-Unum-Group/",
+      "link": "https://www.businesswire.com/news/home/20261103885287/en/ZS-Investors-Have-Opportunity-to-Join-Zscaler-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
-      "id": "stockanalysis:22d3bd1f9649f0ad",
-      "titleEn": "Hecla Reports Third Quarter 2026 Results",
+      "id": "stockanalysis:ec2f7319cadd89a3",
+      "titleEn": "SEVEN LICENSE, a Japan-Based IP Licensing Platform, Officially Launches",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261103366765/en/Hecla-Reports-Third-Quarter-2026-Results/",
+      "link": "https://www.businesswire.com/news/home/20261028042390/en/SEVEN-LICENSE-a-Japan-Based-IP-Licensing-Platform-Officially-Launches/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8156a15cfee71655",
+      "titleEn": "SCI Investors Have Opportunity to Join Service Corporation International Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261103674920/en/SCI-Investors-Have-Opportunity-to-Join-Service-Corporation-International-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ae556e873c5aca8c",
+      "titleEn": "CVR Energy Announces Pricing of Offering of Common Stock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261103504060/en/CVR-Energy-Announces-Pricing-of-Offering-of-Common-Stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2daf189ee29b32ef",
+      "titleEn": "Renesas Announces Leadership Changes to Strengthen Foundation for Growth",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261103887119/en/Renesas-Announces-Leadership-Changes-to-Strengthen-Foundation-for-Growth/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e86a702786426321",
+      "titleEn": "1Finity, a Fujitsu Company, Announces Availability of Full-Stack Enterprise AI-Native vRAN Solution",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261103243037/en/1Finity-a-Fujitsu-Company-Announces-Availability-of-Full-Stack-Enterprise-AI-Native-vRAN-Solution/",
       "published": null
     }
   ]
