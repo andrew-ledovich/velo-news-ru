@@ -1,8 +1,98 @@
 {
-  "generatedAt": "2026-11-04T15:44:37.192651Z",
+  "generatedAt": "2026-11-04T21:30:49.719560Z",
   "sourceCount": 1,
-  "count": 21,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:cc55c463acaa946c",
+      "titleEn": "IREN stock forms head &amp; shoulders as earnings loom: will it drop further?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/iren-stock-forms-head-shoulders-as-earnings-loom-will-it-drop-further/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:59e13fa100a176c5",
+      "titleEn": "Cloudflare stock: insiders sell, options market points to a drop after earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/cloudflare-stock-insiders-sell-options-market-points-to-a-drop-after-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:70bfdc3fae97db8b",
+      "titleEn": "Why is Nvidia stock falling while broader markets rally on Democratic midterm win?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/why-is-nvidia-stock-falling-while-broader-markets-rally-on-democratic-midterm-win/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ccb2c6e23a82d4aa",
+      "titleEn": "Adobe stock rises despite Citi downgrade as growth concerns persist",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/adobe-stock-rises-despite-citi-downgrade-as-growth-concerns-persist/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1037d98f1b0227e2",
+      "titleEn": "Is gold's recovery above $4,000 enough to fix a broken market? asks Michele Schneider",
+      "summaryEn": "(Kitco News) - After last week’s sharp selloff, the gold market has managed to reclaim the $4,000 level. While this is an important hurdle that needs to be cleared, one market strategist says the precious metal still has significant work to do to undo the recent technical damage. In an interview with Kitco News, Michele Schneider, Chief Market Strategist at MarketGauge, said that she is watching the $4,000 level carefully as it could provide an attractive entry point. However, she added that patience is required as she sees significant signs that the gold and silver markets have broken. Schneider, who has been a long-term gold bull, said that she currently holds no positions in either gold or silver. She explained that she took profits on her gold holdings in August and was subsequently stopped out of her remaining position. She has stayed on the sidelines ever since.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-04/golds-recovery-above-4000-enough-fix-broken-market-asks-michele-schneider",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d8769728faf42650",
+      "titleEn": "Why are Amazon, Microsoft stocks surging 6% today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/why-are-amazon-microsoft-stocks-surging-6-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8434901c56757cde",
+      "titleEn": "'This is that gift': why Lobo Tiggre is buying uranium as contract prices hit a record",
+      "summaryEn": "(Kitco News) - The Independent Speculator sold most of his gold and silver stocks early this year. Now he&#x27;s spending cash on uranium, and says he&#x27;ll \"lean heavy into silver\" when the time comes. NEW ORLEANS - Lobo Tiggre sold most of his gold and silver stocks early this year, when, he said, gold was about $1,500 an ounce higher than it is now. He has been sitting on a big pile of cash since. Now he&#x27;s spending some of it. Just not on gold. \"It turns out that the first opportunity since I sold this year, big opportunity, like clear, obvious buying opportunity, has been in uranium,\" Tiggre, founder of The Independent Speculator, told Kitco News on Oct. 29 at the New Orleans Investment Conference.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-04/gift-why-lobo-tiggre-buying-uranium-contract-prices-hit-record",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9766ac2aeb3b696a",
+      "titleEn": "Apple stock hit a new all-time high on Wednesday: what's fuelling the rally?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/apple-stock-hit-a-new-all-time-high-on-wednesday-whats-fuelling-the-rally/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ea601417b4f43ccc",
+      "titleEn": "Micron, SK Hynix, SanDisk stocks fall: why Dems' Texas win is spooking investors",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/micron-sk-hynix-sandisk-stocks-fall-why-dems-texas-win-is-spooking-investors/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8243308fbd6a16e3",
+      "titleEn": "Block stock jumps as earnings beat estimates and full-year outlook rises",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/block-stock-jumps-as-earnings-beat-estimates-and-full-year-outlook-rises/",
+      "published": null
+    },
     {
       "id": "stockanalysis:032a1fe1feb706d0",
       "titleEn": "Gold is being treated ‘like an AI stock, which it's not,' says Peter Boockvar",
@@ -31,165 +121,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:430f11e08a89fac3",
-      "titleEn": "SpaceX taps Qualcomm for Starlink Mobile: should investors pay attention?",
+      "id": "stockanalysis:3bf6aaae387c83d0",
+      "titleEn": "Exelon Seeks to Protect Customers from “Unreasonable Costs” in New FERC Complaint",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/spacex-taps-qualcomm-for-starlink-mobile-should-investors-pay-attention/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c4f13f93abaa9898",
-      "titleEn": "Oracle stock in green despite reported $7B Tencent chip deal cancellation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/oracle-stock-in-green-despite-reported-7b-tencent-chip-deal-cancellation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5d2dbb53f828b0b6",
-      "titleEn": "Plug Power stock is soaring after US midterms: will these gains hold?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/plug-power-stock-is-soaring-after-us-midterms-will-these-gains-hold/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:94b97a4fa1f0bd35",
-      "titleEn": "Gold and silver surge as Democratic midterm sweep drives dollar, yields lower - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were sharply higher in early U.S. trading Wednesday, as Democrats&#x27; sweeping victories in the U.S. midterm elections sent the dollar and Treasury yields lower, encouraging renewed buying interest in precious metals. The election results handed Democrats control of both the House of Representatives and Senate, raising expectations for legislative gridlock and potentially more restrained federal spending during the remainder of President Donald Trump&#x27;s term. Gold climbed back above $4,000.00 an ounce following October&#x27;s sharp correction, while silver recovered more strongly as lower yields and improved precious metals sentiment encouraged buying. At the time of writing, spot gold was trading near $4,041.30 an ounce, up $111.90, or 2.85%, while spot silver was trading near $51.910, up $2.237, or 4.50%, on the session. Tuesday&#x27;s U.S. midterm elections produced a decisive shift in the balance of power in Washington, with Democrats securing majorities in both chambers of Congress. Democrats gained at least seven Senate seats and 18 House seats, including victories in states that supported Trump in the 2024 presidential election. The results significantly reduce the administration&#x27;s ability to advance new fiscal, tax and regulatory legislation without congressional compromise, while raising the prospect of intensified oversight of federal spending and policies affecting artificial intelligence, energy and financial markets. However, majorities in Congress do not automatically translate into lower federal deficits, and any substantial change in the borrowing outlook will depend on the legislation ultimately enacted.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-11-04/gold-and-silver-surge-democratic-midterm-sweep-drives-dollar-yields-lower",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2a4fb73639a554ff",
-      "titleEn": "CoreWeave, IREN and Nebius crash: why Democrats' victory could hurt neoclouds",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/coreweave-iren-and-nebius-crash-why-democrats-victory-could-hurt-neoclouds/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a82aeffde957af54",
-      "titleEn": "Gold prices holding $4,000 as ADP says US economy created 86k jobs in October",
-      "summaryEn": "(Kitco News) - Gold prices are holding recent gains above $4,000 an ounce but could face renewed selling pressure as the U.S. labor market remains relatively healthy, with the economy creating more private-sector jobs than expected. ADP said Wednesday that 86,000 jobs were created in October, down from 90,000 jobs created in September. However, the data significantly beat expectations, as consensus estimates had forecast a gain of 67,000 jobs. The report noted that the labor market has shown solid growth for a second consecutive month, while pay gains have remained steady.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-04/gold-prices-holding-4000-adp-says-us-economy-created-86k-jobs-october",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:15c41d0404289219",
-      "titleEn": "DJT stock analysis: What comes next for Trump Media after the midterm elections?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/djt-stock-analysis-what-comes-next-for-trump-media-after-the-midterm-elections/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:371287d7493af4f3",
-      "titleEn": "SpaceX, Tesla stocks plunge as Democrats' win raises AI regulation, merger risks",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/04/spacex-tesla-stocks-plunge-as-democrats-win-raises-ai-regulation-merger-risks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6cf8dfcdd8d2bc50",
-      "titleEn": "McDonald's earnings hide a key story about consumer spending",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/mcdonalds-earnings-hide-a-key-story-about-consumer-spending/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1bc83c025ce219e1",
-      "titleEn": "Google expands employee buyouts to five more countries as AI spending soars: report",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/04/google-expands-employee-buyouts-to-five-more-countries-as-ai-spending-soars-report/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2fdae4d91452a295",
-      "titleEn": "US midterms: Musk, tech billionaires' billions fail to quell voter concerns over AI",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/04/us-midterms-musk-tech-billionaires-billions-fail-to-quell-voter-concerns-over-ai/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:10fc0db34cc06445",
-      "titleEn": "Duolingo stock is soaring after its earnings: will these gains hold?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/duolingo-stock-is-soaring-after-its-earnings-will-these-gains-hold/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:33c500335ae922e9",
-      "titleEn": "Forrester Unveils New Integration With Slack at Its Technology &amp; Innovation Forum East",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261104981941/en/Forrester-Unveils-New-Integration-With-Slack-at-Its-Technology-Innovation-Forum-East/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ce5f8be927dd5fe4",
-      "titleEn": "Dialpad and Ada Combining to Build the Agentic Operating System for Customer Work",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20261103930432/en/Dialpad-and-Ada-Combining-to-Build-the-Agentic-Operating-System-for-Customer-Work/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:269920ef3cf80881",
-      "titleEn": "DG Investors Have Opportunity to Join Dollar General Corporation Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261104738188/en/DG-Investors-Have-Opportunity-to-Join-Dollar-General-Corporation-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:db15be888e92646e",
-      "titleEn": "Amrize Expands ‘Made in Canada' Cement Label for Canadian Builders",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261104917392/en/Amrize-Expands-%E2%80%98Made-in-Canada%E2%80%99-Cement-Label-for-Canadian-Builders/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:228033953e3b42f9",
-      "titleEn": "The Hackett Group® Study Finds €1.26 Trillion Remains Trapped in Working Capital Across Europe's Largest Companies",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261104644794/en/The-Hackett-Group%C2%AE-Study-Finds-%E2%82%AC1.26-Trillion-Remains-Trapped-in-Working-Capital-Across-Europe%E2%80%99s-Largest-Companies/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cde151b26e69dcee",
-      "titleEn": "Tema Electrification ETF (VOLT) Exceeds $1 Billion AUM in Less than 2 Years",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20261104581824/en/Tema-Electrification-ETF-VOLT-Exceeds-1-Billion-AUM-in-Less-than-2-Years/",
+      "link": "https://www.businesswire.com/news/home/20261104652439/en/Exelon-Seeks-to-Protect-Customers-from-%E2%80%9CUnreasonable-Costs%E2%80%9D-in-New-FERC-Complaint/",
       "published": null
     }
   ]
