@@ -1,150 +1,195 @@
 {
-  "generatedAt": "2026-11-04T07:38:50.197895Z",
+  "generatedAt": "2026-11-04T15:44:37.192651Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 21,
   "items": [
     {
-      "id": "stockanalysis:e9dd72431e7b9fc5",
-      "titleEn": "Gold prices hit $4,000 as Democrats see electoral Sweep to gain control of Congress",
-      "summaryEn": "(Kitco News) - The gold market is seeing a healthy rally as the Democratic Party appears poised to take control of Congress following significant electoral gains in both the House and Senate. Spot gold is testing initial resistance at $4,000 an ounce, up nearly 2% on the session, as political pundits begin making their final calls on the 2026 midterm elections. As results continue to come in, analysts note that a Democratic sweep could lay the groundwork for higher gold prices through 2027. In an interview with Kitco News, Christopher Vecchio, Head of Futures and Forex Strategy at Tastylive, said that a Democratic sweep could create a favorable environment for gold heading into the new year, particularly if political uncertainty accelerates an economic slowdown.",
+      "id": "stockanalysis:032a1fe1feb706d0",
+      "titleEn": "Gold is being treated ‘like an AI stock, which it's not,' says Peter Boockvar",
+      "summaryEn": "The OnePoint BFG Wealth Partners CIO said gold ’s drop below $4,000 looked like forced selling. Days later, gold is back above $4,000 after the midterms, and he says investors shouldn’t count on the Fed to rescue the AI trade. NEW ORLEANS (Kitco News) - Gold fell more than $120 an ounce on Oct. 30 and broke below $4,000. To Peter Boockvar, it didn’t look like a broken thesis. It looked like a forced seller. “ Gold ’s not trading on its own fundamentals. There’s a forced seller out there, whether it’s margin-driven or whatever,” the chief investment officer at OnePoint BFG Wealth Partners told Kitco News at the New Orleans Investment Conference on Oct. 30.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-04/gold-prices-hit-4000-democrats-see-electoral-sweep-gain-control-congress",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-11-04/gold-being-treated-ai-stock-which-its-not-says-peter-boockvar",
       "published": null
     },
     {
-      "id": "stockanalysis:5efd46f04452e98d",
-      "titleEn": "Dow Jones, Nasdaq 100, S&amp;P 500 futures tumble after Democratic sweep: what next?",
+      "id": "stockanalysis:e706c1965fdcc360",
+      "titleEn": "These 3 are billionaires' favourite tech stocks",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/dow-jones-nasdaq-100-sp-500-futures-tumble-after-democratic-sweep-what-next/",
+      "link": "https://invezz.com/news/2026/11/04/these-3-are-billionaires-favourite-tech-stocks/",
       "published": null
     },
     {
-      "id": "stockanalysis:4cc3903a680140d5",
-      "titleEn": "Tether trims gold reserves by 3 tons, but analysts remain bullish on long-term demand",
-      "summaryEn": "(Kitco News) - In just a few short years, digital gold has helped transform the physical marketplace; however, even this new segment hasn’t been immune to recent price volatility, as one of the world’s leading stablecoin issuers reported a decline in its holdings. Tether announced last week that its physical gold reserves declined in the third quarter. Despite the reduction, some analysts have said that it does not necessarily signal an end to the company&#x27;s aggressive accumulation of the precious metal. In a report published Tuesday, Jefferies analysts led by Fahad Tariq noted that Tether&#x27;s disclosed gold holdings fell by approximately three metric tons in the third quarter to 165 tons, down from 168 tons at the end of June. The decline follows the company&#x27;s purchase of roughly 14 tons of gold in the second quarter.",
+      "id": "stockanalysis:741612cdf53afa2a",
+      "titleEn": "Gold holding firm as US ISM says Service Sector expands in October",
+      "summaryEn": "(Kitco News) - The gold market continues to hold critical support above $4,000 an ounce, but steady activity in the U.S. services sector highlights the ongoing challenges for the precious metal, as a resilient economy and persistent inflation give the Federal Reserve room to maintain its tightening bias. The Institute for Supply Management (ISM) announced Wednesday morning that its Services Purchasing Managers Index came in at 54.5 in October, down slightly from 54.9 in September. The data was modestly weaker than expected, as economists were looking for a roughly unchanged reading of 54.8. Although momentum in the services sector continues to slow, activity remains in expansion territory. Readings above 50 in such diffusion indexes signify economic growth, while readings below 50 indicate contraction. The farther an indicator is above or below 50, the greater the rate of expansion or contraction.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-04/gold-holding-firm-us-ism-says-service-sector-expands-october",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:430f11e08a89fac3",
+      "titleEn": "SpaceX taps Qualcomm for Starlink Mobile: should investors pay attention?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/spacex-taps-qualcomm-for-starlink-mobile-should-investors-pay-attention/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c4f13f93abaa9898",
+      "titleEn": "Oracle stock in green despite reported $7B Tencent chip deal cancellation",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/oracle-stock-in-green-despite-reported-7b-tencent-chip-deal-cancellation/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5d2dbb53f828b0b6",
+      "titleEn": "Plug Power stock is soaring after US midterms: will these gains hold?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/plug-power-stock-is-soaring-after-us-midterms-will-these-gains-hold/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:94b97a4fa1f0bd35",
+      "titleEn": "Gold and silver surge as Democratic midterm sweep drives dollar, yields lower - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were sharply higher in early U.S. trading Wednesday, as Democrats&#x27; sweeping victories in the U.S. midterm elections sent the dollar and Treasury yields lower, encouraging renewed buying interest in precious metals. The election results handed Democrats control of both the House of Representatives and Senate, raising expectations for legislative gridlock and potentially more restrained federal spending during the remainder of President Donald Trump&#x27;s term. Gold climbed back above $4,000.00 an ounce following October&#x27;s sharp correction, while silver recovered more strongly as lower yields and improved precious metals sentiment encouraged buying. At the time of writing, spot gold was trading near $4,041.30 an ounce, up $111.90, or 2.85%, while spot silver was trading near $51.910, up $2.237, or 4.50%, on the session. Tuesday&#x27;s U.S. midterm elections produced a decisive shift in the balance of power in Washington, with Democrats securing majorities in both chambers of Congress. Democrats gained at least seven Senate seats and 18 House seats, including victories in states that supported Trump in the 2024 presidential election. The results significantly reduce the administration&#x27;s ability to advance new fiscal, tax and regulatory legislation without congressional compromise, while raising the prospect of intensified oversight of federal spending and policies affecting artificial intelligence, energy and financial markets. However, majorities in Congress do not automatically translate into lower federal deficits, and any substantial change in the borrowing outlook will depend on the legislation ultimately enacted.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-11-04/gold-and-silver-surge-democratic-midterm-sweep-drives-dollar-yields-lower",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2a4fb73639a554ff",
+      "titleEn": "CoreWeave, IREN and Nebius crash: why Democrats' victory could hurt neoclouds",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/coreweave-iren-and-nebius-crash-why-democrats-victory-could-hurt-neoclouds/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a82aeffde957af54",
+      "titleEn": "Gold prices holding $4,000 as ADP says US economy created 86k jobs in October",
+      "summaryEn": "(Kitco News) - Gold prices are holding recent gains above $4,000 an ounce but could face renewed selling pressure as the U.S. labor market remains relatively healthy, with the economy creating more private-sector jobs than expected. ADP said Wednesday that 86,000 jobs were created in October, down from 90,000 jobs created in September. However, the data significantly beat expectations, as consensus estimates had forecast a gain of 67,000 jobs. The report noted that the labor market has shown solid growth for a second consecutive month, while pay gains have remained steady.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-04/gold-prices-holding-4000-adp-says-us-economy-created-86k-jobs-october",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:15c41d0404289219",
+      "titleEn": "DJT stock analysis: What comes next for Trump Media after the midterm elections?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/djt-stock-analysis-what-comes-next-for-trump-media-after-the-midterm-elections/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:371287d7493af4f3",
+      "titleEn": "SpaceX, Tesla stocks plunge as Democrats' win raises AI regulation, merger risks",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/04/spacex-tesla-stocks-plunge-as-democrats-win-raises-ai-regulation-merger-risks/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6cf8dfcdd8d2bc50",
+      "titleEn": "McDonald's earnings hide a key story about consumer spending",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/mcdonalds-earnings-hide-a-key-story-about-consumer-spending/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1bc83c025ce219e1",
+      "titleEn": "Google expands employee buyouts to five more countries as AI spending soars: report",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/04/google-expands-employee-buyouts-to-five-more-countries-as-ai-spending-soars-report/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2fdae4d91452a295",
+      "titleEn": "US midterms: Musk, tech billionaires' billions fail to quell voter concerns over AI",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/04/us-midterms-musk-tech-billionaires-billions-fail-to-quell-voter-concerns-over-ai/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:10fc0db34cc06445",
+      "titleEn": "Duolingo stock is soaring after its earnings: will these gains hold?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/duolingo-stock-is-soaring-after-its-earnings-will-these-gains-hold/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:33c500335ae922e9",
+      "titleEn": "Forrester Unveils New Integration With Slack at Its Technology &amp; Innovation Forum East",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261104981941/en/Forrester-Unveils-New-Integration-With-Slack-at-Its-Technology-Innovation-Forum-East/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ce5f8be927dd5fe4",
+      "titleEn": "Dialpad and Ada Combining to Build the Agentic Operating System for Customer Work",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-03/tether-trims-gold-reserves-3-tons-analysts-remain-bullish-long-term-demand",
+      "link": "https://www.businesswire.com/news/home/20261103930432/en/Dialpad-and-Ada-Combining-to-Build-the-Agentic-Operating-System-for-Customer-Work/",
       "published": null
     },
     {
-      "id": "stockanalysis:9614025205afcfef",
-      "titleEn": "Gold, silver decline as strong U.S. jobs data lifts yields on election day - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were lower in late U.S. trading Tuesday, as stronger-than-expected U.S. labor-market and factory orders data lifted Treasury yields and reinforced expectations for additional Federal Reserve tightening. Precious metals remained under pressure despite another decline in crude oil prices, while investors positioned for the U.S. midterm election results and assessed conflicting signals about negotiations to end the confrontation with Iran. At the time of writing, spot gold was trading near $3,924.10 an ounce, down $21.60, or 0.55%, while spot silver was trading near $49.450, down $1.076, or 2.13%, on the session. Tuesday&#x27;s U.S. economic reports pointed to renewed strength in labor demand and manufacturing orders, complicating expectations that the Federal Reserve could soon end its tightening cycle. September job openings increased to 7.523 million from an upwardly revised 7.190 million in August , exceeding expectations near 7.15 million and reaching their highest level since May. Hiring remained relatively stable, while layoffs declined to approximately 1.64 million and voluntary quits increased to 3.37 million. The improvement suggests that employers continue to seek workers despite elevated borrowing costs and uncertainty surrounding economic growth. The figures reinforced the argument that labor-market conditions remain sufficiently resilient to accommodate restrictive monetary policy. September factory orders also exceeded expectations, increasing 1.8% following an upwardly revised 0.3% gain in August. Economists had anticipated an increase of approximately 1.2%. Orders were 7.2% higher than a year earlier, supported by a 28.3% increase in civilian aircraft and parts bookings, while machinery orders advanced 1.5% and computers and electronic products orders gained 0.8%. Nondefense capital goods orders excluding aircraft, a measure of business equipment investment, increased 0.6%, slightly stronger than initially estimated. The results followed Monday&#x27;s October manufacturing purchasing managers&#x27; index of 55.5 , reinforcing the picture of continued factory expansion even as elevated input costs and financing conditions remain significant constraints.",
+      "id": "stockanalysis:269920ef3cf80881",
+      "titleEn": "DG Investors Have Opportunity to Join Dollar General Corporation Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261104738188/en/DG-Investors-Have-Opportunity-to-Join-Dollar-General-Corporation-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:db15be888e92646e",
+      "titleEn": "Amrize Expands ‘Made in Canada' Cement Label for Canadian Builders",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261104917392/en/Amrize-Expands-%E2%80%98Made-in-Canada%E2%80%99-Cement-Label-for-Canadian-Builders/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:228033953e3b42f9",
+      "titleEn": "The Hackett Group® Study Finds €1.26 Trillion Remains Trapped in Working Capital Across Europe's Largest Companies",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261104644794/en/The-Hackett-Group%C2%AE-Study-Finds-%E2%82%AC1.26-Trillion-Remains-Trapped-in-Working-Capital-Across-Europe%E2%80%99s-Largest-Companies/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cde151b26e69dcee",
+      "titleEn": "Tema Electrification ETF (VOLT) Exceeds $1 Billion AUM in Less than 2 Years",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-03/gold-silver-decline-strong-us-jobs-data-lifts-yields-election-day-kitco-pm",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c5c77afcfa0ab095",
-      "titleEn": "Apollo's Record AI Lending Begins to Rival Banking Giants",
-      "summaryEn": "Apollo Global ’s lending reportedly hit a record $114 billion during the quarter thanks to its AI funding efforts. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That figure marked a 50% increase over the private capital group’s second quarter lending, the Financial Times (FT) reported Tuesday (Nov. 3), as Apollo lent to artificial intelligence (AI) giants like Anthropic and Nvidia .",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apollos-record-ai-lending-begins-to-rival-banking-giants/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:37c0cd7c822953ae",
-      "titleEn": "Truist Debuts Enhancements For Merchant Services Solutions",
-      "summaryEn": "Truist has announced several new enhancements to its merchant services offerings. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); These enhancements cover how “businesses select solutions, onboard, access insights, manage payments and serve customers across multiple channels,” the bank said in a news release Tuesday (Nov. 3).",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/b2b-payments/2026/truist-debuts-enhancements-for-merchant-services-solutions/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fb37138897ed4d7c",
-      "titleEn": "Super Micro stock faces earnings test as options signal 12.5% move",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/03/super-micro-stock-faces-earnings-test-as-options-signal-12-5-move/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6bd3e722630ffe39",
-      "titleEn": "The Estée Lauder Companies Announces Fiscal 2030 Ambition at Its Capital Markets Experience: China Ecosystem Immersion Event",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261103967530/en/The-Est%C3%A9e-Lauder-Companies-Announces-Fiscal-2030-Ambition-at-Its-Capital-Markets-Experience-China-Ecosystem-Immersion-Event/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b173a6f5cb1ab658",
-      "titleEn": "FPT, Airbus' Skywise, and Vietnam Airlines Partner to Advance AI-Powered Airline Operations",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261103646801/en/FPT-Airbus%E2%80%99-Skywise-and-Vietnam-Airlines-Partner-to-Advance-AI-Powered-Airline-Operations/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:62405088cfb5315b",
-      "titleEn": "ATEC Investors Have Opportunity to Join Alphatec Holdings, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261103129742/en/ATEC-Investors-Have-Opportunity-to-Join-Alphatec-Holdings-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:31402c082c3fa384",
-      "titleEn": "ZS Investors Have Opportunity to Join Zscaler, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261103885287/en/ZS-Investors-Have-Opportunity-to-Join-Zscaler-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ec2f7319cadd89a3",
-      "titleEn": "SEVEN LICENSE, a Japan-Based IP Licensing Platform, Officially Launches",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261028042390/en/SEVEN-LICENSE-a-Japan-Based-IP-Licensing-Platform-Officially-Launches/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8156a15cfee71655",
-      "titleEn": "SCI Investors Have Opportunity to Join Service Corporation International Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261103674920/en/SCI-Investors-Have-Opportunity-to-Join-Service-Corporation-International-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ae556e873c5aca8c",
-      "titleEn": "CVR Energy Announces Pricing of Offering of Common Stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261103504060/en/CVR-Energy-Announces-Pricing-of-Offering-of-Common-Stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2daf189ee29b32ef",
-      "titleEn": "Renesas Announces Leadership Changes to Strengthen Foundation for Growth",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261103887119/en/Renesas-Announces-Leadership-Changes-to-Strengthen-Foundation-for-Growth/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e86a702786426321",
-      "titleEn": "1Finity, a Fujitsu Company, Announces Availability of Full-Stack Enterprise AI-Native vRAN Solution",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261103243037/en/1Finity-a-Fujitsu-Company-Announces-Availability-of-Full-Stack-Enterprise-AI-Native-vRAN-Solution/",
+      "link": "https://www.businesswire.com/news/home/20261104581824/en/Tema-Electrification-ETF-VOLT-Exceeds-1-Billion-AUM-in-Less-than-2-Years/",
       "published": null
     }
   ]
