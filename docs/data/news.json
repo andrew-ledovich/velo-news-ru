@@ -1,87 +1,60 @@
 {
-  "generatedAt": "2026-11-05T16:49:13.292394Z",
+  "generatedAt": "2026-11-05T22:25:54.746070Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 6,
   "items": [
     {
-      "id": "stockanalysis:0524dcb20e5b776e",
-      "titleEn": "Arm stock falls 12% as weak smartphone royalties offset AI data centre growth",
+      "id": "stockanalysis:a8332772feb11c93",
+      "titleEn": "World Bank sees gold holding above $4,000 through 2028, but warns silver faces steeper correction",
+      "summaryEn": "(Kitco News) - Gold and silver prices are expected to remain historically elevated through 2027, but investors should not expect a repeat of the explosive gains and volatility that defined 2026, according to the latest report from the World Bank. In its October Commodity Markets Outlook, analysts at the World Bank forecast gold prices to average $4,600 an ounce this year, a 33.6% increase from 2025. However, the bank expects prices to fall 7.6% to an average of $4,250 an ounce in 2027, followed by a further 5.9% decline to $4,000 in 2028. The outlook is slightly more bearish than the bank&#x27;s April forecast, which projected gold prices averaging $4,700 this year and $4,300 in 2027.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-05/world-bank-sees-gold-holding-above-4000-through-2028-warns-silver-faces",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:023ffdfc66eb5cf2",
+      "titleEn": "Nvidia stock plunges 8% as AI spending fears and financing risks mount",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/05/arm-stock-falls-12-as-weak-smartphone-royalties-offset-ai-data-centre-growth/",
+      "link": "https://invezz.com/news/2026/11/05/nvidia-stock-plunges-8-as-ai-spending-fears-and-financing-risks-mount/",
       "published": null
     },
     {
-      "id": "stockanalysis:93a7600ca169548f",
-      "titleEn": "Joby stock is soaring: bulls may be ignoring red flags",
+      "id": "stockanalysis:01fb467c23e105cc",
+      "titleEn": "Intel and AMD stocks fall as tech selloff deepens; analysts assess outlook",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/05/joby-stock-is-soaring-bulls-may-be-ignoring-red-flags/",
+      "link": "https://invezz.com/news/2026/11/05/intel-and-amd-stocks-fall-as-tech-selloff-deepens-analysts-assess-outlook/",
       "published": null
     },
     {
-      "id": "stockanalysis:c1e952ca73943200",
-      "titleEn": "Wendy's 'no' to Peltz may be a bigger gamble than investors realize",
-      "summaryEn": null,
+      "id": "stockanalysis:df9b9086fed84f43",
+      "titleEn": "Palo Alto Eyes $500 Million Purchase of Clutch Security",
+      "summaryEn": "Palo Alto Networks is reportedly in talks to acquire Clutch Security for around $500 million. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The deal would mark the cybersecurity firm’s fifth acquisition this year, according to a Wednesday (Nov. 4) report by The Information citing sources familiar with the matter.",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/05/wendys-no-to-peltz-may-be-a-bigger-gamble-than-investors-realize/",
+      "link": "https://www.pymnts.com/news/acquiring/2026/palo-alto-eyes-500-million-purchase-of-clutch-security/",
       "published": null
     },
     {
-      "id": "stockanalysis:a225556494da6bcc",
-      "titleEn": "Gold climbs above $4,100 as falling yields, softer labor costs support bullion - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were higher in early U.S. trading Thursday, extending Wednesday&#x27;s sharp gains as lower Treasury yields and a softer U.S. dollar continued to support precious metals following Democrats&#x27; sweeping victories in the U.S. midterm elections. Fresh economic data showing stronger productivity growth and declining unit labor costs provided additional relief from inflation concerns, although resilient employment conditions and expectations for another Federal Reserve interest rate increase in December continued to limit the bullish implications for bullion. At the latest verified morning price reading, spot gold was trading near $4,119.50 an ounce, up $60.30, or 1.49%, while spot silver was trading near $52.390, up $0.294, or 0.56%. Gold had earlier reached $4,146.63, its highest level since Oct. 20, extending its recovery from October&#x27;s steep correction. Thursday&#x27;s U.S. economic reports provided fresh evidence of improving labor productivity and moderating cost pressure, alongside continued resilience in the employment market. Nonfarm business productivity increased at a seasonally adjusted annualized rate of 3.6% in the third quarter, accelerating from an upwardly revised 2.1% in the second quarter. Output increased 3.7%, while hours worked advanced just 0.1%. Unit labor costs declined at a 0.7% annualized rate, reversing the previous quarter&#x27;s revised 1.9% increase, as productivity growth outpaced the 2.9% increase in hourly compensation. The decline in unit labor costs suggests that improving efficiency is helping businesses absorb wage increases without placing equivalent upward pressure on prices, although the relationship between productivity and consumer inflation is not immediate.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-05/gold-climbs-above-4100-falling-yields-softer-labor-costs-support-bullion",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:781574b61ecc85d7",
-      "titleEn": "gold prices holding above $4,100 as weekly jobless claims rise by 189k",
-      "summaryEn": "(Kitco News) - Gold prices are holding initial support above $4,100 an ounce, but downside risks appear to be growing as positive momentum in the U.S. labor market picks up, with the number of American workers applying for first-time unemployment benefits dropping sharply last week. Initial claims for state unemployment benefits fell by 6,000 to a seasonally adjusted 189,000 for the week ending October 31, the Labor Department announced Thursday. The data was better than expected, as consensus estimates had called for a rise to 197,000. The gold market is not seeing any significant reaction to the solid labor market data, but prices remain off their session highs. Spot gold last traded at $4,120.60 an ounce, up 1.5% on the day.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-05/gold-prices-holding-above-4100-weekly-jobless-claims-rise-189k",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f4d8d91f1e26edd3",
-      "titleEn": "Snap stock falls 10% as revenue and user growth miss estimates",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/05/snap-stock-falls-10-as-revenue-and-user-growth-miss-estimates/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a5e5a4b11fbd2f14",
-      "titleEn": "AI stocks could benefit from Democrats' data center pushback",
+      "id": "stockanalysis:d9b78c55aac97226",
+      "titleEn": "AppLovin earnings show AI advertising is still in early innings",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/05/ai-stocks-could-benefit-from-democrats-data-center-pushback/",
+      "link": "https://invezz.com/news/2026/11/05/applovin-earnings-show-ai-advertising-is-still-in-early-innings/",
       "published": null
     },
     {
-      "id": "stockanalysis:573a6d5af9c651ae",
-      "titleEn": "Gold market holding solid gains even as BoE raises interest rates due to rising inflation",
-      "summaryEn": "(Kitco News) - Persistent inflation pressures continue to take their toll on the gold market as central banks are forced to adopt hawkish monetary policies, with the Bank of England being the latest example. On Thursday, in a widely anticipated move, the Bank of England raised its Bank Rate by 0.25 percentage points to 4%. The central bank also projects inflation will move higher next year. “The conflict in the Middle East is now in its ninth month. Global energy prices have continued to rise from an already elevated level. UK CPI inflation increased to 3.5% in September. It is now expected to rise to around 5% by the middle of next year. It is then projected to fall as the impact of rising energy prices on 12-month inflation rates fades, and still restrictive monetary policy bears down on inflation,” the central bank said.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-05/gold-market-holding-solid-gains-even-boe-raises-interest-rates-due-rising",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8f72d46534ea94e8",
-      "titleEn": "New Research from Abnormal AI Finds Nearly Half of Security Teams Say They Can't Tell What Normal Behavior Looks Like for AI Agents",
+      "id": "stockanalysis:d0a8b75985bfe2ca",
+      "titleEn": "Pembina Pipeline Reports Results for the Third Quarter of 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261105792265/en/New-Research-from-Abnormal-AI-Finds-Nearly-Half-of-Security-Teams-Say-They-Can%E2%80%99t-Tell-What-Normal-Behavior-Looks-Like-for-AI-Agents/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261105329713/en/Pembina-Pipeline-Reports-Results-for-the-Third-Quarter-of-2026/",
       "published": null
     }
   ]
