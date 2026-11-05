@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-11-04T21:30:49.719560Z",
+  "generatedAt": "2026-11-05T01:46:54.904728Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:eacf5dfa7db0bb43",
+      "titleEn": "Gold climbs above $4,000, Wall Street rallies as Dems take Congress - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were sharply higher in late U.S. trading Wednesday, as Democrats&#x27; sweeping victories in the U.S. midterm elections sent the dollar, Treasury yields and crude oil prices lower, encouraging renewed buying interest in precious metals. The election results handed Democrats control of both chambers of Congress, raising expectations for legislative gridlock and potentially more restrained fiscal spending during the remainder of President Donald Trump&#x27;s term. Hopes for renewed negotiations between Washington and Tehran also helped reduce the geopolitical risk premium in energy markets, providing additional relief from inflation concerns. At the latest verified afternoon quotation, spot gold was trading near $4,065.90 an ounce, up $136.50, or 3.47%, while spot silver was trading near $52.280, up $2.608, or 5.25%, on the session. Both metals recovered strongly from October&#x27;s steep losses, with silver outperforming gold as lower borrowing costs and a weaker dollar supported precious metals. Tuesday&#x27;s U.S. midterm elections produced a decisive shift in the balance of power in Washington, with Democrats winning control of both the House of Representatives and Senate. The victories ended Republican control of Congress and raised expectations that the administration will face substantial obstacles in advancing additional tax reductions, fiscal spending initiatives and legislation affecting energy, technology and financial markets. Investors interpreted the outcome as potentially restraining future fiscal expansion and federal borrowing requirements, although substantial budget deficits and existing spending commitments remain important constraints. The results also increase the likelihood of congressional scrutiny of artificial intelligence investment, federal energy policy and U.S. military operations involving Iran. However, the extent of any policy changes will depend on negotiations between Congress and the White House, and the election outcome does not directly alter Federal Reserve monetary policy.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-11-04/gold-climbs-above-4000-wall-street-rallies-dems-take-congress-kitco-pm",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:47ca99269ea39323",
+      "titleEn": "Why Qualcomm investors aren't celebrating the Q4 earnings beat",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/why-qualcomm-investors-arent-celebrating-the-q4-earnings-beat/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b3671a7075c95791",
+      "titleEn": "SanDisk stock is a bargain ahead of its split, but is it a good buy?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/sandisk-stock-is-a-bargain-ahead-of-its-split-but-is-it-a-good-buy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:63d8d00738f9fa6b",
+      "titleEn": "Anthropic Develops Tools to Confirm AI Models' Identities",
+      "summaryEn": "Anthropic says it is developing a way to verify which AI model offered a given output. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The artificial intelligence (AI) startup’s FlashProve system is designed to deliver what is known as “provable inference,” which allows users to confirm that responses came from a specific AI model, according to a Tuesday (Nov. 3) Anthropic blog post .",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-develops-tools-to-confirm-ai-models-identities/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0bbd6a6d6275d8a4",
+      "titleEn": "Novo Nordisk stock jumps as Wegovy pill sales beat estimates",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/04/novo-nordisk-stock-jumps-as-wegovy-pill-sales-beat-estimates/",
+      "published": null
+    },
     {
       "id": "stockanalysis:cc55c463acaa946c",
       "titleEn": "IREN stock forms head &amp; shoulders as earnings loom: will it drop further?",
@@ -31,102 +76,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ccb2c6e23a82d4aa",
-      "titleEn": "Adobe stock rises despite Citi downgrade as growth concerns persist",
+      "id": "stockanalysis:d933b176075d40dd",
+      "titleEn": "Cameco Reports Document Filing",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/adobe-stock-rises-despite-citi-downgrade-as-growth-concerns-persist/",
+      "link": "https://www.businesswire.com/news/home/20261104597927/en/Cameco-Reports-Document-Filing/",
       "published": null
     },
     {
-      "id": "stockanalysis:1037d98f1b0227e2",
-      "titleEn": "Is gold's recovery above $4,000 enough to fix a broken market? asks Michele Schneider",
-      "summaryEn": "(Kitco News) - After last week’s sharp selloff, the gold market has managed to reclaim the $4,000 level. While this is an important hurdle that needs to be cleared, one market strategist says the precious metal still has significant work to do to undo the recent technical damage. In an interview with Kitco News, Michele Schneider, Chief Market Strategist at MarketGauge, said that she is watching the $4,000 level carefully as it could provide an attractive entry point. However, she added that patience is required as she sees significant signs that the gold and silver markets have broken. Schneider, who has been a long-term gold bull, said that she currently holds no positions in either gold or silver. She explained that she took profits on her gold holdings in August and was subsequently stopped out of her remaining position. She has stayed on the sidelines ever since.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-04/golds-recovery-above-4000-enough-fix-broken-market-asks-michele-schneider",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d8769728faf42650",
-      "titleEn": "Why are Amazon, Microsoft stocks surging 6% today?",
+      "id": "stockanalysis:6f6e1b88cf397cc4",
+      "titleEn": "BuzzFeed, Inc. Reports Q3 2026 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/why-are-amazon-microsoft-stocks-surging-6-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8434901c56757cde",
-      "titleEn": "'This is that gift': why Lobo Tiggre is buying uranium as contract prices hit a record",
-      "summaryEn": "(Kitco News) - The Independent Speculator sold most of his gold and silver stocks early this year. Now he&#x27;s spending cash on uranium, and says he&#x27;ll \"lean heavy into silver\" when the time comes. NEW ORLEANS - Lobo Tiggre sold most of his gold and silver stocks early this year, when, he said, gold was about $1,500 an ounce higher than it is now. He has been sitting on a big pile of cash since. Now he&#x27;s spending some of it. Just not on gold. \"It turns out that the first opportunity since I sold this year, big opportunity, like clear, obvious buying opportunity, has been in uranium,\" Tiggre, founder of The Independent Speculator, told Kitco News on Oct. 29 at the New Orleans Investment Conference.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-04/gift-why-lobo-tiggre-buying-uranium-contract-prices-hit-record",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9766ac2aeb3b696a",
-      "titleEn": "Apple stock hit a new all-time high on Wednesday: what's fuelling the rally?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/apple-stock-hit-a-new-all-time-high-on-wednesday-whats-fuelling-the-rally/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ea601417b4f43ccc",
-      "titleEn": "Micron, SK Hynix, SanDisk stocks fall: why Dems' Texas win is spooking investors",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/micron-sk-hynix-sandisk-stocks-fall-why-dems-texas-win-is-spooking-investors/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8243308fbd6a16e3",
-      "titleEn": "Block stock jumps as earnings beat estimates and full-year outlook rises",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/block-stock-jumps-as-earnings-beat-estimates-and-full-year-outlook-rises/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:032a1fe1feb706d0",
-      "titleEn": "Gold is being treated ‘like an AI stock, which it's not,' says Peter Boockvar",
-      "summaryEn": "The OnePoint BFG Wealth Partners CIO said gold ’s drop below $4,000 looked like forced selling. Days later, gold is back above $4,000 after the midterms, and he says investors shouldn’t count on the Fed to rescue the AI trade. NEW ORLEANS (Kitco News) - Gold fell more than $120 an ounce on Oct. 30 and broke below $4,000. To Peter Boockvar, it didn’t look like a broken thesis. It looked like a forced seller. “ Gold ’s not trading on its own fundamentals. There’s a forced seller out there, whether it’s margin-driven or whatever,” the chief investment officer at OnePoint BFG Wealth Partners told Kitco News at the New Orleans Investment Conference on Oct. 30.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-11-04/gold-being-treated-ai-stock-which-its-not-says-peter-boockvar",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e706c1965fdcc360",
-      "titleEn": "These 3 are billionaires' favourite tech stocks",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/these-3-are-billionaires-favourite-tech-stocks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:741612cdf53afa2a",
-      "titleEn": "Gold holding firm as US ISM says Service Sector expands in October",
-      "summaryEn": "(Kitco News) - The gold market continues to hold critical support above $4,000 an ounce, but steady activity in the U.S. services sector highlights the ongoing challenges for the precious metal, as a resilient economy and persistent inflation give the Federal Reserve room to maintain its tightening bias. The Institute for Supply Management (ISM) announced Wednesday morning that its Services Purchasing Managers Index came in at 54.5 in October, down slightly from 54.9 in September. The data was modestly weaker than expected, as economists were looking for a roughly unchanged reading of 54.8. Although momentum in the services sector continues to slow, activity remains in expansion territory. Readings above 50 in such diffusion indexes signify economic growth, while readings below 50 indicate contraction. The farther an indicator is above or below 50, the greater the rate of expansion or contraction.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-04/gold-holding-firm-us-ism-says-service-sector-expands-october",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3bf6aaae387c83d0",
-      "titleEn": "Exelon Seeks to Protect Customers from “Unreasonable Costs” in New FERC Complaint",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261104652439/en/Exelon-Seeks-to-Protect-Customers-from-%E2%80%9CUnreasonable-Costs%E2%80%9D-in-New-FERC-Complaint/",
+      "link": "https://www.businesswire.com/news/home/20261103446398/en/BuzzFeed-Inc.-Reports-Q3-2026-Financial-Results/",
       "published": null
     }
   ]
