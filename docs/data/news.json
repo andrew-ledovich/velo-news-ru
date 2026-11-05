@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-11-05T01:46:54.904728Z",
+  "generatedAt": "2026-11-05T08:40:47.827839Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 8,
   "items": [
+    {
+      "id": "stockanalysis:746349fdaf223151",
+      "titleEn": "Why Samsung and SK Hynix shares declined heavily on Thursday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/05/why-samsung-and-sk-hynix-shares-declined-heavily-on-thursday/",
+      "published": null
+    },
     {
       "id": "stockanalysis:eacf5dfa7db0bb43",
       "titleEn": "Gold climbs above $4,000, Wall Street rallies as Dems take Congress - Kitco PM Report",
@@ -22,75 +31,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:b3671a7075c95791",
-      "titleEn": "SanDisk stock is a bargain ahead of its split, but is it a good buy?",
+      "id": "stockanalysis:629df8e3176e1be7",
+      "titleEn": "UMC Reports Sales for October 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/sandisk-stock-is-a-bargain-ahead-of-its-split-but-is-it-a-good-buy/",
+      "link": "https://www.businesswire.com/news/home/20261104085640/en/UMC-Reports-Sales-for-October-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:63d8d00738f9fa6b",
-      "titleEn": "Anthropic Develops Tools to Confirm AI Models' Identities",
-      "summaryEn": "Anthropic says it is developing a way to verify which AI model offered a given output. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The artificial intelligence (AI) startup’s FlashProve system is designed to deliver what is known as “provable inference,” which allows users to confirm that responses came from a specific AI model, according to a Tuesday (Nov. 3) Anthropic blog post .",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-develops-tools-to-confirm-ai-models-identities/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0bbd6a6d6275d8a4",
-      "titleEn": "Novo Nordisk stock jumps as Wegovy pill sales beat estimates",
+      "id": "stockanalysis:24f8576d6b66e77c",
+      "titleEn": "Experian and Vanquis Sign New Strategic Partnership to Improve Eligibility, Strengthen Fraud Prevention and Deliver Better Customer Outcomes",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/novo-nordisk-stock-jumps-as-wegovy-pill-sales-beat-estimates/",
+      "link": "https://www.businesswire.com/news/home/20261104256684/en/Experian-and-Vanquis-Sign-New-Strategic-Partnership-to-Improve-Eligibility-Strengthen-Fraud-Prevention-and-Deliver-Better-Customer-Outcomes/",
       "published": null
     },
     {
-      "id": "stockanalysis:cc55c463acaa946c",
-      "titleEn": "IREN stock forms head &amp; shoulders as earnings loom: will it drop further?",
+      "id": "stockanalysis:396d2370fac3e540",
+      "titleEn": "Avolon Q3 Net Income Increases 43%",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/iren-stock-forms-head-shoulders-as-earnings-loom-will-it-drop-further/",
+      "link": "https://www.businesswire.com/news/home/20261104798557/en/Avolon-Q3-Net-Income-Increases-43/",
       "published": null
     },
     {
-      "id": "stockanalysis:59e13fa100a176c5",
-      "titleEn": "Cloudflare stock: insiders sell, options market points to a drop after earnings",
+      "id": "stockanalysis:5e5f4cb6bbf69b37",
+      "titleEn": "Nidec Announces Renewal of Commitment Line Agreement",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/cloudflare-stock-insiders-sell-options-market-points-to-a-drop-after-earnings/",
+      "link": "https://www.businesswire.com/news/home/20261104508497/en/Nidec-Announces-Renewal-of-Commitment-Line-Agreement/",
       "published": null
     },
     {
-      "id": "stockanalysis:70bfdc3fae97db8b",
-      "titleEn": "Why is Nvidia stock falling while broader markets rally on Democratic midterm win?",
+      "id": "stockanalysis:2936d2a3d7208032",
+      "titleEn": "Legrand: Results for the First Nine Months of 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/why-is-nvidia-stock-falling-while-broader-markets-rally-on-democratic-midterm-win/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d933b176075d40dd",
-      "titleEn": "Cameco Reports Document Filing",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261104597927/en/Cameco-Reports-Document-Filing/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6f6e1b88cf397cc4",
-      "titleEn": "BuzzFeed, Inc. Reports Q3 2026 Financial Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261103446398/en/BuzzFeed-Inc.-Reports-Q3-2026-Financial-Results/",
+      "link": "https://www.businesswire.com/news/home/20261104194299/en/Legrand-Results-for-the-First-Nine-Months-of-2026/",
       "published": null
     }
   ]
