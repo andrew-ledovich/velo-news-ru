@@ -1,78 +1,87 @@
 {
-  "generatedAt": "2026-11-05T08:40:47.827839Z",
+  "generatedAt": "2026-11-05T16:49:13.292394Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 9,
   "items": [
     {
-      "id": "stockanalysis:746349fdaf223151",
-      "titleEn": "Why Samsung and SK Hynix shares declined heavily on Thursday?",
+      "id": "stockanalysis:0524dcb20e5b776e",
+      "titleEn": "Arm stock falls 12% as weak smartphone royalties offset AI data centre growth",
       "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/05/why-samsung-and-sk-hynix-shares-declined-heavily-on-thursday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:eacf5dfa7db0bb43",
-      "titleEn": "Gold climbs above $4,000, Wall Street rallies as Dems take Congress - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were sharply higher in late U.S. trading Wednesday, as Democrats&#x27; sweeping victories in the U.S. midterm elections sent the dollar, Treasury yields and crude oil prices lower, encouraging renewed buying interest in precious metals. The election results handed Democrats control of both chambers of Congress, raising expectations for legislative gridlock and potentially more restrained fiscal spending during the remainder of President Donald Trump&#x27;s term. Hopes for renewed negotiations between Washington and Tehran also helped reduce the geopolitical risk premium in energy markets, providing additional relief from inflation concerns. At the latest verified afternoon quotation, spot gold was trading near $4,065.90 an ounce, up $136.50, or 3.47%, while spot silver was trading near $52.280, up $2.608, or 5.25%, on the session. Both metals recovered strongly from October&#x27;s steep losses, with silver outperforming gold as lower borrowing costs and a weaker dollar supported precious metals. Tuesday&#x27;s U.S. midterm elections produced a decisive shift in the balance of power in Washington, with Democrats winning control of both the House of Representatives and Senate. The victories ended Republican control of Congress and raised expectations that the administration will face substantial obstacles in advancing additional tax reductions, fiscal spending initiatives and legislation affecting energy, technology and financial markets. Investors interpreted the outcome as potentially restraining future fiscal expansion and federal borrowing requirements, although substantial budget deficits and existing spending commitments remain important constraints. The results also increase the likelihood of congressional scrutiny of artificial intelligence investment, federal energy policy and U.S. military operations involving Iran. However, the extent of any policy changes will depend on negotiations between Congress and the White House, and the election outcome does not directly alter Federal Reserve monetary policy.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-11-04/gold-climbs-above-4000-wall-street-rallies-dems-take-congress-kitco-pm",
+      "link": "https://invezz.com/news/2026/11/05/arm-stock-falls-12-as-weak-smartphone-royalties-offset-ai-data-centre-growth/",
       "published": null
     },
     {
-      "id": "stockanalysis:47ca99269ea39323",
-      "titleEn": "Why Qualcomm investors aren't celebrating the Q4 earnings beat",
+      "id": "stockanalysis:93a7600ca169548f",
+      "titleEn": "Joby stock is soaring: bulls may be ignoring red flags",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/04/why-qualcomm-investors-arent-celebrating-the-q4-earnings-beat/",
+      "link": "https://invezz.com/news/2026/11/05/joby-stock-is-soaring-bulls-may-be-ignoring-red-flags/",
       "published": null
     },
     {
-      "id": "stockanalysis:629df8e3176e1be7",
-      "titleEn": "UMC Reports Sales for October 2026",
+      "id": "stockanalysis:c1e952ca73943200",
+      "titleEn": "Wendy's 'no' to Peltz may be a bigger gamble than investors realize",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261104085640/en/UMC-Reports-Sales-for-October-2026/",
+      "link": "https://invezz.com/news/2026/11/05/wendys-no-to-peltz-may-be-a-bigger-gamble-than-investors-realize/",
       "published": null
     },
     {
-      "id": "stockanalysis:24f8576d6b66e77c",
-      "titleEn": "Experian and Vanquis Sign New Strategic Partnership to Improve Eligibility, Strengthen Fraud Prevention and Deliver Better Customer Outcomes",
-      "summaryEn": null,
+      "id": "stockanalysis:a225556494da6bcc",
+      "titleEn": "Gold climbs above $4,100 as falling yields, softer labor costs support bullion - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were higher in early U.S. trading Thursday, extending Wednesday&#x27;s sharp gains as lower Treasury yields and a softer U.S. dollar continued to support precious metals following Democrats&#x27; sweeping victories in the U.S. midterm elections. Fresh economic data showing stronger productivity growth and declining unit labor costs provided additional relief from inflation concerns, although resilient employment conditions and expectations for another Federal Reserve interest rate increase in December continued to limit the bullish implications for bullion. At the latest verified morning price reading, spot gold was trading near $4,119.50 an ounce, up $60.30, or 1.49%, while spot silver was trading near $52.390, up $0.294, or 0.56%. Gold had earlier reached $4,146.63, its highest level since Oct. 20, extending its recovery from October&#x27;s steep correction. Thursday&#x27;s U.S. economic reports provided fresh evidence of improving labor productivity and moderating cost pressure, alongside continued resilience in the employment market. Nonfarm business productivity increased at a seasonally adjusted annualized rate of 3.6% in the third quarter, accelerating from an upwardly revised 2.1% in the second quarter. Output increased 3.7%, while hours worked advanced just 0.1%. Unit labor costs declined at a 0.7% annualized rate, reversing the previous quarter&#x27;s revised 1.9% increase, as productivity growth outpaced the 2.9% increase in hourly compensation. The decline in unit labor costs suggests that improving efficiency is helping businesses absorb wage increases without placing equivalent upward pressure on prices, although the relationship between productivity and consumer inflation is not immediate.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261104256684/en/Experian-and-Vanquis-Sign-New-Strategic-Partnership-to-Improve-Eligibility-Strengthen-Fraud-Prevention-and-Deliver-Better-Customer-Outcomes/",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-05/gold-climbs-above-4100-falling-yields-softer-labor-costs-support-bullion",
       "published": null
     },
     {
-      "id": "stockanalysis:396d2370fac3e540",
-      "titleEn": "Avolon Q3 Net Income Increases 43%",
-      "summaryEn": null,
+      "id": "stockanalysis:781574b61ecc85d7",
+      "titleEn": "gold prices holding above $4,100 as weekly jobless claims rise by 189k",
+      "summaryEn": "(Kitco News) - Gold prices are holding initial support above $4,100 an ounce, but downside risks appear to be growing as positive momentum in the U.S. labor market picks up, with the number of American workers applying for first-time unemployment benefits dropping sharply last week. Initial claims for state unemployment benefits fell by 6,000 to a seasonally adjusted 189,000 for the week ending October 31, the Labor Department announced Thursday. The data was better than expected, as consensus estimates had called for a rise to 197,000. The gold market is not seeing any significant reaction to the solid labor market data, but prices remain off their session highs. Spot gold last traded at $4,120.60 an ounce, up 1.5% on the day.",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261104798557/en/Avolon-Q3-Net-Income-Increases-43/",
+      "link": "https://www.kitco.com/news/article/2026-11-05/gold-prices-holding-above-4100-weekly-jobless-claims-rise-189k",
       "published": null
     },
     {
-      "id": "stockanalysis:5e5f4cb6bbf69b37",
-      "titleEn": "Nidec Announces Renewal of Commitment Line Agreement",
+      "id": "stockanalysis:f4d8d91f1e26edd3",
+      "titleEn": "Snap stock falls 10% as revenue and user growth miss estimates",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261104508497/en/Nidec-Announces-Renewal-of-Commitment-Line-Agreement/",
+      "link": "https://invezz.com/news/2026/11/05/snap-stock-falls-10-as-revenue-and-user-growth-miss-estimates/",
       "published": null
     },
     {
-      "id": "stockanalysis:2936d2a3d7208032",
-      "titleEn": "Legrand: Results for the First Nine Months of 2026",
+      "id": "stockanalysis:a5e5a4b11fbd2f14",
+      "titleEn": "AI stocks could benefit from Democrats' data center pushback",
       "summaryEn": null,
       "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/05/ai-stocks-could-benefit-from-democrats-data-center-pushback/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:573a6d5af9c651ae",
+      "titleEn": "Gold market holding solid gains even as BoE raises interest rates due to rising inflation",
+      "summaryEn": "(Kitco News) - Persistent inflation pressures continue to take their toll on the gold market as central banks are forced to adopt hawkish monetary policies, with the Bank of England being the latest example. On Thursday, in a widely anticipated move, the Bank of England raised its Bank Rate by 0.25 percentage points to 4%. The central bank also projects inflation will move higher next year. “The conflict in the Middle East is now in its ninth month. Global energy prices have continued to rise from an already elevated level. UK CPI inflation increased to 3.5% in September. It is now expected to rise to around 5% by the middle of next year. It is then projected to fall as the impact of rising energy prices on 12-month inflation rates fades, and still restrictive monetary policy bears down on inflation,” the central bank said.",
+      "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261104194299/en/Legrand-Results-for-the-First-Nine-Months-of-2026/",
+      "link": "https://www.kitco.com/news/article/2026-11-05/gold-market-holding-solid-gains-even-boe-raises-interest-rates-due-rising",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8f72d46534ea94e8",
+      "titleEn": "New Research from Abnormal AI Finds Nearly Half of Security Teams Say They Can't Tell What Normal Behavior Looks Like for AI Agents",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261105792265/en/New-Research-from-Abnormal-AI-Finds-Nearly-Half-of-Security-Teams-Say-They-Can%E2%80%99t-Tell-What-Normal-Behavior-Looks-Like-for-AI-Agents/",
       "published": null
     }
   ]
