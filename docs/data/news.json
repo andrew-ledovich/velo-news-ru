@@ -1,42 +1,150 @@
 {
-  "generatedAt": "2026-11-06T09:51:21.426987Z",
+  "generatedAt": "2026-11-06T16:59:38.413421Z",
   "sourceCount": 1,
-  "count": 4,
+  "count": 16,
   "items": [
     {
-      "id": "stockanalysis:e69554077de0a6ad",
-      "titleEn": "AI stock bloodbath hits Asia as Samsung, SK Hynix and SoftBank plunge",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/06/samsung-sk-hynix-softbank-ai-stock-crash/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:688771efe8b1c14c",
-      "titleEn": "Gold holds gains, silver slips as Wall Street plunges, Fed hike bets ease - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were higher and spot silver prices were lower in late U.S. trading Thursday, as a sharp technology-led equity market selloff drove Treasury yields lower and reduced expectations for additional Federal Reserve tightening in December. Renewed attacks on commercial shipping near the Strait of Hormuz pushed crude oil prices higher, reversing part of Wednesday&#x27;s steep decline and adding to uncertainty surrounding the inflation outlook. Gold retained much of its post-election recovery as investors sought defensive assets, while silver surrendered earlier gains amid heavy selling across technology and industrially sensitive markets. At the latest verified afternoon quotation, spot gold was trading near $4,087.26 an ounce, up $25.93, or 0.64%, while spot silver was trading near $51.778, down $0.407, or 0.78%, on the session. Gold had earlier reached $4,148.00, its highest intraday level since Oct. 20, before retreating as the equity selloff intensified. Thursday&#x27;s U.S. economic reports pointed to stronger labor productivity and moderating wage-related inflation pressure, while initial jobless claims indicated that layoffs remain limited. Nonfarm business productivity increased at a 3.6% annualized rate in the third quarter, above expectations for a 2.8% gain and accelerating from an upwardly revised 2.1% in the second quarter. Output increased 3.7%, while hours worked edged up 0.1%. Unit labor costs declined at a 0.7% annualized rate, compared with expectations for a 0.6% increase, reversing the previous quarter&#x27;s revised 1.9% rise. The decline suggests that stronger productivity is helping businesses absorb compensation increases without equivalent increases in production costs, potentially reducing one source of underlying inflation pressure.",
+      "id": "stockanalysis:f9d0eb2b916f1560",
+      "titleEn": "Gold price trades near $4,050/oz after preliminary Consumer Sentiment rises to 51, inflation expectations ease",
+      "summaryEn": "(Kitco News) - The gold market is coming off its post-payrolls lows after the latest data showed consumer sentiment in the U.S. improving beyond expectations, while inflation expectations ticked lower. The University of Michigan announced on Friday that the preliminary reading of its Consumer Sentiment survey for November was 51. The data was better than expectations, as the consensus forecast of economists called for a reading of 48, the same as October’s final reading. “Consumer sentiment ticked up about 6% in the preliminary read,” said Surveys of Consumers Director Joanne Hsu in the report. “Modest improvements in multiple domains, including expected personal finances and business conditions, were concentrated primarily among independents. While sentiment lifted for lower- and middle-wealth consumers, it fell 5% for those with the largest stock portfolios in the wake of a relatively turbulent period in stock markets.”",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-05/gold-holds-gains-silver-slips-wall-street-plunges-fed-hike-bets-ease-kitco",
+      "link": "https://www.kitco.com/news/article/2026-11-06/gold-price-trades-near-4050oz-after-preliminary-consumer-sentiment-rises-51",
       "published": null
     },
     {
-      "id": "stockanalysis:a8332772feb11c93",
-      "titleEn": "World Bank sees gold holding above $4,000 through 2028, but warns silver faces steeper correction",
-      "summaryEn": "(Kitco News) - Gold and silver prices are expected to remain historically elevated through 2027, but investors should not expect a repeat of the explosive gains and volatility that defined 2026, according to the latest report from the World Bank. In its October Commodity Markets Outlook, analysts at the World Bank forecast gold prices to average $4,600 an ounce this year, a 33.6% increase from 2025. However, the bank expects prices to fall 7.6% to an average of $4,250 an ounce in 2027, followed by a further 5.9% decline to $4,000 in 2028. The outlook is slightly more bearish than the bank&#x27;s April forecast, which projected gold prices averaging $4,700 this year and $4,300 in 2027.",
+      "id": "stockanalysis:23245557b35b7c0d",
+      "titleEn": "Airbnb stock analysis after boosting its revenue and profit guidance",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-05/world-bank-sees-gold-holding-above-4000-through-2028-warns-silver-faces",
+      "link": "https://invezz.com/news/2026/11/06/airbnb-stock-analysis-after-boosting-its-revenue-and-profit-guidance/",
       "published": null
     },
     {
-      "id": "stockanalysis:023ffdfc66eb5cf2",
-      "titleEn": "Nvidia stock plunges 8% as AI spending fears and financing risks mount",
+      "id": "stockanalysis:09341c77f689e8cf",
+      "titleEn": "Gold falls as U.S. payrolls surge by 165,000, strengthening December Fed hike case - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold prices were lower and spot silver prices were modestly higher in early U.S. trading Friday, as investors assessed the latest U.S. employment figures following Thursday&#x27;s sharp equity-market selloff and renewed tensions involving Iran and the Strait of Hormuz. The U.S. economy added substantially more jobs than expected in October, reinforcing the case for another Federal Reserve interest rate increase in December and driving Treasury yields and the dollar higher immediately after the release. At the time of writing, spot gold was trading near $4,050.95 an ounce, down $34.10, or 0.89%, while spot silver was trading near $51.864, up $0.089, or 0.17%. The U.S. Labor Department reported Friday that nonfarm payroll employment increased by 165,000 in October, substantially exceeding economists&#x27; expectations for approximately 65,000 new jobs and accelerating from an upwardly revised September gain of 60,000. The unemployment rate declined to 4.1% from 4.2%, while average hourly earnings increased 0.4% on the month, above expectations for a 0.3% gain. Average hourly earnings were 3.1% higher than a year earlier. The stronger employment and wage figures indicated that labor-market conditions remain resilient despite elevated borrowing costs, geopolitical uncertainty and recent weakness in technology shares. Revisions provided additional evidence of improving employment conditions. August payroll growth was revised higher by 53,000 to 186,000, while September&#x27;s increase was revised upward by 31,000 to 60,000. The two-month revisions added a combined 84,000 jobs to previously reported employment. Professional and business services led October hiring with 70,000 additional positions, followed by health care with 42,000 and transportation and warehousing with 25,000. Manufacturing employment increased by 19,000. The labor-force participation rate held at 61.9%, while the average workweek remained unchanged at 34.4 hours. The report suggests that demand for labor remains stronger than anticipated, although hiring continues to vary considerably across industries.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-06/gold-falls-us-payrolls-surge-165000-strengthening-december-fed-hike-case",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8342aac08c459e3c",
+      "titleEn": "What next for the IAG share price after earnings?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/06/what-next-for-the-iag-share-price-after-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ec4746701d570513",
+      "titleEn": "gold prices see some selling pressure as US economy created 165k in October",
+      "summaryEn": "(Kitco News) - After a slow summer, the U.S. labor market appears to be picking up significant momentum, which, as expected, is once again putting pressure on gold, with renewed focus on support at $4,000 an ounce. U.S. nonfarm payrolls rose by 165,000 last month, according to the Bureau of Labor Statistics. The monthly figure significantly beat consensus forecasts, as economists had expected job gains of around 60,000. At the same time, the unemployment rate dropped to 4.1%. Economists had expected the rate to remain unchanged at 4.2%.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-06/gold-prices-see-some-selling-pressure-us-economy-created-165k-october",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0ddd5b47065a8489",
+      "titleEn": "Cloudflare stock surges 20% after strong Q3 earnings: here's what analysts say",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/06/cloudflare-stock-surges-20-after-strong-q3-earnings-heres-what-analysts-say/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:746fe7fe561095a7",
+      "titleEn": "Why Nvidia boss Jensen Huang has been summoned by US lawmakers?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/06/why-nvidia-boss-jensen-huang-has-been-summoned-by-us-lawmakers/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:add8be673bef942c",
+      "titleEn": "Rheinmetall share price lost a crucial support: what next for the stock?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/06/rheinmetall-share-price-lost-a-crucial-support-what-next-for-the-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:38270a02cf6dd8e7",
+      "titleEn": "Why is IREN stock surging more than 17% during premarket trading on Friday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/06/why-is-iren-stock-surging-more-than-17-during-premarket-trading-on-friday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9b77eb6453b11636",
+      "titleEn": "Could the AI sell-off put Anthropic's IPO timing and valuation at risk?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/05/nvidia-stock-plunges-8-as-ai-spending-fears-and-financing-risks-mount/",
+      "link": "https://invezz.com/news/2026/11/06/could-the-ai-sell-off-put-anthropics-ipo-timing-and-valuation-at-risk/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:70bd899e8959fae3",
+      "titleEn": "Nvidia, AMD and Intel stocks rebound sharply: is Wall Street's AI panic easing?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/06/nvidia-amd-and-intel-stocks-rebound-sharply-is-wall-streets-ai-panic-easing/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b3ff5753793eddd7",
+      "titleEn": "2026 Incyte Ingenuity Awards in GVHD™ Awarded to University of Maryland School of Medicine and H. Lee Moffitt Cancer Center &amp; Research Institute",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261106810279/en/2026-Incyte-Ingenuity-Awards-in-GVHD%E2%84%A2-Awarded-to-University-of-Maryland-School-of-Medicine-and-H.-Lee-Moffitt-Cancer-Center-Research-Institute/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e26ae0beb5a50b90",
+      "titleEn": "Eurofins Scientific: Director/PDMR Shareholding",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261106184201/en/Eurofins-Scientific-DirectorPDMR-Shareholding/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e9cd788230e61e93",
+      "titleEn": "Wolters Kluwer brings TyMetrix 360° data into enterprise AI workflows with new MCP server",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261106646088/en/Wolters-Kluwer-brings-TyMetrix-360%C2%B0-data-into-enterprise-AI-workflows-with-new-MCP-server/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9008dd3ca1588a94",
+      "titleEn": "QIAGEN Shareholders Overwhelmingly Approve Jonathan M. Pratt as Managing Director",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261106227567/en/QIAGEN-Shareholders-Overwhelmingly-Approve-Jonathan-M.-Pratt-as-Managing-Director/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2d0b27f676eed0c9",
+      "titleEn": "Stoke Space Expanding Cape Canaveral Launch Complex to Support High Cadence, Fully Reusable Launch",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261106710670/en/Stoke-Space-Expanding-Cape-Canaveral-Launch-Complex-to-Support-High-Cadence-Fully-Reusable-Launch/",
       "published": null
     }
   ]
