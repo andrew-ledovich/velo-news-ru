@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-11-05T22:25:54.746070Z",
+  "generatedAt": "2026-11-06T02:38:28.877077Z",
   "sourceCount": 1,
   "count": 6,
   "items": [
+    {
+      "id": "stockanalysis:688771efe8b1c14c",
+      "titleEn": "Gold holds gains, silver slips as Wall Street plunges, Fed hike bets ease - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices were higher and spot silver prices were lower in late U.S. trading Thursday, as a sharp technology-led equity market selloff drove Treasury yields lower and reduced expectations for additional Federal Reserve tightening in December. Renewed attacks on commercial shipping near the Strait of Hormuz pushed crude oil prices higher, reversing part of Wednesday&#x27;s steep decline and adding to uncertainty surrounding the inflation outlook. Gold retained much of its post-election recovery as investors sought defensive assets, while silver surrendered earlier gains amid heavy selling across technology and industrially sensitive markets. At the latest verified afternoon quotation, spot gold was trading near $4,087.26 an ounce, up $25.93, or 0.64%, while spot silver was trading near $51.778, down $0.407, or 0.78%, on the session. Gold had earlier reached $4,148.00, its highest intraday level since Oct. 20, before retreating as the equity selloff intensified. Thursday&#x27;s U.S. economic reports pointed to stronger labor productivity and moderating wage-related inflation pressure, while initial jobless claims indicated that layoffs remain limited. Nonfarm business productivity increased at a 3.6% annualized rate in the third quarter, above expectations for a 2.8% gain and accelerating from an upwardly revised 2.1% in the second quarter. Output increased 3.7%, while hours worked edged up 0.1%. Unit labor costs declined at a 0.7% annualized rate, compared with expectations for a 0.6% increase, reversing the previous quarter&#x27;s revised 1.9% rise. The decline suggests that stronger productivity is helping businesses absorb compensation increases without equivalent increases in production costs, potentially reducing one source of underlying inflation pressure.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-05/gold-holds-gains-silver-slips-wall-street-plunges-fed-hike-bets-ease-kitco",
+      "published": null
+    },
     {
       "id": "stockanalysis:a8332772feb11c93",
       "titleEn": "World Bank sees gold holding above $4,000 through 2028, but warns silver faces steeper correction",
@@ -31,30 +40,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:df9b9086fed84f43",
-      "titleEn": "Palo Alto Eyes $500 Million Purchase of Clutch Security",
-      "summaryEn": "Palo Alto Networks is reportedly in talks to acquire Clutch Security for around $500 million. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The deal would mark the cybersecurity firm’s fifth acquisition this year, according to a Wednesday (Nov. 4) report by The Information citing sources familiar with the matter.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/acquiring/2026/palo-alto-eyes-500-million-purchase-of-clutch-security/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d9b78c55aac97226",
-      "titleEn": "AppLovin earnings show AI advertising is still in early innings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/05/applovin-earnings-show-ai-advertising-is-still-in-early-innings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d0a8b75985bfe2ca",
-      "titleEn": "Pembina Pipeline Reports Results for the Third Quarter of 2026",
+      "id": "stockanalysis:4c5b98d7e1a5f741",
+      "titleEn": "Cameco Reports Document Filing",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261105329713/en/Pembina-Pipeline-Reports-Results-for-the-Third-Quarter-of-2026/",
+      "link": "https://www.businesswire.com/news/home/20261105577255/en/Cameco-Reports-Document-Filing/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2b3473ae6d182112",
+      "titleEn": "Cannae Holdings, Inc. Announces Reduction in the Size of Its Board of Directors to Ten Members",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261105211334/en/Cannae-Holdings-Inc.-Announces-Reduction-in-the-Size-of-Its-Board-of-Directors-to-Ten-Members/",
       "published": null
     }
   ]
