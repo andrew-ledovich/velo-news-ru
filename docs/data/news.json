@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-11-06T02:38:28.877077Z",
+  "generatedAt": "2026-11-06T09:51:21.426987Z",
   "sourceCount": 1,
-  "count": 6,
+  "count": 4,
   "items": [
+    {
+      "id": "stockanalysis:e69554077de0a6ad",
+      "titleEn": "AI stock bloodbath hits Asia as Samsung, SK Hynix and SoftBank plunge",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/06/samsung-sk-hynix-softbank-ai-stock-crash/",
+      "published": null
+    },
     {
       "id": "stockanalysis:688771efe8b1c14c",
       "titleEn": "Gold holds gains, silver slips as Wall Street plunges, Fed hike bets ease - Kitco PM Report",
@@ -28,33 +37,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/11/05/nvidia-stock-plunges-8-as-ai-spending-fears-and-financing-risks-mount/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:01fb467c23e105cc",
-      "titleEn": "Intel and AMD stocks fall as tech selloff deepens; analysts assess outlook",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/05/intel-and-amd-stocks-fall-as-tech-selloff-deepens-analysts-assess-outlook/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4c5b98d7e1a5f741",
-      "titleEn": "Cameco Reports Document Filing",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261105577255/en/Cameco-Reports-Document-Filing/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2b3473ae6d182112",
-      "titleEn": "Cannae Holdings, Inc. Announces Reduction in the Size of Its Board of Directors to Ten Members",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261105211334/en/Cannae-Holdings-Inc.-Announces-Reduction-in-the-Size-of-Its-Board-of-Directors-to-Ten-Members/",
       "published": null
     }
   ]
