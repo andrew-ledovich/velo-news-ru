@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-11-06T16:59:38.413421Z",
+  "generatedAt": "2026-11-06T21:57:08.122380Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:c622562850792f37",
+      "titleEn": "DraftKings stock just lost 20%: the real story isn't the earnings miss",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/06/draftkings-stock-just-lost-20-the-real-story-isnt-the-earnings-miss/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f05f9be418f70266",
+      "titleEn": "Micron stock rebounds 5% after huge selloff even as AI demand risks persist",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/06/micron-stock-rebounds-5-after-huge-selloff-even-as-ai-demand-risks-persist/",
+      "published": null
+    },
     {
       "id": "stockanalysis:f9d0eb2b916f1560",
       "titleEn": "Gold price trades near $4,050/oz after preliminary Consumer Sentiment rises to 51, inflation expectations ease",
@@ -67,84 +85,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:add8be673bef942c",
-      "titleEn": "Rheinmetall share price lost a crucial support: what next for the stock?",
+      "id": "stockanalysis:555454561d004721",
+      "titleEn": "Nordson Corporation Announces Earnings Release and Webcast for Fourth Quarter and Fiscal Year 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/06/rheinmetall-share-price-lost-a-crucial-support-what-next-for-the-stock/",
+      "link": "https://www.businesswire.com/news/home/20261106232666/en/Nordson-Corporation-Announces-Earnings-Release-and-Webcast-for-Fourth-Quarter-and-Fiscal-Year-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:38270a02cf6dd8e7",
-      "titleEn": "Why is IREN stock surging more than 17% during premarket trading on Friday?",
+      "id": "stockanalysis:6ff1d37b871d7d97",
+      "titleEn": "CES Energy Solutions Corp. Announces Amendment, Extension and Upsize of Its Credit Facility",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/06/why-is-iren-stock-surging-more-than-17-during-premarket-trading-on-friday/",
+      "link": "https://www.businesswire.com/news/home/20261106362292/en/CES-Energy-Solutions-Corp.-Announces-Amendment-Extension-and-Upsize-of-Its-Credit-Facility/",
       "published": null
     },
     {
-      "id": "stockanalysis:9b77eb6453b11636",
-      "titleEn": "Could the AI sell-off put Anthropic's IPO timing and valuation at risk?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/06/could-the-ai-sell-off-put-anthropics-ipo-timing-and-valuation-at-risk/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:70bd899e8959fae3",
-      "titleEn": "Nvidia, AMD and Intel stocks rebound sharply: is Wall Street's AI panic easing?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/06/nvidia-amd-and-intel-stocks-rebound-sharply-is-wall-streets-ai-panic-easing/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b3ff5753793eddd7",
-      "titleEn": "2026 Incyte Ingenuity Awards in GVHD™ Awarded to University of Maryland School of Medicine and H. Lee Moffitt Cancer Center &amp; Research Institute",
+      "id": "stockanalysis:51219759a6cb67b3",
+      "titleEn": "First American Financial Corporation to Participate in the Stephens Annual Investment Conference",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261106810279/en/2026-Incyte-Ingenuity-Awards-in-GVHD%E2%84%A2-Awarded-to-University-of-Maryland-School-of-Medicine-and-H.-Lee-Moffitt-Cancer-Center-Research-Institute/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e26ae0beb5a50b90",
-      "titleEn": "Eurofins Scientific: Director/PDMR Shareholding",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261106184201/en/Eurofins-Scientific-DirectorPDMR-Shareholding/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e9cd788230e61e93",
-      "titleEn": "Wolters Kluwer brings TyMetrix 360° data into enterprise AI workflows with new MCP server",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261106646088/en/Wolters-Kluwer-brings-TyMetrix-360%C2%B0-data-into-enterprise-AI-workflows-with-new-MCP-server/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9008dd3ca1588a94",
-      "titleEn": "QIAGEN Shareholders Overwhelmingly Approve Jonathan M. Pratt as Managing Director",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261106227567/en/QIAGEN-Shareholders-Overwhelmingly-Approve-Jonathan-M.-Pratt-as-Managing-Director/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2d0b27f676eed0c9",
-      "titleEn": "Stoke Space Expanding Cape Canaveral Launch Complex to Support High Cadence, Fully Reusable Launch",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261106710670/en/Stoke-Space-Expanding-Cape-Canaveral-Launch-Complex-to-Support-High-Cadence-Fully-Reusable-Launch/",
+      "link": "https://www.businesswire.com/news/home/20261106861891/en/First-American-Financial-Corporation-to-Participate-in-the-Stephens-Annual-Investment-Conference/",
       "published": null
     }
   ]
