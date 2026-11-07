@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-11-07T07:45:16.947225Z",
+  "generatedAt": "2026-11-07T14:28:53.666724Z",
   "sourceCount": 1,
   "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:75f4201648f51961",
+      "titleEn": "Anthropic IPO faces test after recent selloff: What Wall Street experts are saying",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/07/anthropic-ipo-faces-test-after-recent-selloff-what-wall-street-experts-are-saying/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b27c2cb730c42e3c",
+      "titleEn": "Anthropic IPO news: Valuation slips to $1.5 trillion as AI Bubble Index rises",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/07/anthropic-ipo-news-valuation-slips-to-1-5-trillion-as-ai-bubble-index-rises/",
+      "published": null
+    },
     {
       "id": "stockanalysis:cc326e99367f83e1",
       "titleEn": "Wall Street split on gold following Dems' midterm rout, Main Street bulls emboldened after post-election price rally",
@@ -55,24 +73,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/11/06/micron-stock-rebounds-5-after-huge-selloff-even-as-ai-demand-risks-persist/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f9d0eb2b916f1560",
-      "titleEn": "Gold price trades near $4,050/oz after preliminary Consumer Sentiment rises to 51, inflation expectations ease",
-      "summaryEn": "(Kitco News) - The gold market is coming off its post-payrolls lows after the latest data showed consumer sentiment in the U.S. improving beyond expectations, while inflation expectations ticked lower. The University of Michigan announced on Friday that the preliminary reading of its Consumer Sentiment survey for November was 51. The data was better than expectations, as the consensus forecast of economists called for a reading of 48, the same as October’s final reading. “Consumer sentiment ticked up about 6% in the preliminary read,” said Surveys of Consumers Director Joanne Hsu in the report. “Modest improvements in multiple domains, including expected personal finances and business conditions, were concentrated primarily among independents. While sentiment lifted for lower- and middle-wealth consumers, it fell 5% for those with the largest stock portfolios in the wake of a relatively turbulent period in stock markets.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-06/gold-price-trades-near-4050oz-after-preliminary-consumer-sentiment-rises-51",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:23245557b35b7c0d",
-      "titleEn": "Airbnb stock analysis after boosting its revenue and profit guidance",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/06/airbnb-stock-analysis-after-boosting-its-revenue-and-profit-guidance/",
       "published": null
     },
     {
