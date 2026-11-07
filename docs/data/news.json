@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T14:28:53.666724Z",
+  "generatedAt": "2026-11-07T18:58:32.597467Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 9,
   "items": [
     {
       "id": "stockanalysis:75f4201648f51961",
@@ -58,21 +58,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c622562850792f37",
-      "titleEn": "DraftKings stock just lost 20%: the real story isn't the earnings miss",
+      "id": "stockanalysis:c1fcc51c8008a263",
+      "titleEn": "QumulusAI to Report Third Quarter 2026 Financial Results on Nov. 10, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/06/draftkings-stock-just-lost-20-the-real-story-isnt-the-earnings-miss/",
+      "link": "https://www.businesswire.com/news/home/20261107613789/en/QumulusAI-to-Report-Third-Quarter-2026-Financial-Results-on-Nov.-10-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:f05f9be418f70266",
-      "titleEn": "Micron stock rebounds 5% after huge selloff even as AI demand risks persist",
+      "id": "stockanalysis:6ea31c14ceccfbdc",
+      "titleEn": "Berkshire Hathaway Inc. News Release",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/06/micron-stock-rebounds-5-after-huge-selloff-even-as-ai-demand-risks-persist/",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261107409212/en/Berkshire-Hathaway-Inc.-News-Release/",
       "published": null
     },
     {
@@ -82,15 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261106659922/en/KBRA-Assigns-Preliminary-Ratings-to-FMC-GMSR-Issuer-Trust-Series-2026-GT2-FMC-GMSR-2026-GT2/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c66f25fe99f53564",
-      "titleEn": "AngioDynamics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261106038551/en/AngioDynamics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4/",
       "published": null
     }
   ]
