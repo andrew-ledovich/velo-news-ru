@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-11-07T18:58:32.597467Z",
+  "generatedAt": "2026-11-07T22:28:52.489377Z",
   "sourceCount": 1,
   "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:722fa0e532c655df",
+      "titleEn": "SpaceX stock has dived after the midterms: Top reasons to buy the dip",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/07/spacex-stock-has-dived-after-the-midterms-top-reasons-to-buy-the-dip/",
+      "published": null
+    },
     {
       "id": "stockanalysis:75f4201648f51961",
       "titleEn": "Anthropic IPO faces test after recent selloff: What Wall Street experts are saying",
@@ -73,15 +82,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261107409212/en/Berkshire-Hathaway-Inc.-News-Release/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9feee837b77fa978",
-      "titleEn": "KBRA Assigns Preliminary Ratings to FMC GMSR Issuer Trust, Series 2026-GT2 (FMC GMSR 2026-GT2)",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261106659922/en/KBRA-Assigns-Preliminary-Ratings-to-FMC-GMSR-Issuer-Trust-Series-2026-GT2-FMC-GMSR-2026-GT2/",
       "published": null
     }
   ]
