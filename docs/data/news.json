@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T01:30:24.364604Z",
+  "generatedAt": "2026-11-07T07:45:16.947225Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 10,
   "items": [
     {
       "id": "stockanalysis:cc326e99367f83e1",
@@ -91,15 +91,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261106038551/en/AngioDynamics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2316dfa1188b082a",
-      "titleEn": "bioAffinity Technologies Reports Third Quarter 2026 Results and Continued Momentum in CyPath® Lung Commercialization",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261106489581/en/bioAffinity-Technologies-Reports-Third-Quarter-2026-Results-and-Continued-Momentum-in-CyPath%C2%AE-Lung-Commercialization/",
       "published": null
     }
   ]
