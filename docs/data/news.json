@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-11-08T14:43:22.692536Z",
+  "generatedAt": "2026-11-08T19:09:25.895136Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:62650f29ca094bd2",
+      "titleEn": "Berkshire Hathaway stock in focus as it boosts buybacks: what next?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/08/berkshire-hathaway-stock-in-focus-as-it-boosts-buybacks-what-next/",
+      "published": null
+    },
     {
       "id": "stockanalysis:722fa0e532c655df",
       "titleEn": "SpaceX stock has dived after the midterms: Top reasons to buy the dip",
@@ -67,6 +76,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:3defb81d37f9312b",
+      "titleEn": "HSS Study Highlights Potential for CAR T-Cell Therapy to Transform Lupus Treatment",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261108016132/en/HSS-Study-Highlights-Potential-for-CAR-T-Cell-Therapy-to-Transform-Lupus-Treatment/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:8c13f01b31f29f0b",
       "titleEn": "OFRM Investors Have Opportunity to Join Once Upon A Farm, PBC Fraud Investigation with SBS Law",
       "summaryEn": null,
@@ -100,33 +118,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.businesswire.com/news/home/20261107316748/en/ispace-U.S.-Selected-to-Support-NASA-Moon-Base-Program%C2%A0/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0528f46050258620",
-      "titleEn": "DOX Investors Have Opportunity to Join Amdocs Limited Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261107735374/en/DOX-Investors-Have-Opportunity-to-Join-Amdocs-Limited-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f57dc696de45bae8",
-      "titleEn": "SYY Investors Have Opportunity to Join Sysco Corporation Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261107840682/en/SYY-Investors-Have-Opportunity-to-Join-Sysco-Corporation-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:90c1fc33e876e9a9",
-      "titleEn": "Arrowhead Pharmaceuticals Presents Plozasiran Data Highlighting Sustained Triglyceride Reductions and Reduced Acute Pancreatitis Rates",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261107972891/en/Arrowhead-Pharmaceuticals-Presents-Plozasiran-Data-Highlighting-Sustained-Triglyceride-Reductions-and-Reduced-Acute-Pancreatitis-Rates/",
       "published": null
     }
   ]
