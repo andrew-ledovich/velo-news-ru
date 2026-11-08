@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-08T07:57:42.466720Z",
+  "generatedAt": "2026-11-08T14:43:22.692536Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:722fa0e532c655df",
@@ -127,15 +127,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261107972891/en/Arrowhead-Pharmaceuticals-Presents-Plozasiran-Data-Highlighting-Sustained-Triglyceride-Reductions-and-Reduced-Acute-Pancreatitis-Rates/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c1fcc51c8008a263",
-      "titleEn": "QumulusAI to Report Third Quarter 2026 Financial Results on Nov. 10, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261107613789/en/QumulusAI-to-Report-Third-Quarter-2026-Financial-Results-on-Nov.-10-2026/",
       "published": null
     }
   ]
