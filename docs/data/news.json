@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T22:28:52.489377Z",
+  "generatedAt": "2026-11-08T01:41:30.768916Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 15,
   "items": [
     {
       "id": "stockanalysis:722fa0e532c655df",
@@ -67,21 +67,75 @@
       "published": null
     },
     {
+      "id": "stockanalysis:8c13f01b31f29f0b",
+      "titleEn": "OFRM Investors Have Opportunity to Join Once Upon A Farm, PBC Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261107769460/en/OFRM-Investors-Have-Opportunity-to-Join-Once-Upon-A-Farm-PBC-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0a2f13accdaab15f",
+      "titleEn": "STVN Investors Have Opportunity to Join Stevanato Group S.p.A. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261107815065/en/STVN-Investors-Have-Opportunity-to-Join-Stevanato-Group-S.p.A.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b4d4cb2855b391ef",
+      "titleEn": "Voyager Awarded NASA CLPS 2 Contract",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261107235985/en/Voyager-Awarded-NASA-CLPS-2-Contract/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ffc2a6f074b9acad",
+      "titleEn": "ispace-U.S. Selected to Support NASA Moon Base Program",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.businesswire.com/news/home/20261107316748/en/ispace-U.S.-Selected-to-Support-NASA-Moon-Base-Program%C2%A0/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0528f46050258620",
+      "titleEn": "DOX Investors Have Opportunity to Join Amdocs Limited Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261107735374/en/DOX-Investors-Have-Opportunity-to-Join-Amdocs-Limited-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f57dc696de45bae8",
+      "titleEn": "SYY Investors Have Opportunity to Join Sysco Corporation Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261107840682/en/SYY-Investors-Have-Opportunity-to-Join-Sysco-Corporation-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:90c1fc33e876e9a9",
+      "titleEn": "Arrowhead Pharmaceuticals Presents Plozasiran Data Highlighting Sustained Triglyceride Reductions and Reduced Acute Pancreatitis Rates",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261107972891/en/Arrowhead-Pharmaceuticals-Presents-Plozasiran-Data-Highlighting-Sustained-Triglyceride-Reductions-and-Reduced-Acute-Pancreatitis-Rates/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:c1fcc51c8008a263",
       "titleEn": "QumulusAI to Report Third Quarter 2026 Financial Results on Nov. 10, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261107613789/en/QumulusAI-to-Report-Third-Quarter-2026-Financial-Results-on-Nov.-10-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6ea31c14ceccfbdc",
-      "titleEn": "Berkshire Hathaway Inc. News Release",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261107409212/en/Berkshire-Hathaway-Inc.-News-Release/",
       "published": null
     }
   ]
