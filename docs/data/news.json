@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-08T19:09:25.895136Z",
+  "generatedAt": "2026-11-08T22:50:53.712179Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 12,
   "items": [
     {
       "id": "stockanalysis:62650f29ca094bd2",
@@ -76,48 +76,39 @@
       "published": null
     },
     {
+      "id": "stockanalysis:997701a8b013f761",
+      "titleEn": "Vir Biotechnology Announces Expanded Phase 2 SOLSTICE Data for Elebsiran and Tobevibart in Chronic Hepatitis Delta, Showing Deep and Sustained Viral Suppression, and Exploratory Finite Treatment Data",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261108600446/en/Vir-Biotechnology-Announces-Expanded-Phase-2-SOLSTICE-Data-for-Elebsiran-and-Tobevibart-in-Chronic-Hepatitis-Delta-Showing-Deep-and-Sustained-Viral-Suppression-and-Exploratory-Finite-Treatment-Data/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fba34738b64541c3",
+      "titleEn": "Vir Biotechnology Announces Primary Endpoint Met in Pivotal Phase 3 ECLIPSE 1 Trial for Elebsiran and Tobevibart in Chronic Hepatitis Delta",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261108631000/en/Vir-Biotechnology-Announces-Primary-Endpoint-Met-in-Pivotal-Phase-3-ECLIPSE-1-Trial-for-Elebsiran-and-Tobevibart-in-Chronic-Hepatitis-Delta/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2c3d3356ad806a71",
+      "titleEn": "ROCK Investors Have Opportunity to Join Gibraltar Industries, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261108355619/en/ROCK-Investors-Have-Opportunity-to-Join-Gibraltar-Industries-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:3defb81d37f9312b",
       "titleEn": "HSS Study Highlights Potential for CAR T-Cell Therapy to Transform Lupus Treatment",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261108016132/en/HSS-Study-Highlights-Potential-for-CAR-T-Cell-Therapy-to-Transform-Lupus-Treatment/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8c13f01b31f29f0b",
-      "titleEn": "OFRM Investors Have Opportunity to Join Once Upon A Farm, PBC Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261107769460/en/OFRM-Investors-Have-Opportunity-to-Join-Once-Upon-A-Farm-PBC-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0a2f13accdaab15f",
-      "titleEn": "STVN Investors Have Opportunity to Join Stevanato Group S.p.A. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261107815065/en/STVN-Investors-Have-Opportunity-to-Join-Stevanato-Group-S.p.A.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b4d4cb2855b391ef",
-      "titleEn": "Voyager Awarded NASA CLPS 2 Contract",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261107235985/en/Voyager-Awarded-NASA-CLPS-2-Contract/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ffc2a6f074b9acad",
-      "titleEn": "ispace-U.S. Selected to Support NASA Moon Base Program",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.businesswire.com/news/home/20261107316748/en/ispace-U.S.-Selected-to-Support-NASA-Moon-Base-Program%C2%A0/",
       "published": null
     }
   ]
