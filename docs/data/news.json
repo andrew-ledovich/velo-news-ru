@@ -1,141 +1,141 @@
 {
-  "generatedAt": "2026-11-09T09:43:49.811206Z",
+  "generatedAt": "2026-11-09T20:07:19.097909Z",
   "sourceCount": 1,
   "count": 15,
   "items": [
     {
-      "id": "stockanalysis:778d3158675b8bd8",
-      "titleEn": "Nvidia stock falls 4% after Jensen Huang probe: is a bigger crash coming?",
-      "summaryEn": null,
+      "id": "stockanalysis:0e9895f0921e8cef",
+      "titleEn": "Barrick beats Q3 earnings expectations as gold production improves, maintains 2026 guidance",
+      "summaryEn": "Correction: This article has been updated to correct the third-quarter earnings comparison. An earlier version incorrectly stated that the company missed earnings expectations because of incomplete estimates. (Kitco News) - Barrick Mining Corporation (NYSE: B, TSX: ABX) reported better-than-expected third-quarter earnings as stronger gold production and higher realized prices helped offset rising operating costs. The mining giant also maintained its full-year production guidance as operational improvements continued across its portfolio. The senior miner reported adjusted net earnings of $1.35 billion, or $0.82 per share, for the third quarter, up 41% from $0.58 per share reported during the same period last year. The results beat consensus estimates, as analysts had expected earnings of $0.79 per share.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/09/nvidia-stock-jensen-huang-investigation/",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-09/barrick-beats-q3-earnings-expectations-gold-production-improves-maintains",
       "published": null
     },
     {
-      "id": "stockanalysis:a1cc03cd8c15b7a3",
-      "titleEn": "SoftBank stock flashes death cross as Arm Holdings, Intel, OpenAI woes continue",
+      "id": "stockanalysis:a19dc787e67c19c6",
+      "titleEn": "Why Amazon shares are up over 3% on Monday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/09/why-amazon-shares-are-up-over-3-on-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:badbb07ab8b6eee8",
+      "titleEn": "PNC Opens USDC Stablecoin Payments to Corporate Clients",
+      "summaryEn": "PNC Bank is making incoming USDC stablecoin payments available to its corporate and institutional clients. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); These clients can now receive payments in the dollar-backed USDC on the Ethereum blockchain, powered by Coinbase’s payments products, PNC announced Monday (Nov. 9).",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.pymnts.com/news/banking/2026/pnc-opens-usdc-stablecoin-payments-to-corporate-clients/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:efb5d7799b8a7ed5",
+      "titleEn": "Why are Micron and SanDisk stocks rising today?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/09/why-are-micron-and-sandisk-stocks-rising-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1f9c40b6d3bba9a0",
+      "titleEn": "Strategy stock (MSTR) falls as Bitcoin slump persists despite $82M purchase",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/11/09/strategy-stock-mstr-falls-as-bitcoin-slump-persists-despite-82m-purchase/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1184f1b70512ccc2",
+      "titleEn": "Why is Broadcom (AVGO) stock surging 9% on Monday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/09/why-is-broadcom-avgo-stock-surging-9-on-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:526b47fd891b4088",
+      "titleEn": "Why Trade Desk stock is soaring before earnings?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/09/why-trade-desk-stock-is-soaring-before-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:47f797b8d911ad13",
+      "titleEn": "Why is SpaceX stock up over 6% on Monday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/09/why-is-spacex-stock-up-over-6-on-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:34c5d2c854d1faa0",
+      "titleEn": "Dan Ives dubs talks of replacing Jensen Huang a 'joke'",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/09/dan-ives-dubs-talks-of-replacing-jensen-huang-a-joke/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dca822c84bc59da0",
+      "titleEn": "DJT Stock Hits a Record Low After the Midterms: Can Q3 Earnings Turn It Around?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/09/djt-stock-hits-a-record-low-after-the-midterms-can-q3-earnings-turn-it-around/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d375c0261f701efc",
+      "titleEn": "Gold and silver prices extend post-election rebound, central banks on pace to beat 2025 purchases – Heraeus",
+      "summaryEn": "(Kitco News) – Gold and silver are continuing to build on last week’s strong rally following the Democratic sweep of the midterm elections, but the precious metals will likely face pressure from resurgent oil prices and elevated Fed rate expectations, according to analysts at Heraeus. In their latest update, the analysts noted that gold prices saw a sharp rebound last week soon after dropping to a fresh 2026 low. “Having fallen by more than 15% from its late-August high, the price briefly dropped below $3,900/oz, breaking the June low near $3,950/oz,” they wrote. “The Democrats’ sweep of both houses of Congress then triggered gold’s largest daily gain since August, and the price recovered above $4,000/oz.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-09/gold-and-silver-prices-extend-post-election-rebound-central-banks-pace-beat",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cbbeb5b7744386b7",
+      "titleEn": "Constellation Energy stock's post-earnings rally is an opportunity to sell",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/09/constellation-energy-stocks-post-earnings-rally-is-an-opportunity-to-sell/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:74aa8441c21ed3fc",
+      "titleEn": "Barrick maintains 2026 guidance despite Q3 earnings miss",
+      "summaryEn": "Correction: This article has been updated to correct the third-quarter earnings comparison. An earlier version incorrectly stated that the company missed earnings expectations because of incomplete estimates. (Kitco News) - Barrick Mining Corporation (NYSE: B, TSX: ABX) reported better-than-expected third-quarter earnings as stronger gold production and higher realized prices helped offset rising operating costs. The mining giant also maintained its full-year production guidance as operational improvements continued across its portfolio. The senior miner reported adjusted net earnings of $1.35 billion, or $0.82 per share, for the third quarter, up 41% from $0.58 per share reported during the same period last year. The results beat consensus estimates, as analysts had expected earnings of $0.79 per share.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-09/barrick-maintains-2026-guidance-despite-q3-earnings-miss",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a29835d13553db47",
+      "titleEn": "Rocket Lab stock analysis ahead of earnings: beware of the head &amp; shoulders",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/09/rocket-lab-stock-analysis-ahead-of-earnings-beware-of-the-head-shoulders/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ff16787033e78025",
+      "titleEn": "Schwab Trading Activity Index™: STAX Score Rises in October Despite AI Selloff",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/09/softbank-stock-flashes-death-cross-as-arm-holdings-intel-openai-woes-continue/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7fca63e8f0fcbc5c",
-      "titleEn": "Nikkei 225 at risk as SoftBank, Mizuho, Mitsubishi UFJ earnings loom",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/09/nikkei-225-at-risk-as-softbank-mizuho-mitsubishi-ufj-earnings-loom/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9f0f68dd5ced6874",
-      "titleEn": "KOSPI jumps back above 5,100: is this a real recovery or a relief rally?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/09/kospi-today-south-korea-stock-market-rebound/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a6d54a19910f53f5",
-      "titleEn": "Why are Samsung and SK Hynix stocks surging after South Korea's market crash?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/09/why-are-samsung-and-sk-hynix-stocks-surging-after-south-koreas-market-crash/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:18868a8cecdfc406",
-      "titleEn": "Apple CEO Pushes for Greater Progress on AI",
-      "summaryEn": "Apple’s CEO is reportedly pressuring the company’s artificial intelligence czar to move faster with the company’s AI efforts. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Gurman cited sources familiar with the matter who say the CEO is frustrated by what he views as hesitance to embrace AI with the same enthusiasm as rivals. Ternus has goaded Federighi to make changes in a closed-door meeting, the report added.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apple-ceo-pushes-for-greater-progress-on-ai/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:51203ab66e2020c2",
-      "titleEn": "OpenAI Valuation Hits $1.25 Trillion in New Funding Round",
-      "summaryEn": "OpenAI’s valuation has reportedly reached $1.25 trillion, $50 billion less than the company had initially targeted. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The valuation came as the artificial intelligence startup closed on new funding of $11 billion, a source familiar with the matter told Reuters Friday (Nov. 6).",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-valuation-hits-1-25-trillion-in-new-funding-round/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:161019100f1c74a9",
-      "titleEn": "Amazon-Uber Eats Deal Leaves DoorDash Investors Queasy",
-      "summaryEn": "Amazon’s newly launched partnership with Uber Eats has reportedly left DoorDash investors feeling uneasy. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Amazon announced last week that Prime members can get free Uber Eats restaurant delivery on orders of more than $25. That triggered a sell-off in DoorDash shares, The Wall Street Journal (WSJ) reported Sunday (Nov. 8), calling the reaction “overdone.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/delivery/2026/amazon-uber-eats-deal-leaves-doordash-investors-queasy/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:62650f29ca094bd2",
-      "titleEn": "Berkshire Hathaway stock in focus as it boosts buybacks: what next?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/08/berkshire-hathaway-stock-in-focus-as-it-boosts-buybacks-what-next/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:722fa0e532c655df",
-      "titleEn": "SpaceX stock has dived after the midterms: Top reasons to buy the dip",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/07/spacex-stock-has-dived-after-the-midterms-top-reasons-to-buy-the-dip/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4fd3a296c044e234",
-      "titleEn": "Semtech Launches SGP.32 Multi-Profile eSIM for Global IoT Deployments",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261109606184/en/Semtech-Launches-SGP.32-Multi-Profile-eSIM-for-Global-IoT-Deployments/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a652c2d4eb8c7e62",
-      "titleEn": "Teradyne Introduces Omnyx Edge, Inline Board Test for Physical and Edge AI",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261109219142/en/Teradyne-Introduces-Omnyx-Edge-Inline-Board-Test-for-Physical-and-Edge-AI/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:416f29437859ed4d",
-      "titleEn": "FreeCast Announces Major Partnership with ROKiT Flix to Expand Global Streaming Entertainment Service",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261109855774/en/FreeCast-Announces-Major-Partnership-with-ROKiT-Flix-to-Expand-Global-Streaming-Entertainment-Service/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:da736713268277fa",
-      "titleEn": "Anneli Carlot Appointed Chief Financial Officer of Arkema and Member of the Executive Committee",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261108499061/en/Anneli-Carlot-Appointed-Chief-Financial-Officer-of-Arkema-and-Member-of-the-Executive-Committee/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3ec93ddd0e5628c1",
-      "titleEn": "Fairbanks Morse Defense Completes Acquisition of Truflo Marine, Expanding Mission-Critical Valve Capabilities for Allied Navies",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261108839632/en/Fairbanks-Morse-Defense-Completes-Acquisition-of-Truflo-Marine-Expanding-Mission-Critical-Valve-Capabilities-for-Allied-Navies/",
+      "link": "https://www.businesswire.com/news/home/20261109616773/en/Schwab-Trading-Activity-Index%E2%84%A2-STAX-Score-Rises-in-October-Despite-AI-Selloff/",
       "published": null
     }
   ]
