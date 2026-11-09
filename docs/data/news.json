@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-11-08T22:50:53.712179Z",
+  "generatedAt": "2026-11-09T02:11:41.791656Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:18868a8cecdfc406",
+      "titleEn": "Apple CEO Pushes for Greater Progress on AI",
+      "summaryEn": "Apple’s CEO is reportedly pressuring the company’s artificial intelligence czar to move faster with the company’s AI efforts. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Gurman cited sources familiar with the matter who say the CEO is frustrated by what he views as hesitance to embrace AI with the same enthusiasm as rivals. Ternus has goaded Federighi to make changes in a closed-door meeting, the report added.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apple-ceo-pushes-for-greater-progress-on-ai/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:51203ab66e2020c2",
+      "titleEn": "OpenAI Valuation Hits $1.25 Trillion in New Funding Round",
+      "summaryEn": "OpenAI’s valuation has reportedly reached $1.25 trillion, $50 billion less than the company had initially targeted. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The valuation came as the artificial intelligence startup closed on new funding of $11 billion, a source familiar with the matter told Reuters Friday (Nov. 6).",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-valuation-hits-1-25-trillion-in-new-funding-round/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:161019100f1c74a9",
+      "titleEn": "Amazon-Uber Eats Deal Leaves DoorDash Investors Queasy",
+      "summaryEn": "Amazon’s newly launched partnership with Uber Eats has reportedly left DoorDash investors feeling uneasy. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Amazon announced last week that Prime members can get free Uber Eats restaurant delivery on orders of more than $25. That triggered a sell-off in DoorDash shares, The Wall Street Journal (WSJ) reported Sunday (Nov. 8), calling the reaction “overdone.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/delivery/2026/amazon-uber-eats-deal-leaves-doordash-investors-queasy/",
+      "published": null
+    },
     {
       "id": "stockanalysis:62650f29ca094bd2",
       "titleEn": "Berkshire Hathaway stock in focus as it boosts buybacks: what next?",
@@ -49,6 +76,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:5ac76e1b5c93d093",
+      "titleEn": "Sysco Counts on AI Routing and Bidding for $500 Million in Savings",
+      "summaryEn": "Sysco operates 333 distribution centers, serves 670,000 customer locations and drives 4.5 million miles weekly in the United States. It is using AI for routing, supplier bidding and sales recommendations. AI routing improved cases delivered per mile by 2% to 4%, supplier bidding beat savings targets by 30%, and AI360 helped lift Sysco brand mix by 44 basis points. Sysco targets $500 million in savings by fiscal 2029. Wholesale distributors use AI across 35 of 75 business tasks, versus 20 in retail and 22 in construction, according to PYMNTS Intelligence. The research found that 85% of wholesale executives prioritize margins in future AI spending.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/sysco-counts-ai-routing-bidding-500-million-dollars-savings/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:eca8fa2f289d9357",
       "titleEn": "Dems' spending plans ‘would crush the U.S. dollar' and ‘that gives gold a floor' – Phoenix Futures' Grady",
       "summaryEn": "(Kitco News) – The incoming Democratic Congress will have no choice but to embrace the AI buildout if they want the revenue to fund their spending priorities – and that spending will likely weaken the dollar and boost gold , according to Kevin Grady, president of Phoenix Futures and Options. Grady said he was surprised to see the market’s initial reaction to the midterm results. “Yesterday was the meltdown, and I was actually surprised at the rally the other day,” he said. “I think that just exacerbated the sell-off yesterday.”",
@@ -67,12 +103,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:b0011e8c9168a041",
-      "titleEn": "Gold price holds critical $4,000 support, but strong U.S. jobs data and inflation risks threaten recovery",
-      "summaryEn": "(Kitco News) - A dramatic shift in U.S. domestic politics, as the Democratic Party swept the midterm elections to take control of Congress, helped push gold prices back above $4,000 an ounce. The precious metal has managed to defend this critical pivot level ahead of the weekend, even as the U.S. labor market appears to be firing on all cylinders again. Despite market resilience and optimism, analysts have taken a more cautious tone as potential interest rate hikes remain a looming threat. In an interview with Kitco News, Phillip Streible, Chief Market Strategist at Blue Line Futures, said that an elevated inflation print next week would further cement expectations that the Federal Reserve will raise interest rates in December. He added that this environment should push gold prices back below $4,000 an ounce.",
+      "id": "stockanalysis:4cd3c1b21a9c10b2",
+      "titleEn": "Faraday Future and FFR Announce FF OmniMind and Its Model Achieves No. 1 in RoboColiseum Embodied AI Model Ranking; Advances Sales with Several Leading U.S. Integrators of Security and Inspection Robotics Solutions",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-06/gold-price-holds-critical-4000-support-strong-us-jobs-data-and-inflation",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261108369766/en/Faraday-Future-and-FFR-Announce-FF-OmniMind-and-Its-Model-Achieves-No.-1-in-RoboColiseum-Embodied-AI-Model-Ranking-Advances-Sales-with-Several-Leading-U.S.-Integrators-of-Security-and-Inspection-Robotics-Solutions/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f1ba186a2524f724",
+      "titleEn": "PCT Investors Have Opportunity to Join PureCycle Technologies, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261108562318/en/PCT-Investors-Have-Opportunity-to-Join-PureCycle-Technologies-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5711ac066beb23bf",
+      "titleEn": "Veradermics to Hold Conference Call to Discuss 12-Month Long-Term Results from Phase 3 ‘302' Clinical Trial of VDPHL01 in Males with Mild-to-Moderate Pattern Hair Loss",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261108575790/en/Veradermics-to-Hold-Conference-Call-to-Discuss-12-Month-Long-Term-Results-from-Phase-3-%E2%80%98302%E2%80%99-Clinical-Trial-of-VDPHL01-in-Males-with-Mild-to-Moderate-Pattern-Hair-Loss/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1f42e1d9120672ac",
+      "titleEn": "Onterris Acquires EcOz Environmental Consultants, Strategically Expanding Consultancy Services in Northern Australia",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261108909489/en/Onterris-Acquires-EcOz-Environmental-Consultants-Strategically-Expanding-Consultancy-Services-in-Northern-Australia/",
       "published": null
     },
     {
@@ -100,15 +163,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261108355619/en/ROCK-Investors-Have-Opportunity-to-Join-Gibraltar-Industries-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3defb81d37f9312b",
-      "titleEn": "HSS Study Highlights Potential for CAR T-Cell Therapy to Transform Lupus Treatment",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261108016132/en/HSS-Study-Highlights-Potential-for-CAR-T-Cell-Therapy-to-Transform-Lupus-Treatment/",
       "published": null
     }
   ]
