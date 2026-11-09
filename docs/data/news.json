@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-11-09T02:11:41.791656Z",
+  "generatedAt": "2026-11-09T09:43:49.811206Z",
   "sourceCount": 1,
-  "count": 18,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:778d3158675b8bd8",
+      "titleEn": "Nvidia stock falls 4% after Jensen Huang probe: is a bigger crash coming?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/09/nvidia-stock-jensen-huang-investigation/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a1cc03cd8c15b7a3",
+      "titleEn": "SoftBank stock flashes death cross as Arm Holdings, Intel, OpenAI woes continue",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/09/softbank-stock-flashes-death-cross-as-arm-holdings-intel-openai-woes-continue/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7fca63e8f0fcbc5c",
+      "titleEn": "Nikkei 225 at risk as SoftBank, Mizuho, Mitsubishi UFJ earnings loom",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/09/nikkei-225-at-risk-as-softbank-mizuho-mitsubishi-ufj-earnings-loom/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9f0f68dd5ced6874",
+      "titleEn": "KOSPI jumps back above 5,100: is this a real recovery or a relief rally?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/09/kospi-today-south-korea-stock-market-rebound/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a6d54a19910f53f5",
+      "titleEn": "Why are Samsung and SK Hynix stocks surging after South Korea's market crash?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/09/why-are-samsung-and-sk-hynix-stocks-surging-after-south-koreas-market-crash/",
+      "published": null
+    },
     {
       "id": "stockanalysis:18868a8cecdfc406",
       "titleEn": "Apple CEO Pushes for Greater Progress on AI",
@@ -49,120 +94,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:75f4201648f51961",
-      "titleEn": "Anthropic IPO faces test after recent selloff: What Wall Street experts are saying",
+      "id": "stockanalysis:4fd3a296c044e234",
+      "titleEn": "Semtech Launches SGP.32 Multi-Profile eSIM for Global IoT Deployments",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261109606184/en/Semtech-Launches-SGP.32-Multi-Profile-eSIM-for-Global-IoT-Deployments/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a652c2d4eb8c7e62",
+      "titleEn": "Teradyne Introduces Omnyx Edge, Inline Board Test for Physical and Edge AI",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/07/anthropic-ipo-faces-test-after-recent-selloff-what-wall-street-experts-are-saying/",
+      "link": "https://www.businesswire.com/news/home/20261109219142/en/Teradyne-Introduces-Omnyx-Edge-Inline-Board-Test-for-Physical-and-Edge-AI/",
       "published": null
     },
     {
-      "id": "stockanalysis:b27c2cb730c42e3c",
-      "titleEn": "Anthropic IPO news: Valuation slips to $1.5 trillion as AI Bubble Index rises",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/07/anthropic-ipo-news-valuation-slips-to-1-5-trillion-as-ai-bubble-index-rises/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cc326e99367f83e1",
-      "titleEn": "Wall Street split on gold following Dems' midterm rout, Main Street bulls emboldened after post-election price rally",
-      "summaryEn": "(Kitco News) – Gold prices staged a strong recovery during a volatile week, as an early rebound from last week&#x27;s sharp selloff gained momentum following the Democratic sweep of Congress in Tuesday&#x27;s midterm elections, before a technology-led equity rout and stronger-than-expected U.S. payrolls ate into the precious metal&#x27;s gains. Spot gold kicked off the week trading at $3,875.21 per ounce on Sunday evening, and the yellow metal quickly pushed higher on Monday as falling oil prices eased inflation concerns and bargain-hunting emerged following the previous week&#x27;s decline. The recovery stalled Tuesday as stronger U.S. economic data, rising Treasury yields, and a firmer dollar weighed on bullion, with gold briefly retreating below $3,900 before buyers returned. The rally then accelerated Tuesday evening and Wednesday after Democrats secured control of both chambers of Congress, raising expectations for legislative gridlock and potentially reduced government borrowing. Treasury yields and the dollar fell sharply as investors reassessed the fiscal outlook, helping gold surge back above $4,000. The advance continued Thursday, when spot prices set their weekly high at $4,147.02 per ounce, before a sharp technology-led equity selloff triggered renewed liquidation across financial markets.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-06/wall-street-split-gold-following-dems-midterm-rout-main-street-bulls",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5ac76e1b5c93d093",
-      "titleEn": "Sysco Counts on AI Routing and Bidding for $500 Million in Savings",
-      "summaryEn": "Sysco operates 333 distribution centers, serves 670,000 customer locations and drives 4.5 million miles weekly in the United States. It is using AI for routing, supplier bidding and sales recommendations. AI routing improved cases delivered per mile by 2% to 4%, supplier bidding beat savings targets by 30%, and AI360 helped lift Sysco brand mix by 44 basis points. Sysco targets $500 million in savings by fiscal 2029. Wholesale distributors use AI across 35 of 75 business tasks, versus 20 in retail and 22 in construction, according to PYMNTS Intelligence. The research found that 85% of wholesale executives prioritize margins in future AI spending.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/sysco-counts-ai-routing-bidding-500-million-dollars-savings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:eca8fa2f289d9357",
-      "titleEn": "Dems' spending plans ‘would crush the U.S. dollar' and ‘that gives gold a floor' – Phoenix Futures' Grady",
-      "summaryEn": "(Kitco News) – The incoming Democratic Congress will have no choice but to embrace the AI buildout if they want the revenue to fund their spending priorities – and that spending will likely weaken the dollar and boost gold , according to Kevin Grady, president of Phoenix Futures and Options. Grady said he was surprised to see the market’s initial reaction to the midterm results. “Yesterday was the meltdown, and I was actually surprised at the rally the other day,” he said. “I think that just exacerbated the sell-off yesterday.”",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-11-06/dems-spending-plans-would-crush-us-dollar-and-gives-gold-floor-phoenix",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6c7230d00bbd3651",
-      "titleEn": "Gold and the greenback are still at the mercy of Trump and the Fed – Walsh Trading's Weyer",
-      "summaryEn": "(Kitco News) – The results of the midterm elections were decisive, but the future path of the dollar and gold still remains largely in the hands of the Federal Reserve and the President, according to John Weyer, co-director of commercial hedging at Walsh Trading. Weyer said that while the election removes some uncertainty from the market, it has no impact on the Federal Reserve, and precious metals traders will have to wait and see what the central bank does in December. “The Fed operates differently than we do as participants in the markets,” he said. “They&#x27;re slow and steady when it comes to data and seeing what happens, and patient. We want to make trades, so we want to play it one way or the other – what does this data mean, what does the election mean? – and I think they’re more inclined to stay on the path they were; they’re going to take in the latest data, the election, digest it as they will and just keep plodding along, boringly, day to day.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-06/gold-and-greenback-are-still-mercy-trump-and-fed-walsh-tradings-weyer",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4cd3c1b21a9c10b2",
-      "titleEn": "Faraday Future and FFR Announce FF OmniMind and Its Model Achieves No. 1 in RoboColiseum Embodied AI Model Ranking; Advances Sales with Several Leading U.S. Integrators of Security and Inspection Robotics Solutions",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261108369766/en/Faraday-Future-and-FFR-Announce-FF-OmniMind-and-Its-Model-Achieves-No.-1-in-RoboColiseum-Embodied-AI-Model-Ranking-Advances-Sales-with-Several-Leading-U.S.-Integrators-of-Security-and-Inspection-Robotics-Solutions/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f1ba186a2524f724",
-      "titleEn": "PCT Investors Have Opportunity to Join PureCycle Technologies, Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:416f29437859ed4d",
+      "titleEn": "FreeCast Announces Major Partnership with ROKiT Flix to Expand Global Streaming Entertainment Service",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261108562318/en/PCT-Investors-Have-Opportunity-to-Join-PureCycle-Technologies-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20261109855774/en/FreeCast-Announces-Major-Partnership-with-ROKiT-Flix-to-Expand-Global-Streaming-Entertainment-Service/",
       "published": null
     },
     {
-      "id": "stockanalysis:5711ac066beb23bf",
-      "titleEn": "Veradermics to Hold Conference Call to Discuss 12-Month Long-Term Results from Phase 3 ‘302' Clinical Trial of VDPHL01 in Males with Mild-to-Moderate Pattern Hair Loss",
+      "id": "stockanalysis:da736713268277fa",
+      "titleEn": "Anneli Carlot Appointed Chief Financial Officer of Arkema and Member of the Executive Committee",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261108575790/en/Veradermics-to-Hold-Conference-Call-to-Discuss-12-Month-Long-Term-Results-from-Phase-3-%E2%80%98302%E2%80%99-Clinical-Trial-of-VDPHL01-in-Males-with-Mild-to-Moderate-Pattern-Hair-Loss/",
+      "link": "https://www.businesswire.com/news/home/20261108499061/en/Anneli-Carlot-Appointed-Chief-Financial-Officer-of-Arkema-and-Member-of-the-Executive-Committee/",
       "published": null
     },
     {
-      "id": "stockanalysis:1f42e1d9120672ac",
-      "titleEn": "Onterris Acquires EcOz Environmental Consultants, Strategically Expanding Consultancy Services in Northern Australia",
+      "id": "stockanalysis:3ec93ddd0e5628c1",
+      "titleEn": "Fairbanks Morse Defense Completes Acquisition of Truflo Marine, Expanding Mission-Critical Valve Capabilities for Allied Navies",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261108909489/en/Onterris-Acquires-EcOz-Environmental-Consultants-Strategically-Expanding-Consultancy-Services-in-Northern-Australia/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:997701a8b013f761",
-      "titleEn": "Vir Biotechnology Announces Expanded Phase 2 SOLSTICE Data for Elebsiran and Tobevibart in Chronic Hepatitis Delta, Showing Deep and Sustained Viral Suppression, and Exploratory Finite Treatment Data",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261108600446/en/Vir-Biotechnology-Announces-Expanded-Phase-2-SOLSTICE-Data-for-Elebsiran-and-Tobevibart-in-Chronic-Hepatitis-Delta-Showing-Deep-and-Sustained-Viral-Suppression-and-Exploratory-Finite-Treatment-Data/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fba34738b64541c3",
-      "titleEn": "Vir Biotechnology Announces Primary Endpoint Met in Pivotal Phase 3 ECLIPSE 1 Trial for Elebsiran and Tobevibart in Chronic Hepatitis Delta",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261108631000/en/Vir-Biotechnology-Announces-Primary-Endpoint-Met-in-Pivotal-Phase-3-ECLIPSE-1-Trial-for-Elebsiran-and-Tobevibart-in-Chronic-Hepatitis-Delta/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2c3d3356ad806a71",
-      "titleEn": "ROCK Investors Have Opportunity to Join Gibraltar Industries, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261108355619/en/ROCK-Investors-Have-Opportunity-to-Join-Gibraltar-Industries-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20261108839632/en/Fairbanks-Morse-Defense-Completes-Acquisition-of-Truflo-Marine-Expanding-Mission-Critical-Valve-Capabilities-for-Allied-Navies/",
       "published": null
     }
   ]
