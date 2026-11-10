@@ -1,132 +1,114 @@
 {
-  "generatedAt": "2026-11-10T18:00:50.773032Z",
+  "generatedAt": "2026-11-10T23:14:12.573903Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 12,
   "items": [
     {
-      "id": "stockanalysis:944565ad9fc6f76d",
-      "titleEn": "Gold reserve repatriations don't mean central banks are de-dollarizing – Fed's Weiss",
-      "summaryEn": "(Kitco News) – The highly publicized central bank gold reserve relocations and repatriations by the Netherlands, France, and Germany in recent years have had little impact on their U.S. dollar reserve allocations, according to Colin Weiss, Principal Economist for Global Financial Flows at the Federal Reserve. “Generally, the choice of where to custody gold reserves may in part reflect the perceived risk of sanctions or expropriation in the jurisdiction of custody alongside other considerations like the proximity to international gold markets,” Weiss wrote in a Federal Reserve research note on Monday. “The U.S. dollar share of foreign exchange (FX) reserves may also depend on sanctions risk in addition to other factors like the size and strength of the U.S. economy and the unmatched depth and liquidity of U.S. financial markets.” Weiss noted that while some countries have accumulated gold reserves stored outside the U.S. even as they have reduced the share of their FX reserves held in U.S. dollar assets due to sanctions risk, the central banks of the Netherlands, France, and Germany have not followed this pattern. “Instead, they continue to hold most of their FX reserves in U.S. dollar assets without substantial declines in the U.S. dollar share following the shift of their gold reserves out of the U.S.,” he said. “For these euro area central banks, the economic benefits of allocating reserves to U.S. dollar assets appear to outweigh any potential costs.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-10/gold-reserve-repatriations-dont-mean-central-banks-are-de-dollarizing-feds",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:863401d0da18a6c4",
-      "titleEn": "SpaceX stock: $24B Texas AI project faces policy hurdles",
+      "id": "stockanalysis:5db569ac28b17beb",
+      "titleEn": "CoreWeave earnings bring good news for AI trade",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/10/spacex-stock-24b-texas-ai-project-faces-policy-hurdles/",
+      "link": "https://invezz.com/news/2026/11/10/coreweave-earnings-bring-good-news-for-ai-trade/",
       "published": null
     },
     {
-      "id": "stockanalysis:6785398dcaf7f80e",
-      "titleEn": "How high could GTA VI send Take-Two stock in 2027?",
+      "id": "stockanalysis:e6cd9ca6f1bb4207",
+      "titleEn": "SanDisk stock has become highly undervalued: is it safe to buy the dip?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/10/how-high-could-gta-vi-send-take-two-stock-in-2027/",
+      "link": "https://invezz.com/news/2026/11/10/sandisk-stock-has-become-highly-undervalued-is-it-safe-to-buy-the-dip/",
       "published": null
     },
     {
-      "id": "stockanalysis:cc30cb6f1293d037",
-      "titleEn": "D-Wave investors are focused on revenue, the real story may be elsewhere",
+      "id": "stockanalysis:8dc0f8c01fe50ac6",
+      "titleEn": "Why is Microsoft stock falling 2% today?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/10/d-wave-investors-are-focused-on-revenue-the-real-story-may-be-elsewhere/",
+      "link": "https://invezz.com/news/2026/11/10/why-is-microsoft-stock-falling-2-today/",
       "published": null
     },
     {
-      "id": "stockanalysis:60e946b549255abe",
-      "titleEn": "These 3 stocks stand to benefit the most from Anthropic IPO",
+      "id": "stockanalysis:9d1d897f401dc3cc",
+      "titleEn": "Applied Materials stock: death cross pattern nears ahead of earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/10/applied-materials-stock-death-cross-pattern-nears-ahead-of-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e01472afbf4e8e1c",
+      "titleEn": "Alleged spy plot targeting CEO Jensen Huang raises questions about Nvidia's future",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Investigations into whether Nvidia's CEO was the target of a \"foreign intelligence effort\" are raising questions about the future of the chipmaker, which became one of the world's most valuable companies by providing technology that powered the artificial intelligence boom. Jensen Huang has been synonymous with Nvidia since he co-founded it more than 30 years ago. The company now faces potential damage to its reputation and stock price, uncertainty over a possible successor and new scrutiny from shareholders and elected officials.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-11-alleged-spy-plot-ceo-jensen.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cbe80c365858af90",
+      "titleEn": "Micron stock falls 3%, why this analyst sees 140% upside for the stock?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/10/micron-stock-falls-3-why-this-analyst-sees-140-upside-for-the-stock/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3c1bfcc8214507a1",
+      "titleEn": "Boise Cascade Completes Acquisition of Two California Distribution Facilities from Taiga Building Products",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261110513281/en/Boise-Cascade-Completes-Acquisition-of-Two-California-Distribution-Facilities-from-Taiga-Building-Products/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d9692d08adc00390",
+      "titleEn": "Halliburton Announces Dividend",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261110622016/en/Halliburton-Announces-Dividend/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a76641c4e36af433",
+      "titleEn": "Rallybio Announces Reverse Stock Split of Common Stock in Connection with the Proposed Merger with Avenzo",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261108364985/en/Rallybio-Announces-Reverse-Stock-Split-of-Common-Stock-in-Connection-with-the-Proposed-Merger-with-Avenzo/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dabf928193d8d422",
+      "titleEn": "ICL Reports Third Quarter 2026 Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261110347804/en/ICL-Reports-Third-Quarter-2026-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f915549a451ef793",
+      "titleEn": "Superior Plus Declares 2026 Fourth Quarter Dividend",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261110933115/en/Superior-Plus-Declares-2026-Fourth-Quarter-Dividend/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b3073ee8aca047c3",
+      "titleEn": "VerticalScope Enters into Data Agreements with two Frontier AI Labs",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/10/these-3-stocks-stand-to-benefit-the-most-from-anthropic-ipo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e0d5c066c496a7d0",
-      "titleEn": "Jensen Huang's affair helped Chinese firms get $7.5B worth of Nvidia chips: report",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/10/jensen-huangs-affair-helped-chinese-firms-get-7-5b-worth-of-nvidia-chips-report/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ee8cae8a4790d3d0",
-      "titleEn": "Gold, silver retreat as high core CPI lifts December Fed hike odds- Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were sharply lower in early U.S. trading Tuesday, pressured by stronger-than-expected U.S. inflation data that reinforced expectations for another Federal Reserve interest rate increase in December. Both headline and core consumer prices rose more than economists had forecast in October, sending Treasury yields higher and adding to pressure on precious metals following Monday&#x27;s rally. Spot gold was trading near $4,055.30 an ounce, down $84.10, or 2.03%, while spot silver was trading near $51.700, down $1.600, or 3.01%. The U.S. Labor Department reported Tuesday that the consumer price index increased a seasonally adjusted 0.4% in October, exceeding economists&#x27; expectations for a 0.3% gain but slowing from September&#x27;s 0.6% increase. Core consumer prices, which exclude food and energy, rose 0.3%, also above forecasts for a 0.2% increase. Core inflation has now increased 0.3% in each of the past three months, indicating that underlying price pressures remain persistent despite the recent decline in crude oil prices. The Bureau of Labor Statistics did not publish annual inflation rates for October because the federal government shutdown prevented the collection of comparable consumer price data in October 2025. September&#x27;s headline annual inflation rate was 3.7%, but a directly comparable October reading is unavailable. The absence of official annual figures makes the monthly components particularly important for assessing the inflation trend and the implications for Federal Reserve policy.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-10/gold-silver-retreat-high-core-cpi-lifts-december-fed-hike-odds-kitco-am",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e003538295051214",
-      "titleEn": "Nebius Group stock outlook ahead of earnings this week: will it rise or fall?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/10/nebius-group-stock-outlook-ahead-of-earnings-this-week-will-it-rise-or-fall/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2e047f11fdd7950e",
-      "titleEn": "Gold prices down 2% on the day as US CPI rises more than expected",
-      "summaryEn": "(Kitco News) - The gold market has been hit with significant selling pressure as persistent inflation pressures are adding to fears that the Federal Reserve could aggressively raise interest rates next month to cool rising consumer prices. The Consumer Price Index (CPI) rose by 0.4% last month, following September’s 0.6% increase, the U.S. Bureau of Labor Statistics announced on Tuesday. The inflation data was hotter than expected, as economists were looking for a 0.3% increase. The report also showed that higher energy prices have become further embedded in the broader economy, as core inflation, which strips out energy and food prices, rose more than expected. Core CPI increased 0.3% last month, matching September’s increase. According to consensus estimates, economists were expecting a 0.2% increase.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-10/gold-prices-down-2-day-us-cpi-rises-more-expected",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:881a7468da09709c",
-      "titleEn": "Trade Desk stock is surging after earnings: will the island reversal push it higher?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/10/trade-desk-stock-is-surging-after-earnings-will-the-island-reversal-push-it-higher/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7d48b352a79d8754",
-      "titleEn": "Anthropic sets IPO price range at $70–$78 a share, targets up to $64.35 billion",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/10/anthropic-ipo-price-range/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5b33580820d19066",
-      "titleEn": "Anthropic IPO: AI startup targets $1T valuation; sets price range of $70-$78",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/10/anthropic-ipo-ai-startup-targets-1t-valuation-sets-price-range-of-70-78/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:75c85da32646dc90",
-      "titleEn": "Keysight Expands High-Power Test Portfolio for Broader Power Validation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261110447334/en/Keysight-Expands-High-Power-Test-Portfolio-for-Broader-Power-Validation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d11627b9fdcec22c",
-      "titleEn": "Altimetrik Accelerates Enterprise AI Transformation with Google Cloud's Gemini for Healthcare",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261110397391/en/Altimetrik-Accelerates-Enterprise-AI-Transformation-with-Google-Cloud%E2%80%99s-Gemini-for-Healthcare/",
+      "link": "https://www.businesswire.com/news/home/20261110932878/en/VerticalScope-Enters-into-Data-Agreements-with-two-Frontier-AI-Labs/",
       "published": null
     }
   ]
