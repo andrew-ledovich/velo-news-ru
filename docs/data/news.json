@@ -1,141 +1,69 @@
 {
-  "generatedAt": "2026-11-09T20:07:19.097909Z",
+  "generatedAt": "2026-11-10T02:43:45.863999Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 7,
   "items": [
     {
-      "id": "stockanalysis:0e9895f0921e8cef",
-      "titleEn": "Barrick beats Q3 earnings expectations as gold production improves, maintains 2026 guidance",
-      "summaryEn": "Correction: This article has been updated to correct the third-quarter earnings comparison. An earlier version incorrectly stated that the company missed earnings expectations because of incomplete estimates. (Kitco News) - Barrick Mining Corporation (NYSE: B, TSX: ABX) reported better-than-expected third-quarter earnings as stronger gold production and higher realized prices helped offset rising operating costs. The mining giant also maintained its full-year production guidance as operational improvements continued across its portfolio. The senior miner reported adjusted net earnings of $1.35 billion, or $0.82 per share, for the third quarter, up 41% from $0.58 per share reported during the same period last year. The results beat consensus estimates, as analysts had expected earnings of $0.79 per share.",
+      "id": "stockanalysis:c18f813351beceae",
+      "titleEn": "Gold, silver advance as dollar weakens, Fed rate expectations face inflation test - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were sharply higher in late U.S. trading Monday, supported by a weaker U.S. dollar and a steep decline in crude oil prices as investors responded to renewed hopes for a diplomatic resolution to the U.S.-Iran conflict. The retreat in energy prices eased some inflation concerns ahead of Tuesday&#x27;s U.S. consumer price index report, although Friday&#x27;s stronger-than-expected employment figures continued to support expectations for another Federal Reserve interest rate increase in December. A broad recovery in North American and European equity markets also reflected improving investor sentiment following last week&#x27;s technology-led selloff. Spot gold was trading near $4,140.40 an ounce, up $69.40, or 1.70%, while spot silver was trading near $53.320, up $1.350, or 2.60%. Gold extended its recovery following last week&#x27;s sharp fluctuations, when Democrats&#x27; victories in the U.S. midterm elections initially drove Treasury yields and the dollar lower before stronger employment data revived expectations for additional Federal Reserve tightening. Monday&#x27;s decline in crude oil prices helped offset some of those monetary policy concerns, while the softer dollar improved the relative attractiveness of precious metals. Silver outperformed gold as the recovery in broader financial markets encouraged renewed buying interest. The latest U.S. economic reports continue to indicate resilient labor-market conditions despite elevated borrowing costs and recent volatility in technology shares. Friday&#x27;s October nonfarm payrolls report showed an increase of 165,000 jobs, substantially exceeding expectations for approximately 65,000. The unemployment rate declined to 4.1% from 4.2%, while average hourly earnings increased 0.4% on the month and 3.1% annually. August and September payroll figures were revised upward by a combined 84,000 jobs, reinforcing evidence that employment conditions remain stronger than previously estimated. The figures increased expectations that the Fed could raise interest rates again in December, even as financial-market volatility and declining energy prices complicate the inflation outlook.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-09/barrick-beats-q3-earnings-expectations-gold-production-improves-maintains",
+      "link": "https://www.kitco.com/news/article/2026-11-09/gold-silver-advance-dollar-weakens-fed-rate-expectations-face-inflation",
       "published": null
     },
     {
-      "id": "stockanalysis:a19dc787e67c19c6",
-      "titleEn": "Why Amazon shares are up over 3% on Monday?",
+      "id": "stockanalysis:112159a95951dd95",
+      "titleEn": "Nexi Sells Payment Provider Ratepay to Affirm",
+      "summaryEn": "European digital payments infrastructure company Nexi is selling its payment provider business Ratepay to buy now pay later (BNPL) company Affirm . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); As part of the deal, Nexi and Affirm inked a memorandum of understanding to expand their current partnership in Germany, Austria and Switzerland and explore new opportunities together, the companies said in a Monday (Nov. 9) news release .",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/acquiring/2026/nexi-sells-payment-provider-ratepay-to-affirm/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:63e2f5559ec72dad",
+      "titleEn": "Wasabi Technologies Reduces Costs and Operational Overhead for Leading Japanese Entertainment Company SEGA SAMMY",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/09/why-amazon-shares-are-up-over-3-on-monday/",
+      "link": "https://www.businesswire.com/news/home/20261013609665/en/Wasabi-Technologies-Reduces-Costs-and-Operational-Overhead-for-Leading-Japanese-Entertainment-Company-SEGA-SAMMY/",
       "published": null
     },
     {
-      "id": "stockanalysis:badbb07ab8b6eee8",
-      "titleEn": "PNC Opens USDC Stablecoin Payments to Corporate Clients",
-      "summaryEn": "PNC Bank is making incoming USDC stablecoin payments available to its corporate and institutional clients. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); These clients can now receive payments in the dollar-backed USDC on the Ethereum blockchain, powered by Coinbase’s payments products, PNC announced Monday (Nov. 9).",
+      "id": "stockanalysis:3e8aef8acdb9ce71",
+      "titleEn": "Bayer's SUNHARBO® (asundexian), 50 mg tablets, the First and Only Factor XIa Inhibitor, Approved by the U.S.",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261021770347/en/Bayer%E2%80%99s-SUNHARBO%C2%AE-asundexian-50-mg-tablets-the-First-and-Only-Factor-XIa-Inhibitor-Approved-by-the-U.S.-FDA-to-Reduce-the-Risk-of-Stroke-in-Adults-With-Recent-Non-Cardioembolic-Ischemic-Stroke-or-High-Risk-Transient-Ischemic-Attack.../",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:298cd98d4d3157f4",
+      "titleEn": "ATS to Participate in the Baird 2026 Global Industrial Conference",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261109673645/en/ATS-to-Participate-in-the-Baird-2026-Global-Industrial-Conference/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7c8c0276a6f0fb71",
+      "titleEn": "Community Health Systems Announces Proposed Exchange Offer and Consent Solicitation",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261109735753/en/Community-Health-Systems-Announces-Proposed-Exchange-Offer-and-Consent-Solicitation/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fd94206bbdfcd049",
+      "titleEn": "Metaplanet and BTC Inc. Announce Launch of Bitcoin Japan",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.pymnts.com/news/banking/2026/pnc-opens-usdc-stablecoin-payments-to-corporate-clients/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:efb5d7799b8a7ed5",
-      "titleEn": "Why are Micron and SanDisk stocks rising today?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/09/why-are-micron-and-sandisk-stocks-rising-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1f9c40b6d3bba9a0",
-      "titleEn": "Strategy stock (MSTR) falls as Bitcoin slump persists despite $82M purchase",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/11/09/strategy-stock-mstr-falls-as-bitcoin-slump-persists-despite-82m-purchase/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1184f1b70512ccc2",
-      "titleEn": "Why is Broadcom (AVGO) stock surging 9% on Monday?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/09/why-is-broadcom-avgo-stock-surging-9-on-monday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:526b47fd891b4088",
-      "titleEn": "Why Trade Desk stock is soaring before earnings?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/09/why-trade-desk-stock-is-soaring-before-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:47f797b8d911ad13",
-      "titleEn": "Why is SpaceX stock up over 6% on Monday?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/09/why-is-spacex-stock-up-over-6-on-monday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:34c5d2c854d1faa0",
-      "titleEn": "Dan Ives dubs talks of replacing Jensen Huang a 'joke'",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/09/dan-ives-dubs-talks-of-replacing-jensen-huang-a-joke/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:dca822c84bc59da0",
-      "titleEn": "DJT Stock Hits a Record Low After the Midterms: Can Q3 Earnings Turn It Around?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/09/djt-stock-hits-a-record-low-after-the-midterms-can-q3-earnings-turn-it-around/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d375c0261f701efc",
-      "titleEn": "Gold and silver prices extend post-election rebound, central banks on pace to beat 2025 purchases – Heraeus",
-      "summaryEn": "(Kitco News) – Gold and silver are continuing to build on last week’s strong rally following the Democratic sweep of the midterm elections, but the precious metals will likely face pressure from resurgent oil prices and elevated Fed rate expectations, according to analysts at Heraeus. In their latest update, the analysts noted that gold prices saw a sharp rebound last week soon after dropping to a fresh 2026 low. “Having fallen by more than 15% from its late-August high, the price briefly dropped below $3,900/oz, breaking the June low near $3,950/oz,” they wrote. “The Democrats’ sweep of both houses of Congress then triggered gold’s largest daily gain since August, and the price recovered above $4,000/oz.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-09/gold-and-silver-prices-extend-post-election-rebound-central-banks-pace-beat",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cbbeb5b7744386b7",
-      "titleEn": "Constellation Energy stock's post-earnings rally is an opportunity to sell",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/09/constellation-energy-stocks-post-earnings-rally-is-an-opportunity-to-sell/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:74aa8441c21ed3fc",
-      "titleEn": "Barrick maintains 2026 guidance despite Q3 earnings miss",
-      "summaryEn": "Correction: This article has been updated to correct the third-quarter earnings comparison. An earlier version incorrectly stated that the company missed earnings expectations because of incomplete estimates. (Kitco News) - Barrick Mining Corporation (NYSE: B, TSX: ABX) reported better-than-expected third-quarter earnings as stronger gold production and higher realized prices helped offset rising operating costs. The mining giant also maintained its full-year production guidance as operational improvements continued across its portfolio. The senior miner reported adjusted net earnings of $1.35 billion, or $0.82 per share, for the third quarter, up 41% from $0.58 per share reported during the same period last year. The results beat consensus estimates, as analysts had expected earnings of $0.79 per share.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-09/barrick-maintains-2026-guidance-despite-q3-earnings-miss",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a29835d13553db47",
-      "titleEn": "Rocket Lab stock analysis ahead of earnings: beware of the head &amp; shoulders",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/09/rocket-lab-stock-analysis-ahead-of-earnings-beware-of-the-head-shoulders/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ff16787033e78025",
-      "titleEn": "Schwab Trading Activity Index™: STAX Score Rises in October Despite AI Selloff",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261109616773/en/Schwab-Trading-Activity-Index%E2%84%A2-STAX-Score-Rises-in-October-Despite-AI-Selloff/",
+      "link": "https://www.businesswire.com/news/home/20261109450826/en/Metaplanet-and-BTC-Inc.-Announce-Launch-of-Bitcoin-Japan/",
       "published": null
     }
   ]
