@@ -1,87 +1,132 @@
 {
-  "generatedAt": "2026-11-10T10:25:08.393492Z",
+  "generatedAt": "2026-11-10T18:00:50.773032Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 14,
   "items": [
     {
-      "id": "stockanalysis:616b7c1d186e59df",
-      "titleEn": "CoreWeave stock plunges 40%: why are traders bracing for a 20% move today?",
-      "summaryEn": null,
+      "id": "stockanalysis:944565ad9fc6f76d",
+      "titleEn": "Gold reserve repatriations don't mean central banks are de-dollarizing – Fed's Weiss",
+      "summaryEn": "(Kitco News) – The highly publicized central bank gold reserve relocations and repatriations by the Netherlands, France, and Germany in recent years have had little impact on their U.S. dollar reserve allocations, according to Colin Weiss, Principal Economist for Global Financial Flows at the Federal Reserve. “Generally, the choice of where to custody gold reserves may in part reflect the perceived risk of sanctions or expropriation in the jurisdiction of custody alongside other considerations like the proximity to international gold markets,” Weiss wrote in a Federal Reserve research note on Monday. “The U.S. dollar share of foreign exchange (FX) reserves may also depend on sanctions risk in addition to other factors like the size and strength of the U.S. economy and the unmatched depth and liquidity of U.S. financial markets.” Weiss noted that while some countries have accumulated gold reserves stored outside the U.S. even as they have reduced the share of their FX reserves held in U.S. dollar assets due to sanctions risk, the central banks of the Netherlands, France, and Germany have not followed this pattern. “Instead, they continue to hold most of their FX reserves in U.S. dollar assets without substantial declines in the U.S. dollar share following the shift of their gold reserves out of the U.S.,” he said. “For these euro area central banks, the economic benefits of allocating reserves to U.S. dollar assets appear to outweigh any potential costs.”",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/10/coreweave-stock-plunges-40-why-are-traders-bracing-for-a-20-move-today/",
+      "link": "https://www.kitco.com/news/article/2026-11-10/gold-reserve-repatriations-dont-mean-central-banks-are-de-dollarizing-feds",
       "published": null
     },
     {
-      "id": "stockanalysis:796c4bd41444e9f0",
-      "titleEn": "SoftBank swings from $16 billion profit to $7 billion loss: what went wrong?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/10/softbank-earnings-7-billion-loss-ai-investments/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3083c2c2322725ea",
-      "titleEn": "Nvidia stock faces two threats as Jim Cramer questions his golden rule",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/10/nvidia-stock-jim-cramer-jensen-huang-ai-risks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ca4e4762595b81e7",
-      "titleEn": "Nikkei 225 surges past 60,000, but why are investors still worried?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/10/nikkei-225-today-japan-stock-market-rally-risks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1b1482cfe1d69265",
-      "titleEn": "Why is KOSPI surging after last week's brutal market crash?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/10/kospi-today-south-korea-stock-market-rally/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:46bbda9c2d00eebc",
-      "titleEn": "Anthropic IPO shock: why did the AI giant suddenly retract its pricing details?",
+      "id": "stockanalysis:863401d0da18a6c4",
+      "titleEn": "SpaceX stock: $24B Texas AI project faces policy hurdles",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/10/anthropic-ipo-pricing-details-retracted-valuation/",
+      "link": "https://invezz.com/news/2026/11/10/spacex-stock-24b-texas-ai-project-faces-policy-hurdles/",
       "published": null
     },
     {
-      "id": "stockanalysis:0f06ccb9b33ddb48",
-      "titleEn": "Who is Jensen Huang and why is Nvidia so important in the AI race?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/10/who-is-jensen-huang-and-why-is-nvidia-so-important-in-the-ai-race/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:681cb47042bb683e",
-      "titleEn": "TASKING's Unified Toolchain Supports Infineon's New AURIX™ RC1 RISC-V-based Automotive MCU Family with Industry's First AI-Enabled End-to-End Workflow",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261110215415/en/TASKING%E2%80%99s-Unified-Toolchain-Supports-Infineon%E2%80%99s-New-AURIX%E2%84%A2-RC1-RISC-V-based-Automotive-MCU-Family-with-Industry%E2%80%99s-First-AI-Enabled-End-to-End-Workflow/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:905521c6582dc9af",
-      "titleEn": "NetApp Hosts Second Quarter of Fiscal Year 2027 Financial Results Webcast",
+      "id": "stockanalysis:6785398dcaf7f80e",
+      "titleEn": "How high could GTA VI send Take-Two stock in 2027?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261110453359/en/NetApp-Hosts-Second-Quarter-of-Fiscal-Year-2027-Financial-Results-Webcast/",
+      "link": "https://invezz.com/news/2026/11/10/how-high-could-gta-vi-send-take-two-stock-in-2027/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cc30cb6f1293d037",
+      "titleEn": "D-Wave investors are focused on revenue, the real story may be elsewhere",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/10/d-wave-investors-are-focused-on-revenue-the-real-story-may-be-elsewhere/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:60e946b549255abe",
+      "titleEn": "These 3 stocks stand to benefit the most from Anthropic IPO",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/10/these-3-stocks-stand-to-benefit-the-most-from-anthropic-ipo/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e0d5c066c496a7d0",
+      "titleEn": "Jensen Huang's affair helped Chinese firms get $7.5B worth of Nvidia chips: report",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/10/jensen-huangs-affair-helped-chinese-firms-get-7-5b-worth-of-nvidia-chips-report/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ee8cae8a4790d3d0",
+      "titleEn": "Gold, silver retreat as high core CPI lifts December Fed hike odds- Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were sharply lower in early U.S. trading Tuesday, pressured by stronger-than-expected U.S. inflation data that reinforced expectations for another Federal Reserve interest rate increase in December. Both headline and core consumer prices rose more than economists had forecast in October, sending Treasury yields higher and adding to pressure on precious metals following Monday&#x27;s rally. Spot gold was trading near $4,055.30 an ounce, down $84.10, or 2.03%, while spot silver was trading near $51.700, down $1.600, or 3.01%. The U.S. Labor Department reported Tuesday that the consumer price index increased a seasonally adjusted 0.4% in October, exceeding economists&#x27; expectations for a 0.3% gain but slowing from September&#x27;s 0.6% increase. Core consumer prices, which exclude food and energy, rose 0.3%, also above forecasts for a 0.2% increase. Core inflation has now increased 0.3% in each of the past three months, indicating that underlying price pressures remain persistent despite the recent decline in crude oil prices. The Bureau of Labor Statistics did not publish annual inflation rates for October because the federal government shutdown prevented the collection of comparable consumer price data in October 2025. September&#x27;s headline annual inflation rate was 3.7%, but a directly comparable October reading is unavailable. The absence of official annual figures makes the monthly components particularly important for assessing the inflation trend and the implications for Federal Reserve policy.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-10/gold-silver-retreat-high-core-cpi-lifts-december-fed-hike-odds-kitco-am",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e003538295051214",
+      "titleEn": "Nebius Group stock outlook ahead of earnings this week: will it rise or fall?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/10/nebius-group-stock-outlook-ahead-of-earnings-this-week-will-it-rise-or-fall/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2e047f11fdd7950e",
+      "titleEn": "Gold prices down 2% on the day as US CPI rises more than expected",
+      "summaryEn": "(Kitco News) - The gold market has been hit with significant selling pressure as persistent inflation pressures are adding to fears that the Federal Reserve could aggressively raise interest rates next month to cool rising consumer prices. The Consumer Price Index (CPI) rose by 0.4% last month, following September’s 0.6% increase, the U.S. Bureau of Labor Statistics announced on Tuesday. The inflation data was hotter than expected, as economists were looking for a 0.3% increase. The report also showed that higher energy prices have become further embedded in the broader economy, as core inflation, which strips out energy and food prices, rose more than expected. Core CPI increased 0.3% last month, matching September’s increase. According to consensus estimates, economists were expecting a 0.2% increase.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-10/gold-prices-down-2-day-us-cpi-rises-more-expected",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:881a7468da09709c",
+      "titleEn": "Trade Desk stock is surging after earnings: will the island reversal push it higher?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/10/trade-desk-stock-is-surging-after-earnings-will-the-island-reversal-push-it-higher/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7d48b352a79d8754",
+      "titleEn": "Anthropic sets IPO price range at $70–$78 a share, targets up to $64.35 billion",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/10/anthropic-ipo-price-range/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5b33580820d19066",
+      "titleEn": "Anthropic IPO: AI startup targets $1T valuation; sets price range of $70-$78",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/10/anthropic-ipo-ai-startup-targets-1t-valuation-sets-price-range-of-70-78/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:75c85da32646dc90",
+      "titleEn": "Keysight Expands High-Power Test Portfolio for Broader Power Validation",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261110447334/en/Keysight-Expands-High-Power-Test-Portfolio-for-Broader-Power-Validation/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d11627b9fdcec22c",
+      "titleEn": "Altimetrik Accelerates Enterprise AI Transformation with Google Cloud's Gemini for Healthcare",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261110397391/en/Altimetrik-Accelerates-Enterprise-AI-Transformation-with-Google-Cloud%E2%80%99s-Gemini-for-Healthcare/",
       "published": null
     }
   ]
