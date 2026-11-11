@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-11-10T23:14:12.573903Z",
+  "generatedAt": "2026-11-11T02:46:45.574440Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:525414d3e223060e",
+      "titleEn": "Gold, silver plunge as hotter U.S. inflation raises prospect of larger Fed rate hike - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in late U.S. trading Tuesday, as stronger-than-expected U.S. consumer inflation reinforced expectations for another Federal Reserve interest rate increase in December and raised the possibility of a larger policy adjustment. Treasury yields and the dollar advanced following the inflation report, placing renewed pressure on precious metals despite another decline in crude oil prices and reduced concerns about immediate military escalation involving Iran. Spot gold was trading near $4,031.80 an ounce, down $107.60, or 2.60%, while spot silver was trading near $51.410, down $1.894, or 3.55%. The U.S. Labor Department reported Tuesday that the consumer price index increased a seasonally adjusted 0.4% in October, exceeding economists&#x27; expectations for a 0.3% gain. The increase was slower than September&#x27;s 0.6% rise but showed that inflationary pressure remained persistent. Core consumer prices, excluding food and energy, increased 0.3%, above expectations for a 0.2% gain and matching the monthly increases recorded in August and September. The stronger underlying reading reinforced concerns that the Federal Reserve may need to maintain restrictive monetary policy for longer than previously anticipated. The Bureau of Labor Statistics did not publish most October annual inflation rates because the October 2025 federal government shutdown prevented the collection of comparable data. As a result, the latest report provides no directly comparable annual headline or core inflation reading for October. That limitation increases the importance of the monthly figures and the underlying price components in evaluating the near-term inflation outlook.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-10/gold-silver-plunge-hotter-us-inflation-raises-prospect-larger-fed-rate-hike",
+      "published": null
+    },
     {
       "id": "stockanalysis:5db569ac28b17beb",
       "titleEn": "CoreWeave earnings bring good news for AI trade",
@@ -49,66 +58,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:cbe80c365858af90",
-      "titleEn": "Micron stock falls 3%, why this analyst sees 140% upside for the stock?",
+      "id": "stockanalysis:74626ac3f89f35d6",
+      "titleEn": "Better 2.0 Publishes Weekly Scorecard, Week 5: Wholesale Platform Grows to 43 Brokerages as Savings Reach $34.1 Million",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/10/micron-stock-falls-3-why-this-analyst-sees-140-upside-for-the-stock/",
+      "link": "https://www.businesswire.com/news/home/20261110105888/en/Better-2.0-Publishes-Weekly-Scorecard-Week-5-Wholesale-Platform-Grows-to-43-Brokerages-as-Savings-Reach-34.1-Million/",
       "published": null
     },
     {
-      "id": "stockanalysis:3c1bfcc8214507a1",
-      "titleEn": "Boise Cascade Completes Acquisition of Two California Distribution Facilities from Taiga Building Products",
+      "id": "stockanalysis:4886995d2e1b5b97",
+      "titleEn": "INGR Investors Have Opportunity to Join Ingredion Incorporated Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261110513281/en/Boise-Cascade-Completes-Acquisition-of-Two-California-Distribution-Facilities-from-Taiga-Building-Products/",
+      "link": "https://www.businesswire.com/news/home/20261110373572/en/INGR-Investors-Have-Opportunity-to-Join-Ingredion-Incorporated-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
-      "id": "stockanalysis:d9692d08adc00390",
-      "titleEn": "Halliburton Announces Dividend",
+      "id": "stockanalysis:87c48da252dc62b5",
+      "titleEn": "Faraday Future Announces Third Quarter 2026 Earnings Release Date and Conference Call Details to be Held on November 16, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261110622016/en/Halliburton-Announces-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20261110059735/en/Faraday-Future-Announces-Third-Quarter-2026-Earnings-Release-Date-and-Conference-Call-Details-to-be-Held-on-November-16-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:a76641c4e36af433",
-      "titleEn": "Rallybio Announces Reverse Stock Split of Common Stock in Connection with the Proposed Merger with Avenzo",
+      "id": "stockanalysis:4fcb7eff472a5b08",
+      "titleEn": "GreenFirst Reports Financial Results for the Third Quarter of 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261108364985/en/Rallybio-Announces-Reverse-Stock-Split-of-Common-Stock-in-Connection-with-the-Proposed-Merger-with-Avenzo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:dabf928193d8d422",
-      "titleEn": "ICL Reports Third Quarter 2026 Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261110347804/en/ICL-Reports-Third-Quarter-2026-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f915549a451ef793",
-      "titleEn": "Superior Plus Declares 2026 Fourth Quarter Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261110933115/en/Superior-Plus-Declares-2026-Fourth-Quarter-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b3073ee8aca047c3",
-      "titleEn": "VerticalScope Enters into Data Agreements with two Frontier AI Labs",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261110932878/en/VerticalScope-Enters-into-Data-Agreements-with-two-Frontier-AI-Labs/",
+      "link": "https://www.businesswire.com/news/home/20261110640502/en/GreenFirst-Reports-Financial-Results-for-the-Third-Quarter-of-2026/",
       "published": null
     }
   ]
