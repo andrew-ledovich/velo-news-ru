@@ -1,186 +1,114 @@
 {
-  "generatedAt": "2026-11-11T17:40:37.122968Z",
+  "generatedAt": "2026-11-11T23:42:05.709298Z",
   "sourceCount": 1,
-  "count": 20,
+  "count": 12,
   "items": [
     {
-      "id": "stockanalysis:666946291744dc92",
-      "titleEn": "Cramer says Costco has 'a plan to help America save money'",
-      "summaryEn": null,
+      "id": "stockanalysis:f5522afa0508a21b",
+      "titleEn": "Gold miners enjoy strong Q2 despite lower gold price, higher expenses and operational disruptions – WGC's Blagden",
+      "summaryEn": "(Kitco News) – While the second quarter of the year saw gold prices pull back dramatically from the all-time highs of Q1, and rising expenses and operational disruptions ate into margins and profitability, gold miners still enjoyed an excellent Q2 by annual and historical measures, according to a new analysis by Oliver Blagden, Mine Supply Analyst at Metals Focus on behalf of the World Gold Council (WGC). After seeing an exceptional first quarter in 2026, Blagden wrote that lower gold prices combined with increased costs to put miners’ margins under additional pressure. “Global average gold producer All-In Sustaining Costs (AISC) rose by 8% q/q and 22% y/y to a record US$1,930/oz,” he noted. “This marked the 29th consecutive year-on-year increase, underlining the persistence of cost pressures. Higher sustaining capital expenditure, operating expenses and production disruption outweighed lower royalties, although strong cash generation continued to support investment, shareholder returns and resilient balance sheets.”",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/11/cramer-says-costco-has-a-plan-to-help-america-save-money/",
+      "link": "https://www.kitco.com/news/article/2026-11-11/gold-miners-enjoy-strong-q2-despite-lower-gold-price-higher-expenses-and",
       "published": null
     },
     {
-      "id": "stockanalysis:fb22058ad584fd8c",
-      "titleEn": "Why Intel, Broadcom and AMD shares are gaining on Wednesday?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/11/why-intel-broadcom-and-amd-shares-are-gaining-on-wednesday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:26a6cf60c5b1b6ad",
-      "titleEn": "Dell stock is rising after the CoreWeave earnings: is this a bull trap?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/11/dell-stock-is-rising-after-the-coreweave-earnings-is-this-a-bull-trap/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7f26f833ecb083e4",
-      "titleEn": "CoreWeave raised the bar for Nebius stock: can it live up to the hype?",
-      "summaryEn": null,
+      "id": "stockanalysis:ea9301512d3a4ba1",
+      "titleEn": "Gold prices fall below $4,000 as analysts warn of further losses toward $3,900",
+      "summaryEn": "(Kitco News) - Gold prices have fallen below the critical $4,000-an-ounce level, and analysts warn that the precious metal could face further selling pressure as persistent inflation forces the Federal Reserve to maintain its tightening bias. Although gold managed to hold support around $4,000 for the past two weeks, the latest selling pressure threatens to undermine the market&#x27;s recent recovery. Analysts warn that a sustained break below this critical pivot point could trigger another wave of liquidation. Spot gold last traded at $3,987 an ounce, down more than 1% on the day. In a report published Tuesday, Bark Melek, Head of Commodity Strategy at TD Securities, said he expects gold prices to retest support near $3,900 an ounce as higher interest rates and a stronger U.S. dollar continue to weigh on investment demand.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/11/11/coreweave-raised-the-bar-for-nebius-stock-can-it-live-up-to-the-hype/",
+      "link": "https://www.kitco.com/news/article/2026-11-11/gold-prices-fall-below-4000-analysts-warn-further-losses-toward-3900",
       "published": null
     },
     {
-      "id": "stockanalysis:da8dff377bfca488",
-      "titleEn": "Gold prices find solid support at $4,000 as Standard Chartered sees rally to $4,650 by year-end",
-      "summaryEn": "(Kitco News) - Gold prices have managed to hold critical support above $4,000 an ounce even as persistent inflation is pressuring some Federal Reserve officials to take aggressive steps next month. Despite the unrelenting headwinds, one bank remains optimistic that the precious metal will end the year higher. In her latest gold market report published Tuesday, Suki Cooper, Global Head of Commodities Research at Standard Chartered, said that although higher interest rates and a stronger U.S. dollar remain significant obstacles for gold, improving investment flows and robust central bank demand are creating a solid price floor. Despite the difficult environment, Cooper reiterated her forecast for gold prices to average $4,650 an ounce in the fourth quarter, before rising to $4,850 in the first quarter of 2027. Spot gold last traded at $4,031.80 an ounce, unchanged on the day.",
+      "id": "stockanalysis:77ce8fbf6ff5ceee",
+      "titleEn": "BMO says silver's solar boom is fading, investment demand unlikely to compensate",
+      "summaryEn": "(Kitco News) - Growing fears that rising inflation will force the Federal Reserve to raise interest rates aggressively next month are weighing on gold , with the yellow metal down more than 1% on the day. However, silver is significantly outperforming, with prices holding above $51 an ounce, up 0.68% on the day. Although the gold-silver ratio is falling, one bank expects the overall trend to remain higher as silver’s industrial demand continues to weaken. In a new report, the commodity team at BMO Capital Markets, led by George Heppel and Helen Amos, said that the gold-silver ratio has embarked on a structural uptrend and is expected to trade around 85 points over the next four years, up from 76 points currently.",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-11/gold-prices-find-solid-support-4000-standard-chartered-sees-rally-4650-year",
+      "link": "https://www.kitco.com/news/article/2026-11-11/bmo-says-silvers-solar-boom-fading-investment-demand-unlikely-compensate",
       "published": null
     },
     {
-      "id": "stockanalysis:d21466ddf7333d7e",
-      "titleEn": "Corning stock jumps as Jefferies sees AI fiber demand driving growth",
+      "id": "stockanalysis:6d57a601c210c298",
+      "titleEn": "Super Micro stock jumps 11% as AMD server shipments and CoreWeave lift shares",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/11/super-micro-stock-jumps-11-as-amd-server-shipments-and-coreweave-lift-shares/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3309b43c3cd02f4c",
+      "titleEn": "SpaceX stock slips ahead of Starship test as Starlink speeds face scrutiny",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/11/spacex-stock-slips-ahead-of-starship-test-as-starlink-speeds-face-scrutiny/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:44fb6aa79616cf11",
+      "titleEn": "Why Microsoft stock is down over 2% on Wednesday when tech names are rebounding?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/11/why-microsoft-stock-is-down-over-2-on-wednesday-when-tech-names-are-rebounding/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f14394194fb82ec8",
+      "titleEn": "VerticalScope Turns 2 Billion Forum Posts Into AI Shopping Revenue",
+      "summaryEn": "VerticalScope’s AI-powered shopping recommendations helped lift affiliate commerce revenue 29% across its network of more than 1,200 enthusiast forums. Monthly active users fell to 76.8 million from 83 million as search traffic declined, while shopping commissions from existing community discussions grew. VerticalScope signed data agreements with two frontier AI labs for content from its archive of more than 2 billion user-generated posts, with revenue expected to begin in the fourth quarter.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/verticalscope-turns-2-billion-forum-posts-into-ai-shopping-revenue/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:94441b50785798e9",
+      "titleEn": "Cisco earnings preview: options data bearish as investors look for AI momentum",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/11/corning-stock-jumps-as-jefferies-sees-ai-fiber-demand-driving-growth/",
+      "link": "https://invezz.com/news/2026/11/11/cisco-earnings-preview-options-data-bearish-as-investors-look-for-ai-momentum/",
       "published": null
     },
     {
-      "id": "stockanalysis:22e5d31bf9b9c9c9",
-      "titleEn": "Nasdaq opens 1.4% higher as CoreWeave earnings boost AI stocks, Nvidia rebounds",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/11/nasdaq-opens-1-4-higher-as-coreweave-earnings-boost-ai-stocks-nvidia-rebounds/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3e4177dcaaddf0e7",
-      "titleEn": "SCHD analysis: Here's why the Schwab US Dividend Equity ETF is about to soar",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/11/11/schd-analysis-heres-why-the-schwab-us-dividend-equity-etf-is-about-to-soar/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:608ca86d4c9e4ea7",
-      "titleEn": "Why Tesla shares are up on Wednesday?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/11/11/why-tesla-shares-are-up-on-wednesday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d418229ece022f42",
-      "titleEn": "Marvell Technology stock is rising: Is this a dead cat bounce or a real recovery?",
+      "id": "stockanalysis:95b16e6d40224ac4",
+      "titleEn": "Coreweave rallies 26% after strong Q3 results: is CRWV ready to reverse its slump?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/11/marvell-technology-stock-is-rising-is-this-a-dead-cat-bounce-or-a-real-recovery/",
+      "link": "https://invezz.com/news/2026/11/11/coreweave-rallies-26-after-strong-q3-results-is-crwv-ready-to-reverse-its-slump/",
       "published": null
     },
     {
-      "id": "stockanalysis:f2768fbc659cb04b",
-      "titleEn": "Anthropic IPO draws multiple times its share supply as demand surges: report",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/11/anthropic-ipo-draws-multiple-times-its-share-supply-as-demand-surges-report/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:86a2c3d2dd84f4f6",
-      "titleEn": "Gold, silver rebound after CPI-driven selloff, Hormuz tensions lift crude oil - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were higher in early U.S. trading Wednesday, recovering from Tuesday&#x27;s sharp losses as bargain hunting and short covering supported precious metals despite elevated Treasury yields and a firmer U.S. dollar. The recovery followed stronger-than-expected U.S. inflation data that reinforced expectations for another Federal Reserve rate increase in December, while renewed concerns about shipping disruptions in the Strait of Hormuz provided some underlying support for defensive assets. Spot gold was trading near $4,042.50 an ounce, up $10.70, or 0.27%, while spot silver was trading near $52.690, up $1.270, or 2.47%. Tuesday&#x27;s U.S. consumer price index increased 0.4% in October, exceeding expectations for a 0.3% gain , while core inflation rose 0.3%, above forecasts for a 0.2% increase. Shelter costs increased 0.3%, food prices advanced 0.5% and energy prices rose 0.7%, indicating continued inflation pressure across several categories. The Bureau of Labor Statistics did not publish annual October inflation rates because comparable observations were unavailable following the October 2025 government shutdown. The inflation surprise followed Friday&#x27;s stronger-than-expected employment report, which showed 165,000 new jobs in October, unemployment falling to 4.1% and average hourly earnings increasing 0.4%. Together, the reports strengthened expectations that the Fed will maintain a restrictive monetary policy stance. Market positioning remains focused on the possibility of a larger Federal Reserve rate increase at the Dec. 8-9 meeting. Following Tuesday&#x27;s inflation report, interest rate futures priced in approximately an 88% probability of a 25-basis-point increase and a 12% probability of a 50-basis-point move , leaving an increase effectively fully priced. Federal Reserve Governor Christopher Waller indicated that persistent core inflation could justify a larger adjustment. The benchmark 10-year Treasury yield briefly exceeded 5.00% Tuesday before easing toward 4.98%, while the dollar index remained firm near 102.30. Higher yields and expectations for additional tightening continue to limit gold&#x27;s recovery. The next important U.S. releases are Thursday&#x27;s weekly jobless claims and Friday&#x27;s October producer price index, both scheduled for 8:30 a.m. EST. Softer producer inflation could provide some relief to bullion, while another upside surprise would reinforce December tightening expectations. U.S. Treasury markets are closed Wednesday for Veterans Day, although equity trading continues.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-11/gold-silver-rebound-after-cpi-driven-selloff-hormuz-tensions-lift-crude-oil",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0925dc820bce4014",
-      "titleEn": "These 2 Vanguard ETFs could help you beat S&amp;P 500 in 2027",
+      "id": "stockanalysis:3c9760a4a64bfc5b",
+      "titleEn": "Apple stock gains 1.6% as this analyst sets a $425 target",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/11/these-2-vanguard-etfs-could-help-you-beat-sp-500-in-2027/",
+      "link": "https://invezz.com/news/2026/11/11/apple-stock-gains-1-6-as-this-analyst-sets-a-425-target/",
       "published": null
     },
     {
-      "id": "stockanalysis:5f070dc8a886122e",
-      "titleEn": "CoreWeave stock surges, but its AI ambitions come with a $1.15 billion problem",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/11/coreweave-stock-surges-but-its-ai-ambitions-come-with-a-1-15-billion-problem/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a469bb335e65e83a",
-      "titleEn": "Oracle stock is a bargain, but key risks suggest it may drop to $100 and below",
-      "summaryEn": null,
+      "id": "stockanalysis:caf0adf0522ee5a9",
+      "titleEn": "Central banks are exploring Asian gold hubs for safe storage of reserves - DBS",
+      "summaryEn": "(Kitco News) – Asia’s growing importance within the gold ecosystem is drawing increased interest from global financial institutions, but new research shows that a significant number of central banks are now assessing the region for safe storage of their gold reserves. These were the findings of a new white paper from DBS, a Singapore-based financial services group with a presence in 19 Asian markets. Gold in an Age of Transformation examines the precious metal’s “evolving role in the global financial system, the rise of Asian gold hubs and the development of tokenised gold.” The research incorporates findings from an independent survey of central banks, asset managers and banks commissioned by DBS and conducted by Kantar in September 2026. “About half of surveyed asset managers and banks said state-backed gold infrastructure had increased their institutions’ interest in Asian hubs, while 25% of central bank respondents were evaluating the region for storing official gold reserves,” DBS announced when the research was published on Nov. 10.",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/11/oracle-stock-is-a-bargain-but-key-risks-suggest-it-may-drop-to-100-and-below/",
+      "link": "https://www.kitco.com/news/article/2026-11-11/central-banks-are-exploring-asian-gold-hubs-safe-storage-reserves-dbs",
       "published": null
     },
     {
-      "id": "stockanalysis:f78af9b005d6365c",
-      "titleEn": "Nu Holdings stock analysis: why Nubank shares may soar after its earnings",
+      "id": "stockanalysis:980a81ca6f46a114",
+      "titleEn": "AEVEX Corp. Announces Financial Results for Third Quarter 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/11/nu-holdings-stock-analysis-why-nubank-shares-may-soar-after-its-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8d12f28ad8281003",
-      "titleEn": "Western Union Scraps Intermex Deal After Regulatory Fight",
-      "summaryEn": "Western Union has terminated its agreement to acquire International Money Express (Intermex) after reaching what it described as an impasse with California regulators. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); California’s Department of Financial Protection and Innovation (DFPI) announced Tuesday (Nov. 11) that it had given conditional approval to the deal, provided the companies comply with the regulator’s consumer protection concerns.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/acquiring/2026/western-union-scraps-intermex-deal-after-regulatory-fight/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bc1c4b67ee0164a3",
-      "titleEn": "Is Nvidia a buying opportunity amid selloff? Michael Burry gives his take",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/11/is-nvidia-a-buying-opportunity-amid-selloff-michael-burry-gives-his-take/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5a99a425e61ddc1c",
-      "titleEn": "Copper Property CTL Pass Through Trust Schedules Live Call to Discuss Recent Financial and Operating Results",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261111780626/en/Copper-Property-CTL-Pass-Through-Trust-Schedules-Live-Call-to-Discuss-Recent-Financial-and-Operating-Results/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e78af3fb2b599e6f",
-      "titleEn": "Verisign Announces .Web Launch, Key Dates",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261111358681/en/Verisign-Announces-.Web-Launch-Key-Dates/",
+      "link": "https://www.businesswire.com/news/home/20261111533507/en/AEVEX-Corp.-Announces-Financial-Results-for-Third-Quarter-2026/",
       "published": null
     }
   ]
