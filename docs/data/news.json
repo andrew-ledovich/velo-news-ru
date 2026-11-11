@@ -1,78 +1,186 @@
 {
-  "generatedAt": "2026-11-11T09:57:58.208831Z",
+  "generatedAt": "2026-11-11T17:40:37.122968Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 20,
   "items": [
     {
-      "id": "stockanalysis:ec2760322d926254",
-      "titleEn": "TSMC stock rallies on $1 billion OpenAI and Anthropic bet: what's the catch?",
+      "id": "stockanalysis:666946291744dc92",
+      "titleEn": "Cramer says Costco has 'a plan to help America save money'",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/11/tsmc-stock-rallies-on-1-billion-openai-and-anthropic-bet-whats-the-catch/",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/11/cramer-says-costco-has-a-plan-to-help-america-save-money/",
       "published": null
     },
     {
-      "id": "stockanalysis:2f30279e6cfc67ca",
-      "titleEn": "Anthropic IPO is days away, but why has its own AI raised a red flag?",
+      "id": "stockanalysis:fb22058ad584fd8c",
+      "titleEn": "Why Intel, Broadcom and AMD shares are gaining on Wednesday?",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/11/anthropic-ipo-is-days-away-but-why-has-its-own-ai-raised-a-red-flag/",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/11/why-intel-broadcom-and-amd-shares-are-gaining-on-wednesday/",
       "published": null
     },
     {
-      "id": "stockanalysis:72ece6b4fc7877ab",
-      "titleEn": "OpenAI's $10 billion revenue milestone hides a much bigger financial shock",
+      "id": "stockanalysis:26a6cf60c5b1b6ad",
+      "titleEn": "Dell stock is rising after the CoreWeave earnings: is this a bull trap?",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/11/openais-10-billion-revenue-milestone-hides-a-much-bigger-financial-shock/",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/11/dell-stock-is-rising-after-the-coreweave-earnings-is-this-a-bull-trap/",
       "published": null
     },
     {
-      "id": "stockanalysis:525414d3e223060e",
-      "titleEn": "Gold, silver plunge as hotter U.S. inflation raises prospect of larger Fed rate hike - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in late U.S. trading Tuesday, as stronger-than-expected U.S. consumer inflation reinforced expectations for another Federal Reserve interest rate increase in December and raised the possibility of a larger policy adjustment. Treasury yields and the dollar advanced following the inflation report, placing renewed pressure on precious metals despite another decline in crude oil prices and reduced concerns about immediate military escalation involving Iran. Spot gold was trading near $4,031.80 an ounce, down $107.60, or 2.60%, while spot silver was trading near $51.410, down $1.894, or 3.55%. The U.S. Labor Department reported Tuesday that the consumer price index increased a seasonally adjusted 0.4% in October, exceeding economists&#x27; expectations for a 0.3% gain. The increase was slower than September&#x27;s 0.6% rise but showed that inflationary pressure remained persistent. Core consumer prices, excluding food and energy, increased 0.3%, above expectations for a 0.2% gain and matching the monthly increases recorded in August and September. The stronger underlying reading reinforced concerns that the Federal Reserve may need to maintain restrictive monetary policy for longer than previously anticipated. The Bureau of Labor Statistics did not publish most October annual inflation rates because the October 2025 federal government shutdown prevented the collection of comparable data. As a result, the latest report provides no directly comparable annual headline or core inflation reading for October. That limitation increases the importance of the monthly figures and the underlying price components in evaluating the near-term inflation outlook.",
+      "id": "stockanalysis:7f26f833ecb083e4",
+      "titleEn": "CoreWeave raised the bar for Nebius stock: can it live up to the hype?",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-10/gold-silver-plunge-hotter-us-inflation-raises-prospect-larger-fed-rate-hike",
+      "link": "https://invezz.com/news/2026/11/11/coreweave-raised-the-bar-for-nebius-stock-can-it-live-up-to-the-hype/",
       "published": null
     },
     {
-      "id": "stockanalysis:0db745a830eda9f2",
-      "titleEn": "Mercor Raises $750 Million for AI Training Platform",
-      "summaryEn": "Artificial intelligence (AI) training platform Mercor says it is now a $20 billion company. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The company reached that valuation with its $750 million Series D funding round, announced Tuesday (Nov. 10). Mercor, originally an AI-powered hiring platform, says it plans to use the financing to help train and test AI agents.",
+      "id": "stockanalysis:da8dff377bfca488",
+      "titleEn": "Gold prices find solid support at $4,000 as Standard Chartered sees rally to $4,650 by year-end",
+      "summaryEn": "(Kitco News) - Gold prices have managed to hold critical support above $4,000 an ounce even as persistent inflation is pressuring some Federal Reserve officials to take aggressive steps next month. Despite the unrelenting headwinds, one bank remains optimistic that the precious metal will end the year higher. In her latest gold market report published Tuesday, Suki Cooper, Global Head of Commodities Research at Standard Chartered, said that although higher interest rates and a stronger U.S. dollar remain significant obstacles for gold, improving investment flows and robust central bank demand are creating a solid price floor. Despite the difficult environment, Cooper reiterated her forecast for gold prices to average $4,650 an ounce in the fourth quarter, before rising to $4,850 in the first quarter of 2027. Spot gold last traded at $4,031.80 an ounce, unchanged on the day.",
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/mercor-raises-750-million-for-ai-training-platform/",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-11/gold-prices-find-solid-support-4000-standard-chartered-sees-rally-4650-year",
       "published": null
     },
     {
-      "id": "stockanalysis:5db569ac28b17beb",
-      "titleEn": "CoreWeave earnings bring good news for AI trade",
+      "id": "stockanalysis:d21466ddf7333d7e",
+      "titleEn": "Corning stock jumps as Jefferies sees AI fiber demand driving growth",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/10/coreweave-earnings-bring-good-news-for-ai-trade/",
+      "link": "https://invezz.com/news/2026/11/11/corning-stock-jumps-as-jefferies-sees-ai-fiber-demand-driving-growth/",
       "published": null
     },
     {
-      "id": "stockanalysis:e6cd9ca6f1bb4207",
-      "titleEn": "SanDisk stock has become highly undervalued: is it safe to buy the dip?",
+      "id": "stockanalysis:22e5d31bf9b9c9c9",
+      "titleEn": "Nasdaq opens 1.4% higher as CoreWeave earnings boost AI stocks, Nvidia rebounds",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/11/nasdaq-opens-1-4-higher-as-coreweave-earnings-boost-ai-stocks-nvidia-rebounds/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3e4177dcaaddf0e7",
+      "titleEn": "SCHD analysis: Here's why the Schwab US Dividend Equity ETF is about to soar",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/11/11/schd-analysis-heres-why-the-schwab-us-dividend-equity-etf-is-about-to-soar/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:608ca86d4c9e4ea7",
+      "titleEn": "Why Tesla shares are up on Wednesday?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/11/11/why-tesla-shares-are-up-on-wednesday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d418229ece022f42",
+      "titleEn": "Marvell Technology stock is rising: Is this a dead cat bounce or a real recovery?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/10/sandisk-stock-has-become-highly-undervalued-is-it-safe-to-buy-the-dip/",
+      "link": "https://invezz.com/news/2026/11/11/marvell-technology-stock-is-rising-is-this-a-dead-cat-bounce-or-a-real-recovery/",
       "published": null
     },
     {
-      "id": "stockanalysis:f4807090f6784898",
-      "titleEn": "Houlihan Lokey to Acquire Vicente &amp; Partners",
+      "id": "stockanalysis:f2768fbc659cb04b",
+      "titleEn": "Anthropic IPO draws multiple times its share supply as demand surges: report",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/11/anthropic-ipo-draws-multiple-times-its-share-supply-as-demand-surges-report/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:86a2c3d2dd84f4f6",
+      "titleEn": "Gold, silver rebound after CPI-driven selloff, Hormuz tensions lift crude oil - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were higher in early U.S. trading Wednesday, recovering from Tuesday&#x27;s sharp losses as bargain hunting and short covering supported precious metals despite elevated Treasury yields and a firmer U.S. dollar. The recovery followed stronger-than-expected U.S. inflation data that reinforced expectations for another Federal Reserve rate increase in December, while renewed concerns about shipping disruptions in the Strait of Hormuz provided some underlying support for defensive assets. Spot gold was trading near $4,042.50 an ounce, up $10.70, or 0.27%, while spot silver was trading near $52.690, up $1.270, or 2.47%. Tuesday&#x27;s U.S. consumer price index increased 0.4% in October, exceeding expectations for a 0.3% gain , while core inflation rose 0.3%, above forecasts for a 0.2% increase. Shelter costs increased 0.3%, food prices advanced 0.5% and energy prices rose 0.7%, indicating continued inflation pressure across several categories. The Bureau of Labor Statistics did not publish annual October inflation rates because comparable observations were unavailable following the October 2025 government shutdown. The inflation surprise followed Friday&#x27;s stronger-than-expected employment report, which showed 165,000 new jobs in October, unemployment falling to 4.1% and average hourly earnings increasing 0.4%. Together, the reports strengthened expectations that the Fed will maintain a restrictive monetary policy stance. Market positioning remains focused on the possibility of a larger Federal Reserve rate increase at the Dec. 8-9 meeting. Following Tuesday&#x27;s inflation report, interest rate futures priced in approximately an 88% probability of a 25-basis-point increase and a 12% probability of a 50-basis-point move , leaving an increase effectively fully priced. Federal Reserve Governor Christopher Waller indicated that persistent core inflation could justify a larger adjustment. The benchmark 10-year Treasury yield briefly exceeded 5.00% Tuesday before easing toward 4.98%, while the dollar index remained firm near 102.30. Higher yields and expectations for additional tightening continue to limit gold&#x27;s recovery. The next important U.S. releases are Thursday&#x27;s weekly jobless claims and Friday&#x27;s October producer price index, both scheduled for 8:30 a.m. EST. Softer producer inflation could provide some relief to bullion, while another upside surprise would reinforce December tightening expectations. U.S. Treasury markets are closed Wednesday for Veterans Day, although equity trading continues.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-11/gold-silver-rebound-after-cpi-driven-selloff-hormuz-tensions-lift-crude-oil",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0925dc820bce4014",
+      "titleEn": "These 2 Vanguard ETFs could help you beat S&amp;P 500 in 2027",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261110058291/en/Houlihan-Lokey-to-Acquire-Vicente-Partners/",
+      "link": "https://invezz.com/news/2026/11/11/these-2-vanguard-etfs-could-help-you-beat-sp-500-in-2027/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5f070dc8a886122e",
+      "titleEn": "CoreWeave stock surges, but its AI ambitions come with a $1.15 billion problem",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/11/coreweave-stock-surges-but-its-ai-ambitions-come-with-a-1-15-billion-problem/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a469bb335e65e83a",
+      "titleEn": "Oracle stock is a bargain, but key risks suggest it may drop to $100 and below",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/11/oracle-stock-is-a-bargain-but-key-risks-suggest-it-may-drop-to-100-and-below/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f78af9b005d6365c",
+      "titleEn": "Nu Holdings stock analysis: why Nubank shares may soar after its earnings",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/11/nu-holdings-stock-analysis-why-nubank-shares-may-soar-after-its-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8d12f28ad8281003",
+      "titleEn": "Western Union Scraps Intermex Deal After Regulatory Fight",
+      "summaryEn": "Western Union has terminated its agreement to acquire International Money Express (Intermex) after reaching what it described as an impasse with California regulators. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); California’s Department of Financial Protection and Innovation (DFPI) announced Tuesday (Nov. 11) that it had given conditional approval to the deal, provided the companies comply with the regulator’s consumer protection concerns.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/acquiring/2026/western-union-scraps-intermex-deal-after-regulatory-fight/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bc1c4b67ee0164a3",
+      "titleEn": "Is Nvidia a buying opportunity amid selloff? Michael Burry gives his take",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/11/is-nvidia-a-buying-opportunity-amid-selloff-michael-burry-gives-his-take/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5a99a425e61ddc1c",
+      "titleEn": "Copper Property CTL Pass Through Trust Schedules Live Call to Discuss Recent Financial and Operating Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261111780626/en/Copper-Property-CTL-Pass-Through-Trust-Schedules-Live-Call-to-Discuss-Recent-Financial-and-Operating-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e78af3fb2b599e6f",
+      "titleEn": "Verisign Announces .Web Launch, Key Dates",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261111358681/en/Verisign-Announces-.Web-Launch-Key-Dates/",
       "published": null
     }
   ]
