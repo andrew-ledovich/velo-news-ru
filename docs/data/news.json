@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-11-11T02:46:45.574440Z",
+  "generatedAt": "2026-11-11T09:57:58.208831Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 8,
   "items": [
+    {
+      "id": "stockanalysis:ec2760322d926254",
+      "titleEn": "TSMC stock rallies on $1 billion OpenAI and Anthropic bet: what's the catch?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/11/tsmc-stock-rallies-on-1-billion-openai-and-anthropic-bet-whats-the-catch/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2f30279e6cfc67ca",
+      "titleEn": "Anthropic IPO is days away, but why has its own AI raised a red flag?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/11/anthropic-ipo-is-days-away-but-why-has-its-own-ai-raised-a-red-flag/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:72ece6b4fc7877ab",
+      "titleEn": "OpenAI's $10 billion revenue milestone hides a much bigger financial shock",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/11/openais-10-billion-revenue-milestone-hides-a-much-bigger-financial-shock/",
+      "published": null
+    },
     {
       "id": "stockanalysis:525414d3e223060e",
       "titleEn": "Gold, silver plunge as hotter U.S. inflation raises prospect of larger Fed rate hike - Kitco PM Report",
@@ -10,6 +37,15 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-11-10/gold-silver-plunge-hotter-us-inflation-raises-prospect-larger-fed-rate-hike",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0db745a830eda9f2",
+      "titleEn": "Mercor Raises $750 Million for AI Training Platform",
+      "summaryEn": "Artificial intelligence (AI) training platform Mercor says it is now a $20 billion company. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The company reached that valuation with its $750 million Series D funding round, announced Tuesday (Nov. 10). Mercor, originally an AI-powered hiring platform, says it plans to use the financing to help train and test AI agents.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/mercor-raises-750-million-for-ai-training-platform/",
       "published": null
     },
     {
@@ -31,66 +67,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:8dc0f8c01fe50ac6",
-      "titleEn": "Why is Microsoft stock falling 2% today?",
+      "id": "stockanalysis:f4807090f6784898",
+      "titleEn": "Houlihan Lokey to Acquire Vicente &amp; Partners",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/10/why-is-microsoft-stock-falling-2-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9d1d897f401dc3cc",
-      "titleEn": "Applied Materials stock: death cross pattern nears ahead of earnings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/10/applied-materials-stock-death-cross-pattern-nears-ahead-of-earnings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e01472afbf4e8e1c",
-      "titleEn": "Alleged spy plot targeting CEO Jensen Huang raises questions about Nvidia's future",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Investigations into whether Nvidia's CEO was the target of a \"foreign intelligence effort\" are raising questions about the future of the chipmaker, which became one of the world's most valuable companies by providing technology that powered the artificial intelligence boom. Jensen Huang has been synonymous with Nvidia since he co-founded it more than 30 years ago. The company now faces potential damage to its reputation and stock price, uncertainty over a possible successor and new scrutiny from shareholders and elected officials.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-11-alleged-spy-plot-ceo-jensen.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:74626ac3f89f35d6",
-      "titleEn": "Better 2.0 Publishes Weekly Scorecard, Week 5: Wholesale Platform Grows to 43 Brokerages as Savings Reach $34.1 Million",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261110105888/en/Better-2.0-Publishes-Weekly-Scorecard-Week-5-Wholesale-Platform-Grows-to-43-Brokerages-as-Savings-Reach-34.1-Million/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4886995d2e1b5b97",
-      "titleEn": "INGR Investors Have Opportunity to Join Ingredion Incorporated Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261110373572/en/INGR-Investors-Have-Opportunity-to-Join-Ingredion-Incorporated-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:87c48da252dc62b5",
-      "titleEn": "Faraday Future Announces Third Quarter 2026 Earnings Release Date and Conference Call Details to be Held on November 16, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261110059735/en/Faraday-Future-Announces-Third-Quarter-2026-Earnings-Release-Date-and-Conference-Call-Details-to-be-Held-on-November-16-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4fcb7eff472a5b08",
-      "titleEn": "GreenFirst Reports Financial Results for the Third Quarter of 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261110640502/en/GreenFirst-Reports-Financial-Results-for-the-Third-Quarter-of-2026/",
+      "link": "https://www.businesswire.com/news/home/20261110058291/en/Houlihan-Lokey-to-Acquire-Vicente-Partners/",
       "published": null
     }
   ]
