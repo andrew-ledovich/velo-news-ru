@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-11-11T23:42:05.709298Z",
+  "generatedAt": "2026-11-12T04:14:27.592145Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:fc0bea7d4f9cf4b3",
+      "titleEn": "Is Nvidia planning to oust Jensen Huang? What is known, and who could succeed him",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/12/nvidia-oust-jensen-huang-who-could-succeed/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6e9e862144d5eadb",
+      "titleEn": "Who is Kimberly Powell? Nvidia stock slides 7% after hours on new Jensen Huang report",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/12/kimberly-powell-nvidia-stock-jensen-huang-report/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d6ac31d2fbbeb810",
+      "titleEn": "Gold falls below $4,000 as dollar surges, Fed hike bets rise - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices were lower and spot silver prices were modestly higher in late U.S. trading Wednesday, as a stronger U.S. dollar and expectations for additional Federal Reserve interest rate increases continued to pressure bullion following Tuesday&#x27;s hotter-than-expected inflation report. Gold surrendered its early gains and fell below $4,000.00 an ounce, while silver attracted some buying interest despite the restrictive monetary policy outlook. Rising crude oil prices, renewed uncertainty surrounding the Strait of Hormuz and a broad recovery in global equity markets provided competing influences on precious metals. Spot gold was trading near $3,983.20 an ounce, down $48.60, or 1.21%, while spot silver was trading near $51.560 an ounce, up $0.149, or 0.29%, on the session.. Tuesday&#x27;s U.S. consumer price index showed headline inflation increasing 0.4% in October, exceeding expectations for a 0.3% gain, while core prices rose 0.3%, also above forecasts. Shelter costs increased 0.3%, food prices advanced 0.5% and energy prices rose 0.7%, indicating persistent price pressure across several categories. The Bureau of Labor Statistics did not publish annual October inflation rates because comparable observations for October 2025 were unavailable following the federal government shutdown. The inflation surprise followed Friday&#x27;s stronger-than-expected employment report, which showed 165,000 new jobs in October, a decline in unemployment to 4.1% and monthly average hourly earnings growth of 0.4%. The combination of resilient employment and persistent inflation has strengthened expectations for further Fed tightening.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-11/gold-falls-below-4000-dollar-surges-fed-hike-bets-rise-kitco-pm-report",
+      "published": null
+    },
     {
       "id": "stockanalysis:f5522afa0508a21b",
       "titleEn": "Gold miners enjoy strong Q2 despite lower gold price, higher expenses and operational disruptions – WGC's Blagden",
@@ -40,75 +67,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:3309b43c3cd02f4c",
-      "titleEn": "SpaceX stock slips ahead of Starship test as Starlink speeds face scrutiny",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/11/spacex-stock-slips-ahead-of-starship-test-as-starlink-speeds-face-scrutiny/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:44fb6aa79616cf11",
-      "titleEn": "Why Microsoft stock is down over 2% on Wednesday when tech names are rebounding?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/11/why-microsoft-stock-is-down-over-2-on-wednesday-when-tech-names-are-rebounding/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f14394194fb82ec8",
-      "titleEn": "VerticalScope Turns 2 Billion Forum Posts Into AI Shopping Revenue",
-      "summaryEn": "VerticalScope’s AI-powered shopping recommendations helped lift affiliate commerce revenue 29% across its network of more than 1,200 enthusiast forums. Monthly active users fell to 76.8 million from 83 million as search traffic declined, while shopping commissions from existing community discussions grew. VerticalScope signed data agreements with two frontier AI labs for content from its archive of more than 2 billion user-generated posts, with revenue expected to begin in the fourth quarter.",
+      "id": "stockanalysis:e90846cf2318d52c",
+      "titleEn": "Goldman Sees Anthropic Revenue Hitting $685 Billion by 2030",
+      "summaryEn": "Analysts for Goldman Sachs are reportedly projecting Anthropic’s revenue will reach $685 billion by 2030. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a report Tuesday (Nov. 10) from Bloomberg News, which said this figure strengthens the case for a $1.4 trillion valuation target in the artificial intelligence (AI) startup’s initial public offering (IPO).",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/verticalscope-turns-2-billion-forum-posts-into-ai-shopping-revenue/",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sees-anthropic-revenue-hitting-685-billion-by-2030/",
       "published": null
     },
     {
-      "id": "stockanalysis:94441b50785798e9",
-      "titleEn": "Cisco earnings preview: options data bearish as investors look for AI momentum",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/11/cisco-earnings-preview-options-data-bearish-as-investors-look-for-ai-momentum/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:95b16e6d40224ac4",
-      "titleEn": "Coreweave rallies 26% after strong Q3 results: is CRWV ready to reverse its slump?",
+      "id": "stockanalysis:24fd8fc68aa28e70",
+      "titleEn": "AXON Investors Have Opportunity to Join Axon Enterprise, Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/11/coreweave-rallies-26-after-strong-q3-results-is-crwv-ready-to-reverse-its-slump/",
+      "link": "https://www.businesswire.com/news/home/20261111747200/en/AXON-Investors-Have-Opportunity-to-Join-Axon-Enterprise-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
-      "id": "stockanalysis:3c9760a4a64bfc5b",
-      "titleEn": "Apple stock gains 1.6% as this analyst sets a $425 target",
+      "id": "stockanalysis:1618adacb7862e1f",
+      "titleEn": "Lost Money on Unum Group Shares? The Law Offices of Frank R.",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/11/apple-stock-gains-1-6-as-this-analyst-sets-a-425-target/",
+      "link": "https://www.businesswire.com/news/home/20261111055729/en/Lost-Money-on-Unum-Group-Shares-The-Law-Offices-of-Frank-R.-Cruz-Investigates-Potential-Securities-Fraud-After-17.84-Stock-Decline/",
       "published": null
     },
     {
-      "id": "stockanalysis:caf0adf0522ee5a9",
-      "titleEn": "Central banks are exploring Asian gold hubs for safe storage of reserves - DBS",
-      "summaryEn": "(Kitco News) – Asia’s growing importance within the gold ecosystem is drawing increased interest from global financial institutions, but new research shows that a significant number of central banks are now assessing the region for safe storage of their gold reserves. These were the findings of a new white paper from DBS, a Singapore-based financial services group with a presence in 19 Asian markets. Gold in an Age of Transformation examines the precious metal’s “evolving role in the global financial system, the rise of Asian gold hubs and the development of tokenised gold.” The research incorporates findings from an independent survey of central banks, asset managers and banks commissioned by DBS and conducted by Kantar in September 2026. “About half of surveyed asset managers and banks said state-backed gold infrastructure had increased their institutions’ interest in Asian hubs, while 25% of central bank respondents were evaluating the region for storing official gold reserves,” DBS announced when the research was published on Nov. 10.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-11/central-banks-are-exploring-asian-gold-hubs-safe-storage-reserves-dbs",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:980a81ca6f46a114",
-      "titleEn": "AEVEX Corp. Announces Financial Results for Third Quarter 2026",
+      "id": "stockanalysis:d7b6df2644121ab7",
+      "titleEn": "MSCI Equity Indexes November 2026 Index Review",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261111533507/en/AEVEX-Corp.-Announces-Financial-Results-for-Third-Quarter-2026/",
+      "link": "https://www.businesswire.com/news/home/20261111852068/en/MSCI-Equity-Indexes-November-2026-Index-Review/",
       "published": null
     }
   ]
