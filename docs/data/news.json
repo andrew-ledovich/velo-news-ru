@@ -1,105 +1,105 @@
 {
-  "generatedAt": "2026-11-12T04:14:27.592145Z",
+  "generatedAt": "2026-11-12T12:43:04.006415Z",
   "sourceCount": 1,
   "count": 11,
   "items": [
     {
-      "id": "stockanalysis:fc0bea7d4f9cf4b3",
-      "titleEn": "Is Nvidia planning to oust Jensen Huang? What is known, and who could succeed him",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/12/nvidia-oust-jensen-huang-who-could-succeed/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6e9e862144d5eadb",
-      "titleEn": "Who is Kimberly Powell? Nvidia stock slides 7% after hours on new Jensen Huang report",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/12/kimberly-powell-nvidia-stock-jensen-huang-report/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d6ac31d2fbbeb810",
-      "titleEn": "Gold falls below $4,000 as dollar surges, Fed hike bets rise - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were lower and spot silver prices were modestly higher in late U.S. trading Wednesday, as a stronger U.S. dollar and expectations for additional Federal Reserve interest rate increases continued to pressure bullion following Tuesday&#x27;s hotter-than-expected inflation report. Gold surrendered its early gains and fell below $4,000.00 an ounce, while silver attracted some buying interest despite the restrictive monetary policy outlook. Rising crude oil prices, renewed uncertainty surrounding the Strait of Hormuz and a broad recovery in global equity markets provided competing influences on precious metals. Spot gold was trading near $3,983.20 an ounce, down $48.60, or 1.21%, while spot silver was trading near $51.560 an ounce, up $0.149, or 0.29%, on the session.. Tuesday&#x27;s U.S. consumer price index showed headline inflation increasing 0.4% in October, exceeding expectations for a 0.3% gain, while core prices rose 0.3%, also above forecasts. Shelter costs increased 0.3%, food prices advanced 0.5% and energy prices rose 0.7%, indicating persistent price pressure across several categories. The Bureau of Labor Statistics did not publish annual October inflation rates because comparable observations for October 2025 were unavailable following the federal government shutdown. The inflation surprise followed Friday&#x27;s stronger-than-expected employment report, which showed 165,000 new jobs in October, a decline in unemployment to 4.1% and monthly average hourly earnings growth of 0.4%. The combination of resilient employment and persistent inflation has strengthened expectations for further Fed tightening.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-11/gold-falls-below-4000-dollar-surges-fed-hike-bets-rise-kitco-pm-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f5522afa0508a21b",
-      "titleEn": "Gold miners enjoy strong Q2 despite lower gold price, higher expenses and operational disruptions – WGC's Blagden",
-      "summaryEn": "(Kitco News) – While the second quarter of the year saw gold prices pull back dramatically from the all-time highs of Q1, and rising expenses and operational disruptions ate into margins and profitability, gold miners still enjoyed an excellent Q2 by annual and historical measures, according to a new analysis by Oliver Blagden, Mine Supply Analyst at Metals Focus on behalf of the World Gold Council (WGC). After seeing an exceptional first quarter in 2026, Blagden wrote that lower gold prices combined with increased costs to put miners’ margins under additional pressure. “Global average gold producer All-In Sustaining Costs (AISC) rose by 8% q/q and 22% y/y to a record US$1,930/oz,” he noted. “This marked the 29th consecutive year-on-year increase, underlining the persistence of cost pressures. Higher sustaining capital expenditure, operating expenses and production disruption outweighed lower royalties, although strong cash generation continued to support investment, shareholder returns and resilient balance sheets.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-11/gold-miners-enjoy-strong-q2-despite-lower-gold-price-higher-expenses-and",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ea9301512d3a4ba1",
-      "titleEn": "Gold prices fall below $4,000 as analysts warn of further losses toward $3,900",
-      "summaryEn": "(Kitco News) - Gold prices have fallen below the critical $4,000-an-ounce level, and analysts warn that the precious metal could face further selling pressure as persistent inflation forces the Federal Reserve to maintain its tightening bias. Although gold managed to hold support around $4,000 for the past two weeks, the latest selling pressure threatens to undermine the market&#x27;s recent recovery. Analysts warn that a sustained break below this critical pivot point could trigger another wave of liquidation. Spot gold last traded at $3,987 an ounce, down more than 1% on the day. In a report published Tuesday, Bark Melek, Head of Commodity Strategy at TD Securities, said he expects gold prices to retest support near $3,900 an ounce as higher interest rates and a stronger U.S. dollar continue to weigh on investment demand.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-11/gold-prices-fall-below-4000-analysts-warn-further-losses-toward-3900",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:77ce8fbf6ff5ceee",
-      "titleEn": "BMO says silver's solar boom is fading, investment demand unlikely to compensate",
-      "summaryEn": "(Kitco News) - Growing fears that rising inflation will force the Federal Reserve to raise interest rates aggressively next month are weighing on gold , with the yellow metal down more than 1% on the day. However, silver is significantly outperforming, with prices holding above $51 an ounce, up 0.68% on the day. Although the gold-silver ratio is falling, one bank expects the overall trend to remain higher as silver’s industrial demand continues to weaken. In a new report, the commodity team at BMO Capital Markets, led by George Heppel and Helen Amos, said that the gold-silver ratio has embarked on a structural uptrend and is expected to trade around 85 points over the next four years, up from 76 points currently.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-11/bmo-says-silvers-solar-boom-fading-investment-demand-unlikely-compensate",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6d57a601c210c298",
-      "titleEn": "Super Micro stock jumps 11% as AMD server shipments and CoreWeave lift shares",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/11/super-micro-stock-jumps-11-as-amd-server-shipments-and-coreweave-lift-shares/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e90846cf2318d52c",
-      "titleEn": "Goldman Sees Anthropic Revenue Hitting $685 Billion by 2030",
-      "summaryEn": "Analysts for Goldman Sachs are reportedly projecting Anthropic’s revenue will reach $685 billion by 2030. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a report Tuesday (Nov. 10) from Bloomberg News, which said this figure strengthens the case for a $1.4 trillion valuation target in the artificial intelligence (AI) startup’s initial public offering (IPO).",
+      "id": "stockanalysis:b51596f19ff5434e",
+      "titleEn": "VOO &amp; Chill is gaining momentum: What comes next for the S&amp;P 500?",
+      "summaryEn": "Buy XLE as a tactical hedge against broad-index downside. The article notes energy has already sold off hard (Brent/WTI down >10% from highs). If crude stabilizes or rate-hike fears fade, energy often mean-reverts quickly versus the rest of the index. Key Risk: Crude keeps falling (another leg down in Brent/WTI), dragging XLE lower. Sell VOO (or SPY) into weakness. The article flags a double-top (716) with neckline near 689 and a likely retest toward 673 support. Pair that with macro risk: higher-for-longer rates (10Y ~5.0%) and slowing earnings growth. If AI and energy wobble, the broad index gets hit fast because tech is ~40% of the S&P 500.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sees-anthropic-revenue-hitting-685-billion-by-2030/",
+      "link": "https://invezz.com/news/2026/11/12/voo-chill-is-gaining-momentum-what-comes-next-for-the-sp-500/",
       "published": null
     },
     {
-      "id": "stockanalysis:24fd8fc68aa28e70",
-      "titleEn": "AXON Investors Have Opportunity to Join Axon Enterprise, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
+      "id": "stockanalysis:f1304c06919bd9a9",
+      "titleEn": "Micron, SanDisk stocks fall 3%: is Nvidia's crisis spreading to memory chips?",
+      "summaryEn": "Buy MU. Nvidia leadership turmoil is a sentiment shock to AI supply chain, but Micron is the more direct beneficiary of any continued AI accelerator rollout because it supplies high-bandwidth memory (HBM) tied to next-gen AI chips. The article notes tight supply and rising prices, plus strong revenue growth and a clear near-term linkage to accelerator timing. If AI capex merely redistributes among memory suppliers, MU should hold up better than storage-focused peers. Key Risk: Cloud and data-center buyers actually pause or cut AI hardware orders, crushing HBM demand despite tight supply. Sell SNDK. The stock is more exposed to broader storage demand and timing, so Nvidia-specific disruption is less likely to be a direct tailwind. With the market already repricing AI supply-chain risk, SNDK’s rebound looks vulnerable to another cycle fear in NAND/SSD pricing even if memory supply remains tight. If AI spending shifts rather than expands, SNDK’s upside is capped while downside from sentiment and storage-cycle volatility is larger.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261111747200/en/AXON-Investors-Have-Opportunity-to-Join-Axon-Enterprise-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/12/micron-sandisk-stocks-fall-nvidia-memory-chip-crisis/",
       "published": null
     },
     {
-      "id": "stockanalysis:1618adacb7862e1f",
-      "titleEn": "Lost Money on Unum Group Shares? The Law Offices of Frank R.",
-      "summaryEn": null,
+      "id": "stockanalysis:9cf1d8964e41ea9f",
+      "titleEn": "Is Huang bigger than Nvidia? Susanna Streeter answers on ‘Zero Sum'",
+      "summaryEn": "Buy SOXX (Semiconductor ETF). The scandal is likely to trigger short-term de-risking and export-policy headlines, but the second-order effect is that customers and governments push for “supply-chain certainty” and compliance tracking—favoring established US semiconductor suppliers and diversified exposure over single-company leadership risk. SOXX also spreads the leadership/geopolitical headline risk across many winners in the AI buildout. Key Risk: A sustained, tighter export regime that materially reduces addressable AI-chip demand for US semiconductor makers, overwhelming any compliance-driven capex shift. Sell NVDA. The news adds a direct leadership-confidence shock to the AI “picks-and-shovels” name, where a big chunk of the premium is tied to Jensen Huang personally. That raises the odds of multiple compression even if demand stays strong, because investors will demand proof of a broader leadership bench and cleaner governance while regulators and lawmakers tighten scrutiny around AI and chip exports.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261111055729/en/Lost-Money-on-Unum-Group-Shares-The-Law-Offices-of-Frank-R.-Cruz-Investigates-Potential-Securities-Fraud-After-17.84-Stock-Decline/",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/12/is-huang-bigger-than-nvidia-susanna-streeter-answers-on-zero-sum/",
       "published": null
     },
     {
-      "id": "stockanalysis:d7b6df2644121ab7",
-      "titleEn": "MSCI Equity Indexes November 2026 Index Review",
+      "id": "stockanalysis:de6962ab3aba3a54",
+      "titleEn": "What next for Nvidia stock as board considers ousting Jensen Huang?",
+      "summaryEn": "Buy NVDA put spreads (e.g., buy 1–3 month puts near $155 and sell lower-strike puts) into the next earnings catalyst. The stock is highly sensitive to both board action and earnings guidance; implied volatility should stay elevated, and downside skew is likely if guidance or China exposure headlines worsen. Key Risk: Earnings confirm strong growth and the board process calms down, causing a sharp rebound that crushes put value. Sell NVDA. The board ouster plan plus no succession plan is a direct hit to execution risk, and the stock is already in a technical downtrend below key support ($164) with heavy sentiment damage. Any CEO uncertainty will keep multiple compression pressure on a stock priced for flawless leadership.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/11/12/what-next-for-nvidia-stock-as-board-considers-ousting-jensen-huang/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:21123155546c1fb3",
+      "titleEn": "STOXX 600 hits record high: why are European stocks outperforming Wall Street?",
+      "summaryEn": "Buy STOXX 600 exposure via an ETF like iShares STOXX Europe 600 UCITS (EXX1) but tilt to ex-energy names. The thesis is earnings-led upside: STOXX 600 is at record highs on upgraded guidance (Siemens, Merck) and lower oil is supporting margins and inflation expectations. The key is the index’s growth is real outside energy—energy’s 150%+ profit surge is the distortion, so you want the industrial/healthcare earnings engine, not the oil tailwind. Key Risk: Oil rebounds sharply, lifting inflation and crushing the margin/investor confidence benefit that’s driving the ex-energy earnings rerating. Buy Siemens (SIE.DE). It’s the cleanest “tangible earnings” winner in the article: raised comparable revenue growth target to 7%–11%, industrial profit up 22%, and orders up 58% to a record €34.77bn, including electrical infrastructure tied to data centers. This positions Siemens to benefit from AI capex indirectly (power, rail, industrial automation) without paying US tech valuation multiples.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/12/stoxx-600-record-high-european-stocks-siemens-merck/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:146cfdb06c9de571",
+      "titleEn": "Who could potentially replace Jensen Huang if Nvidia ousts him?",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Chip giant Nvidia's board was reportedly meeting Wednesday to discuss the future of co-founder and CEO Jensen Huang after he dated an accused Chinese spy, according to U.S. media. The 63-year-old tech titan, who has led the key AI giant since it was founded in 1993, has been beleaguered by reports of multiple extramarital affairs, including with Alice Huang, a data center executive who has been accused by U.S. intelligence of working for China's Ministry of State Security.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-11-potentially-jensen-huang-nvidia-ousts.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5a3442049fd6eb92",
+      "titleEn": "Nvidia stock crashes 8%, but why are AMD and Broadcom stocks rising?",
+      "summaryEn": "Buy AMD (NASDAQ: AMD). Nvidia’s leadership uncertainty is a near-term sentiment shock that can temporarily slow AI infrastructure decisions, giving AMD a window to win incremental share with Instinct accelerators plus EPYC server CPUs. The market is already bidding AMD up after-hours, signaling investors expect customers to diversify away from a single supplier when risk rises. Key catalyst is Nvidia’s 17 Nov results: any sign of demand/margin resilience will stabilize the whole complex, while AMD keeps benefiting from “second-source” narratives. Key Risk: AMD fails to convert “diversification” into real AI accelerator wins (weak guidance or margin compression), so the stock pop fades. Buy Broadcom (NASDAQ: AVGO). Nvidia’s rivals don’t need to replace Nvidia chips one-for-one—networking and custom AI silicon design are where switching friction is lower. AVGO can gain as hyperscalers and large enterprises re-balance AI stacks and expand interconnect capacity, and its growth can rise even if workloads don’t fully migrate off Nvidia. The after-hours move suggests investors see AVGO as a beneficiary of broader AI build-out rather than a direct Nvidia substitute.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/12/nvidia-stock-crashes-amd-broadcom-rally-jensen-huang/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a0164939548b5678",
+      "titleEn": "Foxconn profit surges 34%, but Apple is no longer its biggest story",
+      "summaryEn": "Buy Foxconn. Profit and revenue both surged (net profit +34%, revenue +47%), and AI infrastructure is now the core growth engine (cloud/networking already 51% of revenue in the prior quarter). The market is shifting from “iPhone assembler” to “AI server systems integrator,” and Foxconn’s vertical integration and localized production position it to keep winning AI rack/network work through 2027. Key Risk: AI server demand stays strong but Foxconn’s margins keep compressing fast (revenue grows faster than profit), wiping out the earnings upside. Buy Nvidia. Foxconn’s AI server ramp is ultimately powered by Nvidia compute and networking ecosystems; Foxconn is assembling AI racks and networking systems for major customers, which typically means higher Nvidia GPU utilization. If Foxconn’s AI infrastructure buildout is accelerating, Nvidia’s order flow and platform demand should benefit as customers expand training/inference capacity.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/12/foxconn-profit-jumps-34-percent-ai-servers-apple/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:230526ba80b73166",
+      "titleEn": "Costco announces record $13.3 billion special dividend: is the stock a buy?",
+      "summaryEn": "Buy COST. The $30 special dividend plus the renewed $4B buyback signals Costco’s cash engine is still throwing off more than it can reinvest at attractive returns. With operating cash flow of $15.83B and free cash flow of ~$9.39B, the payout looks like capital allocation, not financial stress. The stock is near highs, but the market is still underpricing the durability of member spending and the ability to keep returning cash while funding growth (warehouses + faster digital delivery). Key Risk: Membership growth or same-store sales slow enough that the premium valuation (about 46x earnings) can’t be justified, forcing future payouts to shrink. Sell COST short-term. The stock is already near its annual high and priced for dependable growth; the special dividend is a one-off cash return that the share price will largely offset on the ex-dividend mechanics. If the next catalysts (Nov sales on Dec 2, earnings Dec 10) don’t beat expectations, the premium multiple can compress quickly.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/11/12/costco-announces-record-13-3-billion-special-dividend-is-the-stock-a-buy/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6efda6694d55fb0c",
+      "titleEn": "ERock Reports Third Quarter 2026 Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261111852068/en/MSCI-Equity-Indexes-November-2026-Index-Review/",
+      "link": "https://www.businesswire.com/news/home/20261112617381/en/ERock-Reports-Third-Quarter-2026-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:707314884cc06130",
+      "titleEn": "Kraft Heinz Outlines Path to Sustainable, Profitable Growth at 2026 Investor Day",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261112610595/en/Kraft-Heinz-Outlines-Path-to-Sustainable-Profitable-Growth-at-2026-Investor-Day/",
       "published": null
     }
   ]
