@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-11-13T01:17:55.700364Z",
+  "generatedAt": "2026-11-13T08:15:55.931509Z",
   "sourceCount": 1,
   "count": 8,
   "items": [
+    {
+      "id": "stockanalysis:8e8b584280979a10",
+      "titleEn": "Nvidia stock faces new twist as Colette Kress breaks silence: what its new CEO reveal",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/13/nvidia-stock-colette-kress-jensen-huang-ceo-transition/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bb12afa5af219f81",
+      "titleEn": "Jensen Huang's resignation triggers an Asian AI stock shake-up: what's next?",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/13/jensen-huangs-resignation-triggers-an-asian-ai-stock-shake-up-whats-next/",
+      "published": null
+    },
     {
       "id": "stockanalysis:899ab11409bfb4f6",
       "titleEn": "Gold, silver slide as Treasury yields surge, Fed hike concerns intensify - Kitco PM Report",
@@ -22,57 +40,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:9f5b1caed7953e30",
-      "titleEn": "Broadcom stock surges 4%: is there more upside to the stock?",
-      "summaryEn": "Buy Broadcom (AVGO). Nvidia’s CEO resignation looks like company-specific noise, while hyperscalers keep pushing custom silicon—exactly where Broadcom benefits (networking/AI infrastructure) and where investors are now looking for alternatives. The $1B Broadcom stake in Anthropic’s placement also signals continued AI capex demand. Analyst support (BofA/JPM/Barclays) adds near-term floor under sentiment. Key Risk: Hyperscalers pause or slow custom-chip programs and shift spend back to Nvidia, cutting Broadcom’s alternative-supplier demand. Buy a semis rebound basket: long memory + data-center semis (e.g., Micron (MU) and TSMC (TSM)) alongside AVGO. Tom Lee’s “tech bottomed” framing plus the market treating Nvidia turmoil as isolated supports a broad AI hardware rebound, not just one name. If selling pressure is exhausted, the highest beta AI supply chain names typically catch the next leg.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/12/broadcom-stock-surges-4-is-there-more-upside-to-the-stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f3e79e54159ebc8a",
-      "titleEn": "‘We believe gold and silver are not simply defensive assets' – BlackRock's Akullian",
-      "summaryEn": "(Kitco News) – Even though gold and silver prices continue to show near-term weakness, both precious metals still enjoy strong support from key areas of demand, and both offer unique advantages for investors’ portfolios, according to Kristy Akullian, Head of iShares Investment Strategy for the Americas at BlackRock. Akullian noted that after gold and silver began 2026 with extraordinary momentum, the excitement surrounding the precious metals has faded. “Following a powerful rally that peaked in January, both gold and silver have pulled back as higher real yields, a stronger U.S. dollar, and profit taking weighed on performance,” she wrote in an analysis published Tuesday. “While near-term headwinds have emerged, many of the longer-term structural drivers supporting precious metals remain in place, leaving investors to weigh a more balanced outlook than earlier this year.” Akullian then reviews the recent price action in gold and silver – and the support that still exists for the precious metals.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-12/we-believe-gold-and-silver-are-not-simply-defensive-assets-blackrocks",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7c3ec148a9601d3e",
-      "titleEn": "Five things to know about Nvidia",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: After launching as a small gaming startup and morphing into the top chip designer for artificial intelligence, U.S. tech giant Nvidia faces unprecedented turbulence after its co-founder and CEO Jensen Huang reportedly had a second extramarital affair with an employee. Huang had already acknowledged being \"unfaithful\" to his wife, reportedly with a woman U.S. intelligence officials believe was a spy for China.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-11-nvidia.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d83db4497a68a0e5",
-      "titleEn": "Gold could see $3.3 billion in buying on index rebalancing after 13% decline – Société Générale",
-      "summaryEn": "(Kitco News) - The gold market continues to struggle to attract investor interest as prices drop sharply back below $4,000 an ounce; however, the market could see a bit of a reprieve in the new year due to index rebalancing. In a note Thursday, commodity analysts at Société Générale said the 13% drop in precious metals prices this year could unleash more than $3 billion in buying as funds rebalance their exposure to broader commodity benchmarks, including the Bloomberg Commodity Index (BCOM). The French bank’s analysts said that gold is expected to be the biggest beneficiary of the annual rebalancing, which will take place between January 8 and 14.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-12/gold-could-see-33-billion-buying-index-rebalancing-after-13-decline-societe",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:80260bbff20105ac",
-      "titleEn": "Vir Biotechnology Announces Pricing of Public Offering of Common Stock",
+      "id": "stockanalysis:d7669036d00a2062",
+      "titleEn": "Mexico Becomes the First Market Worldwide to Receive Approval for Galderma's Restylane® Shaype™ for Both Chin and Its First Jawline Indication",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261112333645/en/Vir-Biotechnology-Announces-Pricing-of-Public-Offering-of-Common-Stock/",
+      "link": "https://www.businesswire.com/news/home/20261112295875/en/Mexico-Becomes-the-First-Market-Worldwide-to-Receive-Approval-for-Galderma%E2%80%99s-Restylane%C2%AE-Shaype%E2%84%A2-for-Both-Chin-and-Its-First-Jawline-Indication/",
       "published": null
     },
     {
-      "id": "stockanalysis:77a41c20827fb142",
-      "titleEn": "Did You Lose Money Investing in MNTN, Inc.? Robbins LLP is Investigating MNTN for Possible Violations of Securities Laws",
+      "id": "stockanalysis:81d9090cdd14ea6d",
+      "titleEn": "Republic Technologies Announces 2026 AGSM Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261112808019/en/Did-You-Lose-Money-Investing-in-MNTN-Inc.-Robbins-LLP-is-Investigating-MNTN-for-Possible-Violations-of-Securities-Laws/",
+      "link": "https://www.businesswire.com/news/home/20261112602264/en/Republic-Technologies-Announces-2026-AGSM-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:858e069e08722821",
+      "titleEn": "FreeCast Thanks Bill Jennings for His Board Service",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261112700217/en/FreeCast-Thanks-Bill-Jennings-for-His-Board-Service/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a381de2a97a5f64d",
+      "titleEn": "Hailee Steinfeld, Rashida Jones, Jodie Foster and More Celebrate the Magic of “Disney's Hexed” at the World Premiere in Los Angeles",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261112685947/en/Hailee-Steinfeld-Rashida-Jones-Jodie-Foster-and-More-Celebrate-the-Magic-of-%E2%80%9CDisney%E2%80%99s-Hexed%E2%80%9D-at-the-World-Premiere-in-Los-Angeles/",
       "published": null
     }
   ]
