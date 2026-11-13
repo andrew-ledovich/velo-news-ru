@@ -1,78 +1,168 @@
 {
-  "generatedAt": "2026-11-13T08:15:55.931509Z",
+  "generatedAt": "2026-11-13T16:35:15.537020Z",
   "sourceCount": 1,
-  "count": 8,
+  "count": 18,
   "items": [
     {
-      "id": "stockanalysis:8e8b584280979a10",
-      "titleEn": "Nvidia stock faces new twist as Colette Kress breaks silence: what its new CEO reveal",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/13/nvidia-stock-colette-kress-jensen-huang-ceo-transition/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bb12afa5af219f81",
-      "titleEn": "Jensen Huang's resignation triggers an Asian AI stock shake-up: what's next?",
-      "summaryEn": null,
+      "id": "stockanalysis:3c764da209674d48",
+      "titleEn": "These 3 stocks stand to benefit from the Jensen Huang saga",
+      "summaryEn": "Nvidia’s leadership shake-up increases customer pressure to reduce single-supplier risk. AMD is the cleanest “second source” for AI chips, so it should win more evaluation slots and future AI workload share as buyers diversify. The thesis is that cautious Nvidia execution creates real procurement momentum for AMD, not just a headline bounce. Key Risk: Customers don’t actually switch AI workloads—Nvidia’s execution stabilizes and AMD only gets short-term interest, not orders. Nvidia turmoil strengthens the case for custom AI infrastructure, where Broadcom is a direct beneficiary via specialized chips and networking. If customers want more control and reliability, they lean into custom stacks—supporting Broadcom’s already-strong demand trend and cash generation.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/13/jensen-huangs-resignation-triggers-an-asian-ai-stock-shake-up-whats-next/",
+      "link": "https://invezz.com/news/2026/11/13/these-3-stocks-stand-to-benefit-from-the-jensen-huang-saga/",
       "published": null
     },
     {
-      "id": "stockanalysis:899ab11409bfb4f6",
-      "titleEn": "Gold, silver slide as Treasury yields surge, Fed hike concerns intensify - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in late U.S. trading Thursday, pressured by rising Treasury yields, a firm U.S. dollar and expectations for additional Federal Reserve interest rate increases. Gold extended its decline below $3,900.00 an ounce as investors reassessed the outlook for restrictive monetary policy, while silver suffered heavier percentage losses amid renewed concerns about industrial demand and equity-market volatility. Spot gold was trading near $3,876.40 an ounce, down $110.60, or 2.77%, while spot silver was trading near $49.930, down $1.610, or 3.13%. Thursday&#x27;s U.S. economic reports highlighted the competing pressures of resilient employment conditions and weakening interest-rate-sensitive sectors. Initial jobless claims increased to 200,000 in the week ended Nov. 7, compared with expectations near 195,000, but remained consistent with relatively limited layoffs. October existing-home sales fell 5.5% to a seasonally adjusted annual rate of 3.75 million, the weakest pace since August 2010, as mortgage rates above 7% restrained demand. The housing figures followed Tuesday&#x27;s stronger-than-expected consumer inflation report, which showed headline prices rising 0.4% and core prices increasing 0.3% in October. Together with last week&#x27;s stronger employment report, the data indicate that elevated borrowing costs are restricting housing activity without yet producing sufficient relief from inflation. Market positioning remained firmly focused on additional Federal Reserve tightening. Late-session futures assessments indicated approximately an 85% probability of a 25-basis-point increase at the Dec. 8-9 meeting and a 15% probability of a 50-basis-point move. Treasury yields rose sharply, with the benchmark 10-year yield reaching approximately 5.102% and the two-year yield climbing to 4.862%, reflecting expectations that monetary policy may remain restrictive for longer. The dollar also remained strong, compounding pressure on gold and silver. Friday&#x27;s October producer price index, scheduled for release at 8:30 a.m. EST, is the next major inflation test. Another upside surprise could reinforce expectations for aggressive tightening, while softer producer prices could provide some relief to Treasury yields and precious metals.",
+      "id": "stockanalysis:eebb3bd155584a89",
+      "titleEn": "Trump Media stock jumped after earnings: beware of key risks",
+      "summaryEn": "Sell short Trump Media (DJT). Earnings showed a profit jump, but the drivers are fragile: Bitcoin weakness can reverse quickly, and Truth API faces political/legal scrutiny after Democrats take power. The chart also screams “dead-cat bounce”: DJT is still below key moving averages and support, so rallies are likely to fade and retest $3.7 then $3.0. Key Risk: A sustained, broad-market risk-on move plus continued Truth API traction that keeps DJT above $6.85 and forces shorts to cover. Sell/trim exposure to Bitcoin (BTC) or buy protection (e.g., long puts on BTC). DJT’s profitability is tied to its large BTC holdings; if BTC keeps falling, DJT’s “earnings bounce” unwinds fast. This is the cleanest way to express the article’s core risk without relying on DJT-specific headlines.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-12/gold-silver-slide-treasury-yields-surge-fed-hike-concerns-intensify-kitco",
+      "link": "https://invezz.com/news/2026/11/13/trump-media-stock-jumped-after-earnings-beware-of-key-risks/",
       "published": null
     },
     {
-      "id": "stockanalysis:543440cfe873bef1",
-      "titleEn": "The gold is all there! Tether Gold releases KPMG audit of its reserves",
-      "summaryEn": "(Kitco News) - Analysts have noted that the biggest hurdle to the adoption of tokenized gold remains trust; investors have to trust that tokens are backed by secure physical gold. The world’s biggest gold-backed token has announced a significant step toward establishing that trust. Tether, the world’s largest digital asset firm, announced Thursday that KPMG U.S. has completed an independent audit of the financial statements of Tether Gold (XAU₮) for the year ended December 31, 2025. “The audited statements show XAU₮ fully backed by allocated physical gold ,” the company said in the report.",
+      "id": "stockanalysis:17ea11483d8fb213",
+      "titleEn": "Gold rebounds from 13-month low as PPI complicates Fed outlook - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were modestly higher in early U.S. trading Friday, recovering from Thursday&#x27;s heavy losses as bargain hunting emerged after gold fell to its lowest level in more than a year. A mixed U.S. producer inflation report offered limited relief from expectations for additional Federal Reserve tightening, while elevated Treasury yields and a strong dollar continued to constrain the recovery. Spot gold was trading near $3,891.50 an ounce, up $15.10, or 0.39%, while spot silver was trading near $49.960 an ounce, up $0.010, or 0.02%. The U.S. Labor Department reported Friday that the producer price index increased 0.3% in October, below economists&#x27; expectations for a 0.4% gain and slowing sharply from September&#x27;s revised 1.4% increase . However, annual producer inflation accelerated to 6.5%, its highest level since November 2022. Prices for final demand goods increased 0.5%, while services prices rose 0.2%. The index excluding food, energy and trade services advanced 0.5%, matching September&#x27;s increase and indicating persistent underlying cost pressure. The report followed Tuesday&#x27;s hotter-than-expected consumer inflation figures and Friday&#x27;s stronger-than-expected October employment report from the previous week , which showed 165,000 new jobs and unemployment falling to 4.1%. Taken together, the data suggest that inflation remains elevated despite signs of moderation in some monthly price measures. Market positioning remains focused on the Fed&#x27;s Dec. 8-9 monetary policy meeting, with futures assessments indicating approximately an 89% probability of a 25-basis-point increase and an 11% probability of a 50-basis-point move before Friday&#x27;s producer inflation release. New York Federal Reserve President John Williams indicated Thursday that additional policy action would likely be necessary to bring inflation under control, while also emphasizing the need to avoid excessive damage to employment. The smaller-than-expected headline PPI increase could moderate expectations for aggressive tightening, but persistent underlying producer inflation limits the case for a significant reduction in rate expectations. Investors will next assess Monday&#x27;s Empire State manufacturing survey, Tuesday&#x27;s October retail sales figures and the minutes of the Fed&#x27;s October meeting, scheduled for Wednesday, Nov. 18.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-12/gold-all-there-tether-gold-releases-kpmg-audit-its-reserves",
+      "link": "https://www.kitco.com/news/article/2026-11-13/gold-rebounds-13-month-low-ppi-complicates-fed-outlook-kitco-am-report",
       "published": null
     },
     {
-      "id": "stockanalysis:d7669036d00a2062",
-      "titleEn": "Mexico Becomes the First Market Worldwide to Receive Approval for Galderma's Restylane® Shaype™ for Both Chin and Its First Jawline Indication",
-      "summaryEn": null,
+      "id": "stockanalysis:80f44052c34f4e35",
+      "titleEn": "Nvidia shares edge up on Friday: is the worst over?",
+      "summaryEn": "Buy NVDA. The selloff is driven by leadership turmoil and allegations, but analysts still see intact fundamentals and massive AI demand. Interim CEO continuity plus the market already pricing in “bad news” creates an asymmetric setup into the 17 Nov earnings print, where execution and guidance can re-anchor the stock. Key catalyst: earnings + conference call clarity on roadmap and governance. Key Risk: A prolonged governance/succession scandal that disrupts execution and delays guidance, keeping the stock under an overhang well past earnings. Sell/short INTC and AMD. If NVDA’s leadership crisis keeps AI-chip sentiment jittery, investors often rotate away from the whole “AI infrastructure” complex, not just the headline stock. NVDA is the benchmark; when it’s uncertain, multiples compress across the group before fundamentals catch up. This is a sentiment trade tied to near-term risk-off in AI capex expectations.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261112295875/en/Mexico-Becomes-the-First-Market-Worldwide-to-Receive-Approval-for-Galderma%E2%80%99s-Restylane%C2%AE-Shaype%E2%84%A2-for-Both-Chin-and-Its-First-Jawline-Indication/",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/13/nvidia-shares-edge-up-on-friday-is-the-worst-over/",
       "published": null
     },
     {
-      "id": "stockanalysis:81d9090cdd14ea6d",
-      "titleEn": "Republic Technologies Announces 2026 AGSM Results",
-      "summaryEn": null,
+      "id": "stockanalysis:de372e721133978f",
+      "titleEn": "Palo Alto Networks stock rises as KeyBanc upgrades shares to Overweight",
+      "summaryEn": "Buy Palo Alto Networks (PANW). KeyBanc’s upgrade plus the recent ~20% pullback sets up a favorable risk/reward into the Nov 18 earnings print. The thesis is that enterprise security budgets accelerate through 2027 and PANW is best positioned for AI protection and consolidation, so results should show improving demand and guidance. Key catalyst: management confirming stronger security spending and AI-security momentum in fiscal Q1. Key Risk: Earnings/guidance disappoint—security spending doesn’t accelerate and AI-security revenue growth is weaker than expected. Buy CrowdStrike (CRWD) as a peer beneficiary of the same “AI-driven security spend” narrative. If PANW’s earnings confirm the spending trend, investors typically rotate within cybersecurity toward the highest-conviction platform leaders, lifting CRWD alongside PANW. This is a momentum-with-fundamentals trade tied to the sector’s re-rating.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261112602264/en/Republic-Technologies-Announces-2026-AGSM-Results/",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/13/palo-alto-networks-stock-rises-as-keybanc-upgrades-shares-to-overweight/",
       "published": null
     },
     {
-      "id": "stockanalysis:858e069e08722821",
-      "titleEn": "FreeCast Thanks Bill Jennings for His Board Service",
-      "summaryEn": null,
+      "id": "stockanalysis:6b117f68609e20b8",
+      "titleEn": "Gold prices testing resistance at $3,900 as producers prices continue to rise",
+      "summaryEn": "(Kitco News) - The gold market is trying to attract some bullish momentum as it tests initial resistance at $3,900 an ounce, but analysts warn investors that the precious metal could continue to struggle as inflationary pressures remain a threat to the economy. Analysts note that elevated producer prices continue to signal that inflation will remain persistently high for the foreseeable future. The U.S. headline Producer Price Index (PPI) increased 0.3% in October, following September’s revised 1.4% increase, the U.S. Labor Department announced Friday. The latest headline data was slightly cooler than expected, as economists had forecast a 0.4% increase.",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261112700217/en/FreeCast-Thanks-Bill-Jennings-for-His-Board-Service/",
+      "link": "https://www.kitco.com/news/article/2026-11-13/gold-prices-testing-resistance-3900-producers-prices-continue-rise",
       "published": null
     },
     {
-      "id": "stockanalysis:a381de2a97a5f64d",
-      "titleEn": "Hailee Steinfeld, Rashida Jones, Jodie Foster and More Celebrate the Magic of “Disney's Hexed” at the World Premiere in Los Angeles",
+      "id": "stockanalysis:c45f7a22a58f51eb",
+      "titleEn": "Cerebras stock jumps 13% as AI chipmaker raises annual forecast, signs Microsoft deal",
+      "summaryEn": "Buy Cerebras (CBRS). The stock has real fundamentals now: raised full-year core revenue to $940M–$960M, raised gross margin to 42%–44%, and posted a surprise profit. The Microsoft customer deal is the catalyst that turns “promising tech” into contracted demand, with revenue expected to start in Q1 2027. Momentum should persist as investors re-rate the margin and forecast upgrade story. Key Risk: Microsoft’s deal doesn’t convert into meaningful revenue (delays, smaller-than-expected spend, or customers don’t deploy Cerebras chips/cloud capacity). Sell Nvidia (NVDA) short versus CBRS. The article flags sector-wide uncertainty and “multiple compression” risk, and it also notes Nvidia CEO Jensen Huang’s resignation amid controversy—headline risk can pressure sentiment and valuation even if fundamentals hold. If Cerebras keeps proving margins and landing hyperscaler customers, some AI spend narrative shifts from “only Nvidia wins” to “more viable alternatives,” capping NVDA upside.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/13/cerebras-stock-jumps-13-as-ai-chipmaker-raises-annual-forecast-signs-microsoft-deal/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a69243525702a992",
+      "titleEn": "AMD, Broadcom stocks fall 2% as Nvidia rebounds: is Wall Street switching sides?",
+      "summaryEn": "Buy AMD. The article shows investors are rotating away from Nvidia leadership uncertainty while AMD’s fundamentals are accelerating: Data Center sales up 97% to a record $8.5B and total Q3 revenue up 45%. AMD is the most direct “AI accelerator alternative” to Nvidia, so any hesitation at Nvidia creates share-gain and faster adoption of Instinct. Key risk: Nvidia’s earnings/guidance stay strong and new leadership confirms the product roadmap, removing the urgency to switch away from Nvidia. Key Risk: Nvidia’s next earnings confirm the AI roadmap and margins, making investors stop rotating into AMD. Buy Broadcom. It’s not just competing on chips; it sells custom accelerators and networking that cloud operators use to build their own AI infrastructure. The article cites AI semiconductor revenue of $16.7B (+221% YoY) and management expecting ~$21.7B next quarter—clear momentum even if Nvidia headlines stay noisy. Key risk: Customers delay custom AI buildouts or Broadcom’s networking/accelerator demand growth decelerates sharply despite Nvidia volatility.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/13/amd-broadcom-stocks-fall-2-as-nvidia-rebounds-is-wall-street-switching-sides/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7648db6a8223cd0b",
+      "titleEn": "Rolls-Royce share price rebound has stalled: is it a buy as it reaffirms guidance?",
+      "summaryEn": "Buy Rolls-Royce Group (RR.L). Guidance was reaffirmed (not raised), but the mix improved: aircraft engine backlog ~2,500, large-engine flying hours +4% (and Middle East EFH above pre-conflict), defense demand staying strong, and power/AI-driven order intake +62% with gas engines up >3x and hyperscaler contract finalization. The £1.5bn interim buyback supports EPS while the business momentum builds. Key Risk: A sharp slowdown in large-engine flying hours or a major aircraft-engine order cancellation that forces management to cut guidance. Sell/short Rolls-Royce (RR.L) for a technical pullback. The stock is consolidating around the 50-day EMA, ADX has fallen from ~45 to ~31 (trend losing force), and a hanging man candlestick suggests a bearish reversal. Play for a move toward 1,300p before any renewed uptrend toward 1,500p.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/13/rolls-royce-share-price-rebound-has-stalled-is-it-a-buy-as-it-reaffirms-guidance/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f42794d7bc68e0cb",
+      "titleEn": "Jensen Huang career timeline: from a Denny's booth to the centre of the AI boom",
+      "summaryEn": "Buy NVDA. Huang’s resignation is a governance headline, but the business engine is CUDA + data-center platform execution, and CFO Colette Kress runs the near-term results cycle (17 Nov). The stock already priced some uncertainty (+2.5% pre-market), so the setup is for a “numbers-first” rebound if guidance holds and customer/partner messaging stays consistent. Key Risk: Management transition spooks customers and slows orders—guidance or demand commentary weakens because buyers fear execution risk without Huang. Sell AMD. If NVDA’s platform continuity is reaffirmed at the 17 Nov results, the market will treat NVDA as the default AI compute supplier again, compressing share for AMD in accelerators and networking. AMD’s upside depends more on winning share versus NVDA’s entrenched CUDA/software ecosystem; a smooth NVDA transition makes that harder.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/13/jensen-huang-career-timeline-nvidia-stock-ipo-ai/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dc7d9b3b586d09e3",
+      "titleEn": "SpaceX, Tesla could announce historic merger as soon as December: report",
+      "summaryEn": "Buy TSLA. A merger headline can re-rate the stock fast because it turns “standalone execution risk” into “option value on a combined AI/robotics + space platform.” December timing plus active board negotiations raises odds of a concrete term sheet (exchange ratio/governance) rather than vague talk. Key upside: deal premium expectations and multiple expansion from a new growth narrative (AI chips/robotics/orbital computing). Key Risk: China regulatory approval fails, forcing the deal to stall or collapse. Buy Starlink/SpaceX exposure through public proxies: consider satellite/space infrastructure names like AST SpaceMobile (ASTS) and Iridium Communications (IRDM). If a Tesla–SpaceX merger advances, capital and AI-driven demand signals can lift the whole “satellite + connectivity + defense/enterprise” complex as investors price faster scaling of Starlink and related orbital computing/AI services.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/13/spacex-tesla-could-announce-historic-merger-as-soon-as-december-report/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:61841b5892823b81",
+      "titleEn": "Fallout from the Nvidia scandal may dampen the exuberance around the AI boom",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Nvidia CEO Jensen Huang's stunning resignation has sent ripples through the global technology industry, with rival chipmakers itching to take advantage of the uncertainty and others wondering if the downfall of one of AI's biggest cheerleaders will dampen the mood around the civilization-altering technology. A linchpin of the AI boom, Nvidia trades off with Apple as Wall Street's most valuable company and has invested heavily in other AI firms.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-11-fallout-nvidia-scandal-dampen-exuberance.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7a2ee8de69c28913",
+      "titleEn": "Wolters Kluwer Announces DuPont as Winner of 2026 Legal Innovator Award",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261112685947/en/Hailee-Steinfeld-Rashida-Jones-Jodie-Foster-and-More-Celebrate-the-Magic-of-%E2%80%9CDisney%E2%80%99s-Hexed%E2%80%9D-at-the-World-Premiere-in-Los-Angeles/",
+      "link": "https://www.businesswire.com/news/home/20261113603371/en/Wolters-Kluwer-Announces-DuPont-as-Winner-of-2026-Legal-Innovator-Award/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2655fb284fcfcc8b",
+      "titleEn": "Media Enterprises Unify Data, Automate Content Operations",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261113466645/en/Media-Enterprises-Unify-Data-Automate-Content-Operations/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7e6f2653d80741de",
+      "titleEn": "Dominion Energy Charitable Foundation Awards $4.5 million in Grants to Nonprofit Organizations Across Multiple States",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261113717362/en/Dominion-Energy-Charitable-Foundation-Awards-4.5-million-in-Grants-to-Nonprofit-Organizations-Across-Multiple-States/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:090b35199c5549ea",
+      "titleEn": "Meet the New Faces of Torrid: 2026 Casting Call Winners Revealed",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261113113858/en/Meet-the-New-Faces-of-Torrid-2026-Casting-Call-Winners-Revealed/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f50af06f525455d6",
+      "titleEn": "Tanium Converge 2026 Brings Global IT and Cybersecurity Leaders Together to Accelerate the Journey from Reactive to Autonomous",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261113983672/en/Tanium-Converge-2026-Brings-Global-IT-and-Cybersecurity-Leaders-Together-to-Accelerate-the-Journey-from-Reactive-to-Autonomous/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f3cb4dbcfedfd6a2",
+      "titleEn": "Graham Holdings Company Announces Virtual Investor Day",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261112812629/en/Graham-Holdings-Company-Announces-Virtual-Investor-Day/",
       "published": null
     }
   ]
