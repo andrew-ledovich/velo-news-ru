@@ -1,150 +1,78 @@
 {
-  "generatedAt": "2026-11-12T20:27:11.448704Z",
+  "generatedAt": "2026-11-13T01:17:55.700364Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 8,
   "items": [
     {
-      "id": "stockanalysis:62b3d99097857eda",
-      "titleEn": "Nvidia tumbles early amid questions about Nvidia CEO Jensen Huang's future",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Shares of Nvidia, the chipmaker at the center of the global artificial intelligence boom, tumbled early Thursday with the tenure of CEO Jensen Huang threatened by revelations of an affair with a woman reported to be a suspected Chinese spy. The company's stock has been under pressure for weeks , both because of reporting about the affair and questions about a potential bubble in the AI sector .",
+      "id": "stockanalysis:899ab11409bfb4f6",
+      "titleEn": "Gold, silver slide as Treasury yields surge, Fed hike concerns intensify - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in late U.S. trading Thursday, pressured by rising Treasury yields, a firm U.S. dollar and expectations for additional Federal Reserve interest rate increases. Gold extended its decline below $3,900.00 an ounce as investors reassessed the outlook for restrictive monetary policy, while silver suffered heavier percentage losses amid renewed concerns about industrial demand and equity-market volatility. Spot gold was trading near $3,876.40 an ounce, down $110.60, or 2.77%, while spot silver was trading near $49.930, down $1.610, or 3.13%. Thursday&#x27;s U.S. economic reports highlighted the competing pressures of resilient employment conditions and weakening interest-rate-sensitive sectors. Initial jobless claims increased to 200,000 in the week ended Nov. 7, compared with expectations near 195,000, but remained consistent with relatively limited layoffs. October existing-home sales fell 5.5% to a seasonally adjusted annual rate of 3.75 million, the weakest pace since August 2010, as mortgage rates above 7% restrained demand. The housing figures followed Tuesday&#x27;s stronger-than-expected consumer inflation report, which showed headline prices rising 0.4% and core prices increasing 0.3% in October. Together with last week&#x27;s stronger employment report, the data indicate that elevated borrowing costs are restricting housing activity without yet producing sufficient relief from inflation. Market positioning remained firmly focused on additional Federal Reserve tightening. Late-session futures assessments indicated approximately an 85% probability of a 25-basis-point increase at the Dec. 8-9 meeting and a 15% probability of a 50-basis-point move. Treasury yields rose sharply, with the benchmark 10-year yield reaching approximately 5.102% and the two-year yield climbing to 4.862%, reflecting expectations that monetary policy may remain restrictive for longer. The dollar also remained strong, compounding pressure on gold and silver. Friday&#x27;s October producer price index, scheduled for release at 8:30 a.m. EST, is the next major inflation test. Another upside surprise could reinforce expectations for aggressive tightening, while softer producer prices could provide some relief to Treasury yields and precious metals.",
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-11-nvidia-early-ceo-jensen-huang.html",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-12/gold-silver-slide-treasury-yields-surge-fed-hike-concerns-intensify-kitco",
       "published": null
     },
     {
-      "id": "stockanalysis:792ed3bbac051667",
-      "titleEn": "Nvidia CEO Huang quits after affair with suspected China spy",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Jensen Huang, the leather-jacketed architect of the artificial intelligence boom, resigned as chief executive of Nvidia on Thursday after revelations of two extramarital affairs, including one with a woman accused of spying for China. Chief financial officer Colette Kress will serve as interim CEO while the board searches for a successor, the company said, ending Huang's 33 years at the helm of the global juggernaut he co-founded.",
+      "id": "stockanalysis:543440cfe873bef1",
+      "titleEn": "The gold is all there! Tether Gold releases KPMG audit of its reserves",
+      "summaryEn": "(Kitco News) - Analysts have noted that the biggest hurdle to the adoption of tokenized gold remains trust; investors have to trust that tokens are backed by secure physical gold. The world’s biggest gold-backed token has announced a significant step toward establishing that trust. Tether, the world’s largest digital asset firm, announced Thursday that KPMG U.S. has completed an independent audit of the financial statements of Tether Gold (XAU₮) for the year ended December 31, 2025. “The audited statements show XAU₮ fully backed by allocated physical gold ,” the company said in the report.",
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-11-nvidia-ceo-huang-affair-china.html",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-12/gold-all-there-tether-gold-releases-kpmg-audit-its-reserves",
       "published": null
     },
     {
-      "id": "stockanalysis:7e347d193c69bb22",
-      "titleEn": "Why SpaceX shares are rising on Thursday?",
-      "summaryEn": "Buy SpaceX (SPCX). The stock is being re-rated from “rocket company” to “AI infrastructure + Starlink scale-up.” The $74B AI campus plan (Texas power-on-site + Arizona buildout) plus AI already driving >50% of revenue creates a clear growth engine, and Starship Flight 15’s tower catch/reusability milestone can further compress perceived launch-cost risk. Key Risk: Starship Flight 15 fails to catch/recover, delaying rapid reusability and making the AI infrastructure narrative look like expensive hype. Sell Nvidia (NVDA). Jensen Huang’s exit is a headline shock, and SpaceX’s AI buildout reduces the market’s urgency to keep paying up for Nvidia’s near-term dominance. If SpaceX accelerates alternative chip/data-center paths (including custom/other suppliers), NVDA’s “default AI infrastructure” premium is at risk.",
+      "id": "stockanalysis:9f5b1caed7953e30",
+      "titleEn": "Broadcom stock surges 4%: is there more upside to the stock?",
+      "summaryEn": "Buy Broadcom (AVGO). Nvidia’s CEO resignation looks like company-specific noise, while hyperscalers keep pushing custom silicon—exactly where Broadcom benefits (networking/AI infrastructure) and where investors are now looking for alternatives. The $1B Broadcom stake in Anthropic’s placement also signals continued AI capex demand. Analyst support (BofA/JPM/Barclays) adds near-term floor under sentiment. Key Risk: Hyperscalers pause or slow custom-chip programs and shift spend back to Nvidia, cutting Broadcom’s alternative-supplier demand. Buy a semis rebound basket: long memory + data-center semis (e.g., Micron (MU) and TSMC (TSM)) alongside AVGO. Tom Lee’s “tech bottomed” framing plus the market treating Nvidia turmoil as isolated supports a broad AI hardware rebound, not just one name. If selling pressure is exhausted, the highest beta AI supply chain names typically catch the next leg.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/12/why-spacex-shares-are-rising-on-thursday/",
+      "link": "https://invezz.com/news/2026/11/12/broadcom-stock-surges-4-is-there-more-upside-to-the-stock/",
       "published": null
     },
     {
-      "id": "stockanalysis:315d211f13185aaa",
-      "titleEn": "Jensen Huang agrees to face Congress before Thanksgiving over Chinese spy links",
-      "summaryEn": "Buy SOXX (Semiconductor ETF). If NVDA faces China/export headwinds, the market often over-penalizes the whole AI hardware complex. But many semiconductor names are diversified across geographies and end markets; the second-order effect is that capital spending shifts toward non-China demand and toward “picks-and-shovels” components used across multiple AI platforms. Use SOXX to capture broad semiconductor upside while NVDA-specific risk is concentrated. Key Risk: A broad regulatory shock that hits the entire AI supply chain (not just NVDA) and forces widespread export restrictions across the sector. Sell NVDA. The news escalates from personal scandal to potential intelligence/export-control scrutiny tied to China links, and Congress is now in the picture with a subpoena threat. That raises the odds of tighter export enforcement, customer pullbacks, and a messy leadership transition (interim CEO) just as AI demand is priced for smooth execution. Key catalyst is the pre-Thanksgiving testimony and any follow-on actions by regulators.",
+      "id": "stockanalysis:f3e79e54159ebc8a",
+      "titleEn": "‘We believe gold and silver are not simply defensive assets' – BlackRock's Akullian",
+      "summaryEn": "(Kitco News) – Even though gold and silver prices continue to show near-term weakness, both precious metals still enjoy strong support from key areas of demand, and both offer unique advantages for investors’ portfolios, according to Kristy Akullian, Head of iShares Investment Strategy for the Americas at BlackRock. Akullian noted that after gold and silver began 2026 with extraordinary momentum, the excitement surrounding the precious metals has faded. “Following a powerful rally that peaked in January, both gold and silver have pulled back as higher real yields, a stronger U.S. dollar, and profit taking weighed on performance,” she wrote in an analysis published Tuesday. “While near-term headwinds have emerged, many of the longer-term structural drivers supporting precious metals remain in place, leaving investors to weigh a more balanced outlook than earlier this year.” Akullian then reviews the recent price action in gold and silver – and the support that still exists for the precious metals.",
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/12/jensen-huang-agrees-to-face-congress-before-thanksgiving-over-chinese-spy-links/",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-12/we-believe-gold-and-silver-are-not-simply-defensive-assets-blackrocks",
       "published": null
     },
     {
-      "id": "stockanalysis:3d9552422e7f3574",
-      "titleEn": "Trump wants Tim Cook to replace Huang at Nvidia: here's what experts think about it",
-      "summaryEn": "Buy NVDA. The CEO-change headline is noise versus fundamentals: Nvidia’s core edge is product/architecture execution and customer pull in AI compute. If Tim Cook (or any strong operator) lands, the market should re-rate NVDA on smoother supply-chain scaling and fewer geopolitical bottlenecks—exactly where Cook has proven leverage (global sourcing shifts, tariff exemptions). Key Risk: A permanent leadership gap that slows next-gen chip delivery or customer adoption, not just PR—any delay in roadmap execution kills the thesis. Sell AAPL. If Tim Cook is seriously in play for Nvidia, the probability of a disruptive transition rises even if he stays as executive chairman. The market will discount Apple’s operational continuity and political/supply-chain relationships that Cook personally managed, pressuring buyback momentum and services stability.",
+      "id": "stockanalysis:7c3ec148a9601d3e",
+      "titleEn": "Five things to know about Nvidia",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: After launching as a small gaming startup and morphing into the top chip designer for artificial intelligence, U.S. tech giant Nvidia faces unprecedented turbulence after its co-founder and CEO Jensen Huang reportedly had a second extramarital affair with an employee. Huang had already acknowledged being \"unfaithful\" to his wife, reportedly with a woman U.S. intelligence officials believe was a spy for China.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/12/trump-wants-tim-cook-to-replace-huang-at-nvidia-heres-what-experts-think-about-it/",
+      "link": "https://techxplore.com/news/2026-11-nvidia.html",
       "published": null
     },
     {
-      "id": "stockanalysis:0e1ca2d40ff00c94",
-      "titleEn": "AMD stock rises as Nvidia turmoil creates an opening for chip rivals",
-      "summaryEn": "Buy AMD. Nvidia leadership turmoil plus Intel supply delays create a real window for AMD to win share in data-center AI. The catalyst is not just sentiment: data-center revenue is already surging (up 97% YoY) and the firm expects data-center AI revenue to overtake server CPU in Q4, supported by Helios ramp through 2027. Valuation has compressed while earnings estimates rose—classic setup for multiple expansion if execution holds. Key Risk: AMD loses AI accelerator share because custom ASICs from Meta/OpenAI outcompete Instinct faster than AMD can ramp and deliver. Buy Broadcom. It’s moving with AMD, signaling the selloff is hitting Nvidia specifically, not the whole AI trade. Broadcom also has exposure to TPU/AI infrastructure demand via Alphabet and its own AI-related positioning, so it benefits if customers diversify away from Nvidia during leadership uncertainty. Upside is participation in the same supplier-switching cycle.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/12/amd-stock-rises-as-nvidia-turmoil-creates-an-opening-for-chip-rivals/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3c41a04c2285d603",
-      "titleEn": "Nvidia controversy may mean more to Alibaba stock than investors realize",
-      "summaryEn": "Buy SOXX (Semiconductor ETF). If the US tightens AI chip flows to China, it boosts demand and pricing power for compliant, US-aligned semiconductor supply chains and accelerates domestic/ally buildouts. The market will rotate toward “winners of restriction,” not “losers of China access,” and SOXX captures that basket effect across semis benefiting from higher spend and constrained supply. Key Risk: Export controls are delayed/softened or China demand is redirected without meaningful pricing uplift, leaving semiconductor revenues broadly unchanged. Sell BABA. The Nvidia CEO controversy is being used to push tighter US oversight on AI chip exports and remote access to overseas high-end compute. That directly threatens Alibaba Cloud’s AI roadmap (Qwen training/inference capacity), raising costs and slowing model cycles versus rivals who secure compute first. The stock already fell ~7%—this is the start of a longer regulatory repricing, not a one-day headline move.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/12/nvidia-controversy-may-mean-more-to-alibaba-stock-than-investors-realize/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cdce03a3b35fde9b",
-      "titleEn": "Why CoreWeave, Iren shares are sliding after Nebius third-quarter earnings?",
-      "summaryEn": "Sell CRWV. The stock is being hit by two fundamentals: (1) Nvidia leadership uncertainty threatens chip supply confidence for neoclouds, and (2) CoreWeave’s planned $4B chip-backed debt underscores the sector’s leverage risk—any funding hiccup can force slower growth or worse terms. CRWV’s rally on earnings looks fragile because the market is now repricing “growth funded by debt” as “growth funded by risk.” Key Risk: Nvidia supply and customer demand stay rock-solid and CoreWeave locks the new financing on easy terms, proving leverage is manageable. Sell IREN. It’s down harder than CRWV, signaling investors see higher refinancing/return risk in the broader neocloud complex. With Nvidia at the center of the ecosystem and IREN also tied to Nvidia as an investor, any perceived disruption hits sentiment and contract confidence. The sector already faces mounting debt; this news adds a new uncertainty layer, making IREN’s downside more immediate than any upside.",
+      "id": "stockanalysis:d83db4497a68a0e5",
+      "titleEn": "Gold could see $3.3 billion in buying on index rebalancing after 13% decline – Société Générale",
+      "summaryEn": "(Kitco News) - The gold market continues to struggle to attract investor interest as prices drop sharply back below $4,000 an ounce; however, the market could see a bit of a reprieve in the new year due to index rebalancing. In a note Thursday, commodity analysts at Société Générale said the 13% drop in precious metals prices this year could unleash more than $3 billion in buying as funds rebalance their exposure to broader commodity benchmarks, including the Bloomberg Commodity Index (BCOM). The French bank’s analysts said that gold is expected to be the biggest beneficiary of the annual rebalancing, which will take place between January 8 and 14.",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/12/why-coreweave-iren-shares-are-sliding-after-nebius-third-quarter-earnings/",
+      "link": "https://www.kitco.com/news/article/2026-11-12/gold-could-see-33-billion-buying-index-rebalancing-after-13-decline-societe",
       "published": null
     },
     {
-      "id": "stockanalysis:fc6af85710816912",
-      "titleEn": "All you need to know about Harvey C Jones, Nvidia's first-ever board of chair",
-      "summaryEn": "Buy NVDA. The appointment of a long-tenured, governance-focused board chair (Harvey C. Jones) plus an interim CEO reduces the chance of a messy leadership vacuum and signals the board is tightening oversight after Jensen Huang’s resignation. NVDA’s core AI demand doesn’t change overnight; what changes is perceived governance risk, which can compress the discount on the stock. Key Risk: A real governance breakdown—new investigations find material misconduct or security/financial issues that force major operational or legal consequences. Buy SNPS. Jones’ deep ties to Synopsys (former CEO/executive chairman) make it more likely Nvidia’s board will lean on experienced EDA leadership and maintain strong relationships with key design-software vendors. If Nvidia’s governance shake-up leads to faster, more disciplined product/roadmap execution, EDA spend and tool adoption tend to hold up—benefiting SNPS.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/12/all-you-need-to-know-about-harvey-c-jones-nvidias-first-ever-board-of-chair/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b5c9d33e83deb37f",
-      "titleEn": "Spot gold slides to $3,864/oz after U.S. existing-home sales fall 5.5% to 3.75 million in October",
-      "summaryEn": "(Kitco News) - Spot gold is falling further into the red this morning after the latest data showed the U.S. housing market performing below expectations last month. Total existing-home sales, including single-family homes, townhomes, condominiums, and co-ops, fell 5.5% to a seasonally adjusted annual rate of 3.75 million in October, the National Association of Realtors (NAR) announced on Thursday. The data was worse than expected, as the forecast of economists called for a drop to 3.85 million. September’s total was revised down to 3.97 million from 3.99 million units.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-12/spot-gold-slides-3864oz-after-us-existing-home-sales-fall-55-375-million",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:249da1034583fef6",
-      "titleEn": "GDC Festival of Gaming's 15th State of the Game Industry Report Reveals AI Adoption Rate, Labor Realities, and More",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261112824868/en/GDC-Festival-of-Gaming%E2%80%99s-15th-State-of-the-Game-Industry-Report-Reveals-AI-Adoption-Rate-Labor-Realities-and-More/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:706129cf17eaeac5",
-      "titleEn": "AM Best Upgrades Issuer Credit Rating of Golden Tree Reinsurance Limited",
+      "id": "stockanalysis:80260bbff20105ac",
+      "titleEn": "Vir Biotechnology Announces Pricing of Public Offering of Common Stock",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261112723564/en/AM-Best-Upgrades-Issuer-Credit-Rating-of-Golden-Tree-Reinsurance-Limited/",
+      "link": "https://www.businesswire.com/news/home/20261112333645/en/Vir-Biotechnology-Announces-Pricing-of-Public-Offering-of-Common-Stock/",
       "published": null
     },
     {
-      "id": "stockanalysis:e61c015c2de7a6f4",
-      "titleEn": "Panmnesia to Accelerate CXL Server Adoption in AI Data Centers with Ecosystem Partner",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261112494095/en/Panmnesia-to-Accelerate-CXL-Server-Adoption-in-AI-Data-Centers-with-Ecosystem-Partner/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:92f6bf194b9c3712",
-      "titleEn": "Rockwell Automation, Feeding America Eastern Wisconsin and Fork Farms Launch Clock Tower Farms",
+      "id": "stockanalysis:77a41c20827fb142",
+      "titleEn": "Did You Lose Money Investing in MNTN, Inc.? Robbins LLP is Investigating MNTN for Possible Violations of Securities Laws",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261111638559/en/Rockwell-Automation-Feeding-America-Eastern-Wisconsin-and-Fork-Farms-Launch-Clock-Tower-Farms/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b2a27cc79b9cd623",
-      "titleEn": "FMI Research: Holiday Shoppers Put Family Meals First &amp; Lean on Grocery Loyalty Programs to Save",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261112258414/en/FMI-Research-Holiday-Shoppers-Put-Family-Meals-First-Lean-on-Grocery-Loyalty-Programs-to-Save/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b46df829807ba8f7",
-      "titleEn": "Capital One Software Recognized in KuppingerCole Analysts 2026 Leadership Compass for Data Security Platforms",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261112410787/en/Capital-One-Software-Recognized-in-KuppingerCole-Analysts-2026-Leadership-Compass-for-Data-Security-Platforms/",
+      "link": "https://www.businesswire.com/news/home/20261112808019/en/Did-You-Lose-Money-Investing-in-MNTN-Inc.-Robbins-LLP-is-Investigating-MNTN-for-Possible-Violations-of-Securities-Laws/",
       "published": null
     }
   ]
