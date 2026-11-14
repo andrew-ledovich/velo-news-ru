@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-11-14T02:21:46.732383Z",
+  "generatedAt": "2026-11-14T09:09:29.456146Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:40a4f3fab98ab089",
+      "titleEn": "OpenAI Gives AI Agents a Wallet While Blocking Them From Seeing the Card",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); ChatGPT Wallet will initially be available through OpenAI’s personal AI agents, dots , for ChatGPT Pro subscribers aged 18 years and older in the United States with eligible U.S.-issued cards, according to the release. OpenAI built ChatGPT Wallet in partnership with American Express , Mastercard and Visa , per the release.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-ai-agents-a-wallet-while-blocking-them-from-seeing-the-card/",
+      "published": null
+    },
     {
       "id": "stockanalysis:ee1bc908311ba9b9",
       "titleEn": "Costco Trusts AI to Reorder Drugs. Most Retailers Won't",
@@ -78,7 +87,7 @@
     {
       "id": "stockanalysis:167bd9113c2ca8f9",
       "titleEn": "Microsoft stock steadies after global outage as AI competition intensifies",
-      "summaryEn": null,
+      "summaryEn": "Buy Microsoft (MSFT). The outage was disruptive but Microsoft is already showing “broad recovery and stability,” and its Microsoft 365 availability is extremely high (99.994%). That supports a view that this is a rare operational glitch, not a structural decline. Pair that with the near-term catalyst of Ignite, where investors can re-rate Azure + Copilot momentum as AI competition stays intense. Key Risk: A second major outage or a prolonged service failure that proves reliability is deteriorating, breaking trust in Microsoft 365/Azure. Buy Mimecast (MIME). The news spotlights business dependence on centralized cloud email and the likely shift toward backup/continuity tools. Mimecast directly benefits from companies adding “always-on” email continuity after high-visibility outages, especially in regulated sectors (healthcare, accounting, government).",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/11/13/microsoft-stock-steadies-after-global-outage-as-ai-competition-intensifies/",
@@ -96,55 +105,19 @@
     {
       "id": "stockanalysis:7fdeee579b8d4b9f",
       "titleEn": "Nvidia stock outlook: Can shares recover after Jensen Huang's exit?",
-      "summaryEn": null,
+      "summaryEn": "Buy NVDA. The stock is already priced for leadership noise, but the core business still has a clear catalyst: Tuesday’s earnings and whether Nvidia reiterates ~70% fiscal 2028 revenue growth. At <12x forward earnings, even a modest valuation re-rating plus buybacks can drive a fast recovery if guidance holds and demand remains intact. The market is likely over-discounting the resignation headline versus the earnings engine. Key Risk: Nvidia cuts or weakens forward guidance (or signals demand/export limits), proving the controversy is now hitting growth, not just sentiment. Sell NVDA (or buy puts on NVDA) if you want to express the regulatory downside. The Treasury Secretary is explicitly pushing for an investigation into whether Nvidia chips reached China via intermediaries, and Congress may scrutinize IP/hardware transfers. If Washington tightens export controls or enforcement, Nvidia’s China revenue and AI chip shipments could get structurally impaired, not just delayed.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "AI",
       "link": "https://invezz.com/news/2026/11/13/nvidia-stock-outlook-can-shares-recover-after-jensen-huangs-exit/",
       "published": null
     },
     {
-      "id": "stockanalysis:f89d9fb2b2362c42",
-      "titleEn": "Apple stock gains as Bernstein highlights safe-haven appeal amid AI selloff",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/13/apple-stock-gains-as-bernstein-highlights-safe-haven-appeal-amid-ai-selloff/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f8ae275a83740209",
-      "titleEn": "Perioperative IMFINZI® (durvalumab) approved in the US in novel regimen with neoadjuvant enfortumab vedotin-ejfv for patients with muscle-invasive bladder cancer",
+      "id": "stockanalysis:8614f0886a08402c",
+      "titleEn": "Zai Lab Announces First-Time Inclusion of KarXT and VYVGART Hytrulo® in China's 2026 National Reimbursement Drug List, Expanding Access to Key Growth Products",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261113582858/en/Perioperative-IMFINZI%C2%AE-durvalumab-approved-in-the-US-in-novel-regimen-with-neoadjuvant-enfortumab-vedotin-ejfv-for-patients-with-muscle-invasive-bladder-cancer/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:13e407b775a1e5ea",
-      "titleEn": "Bloom Energy Supports Louisiana Disaster Relief Ahead of Texas-LSU Matchup",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261113756487/en/Bloom-Energy-Supports-Louisiana-Disaster-Relief-Ahead-of-Texas-LSU-Matchup/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:986374c334e9461b",
-      "titleEn": "Service Properties Trust Receives Statement of Support from Shareholder Flat Footed LLC",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261113661228/en/Service-Properties-Trust-Receives-Statement-of-Support-from-Shareholder-Flat-Footed-LLC/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2d375827d6aa90f6",
-      "titleEn": "Organigram Provides NASDAQ Listing Update",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261113663664/en/Organigram-Provides-NASDAQ-Listing-Update/",
+      "link": "https://www.businesswire.com/news/home/20261113153831/en/Zai-Lab-Announces-First-Time-Inclusion-of-KarXT-and-VYVGART-Hytrulo%C2%AE-in-China%E2%80%99s-2026-National-Reimbursement-Drug-List-Expanding-Access-to-Key-Growth-Products/",
       "published": null
     }
   ]
