@@ -1,8 +1,71 @@
 {
-  "generatedAt": "2026-11-13T22:09:58.799178Z",
+  "generatedAt": "2026-11-14T02:21:46.732383Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:ee1bc908311ba9b9",
+      "titleEn": "Costco Trusts AI to Reorder Drugs. Most Retailers Won't",
+      "summaryEn": "Costco uses AI to compare drug prices across suppliers and automatically reorder inventory, keeping pharmacy in-stock levels above 98%. Costco is extending AI inventory management to gasoline operations while expanding pharmacy services through prescription pickup lockers, mobile prepayment and GLP-1 programs. Ninety percent of retailers would restrict AI agents to information retrieval, while just 5% would permit limited execution with human approval, according to PYMNTS Intelligence.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/retail/2026/costco-trusts-ai-to-reorder-drugs-most-retailers-wont/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1d4c2c67aff02a87",
+      "titleEn": "Wall Street bears abound after inflation sours Fed outlook, Main Street abandons bullish bias as gold drops below $3,900/oz",
+      "summaryEn": "(Kitco News) – Gold prices suffered another sharp weekly decline as an early recovery driven by falling oil prices and a weaker U.S. dollar was overwhelmed by hotter-than-expected inflation data, surging Treasury yields, and increasingly hawkish Federal Reserve expectations, sending the precious metal to its lowest level in more than a year. Spot gold kicked off the week trading at $4,066.39 per ounce on Sunday evening, and the yellow metal pushed sharply higher on Monday as renewed U.S.-Iran diplomatic efforts helped ease crude oil prices and inflation concerns, while a softer dollar supported precious metals. The recovery pushed gold back above $4,100, with spot prices setting their weekly high at $4,148.95 per ounce on Monday before sellers returned ahead of Tuesday&#x27;s consumer inflation report. The reversal accelerated on Tuesday morning after October CPI rose 0.4%, exceeding expectations, while core inflation also surprised to the upside. The stronger inflation readings revived speculation that the Fed could raise rates by as much as 50 basis points in December, pushing Treasury yields and the dollar higher. Gold then broke definitively below $4,000 per ounce on Wednesday as hawkish comments from Fed officials reinforced expectations for further tightening, overwhelming safe-haven demand despite renewed tensions surrounding Iran and the Strait of Hormuz.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-13/wall-street-bears-abound-after-inflation-sours-fed-outlook-main-street",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:28f69a42031713ed",
+      "titleEn": "Gold posts steep weekly loss as Treasury yields rise, Fed tightening bets persist - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices were modestly higher and spot silver prices were sharply lower in late U.S. trading Friday, as persistent inflation concerns, elevated Treasury yields and expectations for additional Federal Reserve tightening continued to weigh on precious metals. Gold stabilized after Thursday&#x27;s steep losses, supported by bargain hunting, while silver remained under pressure amid concerns about industrial demand and restrictive financial conditions. Spot gold was trading near $3,883.40 an ounce, up $7.00, or 0.18%, while spot silver was trading near $48.630 an ounce, down $1.320, or 2.63%, on the session. The U.S. Labor Department reported Friday that the producer price index increased 0.3% in October, below expectations for a 0.4% gain, while annual producer inflation accelerated to 6.5% , its highest level since November 2022. Goods prices increased 0.5% and services prices rose 0.2%, while the index excluding food, energy and trade services advanced 0.5%, indicating continued underlying cost pressure. The report followed Tuesday&#x27;s stronger-than-expected consumer inflation figures and last week&#x27;s October employment report, which showed 165,000 additional jobs and unemployment declining to 4.1% . The combination of resilient employment and persistent inflation continues to support expectations for restrictive monetary policy despite evidence of moderation in some monthly price measures. Market positioning remains focused on the Federal Reserve&#x27;s Dec. 8-9 meeting, with the latest independently verified prerelease futures assessment indicating an 89% probability of a 25-basis-point increase and an 11% probability of a 50-basis-point move. The benchmark 10-year Treasury yield rose toward 5.15% Friday, increasing the opportunity cost of holding non-yielding bullion, while the dollar remained comparatively firm. The softer headline PPI reading provided some relief, but persistent underlying producer inflation limited expectations for a substantial change in Fed policy. Next week&#x27;s principal economic events include Tuesday&#x27;s October retail sales report and Wednesday&#x27;s release of the Fed&#x27;s October meeting minutes. Stronger consumption or hawkish policy commentary could reinforce tightening expectations, while weaker demand could provide some support for gold through lower yields.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-13/gold-posts-steep-weekly-loss-treasury-yields-rise-fed-tightening-bets",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ae39ec62499e1780",
+      "titleEn": "Silver market remains resilient despite price volatility and weakening industrial demand – Metals Focus",
+      "summaryEn": "(Kitco News) - The silver market continues to struggle to attract investor interest following its historic price collapse earlier this year; however, one research firm remains optimistic that the precious metal’s long-term outlook remains positive, even as industrial demand weakens and the market moves closer to balance. In an interview with Kitco News, Philip Newman, Managing Director of Metals Focus, said that despite the significant volatility that has defined the silver market this year, prices have shown remarkable resilience, even as it struggles to hold support at $50 an ounce. Spot silver last traded at $48.58 an ounce, down 6% on the week. Newman&#x27;s comments come as Metals Focus, in its latest research for the Silver Institute, forecasts that the global silver market will record its sixth consecutive annual supply deficit in 2026. However, the shortfall is expected to narrow to 35 million ounces, down from 54 million ounces last year.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-13/silver-market-remains-resilient-despite-price-volatility-and-weakening",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ada1c4999181bf61",
+      "titleEn": "Tether taking aim at gold ETFs as tokenization gains momentum",
+      "summaryEn": "(Kitco News) - The gauntlet has been thrown down, and there is a new challenger to become a dominant force in the gold market. The head of the world’s largest digital asset firm has made a clear declaration about the role Tether Gold (XAU₮) intends to play in the global marketplace. “I firmly believe XAU₮ is on track to become the first true competitor to the gold ETF market, bringing more utility to the end user, from gold that can actually move and settle at the speed of light, to lower custody costs and higher transparency thanks to the blockchain technology,” said Tether CEO Paolo Ardoino in a statement on Thursday.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-13/tether-taking-aim-gold-etfs-tokenization-gains-momentum",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9c59e1630be2474d",
+      "titleEn": "Gold is on the cusp of breaking key support, and further USD strength could drive price to $3,500/oz – Jesse Colombo",
+      "summaryEn": "(Kitco News) – Gold is teetering on the brink of a far more significant breakdown, and if the U.S. dollar’s recent rally goes much higher, the yellow metal could lose an additional $400 to $500 before the next meaningful support kicks in, according to Jesse Colombo, independent precious metals analyst and founder of the BubbleBubble Report. Colombo said that dollar strength and rising interest rates are driving gold’s current weakness, along with liquidations due to the tech sell-off. “It&#x27;s still at that major support that&#x27;s roughly $3,900 in COMEX futures,” he said. “I know it&#x27;s slightly below there, but in order to feel more confident that this was a true breakdown, I would want to see it break with a higher margin, and it still hasn&#x27;t done that.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-13/gold-cusp-breaking-key-support-and-further-usd-strength-could-drive-price",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:312c7b908877dd4c",
+      "titleEn": "Gold's drop below $4,000 offers long-term value as WisdomTree sees potential for $4,800 by 2027",
+      "summaryEn": "(Kitco News) - The gold market continues to struggle to attract consistent bullish momentum as persistent inflation pressures keep the Federal Reserve on a tightening path; however, one market strategist says investors should not overlook the precious metal&#x27;s long-term value, even if prices remain volatile in the near term. In an interview with Kitco News, Nitesh Shah, Head of Commodities and Macroeconomic Research at WisdomTree, said that although gold faces significant headwinds from elevated bond yields and a stronger U.S. dollar, the market is trading close to fair value, providing an attractive opportunity for long-term investors looking to protect their portfolios against growing economic and financial risks. Even in the face of growing risks, Shah said that he remains optimistic that gold prices could rally back to $4,800 an ounce by the third quarter of 2027. While that forecast represents a significant gain from current levels around $4,000 an ounce, he added that investors should not expect the kind of explosive rallies that have defined the market in recent years.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-13/golds-drop-below-4000-offers-long-term-value-wisdomtree-sees-potential-4800",
+      "published": null
+    },
     {
       "id": "stockanalysis:54d48da1ec3b7b75",
       "titleEn": "Price bounces may be traps as Fed rate hikes could drive gold down to $3,200/oz – StoneX's Pavilonis",
@@ -49,48 +112,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:8d3dccde84a402cc",
-      "titleEn": "AMD falls 9%, Intel drops 6% as chip stocks slide on Friday",
+      "id": "stockanalysis:f8ae275a83740209",
+      "titleEn": "Perioperative IMFINZI® (durvalumab) approved in the US in novel regimen with neoadjuvant enfortumab vedotin-ejfv for patients with muscle-invasive bladder cancer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/13/amd-falls-9-intel-drops-6-as-chip-stocks-slide-on-friday/",
+      "link": "https://www.businesswire.com/news/home/20261113582858/en/Perioperative-IMFINZI%C2%AE-durvalumab-approved-in-the-US-in-novel-regimen-with-neoadjuvant-enfortumab-vedotin-ejfv-for-patients-with-muscle-invasive-bladder-cancer/",
       "published": null
     },
     {
-      "id": "stockanalysis:3f6e15f202f52288",
-      "titleEn": "What is ChatGPT Wallet, how does it work and who can use it?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/13/what-is-chatgpt-wallet-how-it-works-who-can-use-it/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d73d9a630cad2b32",
-      "titleEn": "Thermo Fisher Scientific to Participate in UBS 2026 CEO Call Series on November 19, 2026",
+      "id": "stockanalysis:13e407b775a1e5ea",
+      "titleEn": "Bloom Energy Supports Louisiana Disaster Relief Ahead of Texas-LSU Matchup",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261113762303/en/Thermo-Fisher-Scientific-to-Participate-in-UBS-2026-CEO-Call-Series-on-November-19-2026/",
+      "link": "https://www.businesswire.com/news/home/20261113756487/en/Bloom-Energy-Supports-Louisiana-Disaster-Relief-Ahead-of-Texas-LSU-Matchup/",
       "published": null
     },
     {
-      "id": "stockanalysis:677363f7431e7216",
-      "titleEn": "JPMorganChase Declares Preferred Stock Dividends",
+      "id": "stockanalysis:986374c334e9461b",
+      "titleEn": "Service Properties Trust Receives Statement of Support from Shareholder Flat Footed LLC",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261113102543/en/JPMorganChase-Declares-Preferred-Stock-Dividends/",
+      "link": "https://www.businesswire.com/news/home/20261113661228/en/Service-Properties-Trust-Receives-Statement-of-Support-from-Shareholder-Flat-Footed-LLC/",
       "published": null
     },
     {
-      "id": "stockanalysis:647acaba5e7b87eb",
-      "titleEn": "Lost Money on Enovix Corporation Shares? The Law Offices of Frank R.",
+      "id": "stockanalysis:2d375827d6aa90f6",
+      "titleEn": "Organigram Provides NASDAQ Listing Update",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261113126445/en/Lost-Money-on-Enovix-Corporation-Shares-The-Law-Offices-of-Frank-R.-Cruz-Investigates-Potential-Securities-Fraud-After-28.66-Stock-Decline/",
+      "link": "https://www.businesswire.com/news/home/20261113663664/en/Organigram-Provides-NASDAQ-Listing-Update/",
       "published": null
     }
   ]
