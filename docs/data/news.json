@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-11-14T15:45:59.860455Z",
+  "generatedAt": "2026-11-14T20:12:51.788454Z",
   "sourceCount": 1,
   "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:26e68e5831f80680",
+      "titleEn": "Microsoft announces service 'restored,' global outage over",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Tech giant Microsoft said Saturday it has \"restored service\" to customers, effectively bringing an end to a massive outage that caused chaos and disrupted public services and business around the world. \"We have completed our efforts to address the underlying issue of the incident and restored service to the remaining impacted customers and regions,\" the U.S.-based company said in an X post.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-11-microsoft-global-outage.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:62680459d012149a",
+      "titleEn": "Meta fined $887 million in Italy over Android gallery photos and videos on Facebook",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Italy announced an €805 million ($887 million) fine against Meta on Saturday for using photos and videos from Android users' galleries on Facebook without specific consent or adequate disclosure. The Italian Data Protection Authority said the feature, called \"Get suggestions from gallery when browsing Facebook,\" violated a European privacy directive incorporated into Italian law. The directive protects smartphones as part of a person's private sphere and requires \"free and informed consent\" for such access, the authority said.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-11-meta-fined-million-italy-android.html",
+      "published": null
+    },
     {
       "id": "stockanalysis:f0578a55bd024c0f",
       "titleEn": "Microsoft outage shows the risks of relying on a single technology provider for essential services",
@@ -76,39 +94,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:312c7b908877dd4c",
-      "titleEn": "Gold's drop below $4,000 offers long-term value as WisdomTree sees potential for $4,800 by 2027",
-      "summaryEn": "(Kitco News) - The gold market continues to struggle to attract consistent bullish momentum as persistent inflation pressures keep the Federal Reserve on a tightening path; however, one market strategist says investors should not overlook the precious metal&#x27;s long-term value, even if prices remain volatile in the near term. In an interview with Kitco News, Nitesh Shah, Head of Commodities and Macroeconomic Research at WisdomTree, said that although gold faces significant headwinds from elevated bond yields and a stronger U.S. dollar, the market is trading close to fair value, providing an attractive opportunity for long-term investors looking to protect their portfolios against growing economic and financial risks. Even in the face of growing risks, Shah said that he remains optimistic that gold prices could rally back to $4,800 an ounce by the third quarter of 2027. While that forecast represents a significant gain from current levels around $4,000 an ounce, he added that investors should not expect the kind of explosive rallies that have defined the market in recent years.",
+      "id": "stockanalysis:1ff340ce6ae9f1a6",
+      "titleEn": "Hot Wheels Crowns 2026 Legends Tour Winner Following Global Search Across 19 Countries",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-13/golds-drop-below-4000-offers-long-term-value-wisdomtree-sees-potential-4800",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261114608677/en/Hot-Wheels-Crowns-2026-Legends-Tour-Winner-Following-Global-Search-Across-19-Countries/",
       "published": null
     },
     {
-      "id": "stockanalysis:54d48da1ec3b7b75",
-      "titleEn": "Price bounces may be traps as Fed rate hikes could drive gold down to $3,200/oz – StoneX's Pavilonis",
-      "summaryEn": "(Kitco News) – The trajectory for gold is tilted firmly to the downside, and traders who buy the near-term bounce off of current levels could be washed out as aggressive Fed rate hikes ultimately push the precious metal down to $3,200 per ounce, according to Daniel Pavilonis, senior commodities broker at StoneX Group. “The charts do not look good,” Pavilonis told Kitco News on Friday. “And the dollar continues to get stronger. I think we&#x27;re at a major inflection point here, and if we really start to break down, we can make another leg down.” “The overwhelming theme of the market just seems non-existent right now,” he added. “There&#x27;s no [narratives of] central bank buying and stockpiles running low, all the stuff that we saw around this time last year and into the beginning of this year. We&#x27;ve been just trying to mitigate a lower move that&#x27;s losing any kind of momentum and building momentum, in fact, to the downside.”",
+      "id": "stockanalysis:b92ab1ebfaeb94ff",
+      "titleEn": "Amylyx Pharmaceuticals Presents Results from Phase 3 LUCIDITY Clinical Trial of Avexitide in Post-Bariatric Hypoglycemia at ObesityWeek® 2026 Annual Meeting",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-13/price-bounces-may-be-traps-fed-rate-hikes-could-drive-gold-down-3200oz",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:167bd9113c2ca8f9",
-      "titleEn": "Microsoft stock steadies after global outage as AI competition intensifies",
-      "summaryEn": "Buy Microsoft (MSFT). The outage was disruptive but Microsoft is already showing “broad recovery and stability,” and its Microsoft 365 availability is extremely high (99.994%). That supports a view that this is a rare operational glitch, not a structural decline. Pair that with the near-term catalyst of Ignite, where investors can re-rate Azure + Copilot momentum as AI competition stays intense. Key Risk: A second major outage or a prolonged service failure that proves reliability is deteriorating, breaking trust in Microsoft 365/Azure. Buy Mimecast (MIME). The news spotlights business dependence on centralized cloud email and the likely shift toward backup/continuity tools. Mimecast directly benefits from companies adding “always-on” email continuity after high-visibility outages, especially in regulated sectors (healthcare, accounting, government).",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/13/microsoft-stock-steadies-after-global-outage-as-ai-competition-intensifies/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:af6838e296ea493e",
-      "titleEn": "Gold's $4,000 support breaks as Fed fears grow; analysts eye $3,800",
-      "summaryEn": "(Kitco News) - Despite optimism at the start of the week, gold has been unable to hold gains above $4,000 an ounce. Persistent inflation and fears that the Federal Reserve will have to aggressively raise interest rates next month have forced gold to give up all of its gains from the previous week. With gold prices caught below $4,000 an ounce, some analysts have noted that short-term momentum points to lower prices as rising bond yields and a stronger U.S. dollar continue to weigh on the precious metal. Carsten Fritsch, Commodity Analyst, pointed out in a note Friday that elevated inflation pressures and comments from Federal Reserve officials supporting a potential 50-basis-point hike next month are solidifying the market&#x27;s hawkish bias. He added that this leaves gold vulnerable to further selling pressure.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-13/golds-4000-support-breaks-fed-fears-grow-analysts-eye-3800",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261114240218/en/Amylyx-Pharmaceuticals-Presents-Results-from-Phase-3-LUCIDITY-Clinical-Trial-of-Avexitide-in-Post-Bariatric-Hypoglycemia-at-ObesityWeek%C2%AE-2026-Annual-Meeting/",
       "published": null
     },
     {
