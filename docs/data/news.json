@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-11-14T09:09:29.456146Z",
+  "generatedAt": "2026-11-14T15:45:59.860455Z",
   "sourceCount": 1,
   "count": 13,
   "items": [
+    {
+      "id": "stockanalysis:f0578a55bd024c0f",
+      "titleEn": "Microsoft outage shows the risks of relying on a single technology provider for essential services",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: A global Microsoft outage this week disrupted email and other workplace tools, plunging business chatter and everyday services into disarray worldwide and highlighting the risks of depending on one of just a few major providers of essential technology. Microsoft 365 services, including Outlook, Teams and AI assistant Copilot, were interrupted. As the outage entered its second day Friday, Microsoft said it saw \"encouraging recovery progress.\" But the company also warned that \"intermittent access issues or delayed email delivery\" may persist for some users.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-11-microsoft-outage-technology-essential.html",
+      "published": null
+    },
     {
       "id": "stockanalysis:40a4f3fab98ab089",
       "titleEn": "OpenAI Gives AI Agents a Wallet While Blocking Them From Seeing the Card",
@@ -100,15 +109,6 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-11-13/golds-4000-support-breaks-fed-fears-grow-analysts-eye-3800",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7fdeee579b8d4b9f",
-      "titleEn": "Nvidia stock outlook: Can shares recover after Jensen Huang's exit?",
-      "summaryEn": "Buy NVDA. The stock is already priced for leadership noise, but the core business still has a clear catalyst: Tuesday’s earnings and whether Nvidia reiterates ~70% fiscal 2028 revenue growth. At <12x forward earnings, even a modest valuation re-rating plus buybacks can drive a fast recovery if guidance holds and demand remains intact. The market is likely over-discounting the resignation headline versus the earnings engine. Key Risk: Nvidia cuts or weakens forward guidance (or signals demand/export limits), proving the controversy is now hitting growth, not just sentiment. Sell NVDA (or buy puts on NVDA) if you want to express the regulatory downside. The Treasury Secretary is explicitly pushing for an investigation into whether Nvidia chips reached China via intermediaries, and Congress may scrutinize IP/hardware transfers. If Washington tightens export controls or enforcement, Nvidia’s China revenue and AI chip shipments could get structurally impaired, not just delayed.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/13/nvidia-stock-outlook-can-shares-recover-after-jensen-huangs-exit/",
       "published": null
     },
     {
