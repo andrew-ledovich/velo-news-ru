@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-15T11:28:48.604054Z",
+  "generatedAt": "2026-11-15T17:54:52.221344Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 11,
   "items": [
     {
       "id": "stockanalysis:26e68e5831f80680",
@@ -31,6 +31,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:d9d009705851b6d7",
+      "titleEn": "Is AI Mode killing the internet's search-based business model?",
+      "summaryEn": "The obvious fear is AI Mode cannibalizes search clicks, but the setup is that Google is still growing queries and can shift ad inventory into AI Mode (more placements, more countries, ads as conversations progress). If AI Mode becomes the default search interface, Alphabet can capture more of the ad budget than publishers lose—especially if paid-click growth stabilizes and AI ads scale. Key Risk: AI Mode monetization stays structurally below traditional search (users engage but Google can’t convert to comparable ad revenue), forcing margin compression and market share loss. AI Overviews are already cutting Reddit’s search referrals (management cited >1M fewer referrals/week in October and >10% potential DAU decline from search). The thesis is that AI answers replace the “click-to-archive” funnel, so engagement may not translate into traffic or monetization. The stock already fell ~29% on the news—further downside comes from continued referral erosion and weaker ad yield.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/14/is-ai-mode-killing-the-internets-search-based-business-model/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:40a4f3fab98ab089",
       "titleEn": "OpenAI Gives AI Agents a Wallet While Blocking Them From Seeing the Card",
       "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); ChatGPT Wallet will initially be available through OpenAI’s personal AI agents, dots , for ChatGPT Pro subscribers aged 18 years and older in the United States with eligible U.S.-issued cards, according to the release. OpenAI built ChatGPT Wallet in partnership with American Express , Mastercard and Visa , per the release.",
@@ -49,39 +58,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:1d4c2c67aff02a87",
-      "titleEn": "Wall Street bears abound after inflation sours Fed outlook, Main Street abandons bullish bias as gold drops below $3,900/oz",
-      "summaryEn": "(Kitco News) – Gold prices suffered another sharp weekly decline as an early recovery driven by falling oil prices and a weaker U.S. dollar was overwhelmed by hotter-than-expected inflation data, surging Treasury yields, and increasingly hawkish Federal Reserve expectations, sending the precious metal to its lowest level in more than a year. Spot gold kicked off the week trading at $4,066.39 per ounce on Sunday evening, and the yellow metal pushed sharply higher on Monday as renewed U.S.-Iran diplomatic efforts helped ease crude oil prices and inflation concerns, while a softer dollar supported precious metals. The recovery pushed gold back above $4,100, with spot prices setting their weekly high at $4,148.95 per ounce on Monday before sellers returned ahead of Tuesday&#x27;s consumer inflation report. The reversal accelerated on Tuesday morning after October CPI rose 0.4%, exceeding expectations, while core inflation also surprised to the upside. The stronger inflation readings revived speculation that the Fed could raise rates by as much as 50 basis points in December, pushing Treasury yields and the dollar higher. Gold then broke definitively below $4,000 per ounce on Wednesday as hawkish comments from Fed officials reinforced expectations for further tightening, overwhelming safe-haven demand despite renewed tensions surrounding Iran and the Strait of Hormuz.",
+      "id": "stockanalysis:c0a0f6b2b01bb4d5",
+      "titleEn": "Summit Therapeutics Provides Update Regarding Ivonescimab Biologics License Application",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-13/wall-street-bears-abound-after-inflation-sours-fed-outlook-main-street",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:28f69a42031713ed",
-      "titleEn": "Gold posts steep weekly loss as Treasury yields rise, Fed tightening bets persist - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were modestly higher and spot silver prices were sharply lower in late U.S. trading Friday, as persistent inflation concerns, elevated Treasury yields and expectations for additional Federal Reserve tightening continued to weigh on precious metals. Gold stabilized after Thursday&#x27;s steep losses, supported by bargain hunting, while silver remained under pressure amid concerns about industrial demand and restrictive financial conditions. Spot gold was trading near $3,883.40 an ounce, up $7.00, or 0.18%, while spot silver was trading near $48.630 an ounce, down $1.320, or 2.63%, on the session. The U.S. Labor Department reported Friday that the producer price index increased 0.3% in October, below expectations for a 0.4% gain, while annual producer inflation accelerated to 6.5% , its highest level since November 2022. Goods prices increased 0.5% and services prices rose 0.2%, while the index excluding food, energy and trade services advanced 0.5%, indicating continued underlying cost pressure. The report followed Tuesday&#x27;s stronger-than-expected consumer inflation figures and last week&#x27;s October employment report, which showed 165,000 additional jobs and unemployment declining to 4.1% . The combination of resilient employment and persistent inflation continues to support expectations for restrictive monetary policy despite evidence of moderation in some monthly price measures. Market positioning remains focused on the Federal Reserve&#x27;s Dec. 8-9 meeting, with the latest independently verified prerelease futures assessment indicating an 89% probability of a 25-basis-point increase and an 11% probability of a 50-basis-point move. The benchmark 10-year Treasury yield rose toward 5.15% Friday, increasing the opportunity cost of holding non-yielding bullion, while the dollar remained comparatively firm. The softer headline PPI reading provided some relief, but persistent underlying producer inflation limited expectations for a substantial change in Fed policy. Next week&#x27;s principal economic events include Tuesday&#x27;s October retail sales report and Wednesday&#x27;s release of the Fed&#x27;s October meeting minutes. Stronger consumption or hawkish policy commentary could reinforce tightening expectations, while weaker demand could provide some support for gold through lower yields.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-13/gold-posts-steep-weekly-loss-treasury-yields-rise-fed-tightening-bets",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ae39ec62499e1780",
-      "titleEn": "Silver market remains resilient despite price volatility and weakening industrial demand – Metals Focus",
-      "summaryEn": "(Kitco News) - The silver market continues to struggle to attract investor interest following its historic price collapse earlier this year; however, one research firm remains optimistic that the precious metal’s long-term outlook remains positive, even as industrial demand weakens and the market moves closer to balance. In an interview with Kitco News, Philip Newman, Managing Director of Metals Focus, said that despite the significant volatility that has defined the silver market this year, prices have shown remarkable resilience, even as it struggles to hold support at $50 an ounce. Spot silver last traded at $48.58 an ounce, down 6% on the week. Newman&#x27;s comments come as Metals Focus, in its latest research for the Silver Institute, forecasts that the global silver market will record its sixth consecutive annual supply deficit in 2026. However, the shortfall is expected to narrow to 35 million ounces, down from 54 million ounces last year.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-13/silver-market-remains-resilient-despite-price-volatility-and-weakening",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ada1c4999181bf61",
-      "titleEn": "Tether taking aim at gold ETFs as tokenization gains momentum",
-      "summaryEn": "(Kitco News) - The gauntlet has been thrown down, and there is a new challenger to become a dominant force in the gold market. The head of the world’s largest digital asset firm has made a clear declaration about the role Tether Gold (XAU₮) intends to play in the global marketplace. “I firmly believe XAU₮ is on track to become the first true competitor to the gold ETF market, bringing more utility to the end user, from gold that can actually move and settle at the speed of light, to lower custody costs and higher transparency thanks to the blockchain technology,” said Tether CEO Paolo Ardoino in a statement on Thursday.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-13/tether-taking-aim-gold-etfs-tokenization-gains-momentum",
+      "link": "https://www.businesswire.com/news/home/20261115117181/en/Summit-Therapeutics-Provides-Update-Regarding-Ivonescimab-Biologics-License-Application/",
       "published": null
     },
     {
