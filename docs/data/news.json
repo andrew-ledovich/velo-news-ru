@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-15T03:38:40.606332Z",
+  "generatedAt": "2026-11-15T11:28:48.604054Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:26e68e5831f80680",
@@ -82,6 +82,15 @@
       "source": "Stock Analysis",
       "topic": "CRYPTO",
       "link": "https://www.kitco.com/news/article/2026-11-13/tether-taking-aim-gold-etfs-tokenization-gains-momentum",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b2434675745046ed",
+      "titleEn": "BA Investors Who Received Shares of The Boeing Company in Connection to Its Merger with Spirit AeroSystems Can Join Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261114465907/en/BA-Investors-Who-Received-Shares-of-The-Boeing-Company-in-Connection-to-Its-Merger-with-Spirit-AeroSystems-Can-Join-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
