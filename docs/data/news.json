@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-15T17:54:52.221344Z",
+  "generatedAt": "2026-11-15T22:14:24.479320Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 8,
   "items": [
     {
       "id": "stockanalysis:26e68e5831f80680",
@@ -40,24 +40,6 @@
       "published": null
     },
     {
-      "id": "stockanalysis:40a4f3fab98ab089",
-      "titleEn": "OpenAI Gives AI Agents a Wallet While Blocking Them From Seeing the Card",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); ChatGPT Wallet will initially be available through OpenAI’s personal AI agents, dots , for ChatGPT Pro subscribers aged 18 years and older in the United States with eligible U.S.-issued cards, according to the release. OpenAI built ChatGPT Wallet in partnership with American Express , Mastercard and Visa , per the release.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-ai-agents-a-wallet-while-blocking-them-from-seeing-the-card/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ee1bc908311ba9b9",
-      "titleEn": "Costco Trusts AI to Reorder Drugs. Most Retailers Won't",
-      "summaryEn": "Costco uses AI to compare drug prices across suppliers and automatically reorder inventory, keeping pharmacy in-stock levels above 98%. Costco is extending AI inventory management to gasoline operations while expanding pharmacy services through prescription pickup lockers, mobile prepayment and GLP-1 programs. Ninety percent of retailers would restrict AI agents to information retrieval, while just 5% would permit limited execution with human approval, according to PYMNTS Intelligence.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/retail/2026/costco-trusts-ai-to-reorder-drugs-most-retailers-wont/",
-      "published": null
-    },
-    {
       "id": "stockanalysis:c0a0f6b2b01bb4d5",
       "titleEn": "Summit Therapeutics Provides Update Regarding Ivonescimab Biologics License Application",
       "summaryEn": null,
@@ -91,15 +73,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261114240218/en/Amylyx-Pharmaceuticals-Presents-Results-from-Phase-3-LUCIDITY-Clinical-Trial-of-Avexitide-in-Post-Bariatric-Hypoglycemia-at-ObesityWeek%C2%AE-2026-Annual-Meeting/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8614f0886a08402c",
-      "titleEn": "Zai Lab Announces First-Time Inclusion of KarXT and VYVGART Hytrulo® in China's 2026 National Reimbursement Drug List, Expanding Access to Key Growth Products",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261113153831/en/Zai-Lab-Announces-First-Time-Inclusion-of-KarXT-and-VYVGART-Hytrulo%C2%AE-in-China%E2%80%99s-2026-National-Reimbursement-Drug-List-Expanding-Access-to-Key-Growth-Products/",
       "published": null
     }
   ]
