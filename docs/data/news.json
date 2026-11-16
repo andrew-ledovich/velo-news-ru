@@ -1,60 +1,123 @@
 {
-  "generatedAt": "2026-11-16T09:33:12.522949Z",
+  "generatedAt": "2026-11-16T19:50:32.493219Z",
   "sourceCount": 1,
-  "count": 6,
+  "count": 13,
   "items": [
     {
-      "id": "stockanalysis:67ed8319eb679479",
-      "titleEn": "Nvidia stock faces a new Jensen Huang crisis as Elon Musk enters the fight",
-      "summaryEn": "Buy NVDA. The stock is being hit by leadership/governance noise, but the core AI demand and Nvidia’s product position haven’t changed. Tuesday’s key is whether data-center revenue and gross margin (guided ~74%) hold and whether guidance stays intact; a credible interim-to-permanent succession plan plus stable export-control messaging should trigger a fast re-rating. The Musk petition is also a near-term catalyst for “board credibility” headlines that can calm investors. Key Risk: A guidance miss or margin compression tied to customer delays or export-control restrictions that directly hit future chip sales. Buy ARM. The article flags Nvidia’s board exploring Arm CEO Rene Haas as a potential role, which signals governance/leadership reshuffling risk is being actively managed. If Nvidia stabilizes, Arm benefits indirectly via continued AI compute platform momentum and reduced “AI supply chain disruption” fears. Even without a direct deal, the market often rerates Arm when major AI chip ecosystems look less likely to stall.",
+      "id": "stockanalysis:448d1d627d24c103",
+      "titleEn": "Gold, silver extend losses as Fed hike bets rise, dollar remains firm - Kitco AM Report",
+      "summaryEn": "(Kitco NewsWire) – Spot gold and silver prices were lower in early U.S. trading Monday, extending last week&#x27;s steep losses as a firm U.S. dollar, elevated Treasury yields and expectations for another Federal Reserve interest rate increase weighed on precious metals. Gold remained near its lowest level in more than a year, while silver experienced heavier selling amid concerns about industrial demand and restrictive financing conditions. Spot gold was trading near $3,872.70 an ounce, down $10.70, or 0.28%, while spot silver was trading near $47.260 an ounce, down $1.370, or 2.82%. Friday&#x27;s U.S. producer price index increased 0.3% in October, below expectations for a 0.4% gain, but annual producer inflation accelerated to 6.5%, its highest level since November 2022. The index excluding food, energy and trade services advanced 0.5%, indicating persistent underlying cost pressures. The report followed stronger-than-expected October consumer inflation and employment figures, which reinforced expectations that the Federal Reserve will maintain restrictive monetary policy. Investors were also awaiting Monday&#x27;s November Empire State manufacturing survey , with consensus near 17.6 compared with October&#x27;s 25.5 reading. The November survey&#x27;s actual result had not been independently confirmed at the time of writing. Market positioning remains focused on the Fed&#x27;s Dec. 8-9 meeting, with the latest published CME FedWatch assessment indicating approximately a 90% probability of a 25-basis-point increase and a 10% probability of a 50-basis-point move. Elevated Treasury yields and dollar strength continue to pressure gold, which declined approximately 4.5% last week. Investors will scrutinize remarks from Fed Chair Kevin Warsh on Monday for indications about the December decision, followed by Tuesday&#x27;s October retail sales and industrial production figures and Wednesday&#x27;s minutes from the October Fed meeting. Stronger consumption or hawkish Fed commentary could reinforce expectations for further tightening, while weaker economic data could provide some relief to bullion through lower yields and a softer dollar.",
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/16/nvidia-stock-faces-a-new-jensen-huang-crisis-as-elon-musk-enters-the-fight/",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-16/gold-silver-extend-losses-fed-hike-bets-rise-dollar-remains-firm-kitco-am",
       "published": null
     },
     {
-      "id": "stockanalysis:a85ab9f96d8c5305",
-      "titleEn": "Why are Samsung, SK Hynix stocks falling sharply ahead of Nvidia earnings?",
-      "summaryEn": "Buy Samsung Electronics. It’s broader than pure-memory (semiconductors + phones/other), so it’s less likely to be crushed by a single AI-memory demand wobble. If Nvidia’s results are merely “okay” rather than bad, Samsung’s diversified earnings base should hold up better than SK Hynix and the market may rotate back toward the more resilient name. Key Risk: A broad risk-off move hits Korean tech and Samsung’s semiconductor segment also guides to weaker margins or weaker memory pricing, making diversification irrelevant. Sell SK Hynix. The stock is the most exposed to premium AI memory demand, and the article flags “cliff in earnings” risk in 2028 plus possible data-center delays if Nvidia’s AI spending outlook disappoints. Even with record profits, the market is trading uncertainty around future margins, not current results.",
+      "id": "stockanalysis:1e30096808737895",
+      "titleEn": "Take-Two Interactive stock jumps as this analyst sees upside beyond GTA VI launch",
+      "summaryEn": "Buy TTWO. The setup is clear: pre-orders “far in excess,” $1B+ early sales estimates, and guidance that explicitly leans on the Nov 19 GTA VI launch. The upside case is not just the launch—Jefferies’ point that the monetization cycle (GTA Online + eventual PC) is under-modeled supports a rerating even after launch week. Key Risk: GTA VI launch underwhelms (reviews/sales disappoint), forcing guidance cuts and killing the multi-year monetization thesis. Buy TTWO again, but on the second leg: after launch, investors will reprice the “post-launch bookings” path as GTA Online engagement and take-rates become visible. If the game hits, the market will chase FY28/FY29 bookings (PC release optionality and Online growth) and push the stock higher even if near-term numbers are already priced.",
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/16/why-are-samsung-sk-hynix-stocks-falling-sharply-ahead-of-nvidia-earnings/",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/11/16/take-two-interactive-stock-jumps-as-this-analyst-sees-upside-beyond-gta-vi-launch/",
       "published": null
     },
     {
-      "id": "stockanalysis:05c3c388411d0225",
-      "titleEn": "CarMax and Carvana Face Off as Used-Car Buying Moves Online",
-      "summaryEn": "The king of America’s big-box automotive retail space is reportedly facing a challenge to its throne. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a report Sunday (Nov. 15) from The Wall Street Journal (WSJ) on the rivalry between CarMax and its digital challenger Carvana .",
+      "id": "stockanalysis:76de14ef3c2272ed",
+      "titleEn": "Rocket Lab stock jumped after earnings, but key risks points to a reversal",
+      "summaryEn": "Buy SpaceX-linked exposure via satellite communications demand: buy Iridium Communications (IRDM). The article flags the Iridium transaction closing as a catalyst and notes Starship catching/return lowers launch costs. Lower launch costs pull forward satellite deployment and replacement cycles, which supports Iridium’s end-market demand and improves sentiment around Rocket Lab’s backlog ecosystem. Key Risk: The Iridium deal faces regulatory/closing delays or integration issues that swamp any launch-cost tailwind. Sell Rocket Lab (RKLB). Earnings were strong, but the stock is already priced for Neutron success while the market is still waiting for Neutron to prove out (delay to 2027). Technicals also warn of reversal: it broke below $58.20 support and retested the breakdown area after a big run to ~$67. With multiple analysts cutting targets, rallies are likely to fade.",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/retail/2026/carmax-and-carvana-face-off-as-used-car-buying-moves-online/",
+      "link": "https://invezz.com/news/2026/11/16/rocket-lab-stock-jumped-after-earnings-but-key-risks-points-to-a-reversal/",
       "published": null
     },
     {
-      "id": "stockanalysis:f43ac9ebdd34fe5e",
-      "titleEn": "Amex Projects 14-Year High for Small Business Holiday Spend",
-      "summaryEn": "American Express is projecting that 88% of American consumers will patronize a small business during this year’s holiday season. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s the highest level since 2012, according to the company’s Shop Small Impact Study, released Thursday (Nov. 12).",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/2026/amex-projects-14-year-high-for-small-business-holiday-spend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:21b39f26be85dd59",
-      "titleEn": "FreeCast Introduces True Voice AI: One Search Across the World of Entertainment",
-      "summaryEn": null,
+      "id": "stockanalysis:813f7ef03d087a75",
+      "titleEn": "SanDisk stock looks cheap, but technicals point to lower Nvidia earnings",
+      "summaryEn": "Buy SanDisk (SNDK). The article says fundamentals are strong (revenue +23% QoQ, +378% YoY) and valuation is extreme (forward P/E ~3.8). The chart is bearish, but that’s exactly why the setup is attractive: you’re buying a cheap, growing memory name while the market is panicking ahead of Nvidia’s print. Thesis: SNDK’s “data center rollout” demand and deal structure keep earnings resilient even if AI sentiment wobbles. Key Risk: Nvidia’s earnings/guidance shock is so bad that memory demand expectations collapse and SNDK’s “stable” pricing floor breaks. Buy Micron (MU) vs. SanDisk (SNDK) only if MU holds up better into Nvidia’s earnings. Both are memory plays, but SNDK is priced for near-permanent pessimism (forward P/E ~3.8). If Nvidia’s report is merely mixed, the market will re-rate the cheapest survivor first; if it’s ugly, MU’s broader exposure could still outperform on relative positioning.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261116578579/en/FreeCast-Introduces-True-Voice-AI-One-Search-Across-the-World-of-Entertainment/",
+      "link": "https://invezz.com/news/2026/11/16/sandisk-stock-looks-cheap-but-technicals-point-to-lower-nvidia-earnings/",
       "published": null
     },
     {
-      "id": "stockanalysis:5c65f92cb07834fa",
-      "titleEn": "Rio Tinto, BCL and ABG to establish fund to support Panguna mine legacy impact response",
-      "summaryEn": null,
+      "id": "stockanalysis:d19f570146650b3b",
+      "titleEn": "Nebius stock continues to fall as analysts cut target price",
+      "summaryEn": "Buy NBIS. The stock is down on a timing delay (December revenue pushed to February) while analysts still see enough funding to build capacity (large cash/facility vs capex) and cite strong pricing economics. The market is over-penalizing “delay” versus “eventual revenue,” and the company is explicitly guiding to break-even by end-2027, implying the spend is not a stop-start story. Key Risk: Revenue delays stretch much longer than February, forcing a funding squeeze or pushing break-even beyond 2027. Buy suppliers with recurring revenue tied to capacity buildouts (e.g., Schneider Electric (SU.PA) / Eaton (ETN) for power/automation). Nebius is raising 2026 capex and still plans major 2027 expansion; even if Nebius’ revenue timing slips, the physical build cycle keeps demand for power, cooling, and electrical infrastructure moving.",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261115040962/en/Rio-Tinto-BCL-and-ABG-to-establish-fund-to-support-Panguna-mine-legacy-impact-response/",
+      "link": "https://invezz.com/news/2026/11/16/nebius-stock-continues-to-fall-as-analysts-cut-target-price/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ccdf835cb5281405",
+      "titleEn": "gold price struggles even as New York Fed's Empire State survey weakens",
+      "summaryEn": "(Kitco News) - The gold market continues to struggle below key support levels, and disappointing manufacturing activity, according to the latest report from the New York Federal Reserve, has been unable to generate any safe-haven demand for the precious metal. The regional central bank reported Tuesday that its Empire State Manufacturing Survey dropped to a reading of 7.8, down sharply from October’s reading of 25.5. The data came in weaker than expected, as economists had forecast a reading of 17.6, according to consensus estimates. “Manufacturing activity grew modestly in New York State in November after posting strong growth in October. Employment rose sharply, while the pace of price increases slowed but remained elevated,” said Richard Deitz, Economic Research Advisor at the New York Fed.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-16/gold-price-struggles-even-new-york-feds-empire-state-survey-weakens",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dd5a3e501fb1819b",
+      "titleEn": "Anthropic IPO nears: Why ANT could pop on day one, then dive",
+      "summaryEn": "Buy ANT on day one only if it opens with a big first-day pop but holds most of the gains into the close (momentum without full blow-off). The setup: massive hype + proven demand for frontier AI models, with revenue already scaling fast. The thesis is that early institutional allocation and “AI winner” positioning will keep bids strong longer than the typical IPO fade. Key Risk: The market decides the valuation is too rich and liquidity dries up, causing a fast post-IPO selloff that can’t be supported by fundamentals. Sell/avoid the “AI IPO hype” complex: short high-beta recent AI IPOs that already show the pattern of pop-then-plunge (use liquid proxies like SOXL/AI-related high-vol names if direct shorts are hard). The thesis: when AI demand cools, new listings get sold first, and the crowd rotates out of unproven winners.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/16/anthropic-ipo-nears-why-ant-could-pop-on-day-one-then-dive/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:630d1373c99f8fde",
+      "titleEn": "Top Nasdaq 100 stocks to watch: Nvidia, Take-Take Two Interactive, Walmart",
+      "summaryEn": "Buy NVDA. The stock is in a technical correction, but the catalyst is near: first earnings after Jensen Huang’s resignation, with expectations for revenue growth to accelerate (~90% jump) and EPS to rise sharply. NVDA’s history of beating/raising targets plus AI demand should overpower the headline noise and drive a post-earnings re-rating. Key Risk: Earnings miss or guidance disappoints, proving AI demand is slowing faster than expected. Sell TTWO into the GTA VI release window. Presales are already huge and the market has priced in strong results; any early metrics miss (player engagement, initial stats like NBA 2K27) or bug reports can trigger a sharp selloff even if the game is a commercial success.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/16/top-nasdaq-100-stocks-to-watch-nvidia-take-take-two-interactive-walmart/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d481b532f3768997",
+      "titleEn": "4 Canadian stocks that stand to benefit from US midterm elections",
+      "summaryEn": "If Washington turns less confrontational, the integrated US-Canada auto supply chain gets more predictable. That should lift automaker production confidence and reduce tariff-cost uncertainty, supporting Magna’s volumes and margins. The stock has the clearest “policy-risk premium” to compress versus peers tied to cross-border parts flows. Key Risk: A renewed tariff escalation or tighter US auto trade rules that keep cross-border costs and demand uncertainty high. ASTL is the most direct tariff beneficiary: US trade restrictions have hurt its market access and expansion. Any move toward negotiations or reduced scrutiny of existing tariffs should reopen a more favorable pricing and demand setup, driving a sharp sentiment and earnings re-rating.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/16/four-canadian-stocks-that-stand-to-benefit-from-us-midterm-elections/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:221a65cd839ccfd3",
+      "titleEn": "Trump plans to name Nvidia among AI 'National Champions': what is this program?",
+      "summaryEn": "Buy NVDA. The “AI national champions” label should accelerate overseas demand by bundling chips + models + software into easier-to-buy packages, and it can speed export-license approvals and federal financing. That directly supports NVDA’s core revenue engine even while leadership turmoil plays out. Key Risk: A real export-control crackdown (or forced limits on China shipments) that outweighs any champion-program demand boost. Buy Microsoft (MSFT). The program explicitly targets integrated AI offerings and includes Microsoft/OpenAI; that favors cloud + enterprise AI deployment where MSFT has distribution and compliance tooling. Second-order: faster government advocacy and financing for “complete systems” increases long-cycle enterprise cloud contracts, not just chip orders.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/16/trump-plans-to-name-nvidia-among-ai-national-champions-what-is-this-program/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ba818f41155feda8",
+      "titleEn": "Why are AMD and Broadcom stocks falling in premarket trading on Monday?",
+      "summaryEn": "Buy AMD. The selloff is being driven by Nvidia leadership turmoil, but AMD has clear, near-term fundamentals: accelerating server CPU and AI accelerator ramps (Venice + Helios MI400) and major customer deployments (Anthropic, Meta, Microsoft, OpenAI, Oracle). Analyst upgrades (William Blair, Oppenheimer) plus rising estimates and a falling valuation multiple create a strong “good news not yet priced” setup while the market rotates out of AI-adjacent semis. Key Risk: AMD’s AI accelerator and server CPU ramps slip (or customer deployments slow), so the earnings growth re-rating fails. Sell Broadcom. The core issue isn’t demand—it’s earnings durability. With heavy exposure to Anthropic/OpenAI and uncertainty around Google’s customer-owned AI tooling, the market may keep discounting Broadcom until customers prove sustained primacy and repeat orders. The downgrade to Neutral and the large cut in price target reflect that upside likely takes longer than investors want.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/16/why-are-amd-and-broadcom-stocks-falling-in-premarket-trading-on-monday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f9ac1bd0603642c8",
+      "titleEn": "Musk, Uber co-founder join call for Jensen Huang's return to Nvidia",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Tech tycoon Elon Musk and an Uber co-founder are, as of Sunday, among more than 158,000 signatories of an open letter calling for Jensen Huang's reinstatement as Nvidia chief. The letter demands that the company's board members \"bring Jensen back while an independent investigation establishes the facts.\"",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-11-musk-uber-founder-jensen-huang.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3c3747fcb8bbea45",
+      "titleEn": "Intel stock faces fraud lawsuit over $23 billion share sale after 29% crash",
+      "summaryEn": "Buy NASDAQ: INTC only if you can enter after any sharp sell-off on lawsuit headlines. The second catalyst is the forced re-pricing: the market is treating the $95 offering as a credibility failure, but the business also has real AI/data-center growth (+78% revenue). If Intel’s next updates show inventory normalization and packaging/material constraints easing, the stock can rebound fast from “no trust” to “execution.” Key Risk: Guidance keeps missing (especially revenue) and inventory/supply problems persist, so the credibility discount widens instead of narrowing. Sell NASDAQ: INTC. The stock already fell ~29% and the lawsuit targets the core credibility issue: management allegedly downplayed worsening PC demand and inventory/margin damage before the $23B August raise at $95. Until Intel proves demand stabilization and supply reliability, the market will keep discounting “turnaround” claims and punish any guidance misses.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/16/intel-stock-faces-fraud-lawsuit-over-23-billion-share-sale-after-29-crash/",
       "published": null
     }
   ]
