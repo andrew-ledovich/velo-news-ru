@@ -1,87 +1,60 @@
 {
-  "generatedAt": "2026-11-16T02:07:54.497594Z",
+  "generatedAt": "2026-11-16T09:33:12.522949Z",
   "sourceCount": 1,
-  "count": 9,
+  "count": 6,
   "items": [
     {
-      "id": "stockanalysis:26e68e5831f80680",
-      "titleEn": "Microsoft announces service 'restored,' global outage over",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Tech giant Microsoft said Saturday it has \"restored service\" to customers, effectively bringing an end to a massive outage that caused chaos and disrupted public services and business around the world. \"We have completed our efforts to address the underlying issue of the incident and restored service to the remaining impacted customers and regions,\" the U.S.-based company said in an X post.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-11-microsoft-global-outage.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:62680459d012149a",
-      "titleEn": "Meta fined $887 million in Italy over Android gallery photos and videos on Facebook",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Italy announced an €805 million ($887 million) fine against Meta on Saturday for using photos and videos from Android users' galleries on Facebook without specific consent or adequate disclosure. The Italian Data Protection Authority said the feature, called \"Get suggestions from gallery when browsing Facebook,\" violated a European privacy directive incorporated into Italian law. The directive protects smartphones as part of a person's private sphere and requires \"free and informed consent\" for such access, the authority said.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-11-meta-fined-million-italy-android.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f0578a55bd024c0f",
-      "titleEn": "Microsoft outage shows the risks of relying on a single technology provider for essential services",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: A global Microsoft outage this week disrupted email and other workplace tools, plunging business chatter and everyday services into disarray worldwide and highlighting the risks of depending on one of just a few major providers of essential technology. Microsoft 365 services, including Outlook, Teams and AI assistant Copilot, were interrupted. As the outage entered its second day Friday, Microsoft said it saw \"encouraging recovery progress.\" But the company also warned that \"intermittent access issues or delayed email delivery\" may persist for some users.",
+      "id": "stockanalysis:67ed8319eb679479",
+      "titleEn": "Nvidia stock faces a new Jensen Huang crisis as Elon Musk enters the fight",
+      "summaryEn": "Buy NVDA. The stock is being hit by leadership/governance noise, but the core AI demand and Nvidia’s product position haven’t changed. Tuesday’s key is whether data-center revenue and gross margin (guided ~74%) hold and whether guidance stays intact; a credible interim-to-permanent succession plan plus stable export-control messaging should trigger a fast re-rating. The Musk petition is also a near-term catalyst for “board credibility” headlines that can calm investors. Key Risk: A guidance miss or margin compression tied to customer delays or export-control restrictions that directly hit future chip sales. Buy ARM. The article flags Nvidia’s board exploring Arm CEO Rene Haas as a potential role, which signals governance/leadership reshuffling risk is being actively managed. If Nvidia stabilizes, Arm benefits indirectly via continued AI compute platform momentum and reduced “AI supply chain disruption” fears. Even without a direct deal, the market often rerates Arm when major AI chip ecosystems look less likely to stall.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://techxplore.com/news/2026-11-microsoft-outage-technology-essential.html",
+      "link": "https://invezz.com/news/2026/11/16/nvidia-stock-faces-a-new-jensen-huang-crisis-as-elon-musk-enters-the-fight/",
       "published": null
     },
     {
-      "id": "stockanalysis:7b604f30997269d7",
-      "titleEn": "MNTK Investors Have Opportunity to Join Montauk Renewables, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
+      "id": "stockanalysis:a85ab9f96d8c5305",
+      "titleEn": "Why are Samsung, SK Hynix stocks falling sharply ahead of Nvidia earnings?",
+      "summaryEn": "Buy Samsung Electronics. It’s broader than pure-memory (semiconductors + phones/other), so it’s less likely to be crushed by a single AI-memory demand wobble. If Nvidia’s results are merely “okay” rather than bad, Samsung’s diversified earnings base should hold up better than SK Hynix and the market may rotate back toward the more resilient name. Key Risk: A broad risk-off move hits Korean tech and Samsung’s semiconductor segment also guides to weaker margins or weaker memory pricing, making diversification irrelevant. Sell SK Hynix. The stock is the most exposed to premium AI memory demand, and the article flags “cliff in earnings” risk in 2028 plus possible data-center delays if Nvidia’s AI spending outlook disappoints. Even with record profits, the market is trading uncertainty around future margins, not current results.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/16/why-are-samsung-sk-hynix-stocks-falling-sharply-ahead-of-nvidia-earnings/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:05c3c388411d0225",
+      "titleEn": "CarMax and Carvana Face Off as Used-Car Buying Moves Online",
+      "summaryEn": "The king of America’s big-box automotive retail space is reportedly facing a challenge to its throne. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a report Sunday (Nov. 15) from The Wall Street Journal (WSJ) on the rivalry between CarMax and its digital challenger Carvana .",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261115688059/en/MNTK-Investors-Have-Opportunity-to-Join-Montauk-Renewables-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.pymnts.com/news/retail/2026/carmax-and-carvana-face-off-as-used-car-buying-moves-online/",
       "published": null
     },
     {
-      "id": "stockanalysis:b987d93812c0ff0e",
-      "titleEn": "Faraday Future Founder and Global CEO YT Jia Shares Weekly Updates on Robots Delivery to Central Michigan University, Brain Blocks AI Module, and Industrial Scenario Validation",
+      "id": "stockanalysis:f43ac9ebdd34fe5e",
+      "titleEn": "Amex Projects 14-Year High for Small Business Holiday Spend",
+      "summaryEn": "American Express is projecting that 88% of American consumers will patronize a small business during this year’s holiday season. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s the highest level since 2012, according to the company’s Shop Small Impact Study, released Thursday (Nov. 12).",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/2026/amex-projects-14-year-high-for-small-business-holiday-spend/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:21b39f26be85dd59",
+      "titleEn": "FreeCast Introduces True Voice AI: One Search Across the World of Entertainment",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261115525568/en/Faraday-Future-Founder-and-Global-CEO-YT-Jia-Shares-Weekly-Updates-on-Robots-Delivery-to-Central-Michigan-University-Brain-Blocks-AI-Module-and-Industrial-Scenario-Validation/",
+      "link": "https://www.businesswire.com/news/home/20261116578579/en/FreeCast-Introduces-True-Voice-AI-One-Search-Across-the-World-of-Entertainment/",
       "published": null
     },
     {
-      "id": "stockanalysis:4a684cf9262ebc3f",
-      "titleEn": "XRX Investors Have Opportunity to Join Xerox Holdings Corporation Fraud Investigation with SBS Law",
+      "id": "stockanalysis:5c65f92cb07834fa",
+      "titleEn": "Rio Tinto, BCL and ABG to establish fund to support Panguna mine legacy impact response",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261115665779/en/XRX-Investors-Have-Opportunity-to-Join-Xerox-Holdings-Corporation-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b8290abc65365746",
-      "titleEn": "SW Investors Have Opportunity to Join Smurfit Westrock Plc Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261115510547/en/SW-Investors-Have-Opportunity-to-Join-Smurfit-Westrock-Plc-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f35b401a0e6c391a",
-      "titleEn": "GILT Investors Have Opportunity to Join Gilat Satellite Networks Ltd. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261115749678/en/GILT-Investors-Have-Opportunity-to-Join-Gilat-Satellite-Networks-Ltd.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:41a900dde76ade3d",
-      "titleEn": "IHRT Investors Have Opportunity to Join iHeartMedia, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261115609966/en/IHRT-Investors-Have-Opportunity-to-Join-iHeartMedia-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20261115040962/en/Rio-Tinto-BCL-and-ABG-to-establish-fund-to-support-Panguna-mine-legacy-impact-response/",
       "published": null
     }
   ]
