@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-11-17T02:40:45.036939Z",
+  "generatedAt": "2026-11-17T11:07:16.883050Z",
   "sourceCount": 1,
-  "count": 10,
+  "count": 15,
   "items": [
+    {
+      "id": "stockanalysis:43410fd9ef979c5e",
+      "titleEn": "Why is Baidu stock crashing to a five-year low despite 94% AI cloud growth?",
+      "summaryEn": "Buy Baidu HK$9888. The market is pricing the 22% ad slump as if AI cloud is failing, but cloud revenue +94% and GPU cloud +191% show real demand. Cloud economics are improving (infra profit/margin up yoy and qoq) and longer contracts/prepayments add visibility. The stock is at a five-year low, giving a better entry before monetization catches up. Key Risk: Advertising keeps shrinking and AI-native ads keep falling (no rebound in core monetization), forcing more dilution/financing needs. Buy Alibaba HK$9988 as a relative winner. Baidu’s thesis is “AI cloud grows but ads lag.” Alibaba is better positioned to monetize AI across its ecosystem and has more diversified revenue streams, so it’s less dependent on a single ad recovery. If China ad budgets stay cautious, the market will rotate toward platforms with steadier cash flow and monetization power.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/17/why-is-baidu-stock-crashing-to-a-five-year-low-despite-94-ai-cloud-growth/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d05d62d97608ec28",
+      "titleEn": "Samsung and SK Hynix stocks sink as a 20% chip price shock hits home",
+      "summaryEn": "Buy Samsung Electronics (005660.KS). Samsung is more diversified across AI memory customers (Google/AMD and others) and has a clearer path to regain HBM competitiveness as Nvidia share of shipments shifts. The article notes DRAM price increases are still forecast and Samsung reported strong memory facility utilization through September. If the market is over-discounting a NAND spot move, Samsung’s mix shift toward higher-value AI memory should cushion the downside and let the stock rebound faster than SK Hynix. Key Risk: NAND contract prices fall faster than expected and the AI mix shift doesn’t offset the margin hit. Sell SK Hynix (005930.KS). The news shows a 20% NAND spot price shock and management can’t hide that it’s hitting conventional NAND first, with smartphone/PC demand rolling over. Even if AI DRAM/HBM holds, SK Hynix’s near-term earnings sensitivity is higher because it’s more tied to Nvidia-driven HBM order timing while NAND is already repricing. The stock is already down hard—this is the next leg: contract pricing weakness spreading earlier than expected.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/17/samsung-and-sk-hynix-stocks-sink-as-a-20-chip-price-shock-hits-home/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c008c3350506b633",
+      "titleEn": "Apple Taps 26-Year Insider Corey Fugman to Lead Apple Pay and Wallet",
+      "summaryEn": "Apple has tapped its senior director of Apple Pay and Wallet , Corey Fugman , to lead that payment service and digital wallet unit, Bloomberg reported Monday (Nov. 16), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Fugman succeeds Jennifer Bailey , who is retiring from Apple but will serve as a consultant in the coming months, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/payment-methods/mobile-payments/2026/apple-taps-26-year-insider-corey-fugman-to-lead-apple-pay-and-wallet/",
+      "published": null
+    },
     {
       "id": "stockanalysis:102594106b78b563",
       "titleEn": "PayPal Tracks $53 Billion in Treasury Cash With an AI Agent",
@@ -76,21 +103,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c4d1c8084f013f6a",
-      "titleEn": "Gold's bull market will benefit from tech selloff as capital rotates back into precious metals – Jesse Colombo",
-      "summaryEn": "(Kitco News) – Gold is being buffeted by the headwinds of higher yields and tech-led liquidations, but the yellow metal is still in a long-term bull market and the eventual bursting of the AI bubble will flood precious metals with fresh liquidity, according to Jesse Colombo, independent precious metals analyst and founder of the BubbleBubble Report. Colombo told Kitco News on Friday afternoon that he’s watching the current surge in Treasury yields as he waits for an entry to purchase gold. “I&#x27;m looking at the 10-year, it went from about 4.8% to 5.2% in just a few days – that&#x27;s a pretty sharp spike – and it undid a good portion of the decline in rates throughout October,” he said. “That is certainly weighing on gold… one of the major factors behind [the current gold price pullback] is real interest rates.”",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-11-16/golds-bull-market-will-benefit-tech-selloff-capital-rotates-back-precious",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:458e4061ee2e7304",
-      "titleEn": "Tanium Honors Top Global Partners for Growth and Innovation at Converge 2026",
+      "id": "stockanalysis:17e6ff41650675ee",
+      "titleEn": "PPC Investors Have Opportunity to Join Pilgrim's Pride Corporation Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261116890331/en/Tanium-Honors-Top-Global-Partners-for-Growth-and-Innovation-at-Converge-2026/",
+      "link": "https://www.businesswire.com/news/home/20261116430436/en/PPC-Investors-Have-Opportunity-to-Join-Pilgrims-Pride-Corporation-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4cbb7a375c0499ad",
+      "titleEn": "MUX Investors Have Opportunity to Join McEwen Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261116331522/en/MUX-Investors-Have-Opportunity-to-Join-McEwen-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:86a7dacf330965c5",
+      "titleEn": "ALHC Investors Have Opportunity to Join Alignment Healthcare, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261116686957/en/ALHC-Investors-Have-Opportunity-to-Join-Alignment-Healthcare-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:77d5ea5737f23039",
+      "titleEn": "BlueQubit Names Quantum Flywheel Awardees, Backed by IBM, AWS, and NVIDIA Accelerated Computing",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261116856120/en/BlueQubit-Names-Quantum-Flywheel-Awardees-Backed-by-IBM-AWS-and-NVIDIA-Accelerated-Computing/",
       "published": null
     }
   ]
