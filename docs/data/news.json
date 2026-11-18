@@ -1,69 +1,78 @@
 {
-  "generatedAt": "2026-11-18T09:29:49.787712Z",
+  "generatedAt": "2026-11-18T18:18:12.781504Z",
   "sourceCount": 1,
-  "count": 7,
+  "count": 8,
   "items": [
     {
-      "id": "stockanalysis:88e4f555f6ad7a6e",
-      "titleEn": "TPG Eyes Take-Private Deal for BILL Holdings Within Days",
-      "summaryEn": "Private equity group TPG is likely to reach a take-private deal for BILL Holdings within days, the Financial Times reported Tuesday (Nov. 17), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); BILL’s share price has fallen more than 80% from its peak of $34 billion in 2021. The company now has a market value of $4.8 billion, and the deal will value BILL at a premium, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/acquiring/2026/tpg-eyes-take-private-deal-bill-holdings-within-days/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0a48479330e8f868",
-      "titleEn": "Gold struggles near one-year lows, silver rebounds as stocks slide, Fed hike bets persist - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were little changed in late U.S. trading Tuesday, while silver rebounded from Monday&#x27;s sharp losses as weaker U.S. economic data, declining Treasury yields and renewed geopolitical tensions competed with expectations for additional Federal Reserve tightening. Gold struggled to sustain gains despite a weaker dollar and another broad equity market selloff, while silver attracted bargain hunting after its recent decline. Spot gold was trading near $3,853.10 an ounce, down $2.40, or 0.06%, while spot silver was trading near $47.330, up $0.472, or 1.01%, on the session. Gold traded between $3,836.00 and $3,891.60 during the day, while silver&#x27;s range extended from approximately $46.710 to $48.130. Tuesday&#x27;s U.S. economic reports provided further evidence of uneven growth as elevated borrowing costs and persistent inflation continued to pressure consumers and industrial activity. October retail sales increased 0.2%, matching expectations but slowing substantially from September&#x27;s 0.8% advance. Sales excluding automobiles rose 0.6%, above expectations for a 0.4% increase, suggesting underlying spending remained comparatively resilient. Industrial production declined 0.4% in October, substantially below expectations for a 0.1% increase, following September&#x27;s 0.7% gain. Manufacturing output increased 0.3%, while mining production fell 0.8% and utilities output declined 4.3%. Capacity utilization slipped to 76.4%. The mixed figures reinforced concerns about slowing economic momentum without providing sufficient evidence that inflation pressures have eased enough to alter the Fed&#x27;s tightening trajectory.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-17/gold-struggles-near-one-year-lows-silver-rebounds-stocks-slide-fed-hike",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ad64dccfd24d7247",
-      "titleEn": "Nvidia stock rises after hours as revenue forecast beats estimates",
-      "summaryEn": "Buy NVDA. The January-quarter revenue guide of ~$130B (vs ~$125.3B expected) plus ~71.5% gross margin confirms AI chip demand is holding up even with CEO turnover. Record buybacks ($28.1B in the quarter; $62B YTD) add downside support and signal confidence in cash generation. Key Risk: A sharp AI-spend slowdown that forces Nvidia to cut guidance again, wiping out the margin and growth confidence. Sell AMD. If Nvidia’s forecast beat is sustained, it reinforces Nvidia’s share and pricing power in AI accelerators and systems, making AMD’s AI ramp harder to monetize. The market will likely reward the clear leader while punishing laggards when guidance is the key catalyst.",
+      "id": "stockanalysis:2f5c15ecd0ffee07",
+      "titleEn": "Nvidia earnings lift CoreWeave, Nebius, Iren stocks, but Kress adds word of caution",
+      "summaryEn": "Buy CRWV. Nvidia’s upbeat guidance and “selective support” language directly de-risks the biggest fear for neoclouds: they can’t finance power/land/data-center capacity fast enough. CoreWeave is also Nvidia-backed, so it’s more likely to be among the “select customers” Nvidia helps. The stock is still down ~18% over the month, so the move has room to re-rate if guidance holds. Key Risk: Nvidia stops supporting CoreWeave’s financing needs and CoreWeave’s debt/cash burn forces dilution or restructuring. Buy NBIS. The sector is getting a demand tailwind from Nvidia’s forecast, and Nebius is another Nvidia-backed name that benefits if investors rotate back into “AI infrastructure winners.” Nebius has underperformed hardest (~-37% over the month), so it’s positioned for the biggest rebound if the market decides the AI buildout is still accelerating.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/17/nvidia-stock-rises-after-hours-as-revenue-forecast-beats-estimates/",
+      "link": "https://invezz.com/news/2026/11/18/nvidia-earnings-lift-coreweave-nebius-iren-stocks-but-kress-adds-word-of-caution/",
       "published": null
     },
     {
-      "id": "stockanalysis:92af617fa1324e00",
-      "titleEn": "Mitsui Chemicals Establishes Local Subsidiary in South Africa",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261117130007/en/Mitsui-Chemicals-Establishes-Local-Subsidiary-in-South-Africa/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:62b7f12b2a187913",
-      "titleEn": "HAFNIA LIMITED: Key Information Relating to Dividend for the Third Quarter 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261117486882/en/HAFNIA-LIMITED-Key-Information-Relating-to-Dividend-for-the-Third-Quarter-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:629d44ec7ee509cc",
-      "titleEn": "Wolters Kluwer's Future Ready Accountant report: Redesigning work around AI is the next competitive advantage",
-      "summaryEn": null,
+      "id": "stockanalysis:d84f45eb1d9ea3e0",
+      "titleEn": "Why AMD stock is rallying in premarket trading on Wednesday?",
+      "summaryEn": "Buy AMD. Nvidia’s beat plus upside guidance confirms AI infrastructure demand is still accelerating, which lifts the whole AI chip complex. AMD also has concrete execution catalysts: World Labs (spatial/3D intelligence), Taalas (inference silicon), and a multi-year TensorWave deal to supply OpenAI with dedicated capacity using AMD Instinct MI455X in Helios racks (ramp into 2027). Analyst upgrades (William Blair, Oppenheimer to $600) add near-term sentiment support. Key Risk: AMD fails to convert AI demand into sustained profits (accelerator/server share gains don’t show up in margins or guidance). Buy iShares Semiconductor ETF (SOXX). The news is a sector-wide demand signal: Nvidia’s guidance reduces fear that the AI capex cycle is breaking. That typically pulls forward buying across semis (memory, networking, CPUs/accelerators) even if individual company execution varies. SOXX lets you benefit from the AI infrastructure rebound without betting on one stock’s timing.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261117061917/en/Wolters-Kluwer%E2%80%99s-Future-Ready-Accountant-report-Redesigning-work-around-AI-is-the-next-competitive-advantage/",
+      "link": "https://invezz.com/news/2026/11/18/why-amd-stock-is-rallying-in-premarket-trading-on-wednesday/",
       "published": null
     },
     {
-      "id": "stockanalysis:8d3518f889e5b918",
-      "titleEn": "Visa Expands Agentic Ready to Help Scale Trusted AI Commerce Globally",
-      "summaryEn": null,
+      "id": "stockanalysis:09a9115bcfd989eb",
+      "titleEn": "Dell stock rises as Nvidia rally lifts chipmakers, Citi backs shares",
+      "summaryEn": "Buy DELL. Nvidia’s upside and guidance are confirming AI infrastructure demand, and Dell has a record ~$95B AI server backlog plus raised full-year revenue guidance. Citi’s “preferred” call reinforces that enterprise refresh cycles are strengthening, which should keep AI server orders flowing into Dell’s fiscal Q3 (Nov 24). Near-term catalyst: earnings + options market pricing only ~10% move, while Dell has beaten implied moves recently. Key Risk: AI server demand cools or backlog fails to convert into revenue fast enough, while traditional servers/PCs keep deteriorating. Buy SMCI. If Nvidia’s AI demand is broad-based, the highest beta AI server builders typically see the fastest order momentum. Dell strength signals the channel is working; SMCI should benefit disproportionately from any acceleration in AI server shipments and margin mix shift toward AI systems.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261117269823/en/Visa-Expands-Agentic-Ready-to-Help-Scale-Trusted-AI-Commerce-Globally/",
+      "link": "https://invezz.com/news/2026/11/18/dell-stock-rises-as-nvidia-rally-lifts-chipmakers-citi-backs-shares/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5d1a7c87fbf61059",
+      "titleEn": "Target earnings: retailer's comeback is showing up at checkout",
+      "summaryEn": "Buy TGT. The turnaround is showing up in behavior: comparable sales +5.6% with transactions +5% (not just bigger baskets). Fun 101 (+27%), beauty (+9%+), and food (+7%) are pulling repeat trips, while non-merchandise revenue (+19.3%) adds profit resilience. The company also raised full-year guidance (sales to ~6%, EPS to $10.65–$11.40), and the stock is still only ~18x earnings on a tariff-refund-adjusted basis. Key risk: holiday demand fades after price cuts end, forcing new markdowns that wipe out the margin and transaction gains. Key Risk: Holiday shoppers stop returning after deals, triggering renewed heavy markdowns and margin compression. Buy TGT’s ecosystem exposure via TGT itself: the second lever is monetization beyond product—advertising, paid memberships, and Target Plus marketplace drove non-merchandise sales +19.3%. If transactions keep rising, these higher-margin add-ons compound faster than merchandise. This is the “stickiness” angle: more visits → more ad impressions and marketplace take-rate. Key risk: non-merchandise growth slows (membership churn, weaker ad demand, marketplace take-rate pressure), making the turnaround look like temporary discounting.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/18/target-earnings-retailers-comeback-is-showing-up-at-checkout/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:00e8f30fc674f86e",
+      "titleEn": "Lenovo stock has fallen ahead of earnings: will AI growth offset plunging PC sales?",
+      "summaryEn": "Buy Lenovo Group ahead of earnings. The sell-off is being driven by PC weakness, but the article flags ISG strength from AI infrastructure demand (AI spend rising; ISG grew 98% last report). If earnings show ISG holding up while PC margins stabilize, the market’s “AI can’t offset PCs” narrative breaks and the stock can mean-revert from deeply oversold technical levels. Key Risk: ISG guidance disappoints (AI infrastructure demand slows or Lenovo can’t win orders), so the AI offset fails and the stock keeps sliding. Sell Dell Technologies as a relative-value hedge against Lenovo’s AI-infrastructure upside. The article notes Lenovo’s ISG is the growth engine while PC demand is shrinking across the industry; if AI infrastructure spending keeps rising, Lenovo’s mix should outperform PC-heavy peers. Dell’s valuation and earnings sensitivity to PC/server pricing makes it more vulnerable to any “AI bubble” skepticism.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/18/lenovo-stock-has-fallen-ahead-of-earnings-will-ai-growth-offset-plunging-pc-sales/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:bde7720e2b5fe5d5",
+      "titleEn": "Anthropic set to price IPO in key test for AI boom",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Anthropic prices its blockbuster IPO on Wednesday, giving ordinary investors their first chance to bet directly on a stand-alone AI giant in a test of how long the artificial intelligence spending boom can last. AI stocks have swung sharply as investors question whether heavy spending on the technology will pay off.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-11-anthropic-price-ipo-key-ai.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d736ca4c0d022581",
+      "titleEn": "Apple joins a parade of technology hiccups in recent days",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: An update gone awry Tuesday at Apple followed a rash of major outages in recent days, including problems affecting the Federal Aviation Administration, United Airlines and Microsoft. Apple acknowledged on its system status page that its Apple Music, App Store and AppleCare services suffered full outages and that its iCloud sign-in interface was also having issues. The technology monitoring site Downdetector.com also showed a spike in user complaints about Apple Pay.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://techxplore.com/news/2026-11-apple-parade-technology-hiccups-days.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:91c037ed2f006e35",
+      "titleEn": "Why Samsung, SK Hynix shares rebounded on Wednesday?",
+      "summaryEn": "Buy SK Hynix. Nvidia’s upside revenue and guidance re-ignited AI infrastructure confidence, and SK Hynix is Nvidia’s key HBM supplier. The stock already sold off for four straight sessions—this rebound is the market re-pricing near-term AI memory demand and contract visibility. Expect follow-through as AI chip buyers keep building out data-center capacity and HBM demand stays tight. Key Risk: AI data-center spending gets delayed again, cutting HBM orders and forcing SK Hynix to guide down. Buy Samsung Electronics. It’s the other core AI memory beneficiary (HBM) and it’s lagged with three straight down sessions—so the rebound is a technical + fundamental reset. Nvidia’s results support the “AI capex still works” narrative, which should lift both memory pricing expectations and sentiment toward Samsung’s AI-related memory mix.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/18/why-samsung-sk-hynix-shares-rebounded-on-wednesday/",
       "published": null
     }
   ]
