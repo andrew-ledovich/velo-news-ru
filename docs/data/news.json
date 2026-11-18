@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-18T01:56:07.866630Z",
+  "generatedAt": "2026-11-18T09:29:49.787712Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 7,
   "items": [
     {
       "id": "stockanalysis:88e4f555f6ad7a6e",
@@ -24,118 +24,46 @@
     {
       "id": "stockanalysis:ad64dccfd24d7247",
       "titleEn": "Nvidia stock rises after hours as revenue forecast beats estimates",
-      "summaryEn": null,
+      "summaryEn": "Buy NVDA. The January-quarter revenue guide of ~$130B (vs ~$125.3B expected) plus ~71.5% gross margin confirms AI chip demand is holding up even with CEO turnover. Record buybacks ($28.1B in the quarter; $62B YTD) add downside support and signal confidence in cash generation. Key Risk: A sharp AI-spend slowdown that forces Nvidia to cut guidance again, wiping out the margin and growth confidence. Sell AMD. If Nvidia’s forecast beat is sustained, it reinforces Nvidia’s share and pricing power in AI accelerators and systems, making AMD’s AI ramp harder to monetize. The market will likely reward the clear leader while punishing laggards when guidance is the key catalyst.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "AI",
       "link": "https://invezz.com/news/2026/11/17/nvidia-stock-rises-after-hours-as-revenue-forecast-beats-estimates/",
       "published": null
     },
     {
-      "id": "stockanalysis:da4769602e47ebfc",
-      "titleEn": "Google Acquires AI Assistant Howie to Automate Small Business Operations",
-      "summaryEn": "Google has acquired Howie , the builder of an artificial intelligence tool designed to help small businesses with scheduling and calendar management, the companies said in Monday (Nov. 16) posts on X. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Howie said in its post that the company is joining Google Labs and that its team will continue their journey there.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/acquiring/2026/google-acquires-ai-assistant-howie-to-automate-small-business-operations/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d5625de7475d1246",
-      "titleEn": "Why this analyst sees a 30% upside for Meta stock?",
+      "id": "stockanalysis:92af617fa1324e00",
+      "titleEn": "Mitsui Chemicals Establishes Local Subsidiary in South Africa",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/17/why-this-analyst-sees-a-30-upside-for-meta-stock/",
+      "link": "https://www.businesswire.com/news/home/20261117130007/en/Mitsui-Chemicals-Establishes-Local-Subsidiary-in-South-Africa/",
       "published": null
     },
     {
-      "id": "stockanalysis:f694f1ea7efcc848",
-      "titleEn": "KeyBank and Zact Team to Launch Spend Management Platform",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); This collaboration has yielded KeyExpenseIQ, a commercial spend management platform that combines commercial card management and expense management for KeyBank’s commercial clients, the companies said in a Tuesday (Nov. 17) news release . “Clients want the modern experiences they’ve come to expect from FinTechs, along with the breadth and trusted relationship they expect from their bank,” John Withrow , head of KeyBank commercial card and AP automation, said in a news release. “KeyExpenseIQ brings those strengths together, giving clients a simpler way to manage spending while connecting those capabilities to a broader set of financial solutions.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/b2b-payments/2026/keybank-and-zact-team-to-launch-spend-management-platform/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4113e77e75b4eac1",
-      "titleEn": "Anthropic Eyes Higher IPO Price as Investors Scramble for Shares",
-      "summaryEn": "Anthropic plans to price the shares in its initial public offering at or above the top of the price range after drawing orders for close to seven times the number of shares available, Bloomberg reported Tuesday (Nov. 17), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Anthropic is marketing the shares for $70 to $78 each. At $78, the IPO would raise $90.4 billion and the company would have a fully diluted valuation of $1.4 trillion, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-eyes-higher-ipo-price-as-investors-scramble-for-shares/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9c1e0b8f65d6a8c7",
-      "titleEn": "Netflix stock analysis: what next for this fallen angel?",
+      "id": "stockanalysis:62b7f12b2a187913",
+      "titleEn": "HAFNIA LIMITED: Key Information Relating to Dividend for the Third Quarter 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/17/netflix-stock-analysis-what-next-for-this-fallen-angel/",
+      "link": "https://www.businesswire.com/news/home/20261117486882/en/HAFNIA-LIMITED-Key-Information-Relating-to-Dividend-for-the-Third-Quarter-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:3e4a78780a7e39e0",
-      "titleEn": "India's gold demand boosted by lower prices in October, with jewelry, ETFs, and imports strong – WGC's Chacko",
-      "summaryEn": "(Kitco News) – Fed rate hike expectations, a stronger dollar and investor liquidations drove gold prices lower last month, but demand was healthy during the key festive period, while Indian gold ETFs recorded a fifth straight month of net inflows in October and imports rebounded from September’s lows, according to Kavita Chacko, Research Head for India at the World Gold Council (WGC). In the latest WGC India update published Tuesday, Chacko wrote that gold prices were under considerable over the last four weeks. “Following a relatively stable first half of October, gold prices fell sharply, ending the month 6.3% lower at US$3,913/oz, marking a second consecutive monthly decline,” she noted. “The decline was driven by expectations of further Fed rate hikes, a stronger US dollar, and an investor shift towards bonds. Selling in gold futures also added to the pressure.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-17/indias-gold-demand-boosted-lower-prices-october-jewelry-etfs-and-imports",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:adb2836fb5313045",
-      "titleEn": "APi Group Announces Pricing of €500 Million Senior Notes Offering",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261117832036/en/APi-Group-Announces-Pricing-of-%E2%82%AC500-Million-Senior-Notes-Offering/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c64ae60b6f97df70",
-      "titleEn": "Shionogi Completes Acquisition of IntraBio Inc. and Adds AQNEURSA® (levacetylleucine) to Growing Rare Disease Global Portfolio",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261117876530/en/Shionogi-Completes-Acquisition-of-IntraBio-Inc.-and-Adds-AQNEURSA%C2%AE-levacetylleucine-to-Growing-Rare-Disease-Global-Portfolio/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8ccfc212c41f1c86",
-      "titleEn": "Venture Global and China Gas Announce Increased Long-Term LNG Agreement",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261117124885/en/Venture-Global-and-China-Gas-Announce-Increased-Long-Term-LNG-Agreement/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:affb68d39999d51d",
-      "titleEn": "Score Labs Emerges From Stealth on the Intel Stage at Microsoft Ignite 2026, Showing Enterprise AI at a Fraction of the Cost on Intel Xeon",
+      "id": "stockanalysis:629d44ec7ee509cc",
+      "titleEn": "Wolters Kluwer's Future Ready Accountant report: Redesigning work around AI is the next competitive advantage",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261117452751/en/Score-Labs-Emerges-From-Stealth-on-the-Intel-Stage-at-Microsoft-Ignite-2026-Showing-Enterprise-AI-at-a-Fraction-of-the-Cost-on-Intel-Xeon/",
+      "link": "https://www.businesswire.com/news/home/20261117061917/en/Wolters-Kluwer%E2%80%99s-Future-Ready-Accountant-report-Redesigning-work-around-AI-is-the-next-competitive-advantage/",
       "published": null
     },
     {
-      "id": "stockanalysis:a6e135d0ac6430a9",
-      "titleEn": "Better 2.0 Publishes Weekly Scorecard, Week 6: Wholesale HELOC Product Locks Scaling Over 100% MoM; Savings Reach $38.2 Million",
+      "id": "stockanalysis:8d3518f889e5b918",
+      "titleEn": "Visa Expands Agentic Ready to Help Scale Trusted AI Commerce Globally",
       "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261117506933/en/Better-2.0-Publishes-Weekly-Scorecard-Week-6-Wholesale-HELOC-Product-Locks-Scaling-Over-100-MoM-Savings-Reach-38.2-Million/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3e1d1acf96f635d1",
-      "titleEn": "Accendra Health Receives Delisting Notice From the New York Stock Exchange",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261117587751/en/Accendra-Health-Receives-Delisting-Notice-From-the-New-York-Stock-Exchange/",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261117269823/en/Visa-Expands-Agentic-Ready-to-Help-Scale-Trusted-AI-Commerce-Globally/",
       "published": null
     }
   ]
