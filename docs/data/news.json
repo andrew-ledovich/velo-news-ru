@@ -1,141 +1,141 @@
 {
-  "generatedAt": "2026-11-17T19:47:48.057758Z",
+  "generatedAt": "2026-11-18T01:56:07.866630Z",
   "sourceCount": 1,
   "count": 15,
   "items": [
     {
-      "id": "stockanalysis:d39f4e5c7e16fc4b",
-      "titleEn": "Salesforce stock slides as technology outages rattle software sector",
-      "summaryEn": "Buy ServiceNow (NOW). If the market is repricing “enterprise software reliability,” the winners are the platforms with stronger operational track records and mission-critical stickiness. NOW sold off less than CRM and is positioned as the workflow/IT-ops backbone—exactly what companies lean on after disruptions. Second-order setup: as outages spread, IT teams accelerate automation and incident-management spending, which supports NOW demand even while other SaaS names de-rate. Key Risk: A new, widely reported ServiceNow service disruption that breaks the “reliability premium” and triggers further de-rating. Sell Salesforce (CRM). The stock is down hard on reliability/security fears, and the market is now treating “software outages” as a sector-wide risk premium, not a one-off. CRM is the highest-profile cloud name in the group, so it should keep bleeding until investors see clear evidence of operational resilience and security controls. Key catalyst: continued multiple compression as peers fall and CRM’s outage narrative stays in headlines.",
+      "id": "stockanalysis:88e4f555f6ad7a6e",
+      "titleEn": "TPG Eyes Take-Private Deal for BILL Holdings Within Days",
+      "summaryEn": "Private equity group TPG is likely to reach a take-private deal for BILL Holdings within days, the Financial Times reported Tuesday (Nov. 17), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); BILL’s share price has fallen more than 80% from its peak of $34 billion in 2021. The company now has a market value of $4.8 billion, and the deal will value BILL at a premium, according to the report.",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/17/salesforce-stock-slides-as-technology-outages-rattle-software-sector/",
+      "link": "https://www.pymnts.com/news/acquiring/2026/tpg-eyes-take-private-deal-bill-holdings-within-days/",
       "published": null
     },
     {
-      "id": "stockanalysis:ff7b1177e2812b98",
-      "titleEn": "Nebius stock is falling: Here's why NBIS may plunge to $50 soon",
-      "summaryEn": "Sell short Nebius Group (NBIS). The article flags a technical breakdown (below $145 support, under 50/100-day EMAs, ADX ~36) plus fundamental pressure: guidance cut, hyperscaler/customer churn risk (Meta storage leasing, Microsoft reassessing), and saturated market. With AI “jitters” and potential impairments ahead, downside can extend toward the $50 level cited. Key Risk: Nebius lands a major hyperscaler deal or materially upgrades guidance, reversing the sell-off and forcing a sharp short squeeze. Short the neocloud/AI-infra peer basket via an ETF like SOXX (semis proxy for AI capex) paired with a high-beta AI infrastructure name (e.g., CoreWeave-linked exposure via public proxies) to express “AI bubble + capex pause” risk. The news points to clients prioritizing newer chips (Nvidia/Google), project delays, and Gartner-style impairments—second-order pressure hits the whole crowded buildout, not just NBIS.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/17/nebius-stock-is-falling-heres-why-nbis-may-plunge-to-50-soon/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6811c215b0c5ab10",
-      "titleEn": "Micron stock falls 2%, why this analyst cut target price",
-      "summaryEn": "Buy Micron. The article flags NAND oversupply risk, but GF Securities explicitly expects Micron’s impact to be more limited because MU has more DRAM/HBM exposure than pure-play NAND peers. If NAND prices flatten then soften, the market will over-discount MU; MU should still benefit if DRAM/HBM demand stays firmer (especially HBM tied to AI). Key Risk: DRAM/HBM demand breaks too—prices and margins fall at the same time as NAND, making MU’s “limited impact” assumption wrong. Sell SanDisk (Western Digital’s NAND business exposure). GF Securities calls it the most exposed pure-play NAND name and expects higher earnings volatility if NAND prices weaken. With consumer PC/phone NAND consumption slowing and supply expanding (including more QLC), the earnings hit should be sharper than for MU/SK Hynix.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/17/micron-stock-falls-2-why-this-analyst-cut-target-price/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:80c11e13ba2a4ebf",
-      "titleEn": "Jensen Huang keeps door open to return as Nvidia CEO in first statement since exit",
-      "summaryEn": "Buy Nvidia (NVDA). Huang’s door-open language (“if the Board decides… in the best interest… I would return”) creates real upside optionality: markets are pricing leadership risk and governance uncertainty. If the board keeps the door cracked, sentiment can snap back ahead of/around earnings, even if reinstatement isn’t immediate. Interim CEO Colette Kress reduces operational disruption, so the main swing factor is the board’s willingness to reverse course. Key Risk: Board decides not to reinstate him and governance/China-chip access concerns keep escalating, forcing a sustained multiple compression. Sell Nvidia exposure via the most levered semiconductor supply chain: short/underweight ASML (ASML) and Applied Materials (AMAT). If NVDA’s earnings and guidance get hit by distraction, investigations, or export/geopolitical friction, capex and tool orders tied to leading-edge AI production get delayed. The CEO headline is a catalyst for near-term risk-off in AI capex expectations, which these equipment names amplify.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/17/jensen-huang-keeps-door-open-to-return-as-nvidia-ceo-in-first-statement-since-exit/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:37f75d0556b33a9b",
-      "titleEn": "Gold will reclaim $5,600/oz in 2028 as rate cuts bring Western investors back to precious metals – Goldman Sachs",
-      "summaryEn": "(Kitco News) – Gold will reclaim its all-time high above $5,600 per ounce by the end of 2028 after the Federal Reserve begins cutting interest rates and Western investors return to the precious metals market, according to analysts at Goldman Sachs. In a new research note published Tuesday, analysts led by Lina Thomas said that as far as precious metals are concerned, “2027 increasingly looks like 2022.” They explained that Fed rate hikes will weigh on private investor demand for gold, even as structural central bank demand supports a firm floor beneath prices. Goldman Sachs expects to see downside risks and elevated volatility in the near term as the Fed continues to hike rates, with the investment bank’s own economists forecasting a second 25-basis-point hike in December, followed by a third in March of next year.",
+      "id": "stockanalysis:0a48479330e8f868",
+      "titleEn": "Gold struggles near one-year lows, silver rebounds as stocks slide, Fed hike bets persist - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices were little changed in late U.S. trading Tuesday, while silver rebounded from Monday&#x27;s sharp losses as weaker U.S. economic data, declining Treasury yields and renewed geopolitical tensions competed with expectations for additional Federal Reserve tightening. Gold struggled to sustain gains despite a weaker dollar and another broad equity market selloff, while silver attracted bargain hunting after its recent decline. Spot gold was trading near $3,853.10 an ounce, down $2.40, or 0.06%, while spot silver was trading near $47.330, up $0.472, or 1.01%, on the session. Gold traded between $3,836.00 and $3,891.60 during the day, while silver&#x27;s range extended from approximately $46.710 to $48.130. Tuesday&#x27;s U.S. economic reports provided further evidence of uneven growth as elevated borrowing costs and persistent inflation continued to pressure consumers and industrial activity. October retail sales increased 0.2%, matching expectations but slowing substantially from September&#x27;s 0.8% advance. Sales excluding automobiles rose 0.6%, above expectations for a 0.4% increase, suggesting underlying spending remained comparatively resilient. Industrial production declined 0.4% in October, substantially below expectations for a 0.1% increase, following September&#x27;s 0.7% gain. Manufacturing output increased 0.3%, while mining production fell 0.8% and utilities output declined 4.3%. Capacity utilization slipped to 76.4%. The mixed figures reinforced concerns about slowing economic momentum without providing sufficient evidence that inflation pressures have eased enough to alter the Fed&#x27;s tightening trajectory.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back",
+      "link": "https://www.kitco.com/news/article/2026-11-17/gold-struggles-near-one-year-lows-silver-rebounds-stocks-slide-fed-hike",
       "published": null
     },
     {
-      "id": "stockanalysis:4a7ab2ea84a381ed",
-      "titleEn": "Nike outlines $5B growth plan as turnaround faces challenges in China and sportswear",
-      "summaryEn": "Buy NKE. The plan is specific: +$5B annual revenue by FY2031, $2.5B cost cuts, and a clear margin path to 12–14%. Even with a tough FY2027 (high-single-digit revenue decline; ~6% adjusted operating margin), the market has already punished the stock (~37% YTD). If execution hits, the rerating comes from operating leverage plus shareholder returns (~$12B dividends over five years). Key Risk: China and lifestyle demand keep deteriorating faster than Nike can cut costs and re-accelerate product momentum. Sell broad exposure to Nike-linked apparel/footwear suppliers (e.g., buy puts or short baskets of contract manufacturers and component makers tied to Nike volumes). Nike’s near-term revenue decline and margin pressure (FY2027 operating margin ~6%) typically squeeze supplier orders and pricing first, before any turnaround benefits show up.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/11/17/nike-outlines-5b-growth-plan-as-turnaround-faces-challenges-in-china-and-sportswear/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:10cedf9da3d3d8e4",
-      "titleEn": "Why SpaceX stock is rising on Tuesday?",
-      "summaryEn": "Buy. The stock is rising on two concrete catalysts: (1) a reported ~$40B Nvidia-linked AI financing structure that can rapidly expand compute capacity without loading debt onto SpaceX’s balance sheet, and (2) Nvidia increasing its stake to 130.5M shares—real money signaling confidence. Add the operational proof from Starship Flight 15: first-ever recovery of an orbital-class upper stage via the tower’s arms, which directly supports higher cadence and better unit economics. This combo is “funding + partner validation + execution,” which tends to re-rate winners fast. Key Risk: The AI/compute buildout timeline slips or the financing structure fails to deliver usable capacity on schedule, forcing SpaceX to fund growth slower and more expensively. Buy NVDA. The news is about Nvidia’s next-gen AI chips being routed through an asset-backed structure tied to SpaceX expansion. That implies stronger demand visibility and potentially faster ramp for Nvidia’s GPU shipments into the AI compute buildout. Even if the market focuses on SpaceX, NVDA is the chip supplier and the stake increase reinforces that Nvidia expects the partnership to scale.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/17/why-spacex-stock-is-rising-on-tuesday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cebc38160ffa16da",
-      "titleEn": "AMD shares open higher on Tuesday: here's why",
-      "summaryEn": "Buy AMD. The World Labs + Taalas deals deepen both AI research (spatial/3D models) and inference silicon, and the OpenAI 457MW deal is a concrete demand signal for Instinct MI455X/Helios. With Intel delays and Arm not delivering the expected shift, AMD’s server CPU + accelerator share gains can compound while the stock’s valuation has already reset lower. Key Risk: OpenAI/major cloud customers delay or cancel the planned inference capacity ramp, leaving AMD’s accelerator/inference roadmap without the expected demand pull. Sell/underweight NVDA. The article flags Nvidia under pressure into its earnings, while AMD’s narrative is strengthening on inference efficiency and named hyperscaler capacity. If AI spend stays heavy but shifts toward more cost-efficient inference platforms, AMD can take incremental share and compress Nvidia’s near-term upside.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/17/amd-shares-open-higher-on-tuesday-heres-why/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4e8aa6bb2530227e",
-      "titleEn": "Why is Intel stock falling on Tuesday?",
-      "summaryEn": "Buy AMD (AMD). If Intel’s PC recovery stays delayed and its foundry story lacks traction, share shifts to competitors in both client CPUs and data center. AMD is the cleaner beneficiary of “Intel under-delivers” without needing Intel to fail completely—just for Intel to keep missing expectations. Key Risk: AMD’s own data-center/AI demand slows or margins compress enough that it can’t absorb share gains from Intel. Sell Intel (INTC). The news stacks: Nvidia cut its stake by 25%, Intel’s guidance misses (revenue and EPS), and the lawsuit claim adds headline risk around transparency. The market is already pricing a delayed turnaround; this filing confirms a lack of conviction from a major tech investor while PC demand stays weak and cash burn is rising.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/17/why-is-intel-stock-falling-on-tuesday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:de9dbf8cc13dc667",
-      "titleEn": "Nasdaq slips as Wall Street awaits Nvidia earnings and Anthropic IPO",
-      "summaryEn": "Buy NVDA. The selloff is being driven by leadership drama, but the market is still anchored to NVDA’s core AI demand and platform lock-in. Even with margin/cash-flow questions, the stock is down ~24% this month—large enough that “bad news” is already priced. If earnings show stable guidance and continued strength in data-center revenue, the stock can snap back quickly. Key Risk: Earnings/guidance confirm a real slowdown in AI chip demand or a durable margin hit from cash outflows. Buy COHR and LITE. The article flags a rebound in photonics/data-center component names, and the policy angle (blocking Chinese data-center equipment) tends to shift spend toward domestic/ally supply chains. If NVDA/AI capex holds up, photonics is a direct beneficiary of higher bandwidth needs.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/17/nasdaq-slips-as-wall-street-awaits-nvidia-earnings-and-anthropic-ipo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6d2a9edd5ef4a314",
-      "titleEn": "Alibaba stock flashes the risky death cross pattern as earnings loom",
-      "summaryEn": "Buy PDD (PDD). If Alibaba’s AI/cloud spend is crowding out near-term profitability, China’s e-commerce spend will keep shifting toward the most efficient operators. PDD has been gaining share versus weaker competitors, and it should face less “capex-to-future-earnings” discounting than BABA. In a market that’s punishing investment-heavy stories, PDD’s relative earnings durability is the edge. Key Risk: Regulators or competition force PDD to raise spending materially (or margins compress sharply), removing the efficiency advantage. Sell short Alibaba (BABA). The weekly death cross is flashing right before earnings, and the stock is below key support ($91.8) with downside targets around $80. Capex is surging (+75% YoY) while net profit is collapsing (-75% YoY), so the market has a clear “costs first, profits later” setup that can keep pressure on the multiple even if revenue holds up. The AI cloud growth (+45%) is not enough to offset margin risk given intense model competition (DeepSeek/Kimi/etc.).",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/17/alibaba-stock-flashes-the-risky-death-cross-pattern-as-earnings-loom/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e52ed256fb3b6275",
-      "titleEn": "Noah Wyle and FIGS Partner Together to Relieve At Least $200 Million of Medical Debt Nationwide",
+      "id": "stockanalysis:ad64dccfd24d7247",
+      "titleEn": "Nvidia stock rises after hours as revenue forecast beats estimates",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261116338765/en/Noah-Wyle-and-FIGS-Partner-Together-to-Relieve-At-Least-200-Million-of-Medical-Debt-Nationwide/",
+      "link": "https://invezz.com/news/2026/11/17/nvidia-stock-rises-after-hours-as-revenue-forecast-beats-estimates/",
       "published": null
     },
     {
-      "id": "stockanalysis:f1f09795caf69788",
-      "titleEn": "Cree LED Takes Legal Action to Enforce Patent Rights Across LED Display Value Chain",
-      "summaryEn": null,
+      "id": "stockanalysis:da4769602e47ebfc",
+      "titleEn": "Google Acquires AI Assistant Howie to Automate Small Business Operations",
+      "summaryEn": "Google has acquired Howie , the builder of an artificial intelligence tool designed to help small businesses with scheduling and calendar management, the companies said in Monday (Nov. 16) posts on X. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Howie said in its post that the company is joining Google Labs and that its team will continue their journey there.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261117902869/en/Cree-LED-Takes-Legal-Action-to-Enforce-Patent-Rights-Across-LED-Display-Value-Chain/",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/acquiring/2026/google-acquires-ai-assistant-howie-to-automate-small-business-operations/",
       "published": null
     },
     {
-      "id": "stockanalysis:66be191e82de7cb4",
-      "titleEn": "EquipmentShare Celebrates Opening of New Core and Advanced Solutions Hub in Whitman, Massachusetts",
+      "id": "stockanalysis:d5625de7475d1246",
+      "titleEn": "Why this analyst sees a 30% upside for Meta stock?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261117001185/en/EquipmentShare-Celebrates-Opening-of-New-Core-and-Advanced-Solutions-Hub-in-Whitman-Massachusetts/",
+      "link": "https://invezz.com/news/2026/11/17/why-this-analyst-sees-a-30-upside-for-meta-stock/",
       "published": null
     },
     {
-      "id": "stockanalysis:fb8a6db2f884318d",
-      "titleEn": "CORRECTING and REPLACING Corporación América Airports Announces Third Quarter 2026 Financial Results Call and Webcast",
+      "id": "stockanalysis:f694f1ea7efcc848",
+      "titleEn": "KeyBank and Zact Team to Launch Spend Management Platform",
+      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); This collaboration has yielded KeyExpenseIQ, a commercial spend management platform that combines commercial card management and expense management for KeyBank’s commercial clients, the companies said in a Tuesday (Nov. 17) news release . “Clients want the modern experiences they’ve come to expect from FinTechs, along with the breadth and trusted relationship they expect from their bank,” John Withrow , head of KeyBank commercial card and AP automation, said in a news release. “KeyExpenseIQ brings those strengths together, giving clients a simpler way to manage spending while connecting those capabilities to a broader set of financial solutions.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/b2b-payments/2026/keybank-and-zact-team-to-launch-spend-management-platform/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4113e77e75b4eac1",
+      "titleEn": "Anthropic Eyes Higher IPO Price as Investors Scramble for Shares",
+      "summaryEn": "Anthropic plans to price the shares in its initial public offering at or above the top of the price range after drawing orders for close to seven times the number of shares available, Bloomberg reported Tuesday (Nov. 17), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); Anthropic is marketing the shares for $70 to $78 each. At $78, the IPO would raise $90.4 billion and the company would have a fully diluted valuation of $1.4 trillion, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-eyes-higher-ipo-price-as-investors-scramble-for-shares/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9c1e0b8f65d6a8c7",
+      "titleEn": "Netflix stock analysis: what next for this fallen angel?",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261111129421/en/CORRECTING-and-REPLACING-Corporaci%C3%B3n-Am%C3%A9rica-Airports-Announces-Third-Quarter-2026-Financial-Results-Call-and-Webcast/",
+      "link": "https://invezz.com/news/2026/11/17/netflix-stock-analysis-what-next-for-this-fallen-angel/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3e4a78780a7e39e0",
+      "titleEn": "India's gold demand boosted by lower prices in October, with jewelry, ETFs, and imports strong – WGC's Chacko",
+      "summaryEn": "(Kitco News) – Fed rate hike expectations, a stronger dollar and investor liquidations drove gold prices lower last month, but demand was healthy during the key festive period, while Indian gold ETFs recorded a fifth straight month of net inflows in October and imports rebounded from September’s lows, according to Kavita Chacko, Research Head for India at the World Gold Council (WGC). In the latest WGC India update published Tuesday, Chacko wrote that gold prices were under considerable over the last four weeks. “Following a relatively stable first half of October, gold prices fell sharply, ending the month 6.3% lower at US$3,913/oz, marking a second consecutive monthly decline,” she noted. “The decline was driven by expectations of further Fed rate hikes, a stronger US dollar, and an investor shift towards bonds. Selling in gold futures also added to the pressure.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-17/indias-gold-demand-boosted-lower-prices-october-jewelry-etfs-and-imports",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:adb2836fb5313045",
+      "titleEn": "APi Group Announces Pricing of €500 Million Senior Notes Offering",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261117832036/en/APi-Group-Announces-Pricing-of-%E2%82%AC500-Million-Senior-Notes-Offering/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c64ae60b6f97df70",
+      "titleEn": "Shionogi Completes Acquisition of IntraBio Inc. and Adds AQNEURSA® (levacetylleucine) to Growing Rare Disease Global Portfolio",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261117876530/en/Shionogi-Completes-Acquisition-of-IntraBio-Inc.-and-Adds-AQNEURSA%C2%AE-levacetylleucine-to-Growing-Rare-Disease-Global-Portfolio/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8ccfc212c41f1c86",
+      "titleEn": "Venture Global and China Gas Announce Increased Long-Term LNG Agreement",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261117124885/en/Venture-Global-and-China-Gas-Announce-Increased-Long-Term-LNG-Agreement/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:affb68d39999d51d",
+      "titleEn": "Score Labs Emerges From Stealth on the Intel Stage at Microsoft Ignite 2026, Showing Enterprise AI at a Fraction of the Cost on Intel Xeon",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261117452751/en/Score-Labs-Emerges-From-Stealth-on-the-Intel-Stage-at-Microsoft-Ignite-2026-Showing-Enterprise-AI-at-a-Fraction-of-the-Cost-on-Intel-Xeon/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a6e135d0ac6430a9",
+      "titleEn": "Better 2.0 Publishes Weekly Scorecard, Week 6: Wholesale HELOC Product Locks Scaling Over 100% MoM; Savings Reach $38.2 Million",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261117506933/en/Better-2.0-Publishes-Weekly-Scorecard-Week-6-Wholesale-HELOC-Product-Locks-Scaling-Over-100-MoM-Savings-Reach-38.2-Million/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3e1d1acf96f635d1",
+      "titleEn": "Accendra Health Receives Delisting Notice From the New York Stock Exchange",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261117587751/en/Accendra-Health-Receives-Delisting-Notice-From-the-New-York-Stock-Exchange/",
       "published": null
     }
   ]
