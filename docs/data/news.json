@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-11-19T00:34:38.033628Z",
+  "generatedAt": "2026-11-19T07:54:31.521378Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 9,
   "items": [
+    {
+      "id": "stockanalysis:8072eed0d5ce76d6",
+      "titleEn": "Gold plunges below $3,750, silver tumbles as hawkish Fed minutes pressure metals - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in late U.S. trading Wednesday, extending their recent losses as a stronger U.S. dollar, expectations for further Federal Reserve interest rate increases and broad commodity-market selling weighed on precious metals. Gold dropped to its lowest level since September 2025, breaking below $3,750.00 an ounce, while silver suffered even heavier losses as concerns about industrial demand and tighter financial conditions compounded the selling. The release of hawkish minutes from the Fed&#x27;s October meeting reinforced expectations for additional monetary tightening, while renewed U.S.-Iran military tensions failed to generate meaningful safe-haven demand. Spot gold was trading near $3,722.60 an ounce, down $125.90, or 3.27%, while silver was trading near $44.930 an ounce, down $2.340, or 4.95%, on the session. Gold traded as low as $3,719.10 during the day, while silver touched $44.640. Wednesday&#x27;s U.S. economic data highlighted growing weakness in the housing market despite a rebound in residential construction. October housing starts increased 9.9% to a seasonally adjusted annual rate of 1.309 million units, exceeding expectations for 1.25 million. However, building permits declined 7.4% to 1.295 million units, substantially below expectations for 1.38 million, suggesting weaker construction activity ahead. Pending home sales fell 4.7% in October, considerably worse than expectations for a 2.0% decline, reaching their lowest level since the series began in 2001. Contract signings were 16.7% lower than a year earlier, reflecting the impact of elevated mortgage rates on residential demand. The reports followed Tuesday&#x27;s figures showing retail sales increased just 0.2% and industrial production declined 0.4% in October. The combination of deteriorating housing demand, slower industrial activity and persistent inflation highlighted the increasingly difficult policy environment facing the Federal Reserve.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-18/gold-plunges-below-3750-silver-tumbles-hawkish-fed-minutes-pressure-metals",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4abbd37c58ca9f65",
+      "titleEn": "Anthropic IPO prices at $83 a share as ANT prepares Thursday debut",
+      "summaryEn": "Buy ANT (Anthropic) at/near the open. $83 is above the filed range and signals strong institutional demand; the stock should keep catching bids as allocations convert into public float and as AI “new issue” flows chase momentum. Upside is reinforced if the deal is upsized and if index-inclusion timelines (MSCI/FTSE) pull forward passive demand. Key Risk: Demand fades immediately after pricing and the stock gaps down as early buyers realize the valuation is already fully priced. Sell/short the nearest AI IPO/AI infrastructure “hot” names that are most likely to be crowded out by ANT’s attention—e.g., short SOFI? (not AI) better: short NVDA? No. Use a cleaner proxy: sell/short ARKQ (AI ETF) or AI-focused baskets (e.g., BOTZ) into ANT’s first-day strength because capital rotates from other AI exposures into the new high-profile listing, pressuring relative performance for days.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/18/anthropic-ipo-prices-at-83-2026-11-18/",
+      "published": null
+    },
     {
       "id": "stockanalysis:fa039c9677fcae71",
       "titleEn": "Gold prices remain under pressure as Fed minutes show central bank committed to cooling inflation",
@@ -13,102 +31,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:e8dee37e706cef25",
-      "titleEn": "As silver underperforms gold, has its bubble popped?",
-      "summaryEn": "(Kitco News) - The ongoing threat of higher interest rates through year-end and into 2027 continues to support U.S. dollar strength and hangs over the precious metals market like a dark cloud. Rising opportunity costs have pushed gold prices to their lowest level since mid-September, with prices falling below $3,800 an ounce. Spot gold last traded at $3,732.90 an ounce, down more than 3% on the day. However, it&#x27;s the silver market that is attracting the most attention Wednesday, with prices falling sharply below $45 an ounce. Spot silver last traded at $44.90 an ounce, down 5% on the day.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-18/silver-underperforms-gold-has-its-bubble-popped",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:961482af54b5a7f2",
-      "titleEn": "Gold price follows the dollar in the short-term, but real yields over the long haul – Heraeus",
-      "summaryEn": "(Kitco News) – Gold ’s recent price correction has restored the precious metal’s inverse correlation with real yields, which broke down completely during its 2022-2025 rally, according to precious metals analysts at Heraeus. In an analysis of gold and bond yields published this week, the analysts noted that since hitting a record high of $5,600 per ounce in late January, gold has declined 33.5% to around $3,730. “Over the same period, the dollar index (DXY) has risen from 96.3 to 103.2 and the US 10-year inflation-protected real yield has climbed from 1.89% to 2.83%,” they said. “Last week’s hotter-than-expected CPI reinforced both headwinds and expectations of further Fed tightening.” Over shorter-term horizons, the dollar is one of gold’s most consistent price drivers. “Since 1990, the correlation between daily percentage changes in the gold price and DXY has been -0.31, and -0.43 this year,” the analysts said. “Put simply, dollar-up days have tended to be gold-down days. A 1% rise in DXY this year has typically coincided with a little more than a 2% fall in gold.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-18/gold-price-follows-dollar-short-term-real-yields-over-long-haul-heraeus",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5f6d4e38e105a9a9",
-      "titleEn": "SpaceX stock rises as Citi sees wireless network and AI growth potential",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/18/spacex-stock-rises-as-citi-sees-wireless-network-and-ai-growth-potential/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:037e174c7db9ec4e",
-      "titleEn": "Why is Nvidia stock falling over 2% on Wednesday?",
+      "id": "stockanalysis:0684b0589ecdead1",
+      "titleEn": "iA Financial Group Announces Offering of $500 million of 4.625% Fixed/Floating Unsecured Subordinated Debentures",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/18/why-is-nvidia-stock-falling-over-2-on-wednesday/",
+      "link": "https://www.businesswire.com/news/home/20261118787647/en/iA-Financial-Group-Announces-Offering-of-500-million-of-4.625-FixedFloating-Unsecured-Subordinated-Debentures/",
       "published": null
     },
     {
-      "id": "stockanalysis:3512776b58fb4154",
-      "titleEn": "Cathie Wood was right on the money about these 2 stocks",
+      "id": "stockanalysis:f94f2909520941ae",
+      "titleEn": "BlackRock Declares Quarterly Dividend of $5.73 on Common Stock",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/18/cathie-wood-was-right-on-the-money-about-these-2-stocks/",
+      "link": "https://www.businesswire.com/news/home/20261118189291/en/BlackRock-Declares-Quarterly-Dividend-of-5.73-on-Common-Stock/",
       "published": null
     },
     {
-      "id": "stockanalysis:400ad0f06c18a623",
-      "titleEn": "Can Anthropic IPO beat SpaceX to become the world's largest?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/18/can-anthropic-ipo-beat-spacex-to-become-the-worlds-largest/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f6e56409588223cd",
-      "titleEn": "Strategy stock falls as analyst warns MSTR could crash to $23",
+      "id": "stockanalysis:4c2c47fa86ceb8de",
+      "titleEn": "Emmaus Life Sciences Reports Quarterly Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/18/strategy-stock-falls-as-analyst-warns-mstr-could-crash-to-23/",
+      "link": "https://www.businesswire.com/news/home/20261118995848/en/Emmaus-Life-Sciences-Reports-Quarterly-Financial-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:dbdf66fa7b24815b",
-      "titleEn": "AM Best Assigns Issue Credit Rating to Fairfax Financial Holdings Limited Senior Unsecured Notes",
+      "id": "stockanalysis:f1b4a205d5b0dd0c",
+      "titleEn": "Walker &amp; Dunlop Arranges $270 Million Refinancing for Nasser Freres' The Greyson in Jersey City",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261118345513/en/AM-Best-Assigns-Issue-Credit-Rating-to-Fairfax-Financial-Holdings-Limited-Senior-Unsecured-Notes/",
+      "link": "https://www.businesswire.com/news/home/20261118022862/en/Walker-Dunlop-Arranges-270-Million-Refinancing-for-Nasser-Freres%E2%80%99-The-Greyson-in-Jersey-City/",
       "published": null
     },
     {
-      "id": "stockanalysis:394fa02e3ff650da",
-      "titleEn": "Lost Money on Build-A-Bear Workshop, Inc. Shares? The Law Offices of Frank R.",
+      "id": "stockanalysis:c853c5fc82172bf7",
+      "titleEn": "Everforth, Inc. Announces Withdrawal of Proposed Senior Notes Offering",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261118950658/en/Lost-Money-on-Build-A-Bear-Workshop-Inc.-Shares-The-Law-Offices-of-Frank-R.-Cruz-Investigates-Potential-Securities-Fraud-After-27.26-Stock-Decline/",
+      "link": "https://www.businesswire.com/news/home/20261118355435/en/Everforth-Inc.-Announces-Withdrawal-of-Proposed-Senior-Notes-Offering/",
       "published": null
     },
     {
-      "id": "stockanalysis:d93de7fc723bb390",
-      "titleEn": "Elastic Makes High-Accuracy, Cost-Efficient Jina AI Models Available on Microsoft Foundry",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261118591523/en/Elastic-Makes-High-Accuracy-Cost-Efficient-Jina-AI-Models-Available-on-Microsoft-Foundry/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1e59bcdfde785be2",
-      "titleEn": "Starboard Value to Present at the 2026 Capitalize for Kids Investors Conference",
+      "id": "stockanalysis:4cac5467fee238d5",
+      "titleEn": "BlackRock Health Sciences Term Trust (BMEZ) Announces Expiration and Preliminary Results of Tender Offer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261117765313/en/Starboard-Value-to-Present-at-the-2026-Capitalize-for-Kids-Investors-Conference/",
+      "link": "https://www.businesswire.com/news/home/20261118248798/en/BlackRock-Health-Sciences-Term-Trust-BMEZ-Announces-Expiration-and-Preliminary-Results-of-Tender-Offer/",
       "published": null
     }
   ]
