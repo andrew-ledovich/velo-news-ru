@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-11-19T23:19:15.569616Z",
+  "generatedAt": "2026-11-20T04:05:42.388930Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 11,
   "items": [
+    {
+      "id": "stockanalysis:c4ad60f86dc41b2c",
+      "titleEn": "Meta Plans $300 Price Tag and Free 5G for Muse Charm AI Device",
+      "summaryEn": "Meta plans to price its soon-to-be-released pocket-sized artificial intelligence (AI) device, Muse Charm , at $300 and offer buyers a free 5G data plan for up to 12 months, The Information reported Thursday (Nov. 19), citing an unnamed source. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); In addition, Meta delayed the launch of its smartwatch, which had been targeted for this year, to 2027 so that the company can focus on Charm, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/wearables/2026/meta-plans-300-price-tag-and-free-5g-for-muse-charm-ai-device/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9d0c9a95adbf1734",
+      "titleEn": "Gold the top commodity pick for 2027 even as broader commodities likely to underperform – Morgan Stanley",
+      "summaryEn": "(Kitco News) – While the U.S. dollar could strengthen modestly next year, oil prices will likely moderate toward $75 per barrel by the fourth quarter, and gold remains the top commodity pick for 2027, according to Morgan Stanley Research. “The biggest change since our midyear outlook is how much more attractive risk has become,” said Serena Tang, Morgan Stanley’s Chief Cross-Asset Strategist in the bank’s 2027 Global Investment Outlook published Wednesday. “Stocks and corporate bonds have cheapened even as expectations for AI investment have risen. And of course, we’re heading into 2027 with more clarity on two big unknowns—the U.S. midterm elections are behind us and markets better understand the Federal Reserve’s reaction function.” Morgan Stanley Research believes this combination will favor risk assets in 2027, with their strategists recommending a maximum overweight allocation to equities and neutral allocations to core fixed income and corporate credit, while they downgraded commodities and cash to underweight.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.kitco.com/news/article/2026-11-19/gold-top-commodity-pick-2027-even-broader-commodities-likely-underperform",
+      "published": null
+    },
     {
       "id": "stockanalysis:30bf8bd934907307",
       "titleEn": "Uber Eats Adds AutoParts.Com to Its Delivery Menu",
@@ -15,7 +33,7 @@
     {
       "id": "stockanalysis:fa66ba1abab39f2c",
       "titleEn": "Nvidia stock falls for sixth day as Anthropic debut fails to lift shares",
-      "summaryEn": "Buy NVDA. The selloff is being driven by “AI spending sustainability + financing + leadership uncertainty,” but the article also flags an earnings beat, better cash conversion, and a higher fiscal 2028 growth outlook plus a fresh Buy upgrade with a $235 target. That mix points to fundamentals still improving even as sentiment lags. Key risk: a real slowdown in AI infrastructure orders (demand for Nvidia GPUs/accelerators) that overwhelms the earnings/growth outlook. Key Risk: AI infrastructure demand drops enough to cut Nvidia’s growth outlook, not just sentiment. Sell SOXX (or SMH) short-term. Nvidia is dragging the whole group (semis down ~1.35% with the Nasdaq), and the core narrative is “AI capex cycle uncertainty + rising debt concerns.” If NVDA can’t catch a tailwind from Anthropic’s IPO, the broader ETF likely keeps bleeding as investors rotate away from high-multiple AI infrastructure names. Key risk: a broad AI capex re-acceleration that lifts the whole semiconductor complex and squeezes the short.",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/11/19/nvidia-stock-falls-for-sixth-day-as-anthropic-debut-fails-to-lift-shares/",
@@ -31,102 +49,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:edb80d04f1576927",
-      "titleEn": "Gold prices could fall another 5% to $3,500 as Fed tightening fears grow – Razaqzada",
-      "summaryEn": "(Kitco News) - The gold market still has plenty of room to fall according to one market strategist as prices have been unable to hold critical support levels amid this week’s wave of selling pressure. In a note Thursday, Fawad Razaqzada, Market Analyst at FOREX.com, warned investors that gold prices could fall to $3,500 an ounce as expectations of interest rate hikes drive bond yields higher and support U.S. dollar strength. Razaqzada’s bearish warning comes as gold prices have dropped 5% so far this week, and his next downside target would represent another 5% decline from current prices. Spot gold last traded at $3,686.70 an ounce, down 1% on the day.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-19/gold-prices-could-fall-another-5-3500-fed-tightening-fears-grow-razaqzada",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bdd0eeed0eed9e82",
-      "titleEn": "Aswath Damodaran values Anthropic at $76 a share, below its $83 IPO price",
-      "summaryEn": "Buy a basket hedge via short-duration AI infrastructure risk: buy shares of a diversified cloud/infra operator with pricing power and lower regulatory exposure (e.g., Microsoft, MSFT) while shorting high-multiple pure-play AI compute spenders (ANT). Second-order: if data centers get more expensive, capital shifts toward the biggest platforms that can amortize buildouts and negotiate power/compute at scale, compressing returns for smaller AI labs. Key Risk: Smaller AI players secure cheaper compute/capex through partnerships or subsidies, so the “scale advantage” doesn’t materialize and the relative trade fails. Sell short Anthropic (ANT). Damodaran’s option-adjusted intrinsic value is ~$76 vs $83 IPO and the stock still trades at a large premium to that estimate. The thesis is that higher data-center capex and a slightly worse regulatory drag reduce free cash flow enough that the market is paying too much for growth already priced in.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/19/aswath-damodaran-values-anthropic-at-76-a-share-below-its-83-ipo-price/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:82375953a2d780b3",
-      "titleEn": "Anthropic soars in Wall Street debut despite AI jitters",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Anthropic shares opened 34% higher in their Nasdaq debut on Thursday, briefly valuing the AI giant at around $2 trillion, as investors shrugged off the Nvidia spy scandal and fears of a tech bubble. The shares opened at $111.50 before settling minutes into trading at around $98, up 18% from the $83 at which the company priced its shares on Wednesday, already above its expected range.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-11-anthropic-soars-wall-street-debut.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d904b7988df8c268",
-      "titleEn": "Temu owner just cut its marketing bill: stock is soaring",
-      "summaryEn": "Buy PDD. The thesis is margin durability: sales & marketing fell to 23% of revenue from 28% while revenue stayed flat, and R&D rose—signaling smarter spend, not demand collapse. If transaction services stabilize (less negative) and marketing stays near 23%, earnings quality improves and the post-earnings rerating can stick. Key Risk: Transaction services keep sliding as cross-border trade economics worsen, forcing PDD to spend back up to defend growth. Buy SHOP. Second-order effect: PDD’s push to shared warehousing/logistics and merchant economics improves the “ability to sell cheap cross-border” playbook. That tends to lift demand for merchant tooling and fulfillment integrations where sellers already operate—especially for brands using Shopify to manage multi-channel commerce.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/11/19/temu-owner-just-cut-its-marketing-bill-stock-is-soaring/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d273121f8424dedb",
-      "titleEn": "Anthropic CEO Dario Amodei defends $900B AI spending and safety strategy after IPO",
-      "summaryEn": "Buy ANT. The CEO doubled down on frontier spend, but framed it as paced “safe driving” plus conservative compute planning (spot buys) and a credible path to profitability. Public-market investors will reward the combination of (1) frontier positioning, (2) smaller/cheaper model strategy (Haiku price cut), and (3) multiple compute partners (Nvidia/AWS/Google/Broadcom/SpaceX). Key Risk: Compute spending stays high while revenue growth slows, forcing dilution or margin compression before profitability. Buy NVDA. Anthropic’s message is clear: frontier training still wins, and it’s buying capacity across multiple partners. That keeps demand sticky for high-end GPUs and networking, even if some capacity is sourced via spot. The “multiple compute partners” line reinforces that NVDA remains the core bottleneck supplier across customers, not just one hyperscaler.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/19/anthropic-ceo-dario-amodei-defends-900b-ai-spending-and-safety-strategy-after-ipo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:34c03d45cc8faba2",
-      "titleEn": "Anthropic pops 34% to cross $2 trillion valuation in historic Nasdaq debut",
-      "summaryEn": "Buy Anthropic (NASDAQ: ANT). It’s the first major AI lab to go public, priced above the range, and the market is treating it as a liquid “AI proxy.” The Nasdaq 100 fast-track rule plus expected passive buying (index funds taking ~30% of the offering in the first month) creates a near-term demand floor. Revenue is exploding (~1,200% YTD) even as losses widen, which is typical for scaling model infrastructure. Key Risk: AI demand cools or competitors match Claude’s performance fast enough that ANT’s growth rate can’t justify a $2T valuation. Sell Nvidia (NASDAQ: NVDA). The article flags “Nvidia leadership turmoil” while ANT’s debut intensifies the market’s focus on AI labs and model makers. If investors rotate from chip leadership to model/platform winners, NVDA’s multiple can compress even without an earnings miss.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/19/anthropic-pops-34-to-cross-2-trillion-valuation-in-historic-nasdaq-debut/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9fa584fcd9b0d561",
-      "titleEn": "Gold adds resilience despite near-term headwinds, copper will hit $15,500/t in 2027 – UBS",
-      "summaryEn": "(Kitco News) – Gold is an important part of any investor portfolio, and while the yellow metal currently faces headwinds from high yields and the expectation of further Fed hikes, gold and other commodities still help mitigate fiscal, monetary, and geopolitical risk, according to Sagar Khandelwal, investment strategist at UBS. In a new analysis published Wednesday, Khandelwal wrote that investors should maintain long-term exposure to gold regardless of the market cycle. “Gold and commodities can strengthen portfolio resilience by diversifying return drivers and hedging fiscal, geopolitical, inflation, and supply risks,” he said. “Government debt, geopolitical uncertainty, and central bank demand should support gold, while broader commodity exposure and copper should benefit from structural demand, including from investment in power networks, data centers, and electrification.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-19/gold-adds-resilience-despite-near-term-headwinds-copper-will-hit-15500t",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:25ef95904c18ad74",
-      "titleEn": "AMD stock falls 7% as Hunterbrook alleges links to blacklisted Chinese firm",
-      "summaryEn": "Buy Nvidia vs AMD (long NVDA, short AMD). If the market is over-penalizing AMD for “China safety” while Nvidia’s China risk is already priced, the relative trade benefits from mean reversion in the AMD/NVDA risk spread. Hunterbrook’s core claim is that AMD is not actually safer, so the relative discount on AMD should narrow. Key Risk: New evidence shows Nvidia’s China exposure is materially worse than AMD’s (or AMD’s risk is overstated), widening the spread further against the pair. Sell AMD (short stock or buy puts). The thesis is that AMD’s “safer Nvidia alternative” narrative is wrong: Hunterbrook alleges IEIT (on the Entity List) used AMD firmware post-blacklist, and similar firmware appears via other server sellers (Maginfra, Kaytus, Aivres). That implies AMD faces the same China export/geopolitical overhang as Nvidia, while the stock is priced for less risk (much higher valuation multiple).",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/19/amd-stock-falls-7-as-hunterbrook-alleges-links-to-blacklisted-chinese-firm/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:21873c816f847f22",
-      "titleEn": "China tech giant Alibaba to use more domestic chips",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Chinese tech giant Alibaba said Thursday it would move toward greater reliance on domestically produced artificial intelligence chips, as the United States tightens export controls for the sensitive components. Washington this week announced new rules to crack down on the large gray market of Chinese companies renting computing power from data centers in Southeast Asia full of high-end U.S.-designed chips.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-11-china-tech-giant-alibaba-domestic.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f49af5818c880d6c",
-      "titleEn": "Best Trading Platforms to Buy Anthropic Stock (ANT)",
-      "summaryEn": "Buy ANT. The news confirms a real Nasdaq listing and highlights the core bull setup: revenue growth ~13x and massive customer compute commitments (~$895B), which supports multi-year demand for Claude. The IPO pop is already in the price, so the edge is owning a leader while growth is still proving out, not chasing the first-day headline. Build in 2–3 limit buys over weeks to avoid paying only the peak. Key Risk: Valuation is too high for the growth to keep accelerating—if revenue growth slows or compute commitments don’t convert into real, profitable revenue, the stock rerates down hard. Buy an AI/tech ETF basket (e.g., QQQ or an AI-focused ETF) instead of adding more single-name risk. The article flags that index reviews (MSCI) and possible Nasdaq-100 inclusion can create steady incremental demand, but single-stock volatility is extreme. ETFs capture the second wave of buying from passive funds while reducing the chance one company’s execution misses.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/19/best-trading-platforms-to-buy-anthropic-stock-ant/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c958d2c0f409cdb5",
-      "titleEn": "Eastern Bank Named #1 SBA Lender in Massachusetts for the 18th Year in a Row",
+      "id": "stockanalysis:3813bfbcb03d56b2",
+      "titleEn": "Avnet Declares Regular Quarterly Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261119526402/en/Eastern-Bank-Named-1-SBA-Lender-in-Massachusetts-for-the-18th-Year-in-a-Row/",
+      "link": "https://www.businesswire.com/news/home/20261119154043/en/Avnet-Declares-Regular-Quarterly-Dividend/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6e9342ba4591e28f",
+      "titleEn": "Sweetgreen, Inc. Securities Violation Investigation – Robbins LLP is Investigating the Officers and Directors of SG for Breaches of Fiduciary Duty and Violations of Securities Laws",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261119165736/en/Sweetgreen-Inc.-Securities-Violation-Investigation-%E2%80%93-Robbins-LLP-is-Investigating-the-Officers-and-Directors-of-SG-for-Breaches-of-Fiduciary-Duty-and-Violations-of-Securities-Laws/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:19e81329d5fc2708",
+      "titleEn": "Energy Fuels Inc. Securities Violation Investigation – Robbins LLP is Investigating the Officers and Directors of UUUU for Breaches of Fiduciary Duty and Violations of Securities Laws",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261119987413/en/Energy-Fuels-Inc.-Securities-Violation-Investigation-%E2%80%93-Robbins-LLP-is-Investigating-the-Officers-and-Directors-of-UUUU-for-Breaches-of-Fiduciary-Duty-and-Violations-of-Securities-Laws/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8adb89b987cdff18",
+      "titleEn": "GrafTech International Ltd. Securities Violation Investigation – Robbins LLP is Investigating the Officers and Directors of EAF for Breaches of Fiduciary Duty and Violations of Securities Laws",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261119818618/en/GrafTech-International-Ltd.-Securities-Violation-Investigation-%E2%80%93-Robbins-LLP-is-Investigating-the-Officers-and-Directors-of-EAF-for-Breaches-of-Fiduciary-Duty-and-Violations-of-Securities-Laws/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9ce7d5da70450adc",
+      "titleEn": "Molson Coors Beverage Company Announces Regular Quarterly Dividend",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261119464420/en/Molson-Coors-Beverage-Company-Announces-Regular-Quarterly-Dividend/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:819d36e70156cb0a",
+      "titleEn": "CORRECTING and REPLACING IMAX and Showcase Cinemas Strike Agreement for 13 New IMAX With Laser Locations Across the United Kingdom and Europe",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261119366762/en/CORRECTING-and-REPLACING-IMAX-and-Showcase-Cinemas-Strike-Agreement-for-13-New-IMAX-With-Laser-Locations-Across-the-United-Kingdom-and-Europe/",
       "published": null
     }
   ]
