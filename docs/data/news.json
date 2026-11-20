@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-11-20T04:05:42.388930Z",
+  "generatedAt": "2026-11-20T12:47:59.275510Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 10,
   "items": [
+    {
+      "id": "stockanalysis:e33018943aa33d5f",
+      "titleEn": "Meta says 'reevaluating' 2030 net-zero target amid AI buildout",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Meta said Thursday it was reconsidering its 2030 deadline for net-zero emissions because of the artificial intelligence boom, the latest in a broad retreat by corporations on global warming targets. \"We are reevaluating our timelines, sequencing, and interim milestones—including the 2030 time frame for our net-zero emissions goal,\" Rachel Peterson, vice president of data centers, and Blair Swedeen, global head of net zero and sustainability, said in the company's annual sustainability report.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-11-meta-reevaluating-net-ai-buildout.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cd50400da31bcfd5",
+      "titleEn": "SpaceX stock: why are lenders trying to stop Elon Musk's AI space plans?",
+      "summaryEn": "Buy SPCX. The lender pushback is a near-term headline, but the financing is already structured around terrestrial collateral (GPU lease payments), and the dispute is about whether chips can be launched into orbit—not whether the $43B package collapses. If restrictions are limited or waived, the market over-discounts the AI upside. Catalysts: closing of Project Saturn and continued progress toward Starship reuse lowering future orbital deployment costs. Key Risk: The final financing terms explicitly block orbital GPU deployment for years, forcing delays and shrinking the AI-in-space upside that investors are paying for. Buy the highest-quality tranche of the Project Saturn-style investment-grade GPU-backed debt (the ~8.3% yield, ~5-year lease-payment backed). It’s secured by recoverable, on-Earth collateral and offers a spread over SPCX debt maturing in 2031 (~8.3% vs ~7.2%). Even if orbital plans get constrained, the cash-flow/lease structure is designed to hold up.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/20/spacex-stock-why-are-lenders-trying-to-stop-elon-musks-ai-space-plans/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f0e2feede9d0039a",
+      "titleEn": "Why did Anthropic stock lose half its opening gains on IPO day?",
+      "summaryEn": "Buy NVDA and/or AMD (NVDA preferred). The article flags AI spending worries, but the real issue is financing cost and valuation, not that compute demand disappears. If investors rotate from “AI apps” to “AI picks-and-shovels,” the winners are the chip and platform providers that monetize the required infrastructure for training and serving models. Key Risk: AI budgets get cut fast enough that orders for GPUs/accelerators slow materially, overwhelming any rotation benefit. Sell NASDAQ:ANT. The IPO priced at $83, but the stock immediately repriced lower as valuation doubts hit and the broader market sold off tech/AI. The close at ~$97 still leaves it richly valued versus fundamentals: massive operating losses and huge multi-year compute commitments mean investors need proof of profitable returns, not just growth. Momentum is already broken on day one.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/20/why-anthropic-stock-lost-half-opening-gains-ipo-debut/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:cdaed7fe17a51efe",
+      "titleEn": "Why are Samsung and SK Hynix crashing after Nvidia and AMD's sharp losses?",
+      "summaryEn": "Buy. The sell-off is driven by foreign risk-off and AI multiple compression, not a collapse in fundamentals: Samsung expects tight memory supplies through 2028 and is still printing strong profits. When overseas selling pauses, the stock should re-rate quickly because the market is already treating AI memory as “done.” Key Risk: Foreign investors keep pulling money out and the market refuses to pay up for AI-linked memory even with tight supply. Buy. Same setup as Samsung but with higher sensitivity to AI server memory demand; the article highlights shortages lasting even longer than Samsung’s timeline. If the AI processor sell-off is temporary, SK Hynix should outperform on any stabilization in global tech sentiment.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/20/why-are-samsung-and-sk-hynix-crashing-after-nvidia-and-amds-sharp-losses/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:09b27f6b16abc031",
+      "titleEn": "Apple Expands Team Building Privacy-First AI Agent",
+      "summaryEn": "Apple is building an artificial intelligence agent, the company said in a job listing for a senior engineering manager, agentic AI &#8211; proactive posted on its careers website. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); “Imagine an AI agent that can use a computer the way a capable person does,” Apple said in the listing. “It browses the web, works across apps, runs commands, writes and debugs code, and calls services, and it chooses the right tool for each step. It does all this privately and with the polish people expect from Apple. Our team is building the foundation for that future, and we’re looking for a senior engineering leader to make it real.”",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apple-expands-team-building-privacy-first-ai-agent/",
+      "published": null
+    },
     {
       "id": "stockanalysis:c4ad60f86dc41b2c",
       "titleEn": "Meta Plans $300 Price Tag and Free 5G for Muse Charm AI Device",
@@ -13,93 +58,39 @@
       "published": null
     },
     {
-      "id": "stockanalysis:9d0c9a95adbf1734",
-      "titleEn": "Gold the top commodity pick for 2027 even as broader commodities likely to underperform – Morgan Stanley",
-      "summaryEn": "(Kitco News) – While the U.S. dollar could strengthen modestly next year, oil prices will likely moderate toward $75 per barrel by the fourth quarter, and gold remains the top commodity pick for 2027, according to Morgan Stanley Research. “The biggest change since our midyear outlook is how much more attractive risk has become,” said Serena Tang, Morgan Stanley’s Chief Cross-Asset Strategist in the bank’s 2027 Global Investment Outlook published Wednesday. “Stocks and corporate bonds have cheapened even as expectations for AI investment have risen. And of course, we’re heading into 2027 with more clarity on two big unknowns—the U.S. midterm elections are behind us and markets better understand the Federal Reserve’s reaction function.” Morgan Stanley Research believes this combination will favor risk assets in 2027, with their strategists recommending a maximum overweight allocation to equities and neutral allocations to core fixed income and corporate credit, while they downgraded commodities and cash to underweight.",
+      "id": "stockanalysis:f1a2ad0a9656c4ed",
+      "titleEn": "Anthropic's ANT closes at $97.17, up 17% on its first day of trading",
+      "summaryEn": "Buy Anthropic (ANT). First-day strength (17% above IPO) plus huge, lopsided demand and strong early analyst targets signal real pricing power for a stand-alone frontier model name. The revenue/run-rate disclosed (massive growth) supports continued multiple expansion as investors finally get direct exposure beyond chips/cloud. Key Risk: A sharp post-IPO selloff that breaks the $90s and forces valuation compression because growth expectations don’t show up in the next few quarters. Sell/short Invesco QQQ (QQQ) against ANT. The article notes US indexes down >2% and investors weighing higher rates; if macro pressure hits growth/AI broadly, ANT’s idiosyncratic demand may hold up better than the basket. This isolates ANT’s upside while reducing portfolio beta.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-11-19/gold-top-commodity-pick-2027-even-broader-commodities-likely-underperform",
+      "link": "https://invezz.com/news/2026/11/19/anthropic-stock-first-day-close-2026-11-19/",
       "published": null
     },
     {
-      "id": "stockanalysis:30bf8bd934907307",
-      "titleEn": "Uber Eats Adds AutoParts.Com to Its Delivery Menu",
-      "summaryEn": "&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The partnership lets customers throughout the United States shop for inventory from the Autoparts.com marketplace and fulfillment network and have it delivered through Uber Eats , per the release. “People already turn to Uber Eats for everything from groceries and beauty staples to electronics and home improvement essentials,” Uber Eats Head of North America Prashant Garg said in the release. “Auto parts are a natural extension of that selection. When something goes wrong with your car, getting the right part delivered quickly can make a real difference. By welcoming AutoParts.com onto our marketplace, we’re giving customers another way to get what they need, when they need it, and keep their day moving.”",
+      "id": "stockanalysis:531dc07dcce4d36b",
+      "titleEn": "Gold falls below $3,650, silver tumbles as Fed rate concerns pressure metals - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in late U.S. trading Thursday, extending their recent selloff as expectations for further Federal Reserve interest rate increases, a firm U.S. dollar and another sharp decline in North American equity markets pressured precious metals. Gold dropped below $3,650.00 an ounce to fresh 14-month lows, while silver suffered heavier selling amid weakness in industrial commodities and concerns about global economic growth. Softer U.S. labor market and manufacturing figures provided little relief, while continuing U.S.-Iran tensions failed to generate sustained safe-haven demand. At 4:37:58 p.m. EST, spot gold was trading at $3,625.50 an ounce, down $98.60, or 2.65%, while silver was trading at $42.830 an ounce, down approximately $2.120, or 4.71%, on the session. Gold had traded as low as $3,625.30 during the day, while silver touched $42.830. Thursday&#x27;s U.S. economic data indicated further deterioration in underlying economic momentum, with labor market indicators weakening, regional manufacturing activity slowing and leading economic indicators declining. Initial claims for unemployment benefits increased to 203,000 during the week ended Nov. 14, exceeding expectations for 197,000 and rising from the previous week&#x27;s upwardly revised 202,000. Continuing claims increased to 1.763 million, above expectations for 1.710 million. The Philadelphia Fed&#x27;s November manufacturing index declined sharply to 6.3 from 20.9 in October , substantially below expectations for a reading near 20.0, although the positive figure indicated that regional factory activity continued expanding. The Conference Board&#x27;s Leading Economic Index declined 0.3% in October to 99.3, following an unchanged reading in September. The reports reinforced evidence of slowing growth following Wednesday&#x27;s weaker housing figures and Tuesday&#x27;s decline in industrial production, but persistent inflation and resilient underlying consumer spending continued to complicate the Federal Reserve&#x27;s monetary policy outlook.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/delivery/2026/uber-eats-adds-autoparts-delivery-menu/",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-19/gold-falls-below-3650-silver-tumbles-fed-rate-concerns-pressure-metals",
       "published": null
     },
     {
-      "id": "stockanalysis:fa66ba1abab39f2c",
-      "titleEn": "Nvidia stock falls for sixth day as Anthropic debut fails to lift shares",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/19/nvidia-stock-falls-for-sixth-day-as-anthropic-debut-fails-to-lift-shares/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f3880a77fe83965d",
-      "titleEn": "Visa Direct Brings Cross-Border Payment Stablecoins to APAC",
-      "summaryEn": "Visa plans to let clients in the Asia-Pacific (APAC) region use stablecoins to fund cross-border payouts through the company’s Visa Direct real-time money movement platform. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); This capability allows eligible clients to use supported stablecoins to fund payouts through Visa Direct, connecting digital assets with the company’s “global money movement network of more than 18 billion endpoints,” Visa said in a Thursday (Nov. 19) news release .",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/cross-border-payments/2026/visa-direct-brings-cross-border-payment-stablecoins-to-apac/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:3813bfbcb03d56b2",
-      "titleEn": "Avnet Declares Regular Quarterly Dividend",
+      "id": "stockanalysis:6bc6da3a0fde410f",
+      "titleEn": "SKHY Investors Have Opportunity to Join SK hynix Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261119154043/en/Avnet-Declares-Regular-Quarterly-Dividend/",
+      "link": "https://www.businesswire.com/news/home/20261119414161/en/SKHY-Investors-Have-Opportunity-to-Join-SK-hynix-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
-      "id": "stockanalysis:6e9342ba4591e28f",
-      "titleEn": "Sweetgreen, Inc. Securities Violation Investigation – Robbins LLP is Investigating the Officers and Directors of SG for Breaches of Fiduciary Duty and Violations of Securities Laws",
+      "id": "stockanalysis:a3b788fac7cb05b9",
+      "titleEn": "EMAT Investors Have Opportunity to Join Evolution Metals &amp; Technologies Corp. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261119165736/en/Sweetgreen-Inc.-Securities-Violation-Investigation-%E2%80%93-Robbins-LLP-is-Investigating-the-Officers-and-Directors-of-SG-for-Breaches-of-Fiduciary-Duty-and-Violations-of-Securities-Laws/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:19e81329d5fc2708",
-      "titleEn": "Energy Fuels Inc. Securities Violation Investigation – Robbins LLP is Investigating the Officers and Directors of UUUU for Breaches of Fiduciary Duty and Violations of Securities Laws",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261119987413/en/Energy-Fuels-Inc.-Securities-Violation-Investigation-%E2%80%93-Robbins-LLP-is-Investigating-the-Officers-and-Directors-of-UUUU-for-Breaches-of-Fiduciary-Duty-and-Violations-of-Securities-Laws/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8adb89b987cdff18",
-      "titleEn": "GrafTech International Ltd. Securities Violation Investigation – Robbins LLP is Investigating the Officers and Directors of EAF for Breaches of Fiduciary Duty and Violations of Securities Laws",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261119818618/en/GrafTech-International-Ltd.-Securities-Violation-Investigation-%E2%80%93-Robbins-LLP-is-Investigating-the-Officers-and-Directors-of-EAF-for-Breaches-of-Fiduciary-Duty-and-Violations-of-Securities-Laws/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9ce7d5da70450adc",
-      "titleEn": "Molson Coors Beverage Company Announces Regular Quarterly Dividend",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261119464420/en/Molson-Coors-Beverage-Company-Announces-Regular-Quarterly-Dividend/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:819d36e70156cb0a",
-      "titleEn": "CORRECTING and REPLACING IMAX and Showcase Cinemas Strike Agreement for 13 New IMAX With Laser Locations Across the United Kingdom and Europe",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261119366762/en/CORRECTING-and-REPLACING-IMAX-and-Showcase-Cinemas-Strike-Agreement-for-13-New-IMAX-With-Laser-Locations-Across-the-United-Kingdom-and-Europe/",
+      "link": "https://www.businesswire.com/news/home/20261119725943/en/EMAT-Investors-Have-Opportunity-to-Join-Evolution-Metals-Technologies-Corp.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
