@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-21T16:30:47.625127Z",
+  "generatedAt": "2026-11-21T21:52:04.221320Z",
   "sourceCount": 1,
-  "count": 14,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:54a2bbeb0b78d7fe",
@@ -85,12 +85,21 @@
       "published": null
     },
     {
-      "id": "stockanalysis:9839e4fa3935ce49",
-      "titleEn": "Anthropic falls more than 9% day after record IPO",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Shares in Anthropic fell 9.5% in early trading Friday as the artificial intelligence company announced it had pocketed about $91.6 billion from its record-breaking initial public offering. The stock was changing hands at around $88 shortly after the opening bell in New York, down from Thursday's closing price of $97.17 but still above the $83 at which shares were priced in the IPO.",
+      "id": "stockanalysis:7b76710b57aa734d",
+      "titleEn": "NPCE Investors Have Opportunity to Join NeuroPace, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-11-anthropic-falls-day-ipo.html",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261121941303/en/NPCE-Investors-Have-Opportunity-to-Join-NeuroPace-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:a8aa61ea0425f08a",
+      "titleEn": "AADX Investors Have Opportunity to Join Applied Aerospace &amp; Defense, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261121090460/en/AADX-Investors-Have-Opportunity-to-Join-Applied-Aerospace-Defense-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
@@ -109,24 +118,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261120575689/en/Advanced-Micro-Devices-Inc.-Investigated-on-Behalf-of-Investors-with-100000-or-More-in-Losses---Contact-the-DJS-Law-Group-to-Discuss-Your-Rights-%E2%80%93-AMD/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7ff0979e6e217954",
-      "titleEn": "TechCreate Group Ltd. Provides Update on NYSE American Delisting Proceedings",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261120520754/en/TechCreate-Group-Ltd.-Provides-Update-on-NYSE-American-Delisting-Proceedings/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:df9472e770e872c2",
-      "titleEn": "Methuselah Advisors Issues Open Letter to the Board of Directors of NVIDIA Corporation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261120875888/en/Methuselah-Advisors-Issues-Open-Letter-to-the-Board-of-Directors-of-NVIDIA-Corporation/",
       "published": null
     }
   ]
