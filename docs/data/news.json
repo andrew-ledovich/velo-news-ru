@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-11-21T08:56:22.660635Z",
+  "generatedAt": "2026-11-21T16:30:47.625127Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 14,
   "items": [
+    {
+      "id": "stockanalysis:54a2bbeb0b78d7fe",
+      "titleEn": "Will Jensen Huang's ouster push founders to secure more voting rights?",
+      "summaryEn": "Buy Meta (META). If founders respond to Huang’s ouster by pushing for more control, the market will reward companies with proven, durable governance that already concentrates voting power (Zuckerberg’s dual-class). META’s structure reduces the chance of disruptive governance fights during leadership crises, supporting steadier execution and capital allocation. Key Risk: Regulators or investors successfully pressure Meta to unwind dual-class voting, or a major governance/legal event forces a structural change. Sell NVDA. The article frames Huang’s exit as a national-security/espionage narrative that governance (even dual-class) can’t fix. That keeps a credibility and execution overhang on the new leadership, even with strong near-term results. The market will keep discounting “key-person + investigation risk” until the probe outcome is clean.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/11/21/will-jensen-huangs-ouster-push-founders-to-secure-more-voting-rights/",
+      "published": null
+    },
     {
       "id": "stockanalysis:ec1ef0e27994f4a2",
       "titleEn": "Gold falls toward $3,500, silver slides as stock markets enter correction territory - Kitco PM Report",
@@ -60,7 +69,7 @@
     {
       "id": "stockanalysis:0bf4fc6854bfdac2",
       "titleEn": "'Grand Theft Auto VI' takes record $3.8 billion on first day",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: \"Grand Theft Auto VI\" brought in $3.79 billion in retail sales on its first day, publisher Rockstar Games said Friday, calling it the biggest launch for any entertainment product in history. The figure, based on company estimates of worldwide sales through the end of Thursday, is nearly five times the roughly $800 million that predecessor \"Grand Theft Auto V\" took in during its first 24 hours in 2013.",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Sales of \"Grand Theft Auto VI\" generated a record $3.79 billion in first-day retail sales, maker Rockstar Games said Friday, underscoring the enormous demand for the first new installment in the blockbuster series in 13 years. The worldwide figure was based on company estimates through the end of the day Thursday, the day the game launched. Rockstar also said in a release that it sold 32.5 million units prerelease, setting a record across platforms.",
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://techxplore.com/news/2026-11-grand-theft-auto-vi-billion.html",
@@ -82,42 +91,6 @@
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://techxplore.com/news/2026-11-anthropic-falls-day-ipo.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ed13c8bdf15db783",
-      "titleEn": "PayPal stock falls 4% as leadership shake-up tests turnaround strategy",
-      "summaryEn": "Buy PayPal (PYPL). The stock is down hard (−82% from highs) and the shake-up is targeted: new CFO (Claire Bramley), clearer business accountability, and AI-led cost simplification. The bull case is that only modest branded-checkout growth (2–3%) is needed while Venmo, BNPL, and Braintree merchant tools keep compounding. You’re paying for pessimism; the catalyst is early-February results and any credible 2027 “investment year” spending discipline. Key Risk: They fail to stop transaction/revenue share losses, so the turnaround becomes just cost-cutting without growth. Sell PayPal (PYPL) if management guidance for 2027 remains non-committal. The article highlights investor caution and recent downgrades tied to market-share losses and declining transaction revenue. If the new leadership can’t show measurable traction in Venmo/BNPL/Braintree adoption or doesn’t quantify margin and growth targets, the market will re-rate the stock lower again.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/20/paypal-stock-falls-4-as-leadership-shake-up-tests-turnaround-strategy/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8f0b993043b95c26",
-      "titleEn": "Why Intel shares are falling over 5% on Friday?",
-      "summaryEn": "Buy Intel (INTC). The selloff is driven by AI spending anxiety and PC weakness, but the article also shows real foundry momentum: first external customer for 18A-P and Microsoft as a named EMIB packaging customer for Azure silicon. That combination supports a rerating from “struggling PC chipmaker” toward “credible contract manufacturing + packaging supplier,” which is exactly what investors are currently discounting. Key Risk: Intel fails to convert 18A-P/EMIB wins into sustained, profitable volume—manufacturing delays or yield problems keep revenue growth weak and the stock stays a value trap. Sell AMD (AMD). The news flow is chip-sector-wide: investors are reassessing AI profitability and data-center spending timelines, and sentiment is still deteriorating even after positive AI headlines (Anthropic IPO). In that environment, high-expectation AI beneficiaries get hit hardest first, and AMD is exposed to the same “AI spend timing” narrative.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/20/why-intel-shares-are-falling-over-5-on-friday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a637beb5ae16b0e4",
-      "titleEn": "Buy the dip: Société Générale sees gold hitting $5,000 in 2027 despite sharp selloff",
-      "summaryEn": "(Kitco News) - Fears that persistent inflation will force the Federal Reserve to extend its tightening cycle into early 2027 have pushed gold prices down 8.5% this week, marking the precious metal&#x27;s worst weekly decline since mid-March. Despite the selloff, one bank continues to view lower prices as a buying opportunity. According to its updated Multi Asset Portfolio outlook, Société Générale remains overweight in gol d heading into the first quarter of 2027, even as it takes profits in energy and reduces its broader commodity holdings. In its latest report, published Friday, SocGen said it had reduced its combined commodities and gold allocation to 15%, down from 20% in September. However, the bank maintained its 10% allocation to gold while cutting its exposure to global commodities to 5%.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-20/buy-dip-societe-generale-sees-gold-hitting-5000-2027-despite-sharp-selloff",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:861aeabf54750295",
-      "titleEn": "Why Broadcom shares are down over 11% on Friday",
-      "summaryEn": "Buy iShares Semiconductor ETF (SOXX). The news is bad for one name (AVGO) but the bigger driver is sector-wide de-risking and multiple compression across semis. If Nvidia/AI sentiment stabilizes even slightly, SOXX tends to rebound faster than single stocks because it diversifies away customer concentration risk and captures broad mean reversion in beaten-down semis. Key Risk: AI/semis selloff accelerates (another leg of Nvidia weakness or regulatory shock) and sector multiples keep falling, overwhelming any mean-reversion bounce. Sell Broadcom (AVGO). The stock is getting hit from both sides: Google cut planned 2027 TPU 8i shipments by ~1M units (~20% of expected volume), concentrated in the higher-priced 8i Max, which directly threatens future custom-accelerator share. At the same time, the market is compressing AI semis multiples (Goldman cut the 12-month target to $460 on 25x vs 30x), so even “good” results may not re-rate. Thesis: demand concentration + volume cuts + multiple compression keep pressure on the next leg down into Dec 9 earnings.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/20/why-broadcom-shares-are-down-over-11-on-friday/",
       "published": null
     },
     {
