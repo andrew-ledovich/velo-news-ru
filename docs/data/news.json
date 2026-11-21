@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-11-20T20:50:10.233765Z",
+  "generatedAt": "2026-11-21T01:51:36.986944Z",
   "sourceCount": 1,
-  "count": 22,
+  "count": 18,
   "items": [
+    {
+      "id": "stockanalysis:5ab1d02269092515",
+      "titleEn": "Gold price could drop $300 if $3,500/oz fails, and buyers might hold off until the Fed – Walsh Trading's Lusk",
+      "summaryEn": "(Kitco News) – Gold ’s selloff is deepening on Friday, and if $3,500 – or $3,573 in futures – doesn’t hold, the yellow metal could quickly tumble $300 further, with buyers unlikely to reverse its course until early December, according to Sean Lusk, co-director of commercial hedging at Walsh Trading. Lusk told Kitco News on Friday that he’d been expecting gains from gold as recently as two weeks ago. “I still think gridlock in Congress is going to be inflationary and drive gold higher,” he said. “But for right now, this is just a liquidated shitshow. [Gold is] following equities lower, and obviously a hawkish Fed, two enemies here. That&#x27;s caused some trepidation.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-20/gold-price-could-drop-300-if-3500oz-fails-and-buyers-might-hold-until-fed",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5c90f3f10983fd8c",
+      "titleEn": "Michael Burry takes profits on Nvidia puts as chip stocks extend sell-off",
+      "summaryEn": "Burry took profits on 50% of his NVDA puts while leaving longer-dated Nasdaq 100 bearish exposure. That signals the near-term downside impulse is fading even if the bigger tech bear case remains. Trade: sell NVDA put spreads (e.g., sell NVDA 1–3 month puts) or buy short-dated NVDA calls to capture a bounce/volatility crush after a “good earnings, still falling” week. Key Risk: A fresh leg down driven by new China/export or regulatory headlines that overwhelms the earnings support. Burry increased MercadoLibre by 20% alongside “absolute relative strength” in select names. MELI is a high-quality beneficiary of LatAm e-commerce penetration and tends to hold up better than US mega-cap tech during risk-off rotations. Trade: buy MELI shares (or a call spread) as capital rotates from semis/QQQ weakness into stronger relative performers.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/11/20/michael-burry-takes-profits-on-nvidia-puts-as-chip-stocks-extend-sell-off/",
+      "published": null
+    },
     {
       "id": "stockanalysis:9839e4fa3935ce49",
       "titleEn": "Anthropic falls more than 9% day after record IPO",
@@ -15,18 +33,18 @@
     {
       "id": "stockanalysis:ed13c8bdf15db783",
       "titleEn": "PayPal stock falls 4% as leadership shake-up tests turnaround strategy",
-      "summaryEn": null,
+      "summaryEn": "Buy PayPal (PYPL). The stock is down hard (−82% from highs) and the shake-up is targeted: new CFO (Claire Bramley), clearer business accountability, and AI-led cost simplification. The bull case is that only modest branded-checkout growth (2–3%) is needed while Venmo, BNPL, and Braintree merchant tools keep compounding. You’re paying for pessimism; the catalyst is early-February results and any credible 2027 “investment year” spending discipline. Key Risk: They fail to stop transaction/revenue share losses, so the turnaround becomes just cost-cutting without growth. Sell PayPal (PYPL) if management guidance for 2027 remains non-committal. The article highlights investor caution and recent downgrades tied to market-share losses and declining transaction revenue. If the new leadership can’t show measurable traction in Venmo/BNPL/Braintree adoption or doesn’t quantify margin and growth targets, the market will re-rate the stock lower again.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "AI",
       "link": "https://invezz.com/news/2026/11/20/paypal-stock-falls-4-as-leadership-shake-up-tests-turnaround-strategy/",
       "published": null
     },
     {
       "id": "stockanalysis:8f0b993043b95c26",
       "titleEn": "Why Intel shares are falling over 5% on Friday?",
-      "summaryEn": null,
+      "summaryEn": "Buy Intel (INTC). The selloff is driven by AI spending anxiety and PC weakness, but the article also shows real foundry momentum: first external customer for 18A-P and Microsoft as a named EMIB packaging customer for Azure silicon. That combination supports a rerating from “struggling PC chipmaker” toward “credible contract manufacturing + packaging supplier,” which is exactly what investors are currently discounting. Key Risk: Intel fails to convert 18A-P/EMIB wins into sustained, profitable volume—manufacturing delays or yield problems keep revenue growth weak and the stock stays a value trap. Sell AMD (AMD). The news flow is chip-sector-wide: investors are reassessing AI profitability and data-center spending timelines, and sentiment is still deteriorating even after positive AI headlines (Anthropic IPO). In that environment, high-expectation AI beneficiaries get hit hardest first, and AMD is exposed to the same “AI spend timing” narrative.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "AI",
       "link": "https://invezz.com/news/2026/11/20/why-intel-shares-are-falling-over-5-on-friday/",
       "published": null
     },
@@ -42,16 +60,16 @@
     {
       "id": "stockanalysis:861aeabf54750295",
       "titleEn": "Why Broadcom shares are down over 11% on Friday",
-      "summaryEn": null,
+      "summaryEn": "Buy iShares Semiconductor ETF (SOXX). The news is bad for one name (AVGO) but the bigger driver is sector-wide de-risking and multiple compression across semis. If Nvidia/AI sentiment stabilizes even slightly, SOXX tends to rebound faster than single stocks because it diversifies away customer concentration risk and captures broad mean reversion in beaten-down semis. Key Risk: AI/semis selloff accelerates (another leg of Nvidia weakness or regulatory shock) and sector multiples keep falling, overwhelming any mean-reversion bounce. Sell Broadcom (AVGO). The stock is getting hit from both sides: Google cut planned 2027 TPU 8i shipments by ~1M units (~20% of expected volume), concentrated in the higher-priced 8i Max, which directly threatens future custom-accelerator share. At the same time, the market is compressing AI semis multiples (Goldman cut the 12-month target to $460 on 25x vs 30x), so even “good” results may not re-rate. Thesis: demand concentration + volume cuts + multiple compression keep pressure on the next leg down into Dec 9 earnings.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "AI",
       "link": "https://invezz.com/news/2026/11/20/why-broadcom-shares-are-down-over-11-on-friday/",
       "published": null
     },
     {
       "id": "stockanalysis:75cbd2a4e52bff77",
       "titleEn": "These 3 stocks are must-own for investors who missed Anthropic IPO",
-      "summaryEn": null,
+      "summaryEn": "Buy Nvidia. It has the cleanest “picks-and-shovels” link: it bought Anthropic shares in the $26B placement and also supplies Nvidia-powered compute capacity via multiple agreements (including SpaceXAI/Nscale and Microsoft Azure). If Claude demand ramps, cloud providers will expand GPU orders and Nvidia systems revenue should rise even when Anthropic rents capacity from others. Key watch: incremental Nvidia system orders tied to Claude’s next compute wave. Key Risk: Claude’s next growth uses far more non-Nvidia chips (or Nvidia capacity gets deprioritized), cutting GPU/system orders despite the equity stake. Buy Amazon. The payoff is more earnings-linked than pure stock appreciation: Anthropic committed to spend at least $110B with Amazon (May 2026–Apr 2036, with shortfall provisions). That makes AWS capacity demand easier to underwrite, and Trainium/Bedrock distribution gives Amazon multiple ways to monetize. Even if Anthropic’s share price is choppy, AWS margins should benefit as capacity is built and operated.",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/11/20/these-3-stocks-are-must-own-for-investors-who-missed-anthropic-ipo/",
@@ -60,34 +78,34 @@
     {
       "id": "stockanalysis:eb92aae171f7924d",
       "titleEn": "SpaceX stock slips: why its 8.26% bond yield matters",
-      "summaryEn": null,
+      "summaryEn": "Sell SpaceX equity (SPCX) and buy the higher-yielding SpaceX debt only if you can access it at a discount to par. The 8.259% yield signals investors demand a big risk premium for the lease-funded AI buildout; that premium should persist until lease coverage is proven. Debt holders get paid before equity, so the equity’s downside is larger than the debt’s upside if AI payback slips. Key Risk: AI lease coverage breaks—customers don’t pay enough (lower usage and/or lower pricing), forcing refinancing or impairing cash flow. Sell SPCX outright. The company is locking in years of lease payments (~$40B principal across the arrangement) while revenue from Vera Rubin-era capacity is uncertain. The bond pricing (8.259% vs ~5.95% IG) is the market saying the expansion is not yet “self-funding” on credible terms for shareholders.",
       "source": "Stock Analysis",
-      "topic": "CRYPTO",
+      "topic": "AI",
       "link": "https://invezz.com/news/2026/11/20/spacex-stock-slips-why-its-8-26-bond-yield-matters/",
       "published": null
     },
     {
       "id": "stockanalysis:194a0a4e7d1a1606",
       "titleEn": "Why CoreWeave and Nebius stocks are falling on Friday?",
-      "summaryEn": null,
+      "summaryEn": "Sell CoreWeave. The news confirms the core problem: neocloud optimism is fading even after Anthropic’s IPO, while investors keep punishing heavy debt and rising borrowing costs. Add the overhang from Nvidia ecosystem scrutiny and Bernstein’s Sell/low target—this is a setup for continued multiple compression, not a quick rebound. Key Risk: Credit conditions ease fast and capital markets re-open for high-debt AI infrastructure, letting CoreWeave refinance on better terms. Sell Nebius. It’s down harder than CoreWeave and the same thesis applies: debt-heavy GPU rental economics get hit first when AI sentiment cools and funding tightens. Nvidia-linked regulatory/political risk also spills into Nebius because it depends on the same high-end chip supply chain.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "AI",
       "link": "https://invezz.com/news/2026/11/20/why-coreweave-and-nebius-stocks-are-falling-on-friday/",
       "published": null
     },
     {
       "id": "stockanalysis:173051ecdb12c41a",
       "titleEn": "Why is Tesla stock falling over 3% today?",
-      "summaryEn": null,
+      "summaryEn": "Buy exposure to SpaceX upside via a high-beta proxy: buy RKLB (Rocket Lab). The article centers on a potential SpaceX strategic move and capital needs for AI/data centers—both increase demand for space/launch and space infrastructure. If the market starts treating SpaceX as a strategic acquirer/AI-enabled platform, RKLB should benefit from “space industrialization” sentiment even if TSLA stays volatile. Key Risk: SpaceX deal talk fades and the market reverts to treating space/launch as a low-priority, capital-constrained sector. Sell TSLA. The news is a valuation story, not an operating one: HSBC’s upgrade to Hold still leaves downside, and the merger rationale is “control,” not near-term synergies. If any deal is stock-based, dilution risk is the core threat—Gary Black’s example (Marvell/Lumentum) shows premiums can evaporate fast when the buyer’s shares fall. Until terms are real, the market will keep pricing a worst-case dilution/uncertainty discount.",
       "source": "Stock Analysis",
-      "topic": "EV",
+      "topic": "AI",
       "link": "https://invezz.com/news/2026/11/20/why-is-tesla-stock-falling-over-3-today/",
       "published": null
     },
     {
       "id": "stockanalysis:3ed40301798465e3",
       "titleEn": "Anthropic IPO closes at $93.5B after full greenshoe, $119.5B with placement",
-      "summaryEn": null,
+      "summaryEn": "Buy ANT. Full greenshoe + immediate trading above $83 signals real demand, and the $119.5B total raise plus ~$132B cash gives a rare runway to fund compute even if revenue growth pauses. Lock-up until after Q3 next year limits near-term supply, so dips should get bought as the market prices in “funded growth” rather than “cash burn.” Key Risk: Compute spending outruns monetization and the first public quarter shows revenue growth stalling hard enough to overwhelm the cash cushion. Buy NVDA (or AMD). The private placement buyers (including Nvidia and AMD) are also key suppliers of chips/memory/cloud capacity; that alignment increases odds Anthropic’s compute buildout translates into sustained orders. Second-order: as Anthropic scales, it pulls forward capex from its infrastructure partners, supporting margins and utilization across the AI hardware stack.",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/11/20/anthropic-ipo-close-93-5bn-2026-11-20/",
@@ -105,16 +123,16 @@
     {
       "id": "stockanalysis:a5c35505e300b3c1",
       "titleEn": "Nvidia stock falls for seventh day as Damodaran flags risks and $140 entry",
-      "summaryEn": null,
+      "summaryEn": "Buy NVDA with a limit order around $140. The stock is down hard on leadership/China headlines, but the core AI demand and operating strength haven’t broken. Damodaran’s $140 “breakeven” level implies the market may be over-discounting near-term governance noise versus long-run intrinsic value. Add only if the price reaches the level; otherwise wait. Key Risk: The China probe leads to a sustained export ban or forced structural changes that permanently cut Nvidia’s China revenue and margins. Sell NVDA downside via put spreads (e.g., buy a higher-strike put and sell a lower-strike put) around current levels. The thesis is that the market is pricing a worst-case governance/China outcome, but Damodaran’s scenarios suggest limited equity damage if disruption stays short-term. You’re monetizing the gap between headline-driven fear and the probability-weighted intrinsic value range.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "AI",
       "link": "https://invezz.com/news/2026/11/20/nvidia-stock-falls-for-seventh-day-as-damodaran-flags-risks-and-140-entry/",
       "published": null
     },
     {
       "id": "stockanalysis:a92cdf3eca8e2908",
       "titleEn": "Anthropic stock forecast: ANT price targets point to 28% upside on average",
-      "summaryEn": null,
+      "summaryEn": "Buy Anthropic (ANT) outright. The Street’s first wave targets cluster around ~$125 vs ~$97 close (~28% upside), and the bull cases are anchored to rapid revenue scale (run-rate ~$81bn by late Oct) with “generational” AI demand. Even if earnings lag, the market is paying for growth and model adoption; the next catalyst is the first public quarter to validate the revenue trajectory and compute-to-revenue conversion. Key Risk: Quarterly revenue growth slows further (or guidance disappoints), forcing analysts to cut revenue multiples and leaving targets like $150–$155 as wishful thinking. Sell short the most valuation-sensitive AI-adjacent exposure: Nvidia (NVDA). The article flags an AI selloff that hit NVDA/AMD alongside ANT; if ANT’s first-quarter test disappoints, the market will de-risk the whole AI complex, and NVDA’s higher expectations make it the fastest to reprice.",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/11/20/anthropic-stock-forecast-price-targets-2026-11-20/",
@@ -123,7 +141,7 @@
     {
       "id": "stockanalysis:8be9aa22da5c1ea5",
       "titleEn": "Anthropic stock price falls nearly 10% on day two as AI selloff hits ANT",
-      "summaryEn": null,
+      "summaryEn": "Buy Anthropic (ANT) after the ~10% day-two selloff. The stock is still above the $83 IPO price, and the underwriter over-allotment is already exercised, reducing the chance of “banks covering” support later. That means price discovery is now more about fundamentals than mechanical flows—so a controlled rebound is likely if AI sentiment stabilizes. Targets: reclaim the $92–$97 zone where it traded Thursday, then push toward the low-$100s. Key Risk: AI selloff deepens and ANT breaks below the $83 IPO floor, forcing a broader de-rating of new AI listings. Sell Nvidia (NVDA) and AMD (AMD) into weakness. The article ties ANT’s drop to a broad AI selloff plus multiple negative catalysts for chips: export-control tightening, the AMD firmware allegation overhang, and broader risk-off after a fragile AI trade. Even if ANT rebounds, chip stocks can stay pressured longer because policy and competitive headlines hit the whole supply chain.",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/11/20/anthropic-stock-price-day-two-2026-11-20/",
@@ -139,66 +157,12 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ec798474e44050b9",
-      "titleEn": "Anthropic IPO haul hits $93.5B: buy ANT on the pullback?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/20/anthropic-ipo-haul-hits-93-5b-buy-ant-on-the-pullback/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8cc1c2634301cdd8",
-      "titleEn": "Nasdaq falls as Anthropic slides, dragging AI stocks into weekly selloff",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/20/nasdaq-falls-as-anthropic-slides-dragging-ai-stocks-into-weekly-selloff/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b46a6fe6ea8a45e0",
-      "titleEn": "Why AMD shares are tumbling over 6% on Friday?",
+      "id": "stockanalysis:09a8ef32210ef4eb",
+      "titleEn": "Bentley Systems, Incorporated Declares Fourth Quarter 2026 Dividend",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/20/why-amd-shares-are-tumbling-over-6-on-friday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:08204f3fd7b164d2",
-      "titleEn": "Gold heads for worst week in eight months as silver slides below $42 - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in early U.S. trading Friday, extending their recent selloff as a firm U.S. dollar, expectations for additional Federal Reserve interest rate increases and broad selling across financial markets pressured precious metals. Gold remained near its lowest level since September 2025 and was headed for its worst weekly performance in approximately eight months, while silver suffered heavier losses amid concerns about industrial demand and tighter financial conditions. Renewed tensions surrounding the Strait of Hormuz provided little support to bullion as investors continued reducing commodity exposure. Spot gold was trading near $3,558.20 an ounce, down $66.00, or 1.82%, while silver was trading near $41.650 an ounce, down $1.110, or 2.59%. Gold had traded as low as $3,513.70 during the session, while silver touched $40.990. Thursday&#x27;s U.S. economic data reinforced concerns about slowing economic activity but offered little relief from persistent inflation pressure. Initial claims for unemployment benefits increased to 203,000 during the week ended Nov. 14, up from the previous week&#x27;s revised 202,000 , while continuing claims rose to 1.763 million from 1.693 million. The Philadelphia Fed&#x27;s November manufacturing index declined sharply to 6.3 from 20.9 in October , indicating substantially slower regional factory growth. However, the survey&#x27;s prices paid index jumped to 58.2 from 43.2, its highest reading since April, highlighting renewed pressure on manufacturers&#x27; input costs. The figures followed earlier reports showing October retail sales increased 0.2%, industrial production declined 0.4% and building permits fell 7.4%. The combination of weakening economic activity and elevated inflation complicates the Federal Reserve&#x27;s monetary policy outlook, with persistent price pressures continuing to limit expectations for a less restrictive policy stance.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-20/gold-heads-worst-week-eight-months-silver-slides-below-42-kitco-am-report",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6d543feea332b4e2",
-      "titleEn": "Intuit stock falls 9% on FY27 revenue forecast cut, Mailchimp sale; analysts cut PTs",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/20/intuit-stock-falls-9-on-fy27-revenue-forecast-cut-mailchimp-sale-analysts-cut-pts/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6ea825348159bd8b",
-      "titleEn": "GE HealthCare Foundation announces 2026 grants to expand maternal and pediatric care in underserved communities",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261120084087/en/GE-HealthCare-Foundation-announces-2026-grants-to-expand-maternal-and-pediatric-care-in-underserved-communities/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:14681e9c45e162ac",
-      "titleEn": "53rd Consecutive Year of Dividend Increases for United Bankshares, Inc.",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261120991562/en/53rd-Consecutive-Year-of-Dividend-Increases-for-United-Bankshares-Inc./",
+      "link": "https://www.businesswire.com/news/home/20261120438159/en/Bentley-Systems-Incorporated-Declares-Fourth-Quarter-2026-Dividend/",
       "published": null
     }
   ]
