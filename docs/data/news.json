@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-22T08:52:10.598415Z",
+  "generatedAt": "2026-11-22T16:45:37.357556Z",
   "sourceCount": 1,
-  "count": 15,
+  "count": 13,
   "items": [
     {
       "id": "stockanalysis:54a2bbeb0b78d7fe",
@@ -64,24 +64,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.kitco.com/news/article/2026-11-20/gold-price-could-drop-300-if-3500oz-fails-and-buyers-might-hold-until-fed",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0bf4fc6854bfdac2",
-      "titleEn": "'Grand Theft Auto VI' takes record $3.8 billion on first day",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Sales of \"Grand Theft Auto VI\" generated a record $3.79 billion in first-day retail sales, maker Rockstar Games said Friday, underscoring the enormous demand for the first new installment in the blockbuster series in 13 years. The worldwide figure was based on company estimates through the end of the day Thursday, the day the game launched. Rockstar also said in a release that it sold 32.5 million units prerelease, setting a record across platforms.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://techxplore.com/news/2026-11-grand-theft-auto-vi-billion.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5c90f3f10983fd8c",
-      "titleEn": "Michael Burry takes profits on Nvidia puts as chip stocks extend sell-off",
-      "summaryEn": "Burry took profits on 50% of his NVDA puts while leaving longer-dated Nasdaq 100 bearish exposure. That signals the near-term downside impulse is fading even if the bigger tech bear case remains. Trade: sell NVDA put spreads (e.g., sell NVDA 1–3 month puts) or buy short-dated NVDA calls to capture a bounce/volatility crush after a “good earnings, still falling” week. Key Risk: A fresh leg down driven by new China/export or regulatory headlines that overwhelms the earnings support. Burry increased MercadoLibre by 20% alongside “absolute relative strength” in select names. MELI is a high-quality beneficiary of LatAm e-commerce penetration and tends to hold up better than US mega-cap tech during risk-off rotations. Trade: buy MELI shares (or a call spread) as capital rotates from semis/QQQ weakness into stronger relative performers.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/11/20/michael-burry-takes-profits-on-nvidia-puts-as-chip-stocks-extend-sell-off/",
       "published": null
     },
     {
