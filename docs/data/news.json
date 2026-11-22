@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T01:45:09.303671Z",
+  "generatedAt": "2026-11-22T08:52:10.598415Z",
   "sourceCount": 1,
   "count": 15,
   "items": [
@@ -85,6 +85,15 @@
       "published": null
     },
     {
+      "id": "stockanalysis:d7af56e3a604a0fd",
+      "titleEn": "BDSX Investors Have Opportunity to Join Biodesix, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261121517616/en/BDSX-Investors-Have-Opportunity-to-Join-Biodesix-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:a0d111948beec01c",
       "titleEn": "NRIX Investors Have Opportunity to Join Nurix Therapeutics, Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
@@ -127,15 +136,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261121090460/en/AADX-Investors-Have-Opportunity-to-Join-Applied-Aerospace-Defense-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:c2b8aed3f5cb2feb",
-      "titleEn": "Santander Holdings USA, Inc. Announces Pricing Terms and Results of Offer to Purchase for Cash Any and All 4.100% Senior Notes due 2029",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261120178307/en/Santander-Holdings-USA-Inc.-Announces-Pricing-Terms-and-Results-of-Offer-to-Purchase-for-Cash-Any-and-All-4.100-Senior-Notes-due-2029/",
       "published": null
     }
   ]
