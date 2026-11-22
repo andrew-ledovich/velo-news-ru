@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-11-22T16:45:37.357556Z",
+  "generatedAt": "2026-11-22T22:12:39.559859Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 17,
   "items": [
+    {
+      "id": "stockanalysis:9995e62d50f923f7",
+      "titleEn": "Nvidia faces US accounting probe amid deepening turmoil",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: U.S. securities regulators are investigating the accounting practices of Nvidia, according to U.S. media, adding to the turmoil engulfing the artificial intelligence chip giant following the resignation of its chief executive. The Securities and Exchange Commission (SEC) inquiry is in its early stages, The New York Times reported Saturday, citing people briefed on the confidential investigation.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-11-nvidia-accounting-probe-deepening-turmoil.html",
+      "published": null
+    },
     {
       "id": "stockanalysis:54a2bbeb0b78d7fe",
       "titleEn": "Will Jensen Huang's ouster push founders to secure more voting rights?",
@@ -58,66 +67,93 @@
       "published": null
     },
     {
-      "id": "stockanalysis:5ab1d02269092515",
-      "titleEn": "Gold price could drop $300 if $3,500/oz fails, and buyers might hold off until the Fed – Walsh Trading's Lusk",
-      "summaryEn": "(Kitco News) – Gold ’s selloff is deepening on Friday, and if $3,500 – or $3,573 in futures – doesn’t hold, the yellow metal could quickly tumble $300 further, with buyers unlikely to reverse its course until early December, according to Sean Lusk, co-director of commercial hedging at Walsh Trading. Lusk told Kitco News on Friday that he’d been expecting gains from gold as recently as two weeks ago. “I still think gridlock in Congress is going to be inflationary and drive gold higher,” he said. “But for right now, this is just a liquidated shitshow. [Gold is] following equities lower, and obviously a hawkish Fed, two enemies here. That&#x27;s caused some trepidation.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-20/gold-price-could-drop-300-if-3500oz-fails-and-buyers-might-hold-until-fed",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d7af56e3a604a0fd",
-      "titleEn": "BDSX Investors Have Opportunity to Join Biodesix, Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:216e155047faec2d",
+      "titleEn": "DRUG Investors Have Opportunity to Join Bright Minds Biosciences Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261121517616/en/BDSX-Investors-Have-Opportunity-to-Join-Biodesix-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20261122289766/en/DRUG-Investors-Have-Opportunity-to-Join-Bright-Minds-Biosciences-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
-      "id": "stockanalysis:a0d111948beec01c",
-      "titleEn": "NRIX Investors Have Opportunity to Join Nurix Therapeutics, Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:df038cf367d3bc25",
+      "titleEn": "TE Investors Have Opportunity to Join T1 Energy Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261121449424/en/NRIX-Investors-Have-Opportunity-to-Join-Nurix-Therapeutics-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20261122983614/en/TE-Investors-Have-Opportunity-to-Join-T1-Energy-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
-      "id": "stockanalysis:0245ffe46855b9c1",
-      "titleEn": "CNXC Investors Have Opportunity to Join Concentrix Corporation Fraud Investigation with SBS Law",
+      "id": "stockanalysis:cf00c74d08eb2c38",
+      "titleEn": "GLBE Investors Have Opportunity to Join Global-E Online Ltd. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261121969940/en/CNXC-Investors-Have-Opportunity-to-Join-Concentrix-Corporation-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20261122729068/en/GLBE-Investors-Have-Opportunity-to-Join-Global-E-Online-Ltd.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
-      "id": "stockanalysis:852f1d09f2479fa5",
-      "titleEn": "BLLN Investors Have Opportunity to Join BillionToOne, Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:84f272c0be84f686",
+      "titleEn": "SNEX Investors Have Opportunity to Join StoneX Group Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261121479111/en/BLLN-Investors-Have-Opportunity-to-Join-BillionToOne-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20261122720034/en/SNEX-Investors-Have-Opportunity-to-Join-StoneX-Group-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
-      "id": "stockanalysis:7b76710b57aa734d",
-      "titleEn": "NPCE Investors Have Opportunity to Join NeuroPace, Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:715872b64618e705",
+      "titleEn": "LQDT Investors Have Opportunity to Join Liquidity Services, Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261121941303/en/NPCE-Investors-Have-Opportunity-to-Join-NeuroPace-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20261122469670/en/LQDT-Investors-Have-Opportunity-to-Join-Liquidity-Services-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     },
     {
-      "id": "stockanalysis:a8aa61ea0425f08a",
-      "titleEn": "AADX Investors Have Opportunity to Join Applied Aerospace &amp; Defense, Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:83c997fd81989fbd",
+      "titleEn": "TEVA Investors Have Opportunity to Join Teva Pharmaceutical Industries Limited Fraud Investigation with SBS Law",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261121090460/en/AADX-Investors-Have-Opportunity-to-Join-Applied-Aerospace-Defense-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20261122879740/en/TEVA-Investors-Have-Opportunity-to-Join-Teva-Pharmaceutical-Industries-Limited-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8b16cdb66f911e7e",
+      "titleEn": "NTES Investors Have Opportunity to Join NetEase, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261122415698/en/NTES-Investors-Have-Opportunity-to-Join-NetEase-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:6372d5c3030693e2",
+      "titleEn": "LKQ Investors Have Opportunity to Join LKQ Corporation Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261122193943/en/LKQ-Investors-Have-Opportunity-to-Join-LKQ-Corporation-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dd3c8c121d441d19",
+      "titleEn": "CTBI Investors Have Opportunity to Join Community Trust Bancorp, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261122287168/en/CTBI-Investors-Have-Opportunity-to-Join-Community-Trust-Bancorp-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f64beb637c46a7f7",
+      "titleEn": "IRTC Investors Have Opportunity to Join iRhythm Holdings, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261122044597/en/IRTC-Investors-Have-Opportunity-to-Join-iRhythm-Holdings-Inc.-Fraud-Investigation-with-SBS-Law/",
       "published": null
     }
   ]
