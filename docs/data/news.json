@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-21T21:52:04.221320Z",
+  "generatedAt": "2026-11-22T01:45:09.303671Z",
   "sourceCount": 1,
-  "count": 13,
+  "count": 15,
   "items": [
     {
       "id": "stockanalysis:54a2bbeb0b78d7fe",
@@ -85,6 +85,33 @@
       "published": null
     },
     {
+      "id": "stockanalysis:a0d111948beec01c",
+      "titleEn": "NRIX Investors Have Opportunity to Join Nurix Therapeutics, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261121449424/en/NRIX-Investors-Have-Opportunity-to-Join-Nurix-Therapeutics-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0245ffe46855b9c1",
+      "titleEn": "CNXC Investors Have Opportunity to Join Concentrix Corporation Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261121969940/en/CNXC-Investors-Have-Opportunity-to-Join-Concentrix-Corporation-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:852f1d09f2479fa5",
+      "titleEn": "BLLN Investors Have Opportunity to Join BillionToOne, Inc. Fraud Investigation with SBS Law",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261121479111/en/BLLN-Investors-Have-Opportunity-to-Join-BillionToOne-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "published": null
+    },
+    {
       "id": "stockanalysis:7b76710b57aa734d",
       "titleEn": "NPCE Investors Have Opportunity to Join NeuroPace, Inc. Fraud Investigation with SBS Law",
       "summaryEn": null,
@@ -109,15 +136,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261120178307/en/Santander-Holdings-USA-Inc.-Announces-Pricing-Terms-and-Results-of-Offer-to-Purchase-for-Cash-Any-and-All-4.100-Senior-Notes-due-2029/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:fbc534b9134ef0de",
-      "titleEn": "Advanced Micro Devices, Inc. Investigated on Behalf of Investors with $100,000 or More in Losses - Contact the DJS Law Group to Discuss Your Rights – AMD",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261120575689/en/Advanced-Micro-Devices-Inc.-Investigated-on-Behalf-of-Investors-with-100000-or-More-in-Losses---Contact-the-DJS-Law-Group-to-Discuss-Your-Rights-%E2%80%93-AMD/",
       "published": null
     }
   ]
