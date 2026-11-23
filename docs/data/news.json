@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-11-23T02:43:22.455959Z",
+  "generatedAt": "2026-11-23T11:16:59.422675Z",
   "sourceCount": 1,
-  "count": 17,
+  "count": 12,
   "items": [
+    {
+      "id": "stockanalysis:c7ee68e4ed776ad8",
+      "titleEn": "Samsung, SK Hynix stocks plunge sharply: why over $8 billion has not calmed markets",
+      "summaryEn": "Buy. The selloff is being driven by AI sentiment and foreign outflows, not by collapsing orders: Samsung says next-year high-bandwidth memory supply is effectively sold out. With KOSPI down sharply and a government backstop signaling potential stabilization, the stock is set up for a fast mean-reversion once panic selling slows. Key catalyst is that order visibility (scarcity) should cap downside even if the market is volatile. Key Risk: AI data-center spending gets delayed and Samsung is forced to cut memory prices despite “sold out” supply claims. Buy. SK Hynix has contracts with 14 major customers covering more than half of planned 2027–2028 capacity, which should protect earnings power through the next cycle. The current drop is amplified by a Wall Street semiconductor rout and foreign selling, while fundamentals (customer coverage) argue the market is overshooting. Expect stabilization as oversold conditions meet any support-fund headlines.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/23/samsung-sk-hynix-stocks-fall-south-korea-rescue-plan/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:683fe3745ac716c9",
+      "titleEn": "Nvidia stock: Trump pushes for Jensen Huang's return, but will the board listen?",
+      "summaryEn": "Buy NASDAQ:NVDA. The selloff is being driven by governance noise (CEO reinstatement fight) plus headline regulatory risk (SEC/accounting probe, China/export-control questions). Meanwhile, fundamentals are still accelerating: fiscal Q3 revenue $115.8B (+103%) and data-center sales $107.6B (+110%), with Q4 guidance around $130B. If the board holds the line, the market can still re-rate on earnings power and AI demand staying intact; a named CEO outcome is a catalyst, not the core driver. Key Risk: A real, material regulatory/accounting finding that forces restatements, fines, or blocks China-related revenue. Sell NASDAQ:NVDA short. The thesis is that governance uncertainty will persist: interim CEO (Colette Kress), board refusal to reinstate Huang, and an SEC investigation create a long “overhang” that keeps multiples compressed even if revenue is strong. If investors fear engineering churn or customer pauses while compliance questions linger, the stock can stay in a penalty box until leadership and regulatory clarity arrive.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/23/nvidia-stock-trump-pushes-for-jensen-huangs-return-but-will-the-board-listen/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7e1a46342b1c3c0c",
+      "titleEn": "Amazon Nears $7.5 Billion Purchase of AI Startup Decart",
+      "summaryEn": "Amazon is reportedly closer to a $7.5 billion deal to acquire artificial intelligence startup Decart . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a report Saturday (Nov. 21) by the Financial Times (FT), citing sources familiar with the matter. The report notes that the purchase of Decart, whose software allows AI models to function more efficiently and free up computer chip capacity, helps Amazon Web Services compete with Nvidia .",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-purchase-of-ai-startup-decart/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:56f4870107510386",
+      "titleEn": "GTCR Weighs Buyout of Global Payments Days After Earlier Effort Ended",
+      "summaryEn": "Private equity firm GTCR is exploring a potential acquisition of payment processing solution provider Global Payments , according to GTCR’s Friday (Nov. 20) filing with the Securities and Exchange Commission . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); GTCR said in the filing that it is evaluating the move and has made no definitive decision.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/acquiring/2026/gtcr-weighs-buyout-of-global-payments-days-after-earlier-effort-ended/",
+      "published": null
+    },
     {
       "id": "stockanalysis:9995e62d50f923f7",
       "titleEn": "Nvidia faces US accounting probe amid deepening turmoil",
@@ -22,138 +58,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:ec1ef0e27994f4a2",
-      "titleEn": "Gold falls toward $3,500, silver slides as stock markets enter correction territory - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in late U.S. trading Friday, extending their recent selloff as a historic technology-led equity market decline and expectations for additional Federal Reserve interest rate increases pressured precious metals. Gold approached the psychologically important $3,500 level, trading at its lowest prices since September 2025, while silver suffered even heavier losses amid concerns about industrial demand and deteriorating global risk sentiment. The metals failed to benefit from sharply lower Treasury yields as investors reduced exposure to commodities alongside equities. At 5 p.m. ET, spot gold was trading near $3,537.90 an ounce, down $86.30, or 2.38%, while silver was trading near $41.120, down $1.637, or 3.83%, on the session. Gold traded as low as $3,502.93 during the day, while silver touched $40.660. Friday&#x27;s U.S. economic data offered some evidence of easing inflation expectations and improving consumer sentiment, although the figures provided little relief to precious metals amid the broader financial-market selloff. The University of Michigan&#x27;s final November consumer sentiment index increased to 51.5 from 48.0 in October, a 7.3% monthly improvement and its highest reading since August. The current economic conditions index rose to 49.4 from 46.7, while the expectations index increased to 52.9 from 48.8. More significantly for monetary policy, consumers&#x27; one-year inflation expectations declined to 3.7% from 4.7% in October, while longer-term expectations eased to 3.3% from 3.5%. The improvement reflected some relief from falling gasoline prices and expectations for changes in economic policy following the midterm elections. However, concerns about artificial intelligence valuations and recent stock market losses continued to weigh on households with substantial financial assets. The figures followed Thursday&#x27;s weaker jobless claims and Philadelphia Fed manufacturing reports, reinforcing the increasingly uneven outlook for economic growth and inflation.",
+      "id": "stockanalysis:8c186d96c56f69fd",
+      "titleEn": "PayPo Taps Citigroup and JPMorgan for Possible Warsaw IPO",
+      "summaryEn": "Polish buy now, pay later (BNPL) firm PayPo is preparing for a potential initial public offering in Warsaw, Poland, with the help of Citigroup , JPMorgan Chase & Co. and Polish investment bank Ipopema Securities SA , Bloomberg reported Friday (Nov. 20), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The IPO could take place as soon as next year, and it could raise several hundred million dollars, according to the report.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/paypo-taps-citigroup-and-jpmorgan-for-possible-warsaw-ipo/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:2bda7714b20c46dd",
+      "titleEn": "United States: TotalEnergies Strengthens its Partnership with Continental Resources to Develop its Gas Production",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261122060678/en/United-States-TotalEnergies-Strengthens-its-Partnership-with-Continental-Resources-to-Develop-its-Gas-Production/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:58086b856b142914",
+      "titleEn": "Q3 2026 Earnings Release: Cadeler Delivers Robust Revenue Growth Alongside Continued Strong Execution and Investments in Its Full-Scope Foundation Installation Capabilities",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261122415874/en/Q3-2026-Earnings-Release-Cadeler-Delivers-Robust-Revenue-Growth-Alongside-Continued-Strong-Execution-and-Investments-in-Its-Full-Scope-Foundation-Installation-Capabilities/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ff22824b225aad5e",
+      "titleEn": "ConocoPhillips announces agreement to sell Norway business and Teesside asset to Vår Energi",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261122120682/en/ConocoPhillips-announces-agreement-to-sell-Norway-business-and-Teesside-asset-to-V%C3%A5r-Energi/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8820181cda1a9382",
+      "titleEn": "Huckleberry.ai Issues Statement on Delaware Court of Chancery Decision",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-11-20/gold-falls-toward-3500-silver-slides-stock-markets-enter-correction",
+      "link": "https://www.businesswire.com/news/home/20261122195665/en/Huckleberry.ai-Issues-Statement-on-Delaware-Court-of-Chancery-Decision/",
       "published": null
     },
     {
-      "id": "stockanalysis:85f6d79ace354ef7",
-      "titleEn": "There are five trillion reasons not to give up on gold just yet",
-      "summaryEn": "(Kitco News) - There is no denying that this week’s price action delivered a gut punch to gold and silver investors. But while the precious metals may be down, they are certainly not out. And there could be 5 trillion new reasons why gold prices rally in the months ahead. While rising bond yields and expectations of further Federal Reserve rate hikes have created significant headwinds for gold, the bigger picture remains unchanged. Gold continues to play an important role as a hedge against growing sovereign debt risks. In a report published Friday, as gold prices tested support at $3,500, CIBC Capital Markets warned that the U.S. government could hit its $41.1 trillion debt ceiling as early as late February, setting up another contentious political showdown in Washington. The report might not make major headlines, but it provides a glimmer of light on a dark day. The bank estimates that Congress may eventually need to raise the debt ceiling by nearly $5 trillion to provide enough borrowing capacity through the 2028 elections. That is an extraordinary amount of money, even by Washington&#x27;s increasingly extravagant spending standards. The bigger question is what another massive increase in the debt ceiling means for confidence in U.S. government debt and the U.S. dollar. We saw a glimpse of this dynamic in August, when gold rallied as the Treasury announced an expanded debt buyback program. Although designed to support market liquidity, the program highlighted the growing challenges of managing America&#x27;s enormous debt burden. A $5 trillion increase in borrowing authority could bring those concerns back into focus. Société Générale is already positioning for this possibility. In its latest multi-asset outlook, the French bank identified the approaching debt ceiling as a potential catalyst for renewed dollar weakness and higher gold prices. SocGen maintained its 10% portfolio allocation to gold and continues to recommend buying price dips. The bank expects gold to reach $5,000 an ounce by the end of 2027. Of course, another debt ceiling confrontation could initially create liquidity pressures that weigh on gold, particularly if investors are forced to raise cash. But that would not undermine the longer-term investment case. The Federal Reserve can raise interest rates to fight inflation, but monetary policy cannot solve Washington&#x27;s structural debt problem. Gold doesn&#x27;t need a sovereign debt crisis to thrive. It only needs investors to question how much longer the current fiscal trajectory can continue. And with another $5 trillion potentially on the horizon, that question isn&#x27;t going away.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-20/there-are-five-trillion-reasons-not-give-gold-just-yet",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:0ae7c4e50ba44078",
-      "titleEn": "Wall Street stays bearish after gold's slide to $3,500, Main Street pessimism deepens ahead of holiday week",
-      "summaryEn": "(Kitco News) – Gold prices suffered another brutal weekly decline as increasingly hawkish Federal Reserve rate expectations, surging Treasury yields, and a stronger U.S. dollar overwhelmed safe-haven demand, while a deepening technology-led equity selloff triggered widespread liquidations and drove the precious metal to its lowest level in over a year. Spot gold kicked off the week trading at $3,869.30 per ounce on Sunday evening, and the yellow metal briefly attempted to stabilize following the previous week&#x27;s sharp decline, with prices setting their weekly high at $3,901.40 per ounce on Monday. But the recovery quickly faded as markets continued to price in another Fed rate hike in December, while persistent inflation concerns and lingering tensions surrounding Iran and the Strait of Hormuz provided little support. Selling pressure intensified Tuesday after October retail sales rose just 0.2%, while stronger core spending failed to ease concerns about inflation. Gold broke decisively below $3,800 on Wednesday as the dollar strengthened, and the decline accelerated after the minutes from the Fed&#x27;s October meeting showed policymakers remained firmly committed to further tightening, with some officials considering a larger 50-basis-point increase in December.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-20/wall-street-stays-bearish-after-golds-slide-3500-main-street-pessimism",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cab26da6c15a8b05",
-      "titleEn": "Gold and silver suffer brutal losses as liquidity crunch deepens, but analysts see signs of a bottom",
-      "summaryEn": "(Kitco News) - Liquidity demands are once again punishing gold and silver , with both precious metals seeing their worst weekly declines since March as investors scramble to raise cash amid growing turmoil in global equity markets. Gold prices are down roughly 9.5% this week as they test critical support at $3,500 an ounce. At the same time, silver prices have fallen more than 15%, testing support around $41 an ounce. Silver is seeing its worst week since the start of the year as prices continue to sell off from their record highs near $120 an ounce. Analysts note that gold and silver have been hit by a tidal wave of selling as major equity indices drop on growing fears surrounding the artificial intelligence sector and potential pushback against data center buildouts. Analysts explained that the robust liquidity of gold and silver make them go-to assets for investors who need to raise capital to protect their portfolios.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.kitco.com/news/article/2026-11-20/gold-and-silver-suffer-brutal-losses-liquidity-crunch-deepens-analysts-see",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e24a126c12267c1c",
-      "titleEn": "Gold and silver could return to mid-2025 levels as inflation-hedge bid evaporates – SIA's Cieszynski",
-      "summaryEn": "(Kitco News) – Gold ’s role as an inflation hedge is beginning to work against it as energy prices fall and as a new Congress looks to curtail the administration’s trade tariffs, and the yellow metal is likely to return to the base that launched last year’s parabolic rally, according to Colin Cieszynski, chief market strategist at SIA Wealth Management. Cieszynski noted the massive drop in inflation expectations in the University of Michigan’s consumer sentiment survey on Friday morning, and he said he believes it’s a major driver of gold’s weakness in the session. “I think that&#x27;s why we&#x27;re seeing gold come off as much as we are,” he said. “It&#x27;s not so much the political side; I&#x27;m thinking it&#x27;s more the inflation side, gold as a hedge against inflation.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-20/gold-and-silver-could-return-mid-2025-levels-inflation-hedge-bid-evaporates",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:216e155047faec2d",
-      "titleEn": "DRUG Investors Have Opportunity to Join Bright Minds Biosciences Inc. Fraud Investigation with SBS Law",
+      "id": "stockanalysis:088db5e23f95f826",
+      "titleEn": "BHSI Names Lloyd Haynes Head of Casualty, Asia",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261122289766/en/DRUG-Investors-Have-Opportunity-to-Join-Bright-Minds-Biosciences-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:df038cf367d3bc25",
-      "titleEn": "TE Investors Have Opportunity to Join T1 Energy Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261122983614/en/TE-Investors-Have-Opportunity-to-Join-T1-Energy-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:cf00c74d08eb2c38",
-      "titleEn": "GLBE Investors Have Opportunity to Join Global-E Online Ltd. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261122729068/en/GLBE-Investors-Have-Opportunity-to-Join-Global-E-Online-Ltd.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:84f272c0be84f686",
-      "titleEn": "SNEX Investors Have Opportunity to Join StoneX Group Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261122720034/en/SNEX-Investors-Have-Opportunity-to-Join-StoneX-Group-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:715872b64618e705",
-      "titleEn": "LQDT Investors Have Opportunity to Join Liquidity Services, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261122469670/en/LQDT-Investors-Have-Opportunity-to-Join-Liquidity-Services-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:83c997fd81989fbd",
-      "titleEn": "TEVA Investors Have Opportunity to Join Teva Pharmaceutical Industries Limited Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261122879740/en/TEVA-Investors-Have-Opportunity-to-Join-Teva-Pharmaceutical-Industries-Limited-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8b16cdb66f911e7e",
-      "titleEn": "NTES Investors Have Opportunity to Join NetEase, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261122415698/en/NTES-Investors-Have-Opportunity-to-Join-NetEase-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:6372d5c3030693e2",
-      "titleEn": "LKQ Investors Have Opportunity to Join LKQ Corporation Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261122193943/en/LKQ-Investors-Have-Opportunity-to-Join-LKQ-Corporation-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:dd3c8c121d441d19",
-      "titleEn": "CTBI Investors Have Opportunity to Join Community Trust Bancorp, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261122287168/en/CTBI-Investors-Have-Opportunity-to-Join-Community-Trust-Bancorp-Inc.-Fraud-Investigation-with-SBS-Law/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:f64beb637c46a7f7",
-      "titleEn": "IRTC Investors Have Opportunity to Join iRhythm Holdings, Inc. Fraud Investigation with SBS Law",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261122044597/en/IRTC-Investors-Have-Opportunity-to-Join-iRhythm-Holdings-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "link": "https://www.businesswire.com/news/home/20261122313761/en/BHSI-Names-Lloyd-Haynes-Head-of-Casualty-Asia/",
       "published": null
     }
   ]
