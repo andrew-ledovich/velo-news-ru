@@ -1,114 +1,150 @@
 {
-  "generatedAt": "2026-11-23T11:16:59.422675Z",
+  "generatedAt": "2026-11-23T22:46:28.217876Z",
   "sourceCount": 1,
-  "count": 12,
+  "count": 16,
   "items": [
     {
-      "id": "stockanalysis:c7ee68e4ed776ad8",
-      "titleEn": "Samsung, SK Hynix stocks plunge sharply: why over $8 billion has not calmed markets",
-      "summaryEn": "Buy. The selloff is being driven by AI sentiment and foreign outflows, not by collapsing orders: Samsung says next-year high-bandwidth memory supply is effectively sold out. With KOSPI down sharply and a government backstop signaling potential stabilization, the stock is set up for a fast mean-reversion once panic selling slows. Key catalyst is that order visibility (scarcity) should cap downside even if the market is volatile. Key Risk: AI data-center spending gets delayed and Samsung is forced to cut memory prices despite “sold out” supply claims. Buy. SK Hynix has contracts with 14 major customers covering more than half of planned 2027–2028 capacity, which should protect earnings power through the next cycle. The current drop is amplified by a Wall Street semiconductor rout and foreign selling, while fundamentals (customer coverage) argue the market is overshooting. Expect stabilization as oversold conditions meet any support-fund headlines.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/23/samsung-sk-hynix-stocks-fall-south-korea-rescue-plan/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:683fe3745ac716c9",
-      "titleEn": "Nvidia stock: Trump pushes for Jensen Huang's return, but will the board listen?",
-      "summaryEn": "Buy NASDAQ:NVDA. The selloff is being driven by governance noise (CEO reinstatement fight) plus headline regulatory risk (SEC/accounting probe, China/export-control questions). Meanwhile, fundamentals are still accelerating: fiscal Q3 revenue $115.8B (+103%) and data-center sales $107.6B (+110%), with Q4 guidance around $130B. If the board holds the line, the market can still re-rate on earnings power and AI demand staying intact; a named CEO outcome is a catalyst, not the core driver. Key Risk: A real, material regulatory/accounting finding that forces restatements, fines, or blocks China-related revenue. Sell NASDAQ:NVDA short. The thesis is that governance uncertainty will persist: interim CEO (Colette Kress), board refusal to reinstate Huang, and an SEC investigation create a long “overhang” that keeps multiples compressed even if revenue is strong. If investors fear engineering churn or customer pauses while compliance questions linger, the stock can stay in a penalty box until leadership and regulatory clarity arrive.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/23/nvidia-stock-trump-pushes-for-jensen-huangs-return-but-will-the-board-listen/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7e1a46342b1c3c0c",
-      "titleEn": "Amazon Nears $7.5 Billion Purchase of AI Startup Decart",
-      "summaryEn": "Amazon is reportedly closer to a $7.5 billion deal to acquire artificial intelligence startup Decart . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); That’s according to a report Saturday (Nov. 21) by the Financial Times (FT), citing sources familiar with the matter. The report notes that the purchase of Decart, whose software allows AI models to function more efficiently and free up computer chip capacity, helps Amazon Web Services compete with Nvidia .",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-purchase-of-ai-startup-decart/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:56f4870107510386",
-      "titleEn": "GTCR Weighs Buyout of Global Payments Days After Earlier Effort Ended",
-      "summaryEn": "Private equity firm GTCR is exploring a potential acquisition of payment processing solution provider Global Payments , according to GTCR’s Friday (Nov. 20) filing with the Securities and Exchange Commission . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); GTCR said in the filing that it is evaluating the move and has made no definitive decision.",
+      "id": "stockanalysis:833973f2be2677ce",
+      "titleEn": "Rocket Lab stock is rising today: here's why the downtrend may resume",
+      "summaryEn": "Buy a diversified space-defense/launch supply beneficiary like Lockheed Martin (LMT) or Northrop Grumman (NOC). If Rocket Lab’s execution slips, customers and governments shift spend toward proven primes and established programs, which can lift orders and margins across the defense space. This is the “capital reallocation” effect from Rocket Lab’s credibility gap, not the demand headline. Key Risk: Defense/space budgets stall or procurement shifts away from these primes toward cheaper alternatives, limiting order growth. Sell Rocket Lab (RKLB). The news is bullish on demand/backlog, but the stock is still in a clear downtrend (below $56 support, 50/100-day EMAs, and Supertrend) and the head-and-shoulders pattern points to continuation. The CFO’s “surge” talk doesn’t fix the core issue: Neutron is delayed to 2027 and losses are still large, so investors will keep paying for execution risk rather than backlog optics.",
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/acquiring/2026/gtcr-weighs-buyout-of-global-payments-days-after-earlier-effort-ended/",
+      "link": "https://invezz.com/news/2026/11/23/rocket-lab-stock-is-rising-today-heres-why-the-downtrend-may-resume/",
       "published": null
     },
     {
-      "id": "stockanalysis:9995e62d50f923f7",
-      "titleEn": "Nvidia faces US accounting probe amid deepening turmoil",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: U.S. securities regulators are investigating the accounting practices of Nvidia, according to U.S. media, adding to the turmoil engulfing the artificial intelligence chip giant following the resignation of its chief executive. The Securities and Exchange Commission (SEC) inquiry is in its early stages, The New York Times reported Saturday, citing people briefed on the confidential investigation.",
+      "id": "stockanalysis:48c1077dbea80bfa",
+      "titleEn": "Target and Walmart Are Winning More Shopping Trips. Bigger Baskets Can Wait.",
+      "summaryEn": "Retail growth is becoming a battle for transaction frequency, not basket size. Target, Walmart and Sam’s Club are capturing more shopping occasions, suggesting retailers can gain market share without relying on consumers spending more per purchase. Convenience is driving sales growth but complicating profitability. Same-day delivery, pickup and digital fulfillment create more opportunities to win transactions, but smaller, more frequent orders can increase operating costs and pressure margins. The next retail advantage is profitable transaction growth. Holiday performance will depend not just on traffic and sales gains, but on whether retailers can convert additional purchases into sustainable earnings after discounts and fulfillment expenses.",
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-11-nvidia-accounting-probe-deepening-turmoil.html",
+      "topic": "MACRO",
+      "link": "https://www.pymnts.com/news/retail/2026/target-and-walmart-are-winning-more-shopping-trips-bigger-baskets-can-wait/",
       "published": null
     },
     {
-      "id": "stockanalysis:54a2bbeb0b78d7fe",
-      "titleEn": "Will Jensen Huang's ouster push founders to secure more voting rights?",
-      "summaryEn": "Buy Meta (META). If founders respond to Huang’s ouster by pushing for more control, the market will reward companies with proven, durable governance that already concentrates voting power (Zuckerberg’s dual-class). META’s structure reduces the chance of disruptive governance fights during leadership crises, supporting steadier execution and capital allocation. Key Risk: Regulators or investors successfully pressure Meta to unwind dual-class voting, or a major governance/legal event forces a structural change. Sell NVDA. The article frames Huang’s exit as a national-security/espionage narrative that governance (even dual-class) can’t fix. That keeps a credibility and execution overhang on the new leadership, even with strong near-term results. The market will keep discounting “key-person + investigation risk” until the probe outcome is clean.",
+      "id": "stockanalysis:eb00f3d06bb7e16d",
+      "titleEn": "Why is Tesla stock gaining 12% today?",
+      "summaryEn": "Buy Tesla (TSLA). The catalyst is FSD v15 rolling out to select customers, with JPMorgan framing it as another proof-point of Tesla’s consumer autonomy lead. Reality View + better detection and navigation should drive higher FSD engagement and retention, supporting the $99/month recurring revenue base and strengthening the robotaxi optionality. The stock’s 12% rebound also signals improving risk appetite after the broader tech sell-off. Key Risk: FSD v15 fails to translate into measurable customer upgrades/retention or faces regulatory/accident scrutiny that forces slower rollout. Sell Rivian (RIVN) and Ford (F) on relative weakness. The article highlights Tesla’s head start being raised again, while Rivian/Ford/GM are still tied to later roadmap milestones (Dec 9, 2027, 2028). If Tesla keeps pulling ahead on consumer autonomy, the market will likely re-rate competitors’ timelines downward, pressuring near-term sentiment and multiples.",
+      "source": "Stock Analysis",
+      "topic": "EV",
+      "link": "https://invezz.com/news/2026/11/23/why-is-tesla-stock-gaining-12-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:339f08af06abe533",
+      "titleEn": "CrowdStrike to acquire Zscaler in a $44 billion deal that would create a cybersecurity giant",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: CrowdStrike is buying cloud security company Zscaler in an all-stock deal worth about $43.9 billion, the companies said Monday, in a major acquisition that combines two of the cybersecurity industry's biggest names. The all-stock deal arrives after a string of high-profile hacks hit banks, supermarket fridges and crypto platforms, forcing the White House to shake up its cybersecurity leadership and raising alarms with officials around the world.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/11/21/will-jensen-huangs-ouster-push-founders-to-secure-more-voting-rights/",
+      "link": "https://techxplore.com/news/2026-11-crowdstrike-zscaler-billion-cybersecurity-giant.html",
       "published": null
     },
     {
-      "id": "stockanalysis:8c186d96c56f69fd",
-      "titleEn": "PayPo Taps Citigroup and JPMorgan for Possible Warsaw IPO",
-      "summaryEn": "Polish buy now, pay later (BNPL) firm PayPo is preparing for a potential initial public offering in Warsaw, Poland, with the help of Citigroup , JPMorgan Chase & Co. and Polish investment bank Ipopema Securities SA , Bloomberg reported Friday (Nov. 20), citing unnamed sources. &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); The IPO could take place as soon as next year, and it could raise several hundred million dollars, according to the report.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/paypo-taps-citigroup-and-jpmorgan-for-possible-warsaw-ipo/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:2bda7714b20c46dd",
-      "titleEn": "United States: TotalEnergies Strengthens its Partnership with Continental Resources to Develop its Gas Production",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261122060678/en/United-States-TotalEnergies-Strengthens-its-Partnership-with-Continental-Resources-to-Develop-its-Gas-Production/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:58086b856b142914",
-      "titleEn": "Q3 2026 Earnings Release: Cadeler Delivers Robust Revenue Growth Alongside Continued Strong Execution and Investments in Its Full-Scope Foundation Installation Capabilities",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261122415874/en/Q3-2026-Earnings-Release-Cadeler-Delivers-Robust-Revenue-Growth-Alongside-Continued-Strong-Execution-and-Investments-in-Its-Full-Scope-Foundation-Installation-Capabilities/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ff22824b225aad5e",
-      "titleEn": "ConocoPhillips announces agreement to sell Norway business and Teesside asset to Vår Energi",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261122120682/en/ConocoPhillips-announces-agreement-to-sell-Norway-business-and-Teesside-asset-to-V%C3%A5r-Energi/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8820181cda1a9382",
-      "titleEn": "Huckleberry.ai Issues Statement on Delaware Court of Chancery Decision",
-      "summaryEn": null,
+      "id": "stockanalysis:e528d0622a1e9bf4",
+      "titleEn": "Amazon Acquires Tech and Staff From AI Startup Decart",
+      "summaryEn": "Amazon says it will acquire the technology behind artificial intelligence (AI) startup Decart . &#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() ); With that deal, the company also plans to bring Decart co-founders Dean Leitersdorf , Moshe Shalev , and Orian Leitersdorf and their AI researchers and engineers to Amazon, the tech giant said in a Monday (Nov. 23) news release .",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261122195665/en/Huckleberry.ai-Issues-Statement-on-Delaware-Court-of-Chancery-Decision/",
+      "link": "https://www.pymnts.com/news/acquiring/2026/amazon-acquires-tech-and-staff-from-ai-startup-decart/",
       "published": null
     },
     {
-      "id": "stockanalysis:088db5e23f95f826",
-      "titleEn": "BHSI Names Lloyd Haynes Head of Casualty, Asia",
+      "id": "stockanalysis:a70b5b5037c5b734",
+      "titleEn": "Nvidia reinstates Huang as CEO after Trump intervention",
+      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: Nvidia on Monday reinstated Jensen Huang as chief executive in a stunning reversal that President Donald Trump said followed his own direct contacts with the company's board. Huang resigned two weeks ago over an affair with a woman whom U.S. intelligence agencies suspect of spying for China, a departure that sent Wall Street tumbling and stoked fears for a U.S. economy reliant on the AI investment boom.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://techxplore.com/news/2026-11-nvidia-reinstates-huang-ceo-trump.html",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:56c50b0a87e31d9e",
+      "titleEn": "Gold's recovery may be short-lived as Natixis warns of drop to $3,340",
+      "summaryEn": "(Kitco News) - The gold market is seeing a healthy recovery from last week’s 9% drop, with prices pushing back above $3,600 an ounce. However, one precious metals analyst is warning investors that the market could still have further to fall as higher interest rates, a stronger U.S. dollar and weakening investment demand continue to weigh on the precious metal. In a report published Friday, Bernard Dahdah, a precious metals analyst at Natixis, said that he was not surprised gold prices tested support at $3,500 an ounce. He noted that the bank had highlighted gold’s downside risks in a report published in September. Looking ahead, Dahdah said that gold could fall to $3,340 an ounce by January as the market faces growing headwinds from tighter monetary policy and slowing physical demand.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-23/golds-recovery-may-be-short-lived-natixis-warns-drop-3340",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:64386ab6af1a8871",
+      "titleEn": "Trump says he negotiated Huang's return but lawmakers slam Nvidia's decision",
+      "summaryEn": "Buy NVDA. The market is already rewarding the reinstatement with a sharp rerating, and Trump’s public backing reduces near-term political friction risk. NVDA also benefits from “AI leadership” optics that can pull forward enterprise and government AI spending while Congress focuses on hearings rather than immediate penalties. Key Risk: Congress or regulators find export-control or compliance violations tied to Huang’s reinstatement, triggering fines, sales restrictions, or a forced leadership/strategy change. Buy SOXX. NVDA’s rebound is likely to spill over to the whole AI supply chain as investors treat this as a temporary governance/national-security overhang rather than a fundamental demand break. A broad AI-semi bid also hedges single-name hearing headline risk while keeping upside from continued AI capex momentum.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/23/trump-says-he-negotiated-huangs-return-but-lawmakers-slam-nvidias-decision/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:5ef9e57ad642f415",
+      "titleEn": "Why is Anthropic stock lagging the broader market today?",
+      "summaryEn": "Buy MU. It’s a direct beneficiary of the AI build and, unlike ANT, it participated strongly in Monday’s rally (up ~18.6% on the day). If investors rotate from “AI software/compute providers” into “picks-and-shovels” memory/semis, MU should keep catching bids as data-center capex expands. Key Risk: AI memory demand disappoints or pricing weakens fast enough to reverse the momentum. Sell ANT. It lagged the AI rally despite Nvidia’s surge, and the setup is still dominated by two negatives: (1) growth skepticism after “hyperbolic” 2026, and (2) a massive near-term supply overhang from lock-ups (hundreds of millions of shares into Dec/Jan, more by early Feb). Options imply ~6% daily swings, which is consistent with a stock that can drift lower while volatility stays high. Wait for the supply to clear before re-entering.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/23/why-is-anthropic-stock-lagging-the-broader-market-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:38da473fc6f32486",
+      "titleEn": "Nebius and IREN stocks are rising after Jensen Huang's return: will the gains hold?",
+      "summaryEn": "Buy NBIS. The stock is rebounding hard on Jensen Huang’s return and the “AI capital pipeline” narrative (access to funding to buy Nvidia chips). Earnings show massive revenue acceleration (571%) and improving losses, which fits a momentum + fundamentals setup. If the Nvidia/AI funding story keeps attracting capital, NBIS should keep rerating while it scales revenue. Key Risk: Forward guidance and rising depreciation don’t translate into cash flow—losses widen again and the rally fades. Buy IREN. The article ties the move to Nvidia’s central role in crypto/AI compute funding and a $500B financing push, and IREN’s AI revenue is already the driver (Q1 AI $200M vs mining $28M). With revenue up 66% and losses improving, the market is likely to keep paying for AI-led growth even if mining stays small.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/23/nebius-and-iren-stocks-are-rising-after-jensen-huangs-return-will-the-gains-hold/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d5dddeda98d97402",
+      "titleEn": "LibertyStream Announces Public Filing of Registration Statement on Form S-1 for Proposed U.S. Initial Public Offering",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261122313761/en/BHSI-Names-Lloyd-Haynes-Head-of-Casualty-Asia/",
+      "link": "https://www.businesswire.com/news/home/20261123032306/en/LibertyStream-Announces-Public-Filing-of-Registration-Statement-on-Form-S-1-for-Proposed-U.S.-Initial-Public-Offering/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:16c18b2c0d63ce0c",
+      "titleEn": "Amentum Reports Fourth Quarter and Fiscal Year 2026 Results",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261123229790/en/Amentum-Reports-Fourth-Quarter-and-Fiscal-Year-2026-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7ac653159ed6f7b1",
+      "titleEn": "Valvoline Inc. to Participate in Morgan Stanley's Global Consumer &amp; Retail Conference",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261123400591/en/Valvoline-Inc.-to-Participate-in-Morgan-Stanley%E2%80%99s-Global-Consumer-Retail-Conference/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:922d9463d2a0e948",
+      "titleEn": "NRC Health Announces Appointment of Ron Farnsworth as Chief Financial Officer",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261123774720/en/NRC-Health-Announces-Appointment-of-Ron-Farnsworth-as-Chief-Financial-Officer/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:b1b61684974fdf8e",
+      "titleEn": "LCNB Corp. Announces New Stock Repurchase Program",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261123414006/en/LCNB-Corp.-Announces-New-Stock-Repurchase-Program/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c37e8c408f7008f7",
+      "titleEn": "The Coca-Cola Company Names David Elkins as Incoming Chief Financial Officer",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261123769603/en/The-Coca-Cola-Company-Names-David-Elkins-as-Incoming-Chief-Financial-Officer/",
       "published": null
     }
   ]
