@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-11-25T02:38:53.873303Z",
+  "generatedAt": "2026-11-25T11:42:18.685141Z",
   "sourceCount": 1,
-  "count": 11,
+  "count": 16,
   "items": [
+    {
+      "id": "stockanalysis:03330601564c347a",
+      "titleEn": "Micron stock hit by brutal 54% price-target cut: is buying the dip a mistake?",
+      "summaryEn": "Buy MU. The selloff is driven by a target cut and a faster-than-expected return to DRAM/NAND balance. But the article shows earnings power is still exceptional (Q4 revenue and EPS far above last year) and AI server demand is still pulling forward memory needs (Dell AI backlog and AI-optimized server revenue). With MU already down ~47% from its June peak and trading at a low forward multiple on near-term guidance, the risk/reward favors buying while the market is extrapolating a future trough too aggressively. Key catalyst: share repurchases (up to $35.16B) starting 9 Dec can cushion downside if sentiment stays weak. Key Risk: Memory pricing doesn’t just normalize earlier—it collapses faster than expected, pushing MU earnings toward BNP’s 2029 trough sooner than the market models. Buy DELL as a second-order beneficiary. If hyperscalers delay some capacity plans in 2028, that hits memory demand later—but it also tends to shift spending toward “right-sized” AI infrastructure and upgrades, not full stops. Dell’s AI backlog and surge in AI-optimized server revenue suggest it’s capturing that spend even when customers become more selective. If MU’s cycle turns earlier, Dell’s backlog can still convert into revenue while memory pricing is temporarily pressured, creating a relative outperformance setup.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/25/micron-stock-hit-by-brutal-54-price-target-cut-is-buying-the-dip-a-mistake/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:38dfd903a51ee86d",
+      "titleEn": "SoftBank stock is crashing as Anthropic IPO signals a major warning for OpenAI",
+      "summaryEn": "Sell SoftBank. The article shows a clear AI-valuation reset: SoftBank’s stock is at a multi-month low, long-term bond yields are ~10.73% (debt stress), and AI investment gains are collapsing (Vision Fund income down sharply). With the market already punishing Anthropic, investors will re-rate SoftBank’s OpenAI exposure lower and keep discounting future exits/IPO timing. Technicals confirm: below key support (~¥3,392), below moving averages, death cross, ADX ~35—bear trend likely to extend toward ~¥2,000. Key Risk: OpenAI’s IPO (or funding) goes smoothly and the market stops de-rating AI holdings, triggering a fast rebound in SoftBank’s valuation. Sell Arm. SoftBank is the biggest holder, and the article highlights Arm’s collapse (down ~65% from highs) tied to AI bubble fears. If AI multiples compress further, Arm’s growth narrative gets hit again, and SoftBank’s Arm stake becomes a double drag on sentiment and liquidity.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/25/softbank-stock-is-crashing-as-anthropic-ipo-signals-a-major-warning-for-openai/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:93d305755b92245c",
+      "titleEn": "Samsung, SK Hynix stocks tumble 10%: why smart money is heading for exits",
+      "summaryEn": "Foreign investors are exiting Korea’s memory leaders despite record profits; Goldman and Morgan Stanley cut valuation targets hard, signaling the market is repricing the AI memory boom’s durability. The stock is down ~9% and the sell-side program-trading restriction shows broad, forced selling. Sell 005930.KS into weakness; expect further downside as DRAM price forecasts get worse (Goldman sees big DRAM declines into 2028). Key Risk: Memory prices stay firm longer than expected because AI demand outgrows new supply, forcing a fast earnings re-rate. Same driver, even more direct exposure: SK Hynix is the biggest foreign-selling magnet in the KOSPI (massive net outflows since early 2026). The market is treating this as an AI infrastructure de-risking, not a temporary dip—especially after Nvidia and global memory peers sold off sharply. Sell 000660.KS; downside is supported by industry oversupply fears and Goldman’s much lower 2028 profit outlook.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/25/why-samsung-sk-hynix-stocks-are-falling-foreign-investor-selling/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:889ca3ebd786e95a",
+      "titleEn": "Here's why the KOSPI is crashing 5% after Tuesday's historic rally",
+      "summaryEn": "KOSPI reversal is being driven by a renewed semiconductor sell-off (Philadelphia semis -7.9%) and fresh memory-margin fears after Micron’s downgrade and oversupply risk. Samsung is the biggest index weight, so it will keep getting sold until memory pricing expectations stabilize. The stock already fell ~9% in one day—this is where momentum and margin compression fears usually extend for another session or two. Key Risk: Memory prices don’t roll over and AI server demand stays tight enough to keep margins elevated, forcing a fast rebound. Same catalyst, higher sensitivity: SK Hynix is most exposed to DRAM/NAND pricing and any oversupply narrative. With investors questioning whether 2027–2028 availability will crush exceptional margins, the market will likely keep repricing Hynix faster than the broader index. Expect continued foreign selling pressure and weak follow-through after the sharp Tuesday rebound.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/25/kospi-index-today-why-south-korea-stock-market-is-crashing/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:58e6b575e57c29a6",
+      "titleEn": "Why is Xiaomi stock skyrocketing despite a brutal earnings slump?",
+      "summaryEn": "Buy Xiaomi. The stock is rallying on a real operating lever: average smartphone selling price jumped ~40% to a record 1,486 yuan and handset gross margin rose sequentially to 9.2% despite a profit collapse. This suggests Xiaomi is successfully passing through memory-chip cost pressure by shifting mix to premium models (e.g., Xiaomi 18 Pro), which should stabilize margins even if units fall. Add the support of aggressive buybacks (HK$13.1B in 2026 so far), which can cushion downside while margins normalize. Key Risk: Premium pricing fails—if Xiaomi can’t keep raising ASPs and handset gross margin slips back, the earnings slump reasserts itself and the stock gives back gains. Sell Samsung Electronics. The article highlights rising DRAM costs driven by AI data-center demand squeezing consumer electronics margins. Samsung is a key DRAM supplier, so it can look like a beneficiary, but the trade is about second-order risk: if DRAM prices stay high longer, smartphone makers (including Xiaomi) cut shipments and delay upgrades, which can reduce end-demand and eventually pressure volumes and margins for suppliers too. Short Samsung to express the view that the AI-driven memory boom turns into a demand slowdown for the broader electronics cycle.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/25/why-is-xiaomi-stock-up-today-despite-earnings-slump/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8db2eb408f47e87f",
+      "titleEn": "Billionaire Chase Coleman has been buying these 3 AI stocks",
+      "summaryEn": "Buy Nvidia. Tiger Global added ~801k shares and NVDA is now its biggest disclosed holding. The setup is data-center AI spend plus a product cycle: Vera Rubin NVL72 starts shipping, which should let Nvidia sell more “full-stack” infrastructure per data center (including networking) even as clouds build some in-house chips. Key Risk: A major cloud customer shifts more workloads fully to its own accelerators and networking, cutting Nvidia’s share of spend. Buy Intel. Tiger Global increased its stake ~30% because Intel’s server/AI revenue is surging (+78% to $7.3B) while client/other is weak—exactly where AI agents need CPUs to coordinate steps. Add the foundry catalyst: first external customer for 18A-P. If early signings convert into real volume, both the turnaround and foundry narrative re-rate.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/25/billionaire-chase-coleman-has-been-buying-these-3-ai-stocks/",
+      "published": null
+    },
     {
       "id": "stockanalysis:086f00798bf34623",
       "titleEn": "Gold, silver extend losses as tech stocks slide, Fed inflation test looms - Kitco PM Report",
@@ -40,30 +94,48 @@
       "published": null
     },
     {
-      "id": "stockanalysis:8ebde6489d618cb4",
-      "titleEn": "HSBC, J.P. Morgan and StoneX complete first live trades using Pooled Gold Interests (PGI)",
-      "summaryEn": "(Kitco News) – Gold ’s digital evolution passed a major milestone on Tuesday after HSBC, J.P. Morgan and StoneX conducted wholesale-market transactions using Pooled Gold Interests (PGI) for the first time. PGI is the underpinning of the World Gold Council’s Wholesale Digital Gold initiative, and Tuesday’s pilot transactions represent a significant step towards a new way for institutions to own, transfer and use gold. “Loco London physical 400-ounce Good Delivery gold bars were placed into the Wholesale Digital Gold ecosystem, and PGI were created, giving participants proprietary interests over pooled gold,” the WGC said in its announcement. “Once the transactions were settled, the gold was withdrawn from the ecosystem, completing the full lifecycle.”",
+      "id": "stockanalysis:b7cc21696f7e6101",
+      "titleEn": "HAFNIA LIMITED: Update Relating to Dividend for the Third Quarter 2026",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-24/hsbc-jp-morgan-and-stonex-complete-first-live-trades-using-pooled-gold",
+      "link": "https://www.businesswire.com/news/home/20261124377329/en/HAFNIA-LIMITED-Update-Relating-to-Dividend-for-the-Third-Quarter-2026/",
       "published": null
     },
     {
-      "id": "stockanalysis:b071fe623606dffb",
-      "titleEn": "Dollar Tree stock jumps 12% as strong store traffic lifts profit outlook",
-      "summaryEn": "Buy Dollar Tree (DLTR). The stock jumped on a real demand signal: store traffic +3.8% vs +0.4% last quarter, and comps +4.6% with ticket size only +0.8%—so growth is coming from more visits, not just higher spend. Management raised FY2026 adjusted EPS to $8.05–$8.25 (from $7.70–$8.05) and lifted revenue guidance. Multi-price expansion ($1.25/$3/$5+) is aligning with value-seeking behavior ahead of the holidays. Key Risk: Fuel and freight costs spike enough to erase the margin gains from higher traffic, forcing another guidance cut. Buy Dollar General (DG) vs DLTR. If DLTR’s traffic recovery is the start of a broader “discount demand” cycle, DG should benefit too, but DLTR already ran to a 52-week high—DG has more room to catch up if the theme keeps working into the holiday season.",
+      "id": "stockanalysis:5e2a08e59bf91d63",
+      "titleEn": "Rémy Cointreau: 2026-27 First-Half Results",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/24/dollar-tree-stock-jumps-12-as-strong-store-traffic-lifts-profit-outlook/",
+      "link": "https://www.businesswire.com/news/home/20261124604663/en/R%C3%A9my-Cointreau-2026-27-First-Half-Results/",
       "published": null
     },
     {
-      "id": "stockanalysis:72b59a9147d3d1b1",
-      "titleEn": "BCA Research ends four-year bullish gold trade as US dollar, Fed take their toll",
-      "summaryEn": "(Kitco News) - One of the market’s longest-standing gold bulls is officially moving to the sidelines after last week’s selloff pushed prices to a fresh 14-month low, testing support at $3,500 an ounce. In a research note published Friday, Roukaya Ibrahim, Chief Commodities Strategist at BCA Research, said that she is now neutral on gold after being stopped out of her long position when prices dropped below $3,700 an ounce. BCA has been cautious on gold through most of the year as prices have fallen sharply from their record highs around $5,600 an ounce. The Montreal-based research firm saw some initial bullish potential in August, but gold’s momentum quickly faded.",
+      "id": "stockanalysis:a0a2fb5d831bd757",
+      "titleEn": "Ant International and BNY Sign MOU to Explore Next-Generation Treasury, 24/7 FX and Global Payments Innovation",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-24/bca-research-ends-four-year-bullish-gold-trade-us-dollar-fed-take-their",
+      "link": "https://www.businesswire.com/news/home/20261124860461/en/Ant-International-and-BNY-Sign-MOU-to-Explore-Next-Generation-Treasury-247-FX-and-Global-Payments-Innovation/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:f79f293b37fa07f6",
+      "titleEn": "Kioxia to Showcase XL-FLASH™ Generation 3 Technology, the Next-Generation Low-Latency, High-Performance Flash Memory for AI, at KIOXIA Forum",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://www.businesswire.com/news/home/20261124343767/en/Kioxia-to-Showcase-XL-FLASH%E2%84%A2-Generation-3-Technology-the-Next-Generation-Low-Latency-High-Performance-Flash-Memory-for-AI-at-KIOXIA-Forum/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fe6862a23d5ff6c1",
+      "titleEn": "Better 2.0 Publishes Weekly Scorecard, Week 7: Mortgage Operations and Corporate Efficiency, Progress Toward Sale of UK Bank",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261124072679/en/Better-2.0-Publishes-Weekly-Scorecard-Week-7-Mortgage-Operations-and-Corporate-Efficiency-Progress-Toward-Sale-of-UK-Bank/",
       "published": null
     },
     {
@@ -73,33 +145,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261124603192/en/Momentus-Adopts-Limited-Duration-Shareholder-Rights-Agreement/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1230e1f20204a871",
-      "titleEn": "iwoca and Visa launch credit card to widen SME funding choice",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261124276924/en/iwoca-and-Visa-launch-credit-card-to-widen-SME-funding-choice/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:004aef3197b2d8c0",
-      "titleEn": "Dream Industrial Real Estate Investment Trust Announces Offering of C$300 Million Senior Unsecured Debentures, Series J",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261124196518/en/Dream-Industrial-Real-Estate-Investment-Trust-Announces-Offering-of-C300-Million-Senior-Unsecured-Debentures-Series-J/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:25ed2fb12451e5d0",
-      "titleEn": "Yext to Announce Third Quarter Fiscal Year 2027 Financial Results on December 8, 2026",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261124219730/en/Yext-to-Announce-Third-Quarter-Fiscal-Year-2027-Financial-Results-on-December-8-2026/",
       "published": null
     }
   ]
