@@ -1,177 +1,105 @@
 {
-  "generatedAt": "2026-11-24T18:17:17.273604Z",
+  "generatedAt": "2026-11-25T02:38:53.873303Z",
   "sourceCount": 1,
-  "count": 19,
+  "count": 11,
   "items": [
     {
-      "id": "stockanalysis:ff0c3c234ca4ce82",
-      "titleEn": "Gold price testing support near $3,600 as US Consumer Confidence sees sharp rise in November",
-      "summaryEn": "(Kitco News) - Gold prices have dropped to session lows as improving consumer confidence reduces demand for the safe-haven asset. The Consumer Confidence Index jumped to 103.3 in November, up from 91.9 in October, the Conference Board announced Tuesday. The data significantly exceeded economists’ expectations for a reading of around 92.4. “Consumer confidence rallied again in November, potentially due to lower uncertainty following the midterm elections,” said Fergus McCormick, Senior Economist, Global Indicators, at the Conference Board. “After two months of consecutive increases, the headline index is back to levels of confidence last seen in January 2025.”",
+      "id": "stockanalysis:086f00798bf34623",
+      "titleEn": "Gold, silver extend losses as tech stocks slide, Fed inflation test looms - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in late U.S. trading Tuesday, reversing Monday&#x27;s recovery as stronger-than-expected U.S. consumer confidence, renewed concerns about trade tariffs and another technology-led equity selloff pressured precious metals. Gold fell below $3,600.00 an ounce, approaching last week&#x27;s 14-month low, while silver suffered heavier losses as weakness in industrial commodities and broader portfolio liquidation compounded the selling. Bullion failed to benefit from a softer U.S. dollar and slightly lower Treasury yields as investors reduced exposure to metals ahead of Wednesday&#x27;s important U.S. inflation data. At approximately 4:50 p.m. EST, spot gold was trading near $3,552.50 an ounce, down $81.70, or 2.25%, while silver was trading near $40.790, down $2.250, or 5.22%, on the session. Gold traded as low as $3,546.00 during the day, while silver touched $40.570. Tuesday&#x27;s U.S. economic data indicated a substantial improvement in consumer confidence and modestly stronger regional manufacturing activity, reinforcing expectations that underlying economic demand remains resilient despite elevated borrowing costs. The Conference Board&#x27;s November consumer confidence index surged 11.4 points to 103.3 from an upwardly revised 91.9 in October , substantially exceeding expectations near 92.5 and reaching its highest level since January 2025. The present situation index increased to 132.8, while the expectations index rose to 83.6, reflecting improved assessments of business conditions and the labor market. The Richmond Fed&#x27;s manufacturing index also strengthened to 3 from minus 2 in October, with new orders improving to 2 from minus 8 and employment rising to 6 from 3. Meanwhile, September house prices were unchanged on the month, while the national Case-Shiller index increased 2.1% from a year earlier, below the prevailing inflation rate. The combination of improving consumer sentiment, modest manufacturing expansion and subdued housing-price growth highlighted the uneven economic outlook, although the stronger confidence figures reduced immediate concerns about a sharp slowdown in consumer demand.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-24/gold-price-testing-support-near-3600-us-consumer-confidence-sees-sharp-rise",
+      "link": "https://www.kitco.com/news/article/2026-11-24/gold-silver-extend-losses-tech-stocks-slide-fed-inflation-test-looms-kitco",
       "published": null
     },
     {
-      "id": "stockanalysis:686a7c608a8692b8",
-      "titleEn": "Why SpaceX shares are falling on Tuesday?",
-      "summaryEn": "Buy SpaceX (SPCX). The stock is down on AI legal noise and compute-competition worries, but analysts still see durable vertical integration: dominant launch + Starlink cash flows funding AI infrastructure. Even if Grok Imagine faces setbacks, SpaceX’s AI division is already a major revenue contributor and the company can pivot compute leasing while Starlink demand supports the core business. The market is over-discounting near-term headlines versus long-run infrastructure positioning. Key Risk: Courts or regulators force a material shutdown or permanent limits on Grok/X AI features, cutting AI revenue faster than SpaceX can replace it with compute leasing. Sell/short Anthropic-linked exposure (use an AI infrastructure proxy like NVDA puts or a basket short of AI model developers) because the news highlights that SpaceX’s AI revenue can be terminated with 90 days’ notice and that lenders worry about chip deployment. If SpaceX can’t sustain competitive model development, compute-leasing demand could churn, pressuring pricing power across the AI stack.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/24/why-spacex-shares-are-falling-on-tuesday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a1c4a9ec314b0d0b",
-      "titleEn": "Insmed stock surges 14% on Sanofi's $41B acquisition; analysts see strategic fit",
-      "summaryEn": "Buy Insmed (INSM) for the $175 cash deal. The stock already jumped on the announcement, but the spread to the offer price can still pay if deal momentum holds and financing/approvals stay on track. The rationale is simple: Sanofi is paying a big premium and has committed financing; the market will keep repricing toward deal certainty until closing in H1 2027. Key Risk: Deal breaks or gets delayed materially (regulatory/antitrust or financing/terms), widening the spread and forcing INSM down from the offer price. Buy Sanofi (SNY) for a sustained rerating tied to respiratory diversification. The acquisition adds Brinsupri and Arikayce plus late-stage pipeline, directly cushioning the 2031–32 Dupixent patent cliff and improving growth visibility. The thesis is that investors will pay up for a clearer post-2032 revenue path, not just a one-time premium.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/24/insmed-stock-surges-14-on-sanofis-41b-acquisition-analysts-see-strategic-fit/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:560a8275e6daa410",
-      "titleEn": "Why Intel stock is sliding on Tuesday?",
-      "summaryEn": "Nvidia surged 31.5% Monday, then fell ~5% premarket Tuesday as AI profit-taking hit the whole group. That’s a classic overreaction setup: the news flow is still AI-led, and the selloff is broad-market/positioning rather than a fundamental break. Buy NVDA on weakness to capture the next leg of AI demand sentiment. Key Risk: A real demand slowdown shows up (cloud/AI capex guidance cut) rather than just profit-taking. Intel is sliding on a mix of fundamentals and guidance: foundry losses ($1.85B operating loss in Q3), Q4 revenue guide ($15–16B) below expectations (~$17B), and component shortages that could last into 2027. The stock’s Monday pop was tied to an 18A-P external customer win, but the customer wasn’t named and the business is still loss-making. Sell INTC now while the market is de-risking semis after Nvidia’s sharp rebound faded.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/24/why-intel-stock-is-sliding-on-tuesday/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a9d8de361bfadde6",
-      "titleEn": "Meta stock falls as Class C share delay raises questions over AI funding",
-      "summaryEn": "Buy Meta Platforms (META). The Class C issuance is delayed, but the core AI build (chips, data centers, Muse/Enterprise) continues; the market is over-penalizing a timing issue. JPMorgan flags valuation back near pre-Muse levels while still expecting solid fundamentals, and the stock already priced in much of the “spending concern” narrative. If the lawsuit drags, the at-the-market sale just shifts later—not the AI roadmap. Key Risk: The Delaware case ultimately blocks the Class C structure or forces a worse-than-expected capital plan, forcing Meta to cut AI spending or dilute economics. Buy 3–6 month out-of-the-money put options on META. The news creates headline-driven volatility around the April 19, 2027 trial timeline and any interim court rulings. This protects against a renewed selloff if investors reprice the probability of a funding disruption while you hold the META long.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/24/meta-stock-falls-as-class-c-share-delay-raises-questions-over-ai-funding/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:938a95ea8929d888",
-      "titleEn": "Gold struggles to extend rebound as Fed rate hike bets pressure silver - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were modestly lower and silver prices were sharply lower in early U.S. trading Tuesday, as a firm U.S. dollar and expectations for additional Federal Reserve interest rate increases continued to pressure precious metals ahead of key inflation figures. Gold struggled to extend Monday&#x27;s recovery from a 14-month low, while silver gave back part of its recent rebound amid concerns about industrial demand and restrictive monetary policy. Renewed tensions surrounding the Strait of Hormuz provided limited support to bullion as investors remained focused on the outlook for interest rates. At approximately 8:37 a.m. EST, spot gold was trading near $3,621.70 an ounce, down $12.50, or 0.34%, while silver was trading near $42.040 an ounce, down $1.000, or 2.33%, on the session. Gold had traded between $3,606.80 and $3,679.00 during the day, while silver&#x27;s range extended from $41.710 to $44.080. Monday&#x27;s U.S. economic data indicated that business activity continued expanding in November, although growth moderated as elevated prices and tighter financial conditions constrained demand. The preliminary S&P Global U.S. composite purchasing managers&#x27; index declined to 54.6 from 55.9 in October, its lowest reading since July. The manufacturing PMI eased to 54.5 from 54.9, while the services PMI declined to 54.7 from 56.1, falling below expectations for a reading near 55.5. New orders continued increasing but at their slowest pace in four months, while employment growth remained relatively firm as companies worked to reduce outstanding orders. Input costs and selling price increases moderated but remained elevated, reinforcing concerns that inflation could persist above the Federal Reserve&#x27;s target. The figures followed Friday&#x27;s University of Michigan consumer sentiment report, which indicated that one-year inflation expectations declined to 3.7% from 4.7% in October , while longer-term expectations eased to 3.3% from 3.5%. The combination of slowing business activity and persistent price pressure continued to complicate the outlook for monetary policy.",
+      "id": "stockanalysis:90d1c4e702b37fb2",
+      "titleEn": "Gold's selloff is sowing the seeds of its next rally – Theo's Iggy Ioppe",
+      "summaryEn": "(Kitco News) - The gold market continues to struggle to attract consistent bullish momentum as expectations that the Federal Reserve will maintain its hawkish monetary policies into the new year have driven real yields and the U.S. dollar higher, increasing the opportunity cost of holding a non-yielding asset. However, Iggy Ioppe, Chief Investment Officer of Theo Network, a financial and tokenization platform, said that while gold has room to move lower in the near term, investors shouldn’t ignore the long-term, real-world value of holding the precious metal. He added that while most investors are familiar with the old commodity market cliché that “the cure for high commodity prices is high prices,” the opposite is also true, especially when it comes to gold.",
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-24/gold-struggles-extend-rebound-fed-rate-hike-bets-pressure-silver-kitco-am",
+      "link": "https://www.kitco.com/news/article/2026-11-24/golds-selloff-sowing-seeds-its-next-rally-theos-iggy-ioppe",
       "published": null
     },
     {
-      "id": "stockanalysis:f31154cfd4b93881",
-      "titleEn": "Dell stock on edge ahead of earnings as HP Enterprise guidance disappoints",
-      "summaryEn": "Buy HPE. The article shows orders +72% and operating profit +110%, plus pricing power (up to 45% months after contracts) in networking and servers. If Dell’s earnings wobble, investors may rotate to the clearer execution story—HPE is already demonstrating it can monetize demand. Key Risk: HPE’s next-quarter guidance also disappoints or pricing power fades, showing the current AI/server demand surge is temporary. Sell DELL. HPE’s guidance disappointed versus expectations, and Dell is a close read-through for hyperscaler/server demand. With Dell already in a downward trend and options pricing implying a violent move, the skew favors downside if guidance/margins wobble. Target: $300 if the market de-risks AI server spending.",
+      "id": "stockanalysis:e431b40dd2e6f3be",
+      "titleEn": "Huang tells staff that Nvidia does not need a succession plan",
+      "summaryEn": "Buy a basket short NVDA exposure via relative value: short NVDA vs a peer basket like AMD (AMD) + Broadcom (AVGO) (long) and/or use an AI/semiconductor ETF long like SOXX while keeping NVDA as the underperformer. The news is company-specific governance/key-man risk; peers won’t face the same “founder too big to fire” narrative, so NVDA should lag on any governance-driven de-rating. Key Risk: A broader AI/semiconductor selloff overwhelms relative effects and drags peers down with NVDA. Sell NVDA. Huang publicly dismisses succession planning as “flawed,” despite filings warning that lack of succession planning can hurt execution. The stock already priced a “founder premium” rebound; now the market will demand a visible, investor-grade succession/oversight plan. Until the board names a credible internal successor/deputy or formalizes leadership depth, the key-person discount returns and multiple compresses.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/24/dell-stock-on-edge-ahead-of-earnings-as-hp-enterprise-guidance-disappoints/",
+      "link": "https://invezz.com/news/2026/11/24/huang-nvidia-no-succession-plan/",
       "published": null
     },
     {
-      "id": "stockanalysis:9faf93c249d7f72a",
-      "titleEn": "Anthropic shares drop below $83 IPO price in premarket trading: here's why",
-      "summaryEn": "Buy ANT. The stock is being sold for valuation/infrastructure fears, but the news adds a different catalyst: credible “slow/hold back” safety posture. That reduces tail-risk of a major regulatory or product-backlash event and supports enterprise adoption of Claude as a safer, more governable model provider. Also, MSCI index inclusion from Nov 30 can create mechanical demand from passive funds, tightening float after the IPO selloff. Key Risk: A sharp deterioration in AI demand or a broader AI de-rating that overwhelms any index/quality support and keeps ANT stuck below IPO-level multiples. Sell ARKQ (ARK Genomic Revolution ETF) or short a high-beta AI basket exposure like QQQ on rallies. The article shows the pattern: record AI debuts (ANT, SpaceX) quickly reverse as investors reprice stretched valuations and rising capex. Use this to fade “IPO hype” momentum while the market digests infrastructure cost pressure and safety headlines that can delay releases.",
+      "id": "stockanalysis:f1b1055a8359ef48",
+      "titleEn": "Michael Burry maintains Nvidia short thesis despite Jensen Huang's return",
+      "summaryEn": "Buy Tencent (TCEHY / 0700.HK). Burry calls it a “Fortress business” and still undervalued despite AI spending. The second-order angle: if AI spend pressures near-term margins, the market discounts too hard; Tencent’s cash generation and platform moat should absorb the spend and stabilize earnings, making the valuation gap mean-revert. Key Risk: AI spending fails to translate into monetizable products and user growth, causing sustained margin compression and a prolonged earnings reset. Sell NVDA and/or stay short using bearish puts. Even with Jensen Huang back, the core thesis is governance risk plus accounting/antitrust overhang; the rally is leadership optics, not fundamentals. Burry’s own move—cutting puts after the spike but keeping the thesis alive—signals the downside case is still intact while uncertainty remains.",
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/24/anthropic-shares-drop-below-83-ipo-price-in-premarket-trading-heres-why/",
+      "link": "https://invezz.com/news/2026/11/24/michael-burry-maintains-nvidia-short-thesis-despite-jensen-huangs-return/",
       "published": null
     },
     {
-      "id": "stockanalysis:7065284180e3162b",
-      "titleEn": "SpaceX, Tesla push for year-end merger as five directors take charge of talks: report",
-      "summaryEn": "Buy TSLA. The news signals serious, structured merger work (special committees + major banks + target timeline). That usually compresses downside because a deal path reduces the probability of a standalone “bad outcome,” and it creates a bid for Tesla equity ahead of any exchange-ratio talks. Expect volatility, but the direction is up if negotiations progress. Key Risk: Deal breaks or exchange ratio turns clearly unfavorable to Tesla shareholders. Sell any SpaceX-linked private exposure you hold (e.g., secondary shares/notes tied to SpaceX equity). The article highlights governance friction and regulatory risk (US defense/national security) plus Musk-related scrutiny. Even if talks continue, SpaceX’s control structure (Musk’s super-votes) and potential regulatory delays make SpaceX-side equity a worse risk/reward than Tesla-side.",
+      "id": "stockanalysis:8ebde6489d618cb4",
+      "titleEn": "HSBC, J.P. Morgan and StoneX complete first live trades using Pooled Gold Interests (PGI)",
+      "summaryEn": "(Kitco News) – Gold ’s digital evolution passed a major milestone on Tuesday after HSBC, J.P. Morgan and StoneX conducted wholesale-market transactions using Pooled Gold Interests (PGI) for the first time. PGI is the underpinning of the World Gold Council’s Wholesale Digital Gold initiative, and Tuesday’s pilot transactions represent a significant step towards a new way for institutions to own, transfer and use gold. “Loco London physical 400-ounce Good Delivery gold bars were placed into the Wholesale Digital Gold ecosystem, and PGI were created, giving participants proprietary interests over pooled gold,” the WGC said in its announcement. “Once the transactions were settled, the gold was withdrawn from the ecosystem, completing the full lifecycle.”",
       "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://invezz.com/news/2026/11/24/spacex-tesla-push-for-year-end-merger-as-five-directors-take-charge-of-talks-musk/",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-24/hsbc-jp-morgan-and-stonex-complete-first-live-trades-using-pooled-gold",
       "published": null
     },
     {
-      "id": "stockanalysis:52f49066ea6c2de3",
-      "titleEn": "Why is Nvidia stock plunging 5% just a day after its historic comeback?",
-      "summaryEn": "Buy NASDAQ:NVDA. The selloff is driven by politics and export-control noise, but Nvidia’s fundamentals are intact: revenue growth is still explosive and the next-quarter outlook remains huge. The blacklist is about access/controls through distributors, not a proven violation, and Nvidia already assumes no China data-center compute in its forecast—so incremental damage is likely limited versus the market’s 5% giveback. Expect dip-buying once the Senate hearing date is digested and compliance steps (new committee/C-suite) reduce perceived governance risk. Key Risk: A real export-control finding or new rule that directly blocks Nvidia’s ability to sell restricted AI chips into China (not just distributor complications). Sell short SOXX? No—use a cleaner proxy: short NASDAQ:AVGO (Broadcom). It has meaningful AI/infra exposure and is more sensitive to tightening cross-border chip flows and distributor restrictions. If Washington scrutiny expands beyond Nvidia’s specific channels, the market will reprice the whole “AI buildout” supply chain tied to China demand, even if end demand stays strong. This is a momentum/positioning trade against second-round risk: investors rotate away from China-exposed AI infrastructure names after each new blacklist.",
+      "id": "stockanalysis:b071fe623606dffb",
+      "titleEn": "Dollar Tree stock jumps 12% as strong store traffic lifts profit outlook",
+      "summaryEn": "Buy Dollar Tree (DLTR). The stock jumped on a real demand signal: store traffic +3.8% vs +0.4% last quarter, and comps +4.6% with ticket size only +0.8%—so growth is coming from more visits, not just higher spend. Management raised FY2026 adjusted EPS to $8.05–$8.25 (from $7.70–$8.05) and lifted revenue guidance. Multi-price expansion ($1.25/$3/$5+) is aligning with value-seeking behavior ahead of the holidays. Key Risk: Fuel and freight costs spike enough to erase the margin gains from higher traffic, forcing another guidance cut. Buy Dollar General (DG) vs DLTR. If DLTR’s traffic recovery is the start of a broader “discount demand” cycle, DG should benefit too, but DLTR already ran to a 52-week high—DG has more room to catch up if the theme keeps working into the holiday season.",
       "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/24/why-is-nvidia-stock-down-today-after-jensen-huang-return/",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/24/dollar-tree-stock-jumps-12-as-strong-store-traffic-lifts-profit-outlook/",
       "published": null
     },
     {
-      "id": "stockanalysis:281e7e135a50a88d",
-      "titleEn": "iA Financial Group Announces the Closing of a $500 million Sustainability Offering of 4.625% Fixed / Floating Unsecured Subordinated Debentures",
+      "id": "stockanalysis:72b59a9147d3d1b1",
+      "titleEn": "BCA Research ends four-year bullish gold trade as US dollar, Fed take their toll",
+      "summaryEn": "(Kitco News) - One of the market’s longest-standing gold bulls is officially moving to the sidelines after last week’s selloff pushed prices to a fresh 14-month low, testing support at $3,500 an ounce. In a research note published Friday, Roukaya Ibrahim, Chief Commodities Strategist at BCA Research, said that she is now neutral on gold after being stopped out of her long position when prices dropped below $3,700 an ounce. BCA has been cautious on gold through most of the year as prices have fallen sharply from their record highs around $5,600 an ounce. The Montreal-based research firm saw some initial bullish potential in August, but gold’s momentum quickly faded.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-24/bca-research-ends-four-year-bullish-gold-trade-us-dollar-fed-take-their",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c32bc6c57da54fad",
+      "titleEn": "Momentus Adopts Limited Duration Shareholder Rights Agreement",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261124979174/en/iA-Financial-Group-Announces-the-Closing-of-a-500-million-Sustainability-Offering-of-4.625-Fixed-Floating-Unsecured-Subordinated-Debentures/",
+      "link": "https://www.businesswire.com/news/home/20261124603192/en/Momentus-Adopts-Limited-Duration-Shareholder-Rights-Agreement/",
       "published": null
     },
     {
-      "id": "stockanalysis:f688e682b2ed7bde",
-      "titleEn": "From the Demo Crew to the Nasdaq Podium: KBF Design Gallery's Adam Vellequette Joins Anthropic to Ring the Closing Bell on IPO Day",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261124685147/en/From-the-Demo-Crew-to-the-Nasdaq-Podium-KBF-Design-Gallerys-Adam-Vellequette-Joins-Anthropic-to-Ring-the-Closing-Bell-on-IPO-Day/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b424fbaf02c4b176",
-      "titleEn": "LG Ad Solutions Expands Home Screen Verification Capabilities with DoubleVerify",
+      "id": "stockanalysis:1230e1f20204a871",
+      "titleEn": "iwoca and Visa launch credit card to widen SME funding choice",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261124841804/en/LG-Ad-Solutions-Expands-Home-Screen-Verification-Capabilities-with-DoubleVerify/",
+      "link": "https://www.businesswire.com/news/home/20261124276924/en/iwoca-and-Visa-launch-credit-card-to-widen-SME-funding-choice/",
       "published": null
     },
     {
-      "id": "stockanalysis:e5061df95e649882",
-      "titleEn": "Eastman CFO Willie McLain to address the Citi Basic Materials Conference",
+      "id": "stockanalysis:004aef3197b2d8c0",
+      "titleEn": "Dream Industrial Real Estate Investment Trust Announces Offering of C$300 Million Senior Unsecured Debentures, Series J",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261124468203/en/Eastman-CFO-Willie-McLain-to-address-the-Citi-Basic-Materials-Conference/",
+      "link": "https://www.businesswire.com/news/home/20261124196518/en/Dream-Industrial-Real-Estate-Investment-Trust-Announces-Offering-of-C300-Million-Senior-Unsecured-Debentures-Series-J/",
       "published": null
     },
     {
-      "id": "stockanalysis:8f3473c366477a88",
-      "titleEn": "L3Harris to Present at Two Upcoming Investor Conferences",
+      "id": "stockanalysis:25ed2fb12451e5d0",
+      "titleEn": "Yext to Announce Third Quarter Fiscal Year 2027 Financial Results on December 8, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261124188015/en/L3Harris-to-Present-at-Two-Upcoming-Investor-Conferences/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bb1cbbe00e208bb8",
-      "titleEn": "Tradeweb to Present at the Goldman Sachs 2026 U.S. Financial Services Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261124504663/en/Tradeweb-to-Present-at-the-Goldman-Sachs-2026-U.S.-Financial-Services-Conference/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:459a5a82fdbd5b17",
-      "titleEn": "New SPS Supply Chain Readiness Report Highlights the Biggest Hurdle Facing Retailers and Brands Is Operational",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261124979988/en/New-SPS-Supply-Chain-Readiness-Report-Highlights-the-Biggest-Hurdle-Facing-Retailers-and-Brands-Is-Operational/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4bfdac9855d225f3",
-      "titleEn": "GE HealthCare expands CT portfolio with new imaging systems and AI-enabled workflow advancements",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://www.businesswire.com/news/home/20261120029955/en/GE-HealthCare-expands-CT-portfolio-with-new-imaging-systems-and-AI-enabled-workflow-advancements%C2%A0/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d9bee8c6a79a001d",
-      "titleEn": "Sinda Ltd. Authorizes Up to $50 Million Share Repurchase Program",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261124828847/en/Sinda-Ltd.-Authorizes-Up-to-50-Million-Share-Repurchase-Program/",
+      "link": "https://www.businesswire.com/news/home/20261124219730/en/Yext-to-Announce-Third-Quarter-Fiscal-Year-2027-Financial-Results-on-December-8-2026/",
       "published": null
     }
   ]
