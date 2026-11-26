@@ -1,8 +1,134 @@
 {
-  "generatedAt": "2026-11-25T20:39:18.140390Z",
+  "generatedAt": "2026-11-26T03:05:06.343726Z",
   "sourceCount": 1,
-  "count": 23,
+  "count": 22,
   "items": [
+    {
+      "id": "stockanalysis:63457634800d71d4",
+      "titleEn": "Plug Power stock jumped as US indices plunged: Will the gains hold?",
+      "summaryEn": "Buy Plug Power (PLUG) for a squeeze-and-reversion move after the 14% jump. The article shows improving fundamentals (revenue +13%, gross margin improving to -3%, equipment sales $105M, GenDrive deployments 1,136) plus a likely oversold-to-stabilizing setup (RSI not deeply oversold, still below trend indicators). Target $1.25, then reassess for continuation. Key Risk: Another ATM/dilution raise that overwhelms the improved quarter and forces the stock back below $0.80. Sell Plug Power (PLUG) short on rallies if it fails to hold the post-news bounce. The stock is still below all moving averages and the article flags ongoing dilution risk; short interest (~20%) can fuel volatility both ways, but it also means any disappointment can cascade. Use a tight thesis window: if price can’t sustain above the recent spike area, expect a return to the downtrend toward $0.80.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/25/plug-power-stock-jumped-as-us-indices-plunged-will-the-gains-hold/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:76b14e92d90ec5bd",
+      "titleEn": "Why is HP stock one of the top performing stocks in today's session?",
+      "summaryEn": "Buy HP Inc. (HPQ). The stock is ripping on better-than-expected fiscal 2027 earnings guidance, and the company explicitly targets Personal Systems operating margins rising from ~3% toward 5–7% through fiscal 2027. Even if the quarter’s beat had “low-quality” tariff-refund help, the forward margin path plus premium/AI-enabled PC mix is a real catalyst for multiple expansion if PC demand stabilizes. Key Risk: Tariff refunds and accounting noise prove to be the main driver, and margins fail to climb toward 5–7% because PC demand keeps sliding and component costs stay elevated. Sell Dell Technologies (DELL) versus HPQ. Dell also beat earnings and guided better, yet the market punished it (-5% on the day) while HP rallied. That divergence suggests investors are more willing to believe HP’s margin-recovery story than Dell’s, so the relative trade is to fade DELL until it shows the same credible margin trajectory.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/25/why-is-hp-stock-one-of-the-top-performing-stocks-in-todays-session/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:e70276a23f1a5cec",
+      "titleEn": "Top 4 reasons the S&amp;P 500 Index and ETFs like VOO, SPY, IVV are set to rebound",
+      "summaryEn": "Fear & Greed at 15 (extreme fear) plus forward P/E ~16 (lowest in years) sets up a classic “panic selling” rebound. Earnings growth is still strong (~32.9% vs ~29% expected), so the selloff looks more sentiment-driven than fundamentals-driven. Technicals: hold of ~6,900 and a likely move toward ~7,500 supports a near-term bounce. Buy SPY for broad exposure to the rebound. Key Risk: Rates rise again faster than expected, forcing a fresh de-rating of the whole market. The article flags NVDA forward P/E ~16 vs a 5-year average ~40, while the company is actively repurchasing ($150B+) and just delivered strong earnings. If “AI bubble fears” fade, NVDA should rebound harder than the index because it’s the highest-quality AI bellwether and the valuation gap is already priced in. Buy NVDA shares (or NVDA call options for leverage).",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/25/top-4-reasons-the-sp-500-index-and-etfs-like-voo-spy-ivv-are-set-to-rebound/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:95760e39d4791ce7",
+      "titleEn": "Michael Burry plans next Nvidia short near $200",
+      "summaryEn": "Sell short NVDA with the target entry near $200, matching Burry’s stated level during a “period of market optimism.” Rationale: the rally on Jensen Huang’s reinstatement looks like sentiment relief, not a fix for AI capex returns and data-center financing constraints. Use the idea that “business as usual” resumes and the stock mean-reverts from hype-driven pricing. Key Risk: NVDA keeps compounding earnings and free cash flow fast enough that the market stops caring about capex/financing worries and the stock runs well past $200 without a reversal. Buy put options on PLTR (or add to puts) as a cleaner way to express Burry’s remaining bearish stance. Rationale: if AI spending is questioned, software/data platforms tied to enterprise AI budgets can de-rate quickly; PLTR is a high-multiple name where sentiment shifts hit valuation harder than fundamentals.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/25/michael-burry-plans-next-nvidia-short-near-200/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:acba5cfd4a54d1e6",
+      "titleEn": "Disney shares climb to hit fresh 52-week high amid broader market weakness",
+      "summaryEn": "Buy Disney (DIS). The stock just cleared a fresh 52-week high on a real earnings beat: revenue +16% YoY, Experiences operating income +20%, and Streaming subscription revenue +19%. Management also reiterated double-digit adjusted earnings growth into FY2027, raised the dividend 33%, and guided higher content spend plus ~$3B cost savings by FY2029—enough to keep multiple expansion supported after the upgrades. Key Risk: A streaming slowdown or margin compression that proves the earnings beat was a one-off and forces guidance down. Buy IMAX (IMAX). The DIS tie-up to show the Super Bowl in IMAX theaters is a near-term catalyst that can lift premium ticket demand and ad/partner revenue. Second-order effect: if this format works, Disney can expand “event in theaters” partnerships beyond one game, driving more frequent high-visibility releases that benefit IMAX’s utilization.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/11/25/disney-shares-climb-to-hit-fresh-52-week-high-amid-broader-market-weakness/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:7790bffd9987679b",
+      "titleEn": "Ambarella stock: Morgan Stanley cautions against betting on recovery",
+      "summaryEn": "Buy Micron Technology (MU). If the memory shortage is the binding constraint, the most direct upside comes from improving supply/demand balance and pricing as shortages ease. AMBA’s problem is customers cutting orders because memory is scarce and expensive; that dynamic typically flips into better margins and utilization for memory suppliers once supply catches up. Key Risk: Memory prices keep falling (or demand stays weak across cameras/consumer/AI hardware), crushing MU margins even if shortages ease. Sell Ambarella (AMBA). The company guided to $70–$75M revenue vs ~$112M expected, implying a ~37% sequential drop, and Morgan Stanley cut 2027 revenue ~17% to reflect a multi-quarter memory-driven demand hit. With customers rationing scarce memory, Ambarella’s near-term volume recovery depends on new CV7/CV8 chips shipping on time—exactly where delays would extend the slump.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/25/ambarella-stock-morgan-stanley-cautions-against-betting-on-recovery/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:453a6005fcd0a421",
+      "titleEn": "There's still no substitute for 10-15% gold allocation in investor portfolios – Ray Dalio",
+      "summaryEn": "(Kitco News) – Gold is irreplaceable as an effective diversifier in investor portfolios, and a 10% to 15% allocation is the right move regardless of where we are in the investment cycle, according to Bridgewater Associates founder Ray Dalio. In a recent interview, Dalio said the most important starting point for every investor is knowing how much they need for their life to be stable, and securing that amount through safe, diversified investing. “When looking at the amount of money that you have, you have to think of how much it returns after inflation, because you&#x27;re storing buying power.”",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.kitco.com/news/article/2026-11-25/theres-still-no-substitute-10-15-gold-allocation-investor-portfolios-ray",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1dcc5949e391cb27",
+      "titleEn": "Why Anthropic shares are down on Wednesday?",
+      "summaryEn": "Sell short Anthropic (ANT). The article flags a $900B spending plan, likely junk-debt classification, and investors demanding proof of profits—not just breakthroughs. With AI peers also being sold, the path of least resistance is continued multiple compression until financing and unit economics look credible. Key risk: Anthropic secures investment-grade financing (or cheaper capital) and quickly demonstrates strong, durable margins that re-rate the stock. Key Risk: Anthropic gets investment-grade/cheap funding and proves profitable unit economics fast enough to reverse the valuation reset. Short high-yield credit exposure tied to AI infrastructure buildouts (e.g., iShares iBoxx $ High Yield Corporate Bond ETF, HYG). The news points to junk-debt fears and weakening appetite for hyperscaler/AI heavy issuers as borrowing costs rise. If credit spreads widen, equity drawdowns follow—especially for capital-hungry AI names. Key risk: Credit markets stay calm (spreads don’t widen) because investors rotate into AI risk and funding costs fall.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/25/why-anthropic-shares-are-down-on-wednesday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:28d112e3c8faee14",
+      "titleEn": "AMD, Intel stocks sink despite $132B reassurance",
+      "summaryEn": "Buy AMD. The sell-off is about delivery timing and follow-on orders, but AMD’s setup is built for AI server ramps: data center is ~2/3 of revenue, EPYC is already in the mix, and Helios bundles chips into rack systems—so once early deployments land on schedule, repeat orders should follow faster than with standalone chip-only competitors. The market is pricing “delay risk” too aggressively versus the structural AI server demand implied by Dell’s $132B backlog. Key Risk: Helios deployments slip again and early customers don’t place repeat orders, causing AMD’s data-center growth to stall for multiple quarters. Sell Intel. Intel’s AI/data-center growth is real, but it’s more exposed to a “purchase timing” slowdown because its client/PC business is already weak and expected to stay weak through 1H 2027. If customers stretch AI server buying, Intel can’t easily offset with PCs, and the mix shift toward Xeon demand may lag the broader AI server backlog.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/25/amd-intel-stocks-sink-despite-132b-reassurance/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d0e4296802524c80",
+      "titleEn": "Arm stock falls 8% as SoftBank selloff and AI concerns weigh on shares",
+      "summaryEn": "Buy ARM. The 8% drop is driven by SoftBank’s stock plunge and AI de-risking, not a break in Arm’s fundamentals. Arm just posted strong growth (revenue +27% YoY; licensing +50%) and raised confidence with Haas staying through 2033. The market is overreacting to collateral-linked selling pressure and broad tech profit-taking; fundamentals should reassert as SoftBank stabilizes and AI exposure fears fade. Key Risk: SoftBank’s margin loan/collateral pressure triggers sustained selling that drags ARM lower even if Arm’s results keep improving. Sell SoftBank Group (9984.T). The article highlights pledged Arm shares as collateral for a $25B margin loan and a link between SoftBank’s financing position and Arm’s share price. That creates a feedback loop: SoftBank weakness forces more selling pressure, which can worsen SoftBank sentiment and liquidity conditions.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/25/arm-stock-falls-8-as-softbank-selloff-and-ai-concerns-weigh-on-shares/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:ba6d4f54e555933b",
+      "titleEn": "Micron, SanDisk continue their bloodbath; how long will the pain continue?",
+      "summaryEn": "MU is getting punished on fears of weaker DRAM demand and hyperscaler capacity risk, but the selloff is already extreme (down ~1/3 in a month). Memory is cyclical and MU’s server-focused DRAM exposure means it should rebound faster than consumer-heavy peers once cloud/server demand stabilizes and spot pricing stops falling. The key setup is “prices overshoot pessimism” plus a likely later re-rating when contract pricing expectations stop deteriorating. Key Risk: DRAM contract prices keep sliding into next year, forcing MU to cut guidance and extend the downturn longer than the market expects. SNDK is hit by two angles: weaker overall memory sentiment and a specific supply glut risk from rising NAND production (Morningstar flags a post-2028 price squeeze). When NAND prices roll over, earnings leverage is brutal because supply ramps are hard to reverse quickly. The setup is “demand uncertainty + structural oversupply,” which tends to keep the stock under pressure even if AI headlines improve.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/25/micron-sandisk-continue-their-bloodbath-how-long-will-the-pain-continue/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c851ea0e47d32351",
+      "titleEn": "Why Tesla shares are down over 5% on Wednesday?",
+      "summaryEn": "Buy TSLA. The EU-wide approval vote for Tesla Assisted Driving (TAD) is pushed to Dec 15, which is a timing overhang, not a permanent rejection. National approvals already granted could survive even if the EU-wide decision is delayed, and the Model Y ranking drop is mostly noise versus still-strong YoY sales (+51%). The selloff is also being amplified by broad tech/AI valuation pressure and macro fears, creating a better entry for a stock with real regulatory optionality. Key Risk: EU-wide TAD approval gets rejected (or regulators unwind national approvals), turning “delay” into “no.” Sell TSLA and buy SPACEX exposure via a short-dated hedge? Instead: Sell TSLA outright and buy a basket of non-merger mega-cap tech (e.g., QQQ) to avoid merger headline risk. The proposed $3.5T all-stock Tesla–SpaceX merger has “more friction than people assume,” with valuation/governance/shareholder approval unresolved. That uncertainty can keep TSLA volatile even if the robotaxi narrative is intact, because control/valuation fights can drag outcomes beyond year-end.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/25/why-tesla-shares-are-down-over-5-on-wednesday/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:26b8e480923a5c4d",
+      "titleEn": "Gold price falls to session lows as U.S. New Home Sales rise 14.2% in October",
+      "summaryEn": "(Kitco News) - New momentum in the U.S. housing market, as more new homes were bought last month than expected, putting, further pressure on gold as prices are already trading near session lows. Analysts note that a stable housing market reduces gold’s allure as a safe-have asset. New home sales jumped 14.2% last month, the U.S. Census Bureau and the U.S. Department of Housing and Urban Development announced. New home sales came in at a seasonally adjusted annualized rate of 701,000 in October. The numbers were significantly stronger than forecasts, as the market consensus expected sales of 650,000 units. The housing data continues to add to the solid selling pressure in the gold market. Spot gold last traded at $3,427.90 an ounce, down more than 3% on the day.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-25/gold-price-falls-session-lows-us-new-home-sales-rise-142-october",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:8793e918b594e32a",
+      "titleEn": "SpaceX stock falls toward record lows as Anthropic selloff forces an AI revaluation",
+      "summaryEn": "Buy NVDA. If Anthropic’s selloff forces an AI revaluation, the market will still need the same compute—just with tighter budgets and faster consolidation toward the most efficient suppliers. Second-order effect: weaker AI financing increases pressure to standardize stacks and buy proven, high-demand accelerators, which tends to concentrate orders at Nvidia rather than diffuse them across newer/less certain AI players. NVDA also benefits if hyperscalers keep spending but demand better unit economics. Key Risk: AI demand destruction is broad (not just Anthropic): overall AI capex freezes and Nvidia’s order growth meaningfully slows, crushing earnings expectations. Sell SPCX. The article flags a clear technical breakdown (below $120.4 support, below 50-day EMA, below Supertrend) and a fundamental valuation reset risk from Anthropic’s IPO-driven AI spending slowdown. Even with strong revenue growth, the near-term driver is AI customer capex tightening: Anthropic alone pays SpaceX $1B+/month, so any scaling down hits sentiment fast. Sellers likely press toward $105 (August low) before any durable bounce. Key invalidation: reclaim and hold above ~$130.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/25/spacex-stock-falls-toward-record-lows-as-anthropic-selloff-forces-an-ai-revaluation/",
+      "published": null
+    },
     {
       "id": "stockanalysis:836c4e89cff3c750",
       "titleEn": "The silver trade that cost Felix Zulauf 50%, and why he says gold's fall is different",
@@ -15,199 +141,64 @@
     {
       "id": "stockanalysis:846ad6d4bf43bcc4",
       "titleEn": "ASML stock falls 6% as Dutch lawmakers oppose US chip export curbs",
-      "summaryEn": null,
+      "summaryEn": "Buy ASML.US. The selloff is driven by politics, not a collapse in demand—analysts still overwhelmingly rate it Buy/Overweight, and ASML’s lithography moat means China exposure is hard to replace quickly. If the MATCH Act stalls or the Netherlands pushes back effectively, the market will unwind the “China sales hit” fear fast. Key Risk: The US passes MATCH with strong enforcement and ASML can’t sell enough DUV tools to China, cutting revenue and forcing a long earnings reset. Sell SMH. The article shows broad pressure across semis (Intel/AMD/Broadcom and KLA/Lam/AMAT down), meaning investors are de-risking the whole group due to AI valuation worries plus export-control headlines. Even if ASML survives, the sector multiple can keep compressing.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "AI",
       "link": "https://invezz.com/news/2026/11/25/asml-stock-falls-6-as-dutch-lawmakers-oppose-us-chip-export-curbs/",
       "published": null
     },
     {
-      "id": "stockanalysis:3fe023d652182527",
-      "titleEn": "Gold, silver remain under pressure as strong GDP, sticky inflation reinforce Fed hike bets - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in early U.S. trading Wednesday, as stronger-than-expected underlying U.S. inflation and resilient economic growth reinforced expectations for another Federal Reserve interest rate increase in December. Gold remained near its lowest level in more than a year, while silver fell below $40.000 an ounce as weakness in industrial commodities compounded the selling. Renewed shipping threats in the Strait of Hormuz provided little support to bullion as monetary policy expectations and concerns about financial-market liquidity continued to dominate trading. Spot gold was trading near $3,482.30 an ounce, down $72.80, or 2.05%, while silver was trading near $39.290 an ounce, down $1.510, or 3.71%, on the session. Gold had traded as low as $3,469.30 during the morning, while silver touched $39.160. Wednesday morning&#x27;s U.S. economic data reinforced concerns about persistent inflation despite evidence of moderation in some price categories. The October personal consumption expenditures price index increased 0.3% on the month and 3.8% from a year earlier, compared with September&#x27;s annual increase of 3.6%. More significantly, the core PCE index, excluding food and energy, increased 0.3% for a third consecutive month, while annual core inflation accelerated to 3.3% from 3.1%, exceeding expectations for 3.2%. The second estimate of third-quarter gross domestic product was revised higher to an annualized 4.3%, indicating continued economic resilience. Personal income increased 0.7% in October, while consumer spending advanced 0.3%. Initial unemployment claims fell to 189,000 , suggesting that labor market conditions remain comparatively firm despite recent evidence of slowing manufacturing activity. Durable goods orders were weaker than expected overall, although core capital goods orders increased 1.2%. The combination of stronger economic growth, resilient employment and persistent underlying inflation reinforced expectations for restrictive Federal Reserve policy, adding to pressure on gold and silver.",
+      "id": "stockanalysis:363ce5f61858e674",
+      "titleEn": "Organigram and Aurora File Joint Management Information Circular in Support of Arrangement Agreement to Establish a Global Cannabis Leader",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261125239057/en/Organigram-and-Aurora-File-Joint-Management-Information-Circular-in-Support-of-Arrangement-Agreement-to-Establish-a-Global-Cannabis-Leader/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3e35f2187456fe25",
+      "titleEn": "Mene Inc. Reports Financial Results for the Third Quarter 2026, Announces CEO Transition",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261125621877/en/Mene-Inc.-Reports-Financial-Results-for-the-Third-Quarter-2026-Announces-CEO-Transition/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:1707ed68b3c64f24",
+      "titleEn": "Gold Reserve Welcomes Venezuela's Recognition of Siembra Minera as One of the Nation's Most Strategic Mining Assets; Confirms Readiness to Restart Operations and Resolve Outstanding Claims",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-25/gold-silver-remain-under-pressure-strong-gdp-sticky-inflation-reinforce-fed",
+      "link": "https://www.businesswire.com/news/home/20261125315826/en/Gold-Reserve-Welcomes-Venezuela%E2%80%99s-Recognition-of-Siembra-Minera-as-One-of-the-Nation%E2%80%99s-Most-Strategic-Mining-Assets-Confirms-Readiness-to-Restart-Operations-and-Resolve-Outstanding-Claims/",
       "published": null
     },
     {
-      "id": "stockanalysis:4e19754276fe0547",
-      "titleEn": "Why CoreWeave, Nebius and IREN shares are tumbling on Wednesday?",
+      "id": "stockanalysis:b5c4aa258789e2e6",
+      "titleEn": "Deluxe to Webcast Upcoming Investor Day Activities",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/25/why-coreweave-nebius-and-iren-shares-are-tumbling-on-wednesday/",
+      "link": "https://www.businesswire.com/news/home/20261125944363/en/Deluxe-to-Webcast-Upcoming-Investor-Day-Activities/",
       "published": null
     },
     {
-      "id": "stockanalysis:6bfb7d4b723ad0ae",
-      "titleEn": "Gold prices drop another 1% as US Q3 GDP revised to 4.3% with contained PCE inflation",
-      "summaryEn": "(Kitco News) - Solid economic growth in the third quarter and contained inflation pressures have pushed gold prices back below what some analysts have said is a key support level. The Bureau of Economic Analysis announced that the preliminary reading of third-quarter Gross Domestic Product showed the economy grew 4.3% between July and September, up from the initial estimate of 3.4% and up from 2.2% in the second quarter. The data was better than economists expected, as consensus forecasts were looking for a growth rate of 3.5%. “The contributors to the increase in real GDP in the third quarter were increases in investment, consumer spending, and government spending that were partly offset by a decrease in exports. Imports, which are a subtraction in the calculation of GDP, increased,” the report said. “Real GDP was revised up 0.9 percentage point from the advance estimate, primarily reflecting upward revisions to investment and consumer spending.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-25/gold-prices-drop-another-1-us-q3-gdp-revised-43-contained-pce-inflation",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:73f8453b50bcacb5",
-      "titleEn": "Why is Dell stock falling despite record revenue and higher FY27 guidance?",
+      "id": "stockanalysis:f50aee206921dd44",
+      "titleEn": "Viking Takes Delivery of Newest Ocean Ship",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/25/why-is-dell-stock-falling-despite-record-revenue-and-higher-fy27-guidance/",
+      "link": "https://www.businesswire.com/news/home/20261125555085/en/Viking-Takes-Delivery-of-Newest-Ocean-Ship/",
       "published": null
     },
     {
-      "id": "stockanalysis:7804a2d68200b664",
-      "titleEn": "Gold prices drop 1% as US Q3 GDP revised to 4.3% with contained PCE inflation",
-      "summaryEn": "(Kitco News) - Solid economic growth in the third quarter and contained inflation pressures have pushed gold prices back below what some analysts have said is a key support level. The Bureau of Economic Analysis announced that the preliminary reading of third-quarter Gross Domestic Product showed the economy grew 4.3% between July and September, up from the initial estimate of 3.4% and up from 2.2% in the second quarter. The data was better than economists expected, as consensus forecasts were looking for a growth rate of 3.5%. “The contributors to the increase in real GDP in the third quarter were increases in investment, consumer spending, and government spending that were partly offset by a decrease in exports. Imports, which are a subtraction in the calculation of GDP, increased,” the report said. “Real GDP was revised up 0.9 percentage point from the advance estimate, primarily reflecting upward revisions to investment and consumer spending.”",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-25/gold-prices-drop-1-us-q3-gdp-revised-43-contained-pce-inflation",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5cb545a0a7937f44",
-      "titleEn": "Gold price falls to $3,496/oz after U.S. durable goods rise 0.2% in October",
-      "summaryEn": "(Kitco News) - The gold market is trading near session lows after the latest economic data showed sales of durable goods last month came in below expectations. The Commerce Department announced Wednesday that U.S. durable goods orders rose 0.2% in October, following September’s revised increase of 2.0%. The data was below expectations, as the consensus view of economists called for an increase of 0.4%. Core durable goods, which strip out the volatile transportation sector, rose 0.5% in October, in line with the consensus forecast for a 0.5% reading, while June’s core print was revised at 0.5%.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-25/gold-price-falls-3496oz-after-us-durable-goods-rise-02-october",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8c221654360fe792",
-      "titleEn": "Following Spyker, W Group targets 25% stake in De Tomaso's parent company",
+      "id": "stockanalysis:235f1310399dd9aa",
+      "titleEn": "Henry Schein One Announces Appointment of Albert Ko as Executive Chair and Chief Executive Officer",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/25/following-spyker-w-group-targets-25-stake-in-de-tomasos-parent-company/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1103efe57b297544",
-      "titleEn": "Wall Street piles into TQQQ ETF, dumps SQQQ as AI bubble fears escalate",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/25/wall-street-piles-into-tqqq-etf-dumps-sqqq-as-ai-bubble-fears-escalate/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:00544deae935e479",
-      "titleEn": "Gold price approaches $3,500/oz after U.S. weekly jobless claims fall to 189k",
-      "summaryEn": "(Kitco News) - Gold prices are trading near $3,500 this morning following the release of better than expected labor market data after the number of Americans filing new claims for unemployment benefits came in below economists’ forecasts. Initial claims for state unemployment benefits came in at a seasonally adjusted 189,000 for the week ending November 21, the Labor Department announced on Wednesday. The number was below expectations, as consensus estimates forecasted a reading of 200,000 claims. The previous week’s figure was revised to 202,000 from 203,000. Meanwhile, the four-week moving average for new claims – often viewed as a more reliable measure of the labor market since it flattens week-to-week volatility – came in at 196,000, against expectations for 196,000 and following the previous week’s revised 197,500 level.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-25/gold-price-approaches-3500oz-after-us-weekly-jobless-claims-fall-189k",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:684bb175c6a6b584",
-      "titleEn": "What Jensen 2.0 means for Huang's leadership, Nvidia's strategy and NVDA stock",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/25/what-jensen-2-0-means-for-huangs-leadership-nvidias-strategy-and-nvda-stock/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:946a4e01c0d5ee0d",
-      "titleEn": "What are AI chips, and what's so special about Nvidia's?",
-      "summaryEn": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility: The commotion around Nvidia CEO Jensen Huang's ouster and reinstatement , the central role of Nvidia in the U.S.–China AI competition and the U.S. economy's reliance on the AI boom might leave you asking: What's so special about Nvidia's chips? The answer comes down to graphics processing units, or GPUs, and how far they've come from their humble beginnings as sidekicks to computers' main chips: central processing units, or CPUs.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://techxplore.com/news/2026-11-ai-chips-special-nvidia.html",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:796fa070a74a5c3c",
-      "titleEn": "Anthropic stock extends decline: is its $900B spending bet too expensive to finance?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/25/anthropic-stock-extends-decline-is-its-900b-spending-bet-too-expensive-to-finance/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:432c3713ed5c6e50",
-      "titleEn": "Why Nvidia, AMD and Intel stocks are crashing again today",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/25/why-nvidia-amd-and-intel-stocks-are-crashing-again-today/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1e5c1b3c19d993f7",
-      "titleEn": "HP stock popped after earnings beat: why it has pared gains in premarket?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/25/hp-stock-popped-after-earnings-beat-why-it-has-pared-gains-in-premarket/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ae04322ffbd14105",
-      "titleEn": "From Micron to Anthropic: companies spend millions protecting CEOs as AI threats rise",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/25/micron-anthropic-ceo-security-spending-ai-threats/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:da576784367cc23a",
-      "titleEn": "Why Trump's Nvidia plans could turn into a nightmare for shareholders",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/25/nvidia-stock-trump-government-stake-huang-pardon/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:03330601564c347a",
-      "titleEn": "Micron stock hit by brutal 54% price-target cut: is buying the dip a mistake?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/25/micron-stock-hit-by-brutal-54-price-target-cut-is-buying-the-dip-a-mistake/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:38dfd903a51ee86d",
-      "titleEn": "SoftBank stock is crashing as Anthropic IPO signals a major warning for OpenAI",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/25/softbank-stock-is-crashing-as-anthropic-ipo-signals-a-major-warning-for-openai/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:69c523fe0f401461",
-      "titleEn": "WR Valuation Welcomes Back Dan Callanan as a Partner",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261125835993/en/WR-Valuation-Welcomes-Back-Dan-Callanan-as-a-Partner/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:9b1b115f8fda19aa",
-      "titleEn": "Arcturus Therapeutics to Present at Citi's 2026 Global Healthcare Conference",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261125087160/en/Arcturus-Therapeutics-to-Present-at-Citi%E2%80%99s-2026-Global-Healthcare-Conference/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5f39c60df180a38b",
-      "titleEn": "Statement from Bureau Veritas about Market Rumours",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261125306743/en/Statement-from-Bureau-Veritas-about-Market-Rumours/",
+      "link": "https://www.businesswire.com/news/home/20261125548101/en/Henry-Schein-One-Announces-Appointment-of-Albert-Ko-as-Executive-Chair-and-Chief-Executive-Officer/",
       "published": null
     }
   ]
