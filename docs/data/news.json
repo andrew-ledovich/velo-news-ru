@@ -1,8 +1,80 @@
 {
-  "generatedAt": "2026-11-27T13:16:50.856962Z",
+  "generatedAt": "2026-11-27T22:10:14.318325Z",
   "sourceCount": 1,
-  "count": 24,
+  "count": 19,
   "items": [
+    {
+      "id": "stockanalysis:df29c85a84ff899f",
+      "titleEn": "Gold will reach $4,600/oz by Q4 2027 as rates fall, USD gives back 10% overvaluation – J.P. Morgan's Tang",
+      "summaryEn": "(Kitco News) – Gold prices will likely remain under pressure in the near term as monetary policy continues to tighten, but central bank purchases and demand for the precious metal as a hedge against currency debasement will support gold over the medium term, with prices reaching $4600 by year-end 2027, according to Yuxuan Tang, strategist at J.P. Morgan. “I think over the near term it&#x27;s going to be tough, because it&#x27;s not the best environment for gold in a rising yield environment,” she said in a recent interview with CNBC. “And I&#x27;m not talking about the day-to-day moves in Treasuries. It&#x27;s the overall monetary tightening backdrop that is adding pressure to gold.” However, Tang said that conditions will become more favorable for gold in the second half of the coming year.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-27/gold-will-reach-4600oz-q4-2027-rates-fall-usd-gives-back-10-overvaluation",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:c05321012fc9d2b5",
+      "titleEn": "What's driving SanDisk stock higher today?",
+      "summaryEn": "Buy SNDK. The Nvidia GB200 rack demo shows AI can use far more NAND via SSD “memory expansion,” and SanDisk already has Kioxia JV coverage through 2034 plus accelerating data-center revenue (+61% QoQ) with fiscal Q2 revenue guidance ($12.2B+). The stock is deeply off YTD highs, so any sustained shipment/margin confirmation can re-rate the name quickly. Key Risk: NAND prices fall hard enough that higher volumes don’t translate into profit growth (margin compression wipes out the earnings rebound). Buy Micron (MU) as a higher-beta way to play the same NAND demand theme. If AI servers truly need more SSD-backed flash capacity, the whole NAND supply chain benefits, and MU is positioned to capture incremental pricing/volume as data-center builds expand.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/27/whats-driving-sandisk-stock-higher-today/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:0647d4b75c0863c8",
+      "titleEn": "Micron, SK Hynix, SanDisk stocks rise but what's the verdict on demand outlook?",
+      "summaryEn": "Buy MU. The article flags oversupply risk, but also notes supply may stay tight into 2028 because capacity is being steered toward AI-focused HBM and manufacturers can cut production to defend LTA pricing. With MU down >35% in a month, the market is pricing a worse demand collapse than the base-case implies; the rebound signals buyers are already positioning for a “not-quite-glut” outcome. Key Risk: Data-center permitting delays turn into a real demand break and prices roll over faster than manufacturers can cut supply. Buy SK Hynix. It’s up ~6% on the day while the core debate is whether AI infrastructure spending persists. Hynix is better positioned than pure-play conventional DRAM because AI systems pull more HBM, and the article explicitly says capacity allocation toward AI can keep conventional supply constrained. If AI capex holds, Hynix should outperform as the market reprices “tight supply longer.”",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/27/micron-sk-hynix-sandisk-stocks-rise-but-whats-the-verdict-on-demand-outlook/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:3e3faba9308942a9",
+      "titleEn": "Why are CoreWeave and Nebius stocks soaring despite mounting debt risks?",
+      "summaryEn": "Buy CRWV. The key catalyst is a $4.5B Meta-linked loan at ~7–7.5% secured by GPUs and tied to Meta demand—far cheaper than ~18% bond yields. That signals lenders believe cash flows are contract-backed, and it can quickly reduce near-term refinancing stress. The stock’s rebound after heavy shorting also gives upside momentum if the market starts pricing the cheaper funding path. Key Risk: The loan terms fall apart or Meta-linked collateral doesn’t translate into real repayment coverage, forcing CRWV back into high-cost refinancing. Buy NBIS. Management expects $17–$20B of customer prepayments in 2027 plus contract-backed borrowing to cover most of $40–$45B capex, leaving a smaller funding gap. With a cash cushion (~$7.4B), the market can re-rate NBIS if investors believe prepayments are durable and not delayed.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/11/27/coreweave-nebius-stocks-surge-despite-debt-risks/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:63ecde5880081ffb",
+      "titleEn": "Micron stock is highly undervalued as the Wyckoff Theory takes shape",
+      "summaryEn": "Buy MU. The article flags extreme valuation (forward P/E ~3.4 vs sector ~18) alongside strong fundamentals (gross margin ~87%, revenue growth accelerating, Q1 ~$61B and Q2 ~$66B). The Wyckoff “markdown” setup implies forced selling, which often creates a tradable overshoot below intrinsic value. Catalyst: the $35B buyback starting in December after restrictions end, which should mechanically support EPS and reduce float. Key Risk: The memory upcycle breaks—DRAM demand and pricing fall faster than revenue guidance, making the “cheap” valuation stay cheap. Sell short the memory-exposed peer basket (e.g., short Samsung ADR via SSNLF and/or SK hynix ADR via HXSY) against MU. If the AI/data-center financing fears and “memory supercycle” end risk hit the group, weaker balance sheets and more fragile pricing power should underperform MU. This trade monetizes second-order contagion from AI funding stress into broader memory supply/demand expectations while keeping MU as the relative-value winner on buybacks and valuation.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/27/micron-stock-is-highly-undervalued-as-the-wyckoff-theory-takes-shape/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:4b2692d964d0f321",
+      "titleEn": "Missed the Anthropic IPO? Is now a better time to buy the stock?",
+      "summaryEn": "Buy NASDAQ:ANT. The sell-off looks more valuation- and spending-fear driven than demand-fear: revenue run-rate is accelerating (annualised ~$81B) and losses are narrowing (adjusted operating income positive). Canaccord’s Buy/$135 and the market’s rebound above IPO price suggest momentum is returning, and the stock is still priced off huge growth (29x 2026 revenue) rather than collapsing fundamentals. Key risk: customer demand fails to keep pace with contracted compute, forcing margin compression and renewed “overbuilt capacity” fears. Key Risk: Customer spending doesn’t justify the contracted compute, crushing margins and re-triggering the valuation sell-off. Sell short NASDAQ:NVDA (or reduce exposure via a put on NVDA). If ANT’s thesis hinges on whether future spending matches capacity, the second-order effect is that AI capex growth becomes more lumpy and price-sensitive: hyperscalers and AI labs may delay incremental GPU purchases when utilization risk rises. That hits the “picks-and-shovels” demand multiple even if the long-term AI story stays intact. Key risk: a broad AI capex acceleration overrides utilization fears and NVDA demand stays strong despite ANT-specific concerns.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/27/anthropic-stock-buy-after-ipo-selloff/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:03a02cae86db3fcb",
+      "titleEn": "AMD, Intel, Broadcom rally in premarket trading Friday as AI stocks rebound",
+      "summaryEn": "Buy AMD. The news adds real AI-infrastructure demand support (TensorWave’s 6-year OpenAI deal) plus AMD’s AI stack buildout (World Labs + Taalas) and a likely sentiment tailwind from the broader chip rebound. If AI capex stays firm, AMD should keep gaining share in data-center compute and inference. Key Risk: AI infrastructure spending slows or gets delayed, making AMD’s growth narrative break. Buy Broadcom. The Anthropic financing structure ($63B) is a direct, funded path for Broadcom’s custom AI accelerators and networking equipment—stronger than a generic “AI rebound.” If the deal converts into sustained shipments, earnings durability improves ahead of the Dec 9 results.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/27/amd-intel-broadcom-rally-in-premarket-trading-friday-as-ai-stocks-rebound/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:abba615fb4e57ed2",
+      "titleEn": "Is Nvidia stock Wall Street's biggest Black Friday bargain?",
+      "summaryEn": "Buy NVDA. It’s trading ~9x next-year earnings versus ~17x Broadcom and ~27x AMD, while data-center revenue is still surging (+110%) and management guides strong fiscal 2028 growth (~75%). Huang’s return also directly reduces near-term execution fears (supplier/product/retention). Upside case is simple: if earnings land near consensus and the multiple normalizes toward ~15x, the stock can re-rate sharply. Key Risk: Earnings miss (especially fiscal 2028) and the market refuses to pay a higher multiple, turning the “discount” into a value trap. Buy AMD. The article highlights NVDA’s relative cheapness, but AMD’s forward multiple (~26.9x) implies the market is already pricing in a lot of success. If AI demand stays broad and NVDA’s re-rating lifts the whole AI compute complex, AMD can benefit from multiple expansion even without matching NVDA’s growth rate.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/27/nvidia-stock-black-friday-bargain/",
+      "published": null
+    },
     {
       "id": "stockanalysis:3072523035d9f262",
       "titleEn": "Adidas, Puma stocks fall as JPMorgan downgrades both on 2027 outlook",
@@ -49,174 +121,57 @@
       "published": null
     },
     {
-      "id": "stockanalysis:52baef9683f0b81b",
-      "titleEn": "Gold slips, silver gains as Fed rate hike expectations persist in holiday trading - Kitco PM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were modestly lower and silver prices were higher in late trading Thursday, as persistent expectations for additional Federal Reserve interest rate increases and a comparatively firm U.S. dollar weighed on bullion during a holiday-thinned session. Gold struggled to extend Wednesday&#x27;s recovery despite continued geopolitical uncertainty in the Middle East, while silver demonstrated relative resilience as European equity markets rebounded sharply from their recent losses. U.S. financial markets were largely closed for Thanksgiving, reducing trading activity and limiting fresh economic and monetary policy developments. S was trading near $3,565.50 an ounce, down $22.50, or 0.63%, while silver was trading near $41.420, up $0.136, or 0.33%, on the session. Wednesday&#x27;s U.S. economic data reinforced expectations for restrictive Federal Reserve monetary policy as stronger-than-expected economic growth coincided with persistent underlying inflation. The October personal consumption expenditures price index increased 0.3% on the month and 3.8% from a year earlier, while core PCE inflation, excluding food and energy, accelerated to 3.3% annually. The second estimate of third-quarter gross domestic product indicated that the economy expanded at an annualized 4.3%, exceeding earlier estimates and highlighting continued economic resilience despite elevated borrowing costs. Personal income increased 0.7% in October, while nominal consumer spending advanced 0.3%, although inflation-adjusted spending was essentially unchanged. Initial unemployment claims declined to 189,000, indicating continued resilience in the labor market, while durable goods orders increased just 0.2%. The combination of strong growth, persistent inflation and uneven consumer spending highlighted the challenges facing policymakers as they attempt to contain inflation without triggering a more substantial economic slowdown.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-26/gold-slips-silver-gains-fed-rate-hike-expectations-persist-holiday-trading",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:1a4d703a340881d9",
-      "titleEn": "Shopify stock is still under pressure: Is it a buy as valuation concerns persist?",
-      "summaryEn": "Buy SHOP in the $100–$115 zone. The article flags slowing growth, but it also shows net income strength and that Shopify is still the dominant e-commerce platform. The valuation is the real setup: forward P/E ~70 and PEG ~2.19 are pricing in perfection, so any stabilization in growth should trigger a sharp multiple re-rate. Technicals support a mean-reversion bounce from the $100 support area, with upside toward ~$150 if sentiment turns. Key Risk: Revenue growth keeps decelerating and GMV stays weak, so the market refuses to pay a premium multiple. Sell SHOP on any failed bounce into ~$150. The stock is still priced for high growth (Rule-of-40 only barely justifies it), while the article shows GMV softness (global GMV flat at 30% for three quarters; Europe down to 33%). If the next earnings cycle confirms slowing growth, the most likely move is further valuation compression, not just a slower growth story.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/26/shopify-stock-is-still-under-pressure-is-it-a-good-buy-as-valuation-concerns-persist/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5162b7b063e1cf7c",
-      "titleEn": "India's central bank repatriates another 60 tonnes of gold in 2026 as share of FX reserves drops to 14.38%",
-      "summaryEn": "(Kitco News) – The Reserve Bank of India (RBI) had 880.52 tonnes of gold holdings at the end of September, and the central bank also moved 60.08 tonnes of bullion from overseas vaults to its domestic storage facilities over Q2 and Q3, even as gold’s share of forex reserves fell as prices dropped, according to the latest data. According to the RBI’s Half-Yearly Report on Management of Foreign Exchange Reserves: April–September 2026 released on November 25, 740.13 tonnes of the central bank’s total of 880.52 tonnes of gold were held in domestic vaults in India as of September 30, with the remaining 140.39 tonnes custodied with the Bank of England and the Bank for International Settlements (BIS). The total quantity of the RBI’s gold reserves was unchanged from the end of March, but 680.05 tonnes were stored domestically at that time, while 197.67 tonnes were held overseas and 2.80 tonnes were held as gold deposits. Over the six-month period, the RBI shifted 60.08 tonnes of gold from overseas vaults to domestic storage, taking the share of domestic gold holdings from approximately 77.2% at the end of March to 84.05% at the end of September.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-26/indias-central-bank-repatriates-another-60-tonnes-gold-2026-share-fx",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:a073472cd71b9e51",
-      "titleEn": "Enbridge stock could be at risk of falling to $61.5 despite strong revenue growth",
-      "summaryEn": "Sell ENB. The article flags technical breakdown (below 50-week EMA), bearish flag continuation, and a downside target near $61.50 despite improving fundamentals. The group is de-risking together (ETP/EPD/KMI/WMB/WMB down), so ENB likely trades with the tape until the chart repairs. Key Risk: A sustained rally in midstream/energy transport that lifts the whole group and forces ENB back above the 50-week EMA, invalidating the $61.50 downside path. Short a basket of US midstream peers—Energy Transfer (ET), Enterprise Products Partners (EPD), Kinder Morgan (KMI), and Williams (WMB)—in proportion to their liquidity. The news shows broad sector retreat, not just ENB-specific issues, so the highest-conviction move is to fade continued multiple compression while the market is in correction/bear phases.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/11/26/enbridge-stock-could-be-at-risk-of-falling-to-61-5-despite-strong-revenue-growth/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:22b1aca2fbe00c6c",
-      "titleEn": "These 3 retail stocks are best positioned to benefit from Thanksgiving in 2026",
-      "summaryEn": "Buy. Thanksgiving meal bundles ($35 for 10) pull grocery shoppers into a larger gift basket, and the online timing (sale overlapping prep + in-store Friday) supports higher conversion and repeat browsing. Expect incremental cart size and stronger US e-commerce momentum into Black Friday. Key Risk: Consumers cut discretionary add-ons and only buy the meal basket, shrinking the “bigger cart” effect. Buy. Prime Video in-game deal overlays create demand from people already watching, not just shoppers searching for deals. That drives higher retail sales plus second-order revenue from third-party merchant fulfillment and ad placements during peak attention windows.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/26/these-3-retail-stocks-are-best-positioned-to-benefit-from-thanksgiving-in-2026/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:5d4937397b9d081a",
-      "titleEn": "Air Canada stock is facing turbulence: Will the falling jet fuel prices rescue it?",
-      "summaryEn": "Buy AC. Jet fuel is already down ~20% month-over-month and crude is under pressure; that should flow into lower fuel expense and let AC re-raise guidance. The stock is also technically supported by an ascending trendline; a bounce toward $25 is the near-term catalyst if fuel keeps sliding. Key Risk: Jet fuel stops falling (oil spikes again) and AC’s guidance stays cut, turning the “fuel relief” story into a dead end. Buy USO (or a similar crude/energy exposure) only as a tactical hedge against oil staying weak; pair with selling/avoiding airlines that are most fuel-cost sensitive. The news implies a continued decline in jet fuel as war odds shift toward de-escalation, so the market should reward airlines with better cost control and punish those without.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/11/26/air-canada-stock-is-facing-turbulence-will-the-falling-jet-fuel-prices-rescue-it/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:84f9b8287cb1a7e6",
-      "titleEn": "These 3 stocks have emerged winners amidst the AI rout",
-      "summaryEn": "Buy CLX. AI sell-off is pushing money into “boring” staples with steady replacement demand. The article cites improved market share and newer products driving growth, but the stock is still reacting to a potentially tight profit outlook. That sets up upside if share gains convert into better margins as costs stabilize and the GOJO-related growth proves durable. Key Risk: Margins fail to expand—cost pressure keeps adjusted earnings stuck near the bottom of guidance despite share gains. Buy JBLU. The rally is supported by measurable operating progress: stronger revenue offset most higher fuel costs, and revenue per unit of capacity rose ~15% even with big capacity growth. The Dec. 8 domestic first-class service is a clear catalyst to lift fares per flight and improve mix as the turnaround narrative gains traction.",
+      "id": "stockanalysis:fa0cd3436001be23",
+      "titleEn": "Hologic-Supported Research at RSNA Highlights Advances in Breast Cancer Screening, Including AI-Enabled Workflow Prioritization and Screening Uptake at Age 40",
+      "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/26/these-3-stocks-have-emerged-winners-amidst-the-ai-rout-boston-beer-clorox-jetblue/",
+      "link": "https://www.businesswire.com/news/home/20261127152300/en/Hologic-Supported-Research-at-RSNA-Highlights-Advances-in-Breast-Cancer-Screening-Including-AI-Enabled-Workflow-Prioritization-and-Screening-Uptake-at-Age-40/",
       "published": null
     },
     {
-      "id": "stockanalysis:931bc23b2e4e8096",
-      "titleEn": "Royal Bank of Canada (RBC) forecast ahead of earnings: will it rebound or fall?",
-      "summaryEn": "Buy RBC (RY.TO). The article flags strong fundamentals in the latest quarter (revenue +11%, net income +$6B, ROE 17.9%) and continued growth expected, led by wealth management (+32% in the quarter). Even with capital markets pressure, the mix shift toward fee-based wealth should support earnings and limit downside on the Dec 3 print. Technicals show a correction near support (23.6% Fib / Oct 8 low), setting up a rebound if guidance/costs don’t worsen. Key Risk: Capital markets weakness (deal/investment banking) accelerates and overwhelms wealth management gains, causing a margin/cost miss on Dec 3. Sell Canadian bank exposure via iShares Canadian Financials ETF (XKCB). The stock is already in a correction and the article notes broader US/Canada bank weakness plus rising non-interest expenses (+6%). With deal value down 41% globally and capital markets likely still pressured, the sector can stay heavy even if RBC holds up. Short the ETF to express continued risk-off into earnings.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/11/26/royal-bank-of-canada-rbc-forecast-ahead-of-earnings-will-it-rebound-or-fall/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bd7bc7ed92b19d0f",
-      "titleEn": "Gold's rebound shows markets fear recession and doubt Fed rate follow-through – StoneX's Stanley",
-      "summaryEn": "(Kitco News) – Gold has fallen as much as 39% from its late-January highs this year, but even though yesterday’s aggressive retest of $3,500 came after higher U.S. inflation and a hawkish Fed meeting just two weeks from now, buyers still stepped in to defend the level, according to James Stanley, Senior Market Analyst for Global Macro at StoneX. Stanley wrote that deduction is important in trading. “When something should happen – but doesn’t – there’s often a reason that we don’t yet know, and that’s something that can wreak havoc around the next corner,” he said. He pointed to the recent performance of NVIDIA as a good example of this. “It was the most valuable company in the world, and it was [a] backdrop seemingly made for bulls, as the company had announced a massive stock buyback and quarterly earnings were strong and revenue projections were massive,” he said. “There wasn’t much to complain about, frankly, but the stock wasn’t acting like that optimism mattered much. NVIDIA set a fresh all-time-high shortly after the Q4 open and then sellers attacked – leaving a bearish engulf on the weekly chart.”",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-26/golds-rebound-shows-markets-fear-recession-and-doubt-fed-rate-follow",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:e44b1e89cc4e29a4",
-      "titleEn": "Gold's Thanksgiving support offers a glimmer of hope for battered bulls - Analysts",
-      "summaryEn": "(Kitco News) - U.S. markets are closed for the Thanksgiving holiday, and while activity is thin in the spot market, some analysts note that there appears to be some hope brewing amid the limited price action. Renewed selling pressure hit the gold market Wednesday after the U.S. government reported stronger-than-expected third-quarter economic growth, followed by inflation data that came in line with expectations. Prices dropped to their lowest level since September 2025, testing support just above $3,400 an ounce. However, the market has bounced off its lows, and prices are once again holding above support at $3,500 an ounce. In a note Thursday, Fawad Razaqzada, Market Analyst at FOREX.com , said that while it is too early to sound the all-clear on the selling pressure, the current price stability is an encouraging initial sign. Spot gold last traded at $3,569.70 an ounce, down 0.59% on the day.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.kitco.com/news/article/2026-11-26/golds-thanksgiving-support-offers-glimmer-hope-battered-bulls-analysts",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:b86cd640b0016f83",
-      "titleEn": "Celestica stock down 57% from June highs: Why it fell and what comes next",
-      "summaryEn": "Buy CLS for a value rebound. Forward P/E ~16.5 vs tech ~18.5 plus accelerating CCS growth (Q3 revenue +83%, EPS +41%) sets up a fast earnings-driven snapback once the market stops de-risking AI hardware supply chains. Key Risk: AI/Cloud capex keeps falling and CLS guidance gets cut, so the “cheap” multiple is justified by deteriorating fundamentals. Sell CLS. The article flags a death cross, lower-lows trend, broken support ($275), and head-and-shoulders continuation targeting ~$200. Even with strong Q3 numbers, the stock is being driven by macro/AI risk-off and technical momentum, so rallies likely get sold until price reclaims ~$320.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/26/celestica-stock-down-57-from-june-highs-why-it-fell-and-what-comes-next/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:8d31116a472c6cfc",
-      "titleEn": "Why is Meta facing protests and legal challenges in India?",
-      "summaryEn": "Buy GOOG. If Meta’s India moderation friction reduces political reach and advertiser confidence, budgets can rotate to Google/YouTube where compliance is less tied to the same “identical content” takedown mechanics. YouTube’s ad demand should be relatively more resilient, and Google’s broader ad stack can capture share as Meta’s platform experience becomes more restrictive. Key Risk: Meta’s India issues don’t materially hurt ad performance, so advertisers don’t shift spend to Google/YouTube. Sell META. India is now forcing mandatory, fast (3-hour) automated takedowns and proactive blocking of “identical” content. Reuters-style disclosures already show a step-change in restricted items (5.4M in H1’26 vs ~70K in all of 2025), which means higher compliance cost, higher risk of over-blocking, and more political/legal churn that can pressure ad engagement and margins.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/26/why-is-meta-facing-protests-and-legal-challenges-in-india/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:56055c8197c7e097",
-      "titleEn": "Micron and SanDisk stocks among the cheapest in tech: should you buy?",
-      "summaryEn": "Buy Micron. The article shows extreme valuation (MU ~8.1x trailing, ~3.4x forward) while fundamentals are still surging (fiscal Q4 revenue $54.23B vs $11.32B a year ago; next-quarter forecast $61.5B). If AI data-center buildouts keep driving HBM/DRAM and SSD content, earnings can stay “less cyclical” than past memory booms, letting the multiple re-rate upward from distressed levels. Key Risk: AI-driven memory demand cools faster than supply ramps, pushing DRAM/NAND prices down and collapsing earnings again. Buy SanDisk. It’s priced like a peak-cycle stock (4.7x trailing; ~2.58x forward) despite still-strong near-term sales ($11B fiscal Q1 revenue; next quarter $12.2B–$12.6B). If the market is over-discounting a downturn, the upside is multiple expansion plus stabilization in NAND pricing as hyperscalers keep buying storage for AI workloads.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/26/micron-and-sandisk-stocks-among-the-cheapest-in-tech-should-you-buy/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:02ab556b5fe528f9",
-      "titleEn": "Buy or short Anthropic? Analysts within same Wall Street firm can't decide",
-      "summaryEn": "Buy Anthropic (ANT). The bull case is it becomes the “OS for work” via Claude—moving from selling access to becoming a business platform. That’s why the stock can re-rate even before profits: falling inference costs + more compute capacity can lift margins, and the market is currently pricing only near-term uncertainty. Key setup: use the post-IPO volatility to enter near the ~$80 area rather than chasing the debut spike. Key Risk: Post-IPO lockup expirations trigger sustained selling and the stock never gets a chance to prove platform traction. Short Anthropic (ANT). The bear case is simple: scaling requires massive, expensive compute, and higher data-center financing costs (CoreWeave-style pressure) makes growth uneconomic. Add competition (OpenAI and others) compressing token prices, forcing higher usage just to stand still—so revenue growth doesn’t translate into earnings. Key setup: fade rallies while the market is still unsure and the stock is trading below IPO levels.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/26/buy-or-short-anthropic-analysts-within-same-wall-street-firm-cant-decide/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:24f0a22c102d968c",
-      "titleEn": "Gold slips, silver steadies as Fed rate hike expectations persist in holiday trading - Kitco AM Report",
-      "summaryEn": "(Kitco NewsWire) - Spot gold prices were modestly lower and silver prices were near steady in early trading Thursday, as persistent expectations for additional Federal Reserve interest rate increases limited demand for precious metals despite lower Treasury yields and renewed geopolitical tensions in the Middle East. Gold remained under pressure following Wednesday&#x27;s volatile session, when prices briefly fell below $3,500.00 before staging a recovery, while silver held above $41.000 after rebounding from its recent lows. Trading was expected to remain thin because of the U.S. Thanksgiving holiday, with American stock and bond markets closed. Spot gold was trading near $3,569.90 an ounce, down $18.10, or 0.50%, while silver was trading near $41.300 an ounce, up $0.023, or 0.06%, on the session. Gold had traded between $3,551.40 and $3,607.90 during the day, while silver&#x27;s range extended from $40.700 to $42.400. Wednesday&#x27;s U.S. economic releases reinforced expectations for restrictive Federal Reserve policy as resilient economic growth coincided with persistent underlying inflation. The October personal consumption expenditures price index increased 0.3% on the month and 3.8% from a year earlier, compared with September&#x27;s annual increase of 3.7%. Core PCE inflation, excluding food and energy, also increased 0.3% on the month, while the annual rate accelerated to 3.3% from 3.1%. The second estimate of third-quarter gross domestic product was revised higher to an annualized 4.3%, compared with the previous estimate of 3.4%, indicating continued economic resilience despite elevated borrowing costs. Personal income increased 0.7% in October, while nominal consumer spending advanced 0.3%, although inflation-adjusted spending was essentially unchanged. Initial unemployment claims declined to 189,000, suggesting continued resilience in the labor market, while durable goods orders rose just 0.2%, indicating more uneven business investment. The combination of stronger economic growth, persistent inflation and comparatively low unemployment claims reinforced expectations for additional Federal Reserve tightening, although weaker real consumer spending and declining Treasury yields offered some countervailing support for bullion.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://www.kitco.com/news/article/2026-11-26/gold-slips-silver-steadies-fed-rate-hike-expectations-persist-holiday",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d0f04b442bb0e5f2",
-      "titleEn": "Why Rolls-Royce stock could be entering another powerful growth phase",
-      "summaryEn": "Buy RR. The Babcock £8.7bn defence deal is a sentiment tailwind, but the real edge is operating leverage: rising large-engine flying hours (114% of 2019) expands usage-linked service revenue, while Power Systems order intake is surging (62% higher; £8.6bn backlog). Add accelerated buybacks (£1.5bn) to support EPS and valuation while earnings estimates rise. Key Risk: Data-centre gas engine oversupply drives down prices and margins, wiping out Power Systems profit growth. Buy BAB. The submarine support contract signals renewed UK defence spending momentum and should lift near-term order visibility and contract execution sentiment across the defence supply chain, including engineering services where BAB is positioned.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/11/26/why-rolls-royce-stock-could-be-entering-another-powerful-growth-phase/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:dcd6e34c238ae6fd",
-      "titleEn": "TVS Motor Company Introduces TVS Armado, a New Cargo Tricycle",
+      "id": "stockanalysis:24a83017db7f9a7d",
+      "titleEn": "Lost Money on American Resources Corporation Shares? The Law Offices of Frank R.",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261126523378/en/TVS-Motor-Company-Introduces-TVS-Armado-a-New-Cargo-Tricycle/",
+      "link": "https://www.businesswire.com/news/home/20261127240640/en/Lost-Money-on-American-Resources-Corporation-Shares-The-Law-Offices-of-Frank-R.-Cruz-Investigates-Potential-Securities-Fraud-After-29.81-Stock-Decline/",
       "published": null
     },
     {
-      "id": "stockanalysis:e1c9d38a93ea3cf8",
-      "titleEn": "Uber Secures Approximately 87% of Delivery Hero Shares Following End of Additional Acceptance Period",
+      "id": "stockanalysis:eb0b9531be5c136f",
+      "titleEn": "Lost Money on GoodRx Holdings, Inc. Shares? The Law Offices of Frank R.",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261127161525/en/Uber-Secures-Approximately-87-of-Delivery-Hero-Shares-Following-End-of-Additional-Acceptance-Period/",
+      "link": "https://www.businesswire.com/news/home/20261127202919/en/Lost-Money-on-GoodRx-Holdings-Inc.-Shares-The-Law-Offices-of-Frank-R.-Cruz-Investigates-Potential-Securities-Fraud-After-20-Stock-Decline/",
       "published": null
     },
     {
-      "id": "stockanalysis:aec9167029bc4b70",
-      "titleEn": "The Coca-Cola Company and Gutsche Family Investments Close on Sale of Controlling Interest in Coca-Cola Beverages Africa to Coca-Cola HBC AG",
+      "id": "stockanalysis:c7a14ca6c768fdb7",
+      "titleEn": "SemiLEDs Reports Fourth Quarter and Fiscal Year End 2026 Financial Results",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261125243595/en/The-Coca-Cola-Company-and-Gutsche-Family-Investments-Close-on-Sale-of-Controlling-Interest-in-Coca-Cola-Beverages-Africa-to-Coca-Cola-HBC-AG/",
+      "link": "https://www.businesswire.com/news/home/20261127998581/en/SemiLEDs-Reports-Fourth-Quarter-and-Fiscal-Year-End-2026-Financial-Results/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d7f3d53c69976b89",
+      "titleEn": "L3Harris to Host Investor Site Visit and Webcast",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://www.businesswire.com/news/home/20261127798073/en/L3Harris-to-Host-Investor-Site-Visit-and-Webcast/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:fd9dcbd0a7facfe4",
+      "titleEn": "Generation Mining Completes $100 Million Convertible Note Offering",
+      "summaryEn": null,
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.businesswire.com/news/home/20261126105782/en/Generation-Mining-Completes-100-Million-Convertible-Note-Offering/",
       "published": null
     }
   ]
