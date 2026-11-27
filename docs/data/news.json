@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-11-27T03:51:17.031608Z",
+  "generatedAt": "2026-11-27T13:16:50.856962Z",
   "sourceCount": 1,
-  "count": 25,
+  "count": 24,
   "items": [
+    {
+      "id": "stockanalysis:3072523035d9f262",
+      "titleEn": "Adidas, Puma stocks fall as JPMorgan downgrades both on 2027 outlook",
+      "summaryEn": "Buy Adidas. JPMorgan’s downgrade is based on “limited scope for further gains” and fear that 2027 growth targets are hard to hit, but the company just delivered reassuring profit and sales (net profit €706m; operating profit €1.01b) and maintained strong 2026 guidance. The market is overreacting to a 2027 narrative while near-term fundamentals are improving, especially in apparel and DTC. Key upside catalyst: if Stan Smith and running franchises (Hyperboost/Supernova) show franchise expansion, the stock can re-rate quickly from a lowered target. Key Risk: 2027 franchise scaling fails and Adidas needs heavy promotions, compressing margins and forcing guidance cuts. Sell Puma. The downgrade to Underweight plus a lower target (€21 from €26) signals investors won’t pay for inventory progress alone. Inventories are down, but the core issue is “how quickly” Puma can return to growth amid intensifying competition. If sales momentum doesn’t re-accelerate, the market will treat restructuring as a one-off benefit and keep the multiple depressed.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/11/27/adidas-puma-stocks-fall-as-jpmorgan-downgrades-both-on-2027-outlook/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:d09969607e6e75b0",
+      "titleEn": "SpaceX stock surges 7.5%: could Elon Musk's giveaway spark a bigger rally?",
+      "summaryEn": "Buy NASDAQ:SPCX. The giveaway is a catalyst for a durable retail shareholder base, and the market is already repricing toward a higher “ownership + growth” narrative. Pair that with concrete fundamentals: FCC approval for up to 1M satellites for Starmind and continued AI infrastructure buildout. Jefferies’ Buy/$210 and the stock still below the $135 IPO reference make the setup asymmetric if sentiment holds. Key Risk: A sharp drop in SpaceX’s share price that makes the giveaway look like a value-transfer/dilution story, crushing retail demand and momentum. Buy a 3–6 month bull call spread on NASDAQ:SPCX (e.g., buy the 1–2 strike above spot, sell a higher strike). This monetizes the near-term rally from the giveaway headlines while keeping downside limited if the stock mean-reverts after the initial pop. The second leg is that retail flows typically persist for weeks after a high-visibility pledge, not just overnight.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/27/spacex-stock-price-surge-elon-musk-share-giveaway/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:01985033db4c89a0",
+      "titleEn": "Samsung, SK Hynix stocks surge: why smart money sees a buying opportunity",
+      "summaryEn": "Buy. The sell-off is extreme versus fundamentals: ~2.01x projected 2027 earnings, with operating profit still massive. The thesis is supported by concrete demand protection—SK Hynix has long-term agreements covering >50% of capacity for 2027–2028 and is pushing HBM4 to mainstream this quarter. Add the catalyst of large shareholder returns (~100T won planned), which should attract “value + yield” buyers if memory sentiment stabilizes. Key Risk: A prolonged memory oversupply that forces HBM and DRAM pricing down enough to break the 2027 earnings assumptions. Buy. Valuation is also deeply compressed (~2.29x projected 2027 earnings) after a >50% drawdown, and the article flags capitulation-style selling with foreign inflows returning. The setup is a re-rating trade: if memory pricing merely stops deteriorating, Samsung’s earnings power and the expectation of further shareholder-return details in January can pull the stock back toward “cheap but improving” rather than “cheap and falling.”",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/11/27/samsung-sk-hynix-stocks-smart-money-buying/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:dab35d029c0a34b3",
+      "titleEn": "Stephen Yiu explains why Nvidia stock isn't out of the woods just yet",
+      "summaryEn": "Buy/hold NVDA. The article says underlying sales are surging (fiscal Q3 revenue $115.8B, +103% YoY) and the market may already be pricing the leadership shock. The key near-term catalyst is whether congressional/investigation disclosures actually damage Nvidia’s controls and chip distribution—until then, the “negative” AA watch is a risk premium, not a confirmed earnings hit. Key Risk: A new disclosure ties governance/control failures directly to Nvidia’s business practices (not just leadership), leading to real revenue/China-distribution constraints or major penalties. Sell/trim NVDA into any “AA− within 90 days” narrative. If governance concerns persist, S&P can downgrade to AA−, which typically pressures institutional holders and raises funding/credit-linked risk appetite. Use this as a tactical reduction while waiting for Dec. 1–2 interviews to clarify whether scrutiny reaches Nvidia’s operations.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://invezz.com/news/2026/11/27/stephen-yiu-explains-why-nvidia-stock-isnt-out-of-the-woods-just-yet/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:9167615f0e0d5ef7",
+      "titleEn": "SAP shares outlook as it plots another 10,000 round of layoffs: buy or sell?",
+      "summaryEn": "Buy SAP (SAP SE). The news is bad optics, but the fundamentals are improving: cloud backlog +28% to €24B and cloud ERP revenue +29% to €5.96B. Layoffs are a profitability lever while AI spend ramps, and the stock is already bouncing hard after the dip—suggesting investors are willing to pay for the turnaround. Key risk: SAP’s cost cuts fail to translate into sustained margin expansion, and the market re-rates the stock lower because the valuation (forward P/E ~27) is too rich for the growth/margin profile. Sell a basket proxy for high-multiple enterprise software: short ServiceNow (NOW) and Workday (WDAY) versus long SAP (pair trade). If SAP’s layoffs are the “AI efficiency” template, the second-order effect is that investors will demand the same margin proof from peers—compressing multiples across the group, especially the most expensive names. SAP’s backlog growth gives it relative staying power, while NOW/WDAY have less visible near-term cost-to-profit leverage. Key risk: peers deliver stronger-than-expected AI-driven growth and margins, and the market lifts multiples instead of compressing them. Key Risk: Peers beat on AI growth/margins, and multiples expand instead of compressing.",
+      "source": "Stock Analysis",
+      "topic": "AI",
+      "link": "https://invezz.com/news/2026/11/27/sap-shares-outlook-as-it-plots-another-10000-round-of-layoffs-buy-or-sell/",
+      "published": null
+    },
+    {
+      "id": "stockanalysis:52baef9683f0b81b",
+      "titleEn": "Gold slips, silver gains as Fed rate hike expectations persist in holiday trading - Kitco PM Report",
+      "summaryEn": "(Kitco NewsWire) - Spot gold prices were modestly lower and silver prices were higher in late trading Thursday, as persistent expectations for additional Federal Reserve interest rate increases and a comparatively firm U.S. dollar weighed on bullion during a holiday-thinned session. Gold struggled to extend Wednesday&#x27;s recovery despite continued geopolitical uncertainty in the Middle East, while silver demonstrated relative resilience as European equity markets rebounded sharply from their recent losses. U.S. financial markets were largely closed for Thanksgiving, reducing trading activity and limiting fresh economic and monetary policy developments. S was trading near $3,565.50 an ounce, down $22.50, or 0.63%, while silver was trading near $41.420, up $0.136, or 0.33%, on the session. Wednesday&#x27;s U.S. economic data reinforced expectations for restrictive Federal Reserve monetary policy as stronger-than-expected economic growth coincided with persistent underlying inflation. The October personal consumption expenditures price index increased 0.3% on the month and 3.8% from a year earlier, while core PCE inflation, excluding food and energy, accelerated to 3.3% annually. The second estimate of third-quarter gross domestic product indicated that the economy expanded at an annualized 4.3%, exceeding earlier estimates and highlighting continued economic resilience despite elevated borrowing costs. Personal income increased 0.7% in October, while nominal consumer spending advanced 0.3%, although inflation-adjusted spending was essentially unchanged. Initial unemployment claims declined to 189,000, indicating continued resilience in the labor market, while durable goods orders increased just 0.2%. The combination of strong growth, persistent inflation and uneven consumer spending highlighted the challenges facing policymakers as they attempt to contain inflation without triggering a more substantial economic slowdown.",
+      "source": "Stock Analysis",
+      "topic": "CRYPTO",
+      "link": "https://www.kitco.com/news/article/2026-11-26/gold-slips-silver-gains-fed-rate-hike-expectations-persist-holiday-trading",
+      "published": null
+    },
     {
       "id": "stockanalysis:1a4d703a340881d9",
       "titleEn": "Shopify stock is still under pressure: Is it a buy as valuation concerns persist?",
@@ -139,93 +193,30 @@
       "published": null
     },
     {
-      "id": "stockanalysis:c6951e472f0ae504",
-      "titleEn": "Was Alice Huang Chinese spy? US intelligence officials have different views",
-      "summaryEn": "Buy NVDA. The news is about disputed intelligence on a personal relationship, with the FBI saying there’s no proof she was an asset and the CIA saying it can’t confirm she passed sensitive info. That weakens the national-security justification for leadership disruption and supports Jensen’s reinstatement narrative. Second-order: Congress scrutiny will focus on process and export controls (Megaspeed diversion claims) rather than proving a direct China intel link to Jensen, which keeps the market focused on AI demand and limits a true earnings multiple reset. Key Risk: New evidence shows Alice Huang actually passed sensitive information to China, forcing a real national-security case against Jensen and triggering a deeper governance/leadership shake-up. Sell exposure to Nvidia’s Asia-Pacific cloud-partner supply chain via short NVDA or buy puts (NVDA 3–6 month puts). The article flags Megaspeed as under investigation in both the US and Singapore for alleged chip diversion to China—this is the tangible national-security angle. Second-order: even if Alice Huang’s spy status stays unproven, regulators can still tighten partner/export enforcement, slowing shipments and increasing compliance costs, pressuring near-term margins and guidance.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/26/was-alice-huang-chinese-spy-us-intelligence-officials-have-different-views/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:bec067ebb804c259",
-      "titleEn": "SanDisk stock has lost 75%: why is no analyst recommending a sell?",
-      "summaryEn": "Buy SNDK. The stock is down ~75% and analysts still see upside because multiyear customer contracts with minimum pricing can keep gross margins high even if NAND spot prices fall. Add in the near-term support: huge revenue/profit surge, 85%+ gross margin, and $5B buybacks with $10.5B more—this can mechanically lift EPS while the market panics about 2027 pricing. Key Risk: Contracts don’t hold in practice—customers renegotiate, minimum pricing clauses fail, or margin protection proves temporary, causing earnings to fall with NAND prices. Sell Micron Technology (MU). The news flags a 25–30% NAND bit supply jump in 2027 and contract price declines accelerating after Q1 2027. MU is more exposed to the broader memory pricing cycle and less likely to have the same level of contract-based margin floor than SNDK, so the market’s “cheap” memory multiples can stay cheap longer than expected.",
-      "source": "Stock Analysis",
-      "topic": "CRYPTO",
-      "link": "https://invezz.com/news/2026/11/26/sandisk-stock-crash-wall-street-bullish-outlook/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:7efcfb53b10f9f45",
-      "titleEn": "NVDA stock: how will new US chip-export rules affect Nvidia's revenue and growth?",
-      "summaryEn": "Buy. The rules mainly hit GPU leasing/data-center access via Southeast Asia, not core global AI demand. Nvidia still sells to hyperscalers and can redirect shipments; the article flags near-term disruption as longer-term (UBS: carve-outs but conservatism). If the market overreacts to “China loss,” NVDA’s dominant platform position should keep growth intact (Munster still expects >75% CY27 growth). Key Risk: US rules expand from “leasing/data centers” to directly blocking more of Nvidia’s shipments to China-linked end users, shrinking total addressable demand beyond redirection. Sell. SMCI packages Nvidia GPUs into servers; the article says partners including Super Micro told buyers in Malaysia/Singapore/Thailand/Indonesia they can’t ship. That directly pressures SMCI’s order flow and margins because it’s more exposed to cross-border server shipments and short-cycle build-to-order demand tied to GPU leasing.",
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/26/nvda-stock-how-will-new-us-chip-export-rules-affect-nvidias-revenue-and-growth/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:eb574f91693ab005",
-      "titleEn": "Why Beyond Meat stock surged 20% and could climb even higher",
-      "summaryEn": "Buy Beyond Meat (NASDAQ: BYND). The stock is already ripping on heavy volume with very high short interest (~34% of float). That setup often turns into a momentum squeeze: shorts rush to cover as price approaches the $5 psychological level, pulling in momentum traders and forcing more covering. Index-inclusion chatter can add fuel into December. Key Risk: BYND fails to hold above ~$3.70 and the squeeze fizzles as shorts don’t cover and momentum buyers disappear. Buy BYND ahead of the Russell Microcap Index reconstitution (after the proposed FTSE Russell additions). Passive/benchmark funds tracking the index may need to buy shares to match the new constituents, creating a concentrated demand window around mid-December. With BYND’s small market cap and high short interest, that demand can move the stock more than fundamentals alone.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/26/why-beyond-meat-stock-surged-20-and-could-climb-even-higher/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:315e7152f9c76665",
-      "titleEn": "Lloyds share price at risk: death cross, inverted cup &amp; handle forms",
-      "summaryEn": "Sell Lloyds (LLOY.L). The chart is bearish (death cross + inverted cup-and-handle) and the article flags ongoing sector rotation out of European banks, even though fundamentals are holding up. Technicals can keep driving flows lower toward 88p while investors profit-take after the multi-decade run. Key Risk: LLOY breaks above 96p and holds—technical breakdown would flip momentum and squeeze shorts. Short a basket of European banks most exposed to the same rotation: Barclays (BARC.L), NatWest (NWG.L), and Deutsche Bank (DBK.DE). The article shows broad weakness across the sector (each down sharply from highs), implying the move is driven by positioning and sentiment, not one-off company issues. This spreads single-name risk while staying aligned with the sector trend.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/26/lloyds-share-price-at-risk-death-cross-inverted-cup-handle-forms/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d22a302ae2342d00",
-      "titleEn": "UBS picks 3 luxury stocks with up to 25% upside for 2027",
-      "summaryEn": "Buy Richemont. UBS expects 10% organic sales growth in 2027 and jewellery-led outperformance (jewellery +19% at constant currency). The stock sold off on “normalisation” fears, but UBS also points to strong margin delivery and Richemont’s net cash (€7.7B) to absorb raw-material pressure. This sets up a rebound as investors refocus on jewellery strength and earnings durability into 2027. Key Risk: Jewellery growth keeps slowing faster than expected and margins compress, forcing UBS-style upside targets to reset lower. Buy Ferrari. UBS’s bull case is pricing power: operating profit rose even as shipments slipped (profit +12% with only -1% vehicles). Industrial free cash flow jumped 43%, and the order book visibility into 2028 plus higher-value model mix (F80/personalisation) should keep earnings growing even if luxury car demand softens.",
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/26/ubs-picks-3-luxury-stocks-with-up-to-25-upside-for-2027/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:d21f1cfa4ff424b9",
-      "titleEn": "AbCellera to Present at the Piper Sandler Healthcare Conference on December 1, 2026",
+      "id": "stockanalysis:dcd6e34c238ae6fd",
+      "titleEn": "TVS Motor Company Introduces TVS Armado, a New Cargo Tricycle",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261126707716/en/AbCellera-to-Present-at-the-Piper-Sandler-Healthcare-Conference-on-December-1-2026/",
+      "link": "https://www.businesswire.com/news/home/20261126523378/en/TVS-Motor-Company-Introduces-TVS-Armado-a-New-Cargo-Tricycle/",
       "published": null
     },
     {
-      "id": "stockanalysis:4f13eea5ddc4a3f2",
-      "titleEn": "CORRECTING and REPLACING NICE Recommends EKTERLY®▼ (sebetralstat) the First Oral, On-Demand Treatment Option for Hereditary Angioedema (HAE) Attacks",
+      "id": "stockanalysis:e1c9d38a93ea3cf8",
+      "titleEn": "Uber Secures Approximately 87% of Delivery Hero Shares Following End of Additional Acceptance Period",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261123272722/en/CORRECTING-and-REPLACING-NICE-Recommends-EKTERLY%C2%AE%E2%96%BC-sebetralstat-the-First-Oral-On-Demand-Treatment-Option-for-Hereditary-Angioedema-HAE-Attacks/",
+      "link": "https://www.businesswire.com/news/home/20261127161525/en/Uber-Secures-Approximately-87-of-Delivery-Hero-Shares-Following-End-of-Additional-Acceptance-Period/",
       "published": null
     },
     {
-      "id": "stockanalysis:9ab9855eba587123",
-      "titleEn": "Altria Response to Media Speculation on Possible Offer for Imperial Brands plc",
+      "id": "stockanalysis:aec9167029bc4b70",
+      "titleEn": "The Coca-Cola Company and Gutsche Family Investments Close on Sale of Controlling Interest in Coca-Cola Beverages Africa to Coca-Cola HBC AG",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261126123544/en/Altria-Response-to-Media-Speculation-on-Possible-Offer-for-Imperial-Brands-plc/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:ab15fd86bf8f6397",
-      "titleEn": "ILO, UN Global Compact, CONTAR and Suzano Launch Initiative That Turns Workers' Voices Into Intelligence for Managing and Preventing Risks in Rural Supply Chains",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261126705544/en/ILO-UN-Global-Compact-CONTAR-and-Suzano-Launch-Initiative-That-Turns-Workers%E2%80%99-Voices-Into-Intelligence-for-Managing-and-Preventing-Risks-in-Rural-Supply-Chains/",
+      "link": "https://www.businesswire.com/news/home/20261125243595/en/The-Coca-Cola-Company-and-Gutsche-Family-Investments-Close-on-Sale-of-Controlling-Interest-in-Coca-Cola-Beverages-Africa-to-Coca-Cola-HBC-AG/",
       "published": null
     }
   ]
