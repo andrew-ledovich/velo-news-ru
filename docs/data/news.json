@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-11-26T21:46:06.751926Z",
+  "generatedAt": "2026-11-27T03:51:17.031608Z",
   "sourceCount": 1,
-  "count": 26,
+  "count": 25,
   "items": [
+    {
+      "id": "stockanalysis:1a4d703a340881d9",
+      "titleEn": "Shopify stock is still under pressure: Is it a buy as valuation concerns persist?",
+      "summaryEn": "Buy SHOP in the $100–$115 zone. The article flags slowing growth, but it also shows net income strength and that Shopify is still the dominant e-commerce platform. The valuation is the real setup: forward P/E ~70 and PEG ~2.19 are pricing in perfection, so any stabilization in growth should trigger a sharp multiple re-rate. Technicals support a mean-reversion bounce from the $100 support area, with upside toward ~$150 if sentiment turns. Key Risk: Revenue growth keeps decelerating and GMV stays weak, so the market refuses to pay a premium multiple. Sell SHOP on any failed bounce into ~$150. The stock is still priced for high growth (Rule-of-40 only barely justifies it), while the article shows GMV softness (global GMV flat at 30% for three quarters; Europe down to 33%). If the next earnings cycle confirms slowing growth, the most likely move is further valuation compression, not just a slower growth story.",
+      "source": "Stock Analysis",
+      "topic": "MACRO",
+      "link": "https://invezz.com/news/2026/11/26/shopify-stock-is-still-under-pressure-is-it-a-good-buy-as-valuation-concerns-persist/",
+      "published": null
+    },
     {
       "id": "stockanalysis:5162b7b063e1cf7c",
       "titleEn": "India's central bank repatriates another 60 tonnes of gold in 2026 as share of FX reserves drops to 14.38%",
@@ -15,16 +24,16 @@
     {
       "id": "stockanalysis:a073472cd71b9e51",
       "titleEn": "Enbridge stock could be at risk of falling to $61.5 despite strong revenue growth",
-      "summaryEn": null,
+      "summaryEn": "Sell ENB. The article flags technical breakdown (below 50-week EMA), bearish flag continuation, and a downside target near $61.50 despite improving fundamentals. The group is de-risking together (ETP/EPD/KMI/WMB/WMB down), so ENB likely trades with the tape until the chart repairs. Key Risk: A sustained rally in midstream/energy transport that lifts the whole group and forces ENB back above the 50-week EMA, invalidating the $61.50 downside path. Short a basket of US midstream peers—Energy Transfer (ET), Enterprise Products Partners (EPD), Kinder Morgan (KMI), and Williams (WMB)—in proportion to their liquidity. The news shows broad sector retreat, not just ENB-specific issues, so the highest-conviction move is to fade continued multiple compression while the market is in correction/bear phases.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "CRYPTO",
       "link": "https://invezz.com/news/2026/11/26/enbridge-stock-could-be-at-risk-of-falling-to-61-5-despite-strong-revenue-growth/",
       "published": null
     },
     {
       "id": "stockanalysis:22b1aca2fbe00c6c",
       "titleEn": "These 3 retail stocks are best positioned to benefit from Thanksgiving in 2026",
-      "summaryEn": null,
+      "summaryEn": "Buy. Thanksgiving meal bundles ($35 for 10) pull grocery shoppers into a larger gift basket, and the online timing (sale overlapping prep + in-store Friday) supports higher conversion and repeat browsing. Expect incremental cart size and stronger US e-commerce momentum into Black Friday. Key Risk: Consumers cut discretionary add-ons and only buy the meal basket, shrinking the “bigger cart” effect. Buy. Prime Video in-game deal overlays create demand from people already watching, not just shoppers searching for deals. That drives higher retail sales plus second-order revenue from third-party merchant fulfillment and ad placements during peak attention windows.",
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/11/26/these-3-retail-stocks-are-best-positioned-to-benefit-from-thanksgiving-in-2026/",
@@ -33,16 +42,16 @@
     {
       "id": "stockanalysis:5d4937397b9d081a",
       "titleEn": "Air Canada stock is facing turbulence: Will the falling jet fuel prices rescue it?",
-      "summaryEn": null,
+      "summaryEn": "Buy AC. Jet fuel is already down ~20% month-over-month and crude is under pressure; that should flow into lower fuel expense and let AC re-raise guidance. The stock is also technically supported by an ascending trendline; a bounce toward $25 is the near-term catalyst if fuel keeps sliding. Key Risk: Jet fuel stops falling (oil spikes again) and AC’s guidance stays cut, turning the “fuel relief” story into a dead end. Buy USO (or a similar crude/energy exposure) only as a tactical hedge against oil staying weak; pair with selling/avoiding airlines that are most fuel-cost sensitive. The news implies a continued decline in jet fuel as war odds shift toward de-escalation, so the market should reward airlines with better cost control and punish those without.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "CRYPTO",
       "link": "https://invezz.com/news/2026/11/26/air-canada-stock-is-facing-turbulence-will-the-falling-jet-fuel-prices-rescue-it/",
       "published": null
     },
     {
       "id": "stockanalysis:84f9b8287cb1a7e6",
       "titleEn": "These 3 stocks have emerged winners amidst the AI rout",
-      "summaryEn": null,
+      "summaryEn": "Buy CLX. AI sell-off is pushing money into “boring” staples with steady replacement demand. The article cites improved market share and newer products driving growth, but the stock is still reacting to a potentially tight profit outlook. That sets up upside if share gains convert into better margins as costs stabilize and the GOJO-related growth proves durable. Key Risk: Margins fail to expand—cost pressure keeps adjusted earnings stuck near the bottom of guidance despite share gains. Buy JBLU. The rally is supported by measurable operating progress: stronger revenue offset most higher fuel costs, and revenue per unit of capacity rose ~15% even with big capacity growth. The Dec. 8 domestic first-class service is a clear catalyst to lift fares per flight and improve mix as the turnaround narrative gains traction.",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/11/26/these-3-stocks-have-emerged-winners-amidst-the-ai-rout-boston-beer-clorox-jetblue/",
@@ -51,9 +60,9 @@
     {
       "id": "stockanalysis:931bc23b2e4e8096",
       "titleEn": "Royal Bank of Canada (RBC) forecast ahead of earnings: will it rebound or fall?",
-      "summaryEn": null,
+      "summaryEn": "Buy RBC (RY.TO). The article flags strong fundamentals in the latest quarter (revenue +11%, net income +$6B, ROE 17.9%) and continued growth expected, led by wealth management (+32% in the quarter). Even with capital markets pressure, the mix shift toward fee-based wealth should support earnings and limit downside on the Dec 3 print. Technicals show a correction near support (23.6% Fib / Oct 8 low), setting up a rebound if guidance/costs don’t worsen. Key Risk: Capital markets weakness (deal/investment banking) accelerates and overwhelms wealth management gains, causing a margin/cost miss on Dec 3. Sell Canadian bank exposure via iShares Canadian Financials ETF (XKCB). The stock is already in a correction and the article notes broader US/Canada bank weakness plus rising non-interest expenses (+6%). With deal value down 41% globally and capital markets likely still pressured, the sector can stay heavy even if RBC holds up. Short the ETF to express continued risk-off into earnings.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "CRYPTO",
       "link": "https://invezz.com/news/2026/11/26/royal-bank-of-canada-rbc-forecast-ahead-of-earnings-will-it-rebound-or-fall/",
       "published": null
     },
@@ -78,16 +87,16 @@
     {
       "id": "stockanalysis:b86cd640b0016f83",
       "titleEn": "Celestica stock down 57% from June highs: Why it fell and what comes next",
-      "summaryEn": null,
+      "summaryEn": "Buy CLS for a value rebound. Forward P/E ~16.5 vs tech ~18.5 plus accelerating CCS growth (Q3 revenue +83%, EPS +41%) sets up a fast earnings-driven snapback once the market stops de-risking AI hardware supply chains. Key Risk: AI/Cloud capex keeps falling and CLS guidance gets cut, so the “cheap” multiple is justified by deteriorating fundamentals. Sell CLS. The article flags a death cross, lower-lows trend, broken support ($275), and head-and-shoulders continuation targeting ~$200. Even with strong Q3 numbers, the stock is being driven by macro/AI risk-off and technical momentum, so rallies likely get sold until price reclaims ~$320.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "AI",
       "link": "https://invezz.com/news/2026/11/26/celestica-stock-down-57-from-june-highs-why-it-fell-and-what-comes-next/",
       "published": null
     },
     {
       "id": "stockanalysis:8d31116a472c6cfc",
       "titleEn": "Why is Meta facing protests and legal challenges in India?",
-      "summaryEn": null,
+      "summaryEn": "Buy GOOG. If Meta’s India moderation friction reduces political reach and advertiser confidence, budgets can rotate to Google/YouTube where compliance is less tied to the same “identical content” takedown mechanics. YouTube’s ad demand should be relatively more resilient, and Google’s broader ad stack can capture share as Meta’s platform experience becomes more restrictive. Key Risk: Meta’s India issues don’t materially hurt ad performance, so advertisers don’t shift spend to Google/YouTube. Sell META. India is now forcing mandatory, fast (3-hour) automated takedowns and proactive blocking of “identical” content. Reuters-style disclosures already show a step-change in restricted items (5.4M in H1’26 vs ~70K in all of 2025), which means higher compliance cost, higher risk of over-blocking, and more political/legal churn that can pressure ad engagement and margins.",
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/11/26/why-is-meta-facing-protests-and-legal-challenges-in-india/",
@@ -96,16 +105,16 @@
     {
       "id": "stockanalysis:56055c8197c7e097",
       "titleEn": "Micron and SanDisk stocks among the cheapest in tech: should you buy?",
-      "summaryEn": null,
+      "summaryEn": "Buy Micron. The article shows extreme valuation (MU ~8.1x trailing, ~3.4x forward) while fundamentals are still surging (fiscal Q4 revenue $54.23B vs $11.32B a year ago; next-quarter forecast $61.5B). If AI data-center buildouts keep driving HBM/DRAM and SSD content, earnings can stay “less cyclical” than past memory booms, letting the multiple re-rate upward from distressed levels. Key Risk: AI-driven memory demand cools faster than supply ramps, pushing DRAM/NAND prices down and collapsing earnings again. Buy SanDisk. It’s priced like a peak-cycle stock (4.7x trailing; ~2.58x forward) despite still-strong near-term sales ($11B fiscal Q1 revenue; next quarter $12.2B–$12.6B). If the market is over-discounting a downturn, the upside is multiple expansion plus stabilization in NAND pricing as hyperscalers keep buying storage for AI workloads.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "AI",
       "link": "https://invezz.com/news/2026/11/26/micron-and-sandisk-stocks-among-the-cheapest-in-tech-should-you-buy/",
       "published": null
     },
     {
       "id": "stockanalysis:02ab556b5fe528f9",
       "titleEn": "Buy or short Anthropic? Analysts within same Wall Street firm can't decide",
-      "summaryEn": null,
+      "summaryEn": "Buy Anthropic (ANT). The bull case is it becomes the “OS for work” via Claude—moving from selling access to becoming a business platform. That’s why the stock can re-rate even before profits: falling inference costs + more compute capacity can lift margins, and the market is currently pricing only near-term uncertainty. Key setup: use the post-IPO volatility to enter near the ~$80 area rather than chasing the debut spike. Key Risk: Post-IPO lockup expirations trigger sustained selling and the stock never gets a chance to prove platform traction. Short Anthropic (ANT). The bear case is simple: scaling requires massive, expensive compute, and higher data-center financing costs (CoreWeave-style pressure) makes growth uneconomic. Add competition (OpenAI and others) compressing token prices, forcing higher usage just to stand still—so revenue growth doesn’t translate into earnings. Key setup: fade rallies while the market is still unsure and the stock is trading below IPO levels.",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/11/26/buy-or-short-anthropic-analysts-within-same-wall-street-firm-cant-decide/",
@@ -123,43 +132,43 @@
     {
       "id": "stockanalysis:d0f04b442bb0e5f2",
       "titleEn": "Why Rolls-Royce stock could be entering another powerful growth phase",
-      "summaryEn": null,
+      "summaryEn": "Buy RR. The Babcock £8.7bn defence deal is a sentiment tailwind, but the real edge is operating leverage: rising large-engine flying hours (114% of 2019) expands usage-linked service revenue, while Power Systems order intake is surging (62% higher; £8.6bn backlog). Add accelerated buybacks (£1.5bn) to support EPS and valuation while earnings estimates rise. Key Risk: Data-centre gas engine oversupply drives down prices and margins, wiping out Power Systems profit growth. Buy BAB. The submarine support contract signals renewed UK defence spending momentum and should lift near-term order visibility and contract execution sentiment across the defence supply chain, including engineering services where BAB is positioned.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "CRYPTO",
       "link": "https://invezz.com/news/2026/11/26/why-rolls-royce-stock-could-be-entering-another-powerful-growth-phase/",
       "published": null
     },
     {
       "id": "stockanalysis:c6951e472f0ae504",
       "titleEn": "Was Alice Huang Chinese spy? US intelligence officials have different views",
-      "summaryEn": null,
+      "summaryEn": "Buy NVDA. The news is about disputed intelligence on a personal relationship, with the FBI saying there’s no proof she was an asset and the CIA saying it can’t confirm she passed sensitive info. That weakens the national-security justification for leadership disruption and supports Jensen’s reinstatement narrative. Second-order: Congress scrutiny will focus on process and export controls (Megaspeed diversion claims) rather than proving a direct China intel link to Jensen, which keeps the market focused on AI demand and limits a true earnings multiple reset. Key Risk: New evidence shows Alice Huang actually passed sensitive information to China, forcing a real national-security case against Jensen and triggering a deeper governance/leadership shake-up. Sell exposure to Nvidia’s Asia-Pacific cloud-partner supply chain via short NVDA or buy puts (NVDA 3–6 month puts). The article flags Megaspeed as under investigation in both the US and Singapore for alleged chip diversion to China—this is the tangible national-security angle. Second-order: even if Alice Huang’s spy status stays unproven, regulators can still tighten partner/export enforcement, slowing shipments and increasing compliance costs, pressuring near-term margins and guidance.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "AI",
       "link": "https://invezz.com/news/2026/11/26/was-alice-huang-chinese-spy-us-intelligence-officials-have-different-views/",
       "published": null
     },
     {
       "id": "stockanalysis:bec067ebb804c259",
       "titleEn": "SanDisk stock has lost 75%: why is no analyst recommending a sell?",
-      "summaryEn": null,
+      "summaryEn": "Buy SNDK. The stock is down ~75% and analysts still see upside because multiyear customer contracts with minimum pricing can keep gross margins high even if NAND spot prices fall. Add in the near-term support: huge revenue/profit surge, 85%+ gross margin, and $5B buybacks with $10.5B more—this can mechanically lift EPS while the market panics about 2027 pricing. Key Risk: Contracts don’t hold in practice—customers renegotiate, minimum pricing clauses fail, or margin protection proves temporary, causing earnings to fall with NAND prices. Sell Micron Technology (MU). The news flags a 25–30% NAND bit supply jump in 2027 and contract price declines accelerating after Q1 2027. MU is more exposed to the broader memory pricing cycle and less likely to have the same level of contract-based margin floor than SNDK, so the market’s “cheap” memory multiples can stay cheap longer than expected.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "CRYPTO",
       "link": "https://invezz.com/news/2026/11/26/sandisk-stock-crash-wall-street-bullish-outlook/",
       "published": null
     },
     {
       "id": "stockanalysis:7efcfb53b10f9f45",
       "titleEn": "NVDA stock: how will new US chip-export rules affect Nvidia's revenue and growth?",
-      "summaryEn": null,
+      "summaryEn": "Buy. The rules mainly hit GPU leasing/data-center access via Southeast Asia, not core global AI demand. Nvidia still sells to hyperscalers and can redirect shipments; the article flags near-term disruption as longer-term (UBS: carve-outs but conservatism). If the market overreacts to “China loss,” NVDA’s dominant platform position should keep growth intact (Munster still expects >75% CY27 growth). Key Risk: US rules expand from “leasing/data centers” to directly blocking more of Nvidia’s shipments to China-linked end users, shrinking total addressable demand beyond redirection. Sell. SMCI packages Nvidia GPUs into servers; the article says partners including Super Micro told buyers in Malaysia/Singapore/Thailand/Indonesia they can’t ship. That directly pressures SMCI’s order flow and margins because it’s more exposed to cross-border server shipments and short-cycle build-to-order demand tied to GPU leasing.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "AI",
       "link": "https://invezz.com/news/2026/11/26/nvda-stock-how-will-new-us-chip-export-rules-affect-nvidias-revenue-and-growth/",
       "published": null
     },
     {
       "id": "stockanalysis:eb574f91693ab005",
       "titleEn": "Why Beyond Meat stock surged 20% and could climb even higher",
-      "summaryEn": null,
+      "summaryEn": "Buy Beyond Meat (NASDAQ: BYND). The stock is already ripping on heavy volume with very high short interest (~34% of float). That setup often turns into a momentum squeeze: shorts rush to cover as price approaches the $5 psychological level, pulling in momentum traders and forcing more covering. Index-inclusion chatter can add fuel into December. Key Risk: BYND fails to hold above ~$3.70 and the squeeze fizzles as shorts don’t cover and momentum buyers disappear. Buy BYND ahead of the Russell Microcap Index reconstitution (after the proposed FTSE Russell additions). Passive/benchmark funds tracking the index may need to buy shares to match the new constituents, creating a concentrated demand window around mid-December. With BYND’s small market cap and high short interest, that demand can move the stock more than fundamentals alone.",
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/11/26/why-beyond-meat-stock-surged-20-and-could-climb-even-higher/",
@@ -168,7 +177,7 @@
     {
       "id": "stockanalysis:315e7152f9c76665",
       "titleEn": "Lloyds share price at risk: death cross, inverted cup &amp; handle forms",
-      "summaryEn": null,
+      "summaryEn": "Sell Lloyds (LLOY.L). The chart is bearish (death cross + inverted cup-and-handle) and the article flags ongoing sector rotation out of European banks, even though fundamentals are holding up. Technicals can keep driving flows lower toward 88p while investors profit-take after the multi-decade run. Key Risk: LLOY breaks above 96p and holds—technical breakdown would flip momentum and squeeze shorts. Short a basket of European banks most exposed to the same rotation: Barclays (BARC.L), NatWest (NWG.L), and Deutsche Bank (DBK.DE). The article shows broad weakness across the sector (each down sharply from highs), implying the move is driven by positioning and sentiment, not one-off company issues. This spreads single-name risk while staying aligned with the sector trend.",
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/11/26/lloyds-share-price-at-risk-death-cross-inverted-cup-handle-forms/",
@@ -177,19 +186,19 @@
     {
       "id": "stockanalysis:d22a302ae2342d00",
       "titleEn": "UBS picks 3 luxury stocks with up to 25% upside for 2027",
-      "summaryEn": null,
+      "summaryEn": "Buy Richemont. UBS expects 10% organic sales growth in 2027 and jewellery-led outperformance (jewellery +19% at constant currency). The stock sold off on “normalisation” fears, but UBS also points to strong margin delivery and Richemont’s net cash (€7.7B) to absorb raw-material pressure. This sets up a rebound as investors refocus on jewellery strength and earnings durability into 2027. Key Risk: Jewellery growth keeps slowing faster than expected and margins compress, forcing UBS-style upside targets to reset lower. Buy Ferrari. UBS’s bull case is pricing power: operating profit rose even as shipments slipped (profit +12% with only -1% vehicles). Industrial free cash flow jumped 43%, and the order book visibility into 2028 plus higher-value model mix (F80/personalisation) should keep earnings growing even if luxury car demand softens.",
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://invezz.com/news/2026/11/26/ubs-picks-3-luxury-stocks-with-up-to-25-upside-for-2027/",
       "published": null
     },
     {
-      "id": "stockanalysis:7191fa632b2c78c0",
-      "titleEn": "Free SpaceX stock: what's the catch in Elon Musk's $18 billion giveaway?",
+      "id": "stockanalysis:d21f1cfa4ff424b9",
+      "titleEn": "AbCellera to Present at the Piper Sandler Healthcare Conference on December 1, 2026",
       "summaryEn": null,
       "source": "Stock Analysis",
       "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/26/elon-musk-free-spacex-stock-18-billion-giveaway/",
+      "link": "https://www.businesswire.com/news/home/20261126707716/en/AbCellera-to-Present-at-the-Piper-Sandler-Healthcare-Conference-on-December-1-2026/",
       "published": null
     },
     {
@@ -217,24 +226,6 @@
       "source": "Stock Analysis",
       "topic": "MACRO",
       "link": "https://www.businesswire.com/news/home/20261126705544/en/ILO-UN-Global-Compact-CONTAR-and-Suzano-Launch-Initiative-That-Turns-Workers%E2%80%99-Voices-Into-Intelligence-for-Managing-and-Preventing-Risks-in-Rural-Supply-Chains/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:726f5fb2020bbc86",
-      "titleEn": "Maxell's All-Solid-State Battery Adopted for Yokogawa's PLC (Programmable Logic Controller) for Process Automation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "EV",
-      "link": "https://www.businesswire.com/news/home/20261126944072/en/Maxell%E2%80%99s-All-Solid-State-Battery-Adopted-for-Yokogawa%E2%80%99s-PLC-Programmable-Logic-Controller-for-Process-Automation/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:82fbb7487d8d678a",
-      "titleEn": "Canopy Growth's STORZ &amp; BICKEL Honoured for Whole-Flower Vaporization Innovation",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://www.businesswire.com/news/home/20261126342410/en/Canopy-Growth%E2%80%99s-STORZ-BICKEL-Honoured-for-Whole-Flower-Vaporization-Innovation/",
       "published": null
     }
   ]
