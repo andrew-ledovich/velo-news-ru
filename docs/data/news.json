@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-28T03:52:40.765119Z",
+  "generatedAt": "2026-11-28T12:32:42.483641Z",
   "sourceCount": 1,
-  "count": 16,
+  "count": 14,
   "items": [
     {
       "id": "stockanalysis:e2bed8a3fb777aae",
@@ -51,7 +51,7 @@
     {
       "id": "stockanalysis:25233cda01148a14",
       "titleEn": "Nasdaq, Dow rise over 500 pts as Anthropic pops 11% to lead AI rebound",
-      "summaryEn": null,
+      "summaryEn": "Buy Anthropic (NASDAQ: ANTHR). The stock is up ~11% and reclaimed above its $83 IPO price after heavy infrastructure/financing fears. This is a clean “de-risking” setup: investors are willing to pay again for AI exposure as the market rotates back into beaten-down growth. Key follow-through catalyst is continued AI sentiment improving alongside semis/data-center names. Key Risk: Another wave of funding/infrastructure cost concerns that forces ANTHR to guide higher spending without matching revenue growth. Buy iShares Semiconductor ETF (SOXX) (or SMH). The article shows broad AI rebound participation: Sandisk, Micron, AMD, Broadcom, and the Philadelphia Semiconductor Index all surged while the Nasdaq rallied hard. This is second-order breadth: when the whole AI supply chain moves together, it usually signals the market is rotating back into the entire earnings engine, not just one headline stock.",
       "source": "Stock Analysis",
       "topic": "AI",
       "link": "https://invezz.com/news/2026/11/27/nasdaq-dow-rise-over-500-pts-as-anthropic-pops-11-to-lead-ai-rebound/",
@@ -69,7 +69,7 @@
     {
       "id": "stockanalysis:94e1961680d7564a",
       "titleEn": "Why Tesla shares jumped 5% on Friday?",
-      "summaryEn": null,
+      "summaryEn": "Buy TSLA. Germany’s antitrust filing to acquire EMAG hints Tesla is securing precision-machining capability for Optimus actuators—exactly the bottleneck for reliable, low-cost mass production. If Tesla can shorten retooling cycles and cut scrap/rework, Optimus economics improve and the market can re-rate TSLA on faster commercialization plus potential supervised-driving EU approval as a near-term catalyst. Key Risk: Tesla can’t integrate EMAG fast enough (or the acquired assets don’t match Optimus needs), so Optimus costs and timelines don’t improve. Buy EMAG. The filing puts EMAG on the radar as a likely acquisition target; even without disclosed assets/pricing, the probability of a deal and deal-related premium tends to lift the stock. If Tesla is serious about actuator machining, EMAG’s core equipment and know-how become more valuable.",
       "source": "Stock Analysis",
       "topic": "EV",
       "link": "https://invezz.com/news/2026/11/27/why-tesla-shares-jumped-5-on-friday-emag/",
@@ -78,9 +78,9 @@
     {
       "id": "stockanalysis:57c890a64377c442",
       "titleEn": "Why Nvidia pared opening gains to decline again on Friday?",
-      "summaryEn": null,
+      "summaryEn": "Sell NVDA. The news stacks three separate threats: (1) Blackwell hardware in a Shanghai facility tied to the Alice Huang controversy raises export-licensing and compliance risk, (2) new US export controls are already forcing Dell/Supermicro to halt shipments of Nvidia-chip servers across Southeast Asia, and (3) CreditWatch Negative signals governance/oversight risk that can lead to a downgrade. Together, this pressures both near-term sales and the multiple. Key Risk: A fast, credible resolution that Nvidia is fully compliant (licenses obtained or hardware use proven legitimate) plus clear guidance that export-control revenue at risk is far smaller than estimates. Sell Super Micro Computer (SMCI). The article names Supermicro as one of the manufacturing partners told to halt shipments of servers containing Nvidia chips to Malaysia/Singapore/Thailand/Indonesia. That’s direct demand disruption for SMCI’s AI server pipeline, and it compounds NVDA-specific compliance/export fears into a broader supply-chain hit.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "AI",
       "link": "https://invezz.com/news/2026/11/27/why-nvidia-pared-opening-gains-to-decline-again-on-friday/",
       "published": null
     },
@@ -96,18 +96,18 @@
     {
       "id": "stockanalysis:c05321012fc9d2b5",
       "titleEn": "What's driving SanDisk stock higher today?",
-      "summaryEn": null,
+      "summaryEn": "Buy SNDK. The Nvidia GB200 rack demo shows AI can use far more NAND via SSD “memory expansion,” and SanDisk already has Kioxia JV coverage through 2034 plus accelerating data-center revenue (+61% QoQ) with fiscal Q2 revenue guidance ($12.2B+). The stock is deeply off YTD highs, so any sustained shipment/margin confirmation can re-rate the name quickly. Key Risk: NAND prices fall hard enough that higher volumes don’t translate into profit growth (margin compression wipes out the earnings rebound). Buy Micron (MU) as a higher-beta way to play the same NAND demand theme. If AI servers truly need more SSD-backed flash capacity, the whole NAND supply chain benefits, and MU is positioned to capture incremental pricing/volume as data-center builds expand.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "AI",
       "link": "https://invezz.com/news/2026/11/27/whats-driving-sandisk-stock-higher-today/",
       "published": null
     },
     {
       "id": "stockanalysis:0647d4b75c0863c8",
       "titleEn": "Micron, SK Hynix, SanDisk stocks rise but what's the verdict on demand outlook?",
-      "summaryEn": null,
+      "summaryEn": "Buy MU. The article flags oversupply risk, but also notes supply may stay tight into 2028 because capacity is being steered toward AI-focused HBM and manufacturers can cut production to defend LTA pricing. With MU down >35% in a month, the market is pricing a worse demand collapse than the base-case implies; the rebound signals buyers are already positioning for a “not-quite-glut” outcome. Key Risk: Data-center permitting delays turn into a real demand break and prices roll over faster than manufacturers can cut supply. Buy SK Hynix. It’s up ~6% on the day while the core debate is whether AI infrastructure spending persists. Hynix is better positioned than pure-play conventional DRAM because AI systems pull more HBM, and the article explicitly says capacity allocation toward AI can keep conventional supply constrained. If AI capex holds, Hynix should outperform as the market reprices “tight supply longer.”",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "AI",
       "link": "https://invezz.com/news/2026/11/27/micron-sk-hynix-sandisk-stocks-rise-but-whats-the-verdict-on-demand-outlook/",
       "published": null
     },
@@ -123,28 +123,10 @@
     {
       "id": "stockanalysis:3e3faba9308942a9",
       "titleEn": "Why are CoreWeave and Nebius stocks soaring despite mounting debt risks?",
-      "summaryEn": null,
+      "summaryEn": "Buy CRWV. The key catalyst is a $4.5B Meta-linked loan at ~7–7.5% secured by GPUs and tied to Meta demand—far cheaper than ~18% bond yields. That signals lenders believe cash flows are contract-backed, and it can quickly reduce near-term refinancing stress. The stock’s rebound after heavy shorting also gives upside momentum if the market starts pricing the cheaper funding path. Key Risk: The loan terms fall apart or Meta-linked collateral doesn’t translate into real repayment coverage, forcing CRWV back into high-cost refinancing. Buy NBIS. Management expects $17–$20B of customer prepayments in 2027 plus contract-backed borrowing to cover most of $40–$45B capex, leaving a smaller funding gap. With a cash cushion (~$7.4B), the market can re-rate NBIS if investors believe prepayments are durable and not delayed.",
       "source": "Stock Analysis",
-      "topic": "MACRO",
+      "topic": "CRYPTO",
       "link": "https://invezz.com/news/2026/11/27/coreweave-nebius-stocks-surge-despite-debt-risks/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:63ecde5880081ffb",
-      "titleEn": "Micron stock is highly undervalued as the Wyckoff Theory takes shape",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "MACRO",
-      "link": "https://invezz.com/news/2026/11/27/micron-stock-is-highly-undervalued-as-the-wyckoff-theory-takes-shape/",
-      "published": null
-    },
-    {
-      "id": "stockanalysis:4b2692d964d0f321",
-      "titleEn": "Missed the Anthropic IPO? Is now a better time to buy the stock?",
-      "summaryEn": null,
-      "source": "Stock Analysis",
-      "topic": "AI",
-      "link": "https://invezz.com/news/2026/11/27/anthropic-stock-buy-after-ipo-selloff/",
       "published": null
     }
   ]
